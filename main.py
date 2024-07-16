@@ -64,9 +64,9 @@ def scrape_profile(profile_url, department):
             "Selected Publications") if "Selected Publications" in full_text else -1
 
         research_interests = full_text[
-                             research_interests_start:research_interests_end].strip() if research_interests_start != -1 else "N/A"
+                             research_interests_start+len("research interests "):research_interests_end].strip() if research_interests_start != -1 else "N/A"
         selected_publications = full_text[
-                                selected_publications_start:].strip() if selected_publications_start != -1 else "N/A"
+                                selected_publications_start+len("selected publications "):].strip() if selected_publications_start != -1 else "N/A"
 
         # Extract external links excluding specific domains
         external_links = [a['href'] for a in profile_soup.find_all('a', href=True) if
