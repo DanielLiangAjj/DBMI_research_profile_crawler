@@ -134,15 +134,15 @@ def scrape_profile(profile_url, department, retries = 3, wait_time = 3):
                                     selected_publications_start+len("selected publications "):].strip() if selected_publications_start != -1 else "N/A"
 
             # Second Method to extract Research Interests, Selected Publications from html
-            if research_intro == "N/A" and name == 'N/A':
+            if research_intro == "N/A":
                 name, research_intro = hidden_content.extract_info_from_html(profile_soup)
 
             # Third Method to extract Research Interests, for the format of physiology specifically
-            if research_intro == "N/A" and name == 'N/A':
+            if research_intro == "N/A" and department == "Physiology and Cellular Biophysics":
                 full = profile_soup.get_text(separator='|', strip=True)
                 name, research_interests, research_intro = hidden_content.extract_research_info_physiology_format(full, profile_soup)
 
-            if research_intro == "N/A" and name == 'N/A':
+            if research_intro == "N/A" and department == "Systems Biology":
                 name, research_intro = hidden_content.scrape_faculty_info_system_biology(profile_soup)
                 research_interests = "N/A"
                 selected_publications = "N/A"
