@@ -5,6 +5,9 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 from bs4 import BeautifulSoup
+from bs4.element import Tag
+import requests
+
 
 # Setup Chrome options
 chrome_options = Options()
@@ -80,3 +83,75 @@ def scrape_hidden(link, faculty_data, department):
             "External Links": "N/A"
         })
 
+def extract_info_from_html(profile_soup):
+    # Extract the name
+    name_tag = profile_soup.find('h2', style="white-space:pre-wrap;")
+    name = name_tag.get_text(strip=True) if name_tag else "N/A"
+
+    # Extract the research introduction
+    research_intro = ""
+    research_intro_tag = profile_soup.find('strong', string='Research')
+    if research_intro_tag:
+        next_sibling = research_intro_tag.next_sibling
+        while next_sibling:
+            if isinstance(next_sibling, Tag):
+                research_intro += next_sibling.get_text(separator=' ', strip=True)
+            else:
+                research_intro += next_sibling.strip()
+            next_sibling = next_sibling.next_sibling
+            if isinstance(next_sibling, Tag) and next_sibling.name == 'strong':
+                break  # Stop if encounter another strong tag, indicating a new section
+
+    research_intro = research_intro.strip() if research_intro else "N/A"
+
+    return name, research_intro
+
+def extract_research_info_physiology_format(full_text, soup):
+    # name_element = soup.find('h2', {'class': 'font_2 wixui-rich-text__text'})
+    # name = name_element.get_text(strip=True) if name_element else 'Name not found'
+    #
+    # # Extract the research intro
+    # research_intro_element = None
+    # for element in soup.find_all('div', {'data-testid': 'richTextElement'}):
+    #     if 'Professor of Physiology' in element.get_text():
+    #         research_intro_element = element.find('p', {'class': 'font_7 wixui-rich-text__text'})
+    #         break
+    # research_intro = research_intro_element.get_text(
+    #     strip=True) if research_intro_element else 'Research intro not found'
+    #
+    #
+    # # Extract the research interests
+    # research_interests = []
+    # for p in soup.find_all('p', class_='font_8 wixui-rich-text__text'):
+    #     text = p.get_text(strip=True)
+    #     if text:  # Skip empty paragraphs
+    #         research_interests.append(text)
+    # return name,  " ".join(research_interests[1:]), research_intro
+    lst = full_text.split('|')
+    name = ""
+    research_interests = ""
+    for i in range(len(lst)):
+        if "use tab to navigate" in lst[i].lower():
+            name = lst[i+1]
+        if "current research" == lst[i].lower():
+            research_interests = lst[i-1]
+    research_intro = []
+    for p in soup.find_all('p', class_='font_8 wixui-rich-text__text'):
+        text = p.get_text(strip=True)
+        if text:  # Skip empty paragraphs
+            research_intro.append(text)
+    return name if name != "" else "N/A", research_interests if research_interests != "" else "N/A", " ".join(research_intro[1:]) if len(research_intro) != 0 else "N/A"
+
+
+def scrape_faculty_info_system_biology(soup):
+    # Find the name
+    name_tag = soup.find('h1', {'id': 'page-title'})
+
+    name = name_tag.get_text(strip=True)
+
+    # Find the research introduction
+    intro_tag = soup.find('div', {'class': 'field--name-field-profile'})
+    intro = intro_tag.get_text(strip=True)
+
+
+    return name, intro
