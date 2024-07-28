@@ -31,6 +31,8 @@ def get_chatgpt_response(research_articles):
         {"role": "user", "content": "Now do the same for the following researcher: "+research_articles}
     ])
     return response.choices[0].message.content
+def parser_response(response):
+    return response[response.index('{'):response.index('}')+1]
 
 if __name__ == "__main__":
     input_file = "researcher_profile.json"
@@ -41,6 +43,7 @@ if __name__ == "__main__":
     for articles in research_articles_list:
         articles_json_str = json.dumps(articles)
         response = get_chatgpt_response(articles_json_str)
+        response = parser_response(response)
         print(response)
         json_list = json.loads(response)
         summaries.append(json_list)
