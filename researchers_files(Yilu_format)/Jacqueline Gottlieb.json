@@ -1,0 +1,1939 @@
+[
+    {
+        "PMID": "38969505",
+        "Title": "Neural Representations of Sensory Uncertainty and Confidence are Associated with Perceptual Curiosity.",
+        "Abstract": "Humans are immensely curious and motivated to reduce uncertainty, but little is known about the neural mechanisms that generate curiosity. Curiosity is inversely associated with confidence, suggesting that it is triggered by states of low confidence (subjective uncertainty). The neural mechanisms of this process, however, have been little investigated. What are the mechanisms through which uncertainty about an event gives rise to curiosity about that event? Inspired by studies of sensory uncertainty, we hypothesized that visual areas provide multivariate representations of uncertainty, which are then read out by higher-order structures to generate signals of confidence and, ultimately, trigger curiosity. During fMRI, participants (17 female, 15 male) performed a new task in which they rated their confidence in identifying distorted images of animals and objects and their curiosity to see the clear image. To link sensory certainty and curiosity, we measured the activity evoked by each image in occipitotemporal cortex (OTC) and devised a new metric of \"OTC Certainty\" indicating the strength of evidence this activity conveys about the animal vs. object categories. We show that, consistent with findings using trivia questions, perceptual curiosity peaked at low confidence. Moreover, OTC Certainty negatively correlated with curiosity, establishing a link between curiosity and a multivariate representation of sensory uncertainty. Finally, univariate (average) activity in two frontal areas - vmPFC and ACC - correlated positively with confidence and negatively with curiosity, and the vmPFC mediated the relationship between OTC Certainty and curiosity. The results suggest that multiple mechanisms link curiosity with representations of confidence and uncertainty.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Michael",
+                "Last Name": "Cohanpour",
+                "Affiliation": "Department of Neuroscience, Columbia University."
+            },
+            {
+                "First Name": "Mariam",
+                "Last Name": "Aly",
+                "Affiliation": "Department of Psychology, Columbia University."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University."
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38337012",
+        "Title": "The parieto-occipital cortex is a candidate neural substrate for the human ability to approximate Bayesian inference.",
+        "Abstract": "Adaptive decision-making often requires one to infer unobservable states based on incomplete information. Bayesian logic prescribes that individuals should do so by estimating the posterior probability by integrating the prior probability with new information, but the neural basis of this integration is incompletely understood. We record fMRI during a task in which participants infer the posterior probability of a hidden state while we independently modulate the prior probability and likelihood of evidence regarding the state; the task incentivizes participants to make accurate inferences and dissociates expected value from posterior probability. Here we show that activation in a region of left parieto-occipital cortex independently tracks the subjective posterior probability, combining its subcomponents of prior probability and evidence likelihood, and reflecting the individual participants' systematic deviations from objective probabilities. The parieto-occipital cortex is thus a candidate neural substrate for humans' ability to approximate Bayesian inference by integrating prior beliefs with new information.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Bayes Theorem",
+            "Cerebral Cortex",
+            "Probability",
+            "Occipital Lobe"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas M",
+                "Last Name": "Singletary",
+                "Affiliation": "Doctoral Program in Neurobiology and Behavior, Columbia University, New York, NY, USA. ns3068@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA. jg2141@columbia.edu."
+            },
+            {
+                "First Name": "Guillermo",
+                "Last Name": "Horga",
+                "Affiliation": "New York State Psychiatric Institute, New York, NY, USA. guillermo.horga@nyspi.columbia.edu."
+            }
+        ],
+        "Journal": "Communications biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38076800",
+        "Title": "A Distinct Neural Code Supports Prospection of Future Probabilities During Instrumental Information-Seeking.",
+        "Abstract": "To make adaptive decisions, we must actively demand information, but relatively little is known about the mechanisms of active information gathering. An open question is how the brain estimates expected information gains (EIG) when comparing the current decision uncertainty with the uncertainty that is expected after gathering information. We examined this question using fMRI in a task in which people placed bids to obtain information in conditions that varied independently by prior decision uncertainty, information diagnosticity, and the penalty for an erroneous choice. Consistent with value of information theory, bids were sensitive to EIG and its components of prior certainty and expected posterior certainty. Expected posterior certainty was decoded above chance from multivoxel activation patterns in the posterior parietal and extrastriate cortices. This representation was independent of instrumental rewards and overlapped with distinct representations of EIG and prior certainty. Thus, posterior parietal and extrastriate cortices are candidates for mediating the prospection of posterior probabilities as a key step to estimate EIG during active information gathering.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Nicholas M",
+                "Last Name": "Singletary",
+                "Affiliation": "Doctoral Program in Neurobiology and Behavior, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Guillermo",
+                "Last Name": "Horga",
+                "Affiliation": "New York State Psychiatric Institute, New York, NY, USA."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37669966",
+        "Title": "Beta traveling waves in monkey frontal and parietal areas encode recent reward history.",
+        "Abstract": "Brain function depends on neural communication, but the mechanisms of this communication are not well understood. Recent studies suggest that one form of neural communication is through traveling waves (TWs)-patterns of neural oscillations that propagate within and between brain areas. We show that TWs are robust in microarray recordings in frontal and parietal cortex and encode recent reward history. Two adult male monkeys made saccades to obtain probabilistic rewards and were sensitive to the (statistically irrelevant) reward on the previous trial. TWs in frontal and parietal areas were stronger in trials that followed a prior reward versus a lack of reward and, in the frontal lobe, correlated with the monkeys' behavioral sensitivity to the prior reward. The findings suggest that neural communication mediated by TWs within the frontal and parietal lobes contribute to maintaining information about recent reward history and mediating the impact of this history on the monkeys' expectations.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Male",
+            "Animals",
+            "Frontal Lobe",
+            "Parietal Lobe",
+            "Reward",
+            "Saccades",
+            "Travel"
+        ],
+        "Authors": [
+            {
+                "First Name": "Erfan",
+                "Last Name": "Zabeh",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas C",
+                "Last Name": "Foley",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Joshua",
+                "Last Name": "Jacobs",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, NY, USA. joshua.jacobs@columbia.edu."
+            },
+            {
+                "First Name": "Jacqueline P",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA. jg2141@columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37264004",
+        "Title": "Inefficient prioritization of task-relevant attributes during instrumental information demand.",
+        "Abstract": "In natural settings, people evaluate complex multi-attribute situations and decide which attribute to request information about. Little is known about how people make this selection and specifically, how they identify individual observations that best predict the value of a multi-attribute situation. Here show that, in a simple task of information demand, participants inefficiently query attributes that have high individual value but are relatively uninformative about a total payoff. This inefficiency is robust in two instrumental conditions in which gathering less informative observations leads to significantly lower rewards. Across individuals, variations in the sensitivity to informativeness is associated with personality metrics, showing\u00a0negative associations with extraversion and thrill seeking and positive associations with stress tolerance and need for cognition. Thus, people select informative queries using sub-optimal strategies that are associated with personality traits and influence consequential choices.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Cognition",
+            "Personality",
+            "Reward"
+        ],
+        "Authors": [
+            {
+                "First Name": "Isabella",
+                "Last Name": "Rischall",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Laura",
+                "Last Name": "Hunter",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA. jg2141@columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36334532",
+        "Title": "A Reinforcement Meta-Learning framework of executive function and information demand.",
+        "Abstract": "Gathering information is crucial for maximizing fitness, but requires diverting resources from searching directly for primary rewards to actively exploring the environment. Optimal decision-making thus maximizes information while reducing effort costs, but little is known about the neuro-computational implementation of this tradeoff. We present a Reinforcement Meta-Learning (RML) computational model that solves the trade-off between the value and costs of gathering information. We implement the RML in a biologically plausible architecture that links catecholaminergic neuromodulators, the medial prefrontal cortex and topographically organized visual maps and show that it accounts for neural and behavioral findings on information demand motivated by instrumental incentives and intrinsic utility. Moreover, the utility function used by the RML, encoded by dopamine, is an approximation of variational free energy. Thus, the RML presents a biologically plausible mechanism for coordinating motivational, executive and sensory systems generate visual information gathering policies that minimize free energy.",
+        "Keywords": [
+            "Effort",
+            "Free energy",
+            "Information seeking",
+            "MPFC",
+            "Meta Reinforcement Learning",
+            "Visual attention"
+        ],
+        "MeSH terms": [
+            "Executive Function",
+            "Reinforcement, Psychology",
+            "Learning",
+            "Reward",
+            "Dopamine",
+            "Prefrontal Cortex"
+        ],
+        "Authors": [
+            {
+                "First Name": "Massimo",
+                "Last Name": "Silvetti",
+                "Affiliation": "Computational and Translational Neuroscience Lab (CTNLab), Institute of Cognitive Sciences and Technologies, National Research Council (CNR), Rome, Italy. Electronic address: massimo.silvetti@istc.cnr.it."
+            },
+            {
+                "First Name": "Stefano",
+                "Last Name": "Lasaponara",
+                "Affiliation": "Department of Psychology, \"Sapienza\" University of Rome, Rome, Italy."
+            },
+            {
+                "First Name": "Nabil",
+                "Last Name": "Daddaoua",
+                "Affiliation": "Department of Neuroscience, Columbia University, United States of America; Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, United States of America."
+            },
+            {
+                "First Name": "Mattias",
+                "Last Name": "Horan",
+                "Affiliation": "Department of Neuroscience, Columbia University, United States of America; Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, United States of America."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, United States of America; Kavli Institute for Brain Science, Columbia University, United States of America; Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, United States of America. Electronic address: jg2141@columbia.edu."
+            }
+        ],
+        "Journal": "Neural networks : the official journal of the International Neural Network Society",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36207316",
+        "Title": "Uncertainty modulates visual maps during noninstrumental information demand.",
+        "Abstract": "Animals are intrinsically motivated to obtain information independently of instrumental incentives. This motivation depends on two factors: a desire to resolve uncertainty by gathering accurate information and a desire to obtain positively-valenced observations, which predict favorable rather than unfavorable outcomes. To understand the neural mechanisms, we recorded parietal cortical activity implicated in prioritizing stimuli for spatial attention and gaze, in a task in which monkeys were free (but not trained) to obtain information about probabilistic non-contingent rewards. We show that valence and uncertainty independently modulated parietal neuronal\u00a0activity, and uncertainty but not reward-related enhancement consistently correlated with behavioral sensitivity. The findings suggest uncertainty-driven and valence-driven information demand depend on partially distinct pathways, with the former being consistently related to parietal responses\u00a0and the latter depending on additional mechanisms implemented in downstream structures.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Motivation",
+            "Parietal Lobe",
+            "Reward",
+            "Uncertainty"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yvonne",
+                "Last Name": "Li",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nabil",
+                "Last Name": "Daddaoua",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Mattias",
+                "Last Name": "Horan",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas C",
+                "Last Name": "Foley",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA. jg2141@columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35998221",
+        "Title": "Superstitious learning of abstract order from random reinforcement.",
+        "Abstract": "Humans and other animals often infer spurious associations among unrelated events. However, such superstitious learning is usually accounted for by conditioned associations, raising the question of whether an animal could develop more complex cognitive structures independent of reinforcement. Here, we tasked monkeys with discovering the serial order of two pictorial sets: a \"learnable\" set in which the stimuli were implicitly ordered and monkeys were rewarded for choosing the higher-rank stimulus and an \"unlearnable\" set in which stimuli were unordered and feedback was random regardless of the choice. We replicated prior results that monkeys reliably learned the implicit order of the learnable set. Surprisingly, the monkeys behaved as though some ordering also existed in the unlearnable set, showing consistent choice preference that transferred to novel untrained pairs in this set, even under a preference-discouraging reward schedule that gave rewards more frequently to the stimulus that was selected less often. In simulations, a model-free reinforcement learning algorithm (",
+        "Keywords": [
+            "learnability",
+            "randomness",
+            "reinforcement learning",
+            "superstitious learning",
+            "transitive inference"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Association Learning",
+            "Conditioning, Classical",
+            "Haplorhini",
+            "Humans",
+            "Reinforcement, Psychology",
+            "Reward",
+            "Superstitions"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuhao",
+                "Last Name": "Jin",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "Vincent",
+                "Last Name": "Ferrera",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34645800",
+        "Title": "Humans monitor learning progress in curiosity-driven exploration.",
+        "Abstract": "Curiosity-driven learning is foundational to human cognition. By enabling humans to autonomously decide when and what to learn, curiosity has been argued to be crucial for self-organizing temporally extended learning curricula. However, the mechanisms driving people to set intrinsic goals, when they are free to explore multiple learning activities, are still poorly understood. Computational theories propose different heuristics, including competence measures (e.g., percent correct) and learning progress, that could be used as intrinsic utility functions to efficiently organize exploration. Such intrinsic utilities constitute computationally cheap but smart heuristics to prevent people from laboring in vain on unlearnable activities, while still motivating them to self-challenge on difficult learnable activities. Here, we provide empirical evidence for these ideas by means of a free-choice experimental paradigm and computational modeling. We show that while humans rely on competence information to avoid easy tasks, models that include a learning-progress component provide the best fit to task selection data. These results bridge the research in artificial and biological curiosity, reveal strategies that are used by humans but have not been considered in computational research, and introduce tools for probing how humans become intrinsically motivated to learn and acquire interests and skills on extended time scales.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Aged",
+            "Cognition",
+            "Computer Simulation",
+            "Exploratory Behavior",
+            "Female",
+            "Humans",
+            "Learning",
+            "Male",
+            "Middle Aged",
+            "Models, Psychological",
+            "Motivation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alexandr",
+                "Last Name": "Ten",
+                "Affiliation": "INRIA Bordeaux Sud-Ouest, 200 Avenue de la Vieille Tour, 33405, Talence, France. alexandr.ten@inria.fr."
+            },
+            {
+                "First Name": "Pramod",
+                "Last Name": "Kaushik",
+                "Affiliation": "INRIA Bordeaux Sud-Ouest, 200 Avenue de la Vieille Tour, 33405, Talence, France."
+            },
+            {
+                "First Name": "Pierre-Yves",
+                "Last Name": "Oudeyer",
+                "Affiliation": "INRIA Bordeaux Sud-Ouest, 200 Avenue de la Vieille Tour, 33405, Talence, France."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience & The Kavli Institute for Brain Science, Columbia University, 1051 Riverside Drive, Kolb Research Annex, Rm. 569, New York, NY, 10032, USA."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34045723",
+        "Title": "The effort of asking good questions.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, The Kavli Institute for Brain Research, and The Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA. jg2141@columbia.edu."
+            }
+        ],
+        "Journal": "Nature human behaviour",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33087809",
+        "Title": "Reward uncertainty asymmetrically affects information transmission within the monkey fronto-parietal network.",
+        "Abstract": "A central hypothesis in research on\u00a0executive function is\u00a0that controlled information processing is costly and is allocated according to the behavioral benefits it brings. However, while computational theories predict that the benefits of new information depend on prior uncertainty, the cellular effects of uncertainty on the executive network are incompletely understood. Using simultaneous recordings in monkeys, we describe\u00a0several mechanisms by which the fronto-parietal network reacts to uncertainty. We show that the variance of expected rewards, independently of the value of the rewards, was encoded\u00a0in single neuron and population spiking activity and local field potential (LFP) oscillations, and, importantly,\u00a0asymmetrically affected fronto-parietal information transmission (measured through\u00a0the coherence between spikes and LFPs). Higher uncertainty\u00a0selectively enhanced information\u00a0transmission from the parietal to the frontal lobe\u00a0and\u00a0suppressed it\u00a0in the opposite direction, consistent with Bayesian principles that prioritize sensory information\u00a0according to a decision maker's prior\u00a0uncertainty.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Biological Variation, Population",
+            "Cognition",
+            "Frontal Lobe",
+            "Macaca mulatta",
+            "Male",
+            "Neural Pathways",
+            "Neurons",
+            "Parietal Lobe",
+            "Photic Stimulation",
+            "Reward",
+            "Synaptic Transmission",
+            "Uncertainty"
+        ],
+        "Authors": [
+            {
+                "First Name": "Bahareh",
+                "Last Name": "Taghizadeh",
+                "Affiliation": "Brain Engineering Research Center, Institute for Research in Fundamental Sciences, Tehran, Iran."
+            },
+            {
+                "First Name": "Nicholas C",
+                "Last Name": "Foley",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Saeed",
+                "Last Name": "Karimimehr",
+                "Affiliation": "Brain Engineering Research Center, Institute for Research in Fundamental Sciences, Tehran, Iran."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Cohanpour",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Mulugeta",
+                "Last Name": "Semework",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Sameer A",
+                "Last Name": "Sheth",
+                "Affiliation": "Department of Neurosurgery, Baylor College of Medicine, Houston, TX, USA."
+            },
+            {
+                "First Name": "Reza",
+                "Last Name": "Lashgari",
+                "Affiliation": "Brain Engineering Research Center, Institute for Research in Fundamental Sciences, Tehran, Iran."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA. jg2141@columbia.edu."
+            }
+        ],
+        "Journal": "Communications biology",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31285613",
+        "Title": "Parietal neurons encode information sampling based on decision uncertainty.",
+        "Abstract": "During natural behavior, animals actively gather information that is relevant for learning or actions; however, the mechanisms of active sampling are rarely investigated. We tested parietal neurons involved in oculomotor control in a task in which monkeys made saccades to gather visual information relevant to a subsequent action. We show that the neurons encode, before the saccade, the information gain (reduction in decision uncertainty) that the saccade was expected to bring for the following action. Sensitivity to information gain correlates with the monkeys' efficiency at processing the information in the post-saccadic fixation, but is independent of neuronal reward sensitivity. Reward sensitivity, in turn, is unreliable across task contexts, inconsistent with the view that the cells encode economic utility. The findings suggest that parietal cells involved in oculomotor decisions show uncertainty-dependent boosts of neural gain that facilitate the implementation of active sampling policies, including the selection of relevant cues and the efficient use of the information delivered by these cues.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cues",
+            "Decision Making",
+            "Discrimination, Psychological",
+            "Eye Movements",
+            "Fixation, Ocular",
+            "Macaca mulatta",
+            "Male",
+            "Neurons",
+            "Parietal Lobe",
+            "Reward",
+            "Saccades",
+            "Uncertainty"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mattias",
+                "Last Name": "Horan",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nabil",
+                "Last Name": "Daddaoua",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA. jg2141@columbia.edu."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30988479",
+        "Title": "Diverse motives for human curiosity.",
+        "Abstract": "Curiosity-our desire to know-is a fundamental drive in human behaviour, but its mechanisms are poorly understood. A classical question concerns the curiosity motives. What drives individuals to become curious about some but not other sources of information?",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Anticipation, Psychological",
+            "Choice Behavior",
+            "Exploratory Behavior",
+            "Female",
+            "Humans",
+            "Information Seeking Behavior",
+            "Male",
+            "Middle Aged",
+            "Motivation",
+            "Reward",
+            "Uncertainty",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kenji",
+                "Last Name": "Kobayashi",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA. kenji.kobayashi@berkeley.edu."
+            },
+            {
+                "First Name": "Silvio",
+                "Last Name": "Ravaioli",
+                "Affiliation": "Sant'Anna School of Advanced Studies, Pisa, Italy."
+            },
+            {
+                "First Name": "Adrien",
+                "Last Name": "Baran\u00e8s",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Woodford",
+                "Affiliation": "Department of Economics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Nature human behaviour",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30397322",
+        "Title": "Towards a neuroscience of active sampling and curiosity.",
+        "Abstract": "In natural behaviour, animals actively interrogate their environments using endogenously generated 'question-and-answer' strategies. However, in laboratory settings participants typically engage with externally imposed stimuli and tasks, and the mechanisms of active sampling remain poorly understood. We review a nascent neuroscientific literature that examines active-sampling policies and their relation to attention and curiosity. We distinguish between information sampling, in which organisms reduce uncertainty relevant to a familiar task, and information search, in which they investigate in an open-ended fashion to discover new tasks. We review evidence that both sampling and search depend on individual preferences over cognitive states, including attitudes towards uncertainty, learning progress and types of information. We propose that, although these preferences are non-instrumental and can on occasion interfere with external goals, they are important heuristics that allow organisms to cope with the high complexity of both sampling and search, and generate curiosity-driven investigations in large, open environments in which rewards are sparse and ex ante unknown.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Brain",
+            "Cognition",
+            "Exploratory Behavior",
+            "Humans",
+            "Neurosciences",
+            "Reward"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA. jg2141@columbia.edu."
+            },
+            {
+                "First Name": "Pierre-Yves",
+                "Last Name": "Oudeyer",
+                "Affiliation": "Inria, Bordeaux, France."
+            }
+        ],
+        "Journal": "Nature reviews. Neuroscience",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28919222",
+        "Title": "Understanding active sampling strategies: Empirical approaches and implications for attention and decision research.",
+        "Abstract": "In natural behavior we actively gather information using attention and active sensing behaviors (such as shifts of gaze) to sample relevant cues. However, while attention and decision making are naturally coordinated, in the laboratory they have been dissociated. Attention is studied independently of the actions it serves. Conversely, decision theories make the simplifying assumption that the relevant information is given, and do not attempt to describe how the decision maker may learn and implement active sampling policies. In this paper I review recent studies that address questions of attentional learning, cue validity and information seeking in humans and non-human primates. These studies suggest that learning a sampling policy involves large scale interactions between networks of attention and valuation, which implement these policies based on reward maximization, uncertainty reduction and the intrinsic utility of cognitive states. I discuss the importance of using such paradigms for formalizing the role of attention, as well as devising more realistic theories of decision making that capture a broader range of empirical observations.",
+        "Keywords": [
+            "Active sensing",
+            "Attention",
+            "Decision making",
+            "Eye movements",
+            "Information seeking"
+        ],
+        "MeSH terms": [
+            "Attention",
+            "Choice Behavior",
+            "Decision Making",
+            "Eye Movements",
+            "Humans",
+            "Learning",
+            "Reward"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, USA. Electronic address: jg2141@columbia.edu."
+            }
+        ],
+        "Journal": "Cortex; a journal devoted to the study of the nervous system and behavior",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28373569",
+        "Title": "Parietal neurons encode expected gains in instrumental information.",
+        "Abstract": "In natural behavior, animals have access to multiple sources of information, but only a few of these sources are relevant for learning and actions. Beyond choosing an appropriate action, making good decisions entails the ability to choose the relevant information, but fundamental questions remain about the brain's information sampling policies. Recent studies described the neural correlates of seeking information about a reward, but it remains unknown whether, and how, neurons encode choices of instrumental information, in contexts in which the information guides subsequent actions. Here we show that parietal cortical neurons involved in oculomotor decisions encode, before an information sampling saccade, the reduction in uncertainty that the saccade is expected to bring for a subsequent action. These responses were distinct from the neurons' visual and saccadic modulations and from signals of expected reward or reward prediction errors. Therefore, even in an instrumental context when information and reward gains are closely correlated, individual cells encode decision variables that are based on informational factors and can guide the active sampling of action-relevant cues.",
+        "Keywords": [
+            "attention",
+            "decisions",
+            "information sampling",
+            "reward",
+            "saccades"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Choice Behavior",
+            "Decision Making",
+            "Macaca mulatta",
+            "Male",
+            "Neurons",
+            "Parietal Lobe",
+            "Photic Stimulation",
+            "Reward"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas C",
+                "Last Name": "Foley",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Simon P",
+                "Last Name": "Kelly",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Himanshu",
+                "Last Name": "Mhatre",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Manuel",
+                "Last Name": "Lopes",
+                "Affiliation": "INRIA, 33405 Talence, France."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032; jg2141@columbia.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27256592",
+        "Title": "Spatial and non-spatial aspects of visual attention: Interactive cognitive mechanisms and neural underpinnings.",
+        "Abstract": "In humans and non-human primates, the parietal lobe plays a key role in spatial attention - the ability to extract information from regions of space. This role is thought to be mediated by \"priority\" maps that highlight attention-worthy locations, and provide top-down feedback for motor orienting and attentional allocation. Traditionally, priority signals within the parietal cortex have been characterized as being purely spatial, i.e., encoding the desired locus of gaze or attention regardless of the context in which the brain generates that selection. Here, we highlight evidence from human behavior and neuroimaging as well as monkey physiology, to argue that non-spatial responses are critical to the establishment of priority maps in parietal cortex. This review offers an integrative view of the role that parietal cortex plays in attentional selection, providing evidence that priority maps reflect spatial and non-spatial priorities that ultimately act on sensory information in a spatial way.",
+        "Keywords": [
+            "Human neuroimaging",
+            "Monkey physiology",
+            "Non-spatial attentional selection",
+            "Spatial attentional selection"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Humans",
+            "Parietal Lobe",
+            "Space Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sarah",
+                "Last Name": "Shomstein",
+                "Affiliation": "Department of Psychology, George Washington University, United States. Electronic address: shom@gwu.edu."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, United States; The Kavli Institute for Brain Science, Columbia University, United States. Electronic address: jg2141@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Neuropsychologia",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26838344",
+        "Title": "Intrinsically motivated oculomotor exploration guided by uncertainty reduction and conditioned reinforcement in non-human primates.",
+        "Abstract": "Intelligent animals have a high degree of curiosity--the intrinsic desire to know--but the mechanisms of curiosity are poorly understood. A key open question pertains to the internal valuation systems that drive curiosity. What are the cognitive and emotional factors that motivate animals to seek information when this is not reinforced by instrumental rewards? Using a novel oculomotor paradigm, combined with reinforcement learning (RL) simulations, we show that monkeys are intrinsically motivated to search for and look at reward-predictive cues, and that their intrinsic motivation is shaped by a desire to reduce uncertainty, a desire to obtain conditioned reinforcement from positive cues, and individual variations in decision strategy and the cognitive costs of acquiring information. The results suggest that free-viewing oculomotor behavior reveals cognitive and emotional factors underlying the curiosity driven sampling of information.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cues",
+            "Exploratory Behavior",
+            "Haplorhini",
+            "Physical Conditioning, Animal",
+            "Psychomotor Performance",
+            "Vision, Ocular"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nabil",
+                "Last Name": "Daddaoua",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York City, NY, United States."
+            },
+            {
+                "First Name": "Manuel",
+                "Last Name": "Lopes",
+                "Affiliation": "INRIA, Bordeaux, France."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York City, NY, United States."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26518743",
+        "Title": "Eye movements reveal epistemic curiosity in human observers.",
+        "Abstract": "Saccadic (rapid) eye movements are primary means by which humans and non-human primates sample visual information. However, while saccadic decisions are intensively investigated in instrumental contexts where saccades guide subsequent actions, it is largely unknown how they may be influenced by curiosity - the intrinsic desire to learn. While saccades are sensitive to visual novelty and visual surprise, no study has examined their relation to epistemic curiosity - interest in symbolic, semantic information. To investigate this question, we tracked the eye movements of human observers while they read trivia questions and, after a brief delay, were visually given the answer. We show that higher curiosity was associated with earlier anticipatory orienting of gaze toward the answer location without changes in other metrics of saccades or fixations, and that these influences were distinct from those produced by variations in confidence and surprise. Across subjects, the enhancement of anticipatory gaze was correlated with measures of trait curiosity from personality questionnaires. Finally, a machine learning algorithm could predict curiosity in a cross-subject manner, relying primarily on statistical features of the gaze position before the answer onset and independently of covariations in confidence or surprise, suggesting potential practical applications for educational technologies, recommender systems and research in cognitive sciences. With this article, we provide full access to the annotated database allowing readers to reproduce the results. Epistemic curiosity produces specific effects on oculomotor anticipation that can be used to read out curiosity states.",
+        "Keywords": [
+            "Anticipation",
+            "Curiosity",
+            "Data mining",
+            "Random forests",
+            "Saccades",
+            "Trivia questions"
+        ],
+        "MeSH terms": [
+            "Attention",
+            "Exploratory Behavior",
+            "Female",
+            "Fixation, Ocular",
+            "Humans",
+            "Machine Learning",
+            "Male",
+            "Photic Stimulation",
+            "Psychomotor Performance",
+            "Saccades",
+            "Task Performance and Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Adrien",
+                "Last Name": "Baranes",
+                "Affiliation": "Department of Neuroscience, Columbia University, United States. Electronic address: Adrien.baranes@gmail.com."
+            },
+            {
+                "First Name": "Pierre-Yves",
+                "Last Name": "Oudeyer",
+                "Affiliation": "Inria, France; Ensta ParisTech, France."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, United States; The Kavli Institute for Brain Science, Columbia University, United States."
+            }
+        ],
+        "Journal": "Vision research",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26287613",
+        "Title": "A Multi-Area Stochastic Model for a Covert Visual Search Task.",
+        "Abstract": "Decisions typically comprise several elements. For example, attention must be directed towards specific objects, their identities recognized, and a choice made among alternatives. Pairs of competing accumulators and drift-diffusion processes provide good models of evidence integration in two-alternative perceptual choices, but more complex tasks requiring the coordination of attention and decision making involve multistage processing and multiple brain areas. Here we consider a task in which a target is located among distractors and its identity reported by lever release. The data comprise reaction times, accuracies, and single unit recordings from two monkeys' lateral interparietal area (LIP) neurons. LIP firing rates distinguish between targets and distractors, exhibit stimulus set size effects, and show response-hemifield congruence effects. These data motivate our model, which uses coupled sets of leaky competing accumulators to represent processes hypothesized to occur in feature-selective areas and limb motor and pre-motor areas, together with the visual selection process occurring in LIP. Model simulations capture the electrophysiological and behavioral data, and fitted parameters suggest that different connection weights between LIP and the other cortical areas may account for the observed behavioral differences between the animals.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Behavior, Animal",
+            "Decision Making",
+            "Macaca",
+            "Models, Neurological",
+            "Parietal Lobe",
+            "Photic Stimulation",
+            "Reaction Time",
+            "Stochastic Processes",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael A",
+                "Last Name": "Schwemmer",
+                "Affiliation": "Mathematical Biosciences Institute, The Ohio State University, Columbus, OH 43210, United States of America."
+            },
+            {
+                "First Name": "Samuel F",
+                "Last Name": "Feng",
+                "Affiliation": "Department of Applied Mathematics and Sciences, Khalifa University, Abu Dhabi, United Arab Emirates."
+            },
+            {
+                "First Name": "Philip J",
+                "Last Name": "Holmes",
+                "Affiliation": "Program in Applied and Computational Mathematics, Department of Mechanical and Aerospace Engineering, and Princeton Neuroscience Institute, Princeton University, Princeton, NJ 08544, United States of America."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, United States of America."
+            },
+            {
+                "First Name": "Jonathan D",
+                "Last Name": "Cohen",
+                "Affiliation": "Department of Psychology and Princeton Neuroscience Institute, Princeton University, Princeton, NJ 08544, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25580237",
+        "Title": "Active learning and decision making: an introduction to the collection.",
+        "Abstract": "The importance of exploratory behaviors by which agents actively sample information has been long appreciated in a wide range of disciplines ranging from machine and robot learning to neuroscience and psychology. \u00a0Given the complexity of these behaviors, progress in understanding them will require a confluence of ideas from these multiple fields.\u00a0 This collection of articles in F1000Research aims to provide a home for a broad range of studies addressing this topic, including full length research articles, brief communications, single figure studies, and review/opinion articles, and studies using computational, behavioral or neural approaches. \u00a0Here, we provide an introduction to the collection which we hope will grow and become a valuable resource for the researchers exploring this topic.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, The Kavli Institute for Brain Science, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Manuel",
+                "Last Name": "Lopes",
+                "Affiliation": "INRIA, Bordeaux Sud-Ouest, France."
+            },
+            {
+                "First Name": "Pierre-Yves",
+                "Last Name": "Oudeyer",
+                "Affiliation": "INRIA, Bordeaux Sud-Ouest, France."
+            }
+        ],
+        "Journal": "F1000Research",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25392517",
+        "Title": "Attention, reward, and information seeking.",
+        "Abstract": "Decision making is thought to be guided by the values of alternative options and involve the accumulation of evidence to an internal bound. However, in natural behavior, evidence accumulation is an active process whereby subjects decide when and which sensory stimulus to sample. These sampling decisions are naturally served by attention and rapid eye movements (saccades), but little is known about how saccades are controlled to guide future actions. Here we review evidence that was discussed at a recent symposium, which suggests that information selection involves basal ganglia and cortical mechanisms and that, across different contexts, it is guided by two central factors: the gains in reward and gains in information (uncertainty reduction) associated with sensory cues.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Basal Ganglia",
+            "Cerebral Cortex",
+            "Choice Behavior",
+            "Humans",
+            "Information Seeking Behavior",
+            "Reward",
+            "Saccades"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University, New York, New York 10032, jg2141@columbia.edu."
+            },
+            {
+                "First Name": "Mary",
+                "Last Name": "Hayhoe",
+                "Affiliation": "University of Texas at Austin, Austin, Texas 78712."
+            },
+            {
+                "First Name": "Okihide",
+                "Last Name": "Hikosaka",
+                "Affiliation": "Laboratory of Sensorimotor Research, National Eye Institute, National Institutes of Health, Bethesda, Maryland 20892."
+            },
+            {
+                "First Name": "Antonio",
+                "Last Name": "Rangel",
+                "Affiliation": "Division of Humanities and Social Sciences and Computational and Neural Systems, California Institute of Technology, Pasadena, California 91125, and."
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25352771",
+        "Title": "The effects of task difficulty, novelty and the size of the search space on intrinsically motivated exploration.",
+        "Abstract": "Devising efficient strategies for exploration in large open-ended spaces is one of the most difficult computational problems of intelligent organisms. Because the available rewards are ambiguous or unknown during the exploratory phase, subjects must act in intrinsically motivated fashion. However, a vast majority of behavioral and neural studies to date have focused on decision making in reward-based tasks, and the rules guiding intrinsically motivated exploration remain largely unknown. To examine this question we developed a paradigm for systematically testing the choices of human observers in a free play context. Adult subjects played a series of short computer games of variable difficulty, and freely choose which game they wished to sample without external guidance or physical rewards. Subjects performed the task in three distinct conditions where they sampled from a small or a large choice set (7 vs. 64 possible levels of difficulty), and where they did or did not have the possibility to sample new games at a constant level of difficulty. We show that despite the absence of external constraints, the subjects spontaneously adopted a structured exploration strategy whereby they (1) started with easier games and progressed to more difficult games, (2) sampled the entire choice set including extremely difficult games that could not be learnt, (3) repeated moderately and high difficulty games much more frequently than was predicted by chance, and (4) had higher repetition rates and chose higher speeds if they could generate new sequences at a constant level of difficulty. The results suggest that intrinsically motivated exploration is shaped by several factors including task difficulty, novelty and the size of the choice set, and these come into play to serve two internal goals-maximize the subjects' knowledge of the available tasks (exploring the limits of the task set), and maximize their competence (performance and skills) across the task set.",
+        "Keywords": [
+            "decision making",
+            "exploration",
+            "intrinsic motivation",
+            "novelty",
+            "video games"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Adrien F",
+                "Last Name": "Baranes",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center New York, NY, USA."
+            },
+            {
+                "First Name": "Pierre-Yves",
+                "Last Name": "Oudeyer",
+                "Affiliation": "Inria Bordeaux, France ; Ensta ParisTech Paris, France."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center New York, NY, USA ; Kavli Institute for Brain Science, Columbia University New York, NY, USA."
+            }
+        ],
+        "Journal": "Frontiers in neuroscience",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24899716",
+        "Title": "Novelty enhances visual salience independently of reward in the parietal lobe.",
+        "Abstract": "Novelty modulates sensory and reward processes, but it remains unknown how these effects interact, i.e., how the visual effects of novelty are related to its motivational effects. A widespread hypothesis, based on findings that novelty activates reward-related structures, is that all the effects of novelty are explained in terms of reward. According to this idea, a novel stimulus is by default assigned high reward value and hence high salience, but this salience rapidly decreases if the stimulus signals a negative outcome. Here we show that, contrary to this idea, novelty affects visual salience in the monkey lateral intraparietal area (LIP) in ways that are independent of expected reward. Monkeys viewed peripheral visual cues that were novel or familiar (received few or many exposures) and predicted whether the trial will have a positive or a negative outcome--i.e., end in a reward or a lack of reward. We used a saccade-based assay to detect whether the cues automatically attracted or repelled attention from their visual field location. We show that salience--measured in saccades and LIP responses--was enhanced by both novelty and positive reward associations, but these factors were dissociable and habituated on different timescales. The monkeys rapidly recognized that a novel stimulus signaled a negative outcome (and withheld anticipatory licking within the first few presentations), but the salience of that stimulus remained high for multiple subsequent presentations. Therefore, novelty can provide an intrinsic bonus for attention that extends beyond the first presentation and is independent of physical rewards.",
+        "Keywords": [
+            "intrinsic motivation",
+            "monkey",
+            "novelty",
+            "parietal",
+            "reward",
+            "salience"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Attention",
+            "Cues",
+            "Exploratory Behavior",
+            "Macaca mulatta",
+            "Male",
+            "Motivation",
+            "Neurons",
+            "Parietal Lobe",
+            "Photic Stimulation",
+            "Reaction Time",
+            "Reward",
+            "Statistics, Nonparametric"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas C",
+                "Last Name": "Foley",
+                "Affiliation": "Department of Neuroscience and."
+            },
+            {
+                "First Name": "David C",
+                "Last Name": "Jangraw",
+                "Affiliation": "Department of Neuroscience and."
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Peck",
+                "Affiliation": "Department of Neuroscience and."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University, New York, New York 10032 jg2141@columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24523935",
+        "Title": "Neural correlates of temporal credit assignment in the parietal lobe.",
+        "Abstract": "Empirical studies of decision making have typically assumed that value learning is governed by time, such that a reward prediction error arising at a specific time triggers temporally-discounted learning for all preceding actions. However, in natural behavior, goals must be acquired through multiple actions, and each action can have different significance for the final outcome. As is recognized in computational research, carrying out multi-step actions requires the use of credit assignment mechanisms that focus learning on specific steps, but little is known about the neural correlates of these mechanisms. To investigate this question we recorded neurons in the monkey lateral intraparietal area (LIP) during a serial decision task where two consecutive eye movement decisions led to a final reward. The underlying decision trees were structured such that the two decisions had different relationships with the final reward, and the optimal strategy was to learn based on the final reward at one of the steps (the \"F\" step) but ignore changes in this reward at the remaining step (the \"I\" step). In two distinct contexts, the F step was either the first or the second in the sequence, controlling for effects of temporal discounting. We show that LIP neurons had the strongest value learning and strongest post-decision responses during the transition after the F step regardless of the serial position of this step. Thus, the neurons encode correlates of temporal credit assignment mechanisms that allocate learning to specific steps independently of temporal discounting.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Computer Simulation",
+            "Decision Making",
+            "Decision Trees",
+            "Eye Movements",
+            "Learning",
+            "Macaca mulatta",
+            "Male",
+            "Models, Neurological",
+            "Neurons",
+            "Parietal Lobe",
+            "Psychomotor Performance",
+            "Reproducibility of Results",
+            "Reward",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Timothy M",
+                "Last Name": "Gersch",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Nicholas C",
+                "Last Name": "Foley",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Ian",
+                "Last Name": "Eisenberg",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, United States of America ; The Kavli Institute for Brain Science Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24403392",
+        "Title": "Extrafoveal preview benefit during free-viewing visual search in the monkey.",
+        "Abstract": "Previous studies have shown that subjects require less time to process a stimulus at the fovea after a saccade if they have viewed the same stimulus in the periphery immediately prior to the saccade. This extrafoveal preview benefit indicates that information about the visual form of an extrafoveally viewed stimulus can be transferred across a saccade. Here, we extend these findings by demonstrating and characterizing a similar extrafoveal preview benefit in monkeys during a free-viewing visual search task. We trained two monkeys to report the orientation of a target among distractors by releasing one of two bars with their hand; monkeys were free to move their eyes during the task. Both monkeys took less time to indicate the orientation of the target after foveating it, when the target lay closer to the fovea during the previous fixation. An extrafoveal preview benefit emerged even if there was more than one intervening saccade between the preview and the target fixation, indicating that information about target identity could be transferred across more than one saccade and could be obtained even if the search target was not the goal of the next saccade. An extrafoveal preview benefit was also found for distractor stimuli. These results aid future physiological investigations of the extrafoveal preview benefit.",
+        "Keywords": [
+            "extrafoveal preview benefit",
+            "eye movements",
+            "transsaccadic",
+            "visual search"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Fixation, Ocular",
+            "Fovea Centralis",
+            "Macaca mulatta",
+            "Male",
+            "Orientation",
+            "Psychomotor Performance",
+            "Saccades",
+            "Task Performance and Analysis",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "B Suresh",
+                "Last Name": "Krishna",
+                "Affiliation": "Mahoney-Keck Center for Brain and Behavior Research, New York State Psychiatric Institute, New York, NY, USA."
+            },
+            {
+                "First Name": "Anna E",
+                "Last Name": "Ipata",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James W",
+                "Last Name": "Bisley",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael E",
+                "Last Name": "Goldberg",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of vision",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24126129",
+        "Title": "Information-seeking, curiosity, and attention: computational and neural mechanisms.",
+        "Abstract": "Intelligent animals devote much time and energy to exploring and obtaining information, but the underlying mechanisms are poorly understood. We review recent developments on this topic that have emerged from the traditionally separate fields of machine learning, eye movements in natural behavior, and studies of curiosity in psychology and neuroscience. These studies show that exploration may be guided by a family of mechanisms that range from automatic biases toward novelty or surprise to systematic searches for learning progress and information gain in curiosity-driven behavior. In addition, eye movements reflect visual information searching in multiple conditions and are amenable for cellular-level investigations. This suggests that the oculomotor system is an excellent model system for understanding information-sampling mechanisms.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Artificial Intelligence",
+            "Attention",
+            "Brain",
+            "Exploratory Behavior",
+            "Humans",
+            "Information Seeking Behavior"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA; Kavli Institute for Brain Science, Columbia University, New York, NY, USA. Electronic address: jg2141@columbia.edu."
+            },
+            {
+                "First Name": "Pierre-Yves",
+                "Last Name": "Oudeyer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Manuel",
+                "Last Name": "Lopes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adrien",
+                "Last Name": "Baranes",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Trends in cognitive sciences",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "24067288",
+        "Title": "Slicing a pie is no piece of cake.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cognition",
+            "Executive Function",
+            "Male",
+            "Neurons",
+            "Parietal Lobe",
+            "Prefrontal Cortex"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience and the Kavli Institute for Brain Science, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23620037",
+        "Title": "Comment on \"In monkeys making value-based decisions, LIP neurons encode cue salience and not action value\".",
+        "Abstract": "Leathers and Olson (Reports, 5 October 2012, p. 132) draw the strong conclusion that neurons in the monkey lateral intraparietal (LIP) cortical area encode only cue salience, and not action value, during value-based decision-making. Although their findings regarding cue salience are interesting, their broader conclusions are problematic because (i) their primary conclusion is based on responses observed during a brief interval at the beginning of behavioral trials but is extended to all subsequent temporal epochs and (ii) the authors failed to replicate basic hallmarks of LIP physiology observed in those subsequent temporal epochs by many laboratories.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cues",
+            "Decision Making",
+            "Male",
+            "Motivation",
+            "Neurons",
+            "Saccades",
+            "Social Values"
+        ],
+        "Authors": [
+            {
+                "First Name": "William T",
+                "Last Name": "Newsome",
+                "Affiliation": "Department of Neurobiology and Howard Hughes Medical Institute, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Paul W",
+                "Last Name": "Glimcher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Daeyeol",
+                "Last Name": "Lee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael L",
+                "Last Name": "Platt",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23242309",
+        "Title": "Distinct neural mechanisms of distractor suppression in the frontal and parietal lobe.",
+        "Abstract": "The posterior parietal cortex and the prefrontal cortex are associated with eye movements and visual attention, but their specific contributions are poorly understood. We compared the dorsolateral prefrontal cortex (dlPFC) and the lateral intraparietal area (LIP) in monkeys using a memory saccade task in which a salient distractor flashed at a variable timing and location during the memory delay. We found that the two areas had similar responses to target selection, but made distinct contributions to distractor suppression. Distractor responses were more strongly suppressed and more closely correlated with performance in the dlPFC relative to LIP. Moreover, reversible inactivation of the dlPFC produced much larger increases in distractibility than inactivation of LIP. These findings suggest that LIP and dlPFC mediate different aspects of selective attention. Although both areas can contribute to the perceptual selection of salient information, the dlPFC has a decisive influence on whether and how attended stimulus is linked with actions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Analysis of Variance",
+            "Animals",
+            "Attention",
+            "Biophysics",
+            "Frontal Lobe",
+            "GABA-A Receptor Agonists",
+            "Inhibition, Psychological",
+            "Macaca mulatta",
+            "Male",
+            "Models, Biological",
+            "Muscimol",
+            "Neurons",
+            "Parietal Lobe",
+            "Saccades",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mototaka",
+                "Last Name": "Suzuki",
+                "Affiliation": "Department of Neuroscience, New York, New York, USA."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23083732",
+        "Title": "Attention, learning, and the value of information.",
+        "Abstract": "Despite many studies on selective attention, fundamental questions remain about its nature and neural mechanisms. Here I draw from the animal and machine learning fields that describe attention as a mechanism for active learning and uncertainty reduction and explore the implications of this view for understanding visual attention and eye movement control. I propose that a closer integration of these different views has the potential greatly to expand our understanding of oculomotor control and our ability to use this system as a window into high level but poorly understood cognitive functions, including the capacity for curiosity and exploration and for inferring internal models of the external world.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Artificial Intelligence",
+            "Attention",
+            "Brain",
+            "Eye Movements",
+            "Humans",
+            "Learning",
+            "Mental Processes",
+            "Neurons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA. jg2141@columbia.edu"
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21050743",
+        "Title": "Spatial and non-spatial functions of the parietal cortex.",
+        "Abstract": "Although the parietal cortex is traditionally associated with spatial attention and sensorimotor integration, recent evidence also implicates it in higher order cognitive functions. We review relevant results from neuron recording studies showing that inferior parietal neurons integrate information regarding target location with a variety of non-spatial signals. Some of these signals are modulatory and alter a stimulus-evoked response according to the action, category, or reward associated with the stimulus. Other non-spatial inputs act independently, encoding the context or rules of a task even before the presentation of a specific target. Despite the ubiquity of non-spatial information in individual neurons, reversible inactivation of the parietal lobe affects only spatial orienting of attention and gaze, but not non-spatial aspects of performance. This suggests that non-spatial signals contribute to an underlying spatial computation, possibly allowing the brain to determine which targets are worthy of attention or action in a given task context.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Humans",
+            "Neurons",
+            "Parietal Lobe",
+            "Photic Stimulation",
+            "Psychomotor Performance",
+            "Signal Transduction",
+            "Space Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, USA. jg2141@columbia.edu"
+            },
+            {
+                "First Name": "Lawrence H",
+                "Last Name": "Snyder",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current opinion in neurobiology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20399701",
+        "Title": "Attention as a decision in information space.",
+        "Abstract": "Decision formation and attention are two fundamental processes through which we select, respectively, appropriate actions or sources of information. Although both functions have been studied in the oculomotor system, we lack a unified view explaining both forms of selection. We review evidence showing that parietal neurons encoding saccade motor decisions also carry signals of attention (perceptual selection) that are independent of the metrics, modality and reward of an action. We propose that attention implements a specialized form of decision based on the utility of information. Thus, oculomotor control depends on two interacting but distinct processes: attentional decisions that assign value to sources of information and motor decisions that flexibly link the selected information with action.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Attention",
+            "Choice Behavior",
+            "Eye Movements",
+            "Humans",
+            "Learning",
+            "Mental Processes",
+            "Neurons",
+            "Parietal Lobe",
+            "Pattern Recognition, Visual"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, 1051 Riverside Drive, Kolb Research Annex, New York, NY 10032, USA. jg2141@columbia.edu"
+            },
+            {
+                "First Name": "Puiu",
+                "Last Name": "Balan",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Trends in cognitive sciences",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19741125",
+        "Title": "Reward modulates attention independently of action value in posterior parietal cortex.",
+        "Abstract": "While numerous studies have explored the mechanisms of reward-based decisions (the choice of action based on expected gain), few have asked how reward influences attention (the selection of information relevant for a decision). Here we show that a powerful determinant of attentional priority is the association between a stimulus and an appetitive reward. A peripheral cue heralded the delivery of reward or no reward (these cues are termed herein RC+ and RC-, respectively); to experience the predicted outcome, monkeys made a saccade to a target that appeared unpredictably at the same or opposite location relative to the cue. Although the RC had no operant associations (did not specify the required saccade), they automatically biased attention, such that an RC+ attracted attention and an RC- repelled attention from its location. Neurons in the lateral intraparietal area (LIP) encoded these attentional biases, maintaining sustained excitation at the location of an RC+ and inhibition at the location of an RC-. Contrary to the hypothesis that LIP encodes action value, neurons did not encode the expected reward of the saccade. Moreover, at odds with an adaptive decision process, the cue-evoked biases interfered with the required saccade, and these biases increased rather than abating with training. After prolonged training, valence selectivity appeared at shorter latencies and automatically transferred to a novel task context, suggesting that training produced visual plasticity. The results suggest that reward predictors gain automatic attentional priority regardless of their operant associations, and this valence-specific priority is encoded in LIP independently of the expected reward of an action.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Attention",
+            "Macaca mulatta",
+            "Male",
+            "Parietal Lobe",
+            "Photic Stimulation",
+            "Psychomotor Performance",
+            "Reward",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christopher J",
+                "Last Name": "Peck",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "David C",
+                "Last Name": "Jangraw",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mototaka",
+                "Last Name": "Suzuki",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Efem",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19648356",
+        "Title": "Comment on Cohen et al: Neural Basis of the Set-Size Effect in Frontal Eye Field: Timing of Attention During Visual Search.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Frontal Lobe",
+            "Haplorhini",
+            "Mental Processes",
+            "Neurons",
+            "Parietal Lobe",
+            "Reaction Time",
+            "Regression Analysis",
+            "Time Factors",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Puiu",
+                "Last Name": "Balan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19553456",
+        "Title": "Functional significance of nonspatial information in monkey lateral intraparietal area.",
+        "Abstract": "Although the parietal cortex is traditionally associated with spatial perception and motor planning, recent evidence shows that neurons in the lateral intraparietal area (LIP) carry both spatial and nonspatial signals. The functional significance of the nonspatial information in the parietal cortex is not understood. To address this question, we tested the effect of unilateral reversible inactivation of LIP on three behavioral tasks known to evoke nonspatial responses. Each task included a spatial component (target selection in the hemifield contralateral or ipsilateral to the inactivation) and a nonspatial component, namely limb motor planning, the estimation of elapsed time, and reward-based decisions. Although inactivation reliably impaired performance on all tasks, the deficits were spatially specific (restricted to contralateral target locations), and there were no effects on nonspatial aspects on performance. This suggests that modulatory nonspatial signals in LIP represent feedback about computations performed elsewhere rather than a primary role of LIP in these computations.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Analysis of Variance",
+            "Animals",
+            "Choice Behavior",
+            "Decision Making",
+            "Functional Laterality",
+            "GABA Agonists",
+            "Macaca mulatta",
+            "Microinjections",
+            "Muscimol",
+            "Neuropsychological Tests",
+            "Parietal Lobe",
+            "Psychomotor Performance",
+            "Reaction Time",
+            "Reward",
+            "Space Perception",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Puiu F",
+                "Last Name": "Balan",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18929673",
+        "Title": "Parietal control of attentional guidance: the significance of sensory, motivational and motor factors.",
+        "Abstract": "The lateral intraparietal area (LIP), a portion of monkey posterior parietal cortex, has been implicated in spatial attention. We review recent evidence showing that LIP encodes a priority map of the external environment that specifies the momentary locus of attention and is activated in a variety of behavioral tasks. The priority map in LIP is shaped by task-specific motor, cognitive and motivational variables, the functional significance of which is not entirely understood. We suggest that these modulations represent teaching signals by which the brain learns to identify attentional priority of various stimuli based on the task-specific associations between these stimuli, the required action and expected outcome.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Appetitive Behavior",
+            "Attention",
+            "Macaca mulatta",
+            "Microelectrodes",
+            "Motivation",
+            "Motor Activity",
+            "Neural Networks, Computer",
+            "Parietal Lobe",
+            "Reaction Time",
+            "Spatial Behavior"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neuroscience, Columbia University, Kolb Research Annex, New York, NY 10032, USA. jg2141@columbia.edu"
+            },
+            {
+                "First Name": "Puiu",
+                "Last Name": "Balan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jeff",
+                "Last Name": "Oristaglio",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mototaka",
+                "Last Name": "Suzuki",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neurobiology of learning and memory",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18656991",
+        "Title": "Neuronal correlates of the set-size effect in monkey lateral intraparietal area.",
+        "Abstract": "It has long been known that the brain is limited in the amount of sensory information that it can process at any given time. A well-known form of capacity limitation in vision is the set-size effect, whereby the time needed to find a target increases in the presence of distractors. The set-size effect implies that inputs from multiple objects interfere with each other, but the loci and mechanisms of this interference are unknown. Here we show that the set-size effect has a neural correlate in competitive visuo-visual interactions in the lateral intraparietal area, an area related to spatial attention and eye movements. Monkeys performed a covert visual search task in which they discriminated the orientation of a visual target surrounded by distractors. Neurons encoded target location, but responses associated with both target and distractors declined as a function of distractor number (set size). Firing rates associated with the target in the receptive field correlated with reaction time both within and across set sizes. The findings suggest that competitive visuo-visual interactions in areas related to spatial attention contribute to capacity limitations in visual searches.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Contrast Sensitivity",
+            "Discrimination, Psychological",
+            "Female",
+            "Macaca mulatta",
+            "Male",
+            "Neurons",
+            "Parietal Lobe",
+            "Pattern Recognition, Visual",
+            "Sensory Thresholds",
+            "Size Perception",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Puiu F",
+                "Last Name": "Balan",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Jeff",
+                "Last Name": "Oristaglio",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David M",
+                "Last Name": "Schneider",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PLoS biology",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18502468",
+        "Title": "Task specific computations in attentional maps.",
+        "Abstract": "The lateral intraparietal area (LIP), a portion of monkey posterior parietal cortex, has been implicated in spatial attention. We review recent evidence from our laboratory showing that LIP encodes a priority map of the external environment that specifies the momentary locus of attention and is activated in a variety of behavioral tasks. The priority map in LIP is shaped by task-specific variables. We suggest that the multifaceted responses in LIP represent mechanisms for allocating attention, and that the attentional system may flexibly configure itself to meet the cognitive, motor and motivational demands of individual tasks.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Brain Mapping",
+            "Magnetic Resonance Imaging",
+            "Neuronal Plasticity",
+            "Neurons",
+            "Parietal Lobe",
+            "Pattern Recognition, Visual",
+            "Psychomotor Performance",
+            "Psychophysics",
+            "Saccades"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Department of Neurobiology and Behavior, Columbia University, New York, NY 10032, USA. jg2141@columbia.edu"
+            },
+            {
+                "First Name": "Puiu F",
+                "Last Name": "Balan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jeff",
+                "Last Name": "Oristaglio",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Schneider",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Vision research",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18491716",
+        "Title": "Neural enhancement and pre-emptive perception: the genesis of attention and the attentional maintenance of the cortical salience map.",
+        "Abstract": "One of the stable hypotheses in systems neuroscience is the relationship between attention and the enhancement of visual responses when an animal attends to the stimulus in its receptive field (Goldberg and Wurtz, 1972 Journal of Neurophysiology 35 560-574). This was first discovered in the superior colliculus of the monkey: neurons in the superficial layers of the superior colliculus responded more intensely to the onset of a stimulus during blocks of trials in which the monkey had to make a saccade to it than they did during blocks of trials in which the monkey had to continue fixating a central point and not respond to the stimulus. This enhancement has been found in many brain regions, including prefrontal cortex (Boch and Goldberg, 1987 Investigative Ophthalmology 28 Supplement, 124), V4 (Moran and Desimone, 1985 Science 229 782-784), and lateral intraparietal area (Colby et al, 1996 Journal of Neurophysiology 76 2841-2852; Colby and Goldberg, 1999 Annual Review of Neuroscience 22 319-349), and even V1 (Lamme et al, 2000 Vision Research 40 1507-1521). In these studies the assumption has been that the monkey attended to the stimulus because the stimulus evoked an enhanced response. In the experiments described here we show that for abruptly appearing stimuli, attention is not related to the initial response evoked by the stimulus, but by the activity present on the salience map in the parietal cortex when the stimulus appears. Attention to the stimulus may subsequently, by a top down signal, sustain the map, but stimuli can as easily be suppressed by top down features as they can be enhanced.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Cues",
+            "Eye Movements",
+            "Haplorhini",
+            "Neurons",
+            "Parietal Lobe",
+            "Photic Stimulation",
+            "Psychomotor Performance",
+            "Reaction Time",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Angela L",
+                "Last Name": "Gee",
+                "Affiliation": "Mahoney Center for Brain and Behavior, Center for Neurobiology and Kavli Institute, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Anna E",
+                "Last Name": "Ipata",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James W",
+                "Last Name": "Bisley",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael E",
+                "Last Name": "Goldberg",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Perception",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17196526",
+        "Title": "From thought to action: the parietal cortex as a bridge between perception, action, and cognition.",
+        "Abstract": "The lateral intraparietal area (LIP) is a subdivision of the inferior parietal lobe that has been implicated in the guidance of spatial attention. In a variety of tasks, LIP provides a \"salience representation\" of the external world-a topographic visual representation that encodes the locations of salient or behaviorally relevant objects. Recent neurophysiological experiments show that this salience representation incorporates information about multiple behavioral variables-such as a specific motor response, reward, or category membership-associated with the task-relevant object. This integration occurs in a wide variety of tasks, including those requiring eye or limb movements or goal-directed or nontargeting operant responses. Thus, LIP acts as a multifaceted behavioral integrator that binds visuospatial, motor, and cognitive information into a topographically organized signal of behavioral salience. By specifying attentional priority as a synthesis of multiple task demands, LIP operates at the interface of perception, action, and cognition.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Awareness",
+            "Cognition",
+            "Eye Movements",
+            "Humans",
+            "Movement",
+            "Orientation",
+            "Parietal Lobe",
+            "Psychomotor Performance",
+            "Space Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Center for Neurobiology and Behavior and Department of Psychiatry, Columbia University, New York, NY 10032, USA. jg2141@columbia.edu"
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17151216",
+        "Title": "From a different point of view: extrastriate cortex integrates information across saccades. Focus on \"Remapping in human visual cortex\".",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Brain Mapping",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Psychomotor Performance",
+            "Saccades",
+            "Visual Cortex",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17027387",
+        "Title": "Saccades, salience and attention: the role of the lateral intraparietal area in visual behavior.",
+        "Abstract": "Neural activity in the lateral intraparietal area (LIP) has been associated with attention to a location in visual space, and with the intention to make saccadic eye movement. In this study we show that neurons in LIP respond to recently flashed task-irrelevant stimuli and saccade targets brought into the receptive field by a saccade, although they respond much to the same stimuli when they are stable in the environment. LIP neurons respond to the appearance of a flashed distractor even when a monkey is planning a memory-guided delayed saccade elsewhere. We then show that a monkey's attention, as defined by an increase in contrast sensitivity, is pinned to the goal of a memory-guided saccade throughout the delay period, unless a distractor appears, in which case attention transiently moves to the site of the distractor and then returns to the goal of the saccade. LIP neurons respond to both the saccade goal and the distractor, and this activity correlates with the monkey's locus of attention. In particular, the activity of LIP neurons predicts when attention migrates from the distractor back to the saccade goal. We suggest that the activity in LIP provides a salience map that is interpreted by the oculomotor system as a saccade goal when a saccade is appropriate, and simultaneously is used by the visual system to determine the locus of attention.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Humans",
+            "Neurons",
+            "Parietal Lobe",
+            "Photic Stimulation",
+            "Reaction Time",
+            "Saccades",
+            "Time Factors",
+            "Visual Fields",
+            "Visual Pathways",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael E",
+                "Last Name": "Goldberg",
+                "Affiliation": "Mahoney Center for Brain and Behavior, Center for Neurobiology and Behavior, Columbia University College of Physicians and Surgeons, and the New York State Psychiatric Institute, New York, NY 10032, USA. meg2008@columbia.edu"
+            },
+            {
+                "First Name": "James W",
+                "Last Name": "Bisley",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Keith D",
+                "Last Name": "Powell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Progress in brain research",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16957080",
+        "Title": "Integration of exogenous input into a dynamic salience map revealed by perturbing attention.",
+        "Abstract": "Although it is widely accepted that exogenous and voluntary factors jointly determine the locus of attention, the rules governing the integration of these factors are poorly understood. We investigated neural responses in the lateral intraparietal area (LIP) to transient, distracting visual perturbations presented during task performance. Monkeys performed a covert search task in which they discriminated the orientation of a target embedded among distractors, and brief visual perturbations were presented at various moments and locations during task performance. LIP neurons responded to perturbations consisting of the appearance of new objects, as well as to abrupt changes in the color, luminance, or position of existing objects. The LIP response correlated with the bottom-up behavioral effects of different perturbation types. In addition, neurons showed two types of top-down modulations. One modulation was a context-specific multiplicative gain that affected perturbation, target, and distractor activity in a spatially nonspecific manner. Gain was higher in blocks of trials in which perturbations directly marked target location than in blocks in which they invariably appeared opposite the target, thus encoding a behavioral context defined by the statistical contingency between target and perturbation location. A second modulation reflected local competitive interactions with search-related activity, resulting in the converse effect: weaker perturbation-evoked responses if perturbations appeared at the location of the target than if they appeared opposite the target. Thus, LIP encodes an abstract dimension of salience, which is shaped by local and global top-down mechanisms. These interacting mechanisms regulate responsiveness to external input as a function of behavioral context and momentary task demands.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Brain Mapping",
+            "Evoked Potentials, Visual",
+            "Fixation, Ocular",
+            "Macaca mulatta",
+            "Parietal Lobe",
+            "Pattern Recognition, Visual",
+            "Photic Stimulation",
+            "Task Performance and Analysis",
+            "Volition"
+        ],
+        "Authors": [
+            {
+                "First Name": "Puiu F",
+                "Last Name": "Balan",
+                "Affiliation": "Center for Neurobiology and Behavior, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16899726",
+        "Title": "Integration of visuospatial and effector information during symbolically cued limb movements in monkey lateral intraparietal area.",
+        "Abstract": "Natural behavior requires close but flexible coordination between attention, defined as selection for perception, and action. In recent years a distributed network including the lateral intraparietal area (LIP) has been implicated in visuospatial selection for attention and rapid eye movements (saccades), but the relation between the attentional and motor functions of this area remains unclear. Here we tested LIP neurons in a task that involved not an ocular but a manual operant response. Monkeys viewed a display containing one cue and several distractors and reported the orientation of the cue (right- or left-facing) by releasing one of two bars grasped, respectively, with the right or left hand. The movement in this task thus was associated with (cued by), but not directed toward, the visual stimulus. A large majority of neurons responded more when the cue rather than when a distractor was in their receptive field, suggesting that they contribute to the attentional selection of the cue. A fraction of these neurons also was modulated by limb release, thus simultaneously encoding cue location and the active limb. The results suggest that the LIP links behaviorally relevant visual information with motor variables relevant for solving a task in a wide range of circumstances involving goal-directed or symbolically cued movements and eye as well as limb movements. A central function of the LIP may be to coordinate visual and motor selection during a wide variety of behaviors.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Cues",
+            "Evoked Potentials, Motor",
+            "Evoked Potentials, Visual",
+            "Extremities",
+            "Haplorhini",
+            "Information Storage and Retrieval",
+            "Interneurons",
+            "Movement",
+            "Parietal Lobe",
+            "Space Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jeff",
+                "Last Name": "Oristaglio",
+                "Affiliation": "Center for Neurobiology, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "David M",
+                "Last Name": "Schneider",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Puiu F",
+                "Last Name": "Balan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16819520",
+        "Title": "LIP responses to a popout stimulus are reduced if it is overtly ignored.",
+        "Abstract": "Bright objects capture our attention by virtue of 'popping out' from their surroundings. This correlates with strong responses in cortical areas thought to be important in attentional allocation. Previous studies have suggested that with the right mindset or training, humans can ignore popout stimuli. We studied the activity of neurons in monkey lateral intraparietal area while monkeys performed a visual search task. The monkeys were free to move their eyes, and a distractor, but never the search target, popped out. On trials in which the monkeys made a saccade directly to the search target, the popout distractor evoked a smaller response than the non-popout distractors. The intensity of the response to the popout correlated inversely with the monkeys' ability to ignore it. We suggest that this modulation corresponds to a top-down mechanism that the brain uses to adjust the parietal representation of salience.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Discrimination, Psychological",
+            "Electrophysiology",
+            "Humans",
+            "Macaca mulatta",
+            "Male",
+            "Neurons",
+            "Parietal Lobe",
+            "Psychomotor Performance",
+            "Reaction Time",
+            "Saccades",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anna E",
+                "Last Name": "Ipata",
+                "Affiliation": "Mahoney Center for Brain and Behavior, Center for Neurobiology and Behavior, Columbia University College of Physicians and Surgeons, and the New York State Psychiatric Institute, 1051 Riverside Drive, New York, New York 10032, USA. ai2019@columbia.edu"
+            },
+            {
+                "First Name": "Angela L",
+                "Last Name": "Gee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James W",
+                "Last Name": "Bisley",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael E",
+                "Last Name": "Goldberg",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "15616137",
+        "Title": "Simultaneous representation of saccade targets and visual onsets in monkey lateral intraparietal area.",
+        "Abstract": "The monkey's lateral intraparietal area (LIP) has been associated with attention and saccades. LIP neurons have visual on-responses to objects abruptly appearing in their receptive fields (RFs) and sustained activity preceding saccades to the RF. We studied the relationship between the on-responses and delay activity in LIP using a 'stable-array' task. Monkeys viewed eight distinct, continuously illuminated objects, arranged in a circle with at least one object in the RF. A cue flashed instructing the monkey to make a saccade, after a delay, to the stable object physically matching the cue. The location of the cue was fixed in trial blocks, either in or out of the RF. If the cue was outside the RF, neurons developed delay-period activity tuned for the direction of the saccade target at approximately 190 ms after cue onset. If the cue appeared in the RF, neurons initially responded to cue onset and developed tuning for saccade direction only toward the end of the delay period, 390 ms after cue onset. The cue- and saccade-target responses coexisted throughout a significant portion of the delay period. The results show that visual-on responses and delay-period activity in LIP are functionally separable, and that, although highly selective, the salience representation in LIP can contain more than one object at a time.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Macaca mulatta",
+            "Male",
+            "Parietal Lobe",
+            "Photic Stimulation",
+            "Psychomotor Performance",
+            "Reaction Time",
+            "Saccades",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Laboratory of Sensorimotor Research, National Institutes of Health, Bethesda, MD, USA. jg2141@columbia.edu"
+            },
+            {
+                "First Name": "Makoto",
+                "Last Name": "Kusunoki",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael E",
+                "Last Name": "Goldberg",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cerebral cortex (New York, N.Y. : 1991)",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "14726577",
+        "Title": "Neuroscience. Action, illusion, and perception.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Arm",
+            "Brain Mapping",
+            "Frontal Lobe",
+            "Hand",
+            "Humans",
+            "Illusions",
+            "Macaca",
+            "Motion Perception",
+            "Motor Cortex",
+            "Movement",
+            "Neurons",
+            "Psychomotor Performance"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Center for Neurobiology and Behavior, Mahoney Center for Brain and Behavior, and Department of Neurology, Columbia University, New York, NY 10027, USA. jg2141@columbia.edu"
+            },
+            {
+                "First Name": "Pietro",
+                "Last Name": "Mazzoni",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "12015228",
+        "Title": "Parietal mechanisms of target representation.",
+        "Abstract": "Recent single-neuron recordings show that representation of the external environment in the parietal lobe is highly selective for objects that are immediately relevant to behavior. Parietal neurons change their selectivity in accordance to immediate behavioral needs, integrate evidence about behavioral relevance from multiple sources, and appear to actively participate in the selection of potential behavioral targets. The selective parietal representations may represent a general-purpose attentional mechanism that can simultaneously specify targets for exploratory movements and for perception.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Distance Perception",
+            "Macaca",
+            "Movement",
+            "Parietal Lobe",
+            "Space Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": "Center for Neurobiology and Behavior, Columbia University, Kolb Research Annex, Room 820, 1051 Riverside Drive, New York, New York 10032, USA."
+            }
+        ],
+        "Journal": "Current opinion in neurobiology",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "11960805",
+        "Title": "The role of the lateral intraparietal area of the monkey in the generation of saccades and visuospatial attention.",
+        "Abstract": "The brain cannot monitor or react towards the entire world at a given time. Instead, using the process of attention, it selects objects in the world for further analysis. Neuronal activity in the monkey intraparietal area has the properties appropriate for a neuronal substrate of attention: instead of all objects being represented in the parietal cortex, only salient objects are. Such objects can be salient because of their physical properties (recently flashed objects or moving objects) or because they can be made important to the animal by virtue of a task. Although lateral intraparietal area (LIP) neurons respond through the delay period of a memory-guided saccade, they also respond in an enhanced manner to distractors flashed during the delay period of a memory-guided saccade being generated to a position outside the receptive field. This activity parallels the monkey's psychophysical attentional process: attention is ordinarily pinned at the goal of a memory-guided saccade, but it shifts briefly to the locus of a task-irrelevant distractor flashed briefly during the delay period and then returns to the goal. Although neurons in LIP have been implicated as being directly involved in the generation of saccadic eye movements, their activity does not predict where, when, or if a saccade will occur. The ensemble of activity in LIP, however, does accurately describe the locus of attention.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Attention",
+            "Macaca mulatta",
+            "Memory",
+            "Neurons",
+            "Parietal Lobe",
+            "Saccades",
+            "Space Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael E",
+                "Last Name": "Goldberg",
+                "Affiliation": "The Laboratory of Sensorimotor Research, National Eye Institute, Bethesda, Maryland 20892-4435, USA. meg@lsr.nei.nih.gov"
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Bisley",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Keith D",
+                "Last Name": "Powell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Gottlieb",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Makoto",
+                "Last Name": "Kusunoki",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annals of the New York Academy of Sciences",
+        "PubDate": "2002"
+    }
+]

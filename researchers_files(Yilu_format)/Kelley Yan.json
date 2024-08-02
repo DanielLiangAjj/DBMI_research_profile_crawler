@@ -1,0 +1,3296 @@
+[
+    {
+        "PMID": "38848678",
+        "Title": "Isthmus progenitor cells contribute to homeostatic cellular turnover and support regeneration following intestinal injury.",
+        "Abstract": "The currently accepted intestinal epithelial cell organization model proposes that Lgr5",
+        "Keywords": [
+            "adult stem cells",
+            "cell potency",
+            "epithelial stem cells",
+            "intestinal stem cells",
+            "intestine",
+            "plasticity",
+            "regeneration",
+            "regulatory network analysis",
+            "single cell",
+            "stemness signature"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Regeneration",
+            "Stem Cells",
+            "Homeostasis",
+            "Mice",
+            "Intestinal Mucosa",
+            "Receptors, G-Protein-Coupled",
+            "Intestines",
+            "Cell Differentiation",
+            "Mice, Inbred C57BL",
+            "Epithelial Cells",
+            "Single-Cell Analysis",
+            "Male"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ermanno",
+                "Last Name": "Malagola",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alessandro",
+                "Last Name": "Vasciaveo",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yosuke",
+                "Last Name": "Ochiai",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Woosook",
+                "Last Name": "Kim",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Biyun",
+                "Last Name": "Zheng",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA; Department of Gastroenterology, Fujian Medical University Union Hospital, Fujian 350000, China."
+            },
+            {
+                "First Name": "Luca",
+                "Last Name": "Zanella",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alexander L E",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Moritz",
+                "Last Name": "Middelhoff",
+                "Affiliation": "Klinik und Poliklinik f\u00fcr Innere Medizin II, Klinikum rechts der Isar, Technische Universit\u00e4t M\u00fcnchen, Munich, Germany."
+            },
+            {
+                "First Name": "Henrik",
+                "Last Name": "Nienh\u00fcser",
+                "Affiliation": "Department of General, Visceral and Transplant Surgery, University Hospital Heidelberg, Im Neuenheimer Feld 420, 69120 Heidelberg, Germany."
+            },
+            {
+                "First Name": "Lu",
+                "Last Name": "Deng",
+                "Affiliation": "Stowers Institute for Medical Research, Kansas City, MO 64110, USA; Department of Pathology and Laboratory Medicine, University of Kansas Medical Center, Kansas City, KS 66107, USA."
+            },
+            {
+                "First Name": "Feijing",
+                "Last Name": "Wu",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Quin T",
+                "Last Name": "Waterbury",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Bryana",
+                "Last Name": "Belin",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "LaBella",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Leah B",
+                "Last Name": "Zamechek",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Melissa H",
+                "Last Name": "Wong",
+                "Affiliation": "Department of Cell, Developmental & Cancer Biology, Oregon Health & Sciences University, 3181 SW Sam Jackson Park Road, L215, Portland, OR, USA."
+            },
+            {
+                "First Name": "Linheng",
+                "Last Name": "Li",
+                "Affiliation": "Stowers Institute for Medical Research, Kansas City, MO 64110, USA; Department of Pathology and Laboratory Medicine, University of Kansas Medical Center, Kansas City, KS 66107, USA."
+            },
+            {
+                "First Name": "Chandan",
+                "Last Name": "Guha",
+                "Affiliation": "Department of Radiation Oncology, Montefiore Medical Center, Albert Einstein College of Medicine, 1300 Morris Park Avenue, Bronx, NY 10461, USA."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Columbia Stem Cell Initiative, Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA; Columbia Stem Cell Initiative, Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY, USA; Columbia University Digestive and Liver Disease Research Center, New York, NY 10032, USA; Department of Medicine, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Medicine, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biochemistry & Molecular Biophysics, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biomedical Informatics, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032, USA; Chan Zuckerberg Biohub NY, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: ac2248@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Timothy C",
+                "Last Name": "Wang",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA; Columbia University Digestive and Liver Disease Research Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: tcw21@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38848677",
+        "Title": "Time-resolved fate mapping identifies the intestinal upper crypt zone as an origin of Lgr5+ crypt base columnar cells.",
+        "Abstract": "In the prevailing model, Lgr5+ cells are the only intestinal stem cells (ISCs) that sustain homeostatic epithelial regeneration by upward migration of progeny through elusive upper crypt transit-amplifying (TA) intermediates. Here, we identify a proliferative upper crypt population marked by Fgfbp1, in the location of putative TA cells, that is transcriptionally distinct from Lgr5+ cells. Using a kinetic reporter for time-resolved fate mapping and Fgfbp1-CreER",
+        "Keywords": [
+            "Fgfbp1",
+            "Lgr5",
+            "crypt base columnar cells",
+            "intestinal epithelium",
+            "intestinal stem cells",
+            "intestinal upper crypt",
+            "lineage hierarchy",
+            "time-resolved fate mapping",
+            "tissue regeneration",
+            "transit-amplifying cells"
+        ],
+        "MeSH terms": [
+            "Receptors, G-Protein-Coupled",
+            "Animals",
+            "Mice",
+            "Intestinal Mucosa",
+            "Stem Cells",
+            "Cell Lineage",
+            "Regeneration",
+            "Cell Proliferation",
+            "Epithelial Cells",
+            "Mice, Inbred C57BL",
+            "Homeostasis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Claudia",
+                "Last Name": "Capdevila",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Department of Genetics & Development, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Miller",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Department of Genetics & Development, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA; Department of Pediatrics, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Liang",
+                "Last Name": "Cheng",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Department of Genetics & Development, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Adam",
+                "Last Name": "Kornberg",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Department of Genetics & Development, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA; Department of Microbiology & Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Joel J",
+                "Last Name": "George",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Department of Genetics & Development, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Hyeonjeong",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Department of Genetics & Development, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Theo",
+                "Last Name": "Botella",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Department of Genetics & Development, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Christine S",
+                "Last Name": "Moon",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Department of Genetics & Development, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "John W",
+                "Last Name": "Murray",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Stephanie",
+                "Last Name": "Lam",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Department of Genetics & Development, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Ruben I",
+                "Last Name": "Calderon",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Department of Genetics & Development, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Ermanno",
+                "Last Name": "Malagola",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Gary",
+                "Last Name": "Whelan",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Department of Genetics & Development, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Chyuan-Sheng",
+                "Last Name": "Lin",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Department of Pathology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Arnold",
+                "Last Name": "Han",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA; Department of Microbiology & Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Timothy C",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA; Departments of Biochemistry & Molecular Biophysics and of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Department of Medicine, Division of Digestive & Liver Diseases, Columbia University Irving Medical Center, New York, NY, USA; Department of Genetics & Development, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Digestive & Liver Diseases Research Center, Columbia University Irving Medical Center, New York, NY, USA. Electronic address: ky2004@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37898454",
+        "Title": "Microbial-Dependent Recruitment of Immature Myeloid Cells Promotes Intestinal Regeneration.",
+        "Abstract": "The intestinal epithelium functions both in nutrient absorption and as a barrier, separating the luminal contents from a network of vascular, fibroblastic, and immune cells underneath. After injury to the intestine, multiple cell populations cooperate to drive regeneration of the mucosal barrier, including lymphatic endothelial cells (LECs). A population of granulocytic immature myeloid cells (IMCs), marked by Hdc, participate in regeneration of multiple organs such as the colon and central nervous system, and their contribution to intestinal regeneration was investigated.",
+        "Keywords": [
+            "Endothelial Cell",
+            "Microbiome",
+            "Myeloid",
+            "PGE2",
+            "RSPO3"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Female",
+            "Male",
+            "Mice",
+            "Cyclooxygenase 2",
+            "Endothelial Cells",
+            "Myeloid Cells",
+            "Prostaglandins",
+            "Red Fluorescent Protein",
+            "Regeneration",
+            "Intestines"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zhengyu",
+                "Last Name": "Jiang",
+                "Affiliation": "Division of Digestive and Liver Diseases Medicine, Irving Cancer Research Center, Department of Medicine, Columbia University Medical Center, New York, New York; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Quin T",
+                "Last Name": "Waterbury",
+                "Affiliation": "Division of Digestive and Liver Diseases Medicine, Irving Cancer Research Center, Department of Medicine, Columbia University Medical Center, New York, New York; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York; Institute of Human Nutrition, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Ermanno",
+                "Last Name": "Malagola",
+                "Affiliation": "Division of Digestive and Liver Diseases Medicine, Irving Cancer Research Center, Department of Medicine, Columbia University Medical Center, New York, New York; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Na",
+                "Last Name": "Fu",
+                "Affiliation": "Division of Digestive and Liver Diseases Medicine, Irving Cancer Research Center, Department of Medicine, Columbia University Medical Center, New York, New York; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York; Department of Traditional and Western Medical Hepatology, Third Hospital of Hebei Medical University, Shijiazhuang, Hebei, China."
+            },
+            {
+                "First Name": "Woosook",
+                "Last Name": "Kim",
+                "Affiliation": "Division of Digestive and Liver Diseases Medicine, Irving Cancer Research Center, Department of Medicine, Columbia University Medical Center, New York, New York; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Yosuke",
+                "Last Name": "Ochiai",
+                "Affiliation": "Division of Digestive and Liver Diseases Medicine, Irving Cancer Research Center, Department of Medicine, Columbia University Medical Center, New York, New York; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Feijing",
+                "Last Name": "Wu",
+                "Affiliation": "Division of Digestive and Liver Diseases Medicine, Irving Cancer Research Center, Department of Medicine, Columbia University Medical Center, New York, New York; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York; Department of Thyroid and Breast Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, Fujian, China."
+            },
+            {
+                "First Name": "Chandan",
+                "Last Name": "Guha",
+                "Affiliation": "Department of Radiation Oncology, Montefiore Medical Center, Bronx, New York; Department of Pathology, Albert Einstein College of Medicine, Bronx, New York."
+            },
+            {
+                "First Name": "Carrie J",
+                "Last Name": "Shawber",
+                "Affiliation": "Department of Obstetrics and Gynecology, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Division of Digestive and Liver Diseases Medicine, Irving Cancer Research Center, Department of Medicine, Columbia University Medical Center, New York, New York; Columbia Center for Human Development, Columbia University, New York, NY, USA; Department of Genetics and Development, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Timothy C",
+                "Last Name": "Wang",
+                "Affiliation": "Division of Digestive and Liver Diseases Medicine, Irving Cancer Research Center, Department of Medicine, Columbia University Medical Center, New York, New York; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York. Electronic address: tcw21@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Cellular and molecular gastroenterology and hepatology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37450575",
+        "Title": "Gluten induces rapid reprogramming of natural memory \u03b1\u03b2 and \u03b3\u03b4 intraepithelial T cells to induce cytotoxicity in celiac disease.",
+        "Abstract": "Celiac disease (CD) is an autoimmune disease in which intestinal inflammation is induced by dietary gluten. The means through which gluten-specific CD4",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Celiac Disease",
+            "Glutens",
+            "Intraepithelial Lymphocytes",
+            "T-Lymphocytes, Cytotoxic",
+            "Inflammation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Adam",
+                "Last Name": "Kornberg",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Theo",
+                "Last Name": "Botella",
+                "Affiliation": "Columbia Center for Human Development, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Christine S",
+                "Last Name": "Moon",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Samhita",
+                "Last Name": "Rao",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Jared",
+                "Last Name": "Gelbs",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Liang",
+                "Last Name": "Cheng",
+                "Affiliation": "Columbia Center for Human Development, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Miller",
+                "Affiliation": "Columbia Center for Human Development, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Alyssa M",
+                "Last Name": "Bacarella",
+                "Affiliation": "Department of Pediatrics, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Javier A",
+                "Last Name": "Garc\u00eda-Vilas",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Vargas",
+                "Affiliation": "Department of Medicine, Digestive and Liver Diseases, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Xuechen",
+                "Last Name": "Yu",
+                "Affiliation": "Celiac Disease Center, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Izabela",
+                "Last Name": "Krupska",
+                "Affiliation": "Department of Systems Biology, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Erin",
+                "Last Name": "Bush",
+                "Affiliation": "Department of Systems Biology, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Reuben",
+                "Last Name": "Garcia-Carrasquillo",
+                "Affiliation": "Department of Medicine, Digestive and Liver Diseases, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Benjamin",
+                "Last Name": "Lebwohl",
+                "Affiliation": "Department of Medicine, Digestive and Liver Diseases, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Suneeta",
+                "Last Name": "Krishnareddy",
+                "Affiliation": "Department of Medicine, Digestive and Liver Diseases, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Suzanne",
+                "Last Name": "Lewis",
+                "Affiliation": "Department of Medicine, Digestive and Liver Diseases, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Peter H R",
+                "Last Name": "Green",
+                "Affiliation": "Department of Medicine, Digestive and Liver Diseases, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Govind",
+                "Last Name": "Bhagat",
+                "Affiliation": "Celiac Disease Center, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Columbia Center for Human Development, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Arnold",
+                "Last Name": "Han",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University, New\u00a0York, NY, USA."
+            }
+        ],
+        "Journal": "Science immunology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36909592",
+        "Title": "Immature myeloid cells are indispensable for intestinal regeneration post irradiation injury.",
+        "Abstract": "The intestinal epithelium functions both in nutrient absorption and as a barrier, separating the luminal contents from a network of vascular, fibroblastic, and immune cells underneath. Following injury to the intestine, multiple different cell populations cooperate to drive regeneration of the mucosa. Immature myeloid cells (IMCs), marked by histidine decarboxylase ( ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Zhengyu",
+                "Last Name": "Jiang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Quin T",
+                "Last Name": "Waterbury",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Na",
+                "Last Name": "Fu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Woosook",
+                "Last Name": "Kim",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ermanno",
+                "Last Name": "Malagola",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chandan",
+                "Last Name": "Guha",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carrie J",
+                "Last Name": "Shawber",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Timothy C",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36622034",
+        "Title": "Modeling Oral-Esophageal Squamous Cell Carcinoma in 3D Organoids.",
+        "Abstract": "Esophageal squamous cell carcinoma (ESCC) is prevalent worldwide, accounting for 90% of all esophageal cancer cases each year, and is the deadliest of all human squamous cell carcinomas. Despite recent progress in defining the molecular changes accompanying ESCC initiation and development, patient prognosis remains poor. The functional annotation of these molecular changes is the necessary next step and requires models that both capture the molecular features of ESCC and can be readily and inexpensively manipulated for functional annotation. Mice treated with the tobacco smoke mimetic 4-nitroquinoline 1-oxide (4NQO) predictably form ESCC and esophageal preneoplasia. Of note, 4NQO lesions also arise in the oral cavity, most commonly in the tongue, as well as the forestomach, which all share the stratified squamous epithelium. However, these mice cannot be simply manipulated for functional hypothesis testing, as generating isogenic mouse models is time- and resource-intensive. Herein, we overcome this limitation by generating single cell-derived three-dimensional (3D) organoids from mice treated with 4NQO to characterize murine ESCC or preneoplastic cells ex vivo. These organoids capture the salient features of ESCC and esophageal preneoplasia, can be cheaply and quickly leveraged to form isogenic models, and can be utilized for syngeneic transplantation experiments. We demonstrate how to generate 3D organoids from normal, preneoplastic, and SCC murine esophageal tissue and maintain and cryopreserve these organoids. The applications of these versatile organoids are broad and include the utilization of genetically engineered mice and further characterization by flow cytometry or immunohistochemistry, the generation of isogeneic organoid lines using CRISPR technologies, and drug screening or syngeneic transplantation. We believe that the widespread adoption of the techniques demonstrated in this protocol will accelerate progress in this field to combat the severe burden of ESCC.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Mice",
+            "Animals",
+            "Esophageal Squamous Cell Carcinoma",
+            "Esophageal Neoplasms",
+            "Carcinoma, Squamous Cell",
+            "Squamous Cell Carcinoma of Head and Neck",
+            "Mouth Neoplasms",
+            "Head and Neck Neoplasms",
+            "Organoids",
+            "Cell Line, Tumor",
+            "Cell Proliferation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Samuel",
+                "Last Name": "Flashner",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University."
+            },
+            {
+                "First Name": "Cecilia",
+                "Last Name": "Martin",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University; Organoid and Cell Culture Core, Columbia University Digestive and Liver Diseases Research Center, Columbia University."
+            },
+            {
+                "First Name": "Norihiro",
+                "Last Name": "Matsuura",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University."
+            },
+            {
+                "First Name": "Masataka",
+                "Last Name": "Shimonosono",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University."
+            },
+            {
+                "First Name": "Yasuto",
+                "Last Name": "Tomita",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University."
+            },
+            {
+                "First Name": "Masaki",
+                "Last Name": "Morimoto",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University."
+            },
+            {
+                "First Name": "Ogoegbunam",
+                "Last Name": "Okolo",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University."
+            },
+            {
+                "First Name": "Victoria X",
+                "Last Name": "Yu",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University; Department of Otolaryngology, Head and Neck Surgery, Columbia University."
+            },
+            {
+                "First Name": "Anuraag S",
+                "Last Name": "Parikh",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University; Department of Otolaryngology, Head and Neck Surgery, Columbia University."
+            },
+            {
+                "First Name": "Andres J P",
+                "Last Name": "Klein-Szanto",
+                "Affiliation": "Histopathology Facility, Fox Chase Cancer Center."
+            },
+            {
+                "First Name": "Kelley",
+                "Last Name": "Yan",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University; Organoid and Cell Culture Core, Columbia University Digestive and Liver Diseases Research Center, Columbia University."
+            },
+            {
+                "First Name": "Joel T",
+                "Last Name": "Gabre",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University; Division of Digestive and Liver Diseases, Department of Medicine, Columbia University."
+            },
+            {
+                "First Name": "Chao",
+                "Last Name": "Lu",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University; Department of Genetics and Development, Columbia University."
+            },
+            {
+                "First Name": "Fatemeh",
+                "Last Name": "Momen-Heravi",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University; Section of Oral, Diagnostic and Rehabilitation Sciences, College of Dental Medicine, Columbia University."
+            },
+            {
+                "First Name": "Anil K",
+                "Last Name": "Rustgi",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University; Division of Digestive and Liver Diseases, Department of Medicine, Columbia University."
+            },
+            {
+                "First Name": "Hiroshi",
+                "Last Name": "Nakagawa",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University; Organoid and Cell Culture Core, Columbia University Digestive and Liver Diseases Research Center, Columbia University; Division of Digestive and Liver Diseases, Department of Medicine, Columbia University; hn2360@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Journal of visualized experiments : JoVE",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35679862",
+        "Title": "R-SPONDIN2",
+        "Abstract": "The human respiratory epithelium is derived from a progenitor cell in the distal buds of the developing lung. These \"bud tip progenitors\" are regulated by reciprocal signaling with surrounding mesenchyme; however, mesenchymal heterogeneity and function in the developing human lung are poorly understood. We interrogated single-cell RNA sequencing data from multiple human lung specimens and identified a mesenchymal cell population present during development that is highly enriched for expression of the WNT agonist RSPO2, and we found that the adjacent bud tip progenitors are enriched for the RSPO2 receptor LGR5. Functional experiments using organoid models, explant cultures, and FACS-isolated RSPO2",
+        "Keywords": [
+            "R-Spondin2",
+            "RSPO2",
+            "bud tip progenitor",
+            "human development",
+            "lung development",
+            "lung mesenchyme",
+            "lung organoid",
+            "mesenchymal cell",
+            "single-cell RNA-seq",
+            "stem cell niche"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Lung",
+            "Mesenchymal Stem Cells",
+            "Organogenesis",
+            "Organoids",
+            "Wnt Signaling Pathway"
+        ],
+        "Authors": [
+            {
+                "First Name": "Renee F C",
+                "Last Name": "Hein",
+                "Affiliation": "Department of Cell and Developmental Biology, University of Michigan Medical School, Ann Arbor, MI 48109, USA."
+            },
+            {
+                "First Name": "Joshua H",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Internal Medicine, Gastroenterology, University of Michigan Medical School, Ann Arbor, MI 48109, USA."
+            },
+            {
+                "First Name": "Emily M",
+                "Last Name": "Holloway",
+                "Affiliation": "Department of Cell and Developmental Biology, University of Michigan Medical School, Ann Arbor, MI 48109, USA."
+            },
+            {
+                "First Name": "Tristan",
+                "Last Name": "Frum",
+                "Affiliation": "Department of Internal Medicine, Gastroenterology, University of Michigan Medical School, Ann Arbor, MI 48109, USA."
+            },
+            {
+                "First Name": "Ansley S",
+                "Last Name": "Conchola",
+                "Affiliation": "Program in Cell and Molecular Biology, University of Michigan Medical School, Ann Arbor, MI 48109, USA."
+            },
+            {
+                "First Name": "Yu-Hwai",
+                "Last Name": "Tsai",
+                "Affiliation": "Department of Internal Medicine, Gastroenterology, University of Michigan Medical School, Ann Arbor, MI 48109, USA."
+            },
+            {
+                "First Name": "Angeline",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Internal Medicine, Gastroenterology, University of Michigan Medical School, Ann Arbor, MI 48109, USA."
+            },
+            {
+                "First Name": "Alexis S",
+                "Last Name": "Fine",
+                "Affiliation": "Department of Internal Medicine, Gastroenterology, University of Michigan Medical School, Ann Arbor, MI 48109, USA."
+            },
+            {
+                "First Name": "Alyssa J",
+                "Last Name": "Miller",
+                "Affiliation": "Program in Cell and Molecular Biology, University of Michigan Medical School, Ann Arbor, MI 48109, USA."
+            },
+            {
+                "First Name": "Emmanuelle",
+                "Last Name": "Szenker-Ravi",
+                "Affiliation": "Laboratory of Human Genetics & Therapeutics, Genome Institute of Singapore, A(\u2217)STAR, Singapore 138648, Singapore."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Columbia Center for Human Development, Columbia Stem Cell Initiative, Departments of Medicine and Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Calvin J",
+                "Last Name": "Kuo",
+                "Affiliation": "Department of Medicine, Division of Hematology, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Ian",
+                "Last Name": "Glass",
+                "Affiliation": "Department of Pediatrics, Genetic Medicine, University of Washington, Seattle, WA 98195, USA."
+            },
+            {
+                "First Name": "Bruno",
+                "Last Name": "Reversade",
+                "Affiliation": "Laboratory of Human Genetics & Therapeutics, Genome Institute of Singapore, A(\u2217)STAR, Singapore 138648, Singapore; Laboratory of Human Genetics & Therapeutics, Institute of Molecular and Cell Biology (IMCB), A\u2217STAR, Singapore; Medical Genetics Department, Ko\u00e7 University School of Medicine (KUSOM), Istanbul, Turkey."
+            },
+            {
+                "First Name": "Jason R",
+                "Last Name": "Spence",
+                "Affiliation": "Department of Cell and Developmental Biology, University of Michigan Medical School, Ann Arbor, MI 48109, USA; Department of Internal Medicine, Gastroenterology, University of Michigan Medical School, Ann Arbor, MI 48109, USA; Program in Cell and Molecular Biology, University of Michigan Medical School, Ann Arbor, MI 48109, USA; Department of Biomedical Engineering, University of Michigan College of Engineering, Ann Arbor, MI 48109, USA. Electronic address: spencejr@umich.edu."
+            }
+        ],
+        "Journal": "Developmental cell",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35443933",
+        "Title": "Presentation of the Julius M. Friedenwald Medal to Timothy C. Wang, MD, AGAF.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Awards and Prizes",
+            "Gastroenterology",
+            "History, 20th Century",
+            "Humans",
+            "Societies, Medical",
+            "United States"
+        ],
+        "Authors": [
+            {
+                "First Name": "Julian",
+                "Last Name": "Abrams",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Herbert Irving Comprehensive Cancer Center, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, New York. Electronic address: ja660@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Camilleri",
+                "Affiliation": "Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic Hospital and College of Medicine, Rochester, Minnesota."
+            },
+            {
+                "First Name": "Juanita",
+                "Last Name": "Merchant",
+                "Affiliation": "Division of Gastroenterology, Department of Medicine, University of Arizona Health Sciences, Tucson, Arizona."
+            },
+            {
+                "First Name": "Anil K",
+                "Last Name": "Rustgi",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Herbert Irving Comprehensive Cancer Center, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Kelley",
+                "Last Name": "Yan",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Herbert Irving Comprehensive Cancer Center, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, New York. Electronic address: ky2004@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Gastroenterology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35192548",
+        "Title": "Multiplexed single-cell analysis reveals prognostic and nonprognostic T cell types in human colorectal cancer.",
+        "Abstract": "Clinical outcomes in colorectal cancer (CRC) correlate with T cell infiltrates, but the specific contributions of heterogenous T cell types remain unclear. To investigate the diverse function of T cells in CRC, we profiled 37,931 T cells from tumors and adjacent normal colon of 16 patients with CRC with respect to transcriptome, TCR sequence, and cell surface markers. Our analysis identified phenotypically and functionally distinguishable effector T cell types. We employed single-cell gene signatures from these T cell subsets to query the TCGA database to assess their prognostic significance. We found 2 distinct cytotoxic T cell types. GZMK+KLRG1+ cytotoxic T cells were enriched in CRC patients with good outcomes. GNLY+CD103+ cytotoxic T cells with a dysfunctional phenotype were not associated with good outcomes, despite coexpression of CD39 and CD103, markers that denote tumor reactivity. We found 2 distinct Treg subtypes associated with opposite outcomes. While total Tregs were associated with good outcomes, CD38+ Tregs were associated with bad outcomes independently of stage and possessed a highly suppressive phenotype, suggesting that they inhibit antitumor immunity in CRC. These findings highlight the potential utility of these subpopulations in predicting outcomes and support the potential for novel therapies directed at CD38+ Tregs or CD8+CD103+ T cells.",
+        "Keywords": [
+            "Cancer immunotherapy",
+            "Colorectal cancer",
+            "Immunology",
+            "T cells"
+        ],
+        "MeSH terms": [
+            "CD8-Positive T-Lymphocytes",
+            "Colorectal Neoplasms",
+            "Humans",
+            "Prognosis",
+            "Single-Cell Analysis",
+            "T-Lymphocyte Subsets"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kazuya",
+                "Last Name": "Masuda",
+                "Affiliation": "Columbia Center for Translational Immunology."
+            },
+            {
+                "First Name": "Adam",
+                "Last Name": "Kornberg",
+                "Affiliation": "Columbia Center for Translational Immunology."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Miller",
+                "Affiliation": "Department of Pediatrics."
+            },
+            {
+                "First Name": "Sijie",
+                "Last Name": "Lin",
+                "Affiliation": "Columbia Center for Translational Immunology."
+            },
+            {
+                "First Name": "Nathan",
+                "Last Name": "Suek",
+                "Affiliation": "Columbia Center for Translational Immunology."
+            },
+            {
+                "First Name": "Theo",
+                "Last Name": "Botella",
+                "Affiliation": "Columbia Center for Human Development."
+            },
+            {
+                "First Name": "Kerim A",
+                "Last Name": "Secener",
+                "Affiliation": "Columbia Center for Translational Immunology."
+            },
+            {
+                "First Name": "Alyssa M",
+                "Last Name": "Bacarella",
+                "Affiliation": "Department of Pediatrics."
+            },
+            {
+                "First Name": "Liang",
+                "Last Name": "Cheng",
+                "Affiliation": "Columbia Center for Human Development."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Ingham",
+                "Affiliation": "Department of Medicine, Division of Hematology & Oncology."
+            },
+            {
+                "First Name": "Vilma",
+                "Last Name": "Rosario",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, and."
+            },
+            {
+                "First Name": "Ahmed M",
+                "Last Name": "Al-Mazrou",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, and."
+            },
+            {
+                "First Name": "Steven A",
+                "Last Name": "Lee-Kong",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, and."
+            },
+            {
+                "First Name": "Ravi P",
+                "Last Name": "Kiran",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, and."
+            },
+            {
+                "First Name": "Marlon",
+                "Last Name": "Stoeckius",
+                "Affiliation": "New York Genome Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Smibert",
+                "Affiliation": "New York Genome Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Armando",
+                "Last Name": "Del Portillo",
+                "Affiliation": "Department of Pathology."
+            },
+            {
+                "First Name": "Paul E",
+                "Last Name": "Oberstein",
+                "Affiliation": "Department of Medicine, Division of Hematology & Oncology."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Departments of Systems Biology and Biochemistry & Molecular Biophysics."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Columbia Center for Human Development."
+            },
+            {
+                "First Name": "Arnold",
+                "Last Name": "Han",
+                "Affiliation": "Columbia Center for Translational Immunology."
+            }
+        ],
+        "Journal": "JCI insight",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34835308",
+        "Title": "3D Organoids: An Untapped Platform for Studying Host-Microbiome Interactions in Esophageal Cancers.",
+        "Abstract": "The microbiome is an emerging key co-factor in the development of esophageal cancer, the sixth leading cause of cancer death worldwide. However, there is a paucity of data delineating how the microbiome contributes to the pathobiology of the two histological subtypes of esophageal cancer: esophageal squamous cell carcinoma and esophageal adenocarcinoma. This critical knowledge gap is partially due to inadequate modeling of host-microbiome interactions in the etiology of esophageal cancers. Recent advances have enabled progress in this field. Three dimensional (3D) organoids faithfully recapitulate the structure and function of the normal, preneoplastic, and neoplastic epithelia of the esophagus ex vivo and serve as a platform translatable for applications in precision medicine. Elsewhere in the gastrointestinal (GI) tract, the co-culture of 3D organoids with the bacterial microbiome has fostered insight into the pathogenic role of the microbiome in other GI cancers. Herein, we will summarize our current understanding of the relationship between the microbiome and esophageal cancer, discuss 3D organoid models of esophageal homeostasis, review analogous models of host-microbiome interactions in other GI cancers, and advocate for the application of these models to esophageal cancers. Together, we present a promising, novel approach with the potential to ameliorate the burden of esophageal cancer-related morbidity and mortality via improved prevention and therapeutic interventions.",
+        "Keywords": [
+            "3D organoids",
+            "Barrett\u2019s esophagus",
+            "barrier function",
+            "dysbiosis",
+            "esophageal adenocarcinoma",
+            "esophageal squamous cell carcinoma",
+            "host\u2013pathogen interactions",
+            "microbiome"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Samuel",
+                "Last Name": "Flashner",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Hiroshi",
+                "Last Name": "Nakagawa",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Microorganisms",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34575372",
+        "Title": "Epidermal-Derived Hedgehog Signaling Drives Mesenchymal Proliferation during Digit Tip Regeneration.",
+        "Abstract": "Hand injuries often result in significant functional impairments and are rarely completely restored. The spontaneous regeneration of injured appendages, which occurs in salamanders and newts, for example, has been reported in human fingertips after distal amputation, but this type of regeneration is rare in mammals and is incompletely understood. Here, we study fingertip regeneration by amputating murine digit tips, either distally to initiate regeneration, or proximally, causing fibrosis. Using an unbiased microarray analysis, we found that digit tip regeneration is significantly associated with hair follicle differentiation, Wnt, and sonic hedgehog (SHH) signaling pathways. Viral over-expression and genetic knockouts showed the functional significance of these pathways during regeneration. Using transgenic reporter mice, we demonstrated that, while both canonical Wnt and HH signaling were limited to epidermal tissues, downstream hedgehog signaling (through Gli) occurred in mesenchymal tissues. These findings reveal a mechanism for epidermal/mesenchyme interactions, governed by canonical hedgehog signaling, during digit regeneration. Further research into these pathways could lead to improved therapeutic outcomes after hand injuries in humans.",
+        "Keywords": [
+            "Wnt",
+            "clonal proliferation",
+            "digit tip",
+            "epimorphic regeneration",
+            "germ layer",
+            "hedgehog signaling",
+            "rainbow mouse",
+            "regeneration",
+            "sonic hedgehog"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Zeshaan N",
+                "Last Name": "Maan",
+                "Affiliation": "Department of Surgery, Division of Plastic and Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Yuval",
+                "Last Name": "Rinkevich",
+                "Affiliation": "Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Janos",
+                "Last Name": "Barrera",
+                "Affiliation": "Department of Surgery, Division of Plastic and Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Kellen",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Surgery, Division of Plastic and Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Dominic",
+                "Last Name": "Henn",
+                "Affiliation": "Department of Surgery, Division of Plastic and Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Deshka",
+                "Last Name": "Foster",
+                "Affiliation": "Department of Surgery, Division of Plastic and Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Clark Andrew",
+                "Last Name": "Bonham",
+                "Affiliation": "Department of Surgery, Division of Plastic and Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Jagannath",
+                "Last Name": "Padmanabhan",
+                "Affiliation": "Department of Surgery, Division of Plastic and Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Dharshan",
+                "Last Name": "Sivaraj",
+                "Affiliation": "Department of Surgery, Division of Plastic and Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Dominik",
+                "Last Name": "Duscher",
+                "Affiliation": "Department of Surgery, Division of Plastic and Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Hu",
+                "Affiliation": "Department of Surgery, Division of Plastic and Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Kelley",
+                "Last Name": "Yan",
+                "Affiliation": "Department of Medicine, Division of Digestive and Liver Diseases, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Januszyk",
+                "Affiliation": "Department of Surgery, Division of Plastic and Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Michael T",
+                "Last Name": "Longaker",
+                "Affiliation": "Department of Surgery, Division of Plastic and Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Irving L",
+                "Last Name": "Weissman",
+                "Affiliation": "Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Geoffrey C",
+                "Last Name": "Gurtner",
+                "Affiliation": "Department of Surgery, Division of Plastic and Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            }
+        ],
+        "Journal": "Journal of clinical medicine",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34431400",
+        "Title": "Cellular origins and lineage relationships of the intestinal epithelium.",
+        "Abstract": "Knowledge of the development and hierarchical organization of tissues is key to understanding how they are perturbed in injury and disease, as well as how they may be therapeutically manipulated to restore homeostasis. The rapidly regenerating intestinal epithelium harbors diverse cell types and their lineage relationships have been studied using numerous approaches, from classical label-retaining and genetic lineage tracing methods to novel transcriptome-based annotations. Here, we describe the developmental trajectories that dictate differentiation and lineage specification in the intestinal epithelium. We focus on the most recent single-cell RNA-sequencing (scRNA-seq)-based strategies for understanding intestinal epithelial cell lineage relationships, underscoring how they have refined our view of the development of this tissue and highlighting their advantages and limitations. We emphasize how these technologies have been applied to understand the dynamics of intestinal epithelial cells in homeostatic and injury-induced regeneration models.",
+        "Keywords": [
+            "differentiation",
+            "intestinal epithelium",
+            "intestinal stem cells",
+            "lineage hierarchy",
+            "single-cell RNA-sequencing"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cell Lineage",
+            "Humans",
+            "Intestinal Mucosa",
+            "RNA-Seq",
+            "Single-Cell Analysis",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Claudia",
+                "Last Name": "Capdevila",
+                "Affiliation": "Columbia Stem Cell Initiative, Division of Digestive and Liver Diseases, Department of Medicine, Columbia Center for Human Development, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Maria",
+                "Last Name": "Trifas",
+                "Affiliation": "Columbia Stem Cell Initiative, Division of Digestive and Liver Diseases, Department of Medicine, Columbia Center for Human Development, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Miller",
+                "Affiliation": "Columbia Stem Cell Initiative, Division of Digestive and Liver Diseases, Department of Medicine, Columbia Center for Human Development, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Troy",
+                "Last Name": "Anderson",
+                "Affiliation": "Columbia Stem Cell Initiative, Division of Digestive and Liver Diseases, Department of Medicine, Columbia Center for Human Development, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Columbia Stem Cell Initiative, Division of Digestive and Liver Diseases, Department of Medicine, Columbia Center for Human Development, Columbia University Irving Medical Center, New York, New York."
+            }
+        ],
+        "Journal": "American journal of physiology. Gastrointestinal and liver physiology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33753106",
+        "Title": "COVID-19 Gastrointestinal Symptoms and Attenuation of the Immune Response to SARS-CoV-2.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "COVID-19",
+            "Gastrointestinal Diseases",
+            "Humans",
+            "Immunity",
+            "SARS-CoV-2"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Miller",
+                "Affiliation": "Department of Pediatrics, Division of Pediatric Gastroenterology, Hepatology, and Nutrition, Morgan Stanley Children's Hospital, Columbia University Irving Medical Center and, Columbia Center for Human Development, Columbia Stem Cell Initiative, Department of Medicine, Division of Digestive and Liver Diseases, Department of Genetics and Development, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Columbia Center for Human Development, Columbia Stem Cell Initiative, Department of Medicine, Division of Digestive and Liver Diseases, Department of Genetics and Development, Columbia University Irving Medical Center, New York, New York. Electronic address: ky2004@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Gastroenterology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "32705640",
+        "Title": "Single-Cell Studies of Intestinal Stem Cell Heterogeneity During Homeostasis and Regeneration.",
+        "Abstract": "Single-cell RNA-sequencing (scRNA-seq) provides a unique opportunity to study heterogeneous cell populations within tissues, including the intestinal epithelium, to gain detailed molecular insights into their biology. Many new putative markers of intestinal stem cells and their progeny have been described using single-cell transcriptomics, which has contributed to the identification of novel subpopulations of mature cell types and insight into their developmental trajectories. This approach has revealed tremendous cellular heterogeneity within the intestinal epithelium that is concordant with its diverse and multifaceted functions. We discuss the function of these subpopulations during tissue homeostasis, as well as putative subpopulations with inducible regenerative potential following tissue injury.",
+        "Keywords": [
+            "Differentiation",
+            "Epithelium",
+            "Homeostasis",
+            "Intestine",
+            "Lineage",
+            "Plasticity",
+            "Regeneration",
+            "Single-cell RNA-sequencing",
+            "Stem cell"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cell Differentiation",
+            "Computational Biology",
+            "Homeostasis",
+            "Humans",
+            "Intestinal Mucosa",
+            "Sequence Analysis, RNA",
+            "Single-Cell Analysis",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Maxim",
+                "Last Name": "Norkin",
+                "Affiliation": "Swiss Institute for Experimental Cancer Research, \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne, Lausanne, Switzerland."
+            },
+            {
+                "First Name": "Claudia",
+                "Last Name": "Capdevila",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia Center for Human Development, Columbia Stem Cell Initiative, New York, NY, USA."
+            },
+            {
+                "First Name": "Ruben I",
+                "Last Name": "Calderon",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia Center for Human Development, Columbia Stem Cell Initiative, New York, NY, USA."
+            },
+            {
+                "First Name": "Tianhong",
+                "Last Name": "Su",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia Center for Human Development, Columbia Stem Cell Initiative, New York, NY, USA."
+            },
+            {
+                "First Name": "Maria",
+                "Last Name": "Trifas",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia Center for Human Development, Columbia Stem Cell Initiative, New York, NY, USA."
+            },
+            {
+                "First Name": "Paloma",
+                "Last Name": "Ord\u00f3\u00f1ez-Mor\u00e1n",
+                "Affiliation": "Department of Cancer and Stem Cells, School of Medicine, Biodiscovery Institute, University of Nottingham, Nottingham, UK. paloma.ordonezmoran@nottingham.ac.uk."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia Center for Human Development, Columbia Stem Cell Initiative, New York, NY, USA. ky2004@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Methods in molecular biology (Clifton, N.J.)",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32705639",
+        "Title": "Single-Cell Transcriptional Profiling of the Intestinal Epithelium.",
+        "Abstract": "Emerging single-cell technologies, like single-cell RNA sequencing (scRNA-seq), enable the study of heterogeneous biological systems at cellular resolution. By profiling the set of expressed transcripts in each cell, single-cell transcriptomics has allowed for the cataloging of the cellular constituents of multiple organs and tissues, both in health and disease. In addition, these technologies have provided mechanistic insights into cellular function, cell state transitions, developmental trajectories and lineage relationships, as well as helped to dissect complex, population-level responses to environmental perturbations. scRNA-seq is particularly useful for characterizing the intestinal epithelium because it is a dynamic, rapidly self-renewing tissue comprised of more than a dozen specialized cell types. Here we discuss the fundamentals of single-cell transcriptomics of the murine small intestinal epithelium. We review the principles of proper experimental design and provide methods for the dissociation of the small intestinal epithelium into single cells followed by fluorescence-activated cell sorting (FACS) and for scRNA-seq using the 10\u00d7 Genomics Chromium platform.",
+        "Keywords": [
+            "Flow cytometry",
+            "Intestinal epithelium",
+            "RNA-sequencing",
+            "Single-cell",
+            "Transcriptomics"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Computational Biology",
+            "Flow Cytometry",
+            "Gene Expression Profiling",
+            "Immunohistochemistry",
+            "Intestinal Mucosa",
+            "Mice",
+            "Real-Time Polymerase Chain Reaction",
+            "Sequence Analysis, RNA",
+            "Single-Cell Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Claudia",
+                "Last Name": "Capdevila",
+                "Affiliation": "Columbia Center for Human Development, Columbia Stem Cell Initiative, Division of Digestive & Liver Diseases, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Ruben I",
+                "Last Name": "Calderon",
+                "Affiliation": "Columbia Center for Human Development, Columbia Stem Cell Initiative, Division of Digestive & Liver Diseases, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Erin C",
+                "Last Name": "Bush",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Kismet",
+                "Last Name": "Sheldon-Collins",
+                "Affiliation": "Columbia Center for Human Development, Columbia Stem Cell Initiative, Division of Digestive & Liver Diseases, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Columbia Center for Human Development, Columbia Stem Cell Initiative, Division of Digestive & Liver Diseases, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA. ky2004@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Methods in molecular biology (Clifton, N.J.)",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32502530",
+        "Title": "Insulin-like Growth Factor-1 and mTORC1 Signaling Promote the Intestinal Regenerative Response After Irradiation Injury.",
+        "Abstract": "Intestinal crypts have a remarkable capacity to regenerate after injury from loss of crypt base columnar (CBC) stem cells. After injury, facultative stem cells (FSCs) are activated to replenish the epithelium and replace lost CBCs. Our aim was to assess the role of insulin-like growth factor-1 (IGF-1) to activate FSCs for crypt repair.",
+        "Keywords": [
+            "Crypt Regeneration",
+            "IGF-1",
+            "Intestinal Repair",
+            "Intestinal Stem Cells",
+            "Rapamycin",
+            "Raptor"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Gamma Rays",
+            "Insulin-Like Growth Factor I",
+            "Intestinal Mucosa",
+            "Male",
+            "Mechanistic Target of Rapamycin Complex 1",
+            "Mice",
+            "Radiation Injuries, Experimental",
+            "Regeneration",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Natacha",
+                "Last Name": "Bohin",
+                "Affiliation": "Department of Molecular and Integrative Physiology, University of Michigan, Ann Arbor, Michigan; Cellular and Molecular Biology Graduate Program, University of Michigan, Ann Arbor, Michigan."
+            },
+            {
+                "First Name": "Kevin P",
+                "Last Name": "McGowan",
+                "Affiliation": "Department of Molecular and Integrative Physiology, University of Michigan, Ann Arbor, Michigan."
+            },
+            {
+                "First Name": "Theresa M",
+                "Last Name": "Keeley",
+                "Affiliation": "Department of Molecular and Integrative Physiology, University of Michigan, Ann Arbor, Michigan."
+            },
+            {
+                "First Name": "Elizabeth A",
+                "Last Name": "Carlson",
+                "Affiliation": "Department of Molecular and Integrative Physiology, University of Michigan, Ann Arbor, Michigan."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Columbia Center for Human Development, Columbia Stem Cell Initiative, Departments of Medicine and Genetics and Development, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Linda C",
+                "Last Name": "Samuelson",
+                "Affiliation": "Department of Molecular and Integrative Physiology, University of Michigan, Ann Arbor, Michigan; Cellular and Molecular Biology Graduate Program, University of Michigan, Ann Arbor, Michigan. Electronic address: lcsam@umich.edu."
+            }
+        ],
+        "Journal": "Cellular and molecular gastroenterology and hepatology",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31913277",
+        "Title": "Prox1-positive cells monitor and sustain the murine intestinal epithelial cholinergic niche.",
+        "Abstract": "The enteric neurotransmitter acetylcholine governs important intestinal epithelial secretory and immune functions through its actions on epithelial muscarinic Gq-coupled receptors such as M3R. Its role in the regulation of intestinal stem cell function and differentiation, however, has not been clarified. Here, we find that nonselective muscarinic receptor antagonism in mice as well as epithelial-specific ablation of M3R induces a selective expansion of DCLK1-positive tuft cells, suggesting a model of feedback inhibition. Cholinergic blockade reduces Lgr5-positive intestinal stem cell tracing and cell number. In contrast, Prox1-positive endocrine cells appear as primary sensors of cholinergic blockade inducing the expansion of tuft cells, which adopt an enteroendocrine phenotype and contribute to increased mucosal levels of acetylcholine. This compensatory mechanism is lost with acute irradiation injury, resulting in a paucity of tuft cells and acetylcholine production. Thus, enteroendocrine tuft cells appear essential to maintain epithelial homeostasis following modifications of the cholinergic intestinal niche.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acetylcholine",
+            "Animals",
+            "Doublecortin-Like Kinases",
+            "Enteroendocrine Cells",
+            "Female",
+            "Homeodomain Proteins",
+            "Intestinal Mucosa",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Neurotransmitter Agents",
+            "Protein Serine-Threonine Kinases",
+            "Receptors, G-Protein-Coupled",
+            "Tumor Suppressor Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Moritz",
+                "Last Name": "Middelhoff",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Henrik",
+                "Last Name": "Nienh\u00fcser",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Giovanni",
+                "Last Name": "Valenti",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "H Carlo",
+                "Last Name": "Maurer",
+                "Affiliation": "Klinikum rechts der Isar, II. Medizinische Klinik, Technische Universit\u00e4t M\u00fcnchen, 81675, Munich, Germany."
+            },
+            {
+                "First Name": "Yoku",
+                "Last Name": "Hayakawa",
+                "Affiliation": "Graduate School of Medicine, Department of Gastroenterology, The University of Tokyo, Tokyo, 113-0033, Japan."
+            },
+            {
+                "First Name": "Ryota",
+                "Last Name": "Takahashi",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Woosook",
+                "Last Name": "Kim",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Zhengyu",
+                "Last Name": "Jiang",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Ermanno",
+                "Last Name": "Malagola",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Krystle",
+                "Last Name": "Cuti",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Yagnesh",
+                "Last Name": "Tailor",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Leah B",
+                "Last Name": "Zamechek",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Bernhard W",
+                "Last Name": "Renz",
+                "Affiliation": "Klinik f\u00fcr Allgemein-, Viszeral- und Transplantationschirurgie, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, 81377, Munich, Germany."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Quante",
+                "Affiliation": "Klinikum rechts der Isar, II. Medizinische Klinik, Technische Universit\u00e4t M\u00fcnchen, 81675, Munich, Germany."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Timothy C",
+                "Last Name": "Wang",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, NY, 10032, USA. tcw21@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "30448068",
+        "Title": "BHLHA15-Positive Secretory Precursor Cells Can Give Rise to Tumors in Intestine and Colon in Mice.",
+        "Abstract": "The intestinal epithelium is maintained by long-lived intestinal stem cells (ISCs) that reside near the crypt base. Above the ISC zone, there are short-lived progenitors that normally give rise to lineage-specific differentiated cell types but can dedifferentiate into ISCs in certain circumstances. However, the role of epithelial dedifferentiation in cancer development has not been fully elucidated.",
+        "Keywords": [
+            "Colon Cancer",
+            "Interconversion",
+            "Tumorigenesis",
+            "Yes Associated Protein 1"
+        ],
+        "MeSH terms": [
+            "Adaptor Proteins, Signal Transducing",
+            "Animals",
+            "Antibiotics, Antineoplastic",
+            "Antineoplastic Agents, Hormonal",
+            "Basic Helix-Loop-Helix Transcription Factors",
+            "CD24 Antigen",
+            "Calcium-Binding Proteins",
+            "Cell Cycle Proteins",
+            "Cell Plasticity",
+            "Chromogranin A",
+            "Colonic Neoplasms",
+            "Doxorubicin",
+            "Enterocytes",
+            "Gene Expression",
+            "Gene Expression Profiling",
+            "Intercellular Signaling Peptides and Proteins",
+            "Intestinal Mucosa",
+            "Intestine, Small",
+            "Mice",
+            "Neoplasm Proteins",
+            "Neoplastic Stem Cells",
+            "Pancreatitis-Associated Proteins",
+            "Paneth Cells",
+            "Phosphoproteins",
+            "Proto-Oncogene Proteins c-kit",
+            "Receptors, G-Protein-Coupled",
+            "Receptors, Notch",
+            "Signal Transduction",
+            "Stem Cells",
+            "Tamoxifen",
+            "Transcriptome",
+            "YAP-Signaling Proteins",
+            "src-Family Kinases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yoku",
+                "Last Name": "Hayakawa",
+                "Affiliation": "Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan; Division of Digestive and Liver Disease, Department of Medicine, Columbia University, New York, New York. Electronic address: yhayakawa-tky@umin.ac.jp."
+            },
+            {
+                "First Name": "Mayo",
+                "Last Name": "Tsuboi",
+                "Affiliation": "Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+            },
+            {
+                "First Name": "Samuel",
+                "Last Name": "Asfaha",
+                "Affiliation": "Department of Medicine, University of Western Ontario, London, Ontario, Canada."
+            },
+            {
+                "First Name": "Hiroto",
+                "Last Name": "Kinoshita",
+                "Affiliation": "Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+            },
+            {
+                "First Name": "Ryota",
+                "Last Name": "Niikura",
+                "Affiliation": "Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+            },
+            {
+                "First Name": "Mitsuru",
+                "Last Name": "Konishi",
+                "Affiliation": "Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+            },
+            {
+                "First Name": "Masahiro",
+                "Last Name": "Hata",
+                "Affiliation": "Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+            },
+            {
+                "First Name": "Yukiko",
+                "Last Name": "Oya",
+                "Affiliation": "Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+            },
+            {
+                "First Name": "Woosook",
+                "Last Name": "Kim",
+                "Affiliation": "Division of Digestive and Liver Disease, Department of Medicine, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Moritz",
+                "Last Name": "Middelhoff",
+                "Affiliation": "Division of Digestive and Liver Disease, Department of Medicine, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Yohko",
+                "Last Name": "Hikiba",
+                "Affiliation": "The Institute for Adult Diseases, Asahi-Life Foundation, Tokyo, Japan."
+            },
+            {
+                "First Name": "Naoko",
+                "Last Name": "Higashijima",
+                "Affiliation": "The Institute for Adult Diseases, Asahi-Life Foundation, Tokyo, Japan."
+            },
+            {
+                "First Name": "Sozaburo",
+                "Last Name": "Ihara",
+                "Affiliation": "The Institute for Adult Diseases, Asahi-Life Foundation, Tokyo, Japan."
+            },
+            {
+                "First Name": "Tetsuo",
+                "Last Name": "Ushiku",
+                "Affiliation": "Department of Pathology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+            },
+            {
+                "First Name": "Masashi",
+                "Last Name": "Fukayama",
+                "Affiliation": "Department of Pathology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+            },
+            {
+                "First Name": "Yagnesh",
+                "Last Name": "Tailor",
+                "Affiliation": "Division of Digestive and Liver Disease, Department of Medicine, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Yoshihiro",
+                "Last Name": "Hirata",
+                "Affiliation": "Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+            },
+            {
+                "First Name": "Chandan",
+                "Last Name": "Guha",
+                "Affiliation": "Department of Radiation Oncology, Albert Einstein College of Medicine, New York, New York."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Division of Digestive and Liver Disease, Department of Medicine, Columbia University, New York, New York; Department of Genetics and Development, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Kazuhiko",
+                "Last Name": "Koike",
+                "Affiliation": "Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+            },
+            {
+                "First Name": "Timothy C",
+                "Last Name": "Wang",
+                "Affiliation": "Division of Digestive and Liver Disease, Department of Medicine, Columbia University, New York, New York. Electronic address: tcw21@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Gastroenterology",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30075126",
+        "Title": "Intestinal Crypts Assume the Fetal Position in Response to Injury.",
+        "Abstract": "Distinct stem/progenitor cells generate intestinal epithelium during fetal and postnatal life. In a recent issue of Nature, Nusse and Savage et\u00a0al. use helminth infection to show that Lgr5",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Helminths",
+            "Intestinal Mucosa",
+            "Intestines",
+            "Regeneration",
+            "Stem Cell Niche",
+            "Stem Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Adam R",
+                "Last Name": "Pont",
+                "Affiliation": "Columbia Center for Human Development, Columbia Stem Cell Initiative, Department of Medicine, Division of Digestive and Liver Diseases, and Department of Genetics & Development, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Columbia Center for Human Development, Columbia Stem Cell Initiative, Department of Medicine, Division of Digestive and Liver Diseases, and Department of Genetics & Development, Columbia University Medical Center, New York, NY 10032, USA. Electronic address: ky2004@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Cell stem cell",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28686870",
+        "Title": "Intestinal Enteroendocrine Lineage Cells Possess Homeostatic and Injury-Inducible Stem Cell Activity.",
+        "Abstract": "Several cell populations have been reported to possess intestinal stem cell (ISC) activity during homeostasis and injury-induced regeneration. Here, we explored inter-relationships between putative mouse ISC populations by comparative RNA-sequencing (RNA-seq). The transcriptomes of multiple cycling ISC populations closely resembled Lgr5",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Antigens, Differentiation",
+            "Enteroendocrine Cells",
+            "Gene Expression Regulation",
+            "Intestinal Mucosa",
+            "Jejunum",
+            "Mice",
+            "Mice, Transgenic",
+            "Stem Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA; Columbia Center for Human Development, Columbia Stem Cell Initiative, Department of Medicine, Division of Digestive and Liver Diseases, Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Olivier",
+                "Last Name": "Gevaert",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Grace X Y",
+                "Last Name": "Zheng",
+                "Affiliation": "10x Genomics, Inc., Pleasanton, CA 94566, USA."
+            },
+            {
+                "First Name": "Benedict",
+                "Last Name": "Anchang",
+                "Affiliation": "Department of Radiology, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Christopher S",
+                "Last Name": "Probert",
+                "Affiliation": "Department of Genetics, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Kathryn A",
+                "Last Name": "Larkin",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Paige S",
+                "Last Name": "Davies",
+                "Affiliation": "Oregon Health & Science University, Department of Cell, Developmental and Cancer Biology, Portland, OR 97239, USA."
+            },
+            {
+                "First Name": "Zhuan-Fen",
+                "Last Name": "Cheng",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "John S",
+                "Last Name": "Kaddis",
+                "Affiliation": "Department of Diabetes and Cancer Discovery Science, City of Hope Comprehensive Cancer Center, Duarte, CA 91010, USA."
+            },
+            {
+                "First Name": "Arnold",
+                "Last Name": "Han",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA; Columbia Center for Translational Immunology, Department of Medicine, Division of Digestive and Liver Diseases, Department of Microbiology and Immunology, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Kelly",
+                "Last Name": "Roelf",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Ruben I",
+                "Last Name": "Calderon",
+                "Affiliation": "Columbia Center for Human Development, Columbia Stem Cell Initiative, Department of Medicine, Division of Digestive and Liver Diseases, Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Esther",
+                "Last Name": "Cynn",
+                "Affiliation": "Columbia Center for Human Development, Columbia Stem Cell Initiative, Department of Medicine, Division of Digestive and Liver Diseases, Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Xiaoyi",
+                "Last Name": "Hu",
+                "Affiliation": "Columbia Center for Human Development, Columbia Stem Cell Initiative, Department of Medicine, Division of Digestive and Liver Diseases, Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Komal",
+                "Last Name": "Mandleywala",
+                "Affiliation": "Columbia Center for Human Development, Columbia Stem Cell Initiative, Department of Medicine, Division of Digestive and Liver Diseases, Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Julie",
+                "Last Name": "Wilhelmy",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Sue M",
+                "Last Name": "Grimes",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "David C",
+                "Last Name": "Corney",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "St\u00e9phane C",
+                "Last Name": "Boutet",
+                "Affiliation": "10x Genomics, Inc., Pleasanton, CA 94566, USA."
+            },
+            {
+                "First Name": "Jessica M",
+                "Last Name": "Terry",
+                "Affiliation": "10x Genomics, Inc., Pleasanton, CA 94566, USA."
+            },
+            {
+                "First Name": "Phillip",
+                "Last Name": "Belgrader",
+                "Affiliation": "10x Genomics, Inc., Pleasanton, CA 94566, USA."
+            },
+            {
+                "First Name": "Solongo B",
+                "Last Name": "Ziraldo",
+                "Affiliation": "10x Genomics, Inc., Pleasanton, CA 94566, USA."
+            },
+            {
+                "First Name": "Tarjei S",
+                "Last Name": "Mikkelsen",
+                "Affiliation": "10x Genomics, Inc., Pleasanton, CA 94566, USA."
+            },
+            {
+                "First Name": "Fengchao",
+                "Last Name": "Wang",
+                "Affiliation": "Stowers Institute for Medical Research, Kansas City, MO 64110, USA."
+            },
+            {
+                "First Name": "Richard J",
+                "Last Name": "von Furstenberg",
+                "Affiliation": "Department of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+            },
+            {
+                "First Name": "Nicholas R",
+                "Last Name": "Smith",
+                "Affiliation": "Oregon Health & Science University, Department of Cell, Developmental and Cancer Biology, Portland, OR 97239, USA."
+            },
+            {
+                "First Name": "Parthasarathy",
+                "Last Name": "Chandrakesan",
+                "Affiliation": "Department of Internal Medicine, Division of Digestive Diseases and Nutrition, University of Oklahoma Health Sciences Center, Oklahoma City, OK 73104, USA."
+            },
+            {
+                "First Name": "Randal",
+                "Last Name": "May",
+                "Affiliation": "Department of Internal Medicine, Division of Digestive Diseases and Nutrition, University of Oklahoma Health Sciences Center, Oklahoma City, OK 73104, USA."
+            },
+            {
+                "First Name": "Mary Ann S",
+                "Last Name": "Chrissy",
+                "Affiliation": "Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA."
+            },
+            {
+                "First Name": "Rajan",
+                "Last Name": "Jain",
+                "Affiliation": "Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA."
+            },
+            {
+                "First Name": "Christine A",
+                "Last Name": "Cartwright",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Joyce C",
+                "Last Name": "Niland",
+                "Affiliation": "Department of Diabetes and Cancer Discovery Science, City of Hope Comprehensive Cancer Center, Duarte, CA 91010, USA."
+            },
+            {
+                "First Name": "Young-Kwon",
+                "Last Name": "Hong",
+                "Affiliation": "Departments of Surgery and of Biochemistry & Molecular Biology, Keck School of Medicine, University of Southern California, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Jill",
+                "Last Name": "Carrington",
+                "Affiliation": "National Institutes of Health, Division of Digestive Diseases and Nutrition, NIDDK, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Breault",
+                "Affiliation": "Division of Endocrinology, Boston Children's Hospital, Boston, MA 02115, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Epstein",
+                "Affiliation": "Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA."
+            },
+            {
+                "First Name": "Courtney W",
+                "Last Name": "Houchen",
+                "Affiliation": "Department of Internal Medicine, Division of Digestive Diseases and Nutrition, University of Oklahoma Health Sciences Center, Oklahoma City, OK 73104, USA."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Lynch",
+                "Affiliation": "Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA."
+            },
+            {
+                "First Name": "Martin G",
+                "Last Name": "Martin",
+                "Affiliation": "Department of Pediatrics, Division of Gastroenterology and Nutrition, Mattel Children's Hospital and the David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+            },
+            {
+                "First Name": "Sylvia K",
+                "Last Name": "Plevritis",
+                "Affiliation": "Department of Radiology, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Christina",
+                "Last Name": "Curtis",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA; Department of Genetics, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Hanlee P",
+                "Last Name": "Ji",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Linheng",
+                "Last Name": "Li",
+                "Affiliation": "Stowers Institute for Medical Research, Kansas City, MO 64110, USA."
+            },
+            {
+                "First Name": "Susan J",
+                "Last Name": "Henning",
+                "Affiliation": "Department of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+            },
+            {
+                "First Name": "Melissa H",
+                "Last Name": "Wong",
+                "Affiliation": "Oregon Health & Science University, Department of Cell, Developmental and Cancer Biology, Portland, OR 97239, USA."
+            },
+            {
+                "First Name": "Calvin J",
+                "Last Name": "Kuo",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA. Electronic address: cjkuo@stanford.edu."
+            }
+        ],
+        "Journal": "Cell stem cell",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28684459",
+        "Title": "Dclk1-expressing tuft cells: critical modulators of the intestinal niche?",
+        "Abstract": "",
+        "Keywords": [
+            "cancer initiation",
+            "inflammation",
+            "intestinal stem cells",
+            "niche cell",
+            "tuft cell"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cellular Microenvironment",
+            "Chemoreceptor Cells",
+            "Doublecortin-Like Kinases",
+            "Humans",
+            "Intestinal Mucosa",
+            "Intracellular Signaling Peptides and Proteins",
+            "Models, Biological",
+            "Multipotent Stem Cells",
+            "Protein Serine-Threonine Kinases",
+            "Regeneration",
+            "Stem Cell Niche"
+        ],
+        "Authors": [
+            {
+                "First Name": "Moritz",
+                "Last Name": "Middelhoff",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "C Benedikt",
+                "Last Name": "Westphalen",
+                "Affiliation": "Medizinische Klinik und Poliklinik III, Klinikum der Universit\u00e4t M\u00fcnchen, Munich, Germany."
+            },
+            {
+                "First Name": "Yoku",
+                "Last Name": "Hayakawa",
+                "Affiliation": "Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Michael D",
+                "Last Name": "Gershon",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Timothy C",
+                "Last Name": "Wang",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Quante",
+                "Affiliation": "II. Medizinische Klinik, Klinikum Rechts der Isar, Technische Universit\u00e4t M\u00fcnchen, Munich, Germany; michael.quante@tum.de."
+            }
+        ],
+        "Journal": "American journal of physiology. Gastrointestinal and liver physiology",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28467820",
+        "Title": "Non-equivalence of Wnt and R-spondin ligands during Lgr5",
+        "Abstract": "The canonical Wnt/\u03b2-catenin signalling pathway governs diverse developmental, homeostatic and pathological processes. Palmitoylated Wnt ligands engage cell-surface frizzled (FZD) receptors and LRP5 and LRP6 co-receptors, enabling \u03b2-catenin nuclear translocation and TCF/LEF-dependent gene transactivation. Mutations in Wnt downstream signalling components have revealed diverse functions thought to be carried out by Wnt ligands themselves. However, redundancy between the 19 mammalian Wnt proteins and 10 FZD receptors and Wnt hydrophobicity have made it difficult to attribute these functions directly to Wnt ligands. For example, individual mutations in Wnt ligands have not revealed homeostatic phenotypes in the intestinal epithelium-an archetypal canonical, Wnt pathway-dependent, rapidly self-renewing tissue, the regeneration of which is fueled by proliferative crypt Lgr5",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Lineage",
+            "Cell Proliferation",
+            "Cell Self Renewal",
+            "Female",
+            "Humans",
+            "Intestines",
+            "Ligands",
+            "Male",
+            "Mice",
+            "Organoids",
+            "Receptors, G-Protein-Coupled",
+            "Single-Cell Analysis",
+            "Stem Cell Niche",
+            "Stem Cells",
+            "Thrombospondins",
+            "Transcriptome",
+            "Ubiquitin-Protein Ligases",
+            "Wnt Proteins",
+            "beta Catenin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Claudia Y",
+                "Last Name": "Janda",
+                "Affiliation": "Department of Molecular and Cellular Physiology, Howard Hughes Medical Institute, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Junlei",
+                "Last Name": "Chang",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Grace X Y",
+                "Last Name": "Zheng",
+                "Affiliation": "10x Genomics, Inc., Pleasanton, California 94566, USA."
+            },
+            {
+                "First Name": "Kathryn A",
+                "Last Name": "Larkin",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Vincent C",
+                "Last Name": "Luca",
+                "Affiliation": "Department of Molecular and Cellular Physiology, Howard Hughes Medical Institute, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Luis A",
+                "Last Name": "Chia",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Amanda T",
+                "Last Name": "Mah",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Arnold",
+                "Last Name": "Han",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Jessica M",
+                "Last Name": "Terry",
+                "Affiliation": "10x Genomics, Inc., Pleasanton, California 94566, USA."
+            },
+            {
+                "First Name": "Akifumi",
+                "Last Name": "Ootani",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Kelly",
+                "Last Name": "Roelf",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Jenny",
+                "Last Name": "Yuan",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Xiao",
+                "Last Name": "Li",
+                "Affiliation": "Department of Genetics, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Christopher R",
+                "Last Name": "Bolen",
+                "Affiliation": "Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Julie",
+                "Last Name": "Wilhelmy",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Paige S",
+                "Last Name": "Davies",
+                "Affiliation": "Oregon Health &Science University, Department of Cell, Developmental and Cancer Biology, Portland, Oregon 97239, USA."
+            },
+            {
+                "First Name": "Hiroo",
+                "Last Name": "Ueno",
+                "Affiliation": "Institute for Stem Cell Biology, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Richard J",
+                "Last Name": "von Furstenberg",
+                "Affiliation": "Department of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599, USA."
+            },
+            {
+                "First Name": "Phillip",
+                "Last Name": "Belgrader",
+                "Affiliation": "10x Genomics, Inc., Pleasanton, California 94566, USA."
+            },
+            {
+                "First Name": "Solongo B",
+                "Last Name": "Ziraldo",
+                "Affiliation": "10x Genomics, Inc., Pleasanton, California 94566, USA."
+            },
+            {
+                "First Name": "Heather",
+                "Last Name": "Ordonez",
+                "Affiliation": "10x Genomics, Inc., Pleasanton, California 94566, USA."
+            },
+            {
+                "First Name": "Susan J",
+                "Last Name": "Henning",
+                "Affiliation": "Department of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599, USA."
+            },
+            {
+                "First Name": "Melissa H",
+                "Last Name": "Wong",
+                "Affiliation": "Oregon Health &Science University, Department of Cell, Developmental and Cancer Biology, Portland, Oregon 97239, USA."
+            },
+            {
+                "First Name": "Michael P",
+                "Last Name": "Snyder",
+                "Affiliation": "Department of Genetics, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Irving L",
+                "Last Name": "Weissman",
+                "Affiliation": "Institute for Stem Cell Biology, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Aaron J",
+                "Last Name": "Hsueh",
+                "Affiliation": "Department of Obstetrics and Gynecology, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Tarjei S",
+                "Last Name": "Mikkelsen",
+                "Affiliation": "10x Genomics, Inc., Pleasanton, California 94566, USA."
+            },
+            {
+                "First Name": "K Christopher",
+                "Last Name": "Garcia",
+                "Affiliation": "Department of Molecular and Cellular Physiology, Howard Hughes Medical Institute, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Calvin J",
+                "Last Name": "Kuo",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California 94305, USA."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28467818",
+        "Title": "Surrogate Wnt agonists that phenocopy canonical Wnt and \u03b2-catenin signalling.",
+        "Abstract": "Wnt proteins modulate cell proliferation and differentiation and the self-renewal of stem cells by inducing \u03b2-catenin-dependent signalling through the Wnt receptor frizzled (FZD) and the co-receptors LRP5 and LRP6 to regulate cell fate decisions and the growth and repair of several tissues. The 19 mammalian Wnt proteins are cross-reactive with the 10 FZD receptors, and this has complicated the attribution of distinct biological functions to specific FZD and Wnt subtype interactions. Furthermore, Wnt proteins are modified post-translationally by palmitoylation, which is essential for their secretion, function and interaction with FZD receptors. As a result of their acylation, Wnt proteins are very hydrophobic and require detergents for purification, which presents major obstacles to the preparation and application of recombinant Wnt proteins. This hydrophobicity has hindered the determination of the molecular mechanisms of Wnt signalling activation and the functional importance of FZD subtypes, and the use of Wnt proteins as therapeutic agents. Here we develop surrogate Wnt agonists, water-soluble FZD-LRP5/LRP6 heterodimerizers, with FZD5/FZD8-specific and broadly FZD-reactive binding domains. Similar to WNT3A, these Wnt agonists elicit a characteristic \u03b2-catenin signalling response in a FZD-selective fashion, enhance the osteogenic lineage commitment of primary mouse and human mesenchymal stem cells, and support the growth of a broad range of primary human organoid cultures. In addition, the surrogates can be systemically expressed and exhibit Wnt activity in vivo in the mouse liver, regulating metabolic liver zonation and promoting hepatocyte proliferation, resulting in hepatomegaly. These surrogates demonstrate that canonical Wnt signalling can be activated by bi-specific ligands that induce receptor heterodimerization. Furthermore, these easily produced, non-lipidated Wnt surrogate agonists facilitate functional studies of Wnt signalling and the exploration of Wnt agonists for translational applications in regenerative medicine.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Differentiation",
+            "Cell Lineage",
+            "Cell Proliferation",
+            "Frizzled Receptors",
+            "HEK293 Cells",
+            "Hepatocytes",
+            "Hepatomegaly",
+            "Humans",
+            "Hydrophobic and Hydrophilic Interactions",
+            "Intestines",
+            "Ligands",
+            "Liver",
+            "Low Density Lipoprotein Receptor-Related Protein-5",
+            "Low Density Lipoprotein Receptor-Related Protein-6",
+            "Mesenchymal Stem Cells",
+            "Mice",
+            "Models, Molecular",
+            "Organoids",
+            "Protein Multimerization",
+            "Signal Transduction",
+            "Solubility",
+            "Tissue Culture Techniques",
+            "Wnt Proteins",
+            "Wnt Signaling Pathway",
+            "beta Catenin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Claudia Y",
+                "Last Name": "Janda",
+                "Affiliation": "Department of Molecular and Cellular Physiology, Howard Hughes Medical Institute, and Department of Structural Biology, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Luke T",
+                "Last Name": "Dang",
+                "Affiliation": "Department of Biochemistry, Howard Hughes Medical Institute, and the Institute for Protein Design, University of Washington, Seattle, Washington 98195, USA."
+            },
+            {
+                "First Name": "Changjiang",
+                "Last Name": "You",
+                "Affiliation": "Division of Biophysics, Department of Biology, University of Osnabr\u00fcck, 49076 Osnabr\u00fcck, Germany."
+            },
+            {
+                "First Name": "Junlei",
+                "Last Name": "Chang",
+                "Affiliation": "Department of Medicine, Division of Hematology, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Wim",
+                "Last Name": "de Lau",
+                "Affiliation": "Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences, and University Medical Center Utrecht, Uppsalalaan 8, 3584 CT Utrecht, The Netherlands."
+            },
+            {
+                "First Name": "Zhendong A",
+                "Last Name": "Zhong",
+                "Affiliation": "Program for Skeletal Disease and Tumor Microenvironment and Center for Cancer and Cell Biology, Van Andel Research Institute, 333 Bostwick NE, Grand Rapids, Michigan 49503, USA."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Department of Medicine, Division of Hematology, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Owen",
+                "Last Name": "Marecic",
+                "Affiliation": "Hagey Laboratory for Pediatric Regenerative Medicine and Department of Surgery, Institute for Stem Cell Biology and Regenerative Medicine, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Dirk",
+                "Last Name": "Siepe",
+                "Affiliation": "Department of Molecular and Cellular Physiology, Howard Hughes Medical Institute, and Department of Structural Biology, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Xingnan",
+                "Last Name": "Li",
+                "Affiliation": "Department of Medicine, Division of Hematology, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "James D",
+                "Last Name": "Moody",
+                "Affiliation": "Department of Biochemistry, Howard Hughes Medical Institute, and the Institute for Protein Design, University of Washington, Seattle, Washington 98195, USA."
+            },
+            {
+                "First Name": "Bart O",
+                "Last Name": "Williams",
+                "Affiliation": "Program for Skeletal Disease and Tumor Microenvironment and Center for Cancer and Cell Biology, Van Andel Research Institute, 333 Bostwick NE, Grand Rapids, Michigan 49503, USA."
+            },
+            {
+                "First Name": "Hans",
+                "Last Name": "Clevers",
+                "Affiliation": "Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences, and University Medical Center Utrecht, Uppsalalaan 8, 3584 CT Utrecht, The Netherlands."
+            },
+            {
+                "First Name": "Jacob",
+                "Last Name": "Piehler",
+                "Affiliation": "Division of Biophysics, Department of Biology, University of Osnabr\u00fcck, 49076 Osnabr\u00fcck, Germany."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Baker",
+                "Affiliation": "Department of Biochemistry, Howard Hughes Medical Institute, and the Institute for Protein Design, University of Washington, Seattle, Washington 98195, USA."
+            },
+            {
+                "First Name": "Calvin J",
+                "Last Name": "Kuo",
+                "Affiliation": "Department of Medicine, Division of Hematology, Stanford University School of Medicine, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "K Christopher",
+                "Last Name": "Garcia",
+                "Affiliation": "Department of Molecular and Cellular Physiology, Howard Hughes Medical Institute, and Department of Structural Biology, Stanford University School of Medicine, Stanford, California 94305, USA."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27581568",
+        "Title": "Wnt pathway regulation of intestinal stem cells.",
+        "Abstract": "Wnt signalling is involved in multiple aspects of embryonic development and adult tissue homeostasis, notably via controlling cellular proliferation and differentiation. Wnt signalling is subject to stringent positive and negative regulation to promote proper development and homeostasis yet avoid aberrant growth. Such multi-layer regulation includes post-translational modification and processing of Wnt proteins themselves, R-spondin (Rspo) amplification of Wnt signalling, diverse receptor families, and intracellular and extracellular antagonists and destruction and transcription complexes. In the gastrointestinal tract, Wnt signalling is crucial for development and renewal of the intestinal epithelium. Intestinal stem cells (ISCs) undergo symmetric division and neutral drift dynamics to renew the intestinal epithelium. Sources of Wnts and Wnt amplifers such as R-spondins are beginning to be elucidated as well as their functional contribution to intestinal homeostasis. In this review we focus on regulation of ISCs and intestinal homeostasis by the Wnt/Rspo pathway, the potential cellular sources of Wnt signalling regulators and highlight potential future areas of study.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Intestines",
+            "Regeneration",
+            "Stem Cells",
+            "Wnt Signaling Pathway"
+        ],
+        "Authors": [
+            {
+                "First Name": "Amanda T",
+                "Last Name": "Mah",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA, 94305, USA."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA, 94305, USA."
+            },
+            {
+                "First Name": "Calvin J",
+                "Last Name": "Kuo",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA, 94305, USA."
+            }
+        ],
+        "Journal": "The Journal of physiology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "25658363",
+        "Title": "Ascl2 reinforces intestinal stem cell identity.",
+        "Abstract": "Ascl2 is a Wnt-responsive master transcription factor that controls the Lgr5(+) intestinal stem cell gene expression program. Now in Cell Stem Cell, Schuijers et\u00a0al. (2015) report an Ascl2 positive feedback loop, tuned by previous Wnt pathway activity, that perpetuates intestinal stem cell identity in response to Wnt/R-spondin stimulation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Basic Helix-Loop-Helix Transcription Factors",
+            "Intestinal Mucosa",
+            "Stem Cells",
+            "Thrombospondins",
+            "Wnt Signaling Pathway"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Calvin J",
+                "Last Name": "Kuo",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA. Electronic address: cjkuo@stanford.edu."
+            }
+        ],
+        "Journal": "Cell stem cell",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25594184",
+        "Title": "Identification and specification of the mouse skeletal stem cell.",
+        "Abstract": "How are skeletal tissues derived from skeletal stem cells? Here, we map bone, cartilage, and stromal development from a population of highly pure, postnatal skeletal stem cells (mouse skeletal stem cells, mSSCs) to their downstream progenitors of bone, cartilage, and stromal tissue. We then investigated the transcriptome of the stem/progenitor cells for unique gene-expression patterns that would indicate potential regulators of mSSC lineage commitment. We demonstrate that mSSC niche factors can be potent inducers of osteogenesis, and several specific combinations of recombinant mSSC niche factors can activate mSSC genetic programs in\u00a0situ, even in nonskeletal tissues, resulting in de novo formation of cartilage or bone and bone marrow stroma. Inducing mSSC formation with soluble factors and subsequently regulating the mSSC niche to specify its differentiation toward bone, cartilage, or stromal cells could represent a paradigm shift in the therapeutic regeneration of skeletal tissues.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Bone Morphogenetic Proteins",
+            "Bone and Bones",
+            "Cartilage",
+            "Cell Lineage",
+            "Crosses, Genetic",
+            "Mesenchymal Stem Cells",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Charles K F",
+                "Last Name": "Chan",
+                "Affiliation": "Department of Surgery, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA; Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA. Electronic address: chazchan@stanford.edu."
+            },
+            {
+                "First Name": "Eun Young",
+                "Last Name": "Seo",
+                "Affiliation": "Department of Surgery, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA; Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "James Y",
+                "Last Name": "Chen",
+                "Affiliation": "Departments of Pathology and Developmental Biology, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Lo",
+                "Affiliation": "Department of Surgery, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA; Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Adrian",
+                "Last Name": "McArdle",
+                "Affiliation": "Department of Surgery, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA; Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Rahul",
+                "Last Name": "Sinha",
+                "Affiliation": "Departments of Pathology and Developmental Biology, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA; Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Ruth",
+                "Last Name": "Tevlin",
+                "Affiliation": "Department of Surgery, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA; Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Jun",
+                "Last Name": "Seita",
+                "Affiliation": "Departments of Pathology and Developmental Biology, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA; Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Vincent-Tompkins",
+                "Affiliation": "Departments of Pathology and Developmental Biology, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Taylor",
+                "Last Name": "Wearda",
+                "Affiliation": "Department of Surgery, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA; Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Wan-Jin",
+                "Last Name": "Lu",
+                "Affiliation": "Departments of Pathology and Developmental Biology, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA; Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Kshemendra",
+                "Last Name": "Senarath-Yapa",
+                "Affiliation": "Department of Surgery, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Michael T",
+                "Last Name": "Chung",
+                "Affiliation": "Department of Surgery, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Owen",
+                "Last Name": "Marecic",
+                "Affiliation": "Department of Surgery, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Misha",
+                "Last Name": "Tran",
+                "Affiliation": "Department of Surgery, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Stanford Cancer Institute, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Rosalynd",
+                "Last Name": "Upton",
+                "Affiliation": "Departments of Pathology and Developmental Biology, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Graham G",
+                "Last Name": "Walmsley",
+                "Affiliation": "Department of Surgery, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA; Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Lee",
+                "Affiliation": "Departments of Pathology and Developmental Biology, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Debashis",
+                "Last Name": "Sahoo",
+                "Affiliation": "Departments of Pathology and Developmental Biology, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA; Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA; Department of Pediatrics, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093, USA."
+            },
+            {
+                "First Name": "Calvin J",
+                "Last Name": "Kuo",
+                "Affiliation": "Stanford Cancer Institute, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Irving L",
+                "Last Name": "Weissman",
+                "Affiliation": "Departments of Pathology and Developmental Biology, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA; Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA."
+            },
+            {
+                "First Name": "Michael T",
+                "Last Name": "Longaker",
+                "Affiliation": "Department of Surgery, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA; Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, 450 Serra Mall, Palo Alto, CA 94305, USA. Electronic address: longaker@stanford.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "24343706",
+        "Title": "Engineering of three-dimensional microenvironments to promote contractile behavior in primary intestinal organoids.",
+        "Abstract": "Multiple culture techniques now exist for the long-term maintenance of neonatal primary murine intestinal organoids in vitro; however, the achievement of contractile behavior within cultured organoids has thus far been infrequent and unpredictable. Here we combine finite element simulation of oxygen transport and quantitative comparative analysis of cellular microenvironments to elucidate the critical variables that promote reproducible intestinal organoid contraction. Experimentally, oxygen distribution was manipulated by adjusting the ambient oxygen concentration along with the use of semi-permeable membranes to enhance transport. The culture microenvironment was further tailored through variation of collagen type-I matrix density, addition of exogenous R-spondin1, and specification of culture geometry. \"Air-liquid interface\" cultures resulted in significantly higher numbers of contractile cultures relative to traditional submerged cultures. These interface cultures were confirmed to have enhanced and more symmetric oxygen transport relative to traditional submerged cultures. While oxygen availability was found to impact in vitro contraction rate and the orientation of contractile movement, it was not a key factor in enabling contractility. For all conditions tested, reproducible contractile behavior only occurred within a consistent and narrow range of collagen type-I matrix densities with porosities of approximately 20% and storage moduli near 30 Pa. This suggests that matrix density acts as a \"permissive switch\" that enables contractions to occur. Similarly, contractions were only observed in cultures with diameters less than 15.5 mm that had relatively large interfacial surface area between the compliant matrix and the rigid culture dish. Taken together, these data suggest that spatial geometry and mechanics of the microenvironment, which includes both the encapsulating matrix as well as the surrounding culture device, may be key determinants of intestinal organoid functionality. As peristaltic contractility is a crucial requirement for normal digestive tract function, this achievement of reproducible organoid contraction marks a pivotal advancement towards engineering physiologically functional replacement tissue constructs.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Animals, Newborn",
+            "Collagen",
+            "Computer Simulation",
+            "Finite Element Analysis",
+            "Intestines",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Microscopy, Confocal",
+            "Microscopy, Electron, Scanning",
+            "Muscle Contraction",
+            "Organoids",
+            "Oxygen",
+            "Thrombospondins",
+            "Tissue Engineering"
+        ],
+        "Authors": [
+            {
+                "First Name": "Rebecca L",
+                "Last Name": "DiMarco",
+                "Affiliation": "Department of Bioengineering, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Su",
+                "Affiliation": "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Department of Medicine, Hematology Division, Stanford University School of Medicine, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Ruby",
+                "Last Name": "Dewi",
+                "Affiliation": "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Calvin J",
+                "Last Name": "Kuo",
+                "Affiliation": "Department of Medicine, Hematology Division, Stanford University School of Medicine, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Sarah C",
+                "Last Name": "Heilshorn",
+                "Affiliation": "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA."
+            }
+        ],
+        "Journal": "Integrative biology : quantitative biosciences from nano to macro",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24311688",
+        "Title": "Interfollicular epidermal stem cells self-renew via autocrine Wnt signaling.",
+        "Abstract": "The skin is a classical example of a tissue maintained by stem cells. However, the identity of the stem cells that maintain the interfollicular epidermis and the source of the signals that control their activity remain unclear. Using mouse lineage tracing and quantitative clonal analyses, we showed that the Wnt target gene Axin2 marks interfollicular epidermal stem cells. These Axin2-expressing cells constitute the majority of the basal epidermal layer, compete neutrally, and require Wnt/\u03b2-catenin signaling to proliferate. The same cells contribute robustly to wound healing, with no requirement for a quiescent stem cell subpopulation. By means of double-labeling RNA in situ hybridization in mice, we showed that the Axin2-expressing cells themselves produce Wnt signals as well as long-range secreted Wnt inhibitors, suggesting an autocrine mechanism of stem cell self-renewal.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adaptor Proteins, Signal Transducing",
+            "Animals",
+            "Autocrine Communication",
+            "Axin Protein",
+            "Cell Differentiation",
+            "Cell Lineage",
+            "Cell Proliferation",
+            "Cells, Cultured",
+            "Epidermal Cells",
+            "Epidermis",
+            "Epithelial Cells",
+            "Gene Expression",
+            "Homeostasis",
+            "Humans",
+            "Intercellular Signaling Peptides and Proteins",
+            "Keratinocytes",
+            "Mice",
+            "Regeneration",
+            "Skin",
+            "Stem Cell Niche",
+            "Stem Cells",
+            "Wnt Proteins",
+            "Wnt Signaling Pathway",
+            "Wound Healing",
+            "beta Catenin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xinhong",
+                "Last Name": "Lim",
+                "Affiliation": "Department of Developmental Biology, Howard Hughes Medical Institute (HHMI), Institute for Stem Cell Biology and Regenerative Medicine, School of Medicine, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Si Hui",
+                "Last Name": "Tan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Winston Lian Chye",
+                "Last Name": "Koh",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rosanna Man Wah",
+                "Last Name": "Chau",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Calvin J",
+                "Last Name": "Kuo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ren\u00e9e",
+                "Last Name": "van Amerongen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Allon Moshe",
+                "Last Name": "Klein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roel",
+                "Last Name": "Nusse",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23928185",
+        "Title": "A multicenter study to standardize reporting and analyses of fluorescence-activated cell-sorted murine intestinal epithelial cells.",
+        "Abstract": "Fluorescence-activated cell sorting (FACS) is an essential tool for studies requiring isolation of distinct intestinal epithelial cell populations. Inconsistent or lack of reporting of the critical parameters associated with FACS methodologies has complicated interpretation, comparison, and reproduction of important findings. To address this problem a comprehensive multicenter study was designed to develop guidelines that limit experimental and data reporting variability and provide a foundation for accurate comparison of data between studies. Common methodologies and data reporting protocols for tissue dissociation, cell yield, cell viability, FACS, and postsort purity were established. Seven centers tested the standardized methods by FACS-isolating a specific crypt-based epithelial population (EpCAM+/CD44+) from murine small intestine. Genetic biomarkers for stem/progenitor (Lgr5 and Atoh 1) and differentiated cell lineages (lysozyme, mucin2, chromogranin A, and sucrase isomaltase) were interrogated in target and control populations to assess intra- and intercenter variability. Wilcoxon's rank sum test on gene expression levels showed limited intracenter variability between biological replicates. Principal component analysis demonstrated significant intercenter reproducibility among four centers. Analysis of data collected by standardized cell isolation methods and data reporting requirements readily identified methodological problems, indicating that standard reporting parameters facilitate post hoc error identification. These results indicate that the complexity of FACS isolation of target intestinal epithelial populations can be highly reproducible between biological replicates and different institutions by adherence to common cell isolation methods and FACS gating strategies. This study can be considered a foundation for continued method development and a starting point for investigators that are developing cell isolation expertise to study physiology and pathophysiology of the intestinal epithelium.",
+        "Keywords": [
+            "FACS",
+            "epithelial dissociation",
+            "intestinal epithelium",
+            "intestinal stem cell"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cell Culture Techniques",
+            "Cell Survival",
+            "Epithelial Cells",
+            "Flow Cytometry",
+            "Gene Expression Regulation",
+            "Hyaluronan Receptors",
+            "Intestinal Mucosa",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Observer Variation",
+            "Staining and Labeling"
+        ],
+        "Authors": [
+            {
+                "First Name": "Scott T",
+                "Last Name": "Magness",
+                "Affiliation": "Oregon Health & Science Univ., Dept. of Cell and Developmental Biology, Mailcode L215, RJH 5562, Portland, OR 97239. wongme@ohsu.edu."
+            },
+            {
+                "First Name": "Brent J",
+                "Last Name": "Puthoff",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mary Ann",
+                "Last Name": "Crissey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Dunn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Susan J",
+                "Last Name": "Henning",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Courtney",
+                "Last Name": "Houchen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John S",
+                "Last Name": "Kaddis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Calvin J",
+                "Last Name": "Kuo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Linheng",
+                "Last Name": "Li",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Lynch",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Martin G",
+                "Last Name": "Martin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Randal",
+                "Last Name": "May",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joyce C",
+                "Last Name": "Niland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Barbara",
+                "Last Name": "Olack",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dajun",
+                "Last Name": "Qian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthias",
+                "Last Name": "Stelzner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John R",
+                "Last Name": "Swain",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Fengchao",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jiafang",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xinwei",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kelley",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jian",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Melissa H",
+                "Last Name": "Wong",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "American journal of physiology. Gastrointestinal and liver physiology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23178811",
+        "Title": "Restriction of intestinal stem cell expansion and the regenerative response by YAP.",
+        "Abstract": "A remarkable feature of regenerative processes is their ability to halt proliferation once an organ's structure has been restored. The Wnt signalling pathway is the major driving force for homeostatic self-renewal and regeneration in the mammalian intestine. However, the mechanisms that counterbalance Wnt-driven proliferation are poorly understood. Here we demonstrate in mice and humans that yes-associated protein 1 (YAP; also known as YAP1)--a protein known for its powerful growth-inducing and oncogenic properties--has an unexpected growth-suppressive function, restricting Wnt signals during intestinal regeneration. Transgenic expression of YAP reduces Wnt target gene expression and results in the rapid loss of intestinal crypts. In addition, loss of YAP results in Wnt hypersensitivity during regeneration, leading to hyperplasia, expansion of intestinal stem cells and niche cells, and formation of ectopic crypts and microadenomas. We find that cytoplasmic YAP restricts elevated Wnt signalling independently of the AXIN-APC-GSK-3\u03b2 complex partly by limiting the activity of dishevelled (DVL). DVL signals in the nucleus of intestinal stem cells, and its forced expression leads to enhanced Wnt signalling in crypts. YAP dampens Wnt signals by restricting DVL nuclear translocation during regenerative growth. Finally, we provide evidence that YAP is silenced in a subset of highly aggressive and undifferentiated human colorectal carcinomas, and that its expression can restrict the growth of colorectal carcinoma xenografts. Collectively, our work describes a novel mechanistic paradigm for how proliferative signals are counterbalanced in regenerating tissues. Additionally, our findings have important implications for the targeting of YAP in human malignancies.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Active Transport, Cell Nucleus",
+            "Adaptor Proteins, Signal Transducing",
+            "Animals",
+            "Cell Cycle Proteins",
+            "Cell Proliferation",
+            "Colorectal Neoplasms",
+            "Dishevelled Proteins",
+            "Genes, Tumor Suppressor",
+            "Humans",
+            "Intestines",
+            "Mice",
+            "Mice, Knockout",
+            "Neoplasm Transplantation",
+            "Phosphoproteins",
+            "Regeneration",
+            "Stem Cell Niche",
+            "Stem Cells",
+            "Thrombospondins",
+            "Transcription Factors",
+            "Tumor Suppressor Proteins",
+            "Wnt Proteins",
+            "Wnt Signaling Pathway",
+            "YAP-Signaling Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Evan R",
+                "Last Name": "Barry",
+                "Affiliation": "Stem Cell Program and Department of Hematology/Oncology, Children's Hospital, Boston, Massachusetts 02115, USA."
+            },
+            {
+                "First Name": "Teppei",
+                "Last Name": "Morikawa",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brian L",
+                "Last Name": "Butler",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kriti",
+                "Last Name": "Shrestha",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rosemarie",
+                "Last Name": "de la Rosa",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Charles S",
+                "Last Name": "Fuchs",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Scott T",
+                "Last Name": "Magness",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ron",
+                "Last Name": "Smits",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shuji",
+                "Last Name": "Ogino",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Calvin J",
+                "Last Name": "Kuo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Fernando D",
+                "Last Name": "Camargo",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "22190486",
+        "Title": "The intestinal stem cell markers Bmi1 and Lgr5 identify two functionally distinct populations.",
+        "Abstract": "The small intestine epithelium undergoes rapid and continuous regeneration supported by crypt intestinal stem cells (ISCs). Bmi1 and Lgr5 have been independently identified to mark long-lived multipotent ISCs by lineage tracing in mice; however, the functional distinctions between these two populations remain undefined. Here, we demonstrate that Bmi1 and Lgr5 mark two functionally distinct ISCs in vivo. Lgr5 marks mitotically active ISCs that exhibit exquisite sensitivity to canonical Wnt modulation, contribute robustly to homeostatic regeneration, and are quantitatively ablated by irradiation. In contrast, Bmi1 marks quiescent ISCs that are insensitive to Wnt perturbations, contribute weakly to homeostatic regeneration, and are resistant to high-dose radiation injury. After irradiation, however, the normally quiescent Bmi1(+) ISCs dramatically proliferate to clonally repopulate multiple contiguous crypts and villi. Clonogenic culture of isolated single Bmi1(+) ISCs yields long-lived self-renewing spheroids of intestinal epithelium that produce Lgr5-expressing cells, thereby establishing a lineage relationship between these two populations in vitro. Taken together, these data provide direct evidence that Bmi1 marks quiescent, injury-inducible reserve ISCs that exhibit striking functional distinctions from Lgr5(+) ISCs and support a model whereby distinct ISC populations facilitate homeostatic vs. injury-induced regeneration.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Bacterial Proteins",
+            "Biomarkers",
+            "Flow Cytometry",
+            "Intestinal Mucosa",
+            "Luminescent Proteins",
+            "Mice",
+            "Mice, Mutant Strains",
+            "Nuclear Proteins",
+            "Polycomb Repressive Complex 1",
+            "Proto-Oncogene Proteins",
+            "Receptors, G-Protein-Coupled",
+            "Regeneration",
+            "Repressor Proteins",
+            "Stem Cells",
+            "Tamoxifen",
+            "Whole-Body Irradiation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Luis A",
+                "Last Name": "Chia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xingnan",
+                "Last Name": "Li",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Akifumi",
+                "Last Name": "Ootani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Su",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Josephine Y",
+                "Last Name": "Lee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nan",
+                "Last Name": "Su",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuling",
+                "Last Name": "Luo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah C",
+                "Last Name": "Heilshorn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Manuel R",
+                "Last Name": "Amieva",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eugenio",
+                "Last Name": "Sangiorgi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mario R",
+                "Last Name": "Capecchi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Calvin J",
+                "Last Name": "Kuo",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21465557",
+        "Title": "Structural insights into piRNA recognition by the human PIWI-like 1 PAZ domain.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Argonaute Proteins",
+            "Humans",
+            "Models, Molecular",
+            "Nuclear Magnetic Resonance, Biomolecular",
+            "Protein Binding",
+            "Protein Structure, Tertiary",
+            "Proteins",
+            "RNA, Small Interfering"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lei",
+                "Last Name": "Zeng",
+                "Affiliation": "Department of Structural and Chemical Biology, Mount Sinai School of Medicine, 1425 Madison Avenue, Box 1677, New York 10029, USA. lei.zeng@mssm.edu"
+            },
+            {
+                "First Name": "Qiang",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kelley",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ming-Ming",
+                "Last Name": "Zhou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proteins",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21409379",
+        "Title": "Use of the colonoscope training model with the colonoscope 3D imaging probe improved trainee colonoscopy performance: a pilot study.",
+        "Abstract": "Colonoscopy insertion is difficult to teach due to the inability of current training models to provide realistic tactile sensation with simultaneous three-dimensional (3D) colonoscope display.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Colonoscopes",
+            "Colonoscopy",
+            "Gastroenterology",
+            "Humans",
+            "Imaging, Three-Dimensional",
+            "Models, Anatomic",
+            "Pilot Projects"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tonya",
+                "Last Name": "Kaltenbach",
+                "Affiliation": "Gastroenterology Section, Veterans Affairs Palo Alto Healthcare System, Division of Gastroenterology, Stanford University School of Medicine, 3801 Miranda Ave, GI-111, Palo Alto, CA 94304, USA. tonya_kolodziejski@yahoo.com"
+            },
+            {
+                "First Name": "Cynthia",
+                "Last Name": "Leung",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kuan",
+                "Last Name": "Wu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kelley",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shai",
+                "Last Name": "Friedland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roy",
+                "Last Name": "Soetikno",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Digestive diseases and sciences",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "19520884",
+        "Title": "Acting in good taste: nutrient sensors in the gut.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Food Preferences",
+            "Gastrointestinal Tract",
+            "Glucose",
+            "Humans",
+            "Receptors, G-Protein-Coupled",
+            "Signal Transduction",
+            "Taste"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Division of Gastroenterology and Hepatology, Department of Medicine, Stanford University School of Medicine, 300 Pasteur Drive, Stanford, CA 94305-5187, USA."
+            },
+            {
+                "First Name": "Pankaj Jay",
+                "Last Name": "Pasricha",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Gut",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "14615802",
+        "Title": "Structure and conserved RNA binding of the PAZ domain.",
+        "Abstract": "The discovery of RNA-mediated gene-silencing pathways, including RNA interference, highlights a fundamental role of short RNAs in eukaryotic gene regulation and antiviral defence. Members of the Dicer and Argonaute protein families are essential components of these RNA-silencing pathways. Notably, these two families possess an evolutionarily conserved PAZ (Piwi/Argonaute/Zwille) domain whose biochemical function is unknown. Here we report the nuclear magnetic resonance solution structure of the PAZ domain from Drosophila melanogaster Argonaute 1 (Ago1). The structure consists of a left-handed, six-stranded beta-barrel capped at one end by two alpha-helices and wrapped on one side by a distinctive appendage, which comprises a long beta-hairpin and a short alpha-helix. Using structural and biochemical analyses, we demonstrate that the PAZ domain binds a 5-nucleotide RNA with 1:1 stoichiometry. We map the RNA-binding surface to the open face of the beta-barrel, which contains amino acids conserved within the PAZ domain family, and we define the 5'-to-3' orientation of single-stranded RNA bound within that site. Furthermore, we show that PAZ domains from different human Argonaute proteins also bind RNA, establishing a conserved function for this domain.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Arabidopsis Proteins",
+            "Argonaute Proteins",
+            "Binding Sites",
+            "Conserved Sequence",
+            "Drosophila melanogaster",
+            "Evolution, Molecular",
+            "Humans",
+            "Hydrogen Bonding",
+            "Models, Molecular",
+            "Nuclear Magnetic Resonance, Biomolecular",
+            "Protein Structure, Secondary",
+            "Protein Structure, Tertiary",
+            "RNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Structural Biology Program, Department of Physiology and Biophysics, Mount Sinai School of Medicine, New York University, One Gustave L. Levy Place, New York, New York 10029-6574, USA."
+            },
+            {
+                "First Name": "Sherry",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Amjad",
+                "Last Name": "Farooq",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arnold",
+                "Last Name": "Han",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lei",
+                "Last Name": "Zeng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ming-Ming",
+                "Last Name": "Zhou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12906822",
+        "Title": "Coupling of folding and binding in the PTB domain of the signaling protein Shc.",
+        "Abstract": "The notion that certain proteins lack intrinsic globular structure under physiological conditions and that the attainment of fully folded structure only occurs upon the binding of target molecules has been recently gaining popularity. We report here the solution structure of the PTB domain of the signaling protein Shc in the free form. Comparison of this structure with that of the complex form, obtained previously with a phosphopeptide ligand, reveals that the Shc PTB domain is structurally disordered in the free form, particularly around the regions constituting the peptide binding pocket. The binding of the ligand appears to reorganize this pocket through local folding events triggering a conformational switch between the free and the complex forms.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alternative Splicing",
+            "Amino Acid Sequence",
+            "Binding Sites",
+            "Carrier Proteins",
+            "Hydrogen Bonding",
+            "Ligands",
+            "Magnetic Resonance Spectroscopy",
+            "Models, Chemical",
+            "Models, Molecular",
+            "Phosphotyrosine",
+            "Protein Binding",
+            "Protein Conformation",
+            "Protein Folding",
+            "Protein Isoforms",
+            "Protein Structure, Tertiary",
+            "Proteins",
+            "Signal Transduction",
+            "Spectrum Analysis, Raman",
+            "src Homology Domains"
+        ],
+        "Authors": [
+            {
+                "First Name": "Amjad",
+                "Last Name": "Farooq",
+                "Affiliation": "Structural Biology Program, Department of Physiology and Biophysics, Mount Sinai School of Medicine, New York University, New York, NY 10029, USA. amjad.farooq@mssm.edu"
+            },
+            {
+                "First Name": "Lei",
+                "Last Name": "Zeng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kodi S",
+                "Last Name": "Ravichandran",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ming-Ming",
+                "Last Name": "Zhou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Structure (London, England : 1993)",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12737812",
+        "Title": "Examining both sides of a Janus PTB domain.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Binding Sites",
+            "Mice",
+            "Nerve Tissue Proteins",
+            "Peptides",
+            "Phosphatidylinositols",
+            "Phosphotyrosine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ming-Ming",
+                "Last Name": "Zhou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Structure (London, England : 1993)",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12198481",
+        "Title": "TAGging the target for damage control.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "DNA Damage",
+            "DNA Glycosylases",
+            "DNA Repair",
+            "Models, Molecular",
+            "N-Glycosyl Hydrolases",
+            "Protein Conformation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ming-Ming",
+                "Last Name": "Zhou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature structural biology",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "11911882",
+        "Title": "PTB or not PTB -- that is the question.",
+        "Abstract": "Phosphotyrosine binding (PTB) domains are structurally conserved modules found in proteins involved in numerous biological processes including signaling through cell-surface receptors and protein trafficking. While their original discovery is attributed to the recognition of phosphotyrosine in the context of NPXpY sequences -- a function distinct from that of the classical src homology 2 (SH2) domain -- recent studies show that these protein modules have much broader ligand binding specificities. These studies highlight the functional diversity of the PTB domain family as generalized protein interaction domains, and reinforce the concept that evolutionary changes of structural elements around the ligand binding site on a conserved structural core may endow these protein modules with the structural plasticity necessary for functional versatility.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Binding Sites",
+            "Phosphoproteins",
+            "Phosphotyrosine",
+            "Protein Structure, Secondary",
+            "Proteins",
+            "Receptors, Cell Surface",
+            "Signal Transduction",
+            "src Homology Domains"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Structural Biology Program, Department of Physiology and Biophysics, Mount Sinai School of Medicine, New York University, 1425 Madison Avenue, P.O. Box 1677, New York, NY 10029-6574, USA."
+            },
+            {
+                "First Name": "Miklos",
+                "Last Name": "Kuti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ming Ming",
+                "Last Name": "Zhou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "FEBS letters",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "11877385",
+        "Title": "FRS2 PTB domain conformation regulates interactions with divergent neurotrophic receptors.",
+        "Abstract": "Membrane-anchored adaptor proteins FRS2alpha/beta (also known as SNT-1/2) mediate signaling of fibroblast growth factor receptors (FGFRs) and neurotrophin receptors (TRKs) through their N-terminal phosphotyrosine binding (PTB) domains. The FRS2 PTB domain recognizes tyrosine-phosphorylated TRKs at an NPXpY (where pY is phosphotyrosine) motif, whereas its constitutive association with FGFR involves a receptor juxtamembrane region lacking Tyr and Asn residues. Here we show by isothermal titration calorimetry that the FRS2alpha PTB domain binding to peptides derived from TRKs or FGFR is thermodynamically different. TRK binding is largely enthalpy-driven, whereas the FGFR interaction is governed by a favorable entropic contribution to the free energy of binding. Furthermore, our NMR spectral analysis suggests that disruption of an unstructured region C-terminal to the PTB domain alters local conformation and dynamics of the residues at the ligand-binding site, and that structural disruption of the beta8-strand directly weakens the PTB domain association with the FGFR ligand. Together, our new findings support a molecular mechanism by which conformational dynamics of the FRS2alpha PTB domain dictates its association with either fibroblast growth factor or neurotrophin receptors in neuronal development.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adaptor Proteins, Signal Transducing",
+            "Amino Acid Motifs",
+            "Amino Acid Sequence",
+            "Binding Sites",
+            "Calorimetry",
+            "DNA, Complementary",
+            "Fibroblast Growth Factors",
+            "Humans",
+            "Hydrogen-Ion Concentration",
+            "Insulin Receptor Substrate Proteins",
+            "Kinetics",
+            "Ligands",
+            "Magnetic Resonance Spectroscopy",
+            "Membrane Proteins",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Peptides",
+            "Phosphoproteins",
+            "Phosphorylation",
+            "Protein Binding",
+            "Protein Conformation",
+            "Protein Structure, Tertiary",
+            "Receptors, Nerve Growth Factor",
+            "Signal Transduction",
+            "Thermodynamics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Structural Biology Program, Department of Physiology and Biophysics, Mount Sinai School of Medicine, New York University, New York, New York 10029, USA."
+            },
+            {
+                "First Name": "Miklos",
+                "Last Name": "Kuti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sherry",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shiraz",
+                "Last Name": "Mujtaba",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Amjad",
+                "Last Name": "Farooq",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mitchell P",
+                "Last Name": "Goldfarb",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ming-Ming",
+                "Last Name": "Zhou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of biological chemistry",
+        "PubDate": "2002"
+    }
+]

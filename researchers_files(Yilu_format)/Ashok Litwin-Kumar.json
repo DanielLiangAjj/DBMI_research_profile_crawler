@@ -1,0 +1,2117 @@
+[
+    {
+        "PMID": "39023518",
+        "Title": "Selective consolidation of learning and memory via recall-gated plasticity.",
+        "Abstract": "In a variety of species and behavioral contexts, learning and memory formation recruits two neural systems, with initial plasticity in one system being consolidated into the other over time. Moreover, consolidation is known to be selective; that is, some experiences are more likely to be consolidated into long-term memory than others. Here, we propose and analyze a model that captures common computational principles underlying such phenomena. The key component of this model is a mechanism by which a long-term learning and memory system prioritizes the storage of synaptic changes that are consistent with prior updates to the short-term system. This mechanism, which we refer to as recall-gated consolidation, has the effect of shielding long-term memory from spurious synaptic changes, enabling it to focus on reliable signals in the environment. We describe neural circuit implementations of this model for different types of learning problems, including supervised learning, reinforcement learning, and autoassociative memory storage. These implementations involve synaptic plasticity rules modulated by factors such as prediction accuracy, decision confidence, or familiarity. We then develop an analytical theory of the learning and memory performance of the model, in comparison to alternatives relying only on synapse-local consolidation mechanisms. We find that recall-gated consolidation provides significant advantages, substantially amplifying the signal-to-noise ratio with which memories can be stored in noisy environments. We show that recall-gated consolidation gives rise to a number of phenomena that are present in behavioral learning paradigms, including spaced learning effects, task-dependent rates of consolidation, and differing neural representations in short- and long-term pathways.",
+        "Keywords": [
+            "consolidation",
+            "memory",
+            "neuroscience",
+            "none",
+            "theory"
+        ],
+        "MeSH terms": [
+            "Neuronal Plasticity",
+            "Mental Recall",
+            "Learning",
+            "Models, Neurological",
+            "Memory Consolidation",
+            "Humans",
+            "Animals",
+            "Memory",
+            "Memory, Long-Term"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jack W",
+                "Last Name": "Lindsey",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38972924",
+        "Title": "Diversity of visual inputs to Kenyon cells of the Drosophila mushroom body.",
+        "Abstract": "The arthropod mushroom body is well-studied as an expansion layer representing olfactory stimuli and linking them to contingent events. However, 8% of mushroom body Kenyon cells in Drosophila melanogaster receive predominantly visual input, and their function remains unclear. Here, we identify inputs to visual Kenyon cells using the FlyWire adult whole-brain connectome. Input repertoires are similar across hemispheres and connectomes with certain inputs highly overrepresented. Many visual neurons presynaptic to Kenyon cells have large receptive fields, while interneuron inputs receive spatially restricted signals that may be tuned to specific visual features. Individual visual Kenyon cells randomly sample sparse inputs from combinations of visual channels, including multiple optic lobe neuropils. These connectivity patterns suggest that visual coding in the mushroom body, like olfactory coding, is sparse, distributed, and combinatorial. However, the specific input repertoire to the smaller population of visual Kenyon cells suggests a constrained encoding of visual stimuli.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Mushroom Bodies",
+            "Drosophila melanogaster",
+            "Connectome",
+            "Visual Pathways",
+            "Neurons",
+            "Interneurons",
+            "Optic Lobe, Nonmammalian",
+            "Neuropil"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ishani",
+                "Last Name": "Ganguly",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Emily L",
+                "Last Name": "Heckman",
+                "Affiliation": "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "E Josephine",
+                "Last Name": "Clowney",
+                "Affiliation": "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI, USA. jclowney@umich.edu."
+            },
+            {
+                "First Name": "Rudy",
+                "Last Name": "Behnia",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA. rb3161@columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38870929",
+        "Title": "A cerebellar granule cell-climbing fiber computation to learn to track long time intervals.",
+        "Abstract": "In classical cerebellar learning, Purkinje cells (PkCs) associate climbing fiber (CF) error signals with predictive granule cells (GrCs) that were active just prior (\u223c150\u00a0ms). The cerebellum also contributes to behaviors characterized by longer timescales. To investigate how GrC-CF-PkC circuits might learn seconds-long predictions, we imaged simultaneous GrC-CF activity over days of forelimb operant conditioning for delayed water reward. As mice learned reward timing, numerous GrCs developed anticipatory activity ramping at different rates until reward delivery, followed by widespread time-locked CF spiking. Relearning longer delays further lengthened GrC activations. We computed CF-dependent GrC\u2192PkC plasticity rules, demonstrating that reward-evoked CF spikes sufficed to grade many GrC synapses by anticipatory timing. We predicted and confirmed that PkCs could thereby continuously ramp across seconds-long intervals from movement to reward. Learning thus leads to new GrC temporal bases linking predictors to remote CF reward signals-a strategy well suited for learning to track the long intervals common in cognitive domains.",
+        "Keywords": [
+            "associative learning",
+            "cerebellum",
+            "climbing fibers",
+            "granule cells",
+            "neural ramping",
+            "operant conditioning",
+            "reward learning",
+            "temporal encoding",
+            "temporal learning",
+            "two-photon imaging"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Martha G",
+                "Last Name": "Garcia-Garcia",
+                "Affiliation": "National Institute of Neurological Disorders & Stroke, National Institutes of Health, Bethesda, MD 20894, USA."
+            },
+            {
+                "First Name": "Akash",
+                "Last Name": "Kapoor",
+                "Affiliation": "National Institute of Neurological Disorders & Stroke, National Institutes of Health, Bethesda, MD 20894, USA."
+            },
+            {
+                "First Name": "Oluwatobi",
+                "Last Name": "Akinwale",
+                "Affiliation": "National Institute of Neurological Disorders & Stroke, National Institutes of Health, Bethesda, MD 20894, USA."
+            },
+            {
+                "First Name": "Lina",
+                "Last Name": "Takemaru",
+                "Affiliation": "National Institute of Neurological Disorders & Stroke, National Institutes of Health, Bethesda, MD 20894, USA."
+            },
+            {
+                "First Name": "Tony Hyun",
+                "Last Name": "Kim",
+                "Affiliation": "Department of Biology and Howard Hughes Medical Institute, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Casey",
+                "Last Name": "Paton",
+                "Affiliation": "National Institute of Neurological Disorders & Stroke, National Institutes of Health, Bethesda, MD 20894, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Mark J",
+                "Last Name": "Schnitzer",
+                "Affiliation": "Department of Biology and Howard Hughes Medical Institute, Stanford University, Stanford, CA 94305, USA; Department of Applied Physics, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Liqun",
+                "Last Name": "Luo",
+                "Affiliation": "Department of Biology and Howard Hughes Medical Institute, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Mark J",
+                "Last Name": "Wagner",
+                "Affiliation": "National Institute of Neurological Disorders & Stroke, National Institutes of Health, Bethesda, MD 20894, USA. Electronic address: mark.wagner@nih.gov."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38854115",
+        "Title": "Prediction of neural activity in connectome-constrained recurrent networks.",
+        "Abstract": "We develop a theory of connectome-constrained neural networks in which a \"student\" network is trained to reproduce the activity of a ground-truth \"teacher,\" representing a neural system for which a connectome is available. Unlike standard paradigms with unconstrained connectivity, here the two networks have the same connectivity but different biophysical parameters, reflecting uncertainty in neuronal and synaptic properties. We find that a connectome is often insufficient to constrain the dynamics of networks that perform a specific task, illustrating the difficulty of inferring function from connectivity alone. However, recordings from a small subset of neurons can remove this degeneracy, producing dynamics in the student that agree with the teacher. Our theory can also prioritize which neurons to record from to most efficiently predict unmeasured network activity. Our analysis shows that the solution spaces of connectome-constrained and unconstrained models are qualitatively different and provides a framework to determine when such models yield consistent dynamics.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Manuel",
+                "Last Name": "Beiran",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38849331",
+        "Title": "Evolution of connectivity architecture in the Drosophila mushroom body.",
+        "Abstract": "Brain evolution has primarily been studied at the macroscopic level by comparing the relative size of homologous brain centers between species. How neuronal circuits change at the cellular level over evolutionary time remains largely unanswered. Here, using a phylogenetically informed framework, we compare the olfactory circuits of three closely related Drosophila species that differ in their chemical ecology: the generalists Drosophila melanogaster and Drosophila simulans and Drosophila sechellia that specializes on ripe noni fruit. We examine a central part of the olfactory circuit that, to our knowledge, has not been investigated in these species-the connections between projection neurons and the Kenyon cells of the mushroom body-and identify species-specific connectivity patterns. We found that neurons encoding food odors connect more frequently with Kenyon cells, giving rise to species-specific biases in connectivity. These species-specific connectivity differences reflect two distinct neuronal phenotypes: in the number of projection neurons or in the number of presynaptic boutons formed by individual projection neurons. Finally, behavioral analyses suggest that such increased connectivity enhances learning performance in an associative task. Our study shows how fine-grained aspects of connectivity architecture in an associative brain center can change during evolution to reflect the chemical ecology of a species.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Mushroom Bodies",
+            "Drosophila",
+            "Biological Evolution",
+            "Species Specificity",
+            "Neurons",
+            "Drosophila melanogaster",
+            "Phylogeny",
+            "Smell",
+            "Odorants",
+            "Olfactory Pathways",
+            "Male",
+            "Female",
+            "Presynaptic Terminals"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kaitlyn Elizabeth",
+                "Last Name": "Ellis",
+                "Affiliation": "School of Biological Sciences, University of Utah, Salt Lake City, USA."
+            },
+            {
+                "First Name": "Sven",
+                "Last Name": "Bervoets",
+                "Affiliation": "School of Biological Sciences, University of Utah, Salt Lake City, USA."
+            },
+            {
+                "First Name": "Hayley",
+                "Last Name": "Smihula",
+                "Affiliation": "School of Biological Sciences, University of Utah, Salt Lake City, USA."
+            },
+            {
+                "First Name": "Ishani",
+                "Last Name": "Ganguly",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Eva",
+                "Last Name": "Vigato",
+                "Affiliation": "School of Biological Sciences, University of Utah, Salt Lake City, USA."
+            },
+            {
+                "First Name": "Thomas O",
+                "Last Name": "Auer",
+                "Affiliation": "Center for Integrative Genomics, Faculty of Biology and Medicine, University of Lausanne, Lausanne, Switzerland."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Benton",
+                "Affiliation": "Center for Integrative Genomics, Faculty of Biology and Medicine, University of Lausanne, Lausanne, Switzerland."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Sophie Jeanne C\u00e9cile",
+                "Last Name": "Caron",
+                "Affiliation": "School of Biological Sciences, University of Utah, Salt Lake City, USA. sophie.caron@utah.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38602873",
+        "Title": "Specific connectivity optimizes learning in thalamocortical loops.",
+        "Abstract": "Thalamocortical loops have a central role in cognition and motor control, but precisely how they contribute to these processes is unclear. Recent studies showing evidence of plasticity in thalamocortical synapses indicate a role for the thalamus in shaping cortical dynamics through learning. Since signals undergo a compression from the cortex to the thalamus, we hypothesized that the computational role of the thalamus depends critically on the structure of corticothalamic connectivity. To test this, we identified the optimal corticothalamic structure that promotes biologically plausible learning in thalamocortical synapses. We found that corticothalamic projections specialized to communicate an efference copy of the cortical output benefit motor control, while communicating the modes of highest variance is optimal for working memory tasks. We analyzed neural recordings from mice performing grasping and delayed discrimination tasks and found corticothalamic communication consistent with these predictions. These results suggest that the thalamus orchestrates cortical dynamics in a functionally precise manner through structured connectivity.",
+        "Keywords": [
+            "CP: Neuroscience",
+            "biologically plausible learning",
+            "corticothalamic feedback",
+            "meta-learning",
+            "motor learning",
+            "random feedback",
+            "recurrent neural network",
+            "thalamocortical loop",
+            "thalamus",
+            "working memory"
+        ],
+        "MeSH terms": [
+            "Thalamus",
+            "Animals",
+            "Mice",
+            "Learning",
+            "Cerebral Cortex",
+            "Memory, Short-Term",
+            "Neural Pathways",
+            "Synapses",
+            "Mice, Inbred C57BL",
+            "Male"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kaushik J",
+                "Last Name": "Lakshminarasimhan",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Marjorie",
+                "Last Name": "Xie",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Jeremy D",
+                "Last Name": "Cohen",
+                "Affiliation": "Neuroscience Center, University of North Carolina, Chapel Hill, NC 27559, USA."
+            },
+            {
+                "First Name": "Britton A",
+                "Last Name": "Sauerbrei",
+                "Affiliation": "Department of Neurosciences, Case Western Reserve University, Cleveland, OH 44106, USA."
+            },
+            {
+                "First Name": "Adam W",
+                "Last Name": "Hantman",
+                "Affiliation": "Neuroscience Center, University of North Carolina, Chapel Hill, NC 27559, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA. Electronic address: a.litwin-kumar@columbia.edu."
+            },
+            {
+                "First Name": "Sean",
+                "Last Name": "Escola",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY 10032, USA. Electronic address: sean@neurotheory.columbia.edu."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38464083",
+        "Title": "Dynamics of striatal action selection and reinforcement learning.",
+        "Abstract": "Spiny projection neurons (SPNs) in dorsal striatum are often proposed as a locus of reinforcement learning in the basal ganglia. Here, we identify and resolve a fundamental inconsistency between striatal reinforcement learning models and known SPN synaptic plasticity rules. Direct-pathway (dSPN) and indirect-pathway (iSPN) neurons, which promote and suppress actions, respectively, exhibit synaptic plasticity that reinforces activity associated with elevated or suppressed dopamine release. We show that iSPN plasticity prevents successful learning, as it reinforces activity patterns associated with negative outcomes. However, this pathological behavior is reversed if functionally opponent dSPNs and iSPNs, which promote and suppress the current behavior, are simultaneously activated by efferent input following action selection. This prediction is supported by striatal recordings and contrasts with prior models of SPN representations. In our model, learning and action selection signals can be multiplexed without interference, enabling learning algorithms beyond those of standard temporal difference models.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jack",
+                "Last Name": "Lindsey",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jeffrey E",
+                "Last Name": "Markowitz",
+                "Affiliation": "Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University, Atlanta, GA, USA."
+            },
+            {
+                "First Name": "Sandeep Robert",
+                "Last Name": "Datta",
+                "Affiliation": "Department of Neurobiology, Harvard Medical School, Boston, MA, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37873086",
+        "Title": "Diversity of visual inputs to Kenyon cells of the ",
+        "Abstract": "The arthropod mushroom body is well-studied as an expansion layer that represents olfactory stimuli and links them to contingent events. However, 8% of mushroom body Kenyon cells in ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Ishani",
+                "Last Name": "Ganguly",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Emily L",
+                "Last Name": "Heckman",
+                "Affiliation": "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI 48109, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "E Josephine",
+                "Last Name": "Clowney",
+                "Affiliation": "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI 48109, USA."
+            },
+            {
+                "First Name": "Rudy",
+                "Last Name": "Behnia",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37774280",
+        "Title": "Dimension of Activity in Random Neural Networks.",
+        "Abstract": "Neural networks are high-dimensional nonlinear dynamical systems that process information through the coordinated activity of many connected units. Understanding how biological and machine-learning networks function and learn requires knowledge of the structure of this coordinated activity, information contained, for example, in cross covariances between units. Self-consistent dynamical mean field theory (DMFT) has elucidated several features of random neural networks-in particular, that they can generate chaotic activity-however, a calculation of cross covariances using this approach has not been provided. Here, we calculate cross covariances self-consistently via a two-site cavity DMFT. We use this theory to probe spatiotemporal features of activity coordination in a classic random-network model with independent and identically distributed (i.i.d.) couplings, showing an extensive but fractionally low effective dimension of activity and a long population-level timescale. Our formulas apply to a wide range of single-unit dynamics and generalize to non-i.i.d. couplings. As an example of the latter, we analyze the case of partially symmetric couplings.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "David G",
+                "Last Name": "Clark",
+                "Affiliation": "Zuckerman Institute, Department of Neuroscience, Columbia University, New York, New York 10027, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Zuckerman Institute, Department of Neuroscience, Columbia University, New York, New York 10027, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Zuckerman Institute, Department of Neuroscience, Columbia University, New York, New York 10027, USA."
+            }
+        ],
+        "Journal": "Physical review letters",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37671785",
+        "Title": "Task-dependent optimal representations for cerebellar learning.",
+        "Abstract": "The cerebellar granule cell layer has inspired numerous theoretical models of neural representations that support learned behaviors, beginning with the work of Marr and Albus. In these models, granule cells form a sparse, combinatorial encoding of diverse sensorimotor inputs. Such sparse representations are optimal for learning to discriminate random stimuli. However, recent observations of dense, low-dimensional activity across granule cells have called into question the role of sparse coding in these neurons. Here, we generalize theories of cerebellar learning to determine the optimal granule cell representation for tasks beyond random stimulus discrimination, including continuous input-output transformations as required for smooth motor control. We show that for such tasks, the optimal granule cell representation is substantially denser than predicted by classical theories. Our results provide a general theory of learning in cerebellum-like systems and suggest that optimal cerebellar representations are task-dependent.",
+        "Keywords": [
+            "cerebellum",
+            "computational biology",
+            "learning",
+            "neuroscience",
+            "none",
+            "representation",
+            "systems biology"
+        ],
+        "MeSH terms": [
+            "Cerebellum",
+            "Learning",
+            "Neurons",
+            "Models, Neurological"
+        ],
+        "Authors": [
+            {
+                "First Name": "Marjorie",
+                "Last Name": "Xie",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Samuel P",
+                "Last Name": "Muscinelli",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Kameron",
+                "Last Name": "Decker Harris",
+                "Affiliation": "Department of Computer Science, Western Washington University, Bellingham, United States."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37604889",
+        "Title": "Optimal routing to cerebellum-like structures.",
+        "Abstract": "The vast expansion from mossy fibers to cerebellar granule cells (GrC) produces a neural representation that supports functions including associative and internal model learning. This motif is shared by other cerebellum-like structures and has inspired numerous theoretical models. Less attention has been paid to structures immediately presynaptic to GrC layers, whose architecture can be described as a 'bottleneck' and whose function is not understood. We therefore develop a theory of cerebellum-like structures in conjunction with their afferent pathways that predicts the role of the pontine relay to cerebellum and the glomerular organization of the insect antennal lobe. We highlight a new computational distinction between clustered and distributed neuronal representations that is reflected in the anatomy of these two brain structures. Our theory also reconciles recent observations of correlated GrC activity with theories of nonlinear mixing. More generally, it shows that structured compression followed by random expansion is an efficient architecture for flexible computation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cerebellum",
+            "Brain",
+            "Pons",
+            "Learning",
+            "Neurons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Samuel P",
+                "Last Name": "Muscinelli",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, USA. spm2176@columbia.edu."
+            },
+            {
+                "First Name": "Mark J",
+                "Last Name": "Wagner",
+                "Affiliation": "National Institute of Neurological Disorders and Stroke, NIH, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, USA. a.litwin-kumar@columbia.edu."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36798335",
+        "Title": "Evolution of connectivity architecture in the ",
+        "Abstract": "Brain evolution has primarily been studied at the macroscopic level by comparing the relative size of homologous brain centers between species. How neuronal circuits change at the cellular level over evolutionary time remains largely unanswered. Here, using a phylogenetically informed framework, we compare the olfactory circuits of three closely related ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Kaitlyn Elizabeth",
+                "Last Name": "Ellis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sven",
+                "Last Name": "Bervoets",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hayley",
+                "Last Name": "Smihula",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ishani",
+                "Last Name": "Ganguly",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eva",
+                "Last Name": "Vigato",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Thomas O",
+                "Last Name": "Auer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Benton",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sophie Jeanne C\u00e9cile",
+                "Last Name": "Caron",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36692262",
+        "Title": "Hierarchical architecture of dopaminergic circuits enables second-order conditioning in ",
+        "Abstract": "Dopaminergic neurons with distinct projection patterns and physiological properties compose memory subsystems in a brain. However, it is poorly understood whether or how they interact during complex learning. Here, we identify a feedforward circuit formed between dopamine subsystems and show that it is essential for second-order conditioning, an ethologically important form of higher-order associative learning. The ",
+        "Keywords": [
+            "D. melanogaster",
+            "EM connectome",
+            "associative learning",
+            "dopamine",
+            "higher order conditioning",
+            "mushroom body",
+            "neural circuits",
+            "neuroscience"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Drosophila",
+            "Dopamine",
+            "Learning",
+            "Brain",
+            "Odorants",
+            "Dopaminergic Neurons",
+            "Mushroom Bodies",
+            "Drosophila melanogaster",
+            "Smell"
+        ],
+        "Authors": [
+            {
+                "First Name": "Daichi",
+                "Last Name": "Yamada",
+                "Affiliation": "Department of Biology, University of North Carolina at Chapel Hill, Chapel Hill, United States."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Bushey",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Feng",
+                "Last Name": "Li",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Karen L",
+                "Last Name": "Hibbard",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Megan",
+                "Last Name": "Sammons",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Jan",
+                "Last Name": "Funke",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Toshihide",
+                "Last Name": "Hige",
+                "Affiliation": "Department of Biology, University of North Carolina at Chapel Hill, Chapel Hill, United States."
+            },
+            {
+                "First Name": "Yoshinori",
+                "Last Name": "Aso",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35977547",
+        "Title": "Mushroom body input connections form independently of sensory activity in Drosophila melanogaster.",
+        "Abstract": "Associative brain centers, such as the insect mushroom body, need to represent sensory information in an efficient manner. In Drosophila melanogaster, the Kenyon cells of the mushroom body integrate inputs from a random set of olfactory projection neurons, but some projection neurons-namely those activated by a few ethologically meaningful odors-connect to Kenyon cells more frequently than others. This biased and random connectivity pattern is conceivably advantageous, as it enables the mushroom body to represent a large number of odors as unique activity patterns while prioritizing the representation of a few specific odors. How this connectivity pattern is established remains largely unknown. Here, we test whether the mechanisms patterning the connections between Kenyon cells and projection neurons depend on sensory activity or whether they are hardwired. We mapped a large number of mushroom body input connections in partially anosmic flies-flies lacking the obligate odorant co-receptor Orco-and in wild-type flies. Statistical analyses of these datasets reveal that the random and biased connectivity pattern observed between Kenyon cells and projection neurons forms normally in the absence of most olfactory sensory activity. This finding supports the idea that even comparatively subtle, population-level patterns of neuronal connectivity can be encoded by fixed genetic programs and are likely to be the result of evolved prioritization of ecologically and ethologically salient stimuli.",
+        "Keywords": [
+            "Kenyon cells",
+            "antennal lobe",
+            "mushroom body",
+            "olfaction",
+            "projection neurons",
+            "sensory activity"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Drosophila melanogaster",
+            "Mushroom Bodies",
+            "Neurons",
+            "Olfactory Pathways",
+            "Smell"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tatsuya Tatz",
+                "Last Name": "Hayashi",
+                "Affiliation": "School of Biological Sciences, University of Utah, Aline Skaggs Wilmot Biology Building, 257 South 1400 East, Salt Lake City, UT 84112, USA; Neuroscience Program, University of Utah, Salt Lake City, UT 84112, USA."
+            },
+            {
+                "First Name": "Alexander John",
+                "Last Name": "MacKenzie",
+                "Affiliation": "School of Biological Sciences, University of Utah, Aline Skaggs Wilmot Biology Building, 257 South 1400 East, Salt Lake City, UT 84112, USA; Neuroscience Program, University of Utah, Salt Lake City, UT 84112, USA."
+            },
+            {
+                "First Name": "Ishani",
+                "Last Name": "Ganguly",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, Jerome L Greene Science Center, 3227 Broadway, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Kaitlyn Elizabeth",
+                "Last Name": "Ellis",
+                "Affiliation": "School of Biological Sciences, University of Utah, Aline Skaggs Wilmot Biology Building, 257 South 1400 East, Salt Lake City, UT 84112, USA."
+            },
+            {
+                "First Name": "Hayley Marie",
+                "Last Name": "Smihula",
+                "Affiliation": "School of Biological Sciences, University of Utah, Aline Skaggs Wilmot Biology Building, 257 South 1400 East, Salt Lake City, UT 84112, USA."
+            },
+            {
+                "First Name": "Miles Solomon",
+                "Last Name": "Jacob",
+                "Affiliation": "School of Biological Sciences, University of Utah, Aline Skaggs Wilmot Biology Building, 257 South 1400 East, Salt Lake City, UT 84112, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, Jerome L Greene Science Center, 3227 Broadway, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Sophie Jeanne C\u00e9cile",
+                "Last Name": "Caron",
+                "Affiliation": "School of Biological Sciences, University of Utah, Aline Skaggs Wilmot Biology Building, 257 South 1400 East, Salt Lake City, UT 84112, USA; Neuroscience Program, University of Utah, Salt Lake City, UT 84112, USA. Electronic address: sophie.caron@utah.edu."
+            }
+        ],
+        "Journal": "Current biology : CB",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35134357",
+        "Title": "Connectomics: Relating synaptic connectivity to\u00a0physiology.",
+        "Abstract": "Synaptic wiring diagrams, or connectomes, promise constraints for highly detailed neural circuit models, but relating the connectivity information they provide to physiological properties is challenging. A new study describes this relationship for a fruit fly neural pathway, suggesting a path forward for future models.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Connectome",
+            "Drosophila",
+            "Nervous System",
+            "Neural Pathways"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ishani",
+                "Last Name": "Ganguly",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA. Electronic address: a.litwin-kumar@columbia.edu."
+            }
+        ],
+        "Journal": "Current biology : CB",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34529736",
+        "Title": "WHotLAMP: A simple, inexpensive, and sensitive molecular test for the detection of SARS-CoV-2 in saliva.",
+        "Abstract": "Despite the development of effective vaccines against SARS-CoV-2, epidemiological control of the virus is still challenging due to slow vaccine rollouts, incomplete vaccine protection to current and emerging variants, and unwillingness to get vaccinated. Therefore, frequent testing of individuals to identify early SARS-CoV-2 infections, contact-tracing and isolation strategies remain crucial to mitigate viral spread. Here, we describe WHotLAMP, a rapid molecular test to detect SARS-CoV-2 in saliva. WHotLAMP is simple to use, highly sensitive (~4 viral particles per microliter of saliva) and specific, as well as inexpensive, making it ideal for frequent screening. Moreover, WHotLAMP does not require toxic chemicals or specialized equipment and thus can be performed in point-of-care settings, and may also be adapted for resource-limited environments or home use. While applied here to SARS-CoV-2, WHotLAMP can be modified to detect other pathogens, making it adaptable for other diagnostic assays, including for use in future outbreaks.",
+        "Keywords": [],
+        "MeSH terms": [
+            "COVID-19",
+            "COVID-19 Nucleic Acid Testing",
+            "Epidemics",
+            "Humans",
+            "Point-of-Care Systems",
+            "RNA, Viral",
+            "Reproducibility of Results",
+            "SARS-CoV-2",
+            "Saliva",
+            "Sensitivity and Specificity"
+        ],
+        "Authors": [
+            {
+                "First Name": "David",
+                "Last Name": "Ng",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Ana",
+                "Last Name": "Pinharanda",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Merly C",
+                "Last Name": "Vogt",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Kyle",
+                "Last Name": "Stearns",
+                "Affiliation": "Department of Anesthesiology, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Urvashi",
+                "Last Name": "Thopte",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Enrico",
+                "Last Name": "Cannavo",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Armen",
+                "Last Name": "Enikolopov",
+                "Affiliation": "Independent Researched, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Felix",
+                "Last Name": "Fiederling",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Stylianos",
+                "Last Name": "Kosmidis",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Barbara",
+                "Last Name": "Noro",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Ines",
+                "Last Name": "Rodrigues-Vaz",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Hani",
+                "Last Name": "Shayya",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Andolfatto",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Darcy S",
+                "Last Name": "Peterka",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Tanya",
+                "Last Name": "Tabachnik",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Jeanine",
+                "Last Name": "D'Armiento",
+                "Affiliation": "Department of Anesthesiology, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Monica",
+                "Last Name": "Goldklang",
+                "Affiliation": "Department of Anesthesiology, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Andres",
+                "Last Name": "Bendesky",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34375329",
+        "Title": "Models of heterogeneous dopamine signaling in an insect learning and memory center.",
+        "Abstract": "The Drosophila mushroom body exhibits dopamine dependent synaptic plasticity that underlies the acquisition of associative memories. Recordings of dopamine neurons in this system have identified signals related to external reinforcement such as reward and punishment. However, other factors including locomotion, novelty, reward expectation, and internal state have also recently been shown to modulate dopamine neurons. This heterogeneity is at odds with typical modeling approaches in which these neurons are assumed to encode a global, scalar error signal. How is dopamine dependent plasticity coordinated in the presence of such heterogeneity? We develop a modeling approach that infers a pattern of dopamine activity sufficient to solve defined behavioral tasks, given architectural constraints informed by knowledge of mushroom body circuitry. Model dopamine neurons exhibit diverse tuning to task parameters while nonetheless producing coherent learned behaviors. Notably, reward prediction error emerges as a mode of population activity distributed across these neurons. Our results provide a mechanistic framework that accounts for the heterogeneity of dopamine activity during learning and behavior.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Computational Biology",
+            "Conditioning, Classical",
+            "Dopamine",
+            "Dopaminergic Neurons",
+            "Drosophila",
+            "Learning",
+            "Memory",
+            "Models, Neurological",
+            "Mushroom Bodies",
+            "Nerve Net",
+            "Neural Networks, Computer",
+            "Neuronal Plasticity",
+            "Reward"
+        ],
+        "Authors": [
+            {
+                "First Name": "Linnie",
+                "Last Name": "Jiang",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33973523",
+        "Title": "A developmental framework linking neurogenesis and circuit formation in the ",
+        "Abstract": "The mechanisms specifying neuronal diversity are well characterized, yet it remains unclear how or if these mechanisms regulate neural circuit assembly. To address this, we mapped the developmental origin of 160 interneurons from seven bilateral neural progenitors (neuroblasts) and identify them in a synapse-scale TEM reconstruction of the ",
+        "Keywords": [
+            "D. melanogaster",
+            "Notch",
+            "cell lineage",
+            "developmental biology",
+            "hemilineage",
+            "neural circuit",
+            "neuroblast",
+            "neuroscience",
+            "temporal identity"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Central Nervous System",
+            "Drosophila Proteins",
+            "Drosophila melanogaster",
+            "Neural Stem Cells",
+            "Neurogenesis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Brandon",
+                "Last Name": "Mark",
+                "Affiliation": "Institute of Neuroscience, Howard Hughes Medical Institute, University of Oregon, Eugene, United States."
+            },
+            {
+                "First Name": "Sen-Lin",
+                "Last Name": "Lai",
+                "Affiliation": "Institute of Neuroscience, Howard Hughes Medical Institute, University of Oregon, Eugene, United States."
+            },
+            {
+                "First Name": "Aref Arzan",
+                "Last Name": "Zarin",
+                "Affiliation": "Institute of Neuroscience, Howard Hughes Medical Institute, University of Oregon, Eugene, United States."
+            },
+            {
+                "First Name": "Laurina",
+                "Last Name": "Manning",
+                "Affiliation": "Institute of Neuroscience, Howard Hughes Medical Institute, University of Oregon, Eugene, United States."
+            },
+            {
+                "First Name": "Heather Q",
+                "Last Name": "Pollington",
+                "Affiliation": "Institute of Neuroscience, Howard Hughes Medical Institute, University of Oregon, Eugene, United States."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Mortimer B Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Albert",
+                "Last Name": "Cardona",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, MRC Laboratory of Molecular Biology, Department of Physiology, Development & Neuroscience, University of Cambridge, Cambridge, United Kingdom."
+            },
+            {
+                "First Name": "James W",
+                "Last Name": "Truman",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Friday Harbor Laboratories, University of Washington, Friday Harbor, United States."
+            },
+            {
+                "First Name": "Chris Q",
+                "Last Name": "Doe",
+                "Affiliation": "Institute of Neuroscience, Howard Hughes Medical Institute, University of Oregon, Eugene, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33315010",
+        "Title": "The connectome of the adult Drosophila mushroom body provides insights into function.",
+        "Abstract": "Making inferences about the computations performed by neuronal circuits from synapse-level connectivity maps is an emerging opportunity in neuroscience. The mushroom body (MB) is well positioned for developing and testing such an approach due to its conserved neuronal architecture, recently completed dense connectome, and extensive prior experimental studies of its roles in learning, memory, and activity regulation. Here, we identify new components of the MB circuit in ",
+        "Keywords": [
+            "D. melanogaster",
+            "behavior",
+            "dopamine",
+            "learning",
+            "memory",
+            "neuronal circuits",
+            "neuroscience"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Brain Mapping",
+            "Connectome",
+            "Drosophila melanogaster",
+            "Mushroom Bodies"
+        ],
+        "Authors": [
+            {
+                "First Name": "Feng",
+                "Last Name": "Li",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Jack W",
+                "Last Name": "Lindsey",
+                "Affiliation": "Department of Neuroscience, Columbia University, Zuckerman Institute, New York, United States."
+            },
+            {
+                "First Name": "Elizabeth C",
+                "Last Name": "Marin",
+                "Affiliation": "Drosophila Connectomics Group, Department of Zoology, University of Cambridge, Cambridge, United Kingdom."
+            },
+            {
+                "First Name": "Nils",
+                "Last Name": "Otto",
+                "Affiliation": "Drosophila Connectomics Group, Department of Zoology, University of Cambridge, Cambridge, United Kingdom."
+            },
+            {
+                "First Name": "Marisa",
+                "Last Name": "Dreher",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Georgia",
+                "Last Name": "Dempsey",
+                "Affiliation": "Drosophila Connectomics Group, Department of Zoology, University of Cambridge, Cambridge, United Kingdom."
+            },
+            {
+                "First Name": "Ildiko",
+                "Last Name": "Stark",
+                "Affiliation": "Drosophila Connectomics Group, Department of Zoology, University of Cambridge, Cambridge, United Kingdom."
+            },
+            {
+                "First Name": "Alexander S",
+                "Last Name": "Bates",
+                "Affiliation": "Neurobiology Division, MRC Laboratory of Molecular Biology, Cambridge, United Kingdom."
+            },
+            {
+                "First Name": "Markus William",
+                "Last Name": "Pleijzier",
+                "Affiliation": "Neurobiology Division, MRC Laboratory of Molecular Biology, Cambridge, United Kingdom."
+            },
+            {
+                "First Name": "Philipp",
+                "Last Name": "Schlegel",
+                "Affiliation": "Drosophila Connectomics Group, Department of Zoology, University of Cambridge, Cambridge, United Kingdom."
+            },
+            {
+                "First Name": "Aljoscha",
+                "Last Name": "Nern",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Shin-Ya",
+                "Last Name": "Takemura",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Nils",
+                "Last Name": "Eckstein",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Tansy",
+                "Last Name": "Yang",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Audrey",
+                "Last Name": "Francis",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Amalia",
+                "Last Name": "Braun",
+                "Affiliation": "Drosophila Connectomics Group, Department of Zoology, University of Cambridge, Cambridge, United Kingdom."
+            },
+            {
+                "First Name": "Ruchi",
+                "Last Name": "Parekh",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Marta",
+                "Last Name": "Costa",
+                "Affiliation": "Drosophila Connectomics Group, Department of Zoology, University of Cambridge, Cambridge, United Kingdom."
+            },
+            {
+                "First Name": "Louis K",
+                "Last Name": "Scheffer",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Yoshinori",
+                "Last Name": "Aso",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Gregory Sxe",
+                "Last Name": "Jefferis",
+                "Affiliation": "Drosophila Connectomics Group, Department of Zoology, University of Cambridge, Cambridge, United Kingdom."
+            },
+            {
+                "First Name": "Larry F",
+                "Last Name": "Abbott",
+                "Affiliation": "Department of Neuroscience, Columbia University, Zuckerman Institute, New York, United States."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Department of Neuroscience, Columbia University, Zuckerman Institute, New York, United States."
+            },
+            {
+                "First Name": "Scott",
+                "Last Name": "Waddell",
+                "Affiliation": "Centre for Neural Circuits & Behaviour, University of Oxford, Oxford, United Kingdom."
+            },
+            {
+                "First Name": "Gerald M",
+                "Last Name": "Rubin",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33090093",
+        "Title": "Correction: Nitric oxide acts as a cotransmitter in a subset of dopaminergic neurons to diversify memory dynamics.",
+        "Abstract": null,
+        "Keywords": [
+            "neuroscience"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Yoshinori",
+                "Last Name": "Asou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert P",
+                "Last Name": "Ray",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xi",
+                "Last Name": "Long",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Bushey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Karol",
+                "Last Name": "Cichewicz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Teri-Tb",
+                "Last Name": "Ngo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brandi",
+                "Last Name": "Sharp",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christina",
+                "Last Name": "Christoforou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Amy",
+                "Last Name": "Hu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew L",
+                "Last Name": "Lemire",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paul",
+                "Last Name": "Tillberg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jay",
+                "Last Name": "Hirsh",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gerald M",
+                "Last Name": "Rubin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32203499",
+        "Title": "Recurrent architecture for adaptive regulation of learning in the insect brain.",
+        "Abstract": "Dopaminergic neurons (DANs) drive learning across the animal kingdom, but the upstream circuits that regulate their activity and thereby learning remain poorly understood. We provide a synaptic-resolution connectome of the circuitry upstream of all DANs in a learning center, the mushroom body of Drosophila larva. We discover afferent sensory pathways and a large population of neurons that provide feedback from mushroom body output neurons and link distinct memory systems (aversive and appetitive). We combine this with functional studies of DANs and their presynaptic partners and with comprehensive circuit modeling. We find that DANs compare convergent feedback from aversive and appetitive systems, which enables the computation of integrated predictions that may improve future learning. Computational modeling reveals that the discovered feedback motifs increase model flexibility and performance on learning tasks. Our study provides the most detailed view to date of biological circuit motifs that support associative learning.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Dopaminergic Neurons",
+            "Drosophila",
+            "Larva",
+            "Learning",
+            "Memory",
+            "Models, Neurological",
+            "Mushroom Bodies",
+            "Neural Pathways"
+        ],
+        "Authors": [
+            {
+                "First Name": "Claire",
+                "Last Name": "Eschbach",
+                "Affiliation": "HHMI Janelia Research Campus, Ashburn, VA, USA."
+            },
+            {
+                "First Name": "Akira",
+                "Last Name": "Fushiki",
+                "Affiliation": "HHMI Janelia Research Campus, Ashburn, VA, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Winding",
+                "Affiliation": "HHMI Janelia Research Campus, Ashburn, VA, USA."
+            },
+            {
+                "First Name": "Casey M",
+                "Last Name": "Schneider-Mizell",
+                "Affiliation": "HHMI Janelia Research Campus, Ashburn, VA, USA."
+            },
+            {
+                "First Name": "Mei",
+                "Last Name": "Shao",
+                "Affiliation": "HHMI Janelia Research Campus, Ashburn, VA, USA."
+            },
+            {
+                "First Name": "Rebecca",
+                "Last Name": "Arruda",
+                "Affiliation": "HHMI Janelia Research Campus, Ashburn, VA, USA."
+            },
+            {
+                "First Name": "Katharina",
+                "Last Name": "Eichler",
+                "Affiliation": "HHMI Janelia Research Campus, Ashburn, VA, USA."
+            },
+            {
+                "First Name": "Javier",
+                "Last Name": "Valdes-Aleman",
+                "Affiliation": "HHMI Janelia Research Campus, Ashburn, VA, USA."
+            },
+            {
+                "First Name": "Tomoko",
+                "Last Name": "Ohyama",
+                "Affiliation": "HHMI Janelia Research Campus, Ashburn, VA, USA."
+            },
+            {
+                "First Name": "Andreas S",
+                "Last Name": "Thum",
+                "Affiliation": "Department of Genetics, Institute for Biology, University of Leipzig, Leipzig, Germany."
+            },
+            {
+                "First Name": "Bertram",
+                "Last Name": "Gerber",
+                "Affiliation": "Abteilung Genetik von Lernen & Ged\u00e4chtnis, Leibniz Institut f\u00fcr Neurobiologie, Otto von Guericke University Magdeburg, Institut f\u00fcr Biologie, Verhaltensgenetik, & Center for Behavioral Brain Sciences, Magdeburg, Germany."
+            },
+            {
+                "First Name": "Richard D",
+                "Last Name": "Fetter",
+                "Affiliation": "HHMI Janelia Research Campus, Ashburn, VA, USA."
+            },
+            {
+                "First Name": "James W",
+                "Last Name": "Truman",
+                "Affiliation": "HHMI Janelia Research Campus, Ashburn, VA, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA. ak3625@columbia.edu."
+            },
+            {
+                "First Name": "Albert",
+                "Last Name": "Cardona",
+                "Affiliation": "HHMI Janelia Research Campus, Ashburn, VA, USA. acardona@mrc-lmb.cam.ac.uk."
+            },
+            {
+                "First Name": "Marta",
+                "Last Name": "Zlatic",
+                "Affiliation": "HHMI Janelia Research Campus, Ashburn, VA, USA. mzlatic@mrc-lmb.cam.ac.uk."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32105611",
+        "Title": "Context-Dependent Decision Making in a Premotor Circuit.",
+        "Abstract": "Cognitive capacities afford contingent associations between sensory information and behavioral responses. We studied this problem using an olfactory delayed match to sample task whereby a sample odor specifies the association between a subsequent test odor and rewarding action. Multi-neuron recordings revealed representations of the sample and test odors in olfactory sensory and association cortex, which were sufficient to identify the test\u00a0odor as match or non-match. Yet, inactivation of a\u00a0downstream premotor area (ALM), but not orbitofrontal cortex, confined to the epoch preceding the test odor led to gross impairment. Olfactory decisions that were not context-dependent were unimpaired. Therefore, ALM does not receive the outcome of a match/non-match decision from upstream areas. It receives contextual information-the identity of the sample-to establish the mapping between test odor and action. A novel population of pyramidal neurons in ALM layer 2 may mediate this process.",
+        "Keywords": [
+            "ALM",
+            "anterolateral motor cortex",
+            "context",
+            "decision-making",
+            "flexible behavior",
+            "olfaction",
+            "premotor cortex",
+            "working memory"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Brain Mapping",
+            "Decision Making",
+            "Discrimination, Psychological",
+            "Mice",
+            "Motor Cortex",
+            "Odorants",
+            "Olfactory Cortex",
+            "Olfactory Pathways",
+            "Optogenetics",
+            "Piriform Cortex",
+            "Psychomotor Performance",
+            "Pyramidal Cells",
+            "Reward",
+            "Smell"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zheng",
+                "Last Name": "Wu",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, New York, NY 10027, USA; Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Philip",
+                "Last Name": "Shamash",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Alexei",
+                "Last Name": "Taylor",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, New York, NY 10027, USA; Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, New York, NY 10027, USA; Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY 10027, USA. Electronic address: ra27@columbia.edu."
+            },
+            {
+                "First Name": "Michael N",
+                "Last Name": "Shadlen",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, New York, NY 10027, USA; Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY 10027, USA. Electronic address: shadlen@columbia.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31868582",
+        "Title": "A multilayer circuit architecture for the generation of distinct locomotor behaviors in ",
+        "Abstract": "Animals generate diverse motor behaviors, yet how the same motor neurons (MNs) generate two distinct or antagonistic behaviors remains an open question. Here, we characterize ",
+        "Keywords": [
+            "D. melanogaster",
+            "Drosophila",
+            "behavior",
+            "circuits",
+            "motor neurons",
+            "neuroscience",
+            "premotor neurons"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cluster Analysis",
+            "Connectome",
+            "Drosophila",
+            "Drosophila melanogaster",
+            "Larva",
+            "Locomotion",
+            "Models, Animal",
+            "Motor Neurons",
+            "Muscles",
+            "Neurons",
+            "Optogenetics",
+            "Synapses"
+        ],
+        "Authors": [
+            {
+                "First Name": "Aref Arzan",
+                "Last Name": "Zarin",
+                "Affiliation": "Institute of Neuroscience, Howard Hughes Medical Institute, University of Oregon, Eugene, United States."
+            },
+            {
+                "First Name": "Brandon",
+                "Last Name": "Mark",
+                "Affiliation": "Institute of Neuroscience, Howard Hughes Medical Institute, University of Oregon, Eugene, United States."
+            },
+            {
+                "First Name": "Albert",
+                "Last Name": "Cardona",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Mortimer B Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Chris Q",
+                "Last Name": "Doe",
+                "Affiliation": "Institute of Neuroscience, Howard Hughes Medical Institute, University of Oregon, Eugene, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31724947",
+        "Title": "Nitric oxide acts as a cotransmitter in a subset of dopaminergic neurons to diversify memory dynamics.",
+        "Abstract": "Animals employ diverse learning rules and synaptic plasticity dynamics to record temporal and statistical information about the world. However, the molecular mechanisms underlying this diversity are poorly understood. The anatomically defined compartments of the insect mushroom body function as parallel units of associative learning, with different learning rates, memory decay dynamics and flexibility (Aso and Rubin, 2016). Here, we show that nitric oxide (NO) acts as a neurotransmitter in a subset of dopaminergic neurons in ",
+        "Keywords": [
+            "D. melanogaster",
+            "associative learning",
+            "cotransmitter",
+            "dopamine",
+            "memory dynamics",
+            "mushroom body",
+            "neuroscience",
+            "nitric oxide"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Dopamine",
+            "Dopaminergic Neurons",
+            "Drosophila Proteins",
+            "Drosophila melanogaster",
+            "Learning",
+            "Memory",
+            "Mushroom Bodies",
+            "Neurotransmitter Agents",
+            "Nitric Oxide",
+            "Odorants",
+            "Smell"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yoshinori",
+                "Last Name": "Aso",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Robert P",
+                "Last Name": "Ray",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Xi",
+                "Last Name": "Long",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Bushey",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Karol",
+                "Last Name": "Cichewicz",
+                "Affiliation": "Department of Biology, University of Virginia, Charlottesville, United States."
+            },
+            {
+                "First Name": "Teri-Tb",
+                "Last Name": "Ngo",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Brandi",
+                "Last Name": "Sharp",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Christina",
+                "Last Name": "Christoforou",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Amy",
+                "Last Name": "Hu",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Andrew L",
+                "Last Name": "Lemire",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Paul",
+                "Last Name": "Tillberg",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Jay",
+                "Last Name": "Hirsh",
+                "Affiliation": "Department of Biology, University of Virginia, Charlottesville, United States."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Gerald M",
+                "Last Name": "Rubin",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31470252",
+        "Title": "Constraining computational models using electron microscopy wiring diagrams.",
+        "Abstract": "Numerous efforts to generate \"connectomes,\" or synaptic wiring diagrams, of large neural circuits or entire nervous systems are currently underway. These efforts promise an abundance of data to guide theoretical models of neural computation and test their predictions. However, there is not yet a standard set of tools for incorporating the connectivity constraints that these datasets provide into the models typically studied in theoretical neuroscience. This article surveys recent approaches to building models with constrained wiring diagrams and the insights they have provided. It also describes challenges and the need for new techniques to scale these approaches to ever more complex datasets.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Connectome",
+            "Microscopy, Electron",
+            "Models, Neurological",
+            "Nerve Net",
+            "Nervous System"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, USA. Electronic address: ak3625@columbia.edu."
+            },
+            {
+                "First Name": "Srinivas C",
+                "Last Name": "Turaga",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA."
+            }
+        ],
+        "Journal": "Current opinion in neurobiology",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "28817581",
+        "Title": "Population activity structure of excitatory and inhibitory neurons.",
+        "Abstract": "Many studies use population analysis approaches, such as dimensionality reduction, to characterize the activity of large groups of neurons. To date, these methods have treated each neuron equally, without taking into account whether neurons are excitatory or inhibitory. We studied population activity structure as a function of neuron type by applying factor analysis to spontaneous activity from spiking networks with balanced excitation and inhibition. Throughout the study, we characterized population activity structure by measuring its dimensionality and the percentage of overall activity variance that is shared among neurons. First, by sampling only excitatory or only inhibitory neurons, we found that the activity structures of these two populations in balanced networks are measurably different. We also found that the population activity structure is dependent on the ratio of excitatory to inhibitory neurons sampled. Finally we classified neurons from extracellular recordings in the primary visual cortex of anesthetized macaques as putative excitatory or inhibitory using waveform classification, and found similarities with the neuron type-specific population activity structure of a balanced network with excitatory clustering. These results imply that knowledge of neuron type is important, and allows for stronger statistical tests, when interpreting population activity structure.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Cluster Analysis",
+            "Excitatory Postsynaptic Potentials",
+            "Inhibitory Postsynaptic Potentials",
+            "Macaca",
+            "Models, Neurological",
+            "Neurons",
+            "Visual Cortex"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sean R",
+                "Last Name": "Bittner",
+                "Affiliation": "Department of Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America."
+            },
+            {
+                "First Name": "Ryan C",
+                "Last Name": "Williamson",
+                "Affiliation": "Center for the Neural Basis of Cognition, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America."
+            },
+            {
+                "First Name": "Adam C",
+                "Last Name": "Snyder",
+                "Affiliation": "Department of Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Brent",
+                "Last Name": "Doiron",
+                "Affiliation": "Center for the Neural Basis of Cognition, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America."
+            },
+            {
+                "First Name": "Steven M",
+                "Last Name": "Chase",
+                "Affiliation": "Department of Biomedical Engineering, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America."
+            },
+            {
+                "First Name": "Matthew A",
+                "Last Name": "Smith",
+                "Affiliation": "Center for the Neural Basis of Cognition, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America."
+            },
+            {
+                "First Name": "Byron M",
+                "Last Name": "Yu",
+                "Affiliation": "Department of Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28796202",
+        "Title": "The complete connectome of a learning and memory centre in an insect brain.",
+        "Abstract": "Associating stimuli with positive or negative reinforcement is essential for survival, but a complete wiring diagram of a higher-order circuit supporting associative memory has not been previously available. Here we reconstruct one such circuit at synaptic resolution, the Drosophila larval mushroom body. We find that most Kenyon cells integrate random combinations of inputs but that a subset receives stereotyped inputs from single projection neurons. This organization maximizes performance of a model output neuron on a stimulus discrimination task. We also report a novel canonical circuit in each mushroom body compartment with previously unidentified connections: reciprocal Kenyon cell to modulatory neuron connections, modulatory neuron to output neuron connections, and a surprisingly high number of recurrent connections between Kenyon cells. Stereotyped connections found between output neurons could enhance the selection of learned behaviours. The complete circuit map of the mushroom body should guide future functional studies of this learning and memory centre.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "Connectome",
+            "Drosophila melanogaster",
+            "Feedback, Physiological",
+            "Female",
+            "Larva",
+            "Memory",
+            "Mushroom Bodies",
+            "Neural Pathways",
+            "Synapses"
+        ],
+        "Authors": [
+            {
+                "First Name": "Katharina",
+                "Last Name": "Eichler",
+                "Affiliation": "Howard Hughes Medical Institute Janelia Research Campus, 19700 Helix Drive, Ashburn, Virginia 20147, USA."
+            },
+            {
+                "First Name": "Feng",
+                "Last Name": "Li",
+                "Affiliation": "Howard Hughes Medical Institute Janelia Research Campus, 19700 Helix Drive, Ashburn, Virginia 20147, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, 3227 Broadway, New York, New York 10027, USA."
+            },
+            {
+                "First Name": "Youngser",
+                "Last Name": "Park",
+                "Affiliation": "Department of Applied Mathematics and Statistics, Whiting School of Engineering, Johns Hopkins University, 100 Whitehead Hall, 3400 North Charles Street, Baltimore, Maryland 21218, USA."
+            },
+            {
+                "First Name": "Ingrid",
+                "Last Name": "Andrade",
+                "Affiliation": "Howard Hughes Medical Institute Janelia Research Campus, 19700 Helix Drive, Ashburn, Virginia 20147, USA."
+            },
+            {
+                "First Name": "Casey M",
+                "Last Name": "Schneider-Mizell",
+                "Affiliation": "Howard Hughes Medical Institute Janelia Research Campus, 19700 Helix Drive, Ashburn, Virginia 20147, USA."
+            },
+            {
+                "First Name": "Timo",
+                "Last Name": "Saumweber",
+                "Affiliation": "Abteilung Genetik von Lernen und Ged\u00e4chtnis, Leibniz Institut f\u00fcr Neurobiologie, 39118 Magdeburg, Germany."
+            },
+            {
+                "First Name": "Annina",
+                "Last Name": "Huser",
+                "Affiliation": "Department of Biology, University of Konstanz, Universit\u00e4tsstrasse 10, 78464 Konstanz, Germany."
+            },
+            {
+                "First Name": "Claire",
+                "Last Name": "Eschbach",
+                "Affiliation": "Howard Hughes Medical Institute Janelia Research Campus, 19700 Helix Drive, Ashburn, Virginia 20147, USA."
+            },
+            {
+                "First Name": "Bertram",
+                "Last Name": "Gerber",
+                "Affiliation": "Abteilung Genetik von Lernen und Ged\u00e4chtnis, Leibniz Institut f\u00fcr Neurobiologie, 39118 Magdeburg, Germany."
+            },
+            {
+                "First Name": "Richard D",
+                "Last Name": "Fetter",
+                "Affiliation": "Howard Hughes Medical Institute Janelia Research Campus, 19700 Helix Drive, Ashburn, Virginia 20147, USA."
+            },
+            {
+                "First Name": "James W",
+                "Last Name": "Truman",
+                "Affiliation": "Howard Hughes Medical Institute Janelia Research Campus, 19700 Helix Drive, Ashburn, Virginia 20147, USA."
+            },
+            {
+                "First Name": "Carey E",
+                "Last Name": "Priebe",
+                "Affiliation": "Department of Applied Mathematics and Statistics, Whiting School of Engineering, Johns Hopkins University, 100 Whitehead Hall, 3400 North Charles Street, Baltimore, Maryland 21218, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, 3227 Broadway, New York, New York 10027, USA."
+            },
+            {
+                "First Name": "Andreas S",
+                "Last Name": "Thum",
+                "Affiliation": "Department of Biology, University of Konstanz, Universit\u00e4tsstrasse 10, 78464 Konstanz, Germany."
+            },
+            {
+                "First Name": "Marta",
+                "Last Name": "Zlatic",
+                "Affiliation": "Howard Hughes Medical Institute Janelia Research Campus, 19700 Helix Drive, Ashburn, Virginia 20147, USA."
+            },
+            {
+                "First Name": "Albert",
+                "Last Name": "Cardona",
+                "Affiliation": "Howard Hughes Medical Institute Janelia Research Campus, 19700 Helix Drive, Ashburn, Virginia 20147, USA."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28215558",
+        "Title": "Optimal Degrees of Synaptic Connectivity.",
+        "Abstract": "Synaptic connectivity varies widely across neuronal types. Cerebellar granule cells receive five orders of magnitude fewer inputs than the Purkinje cells they innervate, and cerebellum-like circuits, including the insect mushroom body, also exhibit large divergences in connectivity. In contrast, the number of inputs per neuron in cerebral cortex is more uniform and large. We investigate how the dimension of a representation formed by a population of neurons depends on how many inputs each neuron receives and what this implies for learning associations. Our theory predicts that the dimensions of the cerebellar granule-cell and Drosophila Kenyon-cell representations are maximized at degrees of synaptic connectivity that match those observed anatomically, showing that sparse connectivity is sometimes superior to dense connectivity. When input synapses are subject to supervised plasticity, however, dense wiring becomes advantageous, suggesting that the type of plasticity exhibited by a set of synapses is a major determinant of connection density.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cerebellum",
+            "Cerebral Cortex",
+            "Drosophila melanogaster",
+            "Models, Neurological",
+            "Mushroom Bodies",
+            "Neuronal Plasticity",
+            "Purkinje Cells",
+            "Synapses"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA. Electronic address: ak3625@columbia.edu."
+            },
+            {
+                "First Name": "Kameron Decker",
+                "Last Name": "Harris",
+                "Affiliation": "Department of Applied Mathematics, University of Washington, Seattle, WA 98195, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Howard Hughes Medical Institute, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Haim",
+                "Last Name": "Sompolinsky",
+                "Affiliation": "Edmond and Lily Safra Center for Brain Sciences, Hebrew University, Jerusalem 91904, Israel; Racah Institute of Physics, Hebrew University, Jerusalem 91904, Israel; Center for Brain Science, Harvard University, Cambridge, MA 02138, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA; Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27926936",
+        "Title": "Scaling Properties of Dimensionality Reduction for Neural Populations and Network Models.",
+        "Abstract": "Recent studies have applied dimensionality reduction methods to understand how the multi-dimensional structure of neural population activity gives rise to brain function. It is unclear, however, how the results obtained from dimensionality reduction generalize to recordings with larger numbers of neurons and trials or how these results relate to the underlying network structure. We address these questions by applying factor analysis to recordings in the visual cortex of non-human primates and to spiking network models that self-generate irregular activity through a balance of excitation and inhibition. We compared the scaling trends of two key outputs of dimensionality reduction-shared dimensionality and percent shared variance-with neuron and trial count. We found that the scaling properties of networks with non-clustered and clustered connectivity differed, and that the in vivo recordings were more consistent with the clustered network. Furthermore, recordings from tens of neurons were sufficient to identify the dominant modes of shared variability that generalize to larger portions of the network. These findings can help guide the interpretation of dimensionality reduction outputs in regimes of limited neuron and trial sampling and help relate these outputs to the underlying network structure.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Computational Biology",
+            "Macaca",
+            "Male",
+            "Models, Neurological",
+            "Nerve Net",
+            "Visual Cortex"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ryan C",
+                "Last Name": "Williamson",
+                "Affiliation": "Center for the Neural Basis of Cognition, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America."
+            },
+            {
+                "First Name": "Benjamin R",
+                "Last Name": "Cowley",
+                "Affiliation": "Center for the Neural Basis of Cognition, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, New York City, New York, United States of America."
+            },
+            {
+                "First Name": "Brent",
+                "Last Name": "Doiron",
+                "Affiliation": "Center for the Neural Basis of Cognition, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America."
+            },
+            {
+                "First Name": "Adam",
+                "Last Name": "Kohn",
+                "Affiliation": "Dominick Purpura Department of Neuroscience, Albert Einstein College of Medicine, Bronx, New York, United States of America."
+            },
+            {
+                "First Name": "Matthew A",
+                "Last Name": "Smith",
+                "Affiliation": "Center for the Neural Basis of Cognition, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America."
+            },
+            {
+                "First Name": "Byron M",
+                "Last Name": "Yu",
+                "Affiliation": "Center for the Neural Basis of Cognition, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America."
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26906505",
+        "Title": "The mechanics of state-dependent neural correlations.",
+        "Abstract": "Simultaneous recordings from large neural populations are becoming increasingly common. An important feature of population activity is the trial-to-trial correlated fluctuation of spike train outputs from recorded neuron pairs. Similar to the firing rate of single neurons, correlated activity can be modulated by a number of factors, from changes in arousal and attentional state to learning and task engagement. However, the physiological mechanisms that underlie these changes are not fully understood. We review recent theoretical results that identify three separate mechanisms that modulate spike train correlations: changes in input correlations, internal fluctuations and the transfer function of single neurons. We first examine these mechanisms in feedforward pathways and then show how the same approach can explain the modulation of correlations in recurrent networks. Such mechanistic constraints on the modulation of population activity will be important in statistical analyses of high-dimensional neural data.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Feedback, Physiological",
+            "Models, Neurological",
+            "Neural Pathways",
+            "Neurons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Brent",
+                "Last Name": "Doiron",
+                "Affiliation": "Department of Mathematics, University of Pittsburgh, Pittsburgh, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Department of Mathematics, University of Pittsburgh, Pittsburgh, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Rosenbaum",
+                "Affiliation": "Department of Mathematics, University of Pittsburgh, Pittsburgh, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Gabriel K",
+                "Last Name": "Ocker",
+                "Affiliation": "Department of Mathematics, University of Pittsburgh, Pittsburgh, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Kre\u0161imir",
+                "Last Name": "Josi\u0107",
+                "Affiliation": "Department of Mathematics, University of Houston, Houston, Texas, USA."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26740531",
+        "Title": "Inhibitory stabilization and visual coding in cortical circuits with multiple interneuron subtypes.",
+        "Abstract": "Recent anatomical and functional characterization of cortical inhibitory interneurons has highlighted the diverse computations supported by different subtypes of interneurons. However, most theoretical models of cortex do not feature multiple classes of interneurons and rather assume a single homogeneous population. We study the dynamics of recurrent excitatory-inhibitory model cortical networks with parvalbumin (PV)-, somatostatin (SOM)-, and vasointestinal peptide-expressing (VIP) interneurons, with connectivity properties motivated by experimental recordings from mouse primary visual cortex. Our theory describes conditions under which the activity of such networks is stable and how perturbations of distinct neuronal subtypes recruit changes in activity through recurrent synaptic projections. We apply these conclusions to study the roles of each interneuron subtype in disinhibition, surround suppression, and subtractive or divisive modulation of orientation tuning curves. Our calculations and simulations determine the architectural and stimulus tuning conditions under which cortical activity consistent with experiment is possible. They also lead to novel predictions concerning connectivity and network dynamics that can be tested via optogenetic manipulations. Our work demonstrates that recurrent inhibitory dynamics must be taken into account to fully understand many properties of cortical dynamics observed in experiments.",
+        "Keywords": [
+            "V1",
+            "inhibition",
+            "modeling"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Interneurons",
+            "Mice",
+            "Models, Neurological",
+            "Nerve Net",
+            "Neural Inhibition",
+            "Parvalbumins",
+            "Somatostatin",
+            "Synaptic Potentials",
+            "Vasoactive Intestinal Peptide",
+            "Visual Cortex",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, New York, New York; Department of Mathematics, University of Pittsburgh, Pittsburgh, Pennsylvania; and ak3625@columbia.edu."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Rosenbaum",
+                "Affiliation": "Department of Applied and Computational Mathematics and Statistics, University of Notre Dame, Notre Dame, Indiana; Interdisciplinary Center for Network Science and Applications, University of Notre Dame, Notre Dame, Indiana; Department of Mathematics, University of Pittsburgh, Pittsburgh, Pennsylvania; and."
+            },
+            {
+                "First Name": "Brent",
+                "Last Name": "Doiron",
+                "Affiliation": "Department of Mathematics, University of Pittsburgh, Pittsburgh, Pennsylvania; and Center for the Neural Basis of Cognition, Pittsburgh, Pennsylvania."
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26291697",
+        "Title": "Self-Organization of Microcircuits in Networks of Spiking Neurons with Plastic Synapses.",
+        "Abstract": "The synaptic connectivity of cortical networks features an overrepresentation of certain wiring motifs compared to simple random-network models. This structure is shaped, in part, by synaptic plasticity that promotes or suppresses connections between neurons depending on their joint spiking activity. Frequently, theoretical studies focus on how feedforward inputs drive plasticity to create this network structure. We study the complementary scenario of self-organized structure in a recurrent network, with spike timing-dependent plasticity driven by spontaneous dynamics. We develop a self-consistent theory for the evolution of network structure by combining fast spiking covariance with a slow evolution of synaptic weights. Through a finite-size expansion of network dynamics we obtain a low-dimensional set of nonlinear differential equations for the evolution of two-synapse connectivity motifs. With this theory in hand, we explore how the form of the plasticity rule drives the evolution of microcircuits in cortical networks. When potentiation and depression are in approximate balance, synaptic dynamics depend on weighted divergent, convergent, and chain motifs. For additive, Hebbian STDP these motif interactions create instabilities in synaptic dynamics that either promote or suppress the initial network structure. Our work provides a consistent theoretical framework for studying how spiking activity in recurrent networks interacts with synaptic plasticity to determine network structure.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Computational Biology",
+            "Models, Neurological",
+            "Nerve Net",
+            "Neuronal Plasticity",
+            "Neurons",
+            "Synapses"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gabriel Koch",
+                "Last Name": "Ocker",
+                "Affiliation": "Department of Neuroscience, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America; Center for the Neural Basis of Cognition, University of Pittsburgh and Carnegie Melon University, Pittsburgh, Pennsylvania, United States of America."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Center for the Neural Basis of Cognition, University of Pittsburgh and Carnegie Melon University, Pittsburgh, Pennsylvania, United States of America; Department of Mathematics, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America; Center for Theoretical Neuroscience, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Brent",
+                "Last Name": "Doiron",
+                "Affiliation": "Center for the Neural Basis of Cognition, University of Pittsburgh and Carnegie Melon University, Pittsburgh, Pennsylvania, United States of America; Department of Mathematics, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America."
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25395015",
+        "Title": "Formation and maintenance of neuronal assemblies through synaptic plasticity.",
+        "Abstract": "The architecture of cortex is flexible, permitting neuronal networks to store recent sensory experiences as specific synaptic connectivity patterns. However, it is unclear how these patterns are maintained in the face of the high spike time variability associated with cortex. Here we demonstrate, using a large-scale cortical network model, that realistic synaptic plasticity rules coupled with homeostatic mechanisms lead to the formation of neuronal assemblies that reflect previously experienced stimuli. Further, reverberation of past evoked states in spontaneous spiking activity stabilizes, rather than erases, this learned architecture. Spontaneous and evoked spiking activity contains a signature of learned assembly structures, leading to testable predictions about the effect of recent sensory experience on spike train statistics. Our work outlines requirements for synaptic plasticity rules capable of modifying spontaneous dynamics and shows that this modification is beneficial for stability of learned network architectures.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Homeostasis",
+            "Models, Neurological",
+            "Nerve Net",
+            "Neuronal Plasticity",
+            "Neurons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "1] Program for Neural Computation, Carnegie Mellon University and University of Pittsburgh, Pittsburgh, Pennsylvania 15260, USA [2] Department of Mathematics, University of Pittsburgh, Pittsburgh, Pennsylvania 15260, USA [3] Center for the Neural Basis of Cognition, Pittsburgh, Pennsylvania 15213, USA."
+            },
+            {
+                "First Name": "Brent",
+                "Last Name": "Doiron",
+                "Affiliation": "1] Department of Mathematics, University of Pittsburgh, Pittsburgh, Pennsylvania 15260, USA [2] Center for the Neural Basis of Cognition, Pittsburgh, Pennsylvania 15213, USA."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24904394",
+        "Title": "Balanced neural architecture and the idling brain.",
+        "Abstract": "A signature feature of cortical spike trains is their trial-to-trial variability. This variability is large in the spontaneous state and is reduced when cortex is driven by a stimulus or task. Models of recurrent cortical networks with unstructured, yet balanced, excitation and inhibition generate variability consistent with evoked conditions. However, these models produce spike trains which lack the long timescale fluctuations and large variability exhibited during spontaneous cortical dynamics. We propose that global network architectures which support a large number of stable states (attractor networks) allow balanced networks to capture key features of neural variability in both spontaneous and evoked conditions. We illustrate this using balanced spiking networks with clustered assembly, feedforward chain, and ring structures. By assuming that global network structure is related to stimulus preference, we show that signal correlations are related to the magnitude of correlations in the spontaneous state. Finally, we contrast the impact of stimulation on the trial-to-trial variability in attractor networks with that of strongly coupled spiking networks with chaotic firing rate instabilities, recently investigated by Ostojic (2014). We find that only attractor networks replicate an experimentally observed stimulus-induced quenching of trial-to-trial variability. In total, the comparison of the trial-variable dynamics of single neurons or neuron pairs during spontaneous and evoked activity can be a window into the global structure of balanced cortical networks.",
+        "Keywords": [
+            "balanced cortical networks",
+            "cortical circuits",
+            "neural variability",
+            "spiking models",
+            "spontaneous cortical activity"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Brent",
+                "Last Name": "Doiron",
+                "Affiliation": "Department of Mathematics, University of Pittsburgh Pittsburgh, PA, USA ; Center for the Neural Basis of Cognition, University of Pittsburgh and Carnegie Mellon University Pittsburgh, PA, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Center for the Neural Basis of Cognition, University of Pittsburgh and Carnegie Mellon University Pittsburgh, PA, USA ; Program for Neural Computation, University of Pittsburgh and Carnegie Mellon University Pittsburgh, PA, USA."
+            }
+        ],
+        "Journal": "Frontiers in computational neuroscience",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "23028274",
+        "Title": "The spatial structure of stimuli shapes the timescale of correlations in population spiking activity.",
+        "Abstract": "Throughout the central nervous system, the timescale over which pairs of neural spike trains are correlated is shaped by stimulus structure and behavioral context. Such shaping is thought to underlie important changes in the neural code, but the neural circuitry responsible is largely unknown. In this study, we investigate a stimulus-induced shaping of pairwise spike train correlations in the electrosensory system of weakly electric fish. Simultaneous single unit recordings of principal electrosensory cells show that an increase in the spatial extent of stimuli increases correlations at short (\u2248 10 ms) timescales while simultaneously reducing correlations at long (\u2248 100 ms) timescales. A spiking network model of the first two stages of electrosensory processing replicates this correlation shaping, under the assumptions that spatially broad stimuli both saturate feedforward afferent input and recruit an open-loop inhibitory feedback pathway. Our model predictions are experimentally verified using both the natural heterogeneity of the electrosensory system and pharmacological blockade of descending feedback projections. For weak stimuli, linear response analysis of the spiking network shows that the reduction of long timescale correlation for spatially broad stimuli is similar to correlation cancellation mechanisms previously suggested to be operative in mammalian cortex. The mechanism for correlation shaping supports population-level filtering of irrelevant distractor stimuli, thereby enhancing the population response to relevant prey and conspecific communication inputs.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Computer Simulation",
+            "Electric Fish",
+            "Electric Organ",
+            "Electric Stimulation",
+            "Models, Neurological",
+            "Models, Statistical",
+            "Nerve Net",
+            "Neuronal Plasticity",
+            "Neurons, Afferent",
+            "Statistics as Topic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Program for Neural Computation, Carnegie Mellon University and University of Pittsburgh, Pittsburgh, Pennsylvania, USA. alk@cmu.edu"
+            },
+            {
+                "First Name": "Maurice J",
+                "Last Name": "Chacron",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brent",
+                "Last Name": "Doiron",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "23001062",
+        "Title": "Slow dynamics and high variability in balanced cortical networks with clustered connections.",
+        "Abstract": "Anatomical studies demonstrate that excitatory connections in cortex are not uniformly distributed across a network but instead exhibit clustering into groups of highly connected neurons. The implications of clustering for cortical activity are unclear. We studied the effect of clustered excitatory connections on the dynamics of neuronal networks that exhibited high spike time variability owing to a balance between excitation and inhibition. Even modest clustering substantially changed the behavior of these networks, introducing slow dynamics during which clusters of neurons transiently increased or decreased their firing rate. Consequently, neurons exhibited both fast spiking variability and slow firing rate fluctuations. A simplified model shows how stimuli bias networks toward particular activity states, thereby reducing firing rate variability as observed experimentally in many cortical areas. Our model thus relates cortical architecture to the reported variability in spontaneous and evoked spiking activity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Cerebral Cortex",
+            "Cluster Analysis",
+            "Computer Simulation",
+            "Humans",
+            "Models, Neurological",
+            "Nerve Net",
+            "Neurons",
+            "Nonlinear Dynamics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Program for Neural Computation, Carnegie Mellon University and University of Pittsburgh, Pittsburgh, Pennsylvania, USA. alk@cmu.edu"
+            },
+            {
+                "First Name": "Brent",
+                "Last Name": "Doiron",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22474377",
+        "Title": "Correlated neural variability in persistent state networks.",
+        "Abstract": "Neural activity that persists long after stimulus presentation is a biological correlate of short-term memory. Variability in spiking activity causes persistent states to drift over time, ultimately degrading memory. Models of short-term memory often assume that the input fluctuations to neural populations are independent across cells, a feature that attenuates population-level variability and stabilizes persistent activity. However, this assumption is at odds with experimental recordings from pairs of cortical neurons showing that both the input currents and output spike trains are correlated. It remains unclear how correlated variability affects the stability of persistent activity and the performance of cognitive tasks that it supports. We consider the stochastic long-timescale attractor dynamics of pairs of mutually inhibitory populations of spiking neurons. In these networks, persistent activity was less variable when correlated variability was globally distributed across both populations compared with the case when correlations were locally distributed only within each population. Using a reduced firing rate model with a continuum of persistent states, we show that, when input fluctuations are correlated across both populations, they drive firing rate fluctuations orthogonal to the persistent state attractor, thereby causing minimal stochastic drift. Using these insights, we establish that distributing correlated fluctuations globally as opposed to locally improves network's performance on a two-interval, delayed response discrimination task. Our work shows that the correlation structure of input fluctuations to a network is an important factor when determining long-timescale, persistent population spiking activity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Algorithms",
+            "Animals",
+            "Humans",
+            "Memory, Short-Term",
+            "Models, Neurological",
+            "Nerve Net",
+            "Neurons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Amber",
+                "Last Name": "Polk",
+                "Affiliation": "Program for Neural Computation, Carnegie Mellon University and University of Pittsburgh, Pittsburgh, PA 15213, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brent",
+                "Last Name": "Doiron",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22215995",
+        "Title": "Balanced synaptic input shapes the correlation between neural spike trains.",
+        "Abstract": "Stimulus properties, attention, and behavioral context influence correlations between the spike times produced by a pair of neurons. However, the biophysical mechanisms that modulate these correlations are poorly understood. With a combined theoretical and experimental approach, we show that the rate of balanced excitatory and inhibitory synaptic input modulates the magnitude and timescale of pairwise spike train correlation. High rate synaptic inputs promote spike time synchrony rather than long timescale spike rate correlations, while low rate synaptic inputs produce opposite results. This correlation shaping is due to a combination of enhanced high frequency input transfer and reduced firing rate gain in the high input rate state compared to the low state. Our study extends neural modulation from single neuron responses to population activity, a necessary step in understanding how the dynamics and processing of neural activity change across distinct brain states.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Brain",
+            "Mice",
+            "Mice, Inbred Strains",
+            "Models, Neurological",
+            "Neurons",
+            "Synaptic Transmission"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Program for Neural Computation, Carnegie Mellon University and University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America. alk@cmu.edu"
+            },
+            {
+                "First Name": "Anne-Marie M",
+                "Last Name": "Oswald",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nathaniel N",
+                "Last Name": "Urban",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brent",
+                "Last Name": "Doiron",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2011"
+    }
+]

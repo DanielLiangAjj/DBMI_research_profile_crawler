@@ -1,0 +1,1311 @@
+[
+    {
+        "PMID": "38989559",
+        "Title": "MAGPIE: An interactive tool for visualizing and analyzing protein-ligand interactions.",
+        "Abstract": "Quantitative tools to compile and analyze biomolecular interactions among chemically diverse binding partners would improve therapeutic design and aid in studying molecular evolution. Here we present Mapping Areas of Genetic Parsimony In Epitopes (MAGPIE), a publicly available software package for simultaneously visualizing and analyzing thousands of interactions between a single protein or small molecule ligand (the \"target\") and all of its protein binding partners (\"binders\"). MAGPIE generates an interactive three-dimensional visualization from a set of protein complex structures that share the target ligand, as well as sequence logo-style amino acid frequency graphs that show all the amino acids from the set of protein binders that interact with user-defined target ligand positions or chemical groups. MAGPIE highlights all the salt bridge and hydrogen bond interactions made by the target in the visualization and as separate amino acid frequency graphs. Finally, MAGPIE collates the most common target-binder interactions as a list of \"hotspots,\" which can be used to analyze trends or guide the de novo design of protein binders. As an example of the utility of the program, we used MAGPIE to probe how different antibody fragments bind a viral antigen; how a common metabolite binds diverse protein partners; and how two ligands bind orthologs of a well-conserved glycolytic enzyme for a detailed understanding of evolutionarily conserved interactions involved in its activation and inhibition. MAGPIE is implemented in Python 3 and freely available at https://github.com/glasgowlab/MAGPIE, along with sample datasets, usage examples, and helper scripts to prepare input structures.",
+        "Keywords": [
+            "biomolecular interactions",
+            "computational drug design",
+            "protein\u2010small molecule binding",
+            "protein\u2013ligand interactions",
+            "protein\u2013protein interactions"
+        ],
+        "MeSH terms": [
+            "Software",
+            "Ligands",
+            "Proteins",
+            "Protein Binding",
+            "Models, Molecular"
+        ],
+        "Authors": [
+            {
+                "First Name": "Daniel C Pineda",
+                "Last Name": "Rodriguez",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Kyle C",
+                "Last Name": "Weber",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Belen",
+                "Last Name": "Sundberg",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Anum",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University Irving Medical Center, New York, New York, USA."
+            }
+        ],
+        "Journal": "Protein science : a publication of the Protein Society",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37660941",
+        "Title": "An Evolutionarily Conserved Strategy for Ribosome Binding and Host Translation Inhibition by \u03b2-coronavirus Non-structural Protein 1.",
+        "Abstract": "An important pathogenicity factor of SARS-CoV-2 and related coronaviruses is Non-structural protein 1 (Nsp1), which suppresses host gene expression and stunts antiviral signaling. SARS-CoV-2 Nsp1 binds the ribosome to inhibit translation through mRNA displacement and induces degradation of host mRNAs. Here we show that Nsp1-dependent host shutoff is conserved in diverse coronaviruses, but only Nsp1 from \u03b2-Coronaviruses (\u03b2-CoV) inhibits translation through ribosome binding. The C-terminal domain (CTD) of all \u03b2-CoV Nsp1s confers high-affinity ribosome binding despite low sequence conservation. Modeling of interactions of four Nsp1s with the ribosome identified the few absolutely conserved amino acids that, together with an overall conservation in surface charge, form the \u03b2-CoV Nsp1 ribosome-binding domain. Contrary to previous models, the Nsp1 ribosome-binding domain is an inefficient translation inhibitor. Instead, the Nsp1-CTD likely functions by recruiting Nsp1's N-terminal \"effector\" domain. Finally, we show that a cis-acting viral RNA element has co-evolved to fine-tune SARS-CoV-2 Nsp1 function, but does not provide similar protection against Nsp1 from related viruses. Together, our work provides new insight into the diversity and conservation of ribosome-dependent host-shutoff functions of Nsp1, knowledge that could aid future efforts in pharmacological targeting of Nsp1 from SARS-CoV-2 and related human-pathogenic \u03b2-CoVs. Our study also exemplifies how comparing highly divergent Nsp1 variants can help to dissect the different modalities of this multi-functional viral protein.",
+        "Keywords": [
+            "RNA structure",
+            "SARS-CoV-2",
+            "host shutoff",
+            "host-virus interactions",
+            "translation regulation"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Amino Acids",
+            "Ribosomes",
+            "RNA, Messenger",
+            "SARS-CoV-2",
+            "Viral Nonstructural Proteins",
+            "Conserved Sequence",
+            "Host-Pathogen Interactions",
+            "Protein Biosynthesis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Stephanie F",
+                "Last Name": "Maurina",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "O'Sullivan",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Geetika",
+                "Last Name": "Sharma",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Daniel C",
+                "Last Name": "Pineda Rodriguez",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "MacFadden",
+                "Affiliation": "Department of Biochemistry and Molecular Genetics, University of Colorado School of Medicine, Aurora, CO, USA."
+            },
+            {
+                "First Name": "Francesca",
+                "Last Name": "Cendali",
+                "Affiliation": "Department of Biochemistry and Molecular Genetics, University of Colorado School of Medicine, Aurora, CO, USA."
+            },
+            {
+                "First Name": "Morkos A",
+                "Last Name": "Henen",
+                "Affiliation": "Department of Biochemistry and Molecular Genetics, University of Colorado School of Medicine, Aurora, CO, USA."
+            },
+            {
+                "First Name": "Beat",
+                "Last Name": "V\u00f6geli",
+                "Affiliation": "Department of Biochemistry and Molecular Genetics, University of Colorado School of Medicine, Aurora, CO, USA."
+            },
+            {
+                "First Name": "Jeffrey S",
+                "Last Name": "Kieft",
+                "Affiliation": "Department of Biochemistry and Molecular Genetics, University of Colorado School of Medicine, Aurora, CO, USA; RNA BioScience Initiative, University of Colorado School of Medicine, Aurora, CO, USA."
+            },
+            {
+                "First Name": "Anum",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Anna-Lena",
+                "Last Name": "Steckelberg",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA. Electronic address: as6282@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Journal of molecular biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37591202",
+        "Title": "How can the protein design community best support biologists who want to harness AI tools for protein structure prediction and design?",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Birte",
+                "Last Name": "H\u00f6cker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peilong",
+                "Last Name": "Lu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anum",
+                "Last Name": "Glasgow",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Debora S",
+                "Last Name": "Marks",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pranam",
+                "Last Name": "Chatterjee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joanna S G",
+                "Last Name": "Slusky",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ora",
+                "Last Name": "Schueler-Furman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Possu",
+                "Last Name": "Huang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell systems",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37452025",
+        "Title": "Author Correction: Ligand-specific changes in conformational flexibility mediate long-range allostery in the lac repressor.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Anum",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA, 94158, USA. ag4522@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Helen T",
+                "Last Name": "Hobbs",
+                "Affiliation": "Department of Chemistry, University of California, Berkeley, Berkeley, CA, 94720, USA."
+            },
+            {
+                "First Name": "Zion R",
+                "Last Name": "Perry",
+                "Affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT, 06511, USA."
+            },
+            {
+                "First Name": "Malcolm L",
+                "Last Name": "Wells",
+                "Affiliation": "Department of Physics, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Susan",
+                "Last Name": "Marqusee",
+                "Affiliation": "Department of Chemistry, University of California, Berkeley, Berkeley, CA, 94720, USA."
+            },
+            {
+                "First Name": "Tanja",
+                "Last Name": "Kortemme",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA, 94158, USA."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37333070",
+        "Title": "An evolutionarily conserved strategy for ribosome binding and inhibition by \u03b2-coronavirus non-structural protein 1.",
+        "Abstract": "An important pathogenicity factor of SARS-CoV-2 and related coronaviruses is Nsp1, which suppresses host gene expression and stunts antiviral signaling. SARS-CoV-2 Nsp1 binds the ribosome to inhibit translation through mRNA displacement and induces degradation of host mRNAs through an unknown mechanism. Here we show that Nsp1-dependent host shutoff is conserved in diverse coronaviruses, but only Nsp1 from \u03b2-CoV inhibits translation through ribosome binding. The C-terminal domain of all \u03b2-CoV Nsp1s confers high-affinity ribosome-binding despite low sequence conservation. Modeling of interactions of four Nsp1s to the ribosome identified few absolutely conserved amino acids that, together with an overall conservation in surface charge, form the \u03b2-CoV Nsp1 ribosome-binding domain. Contrary to previous models, the Nsp1 ribosome-binding domain is an inefficient translation inhibitor. Instead, the Nsp1-CTD likely functions by recruiting Nsp1's N-terminal \"effector\" domain. Finally, we show that a viral ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Stephanie F",
+                "Last Name": "Maurina",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "O'Sullivan",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Geetika",
+                "Last Name": "Sharma",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Daniel C",
+                "Last Name": "Pineda Rodriguez",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "MacFadden",
+                "Affiliation": "Department of Biochemistry and Molecular Genetics, University of Colorado School of Medicine, Aurora, CO, USA."
+            },
+            {
+                "First Name": "Francesca",
+                "Last Name": "Cendali",
+                "Affiliation": "Department of Biochemistry and Molecular Genetics, University of Colorado School of Medicine, Aurora, CO, USA."
+            },
+            {
+                "First Name": "Morkos A",
+                "Last Name": "Henen",
+                "Affiliation": "Department of Biochemistry and Molecular Genetics, University of Colorado School of Medicine, Aurora, CO, USA."
+            },
+            {
+                "First Name": "Jeffrey S",
+                "Last Name": "Kieft",
+                "Affiliation": "Department of Biochemistry and Molecular Genetics, University of Colorado School of Medicine, Aurora, CO, USA."
+            },
+            {
+                "First Name": "Anum",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Anna-Lena",
+                "Last Name": "Steckelberg",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36859492",
+        "Title": "Ligand-specific changes in conformational flexibility mediate long-range allostery in the lac repressor.",
+        "Abstract": "Biological regulation ubiquitously depends on protein allostery, but the regulatory mechanisms are incompletely understood, especially in proteins that undergo ligand-induced allostery with few structural changes. Here we used hydrogen-deuterium exchange with mass spectrometry (HDX/MS) to map allosteric effects in a paradigm ligand-responsive transcription factor, the lac repressor (LacI), in different functional states (apo, or bound to inducer, anti-inducer, and/or DNA). Although X-ray crystal structures of the LacI core domain in these states are nearly indistinguishable, HDX/MS experiments reveal widespread differences in flexibility. We integrate these results with modeling of protein-ligand-solvent interactions to propose a revised model for allostery in LacI, where ligand binding allosterically shifts the conformational ensemble as a result of distinct changes in the rigidity of secondary structures in the different states. Our model provides a mechanistic basis for the altered function of distal mutations. More generally, our approach provides a platform for characterizing and engineering protein allostery.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Lac Repressors",
+            "Ligands",
+            "Hydrogen Deuterium Exchange-Mass Spectrometry",
+            "Molecular Conformation",
+            "Mutation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anum",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA, 94158, USA. ag4522@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Helen T",
+                "Last Name": "Hobbs",
+                "Affiliation": "Department of Chemistry, University of California, Berkeley, Berkeley, CA, 94720, USA."
+            },
+            {
+                "First Name": "Zion R",
+                "Last Name": "Perry",
+                "Affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT, 06511, USA."
+            },
+            {
+                "First Name": "Malcolm L",
+                "Last Name": "Wells",
+                "Affiliation": "Department of Physics, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Susan",
+                "Last Name": "Marqusee",
+                "Affiliation": "Department of Chemistry, University of California, Berkeley, Berkeley, CA, 94720, USA."
+            },
+            {
+                "First Name": "Tanja",
+                "Last Name": "Kortemme",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA, 94158, USA."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36805129",
+        "Title": "Computational pipeline provides mechanistic understanding of Omicron variant of concern neutralizing engineered ACE2 receptor traps.",
+        "Abstract": "The SARS-CoV-2 Omicron variant, with 15 mutations in Spike receptor-binding domain (Spike-RBD), renders virtually all clinical monoclonal antibodies against WT SARS-CoV-2 ineffective. We recently engineered the\u00a0SARS-CoV-2 host entry receptor, ACE2, to tightly bind WT-RBD and prevent viral entry into host cells (\"receptor traps\"). Here we determine cryo-EM structures of our receptor traps in complex with stabilized Spike ectodomain. We develop a multi-model pipeline combining Rosetta protein modeling software and cryo-EM to allow interface energy calculations even at limited resolution and identify interface side chains that allow for high-affinity interactions between our ACE2 receptor traps and Spike-RBD. Our structural analysis provides a mechanistic rationale for the high-affinity (0.53-4.2\u00a0nM) binding of our ACE2 receptor traps to Omicron-RBD confirmed with biolayer interferometry measurements. Finally, we show that ACE2 receptor traps potently neutralize Omicron and Delta pseudotyped viruses, providing alternative therapeutic routes to combat this evolving virus.",
+        "Keywords": [
+            "ACE2 receptor traps",
+            "Rosetta",
+            "SARS-CoV-2 Omicron variant",
+            "Spike",
+            "cryo-EM",
+            "protein therapeutics",
+            "pseudovirus neutralization"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Angiotensin-Converting Enzyme 2",
+            "COVID-19",
+            "SARS-CoV-2",
+            "Antibodies, Monoclonal",
+            "Protein Binding",
+            "Antibodies, Neutralizing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Soumya G",
+                "Last Name": "Remesh",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA 94158, USA; QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Gregory E",
+                "Last Name": "Merz",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Axel F",
+                "Last Name": "Brilot",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Un Seng",
+                "Last Name": "Chio",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Alexandrea N",
+                "Last Name": "Rizo",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Thomas H",
+                "Last Name": "Pospiech",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Irene",
+                "Last Name": "Lui",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Mathew T",
+                "Last Name": "Laurie",
+                "Affiliation": "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Jeff",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Chau Q",
+                "Last Name": "Le",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Yun",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Devan",
+                "Last Name": "Diwanji",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Evelyn",
+                "Last Name": "Hernandez",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Jocelyne",
+                "Last Name": "Lopez",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Hevatib",
+                "Last Name": "Mehmood",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Komal Ishwar",
+                "Last Name": "Pawar",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Sergei",
+                "Last Name": "Pourmal",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Amber M",
+                "Last Name": "Smith",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Fengbo",
+                "Last Name": "Zhou",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph",
+                "Last Name": "DeRisi",
+                "Affiliation": "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA 94158, USA; Chan Zuckerberg Biohub, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Tanja",
+                "Last Name": "Kortemme",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA; Chan Zuckerberg Biohub, San Francisco, CA 94158, USA; QBI, University of California, San Francisco, San Francisco, CA 94158, USA; Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, CA 94158, USA; The University of California, Berkeley-University of California, San Francisco Graduate Program in Bioengineering, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Oren S",
+                "Last Name": "Rosenberg",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA; Chan Zuckerberg Biohub, San Francisco, CA 94158, USA; Department of Medicine, University of California, San Francisco, San Francisco, CA 94143, USA."
+            },
+            {
+                "First Name": "Anum",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA. Electronic address: ag4522@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Kevin K",
+                "Last Name": "Leung",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA 94158, USA. Electronic address: kevin.leung@ucsf.edu."
+            },
+            {
+                "First Name": "James A",
+                "Last Name": "Wells",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA 94158, USA; Chan Zuckerberg Biohub, San Francisco, CA 94158, USA; Department of Cellular and Molecular Pharmacology, University of California San Francisco, San Francisco, CA 94158, USA. Electronic address: jim.wells@ucsf.edu."
+            },
+            {
+                "First Name": "Kliment A",
+                "Last Name": "Verba",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, San Francisco, CA 94158, USA; QBI, University of California, San Francisco, San Francisco, CA 94158, USA; Department of Cellular and Molecular Pharmacology, University of California San Francisco, San Francisco, CA 94158, USA. Electronic address: kliment.verba@ucsf.edu."
+            }
+        ],
+        "Journal": "Structure (London, England : 1993)",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35982665",
+        "Title": "Computational pipeline provides mechanistic understanding of Omicron variant of concern neutralizing engineered ACE2 receptor traps.",
+        "Abstract": "The SARS-CoV-2 Omicron variant, with 15 mutations in Spike receptor binding domain (Spike-RBD), renders virtually all clinical monoclonal antibodies against WT SARS-CoV-2 ineffective. We recently engineered the SARS-CoV-2 host entry receptor, ACE2, to tightly bind WT-Spike-RBD and prevent viral entry into host cells (\"receptor traps\"). Here we determine cryo-EM structures of our receptor traps in complex with full length Spike. We develop a multi-model pipeline combining Rosetta protein modeling software and cryo-EM to allow interface energy calculations even at limited resolution and identify interface side chains that allow for high affinity interactions between our ACE2 receptor traps and Spike-RBD. Our structural analysis provides a mechanistic rationale for the high affinity (0.53 - 4.2nM) binding of our ACE2 receptor traps to Omicron-RBD confirmed with biolayer interferometry measurements. Finally, we show that ACE2 receptor traps potently neutralize Omicron- and Delta-pseudotyped viruses, providing alternative therapeutic routes to combat this evolving virus.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Soumya G",
+                "Last Name": "Remesh",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Gregory E",
+                "Last Name": "Merz",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Axel F",
+                "Last Name": "Brilot",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Un Seng",
+                "Last Name": "Chio",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Alexandrea N",
+                "Last Name": "Rizo",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Thomas H",
+                "Last Name": "Pospiech",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Irene",
+                "Last Name": "Lui",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Mathew T",
+                "Last Name": "Laurie",
+                "Affiliation": "Department of Biochemistry and Biophysics, University of California San Francisco, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Jeff",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Chau Q",
+                "Last Name": "Le",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Yun",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Devan",
+                "Last Name": "Diwanji",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Evelyn",
+                "Last Name": "Hernandez",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Jocelyne",
+                "Last Name": "Lopez",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Komal Ishwar",
+                "Last Name": "Pawar",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Sergei",
+                "Last Name": "Pourmal",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Amber M",
+                "Last Name": "Smith",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Fengbo",
+                "Last Name": "Zhou",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph",
+                "Last Name": "DeRisi",
+                "Affiliation": "Department of Biochemistry and Biophysics, University of California San Francisco, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Tanja",
+                "Last Name": "Kortemme",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Oren S",
+                "Last Name": "Rosenberg",
+                "Affiliation": "QBI Coronavirus Research Group Structural Biology Consortium, University of California, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Anum",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Kevin K",
+                "Last Name": "Leung",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "James A",
+                "Last Name": "Wells",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA - 94158, USA."
+            },
+            {
+                "First Name": "Kliment A",
+                "Last Name": "Verba",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA - 94158, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "33833059",
+        "Title": "Reply to Liu et al.: Specific mutations matter in specificity and catalysis in ACE2.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Angiotensin-Converting Enzyme 2",
+            "Catalysis",
+            "Mutation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jeff",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158."
+            },
+            {
+                "First Name": "Anum",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA 94158."
+            },
+            {
+                "First Name": "Tanja",
+                "Last Name": "Kortemme",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA 94158."
+            },
+            {
+                "First Name": "James A",
+                "Last Name": "Wells",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158; jim.wells@ucsf.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33767397",
+        "Title": "Engineering luminescent biosensors for point-of-care SARS-CoV-2 antibody detection.",
+        "Abstract": "Current serology tests for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) antibodies mainly take the form of enzyme-linked immunosorbent assays, chemiluminescent microparticle immunoassays or lateral flow assays, which are either laborious, expensive or lacking sufficient sensitivity and scalability. Here we present the development and validation of a rapid, low-cost, solution-based assay to detect antibodies in serum, plasma, whole blood and to a lesser extent saliva, using rationally designed split luciferase antibody biosensors. This new assay, which generates quantitative results in 30\u2009min, substantially reduces the complexity and improves the scalability of coronavirus disease 2019 (COVID-19) antibody tests. This assay is well-suited for point-of-care, broad population testing, and applications in low-resource settings, for monitoring host humoral responses to vaccination or viral infection.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Antibodies, Viral",
+            "Biosensing Techniques",
+            "COVID-19",
+            "COVID-19 Serological Testing",
+            "Humans",
+            "Luminescence",
+            "Point-of-Care Systems",
+            "SARS-CoV-2"
+        ],
+        "Authors": [
+            {
+                "First Name": "Susanna K",
+                "Last Name": "Elledge",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Xin X",
+                "Last Name": "Zhou",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "James R",
+                "Last Name": "Byrnes",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Alexander J",
+                "Last Name": "Martinko",
+                "Affiliation": "Soteria Biotherapeutics, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Irene",
+                "Last Name": "Lui",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Katarina",
+                "Last Name": "Pance",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Shion A",
+                "Last Name": "Lim",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Jeff E",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Anum A",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Keirstinne",
+                "Last Name": "Turcios",
+                "Affiliation": "Division of Experimental Medicine, University of California, San Francisco, San Francisco CA, USA."
+            },
+            {
+                "First Name": "Nikita S",
+                "Last Name": "Iyer",
+                "Affiliation": "Division of Experimental Medicine, University of California, San Francisco, San Francisco CA, USA."
+            },
+            {
+                "First Name": "Leonel",
+                "Last Name": "Torres",
+                "Affiliation": "Division of Experimental Medicine, University of California, San Francisco, San Francisco CA, USA."
+            },
+            {
+                "First Name": "Michael J",
+                "Last Name": "Peluso",
+                "Affiliation": "Division of HIV, Infectious Diseases, and Global Medicine, University of California, San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Henrich",
+                "Affiliation": "Division of Experimental Medicine, University of California, San Francisco, San Francisco CA, USA."
+            },
+            {
+                "First Name": "Taia T",
+                "Last Name": "Wang",
+                "Affiliation": "Chan Zuckerberg Biohub, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Cristina M",
+                "Last Name": "Tato",
+                "Affiliation": "Chan Zuckerberg Biohub, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Kevin K",
+                "Last Name": "Leung",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Bryan",
+                "Last Name": "Greenhouse",
+                "Affiliation": "Division of Experimental Medicine, University of California, San Francisco, San Francisco CA, USA."
+            },
+            {
+                "First Name": "James A",
+                "Last Name": "Wells",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA. jim.wells@ucsf.edu."
+            }
+        ],
+        "Journal": "Nature biotechnology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33093202",
+        "Title": "Engineered ACE2 receptor traps potently neutralize SARS-CoV-2.",
+        "Abstract": "An essential mechanism for severe acute respiratory syndrome coronavirus 1 (SARS-CoV-1) and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection begins with the viral spike protein binding to the human receptor protein angiotensin-converting enzyme II (ACE2). Here, we describe a stepwise engineering approach to generate a set of affinity optimized, enzymatically inactivated ACE2 variants that potently block SARS-CoV-2 infection of cells. These optimized receptor traps tightly bind the receptor binding domain (RBD) of the viral spike protein and prevent entry into host cells. We first computationally designed the ACE2-RBD interface using a two-stage flexible protein backbone design process that improved affinity for the RBD by up to 12-fold. These designed receptor variants were affinity matured an additional 14-fold by random mutagenesis and selection using yeast surface display. The highest-affinity variant contained seven amino acid changes and bound to the RBD 170-fold more tightly than wild-type ACE2. With the addition of the natural ACE2 collectrin domain and fusion to a human immunoglobulin crystallizable fragment (Fc) domain for increased stabilization and avidity, the most optimal ACE2 receptor traps neutralized SARS-CoV-2-pseudotyped lentivirus and authentic SARS-CoV-2 virus with half-maximal inhibitory concentrations (IC50s) in the 10- to 100-ng/mL range. Engineered ACE2 receptor traps offer a promising route to fighting infections by SARS-CoV-2 and other ACE2-using coronaviruses, with the key advantage that viral resistance would also likely impair viral entry. Moreover, such traps can be predesigned for viruses with known entry receptors for faster therapeutic response without the need for neutralizing antibodies isolated from convalescent patients.",
+        "Keywords": [
+            "SARS-CoV-2",
+            "antiviral therapeutics",
+            "computational design",
+            "receptor trap",
+            "yeast display"
+        ],
+        "MeSH terms": [
+            "Angiotensin-Converting Enzyme 2",
+            "Antiviral Agents",
+            "Binding Sites",
+            "Drug Design",
+            "HEK293 Cells",
+            "Humans",
+            "Molecular Docking Simulation",
+            "Mutation",
+            "Peptide Library",
+            "Protein Binding",
+            "Protein Engineering",
+            "Recombinant Proteins",
+            "Saccharomyces cerevisiae",
+            "Spike Glycoprotein, Coronavirus"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anum",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA 94158."
+            },
+            {
+                "First Name": "Jeff",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Limonta",
+                "Affiliation": "Li Ka Shing Institute of Virology, University of Alberta, Edmonton, AB T6G 2E1, Canada."
+            },
+            {
+                "First Name": "Paige",
+                "Last Name": "Solomon",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158."
+            },
+            {
+                "First Name": "Irene",
+                "Last Name": "Lui",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158."
+            },
+            {
+                "First Name": "Yang",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA 94158."
+            },
+            {
+                "First Name": "Matthew A",
+                "Last Name": "Nix",
+                "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, CA 94143."
+            },
+            {
+                "First Name": "Nicholas J",
+                "Last Name": "Rettko",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158."
+            },
+            {
+                "First Name": "Shoshana",
+                "Last Name": "Zha",
+                "Affiliation": "Department of Medicine, University of California, San Francisco, CA 94143."
+            },
+            {
+                "First Name": "Rachel",
+                "Last Name": "Yamin",
+                "Affiliation": "Laboratory of Molecular Genetics and Immunology, Rockefeller University, New York, NY 10065."
+            },
+            {
+                "First Name": "Kevin",
+                "Last Name": "Kao",
+                "Affiliation": "Laboratory of Molecular Genetics and Immunology, Rockefeller University, New York, NY 10065."
+            },
+            {
+                "First Name": "Oren S",
+                "Last Name": "Rosenberg",
+                "Affiliation": "Department of Medicine, University of California, San Francisco, CA 94143."
+            },
+            {
+                "First Name": "Jeffrey V",
+                "Last Name": "Ravetch",
+                "Affiliation": "Laboratory of Molecular Genetics and Immunology, Rockefeller University, New York, NY 10065."
+            },
+            {
+                "First Name": "Arun P",
+                "Last Name": "Wiita",
+                "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, CA 94143."
+            },
+            {
+                "First Name": "Kevin K",
+                "Last Name": "Leung",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158."
+            },
+            {
+                "First Name": "Shion A",
+                "Last Name": "Lim",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158."
+            },
+            {
+                "First Name": "Xin X",
+                "Last Name": "Zhou",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158."
+            },
+            {
+                "First Name": "Tom C",
+                "Last Name": "Hobman",
+                "Affiliation": "Li Ka Shing Institute of Virology, University of Alberta, Edmonton, AB T6G 2E1, Canada."
+            },
+            {
+                "First Name": "Tanja",
+                "Last Name": "Kortemme",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA 94158."
+            },
+            {
+                "First Name": "James A",
+                "Last Name": "Wells",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158; jim.wells@ucsf.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32839788",
+        "Title": "Engineering luminescent biosensors for point-of-care SARS-CoV-2 antibody detection.",
+        "Abstract": "Current serology tests for SARS-CoV-2 antibodies mainly take the form of enzyme-linked immunosorbent assays or lateral flow assays, with the former being laborious and the latter being expensive and often lacking sufficient sensitivity and scalability. Here we present the development and validation of a rapid, low-cost solution-based assay to detect antibodies in serum, plasma, whole blood, and saliva, using rationally designed split luciferase antibody biosensors (spLUC). This new assay, which generates quantitative results in as short as 5 minutes, substantially reduces the complexity and improves the scalability of COVID-19 antibody tests for point-of-care and broad population testing.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Susanna K",
+                "Last Name": "Elledge",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "Xin X",
+                "Last Name": "Zhou",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "James R",
+                "Last Name": "Byrnes",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "Alexander J",
+                "Last Name": "Martinko",
+                "Affiliation": "Soteria Biotherapeutics, San Francisco, California, 94107, USA."
+            },
+            {
+                "First Name": "Irene",
+                "Last Name": "Lui",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "Katarina",
+                "Last Name": "Pance",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "Shion A",
+                "Last Name": "Lim",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "Jeff E",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "Anum A",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Keirstinne",
+                "Last Name": "Turcios",
+                "Affiliation": "Department of Medicine, University of California San Francisco, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "Nikita",
+                "Last Name": "Iyer",
+                "Affiliation": "Department of Medicine, University of California San Francisco, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "Leonel",
+                "Last Name": "Torres",
+                "Affiliation": "Department of Medicine, University of California San Francisco, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "Michael J",
+                "Last Name": "Peluso",
+                "Affiliation": "Department of Medicine, University of California San Francisco, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Henrich",
+                "Affiliation": "Department of Medicine, University of California San Francisco, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "Taia T",
+                "Last Name": "Wang",
+                "Affiliation": "Chan Zuckerberg Biohub, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "Cristina M",
+                "Last Name": "Tato",
+                "Affiliation": "Chan Zuckerberg Biohub, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "Kevin K",
+                "Last Name": "Leung",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "Bryan",
+                "Last Name": "Greenhouse",
+                "Affiliation": "Department of Medicine, University of California San Francisco, San Francisco, California, 94158, USA."
+            },
+            {
+                "First Name": "James A",
+                "Last Name": "Wells",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, California, 94158, USA."
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32766586",
+        "Title": "Engineered ACE2 receptor traps potently neutralize SARS-CoV-2.",
+        "Abstract": "An essential mechanism for SARS-CoV-1 and -2 infection begins with the viral spike protein binding to the human receptor protein angiotensin-converting enzyme II (ACE2). Here we describe a stepwise engineering approach to generate a set of affinity optimized, enzymatically inactivated ACE2 variants that potently block SARS-CoV-2 infection of cells. These optimized receptor traps tightly bind the receptor binding domain (RBD) of the viral spike protein and prevent entry into host cells. We first computationally designed the ACE2-RBD interface using a two-stage flexible protein backbone design process that improved affinity for the RBD by up to 12-fold. These designed receptor variants were affinity matured an additional 14-fold by random mutagenesis and selection using yeast surface display. The highest affinity variant contained seven amino acid changes and bound to the RBD 170-fold more tightly than wild-type ACE2. With the addition of the natural ACE2 collectrin domain and fusion to a human Fc domain for increased stabilization and avidity, the most optimal ACE2 receptor traps neutralized SARS-CoV-2 pseudotyped lentivirus and authentic SARS-CoV-2 virus with half-maximal inhibitory concentrations (IC50) in the 10-100 ng/ml range. Engineered ACE2 receptor traps offer a promising route to fighting infections by SARS-CoV-2 and other ACE2-utilizing coronaviruses, with the key advantage that viral resistance would also likely impair viral entry. Moreover, such traps can be predesigned for viruses with known entry receptors for faster therapeutic response without the need for neutralizing antibodies isolated or generated from convalescent patients.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Anum",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California at San Francisco, CA."
+            },
+            {
+                "First Name": "Jeff",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California at San Francisco, CA."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Limonta",
+                "Affiliation": "Li Ka Shing Institute of Virology, University of Alberta, Edmonton, Canada."
+            },
+            {
+                "First Name": "Paige",
+                "Last Name": "Solomon",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California at San Francisco, CA."
+            },
+            {
+                "First Name": "Irene",
+                "Last Name": "Lui",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California at San Francisco, CA."
+            },
+            {
+                "First Name": "Yang",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California at San Francisco, CA."
+            },
+            {
+                "First Name": "Matthew A",
+                "Last Name": "Nix",
+                "Affiliation": "Department of Laboratory Medicine, University of California at San Francisco, CA."
+            },
+            {
+                "First Name": "Nicholas J",
+                "Last Name": "Rettko",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California at San Francisco, CA."
+            },
+            {
+                "First Name": "Shion A",
+                "Last Name": "Lim",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California at San Francisco, CA."
+            },
+            {
+                "First Name": "Shoshana",
+                "Last Name": "Zha",
+                "Affiliation": "Department of Medicine, University of California at San Francisco, CA."
+            },
+            {
+                "First Name": "Rachel",
+                "Last Name": "Yamin",
+                "Affiliation": "Laboratory of Molecular Genetics and Immunology, Rockefeller University, New York, NY."
+            },
+            {
+                "First Name": "Kevin",
+                "Last Name": "Kao",
+                "Affiliation": "Laboratory of Molecular Genetics and Immunology, Rockefeller University, New York, NY."
+            },
+            {
+                "First Name": "Oren S",
+                "Last Name": "Rosenberg",
+                "Affiliation": "Department of Medicine, University of California at San Francisco, CA."
+            },
+            {
+                "First Name": "Jeffrey V",
+                "Last Name": "Ravetch",
+                "Affiliation": "Laboratory of Molecular Genetics and Immunology, Rockefeller University, New York, NY."
+            },
+            {
+                "First Name": "Arun P",
+                "Last Name": "Wiita",
+                "Affiliation": "Department of Laboratory Medicine, University of California at San Francisco, CA."
+            },
+            {
+                "First Name": "Kevin K",
+                "Last Name": "Leung",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California at San Francisco, CA."
+            },
+            {
+                "First Name": "Xin X",
+                "Last Name": "Zhou",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California at San Francisco, CA."
+            },
+            {
+                "First Name": "Tom C",
+                "Last Name": "Hobman",
+                "Affiliation": "Li Ka Shing Institute of Virology, University of Alberta, Edmonton, Canada."
+            },
+            {
+                "First Name": "Tanja",
+                "Last Name": "Kortemme",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California at San Francisco, CA."
+            },
+            {
+                "First Name": "James A",
+                "Last Name": "Wells",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California at San Francisco, CA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31754004",
+        "Title": "Computational design of a modular protein sense-response system.",
+        "Abstract": "Sensing and responding to signals is a fundamental ability of living systems, but despite substantial progress in the computational design of new protein structures, there is no general approach for engineering arbitrary new protein sensors. Here, we describe a generalizable computational strategy for designing sensor-actuator proteins by building binding sites de novo into heterodimeric protein-protein interfaces and coupling ligand sensing to modular actuation through split reporters. Using this approach, we designed protein sensors that respond to farnesyl pyrophosphate, a metabolic intermediate in the production of valuable compounds. The sensors are functional in vitro and in cells, and the crystal structure of the engineered binding site closely matches the design model. Our computational design strategy opens broad avenues to link biological outputs to new signals.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Ankyrin Repeat",
+            "Binding Sites",
+            "Biosensing Techniques",
+            "Computational Biology",
+            "Computer Simulation",
+            "Crystallography, X-Ray",
+            "Ligands",
+            "Maltose-Binding Proteins",
+            "Models, Molecular",
+            "Polyisoprenyl Phosphates",
+            "Protein Engineering",
+            "Protein Multimerization",
+            "Proteins",
+            "Sesquiterpenes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anum A",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Yao-Ming",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Daniel J",
+                "Last Name": "Mandell",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Thompson",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Ryan",
+                "Last Name": "Ritterson",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Amanda L",
+                "Last Name": "Loshbaugh",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Jenna",
+                "Last Name": "Pellegrino",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Cody",
+                "Last Name": "Krivacic",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Roland A",
+                "Last Name": "Pache",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Kyle A",
+                "Last Name": "Barlow",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Noah",
+                "Last Name": "Ollikainen",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Deborah",
+                "Last Name": "Jeon",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Mark J S",
+                "Last Name": "Kelly",
+                "Affiliation": "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "James S",
+                "Last Name": "Fraser",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Tanja",
+                "Last Name": "Kortemme",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA. tanjakortemme@gmail.com."
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "29868958",
+        "Title": "Type III Secretion Filaments as Templates for Metallic Nanostructure Synthesis.",
+        "Abstract": "Nanostructured materials can be interfaced with living cells to enable unique chemical and biological outcomes. However, it is challenging to precisely control the shape and chemical composition of submillimeter sized, cell-associated materials. In this protocol, we describe how to genetically modify and isolate a self-assembling filament protein from Salmonella enterica, PrgI, to bind Au nanoparticles. Au-conjugated filaments can be chemically reduced in vitro to form contiguous wires and networks that are several micrometers in length. We also describe a strategy to assemble PrgI-based filaments on live cells, which can then be sheared or remain tethered to cells for gold conjugation. These methods form the basis of a strategy for interactions between inorganic and organic systems, and could be expanded to introduce interactions with other metal nanoparticles for which peptide binding partners are known.",
+        "Keywords": [
+            "Biomineralization",
+            "Microbial electrocatalysis",
+            "Nanowires",
+            "Protein secretion",
+            "Self-assembly"
+        ],
+        "MeSH terms": [
+            "Bacterial Proteins",
+            "Cloning, Molecular",
+            "Dynamic Light Scattering",
+            "Gene Expression",
+            "Gold",
+            "Metal Nanoparticles",
+            "Nanotechnology",
+            "Recombinant Fusion Proteins",
+            "Salmonella enterica",
+            "Type III Secretion Systems"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anum Azam",
+                "Last Name": "Glasgow",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences, UC San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Danielle",
+                "Last Name": "Tullman-Ercek",
+                "Affiliation": "Department of Chemical and Biological Engineering, Northwestern University, Evanston, IL, USA. ercek@northwestern.edu."
+            }
+        ],
+        "Journal": "Methods in molecular biology (Clifton, N.J.)",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28301138",
+        "Title": "A Secretion-Amplification Role for Salmonella enterica Translocon Protein SipD.",
+        "Abstract": "The bacterial type III secretion system (T3SS) is an important target for enabling high-titer production of proteins of biotechnological interest as well as for synthetic biology applications that rely on protein delivery to host cells. The T3SS forms a membrane-embedded needle complex that is capped by the translocon proteins and extends into the extracellular space. The needle tip complex in Salmonella enterica consists of three translocon proteins: SipB, SipC, and SipD. It is known that knocking out sipD disrupts T3SS regulation to cause constitutive secretion of native proteins. However, we discovered that complementation of SipD in trans via exogenous addition to T3SS-expressing cultures further improves heterologous protein secretion titers, suggesting a previously unknown but important role for this protein. Building on this knowledge, we have engineered a hyper-secreting strain of S.\u00a0enterica for a greater than 100-fold improvement in the production of a variety of biotechnologically valuable heterologous proteins that are challenging to produce, such as toxic antimicrobial peptides and proteolysis-prone biopolymer proteins. We determined that transcription by several T3SS promoters is upregulated with the addition of SipD, that the N-terminal domain of SipD is sufficient to observe the increased secretion phenotype, and that the effect is post-transcriptional and post-translational. These results lend support to the use of bacterial secretion as a powerful protein production strategy, and the hypothesis that translocon proteins contribute to type III secretion regulation.",
+        "Keywords": [
+            "Salmonella",
+            "gene networks",
+            "protein engineering",
+            "translocon",
+            "type III secretion",
+            "virulence mechanisms"
+        ],
+        "MeSH terms": [
+            "Antigens, Bacterial",
+            "Bacterial Proteins",
+            "Escherichia coli",
+            "Membrane Proteins",
+            "Protein Engineering",
+            "Recombinant Proteins",
+            "Salmonella enterica",
+            "Type III Secretion Systems",
+            "Virulence"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anum Azam",
+                "Last Name": "Glasgow",
+                "Affiliation": "UC Berkeley-UCSF Graduate Program in Bioengineering, University of California Berkeley , Berkeley, California 94720, United States."
+            },
+            {
+                "First Name": "Han Teng",
+                "Last Name": "Wong",
+                "Affiliation": "Department of Plant and Microbial Biology, University of California Berkeley , Berkeley, California 94720, United States."
+            },
+            {
+                "First Name": "Danielle",
+                "Last Name": "Tullman-Ercek",
+                "Affiliation": "Department of Chemical and Biological Engineering, Northwestern University , Evanston, Illinois 60208, United States."
+            }
+        ],
+        "Journal": "ACS synthetic biology",
+        "PubDate": "2017"
+    }
+]

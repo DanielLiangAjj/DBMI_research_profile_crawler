@@ -1,0 +1,1060 @@
+[
+    {
+        "PMID": "38968311",
+        "Title": "Factorized visual representations in the primate visual system and deep neural networks.",
+        "Abstract": "Object classification has been proposed as a principal objective of the primate ventral visual stream and has been used as an optimization target for deep neural network models (DNNs) of the visual system. However, visual brain areas represent many different types of information, and optimizing for classification of object identity alone does not constrain how other information may be encoded in visual representations. Information about different scene parameters may be discarded altogether ('invariance'), represented in non-interfering subspaces of population activity ('factorization') or encoded in an entangled fashion. In this work, we provide evidence that factorization is a normative principle of biological visual representations. In the monkey ventral visual hierarchy, we found that factorization of object pose and background information from object identity increased in higher-level regions and strongly contributed to improving object identity decoding performance. We then conducted a large-scale analysis of factorization of individual scene parameters - lighting, background, camera viewpoint, and object pose - in a diverse library of DNN models of the visual system. Models which best matched neural, fMRI, and behavioral data from both monkeys and humans across 12 datasets tended to be those which factorized scene parameters most strongly. Notably, invariance to these parameters was not as consistently associated with matches to neural and behavioral data, suggesting that maintaining non-class information in factorized activity subspaces is often preferred to dropping it altogether. Thus, we propose that factorization of visual scene information is a widely used strategy in brains and DNN models thereof.",
+        "Keywords": [
+            "deep neural networks",
+            "fMRI",
+            "human",
+            "neurophysiology",
+            "neuroscience",
+            "object recognition",
+            "rhesus macaque",
+            "visual cortex",
+            "visual scenes"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Neural Networks, Computer",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Macaca mulatta",
+            "Visual Pathways",
+            "Visual Perception",
+            "Visual Cortex",
+            "Female",
+            "Photic Stimulation",
+            "Models, Neurological"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jack W",
+                "Last Name": "Lindsey",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Elias B",
+                "Last Name": "Issa",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37961740",
+        "Title": "Brain-like Flexible Visual Inference by Harnessing Feedback-Feedforward Alignment.",
+        "Abstract": "In natural vision, feedback connections support versatile visual inference capabilities such as making sense of the occluded or noisy bottom-up sensory information or mediating pure top-down processes such as imagination. However, the mechanisms by which the feedback pathway learns to give rise to these capabilities flexibly are not clear. We propose that top-down effects emerge through alignment between feedforward and feedback pathways, each optimizing its own objectives. To achieve this co-optimization, we introduce Feedback-Feedforward Alignment (FFA), a learning algorithm that leverages feedback and feedforward pathways as mutual credit assignment computational graphs, enabling alignment. In our study, we demonstrate the effectiveness of FFA in co-optimizing classification and reconstruction tasks on widely used MNIST and CIFAR10 datasets. Notably, the alignment mechanism in FFA endows feedback connections with emergent visual inference functions, including denoising, resolving occlusions, hallucination, and imagination. Moreover, FFA offers bio-plausibility compared to traditional back-propagation (BP) methods in implementation. By repurposing the computational graph of credit assignment into a goal-driven feedback pathway, FFA alleviates weight transport problems encountered in BP, enhancing the bio-plausibility of the learning algorithm. Our study presents FFA as a promising proof-of-concept for the mechanisms underlying how feedback connections in the visual cortex support flexible visual functions. This work also contributes to the broader field of visual inference underlying perceptual phenomena and has implications for developing more biologically inspired learning algorithms.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Tahereh",
+                "Last Name": "Toosi",
+                "Affiliation": "Center for Theoretical Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Elias B",
+                "Last Name": "Issa",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY."
+            }
+        ],
+        "Journal": "ArXiv",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36594035",
+        "Title": "Marmoset core visual object recognition behavior is comparable to that of macaques and humans.",
+        "Abstract": "Among the smallest simian primates, the common marmoset offers promise as an experimentally tractable primate model for neuroscience with translational potential to humans. However, given its exceedingly small brain and body, the gap in perceptual and cognitive abilities between marmosets and humans requires study. Here, we performed a comparison of marmoset behavior to that of three other species in the domain of high-level vision. We first found that marmosets outperformed rats\u00a0- a marmoset-sized rodent\u00a0- on a simple recognition task, with marmosets robustly recognizing objects across views. On a more challenging invariant object recognition task used previously in humans, marmosets also achieved high performance. Notably, across hundreds of images, marmosets' image-by-image behavior was highly similar to that of humans\u00a0- nearly as human-like as macaque behavior. Thus, core aspects of visual perception are conserved across monkeys and humans, and marmosets present salient behavioral advantages over other small model organisms for visual neuroscience.",
+        "Keywords": [
+            "Biological sciences",
+            "Neuroscience",
+            "Sensory neuroscience"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Alexander J E",
+                "Last Name": "Kell",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Sophie L",
+                "Last Name": "Bokor",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "You-Nah",
+                "Last Name": "Jeon",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Tahereh",
+                "Last Name": "Toosi",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Elias B",
+                "Last Name": "Issa",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            }
+        ],
+        "Journal": "iScience",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "31040111",
+        "Title": "An Interscholastic Network To Generate LexA Enhancer Trap Lines in ",
+        "Abstract": "Binary expression systems like the LexA-LexAop system provide a powerful experimental tool kit to study gene and tissue function in developmental biology, neurobiology, and physiology. However, the number of well-defined LexA enhancer trap insertions remains limited. In this study, we present the molecular characterization and initial tissue expression analysis of nearly 100 novel StanEx LexA enhancer traps, derived from the ",
+        "Keywords": [
+            "Drosophila melanogaster",
+            "Enhancer trap",
+            "High School - University genetics course collaboration",
+            "LexA - LexAop binary expression system",
+            "STEM",
+            "StanEx"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Animals, Genetically Modified",
+            "Bacterial Proteins",
+            "Base Sequence",
+            "Binding Sites",
+            "Drosophila",
+            "Drosophila melanogaster",
+            "Enhancer Elements, Genetic",
+            "Female",
+            "Gene Expression Regulation",
+            "Genes, Reporter",
+            "Genetic Loci",
+            "Homologous Recombination",
+            "Male",
+            "Organ Specificity",
+            "Position-Specific Scoring Matrices",
+            "Protein Binding",
+            "Serine Endopeptidases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lutz",
+                "Last Name": "Kockel",
+                "Affiliation": "Dept. of Developmental Biology, Stanford University School of Medicine, Stanford CA 94305."
+            },
+            {
+                "First Name": "Catherine",
+                "Last Name": "Griffin",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Yaseen",
+                "Last Name": "Ahmed",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Lauren",
+                "Last Name": "Fidelak",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Arjun",
+                "Last Name": "Rajan",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Ethan P",
+                "Last Name": "Gould",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Myles",
+                "Last Name": "Haigney",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Benjamin",
+                "Last Name": "Ralston",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Rex J",
+                "Last Name": "Tercek",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Lara",
+                "Last Name": "Galligani",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Sagar",
+                "Last Name": "Rao",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Lutfi",
+                "Last Name": "Huq",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Hersh K",
+                "Last Name": "Bhargava",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Ailis C",
+                "Last Name": "Dooner",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Emily G",
+                "Last Name": "Lemmerman",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Ruby F",
+                "Last Name": "Malusa",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Tran H",
+                "Last Name": "Nguyen",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Julie S",
+                "Last Name": "Chung",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Sara M",
+                "Last Name": "Gregory",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Kiyomasa M",
+                "Last Name": "Kuwana",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Jonathan T",
+                "Last Name": "Regenold",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Wei",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Jake",
+                "Last Name": "Ashton",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Dickinson",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Kate",
+                "Last Name": "Martel",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Connie",
+                "Last Name": "Cai",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Carissa",
+                "Last Name": "Chen",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Stephen",
+                "Last Name": "Price",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Jeffrey",
+                "Last Name": "Qiao",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Shepley",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Joanna",
+                "Last Name": "Zhang",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Meghana",
+                "Last Name": "Chalasani",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Khanh",
+                "Last Name": "Nguyen",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "August",
+                "Last Name": "Aalto",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "ByungJun",
+                "Last Name": "Kim",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Erik",
+                "Last Name": "Tazawa-Goodchild",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Amanda",
+                "Last Name": "Sherwood",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Ahmad",
+                "Last Name": "Rahman",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Sum Ying Celeste",
+                "Last Name": "Wu",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Joel",
+                "Last Name": "Lotzkar",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Serena",
+                "Last Name": "Michaels",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Hillary",
+                "Last Name": "Aristotle",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Antigone",
+                "Last Name": "Clark",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Grace",
+                "Last Name": "Gasper",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Evan",
+                "Last Name": "Xiang",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Frieda Luna",
+                "Last Name": "Schl\u00f6r",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Melissa",
+                "Last Name": "Lu",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Kate",
+                "Last Name": "Haering",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Friberg",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Alyssa",
+                "Last Name": "Kuwana",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Lee",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Alan",
+                "Last Name": "Liu",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Emma",
+                "Last Name": "Norton",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Leena",
+                "Last Name": "Hamad",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Clara",
+                "Last Name": "Lee",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Dara",
+                "Last Name": "Okeremi",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Harry",
+                "Last Name": "diTullio",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Kat",
+                "Last Name": "Dumoulin",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Sun Yu Gordon",
+                "Last Name": "Chi",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Grayson S",
+                "Last Name": "Derossi",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Rose E",
+                "Last Name": "Horowitch",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Elias C",
+                "Last Name": "Issa",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Dan T",
+                "Last Name": "Le",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Bryce C",
+                "Last Name": "Morales",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Ayush",
+                "Last Name": "Noori",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Shao",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Sophia",
+                "Last Name": "Cho",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Mai N",
+                "Last Name": "Hoang",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Ian M",
+                "Last Name": "Johnson",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Katherine C",
+                "Last Name": "Lee",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Maria",
+                "Last Name": "Lee",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Elizabeth A",
+                "Last Name": "Madamidola",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Katrina E",
+                "Last Name": "Schmitt",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Gabriel",
+                "Last Name": "Byan",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Taeyoung",
+                "Last Name": "Park",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Chen",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Alexi",
+                "Last Name": "Monovoukas",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Madison J",
+                "Last Name": "Kang",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Tanner",
+                "Last Name": "McGowan",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Joseph J",
+                "Last Name": "Walewski",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Brennan",
+                "Last Name": "Simon",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Sophia J",
+                "Last Name": "Zu",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Gregory P",
+                "Last Name": "Miller",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Kate B",
+                "Last Name": "Fitzpatrick",
+                "Affiliation": "Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Nicole",
+                "Last Name": "Lantz",
+                "Affiliation": "The Lawrenceville School, 2500 Main St, NJ 08648."
+            },
+            {
+                "First Name": "Elizabeth",
+                "Last Name": "Fox",
+                "Affiliation": "The Lawrenceville School, 2500 Main St, NJ 08648."
+            },
+            {
+                "First Name": "Jeanette",
+                "Last Name": "Collette",
+                "Affiliation": "Commack High School, 1 Scholar Ln, Commack, NY 11725."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Kurtz",
+                "Affiliation": "Commack High School, 1 Scholar Ln, Commack, NY 11725."
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Duncan",
+                "Affiliation": "Pritzker College Prep, 4131 W Cortland St, Chicago, IL 60639."
+            },
+            {
+                "First Name": "Ryan",
+                "Last Name": "Palmer",
+                "Affiliation": "Pritzker College Prep, 4131 W Cortland St, Chicago, IL 60639."
+            },
+            {
+                "First Name": "Cheryl",
+                "Last Name": "Rotondo",
+                "Affiliation": "Science Department, Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Janicki",
+                "Affiliation": "Science Department, Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Townley",
+                "Last Name": "Chisholm",
+                "Affiliation": "Science Department, Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Anne",
+                "Last Name": "Rankin",
+                "Affiliation": "Science Department, Phillips Exeter Academy, Exeter, NH 03833."
+            },
+            {
+                "First Name": "Sangbin",
+                "Last Name": "Park",
+                "Affiliation": "Dept. of Developmental Biology, Stanford University School of Medicine, Stanford CA 94305."
+            },
+            {
+                "First Name": "Seung K",
+                "Last Name": "Kim",
+                "Affiliation": "Dept. of Developmental Biology, Stanford University School of Medicine, Stanford CA 94305 seungkim@stanford.edu."
+            }
+        ],
+        "Journal": "G3 (Bethesda, Md.)",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31036945",
+        "Title": "Evidence that recurrent circuits are critical to the ventral stream's execution of core object recognition behavior.",
+        "Abstract": "Non-recurrent deep convolutional neural networks (CNNs) are currently the best at modeling core object recognition, a behavior that is supported by the densely recurrent primate ventral stream, culminating in the inferior temporal (IT) cortex. If recurrence is critical to this behavior, then primates should outperform feedforward-only deep CNNs for images that require additional recurrent processing beyond the feedforward IT response. Here we first used behavioral methods to discover hundreds of these 'challenge' images. Second, using large-scale electrophysiology, we observed that behaviorally sufficient object identity solutions emerged ~30\u2009ms later in the IT cortex for challenge images compared with primate performance-matched 'control' images. Third, these behaviorally critical late-phase IT response patterns were poorly predicted by feedforward deep CNN activations. Notably, very-deep CNNs and shallower recurrent CNNs better predicted these late IT responses, suggesting that there is a functional equivalence between additional nonlinear transformations and recurrence. Beyond arguing that recurrent circuits are critical for rapid object identification, our results provide strong constraints for future recurrent model development.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Humans",
+            "Macaca mulatta",
+            "Neural Networks, Computer",
+            "Recognition, Psychology",
+            "Temporal Lobe",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kohitij",
+                "Last Name": "Kar",
+                "Affiliation": "McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA. kohitij@mit.edu."
+            },
+            {
+                "First Name": "Jonas",
+                "Last Name": "Kubilius",
+                "Affiliation": "McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Kailyn",
+                "Last Name": "Schmidt",
+                "Affiliation": "McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Elias B",
+                "Last Name": "Issa",
+                "Affiliation": "McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "DiCarlo",
+                "Affiliation": "McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30538006",
+        "Title": "Daily Water Intake by Common Marmosets (",
+        "Abstract": "The typical daily water intake of common marmosets (",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aging",
+            "Animal Husbandry",
+            "Animals",
+            "Body Weight",
+            "Callithrix",
+            "Circadian Rhythm",
+            "Drinking",
+            "Female",
+            "Male"
+        ],
+        "Authors": [
+            {
+                "First Name": "Caroline B",
+                "Last Name": "Winn",
+                "Affiliation": "Division of Comparative Medicine, Massachusetts Institute of Technology, Pfizer Worldwide Research and Development, Cambridge Massachusetts."
+            },
+            {
+                "First Name": "Elias B",
+                "Last Name": "Issa",
+                "Affiliation": "McGovern Institute for Brain Research, Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts."
+            },
+            {
+                "First Name": "Chiara P",
+                "Last Name": "Curcillo",
+                "Affiliation": "University of Pennsylvania School of Veterinary Medicine, Philadelphia, Pennsylvania."
+            },
+            {
+                "First Name": "Catherine A",
+                "Last Name": "Townes",
+                "Affiliation": "University of Illinois College of Veterinary Medicine, Urbana, Illinois."
+            },
+            {
+                "First Name": "Monika A",
+                "Last Name": "Burns",
+                "Affiliation": "Division of Comparative Medicine."
+            },
+            {
+                "First Name": "Mary M",
+                "Last Name": "Patterson",
+                "Affiliation": "Division of Comparative Medicine;, Email: mmpatt@mit.edu."
+            }
+        ],
+        "Journal": "Journal of the American Association for Laboratory Animal Science : JAALAS",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30484773",
+        "Title": "Neural dynamics at successive stages of the ventral visual stream are consistent with hierarchical error signals.",
+        "Abstract": "Ventral visual stream neural responses are dynamic, even for static image presentations. However, dynamical neural models of visual cortex are lacking as most progress has been made modeling static, time-averaged responses. Here, we studied population neural dynamics during face detection across three cortical processing stages. Remarkably,~30 milliseconds after the initially evoked response, we found that neurons in intermediate level areas decreased their responses to typical configurations of their preferred face parts relative to their response for atypical configurations even while neurons in higher areas achieved and maintained a preference for typical configurations. These hierarchical neural dynamics were inconsistent with standard feedforward circuits. Rather, recurrent models computing prediction errors between stages captured the observed temporal signatures. This model of neural dynamics, which simply augments the standard feedforward model of online vision, suggests that neural responses to static images may encode top-down prediction errors in addition to bottom-up feature estimates.",
+        "Keywords": [
+            "face recognition",
+            "neural dynamics",
+            "neurophysiology",
+            "neuroscience",
+            "rhesus macaque",
+            "visual cortex"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Brain Mapping",
+            "Face",
+            "Humans",
+            "Macaca mulatta",
+            "Models, Neurological",
+            "Neurons",
+            "Pattern Recognition, Visual",
+            "Photic Stimulation",
+            "Reaction Time",
+            "Visual Cortex",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elias B",
+                "Last Name": "Issa",
+                "Affiliation": "Department of Brain and Cognitive Sciences, McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, United States."
+            },
+            {
+                "First Name": "Charles F",
+                "Last Name": "Cadieu",
+                "Affiliation": "Department of Brain and Cognitive Sciences, McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, United States."
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "DiCarlo",
+                "Affiliation": "Department of Brain and Cognitive Sciences, McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "30006365",
+        "Title": "Large-Scale, High-Resolution Comparison of the Core Visual Object Recognition Behavior of Humans, Monkeys, and State-of-the-Art Deep Artificial Neural Networks.",
+        "Abstract": "Primates, including humans, can typically recognize objects in visual images at a glance despite naturally occurring identity-preserving image transformations (e.g., changes in viewpoint). A primary neuroscience goal is to uncover neuron-level mechanistic models that quantitatively explain this behavior by predicting primate performance for each and every image. Here, we applied this stringent behavioral prediction test to the leading mechanistic models of primate vision (specifically, deep, convolutional, artificial neural networks; ANNs) by directly comparing their behavioral signatures against those of humans and rhesus macaque monkeys. Using high-throughput data collection systems for human and monkey psychophysics, we collected more than one million behavioral trials from 1472 anonymous humans and five male macaque monkeys for 2400 images over 276 binary object discrimination tasks. Consistent with previous work, we observed that state-of-the-art deep, feedforward convolutional ANNs trained for visual categorization (termed DCNN",
+        "Keywords": [
+            "deep neural network",
+            "human",
+            "monkey",
+            "object recognition",
+            "vision"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Discrimination, Psychological",
+            "Humans",
+            "Macaca mulatta",
+            "Male",
+            "Models, Neurological",
+            "Neural Networks, Computer",
+            "Pattern Recognition, Visual",
+            "Psychophysics",
+            "Recognition, Psychology",
+            "Species Specificity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Rishi",
+                "Last Name": "Rajalingham",
+                "Affiliation": "McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139."
+            },
+            {
+                "First Name": "Elias B",
+                "Last Name": "Issa",
+                "Affiliation": "McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139."
+            },
+            {
+                "First Name": "Pouya",
+                "Last Name": "Bashivan",
+                "Affiliation": "McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139."
+            },
+            {
+                "First Name": "Kohitij",
+                "Last Name": "Kar",
+                "Affiliation": "McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139."
+            },
+            {
+                "First Name": "Kailyn",
+                "Last Name": "Schmidt",
+                "Affiliation": "McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139."
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "DiCarlo",
+                "Affiliation": "McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139 dicarlo@mit.edu."
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "27810930",
+        "Title": "Neurophysiological Organization of the Middle Face Patch in Macaque Inferior Temporal Cortex.",
+        "Abstract": "While early cortical visual areas contain fine scale spatial organization of neuronal properties, such as orientation preference, the spatial organization of higher-level visual areas is less well understood. The fMRI demonstration of face-preferring regions in human ventral cortex and monkey inferior temporal cortex (\"face patches\") raises the question of how neural selectivity for faces is organized. Here, we targeted hundreds of spatially registered neural recordings to the largest fMRI-identified face-preferring region in monkeys, the middle face patch (MFP), and show that the MFP contains a graded enrichment of face-preferring neurons. At its center, as much as 93% of the sites we sampled responded twice as strongly to faces than to nonface objects. We estimate the maximum neurophysiological size of the MFP to be \u223c6 mm in diameter, consistent with its previously reported size under fMRI. Importantly, face selectivity in the MFP varied strongly even between neighboring sites. Additionally, extremely face-selective sites were \u223c40 times more likely to be present inside the MFP than outside. These results provide the first direct quantification of the size and neural composition of the MFP by showing that the cortical tissue localized to the fMRI defined region consists of a very high fraction of face-preferring sites near its center, and a monotonic decrease in that fraction along any radial spatial axis.",
+        "Keywords": [
+            "faces",
+            "inferior temporal cortex",
+            "monkey",
+            "neurophysiology",
+            "spatial organization"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Brain Mapping",
+            "Electrophysiological Phenomena",
+            "Face",
+            "Female",
+            "Macaca mulatta",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Models, Neurological",
+            "Neurons",
+            "Photic Stimulation",
+            "Recognition, Psychology",
+            "Temporal Lobe",
+            "Visual Cortex"
+        ],
+        "Authors": [
+            {
+                "First Name": "Paul L",
+                "Last Name": "Aparicio",
+                "Affiliation": "Department of Brain and Cognitive Sciences and McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139."
+            },
+            {
+                "First Name": "Elias B",
+                "Last Name": "Issa",
+                "Affiliation": "Department of Brain and Cognitive Sciences and McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139."
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "DiCarlo",
+                "Affiliation": "Department of Brain and Cognitive Sciences and McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139 dicarlo@mit.edu."
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "24048850",
+        "Title": "Large-scale, high-resolution neurophysiological maps underlying FMRI of macaque temporal lobe.",
+        "Abstract": "Maps obtained by functional magnetic resonance imaging (fMRI) are thought to reflect the underlying spatial layout of neural activity. However, previous studies have not been able to directly compare fMRI maps to high-resolution neurophysiological maps, particularly in higher level visual areas. Here, we used a novel stereo microfocal x-ray system to localize thousands of neural recordings across monkey inferior temporal cortex (IT), construct large-scale maps of neuronal object selectivity at subvoxel resolution, and compare those neurophysiology maps with fMRI maps from the same subjects. While neurophysiology maps contained reliable structure at the sub-millimeter scale, fMRI maps of object selectivity contained information at larger scales (>2.5 mm) and were only partly correlated with raw neurophysiology maps collected in the same subjects. However, spatial smoothing of neurophysiology maps more than doubled that correlation, while a variety of alternative transforms led to no significant improvement. Furthermore, raw spiking signals, once spatially smoothed, were as predictive of fMRI maps as local field potential signals. Thus, fMRI of the inferior temporal lobe reflects a spatially low-passed version of neurophysiology signals. These findings strongly validate the widespread use of fMRI for detecting large (>2.5 mm) neuronal domains of object selectivity but show that a complete understanding of even the most pure domains (e.g., faces vs nonface objects) requires investigation at fine scales that can currently only be obtained with invasive neurophysiological methods.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Brain Mapping",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Macaca mulatta",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Neurons",
+            "Oxygen",
+            "Statistics, Nonparametric",
+            "Temporal Lobe"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elias B",
+                "Last Name": "Issa",
+                "Affiliation": "McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, and Brigham and Women's Hospital and Children's Hospital, Harvard Medical School, Boston, Massachusetts 02115."
+            },
+            {
+                "First Name": "Alex M",
+                "Last Name": "Papanastassiou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "DiCarlo",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23486204",
+        "Title": "Increased neural correlations in primate auditory cortex during slow-wave sleep.",
+        "Abstract": "During sleep, changes in brain rhythms and neuromodulator levels in cortex modify the properties of individual neurons and the network as a whole. In principle, network-level interactions during sleep can be studied by observing covariation in spontaneous activity between neurons. Spontaneous activity, however, reflects only a portion of the effective functional connectivity that is activated by external and internal inputs (e.g., sensory stimulation, motor behavior, and mental activity), and it has been shown that neural responses are less correlated during external sensory stimulation than during spontaneous activity. Here, we took advantage of the unique property that the auditory cortex continues to respond to sounds during sleep and used external acoustic stimuli to activate cortical networks for studying neural interactions during sleep. We found that during slow-wave sleep (SWS), local (neuron-neuron) correlations are not reduced by acoustic stimulation remaining higher than in wakefulness and rapid eye movement sleep and remaining similar to spontaneous activity correlations. This high level of correlations during SWS complements previous work finding elevated global (local field potential-local field potential) correlations during sleep. Contrary to the prediction that slow oscillations in SWS would increase neural correlations during spontaneous activity, we found little change in neural correlations outside of periods of acoustic stimulation. Rather, these findings suggest that functional connections recruited in sound processing are modified during SWS and that slow rhythms, which in general are suppressed by sensory stimulation, are not the sole mechanism leading to elevated network correlations during sleep.",
+        "Keywords": [
+            "auditory cortex",
+            "electrophysiology",
+            "hearing",
+            "primate",
+            "sensory",
+            "sleep"
+        ],
+        "MeSH terms": [
+            "Acoustic Stimulation",
+            "Animals",
+            "Auditory Cortex",
+            "Brain Waves",
+            "Callithrix",
+            "Female",
+            "Male",
+            "Nerve Net",
+            "Neurons",
+            "Sleep, REM",
+            "Wakefulness"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elias B",
+                "Last Name": "Issa",
+                "Affiliation": "Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA."
+            },
+            {
+                "First Name": "Xiaoqin",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23175821",
+        "Title": "Precedence of the eye region in neural processing of faces.",
+        "Abstract": "Functional magnetic resonance imaging (fMRI) has revealed multiple subregions in monkey inferior temporal cortex (IT) that are selective for images of faces over other objects. The earliest of these subregions, the posterior lateral face patch (PL), has not been studied previously at the neurophysiological level. Perhaps not surprisingly, we found that PL contains a high concentration of \"face-selective\" cells when tested with standard image sets comparable to those used previously to define the region at the level of fMRI. However, we here report that several different image sets and analytical approaches converge to show that nearly all face-selective PL cells are driven by the presence of a single eye in the context of a face outline. Most strikingly, images containing only an eye, even when incorrectly positioned in an outline, drove neurons nearly as well as full-face images, and face images lacking only this feature led to longer latency responses. Thus, bottom-up face processing is relatively local and linearly integrates features-consistent with parts-based models-grounding investigation of how the presence of a face is first inferred in the IT face processing hierarchy.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Electrodes",
+            "Eye",
+            "Face",
+            "Female",
+            "Image Processing, Computer-Assisted",
+            "Linear Models",
+            "Macaca mulatta",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Neurons",
+            "Normal Distribution",
+            "Photic Stimulation",
+            "Recognition, Psychology",
+            "Retina",
+            "Visual Fields",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elias B",
+                "Last Name": "Issa",
+                "Affiliation": "McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA. issa@mit.edu"
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "DiCarlo",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21414918",
+        "Title": "Altered neural responses to sounds in primate primary auditory cortex during slow-wave sleep.",
+        "Abstract": "How sounds are processed by the brain during sleep is an important question for understanding how we perceive the sensory environment in this unique behavioral state. While human behavioral data have indicated selective impairments of sound processing during sleep, brain imaging and neurophysiology studies have reported that overall neural activity in auditory cortex during sleep is surprisingly similar to that during wakefulness. This responsiveness to external stimuli leaves open the question of how neural responses during sleep differ, if at all, from wakefulness. Using extracellular neural recordings in the primary auditory cortex of naturally sleeping common marmosets, we show that slow-wave sleep (SWS) alters neural responses in the primate auditory cortex in two specific ways. SWS reduced the sensitivity of auditory cortex such that quiet sounds elicited weak responses in SWS compared with wakefulness, while loud sounds evoked similar responses in SWS and wakefulness. Furthermore, SWS reduced the extent of sound-evoked response suppression. This pattern of alterations was not observed during rapid eye movement sleep and could not be easily explained by the presence of slow rhythms in SWS. The alteration of excitatory and inhibitory responses during SWS suggests limitations in auditory processing and provides novel insights for understanding why certain sounds are processed while others are missed during deep sleep.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Auditory Cortex",
+            "Auditory Perception",
+            "Callithrix",
+            "Evoked Potentials, Auditory",
+            "Female",
+            "Male",
+            "Sensory Receptor Cells",
+            "Sleep"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elias B",
+                "Last Name": "Issa",
+                "Affiliation": "Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, Johns Hopkins University School of Medicine, Baltimore, Maryland 21025, USA."
+            },
+            {
+                "First Name": "Xiaoqin",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "19118181",
+        "Title": "Sensory responses during sleep in primate primary and secondary auditory cortex.",
+        "Abstract": "Most sensory stimuli do not reach conscious perception during sleep. It has been thought that the thalamus prevents the relay of sensory information to cortex during sleep, but the consequences for cortical responses to sensory signals in this physiological state remain unclear. We recorded from two auditory cortical areas downstream of the thalamus in naturally sleeping marmoset monkeys. Single neurons in primary auditory cortex either increased or decreased their responses during sleep compared with wakefulness. In lateral belt, a secondary auditory cortical area, the response modulation was also bidirectional and showed no clear systematic depressive effect of sleep. When averaged across neurons, sound-evoked activity in these two auditory cortical areas was surprisingly well preserved during sleep. Neural responses to acoustic stimulation were present during both slow-wave and rapid-eye movement sleep, were repeatedly observed over multiple sleep cycles, and demonstrated similar discharge patterns to the responses recorded during wakefulness in the same neuron. Our results suggest that the thalamus is not as effective a gate for the flow of sensory information as previously thought. At the cortical stage, a novel pattern of activation/deactivation appears across neurons. Because the neural signal reaches as far as secondary auditory cortex, this leaves open the possibility of altered sensory processing of auditory information during sleep.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acoustic Stimulation",
+            "Action Potentials",
+            "Animals",
+            "Auditory Cortex",
+            "Auditory Pathways",
+            "Behavior, Animal",
+            "Brain Mapping",
+            "Callithrix",
+            "Electroencephalography",
+            "Electromyography",
+            "Eye Movements",
+            "Functional Laterality",
+            "Neurons",
+            "Psychoacoustics",
+            "Sleep",
+            "Statistics, Nonparametric",
+            "Wakefulness"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elias B",
+                "Last Name": "Issa",
+                "Affiliation": "Laboratory of Auditory Neurophysiology, Department of Biomedical Engineering, Johns Hopkins University School of Medicine, Baltimore, Maryland 21025, USA."
+            },
+            {
+                "First Name": "Xiaoqin",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2008"
+    }
+]

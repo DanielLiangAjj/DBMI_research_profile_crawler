@@ -1,0 +1,1125 @@
+[
+    {
+        "PMID": "38798673",
+        "Title": "Identification and Pharmacological Targeting of Treatment-Resistant, Stem-like Breast Cancer Cells for Combination Therapy.",
+        "Abstract": "Tumors frequently harbor isogenic yet epigenetically distinct subpopulations of multi-potent cells with high tumor-initiating potential-often called Cancer Stem-Like Cells (CSLCs). These can display preferential resistance to standard-of-care chemotherapy. Single-cell analyses can help elucidate Master Regulator (MR) proteins responsible for governing the transcriptional state of these cells, thus revealing complementary dependencies that may be leveraged via combination therapy. Interrogation of single-cell RNA sequencing profiles from seven metastatic breast cancer patients, using perturbational profiles of clinically relevant drugs, identified drugs predicted to invert the activity of MR proteins governing the transcriptional state of chemoresistant CSLCs, which were then validated by CROP-seq assays. The top drug, the anthelmintic albendazole, depleted this subpopulation ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jeremy",
+                "Last Name": "Worley",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Heeju",
+                "Last Name": "Noh",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Daoqi",
+                "Last Name": "You",
+                "Affiliation": "Department of Pediatrics, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Mikko M",
+                "Last Name": "Turunen",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Hongxu",
+                "Last Name": "Ding",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Evan",
+                "Last Name": "Paull",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Aaron T",
+                "Last Name": "Griffin",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Adina",
+                "Last Name": "Grunn",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Mingxuan",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Kristina",
+                "Last Name": "Guillan",
+                "Affiliation": "Department of Pediatrics, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Erin C",
+                "Last Name": "Bush",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Samantha J",
+                "Last Name": "Brosius",
+                "Affiliation": "Department of Pediatrics, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Hanina",
+                "Last Name": "Hibshoosh",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Prabhjot S",
+                "Last Name": "Mundi",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Piero",
+                "Last Name": "Dalerba",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Filemon S",
+                "Last Name": "Dela Cruz",
+                "Affiliation": "Department of Pediatrics, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Andrew L",
+                "Last Name": "Kung",
+                "Affiliation": "Department of Pediatrics, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37922910",
+        "Title": "Anti-PD-1 immunotherapy with androgen deprivation therapy induces robust immune infiltration in metastatic castration-sensitive prostate cancer.",
+        "Abstract": "When compared to other malignancies, the tumor microenvironment (TME) of primary and castration-resistant prostate cancer (CRPC) is relatively devoid of immune infiltrates. While androgen deprivation therapy (ADT) induces a complex immune infiltrate in localized prostate cancer, the composition of the TME in metastatic castration-sensitive prostate cancer (mCSPC), and the effects of ADT and other treatments in this context are poorly understood. Here, we perform a comprehensive single-cell RNA sequencing (scRNA-seq) profiling of metastatic sites from patients participating in a phase 2 clinical trial (NCT03951831) that evaluated standard-of-care chemo-hormonal therapy combined with anti-PD-1 immunotherapy. We perform a longitudinal, protein activity-based analysis of TME subpopulations, revealing immune subpopulations conserved across multiple metastatic sites. We also observe dynamic changes in these immune subpopulations in response to treatment and a correlation with clinical outcomes. Our study uncovers a therapy-resistant, transcriptionally distinct tumor subpopulation that expands in cell number in treatment-refractory patients.",
+        "Keywords": [
+            "ADT",
+            "anti-PD-1 therapy",
+            "clinical translational science",
+            "clinical trial",
+            "hormone-sensitive",
+            "immunotherapy",
+            "metastatic prostate cancer",
+            "single cell RNA sequencing",
+            "tumor microenvironment"
+        ],
+        "MeSH terms": [
+            "Male",
+            "Humans",
+            "Prostatic Neoplasms",
+            "Androgen Antagonists",
+            "Prostatic Neoplasms, Castration-Resistant",
+            "Androgens",
+            "Immunotherapy",
+            "Castration",
+            "Tumor Microenvironment"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jessica E",
+                "Last Name": "Hawley",
+                "Affiliation": "Division of Hematology and Oncology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Aleksandar Z",
+                "Last Name": "Obradovic",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY, USA; Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Matthew C",
+                "Last Name": "Dallos",
+                "Affiliation": "Division of Hematology and Oncology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Emerson A",
+                "Last Name": "Lim",
+                "Affiliation": "Division of Hematology and Oncology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Karie",
+                "Last Name": "Runcie",
+                "Affiliation": "Division of Hematology and Oncology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Casey R",
+                "Last Name": "Ager",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "James",
+                "Last Name": "McKiernan",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Christopher B",
+                "Last Name": "Anderson",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Guarionex J",
+                "Last Name": "Decastro",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Joshua",
+                "Last Name": "Weintraub",
+                "Affiliation": "Department of Interventional Radiology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Renu",
+                "Last Name": "Virk",
+                "Affiliation": "Department of Pathology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Israel",
+                "Last Name": "Lowy",
+                "Affiliation": "Regeneron Pharmaceuticals, Tarrytown, NY, USA."
+            },
+            {
+                "First Name": "Jianhua",
+                "Last Name": "Hu",
+                "Affiliation": "Division of Hematology and Oncology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Matthew G",
+                "Last Name": "Chaimowitz",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Xinzheng V",
+                "Last Name": "Guo",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Ya",
+                "Last Name": "Zhang",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Michael C",
+                "Last Name": "Haffner",
+                "Affiliation": "Division of Human Biology, Fred Hutchinson Cancer Center, Seattle, WA, USA; Department of Laboratory Medicine and Pathology, University of Washington, Seattle, WA, USA; Division of Clinical Research, Fred Hutchinson Cancer Center, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Jeremy",
+                "Last Name": "Worley",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Mark N",
+                "Last Name": "Stein",
+                "Affiliation": "Division of Hematology and Oncology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biochemistry & Molecular Biophysics, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032 USA; Department of Biomedical Informatics, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032 USA; Department of Medicine, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032 USA; J.P. Sulzberger Columbia Genome Center, Columbia University Irving Medical Center, New York, NY 10032 USA. Electronic address: ac2248@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Charles G",
+                "Last Name": "Drake",
+                "Affiliation": "Division of Hematology and Oncology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA; Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY, USA; Department of Interventional Radiology, Columbia University Irving Medical Center, New York, NY, USA. Electronic address: cgd2139@columbia.edu."
+            }
+        ],
+        "Journal": "Cancer cell",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35383235",
+        "Title": "High-throughput translational profiling with riboPLATE-seq.",
+        "Abstract": "Protein synthesis is dysregulated in many diseases, but we lack a systems-level picture of how signaling molecules and RNA binding proteins interact with the translational machinery, largely due to technological limitations. Here we present riboPLATE-seq, a scalable method for generating paired libraries of ribosome-associated and total mRNA. As an extension of the PLATE-seq protocol, riboPLATE-seq utilizes barcoded primers for pooled library preparation, but additionally leverages anti-rRNA ribosome immunoprecipitation on whole polysomes to measure ribosome association (RA). We compare RA to its analogue in ribosome profiling and RNA sequencing, translation efficiency, and demonstrate both the performance of riboPLATE-seq and its utility in detecting translational alterations induced by specific inhibitors of protein kinases.",
+        "Keywords": [],
+        "MeSH terms": [
+            "High-Throughput Nucleotide Sequencing",
+            "Polyribosomes",
+            "Protein Biosynthesis",
+            "Ribosomes",
+            "Sequence Analysis, RNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jordan B",
+                "Last Name": "Metz",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Nicholas J",
+                "Last Name": "Hornstein",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Sohani Das",
+                "Last Name": "Sharma",
+                "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, 10065, USA."
+            },
+            {
+                "First Name": "Jeremy",
+                "Last Name": "Worley",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Christian",
+                "Last Name": "Gonzalez",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA. pas2182@columbia.edu."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34129825",
+        "Title": "Promotion of cholangiocarcinoma growth by diverse cancer-associated fibroblast subpopulations.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Silvia",
+                "Last Name": "Affo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ajay",
+                "Last Name": "Nair",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Francesco",
+                "Last Name": "Brundu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aashreya",
+                "Last Name": "Ravichandra",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sonakshi",
+                "Last Name": "Bhattacharjee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michitaka",
+                "Last Name": "Matsuda",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "LiKang",
+                "Last Name": "Chin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aveline",
+                "Last Name": "Filliol",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wen",
+                "Last Name": "Wen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xinhua",
+                "Last Name": "Song",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aubrianna",
+                "Last Name": "Decker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jeremy",
+                "Last Name": "Worley",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jorge Matias",
+                "Last Name": "Caviglia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lexing",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Deqi",
+                "Last Name": "Yin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yoshinobu",
+                "Last Name": "Saito",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Savage",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rebecca G",
+                "Last Name": "Wells",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthias",
+                "Last Name": "Mack",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lars",
+                "Last Name": "Zender",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Arpaia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Helen E",
+                "Last Name": "Remotti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Raul",
+                "Last Name": "Rabadan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Sims",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anne-Laure",
+                "Last Name": "Leblond",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Achim",
+                "Last Name": "Weber",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marc-Oliver",
+                "Last Name": "Riener",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brent R",
+                "Last Name": "Stockwell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jellert",
+                "Last Name": "Gaublomme",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Josep M",
+                "Last Name": "Llovet",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Raghu",
+                "Last Name": "Kalluri",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George K",
+                "Last Name": "Michalopoulos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ekihiro",
+                "Last Name": "Seki",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Daniela",
+                "Last Name": "Sia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xin",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert F",
+                "Last Name": "Schwabe",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cancer cell",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33930309",
+        "Title": "Promotion of cholangiocarcinoma growth by diverse cancer-associated fibroblast subpopulations.",
+        "Abstract": "Cancer-associated fibroblasts (CAF) are a poorly characterized cell population in the context of liver cancer. Our study investigates CAF functions in intrahepatic cholangiocarcinoma (ICC), a highly desmoplastic liver tumor. Genetic tracing, single-cell RNA sequencing, and ligand-receptor analyses uncovered hepatic stellate cells (HSC) as the main source of CAF and HSC-derived CAF as the dominant population interacting with tumor cells. In mice, CAF promotes ICC progression, as revealed by HSC-selective CAF depletion. In patients, a high panCAF signature is associated with decreased survival and increased recurrence. Single-cell RNA sequencing segregates CAF into inflammatory and growth factor-enriched (iCAF) and myofibroblastic (myCAF) subpopulations, displaying distinct ligand-receptor interactions. myCAF-expressed hyaluronan synthase 2, but not type I collagen, promotes ICC. iCAF-expressed hepatocyte growth factor enhances ICC growth via tumor-expressed MET, thus directly linking CAF to tumor cells. In summary, our data demonstrate promotion of desmoplastic ICC growth by therapeutically targetable CAF subtype-specific mediators, but not by type I collagen.",
+        "Keywords": [
+            "CellPhoneDB",
+            "HGF",
+            "KRAS",
+            "YAP",
+            "cholangiocarcinoma",
+            "immune",
+            "mechanosensitive",
+            "single cell",
+            "stiffness",
+            "tumor microenvironment"
+        ],
+        "MeSH terms": [
+            "Aged",
+            "Animals",
+            "Bile Duct Neoplasms",
+            "Bile Ducts, Intrahepatic",
+            "Cancer-Associated Fibroblasts",
+            "Cholangiocarcinoma",
+            "Collagen Type I",
+            "Female",
+            "Hepatic Stellate Cells",
+            "Hepatocyte Growth Factor",
+            "Humans",
+            "Hyaluronan Synthases",
+            "Hyaluronic Acid",
+            "Male",
+            "Mice, Transgenic",
+            "Middle Aged",
+            "Proto-Oncogene Proteins c-met",
+            "Tumor Microenvironment"
+        ],
+        "Authors": [
+            {
+                "First Name": "Silvia",
+                "Last Name": "Affo",
+                "Affiliation": "Department of Medicine, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Ajay",
+                "Last Name": "Nair",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Francesco",
+                "Last Name": "Brundu",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Aashreya",
+                "Last Name": "Ravichandra",
+                "Affiliation": "Department of Medicine, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Sonakshi",
+                "Last Name": "Bhattacharjee",
+                "Affiliation": "Department of Medicine, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Michitaka",
+                "Last Name": "Matsuda",
+                "Affiliation": "Department of Medicine, Division of Digestive and Liver Diseases, Cedars-Sinai Medical Center, Los Angeles, CA 90024, USA."
+            },
+            {
+                "First Name": "LiKang",
+                "Last Name": "Chin",
+                "Affiliation": "Department of Medicine, Penn Physical Sciences in Oncology Center PSOC@Penn, University of Pennsylvania, Philadelphia, PA 19104, USA."
+            },
+            {
+                "First Name": "Aveline",
+                "Last Name": "Filliol",
+                "Affiliation": "Department of Medicine, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wen",
+                "Last Name": "Wen",
+                "Affiliation": "Department of Medicine, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Xinhua",
+                "Last Name": "Song",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences and Liver Center, University of California, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Aubrianna",
+                "Last Name": "Decker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Jeremy",
+                "Last Name": "Worley",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jorge Matias",
+                "Last Name": "Caviglia",
+                "Affiliation": "Department of Medicine, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Lexing",
+                "Last Name": "Yu",
+                "Affiliation": "Department of Medicine, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Deqi",
+                "Last Name": "Yin",
+                "Affiliation": "Department of Medicine, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yoshinobu",
+                "Last Name": "Saito",
+                "Affiliation": "Department of Medicine, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Savage",
+                "Affiliation": "Department of Microbiology and Immunology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Rebecca G",
+                "Last Name": "Wells",
+                "Affiliation": "Department of Medicine, Penn Physical Sciences in Oncology Center PSOC@Penn, University of Pennsylvania, Philadelphia, PA 19104, USA."
+            },
+            {
+                "First Name": "Matthias",
+                "Last Name": "Mack",
+                "Affiliation": "Department of Nephrology, University Hospital Regensburg, 93053 Regensburg, Germany."
+            },
+            {
+                "First Name": "Lars",
+                "Last Name": "Zender",
+                "Affiliation": "Department of Medical Oncology and Pneumology, University Hospital Tuebingen, 72076 Tuebingen, Germany; German Cancer Research Consortium (DKTK), German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany; iFIT Cluster of Excellence EXC 2180, University of Tuebingen, 72076 Tuebingen, Germany."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Arpaia",
+                "Affiliation": "Department of Microbiology and Immunology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Helen E",
+                "Last Name": "Remotti",
+                "Affiliation": "Department of Pathology & Cell Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Raul",
+                "Last Name": "Rabadan",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Anne-Laure",
+                "Last Name": "Leblond",
+                "Affiliation": "Department for Pathology and Molecular Pathology, Z\u00fcrich University Hospital, 8091 Z\u00fcrich, Switzerland."
+            },
+            {
+                "First Name": "Achim",
+                "Last Name": "Weber",
+                "Affiliation": "Department for Pathology and Molecular Pathology, Z\u00fcrich University Hospital, 8091 Z\u00fcrich, Switzerland."
+            },
+            {
+                "First Name": "Marc-Oliver",
+                "Last Name": "Riener",
+                "Affiliation": "Department for Pathology and Molecular Pathology, Z\u00fcrich University Hospital, 8091 Z\u00fcrich, Switzerland."
+            },
+            {
+                "First Name": "Brent R",
+                "Last Name": "Stockwell",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA; Department of Chemistry, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Jellert",
+                "Last Name": "Gaublomme",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Josep M",
+                "Last Name": "Llovet",
+                "Affiliation": "Liver Cancer Translational Research Laboratory, Institut d'Investigacions Biom\u00e8diques August Pi i Sunyer, Hospital Cl\u00ednic, Universitat de Barcelona, 08036 Barcelona, Spain; Mount Sinai Liver Cancer Program, Divisions of Liver Diseases, Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA; Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats, Barcelona, Spain."
+            },
+            {
+                "First Name": "Raghu",
+                "Last Name": "Kalluri",
+                "Affiliation": "Department of Cancer Biology, Metastasis Research Center, University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "George K",
+                "Last Name": "Michalopoulos",
+                "Affiliation": "Department of Pathology, University of Pittsburgh, Pittsburgh, PA 15213, USA."
+            },
+            {
+                "First Name": "Ekihiro",
+                "Last Name": "Seki",
+                "Affiliation": "Department of Medicine, Division of Digestive and Liver Diseases, Cedars-Sinai Medical Center, Los Angeles, CA 90024, USA."
+            },
+            {
+                "First Name": "Daniela",
+                "Last Name": "Sia",
+                "Affiliation": "Mount Sinai Liver Cancer Program, Divisions of Liver Diseases, Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Xin",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Bioengineering and Therapeutic Sciences and Liver Center, University of California, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Medicine, Columbia University, New York, NY 10032, USA; Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University, New York, NY 10032, USA; Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA; Department of Biochemistry & Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Robert F",
+                "Last Name": "Schwabe",
+                "Affiliation": "Department of Medicine, Columbia University, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University, New York, NY 10032, USA; Institute of Human Nutrition, Columbia University, New York, NY 10032, USA. Electronic address: rfs2102@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Cancer cell",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33296649",
+        "Title": "The Master Regulator Protein BAZ2B Can Reprogram Human Hematopoietic Lineage-Committed Progenitors into a Multipotent State.",
+        "Abstract": "Bi-species, fusion-mediated, somatic cell reprogramming allows precise, organism-specific tracking of unknown lineage drivers. The fusion of Tcf7l1",
+        "Keywords": [
+            "BAZ2B",
+            "cell fusion",
+            "chromatin remodeling",
+            "gene regulatory network",
+            "hematopoietic stem cells",
+            "master regulators",
+            "reprogramming",
+            "single cell sequencing",
+            "systems biology"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "B-Lymphocytes",
+            "Cell Differentiation",
+            "Cell Lineage",
+            "Cellular Reprogramming",
+            "Cord Blood Stem Cell Transplantation",
+            "Female",
+            "Fetal Blood",
+            "Hematopoietic Stem Cell Transplantation",
+            "Hematopoietic Stem Cells",
+            "Humans",
+            "Male",
+            "Mice",
+            "Mice, Inbred NOD",
+            "Multipotent Stem Cells",
+            "Transcription Factors",
+            "Transcription Factors, General"
+        ],
+        "Authors": [
+            {
+                "First Name": "Karthik",
+                "Last Name": "Arumugam",
+                "Affiliation": "Center for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Dr. Aiguader 88, 08003 Barcelona, Spain."
+            },
+            {
+                "First Name": "William",
+                "Last Name": "Shin",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Valentina",
+                "Last Name": "Schiavone",
+                "Affiliation": "Center for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Dr. Aiguader 88, 08003 Barcelona, Spain."
+            },
+            {
+                "First Name": "Lukas",
+                "Last Name": "Vlahos",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Xiaochuan",
+                "Last Name": "Tu",
+                "Affiliation": "Center for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Dr. Aiguader 88, 08003 Barcelona, Spain; Universitat Pompeu Fabra (UPF), Dr. Aiguader 88, 08003 Barcelona, Spain."
+            },
+            {
+                "First Name": "Davide",
+                "Last Name": "Carnevali",
+                "Affiliation": "Center for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Dr. Aiguader 88, 08003 Barcelona, Spain."
+            },
+            {
+                "First Name": "Jordan",
+                "Last Name": "Kesner",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Evan O",
+                "Last Name": "Paull",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Neus",
+                "Last Name": "Romo",
+                "Affiliation": "Center for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Dr. Aiguader 88, 08003 Barcelona, Spain."
+            },
+            {
+                "First Name": "Prem",
+                "Last Name": "Subramaniam",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jeremy",
+                "Last Name": "Worley",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Xiangtian",
+                "Last Name": "Tan",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, J.P. Sulzberger Columbia Genome Center, Department of Biomedical Informatics, Department of Biochemistry and Molecular Biophysics, Department of Medicine, Columbia University, New York, NY, USA. Electronic address: ac2248@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Maria Pia",
+                "Last Name": "Cosma",
+                "Affiliation": "Center for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Dr. Aiguader 88, 08003 Barcelona, Spain; Universitat Pompeu Fabra (UPF), Dr. Aiguader 88, 08003 Barcelona, Spain; ICREA, Pg. Llu\u00eds Companys 23, 08010 Barcelona, Spain; Bioland Laboratory, Guangzhou Regenerative Medicine and Health Guangdong Laboratory, Guangzhou 510005, China; CAS Key Laboratory of Regenerative Biology, Guangdong Provincial Key Laboratory of Stem Cell and Regenerative Medicine, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China. Electronic address: pia.cosma@crg.eu."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32962412",
+        "Title": "Single-Cell Genomics Reveals a Novel Cell State During Smooth Muscle Cell Phenotypic Switching and Potential Therapeutic Targets for Atherosclerosis in Mouse and Human.",
+        "Abstract": "Smooth muscle cells (SMCs) play significant roles in atherosclerosis via phenotypic switching, a pathological process in which SMC dedifferentiation, migration, and transdifferentiation into other cell types. Yet how SMCs contribute to the pathophysiology of atherosclerosis remains elusive.",
+        "Keywords": [
+            "atherosclerosis",
+            "cardiovascular disease",
+            "retinoic acid signaling",
+            "single-cell RNA sequencing",
+            "smooth muscle cell"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Atherosclerosis",
+            "Cell Dedifferentiation",
+            "Cell Differentiation",
+            "Cell Movement",
+            "Cell Transdifferentiation",
+            "Cells, Cultured",
+            "Female",
+            "Genetic Therapy",
+            "Genomics",
+            "Humans",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Knockout",
+            "Mice, Transgenic",
+            "Myocytes, Smooth Muscle",
+            "Phenotype",
+            "Sequence Analysis, RNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Huize",
+                "Last Name": "Pan",
+                "Affiliation": "Division of Cardiology, Department of Medicine (H.P., C.X., A.C.B., J.C., D.Y.Y., S.B.T., W.L., J.S., C.O.I., H.Z., M.P.R.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Chenyi",
+                "Last Name": "Xue",
+                "Affiliation": "Division of Cardiology, Department of Medicine (H.P., C.X., A.C.B., J.C., D.Y.Y., S.B.T., W.L., J.S., C.O.I., H.Z., M.P.R.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Benjamin J",
+                "Last Name": "Auerbach",
+                "Affiliation": "Graduate Group in Genomics and Computational Biology (B.J.A.), University of Pennsylvania, Philadelphia."
+            },
+            {
+                "First Name": "Jiaxin",
+                "Last Name": "Fan",
+                "Affiliation": "Department of Biostatistics, Epidemiology, and Informatics (J.F., M.L.), University of Pennsylvania, Philadelphia."
+            },
+            {
+                "First Name": "Alexander C",
+                "Last Name": "Bashore",
+                "Affiliation": "Division of Cardiology, Department of Medicine (H.P., C.X., A.C.B., J.C., D.Y.Y., S.B.T., W.L., J.S., C.O.I., H.Z., M.P.R.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Jian",
+                "Last Name": "Cui",
+                "Affiliation": "Division of Cardiology, Department of Medicine (H.P., C.X., A.C.B., J.C., D.Y.Y., S.B.T., W.L., J.S., C.O.I., H.Z., M.P.R.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Dina Y",
+                "Last Name": "Yang",
+                "Affiliation": "Division of Cardiology, Department of Medicine (H.P., C.X., A.C.B., J.C., D.Y.Y., S.B.T., W.L., J.S., C.O.I., H.Z., M.P.R.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Sarah B",
+                "Last Name": "Trignano",
+                "Affiliation": "Division of Cardiology, Department of Medicine (H.P., C.X., A.C.B., J.C., D.Y.Y., S.B.T., W.L., J.S., C.O.I., H.Z., M.P.R.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Wen",
+                "Last Name": "Liu",
+                "Affiliation": "Division of Cardiology, Department of Medicine (H.P., C.X., A.C.B., J.C., D.Y.Y., S.B.T., W.L., J.S., C.O.I., H.Z., M.P.R.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Jianting",
+                "Last Name": "Shi",
+                "Affiliation": "Division of Cardiology, Department of Medicine (H.P., C.X., A.C.B., J.C., D.Y.Y., S.B.T., W.L., J.S., C.O.I., H.Z., M.P.R.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Chinyere O",
+                "Last Name": "Ihuegbu",
+                "Affiliation": "Division of Cardiology, Department of Medicine (H.P., C.X., A.C.B., J.C., D.Y.Y., S.B.T., W.L., J.S., C.O.I., H.Z., M.P.R.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Erin C",
+                "Last Name": "Bush",
+                "Affiliation": "Department of Systems Biology (E.C.B., J.W., L.V., P.L. A.C., P.A.S.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Jeremy",
+                "Last Name": "Worley",
+                "Affiliation": "Department of Systems Biology (E.C.B., J.W., L.V., P.L. A.C., P.A.S.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Lukas",
+                "Last Name": "Vlahos",
+                "Affiliation": "Department of Systems Biology (E.C.B., J.W., L.V., P.L. A.C., P.A.S.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Pasquale",
+                "Last Name": "Laise",
+                "Affiliation": "Department of Systems Biology (E.C.B., J.W., L.V., P.L. A.C., P.A.S.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Robert A",
+                "Last Name": "Solomon",
+                "Affiliation": "Department of Neurologic Surgery, New York-Presbyterian Hospital/Columbia University Irving Medical Center (R.A.S., E.S.C.)."
+            },
+            {
+                "First Name": "Edward S",
+                "Last Name": "Connolly",
+                "Affiliation": "Department of Neurologic Surgery, New York-Presbyterian Hospital/Columbia University Irving Medical Center (R.A.S., E.S.C.)."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology (E.C.B., J.W., L.V., P.L. A.C., P.A.S.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology (E.C.B., J.W., L.V., P.L. A.C., P.A.S.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Hanrui",
+                "Last Name": "Zhang",
+                "Affiliation": "Division of Cardiology, Department of Medicine (H.P., C.X., A.C.B., J.C., D.Y.Y., S.B.T., W.L., J.S., C.O.I., H.Z., M.P.R.), Columbia University Irving Medical Center, New York."
+            },
+            {
+                "First Name": "Mingyao",
+                "Last Name": "Li",
+                "Affiliation": "Department of Biostatistics, Epidemiology, and Informatics (J.F., M.L.), University of Pennsylvania, Philadelphia."
+            },
+            {
+                "First Name": "Muredach P",
+                "Last Name": "Reilly",
+                "Affiliation": "Division of Cardiology, Department of Medicine (H.P., C.X., A.C.B., J.C., D.Y.Y., S.B.T., W.L., J.S., C.O.I., H.Z., M.P.R.), Columbia University Irving Medical Center, New York."
+            }
+        ],
+        "Journal": "Circulation",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "27010299",
+        "Title": "OPHIDIOMYCES OPHIODIICOLA ON A CAPTIVE BLACK RACER (COLUBER CONSTRICTOR) AND A GARTER SNAKE (THAMNOPHIS SIRTALIS) IN PENNSYLVANIA.",
+        "Abstract": "Two snakes were presented to the Pennsylvania State University Animal Diagnostic Laboratory with one suffering from external lesions where the scales were raised and discolored, and the other with oral lesions and swelling extending to the left eye, which was opaque. Histopathological analysis revealed multifocal granulomas containing fungal hyphae. Morphological and DNA sequence analyses revealed both suffered from infection by Ophidiomyces ophiodiicola, an emerging pathogen of snakes. This is the first report of this disease in Pennsylvania.",
+        "Keywords": [
+            "Aleuriospores",
+            "Ophidiomyces ophiodiicola",
+            "arthrospores",
+            "molecular phylogenetics",
+            "snakes"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Ascomycota",
+            "Mycoses",
+            "Phylogeny",
+            "Snakes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mana",
+                "Last Name": "Ohkura",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jeremy J",
+                "Last Name": "Worley",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James E",
+                "Last Name": "Hughes-Hallett",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jenny S",
+                "Last Name": "Fisher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brenda C",
+                "Last Name": "Love",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "A Elizabeth",
+                "Last Name": "Arnold",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marc J",
+                "Last Name": "Orbach",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of zoo and wildlife medicine : official publication of the American Association of Zoo Veterinarians",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26681516",
+        "Title": "Genome-Wide Analysis of the TORC1 and Osmotic Stress Signaling Network in Saccharomyces cerevisiae.",
+        "Abstract": "The Target of Rapamycin kinase Complex I (TORC1) is a master regulator of cell growth and metabolism in eukaryotes. Studies in yeast and human cells have shown that nitrogen/amino acid starvation signals act through Npr2/Npr3 and the small GTPases Gtr1/Gtr2 (Rags in humans) to inhibit TORC1. However, it is unclear how other stress and starvation stimuli inhibit TORC1, and/or act in parallel with the TORC1 pathway, to control cell growth. To help answer these questions, we developed a novel automated pipeline and used it to measure the expression of a TORC1-dependent ribosome biogenesis gene (NSR1) during osmotic stress in 4700 Saccharomyces cerevisiae strains from the yeast knock-out collection. This led to the identification of 440 strains with significant and reproducible defects in NSR1 repression. The cell growth control and stress response proteins deleted in these strains form a highly connected network, including 56 proteins involved in vesicle trafficking and vacuolar function; 53 proteins that act downstream of TORC1 according to a rapamycin assay--including components of the HDAC Rpd3L, Elongator, and the INO80, CAF-1 and SWI/SNF chromatin remodeling complexes; over 100 proteins involved in signaling and metabolism; and 17 proteins that directly interact with TORC1. These data provide an important resource for labs studying cell growth control and stress signaling, and demonstrate the utility of our new, and easily adaptable, method for mapping gene regulatory networks.",
+        "Keywords": [
+            "TORC1",
+            "high-throughput screen",
+            "osmotic stress",
+            "yeast knock-out collection"
+        ],
+        "MeSH terms": [
+            "Cluster Analysis",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Fungal",
+            "Gene Knockout Techniques",
+            "Gene Regulatory Networks",
+            "Genome, Fungal",
+            "Genome-Wide Association Study",
+            "Genomics",
+            "Mechanistic Target of Rapamycin Complex 1",
+            "Multiprotein Complexes",
+            "Mutation",
+            "Osmotic Pressure",
+            "Saccharomyces cerevisiae",
+            "Signal Transduction",
+            "Stress, Physiological",
+            "TOR Serine-Threonine Kinases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jeremy",
+                "Last Name": "Worley",
+                "Affiliation": "Department of Molecular and Cellular Biology, University of Arizona, Tucson, Arizona, 85721-0206."
+            },
+            {
+                "First Name": "Arron",
+                "Last Name": "Sullivan",
+                "Affiliation": "Department of Molecular and Cellular Biology, University of Arizona, Tucson, Arizona, 85721-0206."
+            },
+            {
+                "First Name": "Xiangxia",
+                "Last Name": "Luo",
+                "Affiliation": "Department of Molecular and Cellular Biology, University of Arizona, Tucson, Arizona, 85721-0206."
+            },
+            {
+                "First Name": "Matthew E",
+                "Last Name": "Kaplan",
+                "Affiliation": "Functional Genomics Core Facility, University of Arizona, Tucson, Arizona, 85721-0206."
+            },
+            {
+                "First Name": "Andrew P",
+                "Last Name": "Capaldi",
+                "Affiliation": "Department of Molecular and Cellular Biology, University of Arizona, Tucson, Arizona, 85721-0206 Functional Genomics Core Facility, University of Arizona, Tucson, Arizona, 85721-0206 capaldi@email.arizona.edu."
+            }
+        ],
+        "Journal": "G3 (Bethesda, Md.)",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "23643537",
+        "Title": "Inositol pyrophosphates regulate cell growth and the environmental stress response by activating the HDAC Rpd3L.",
+        "Abstract": "Cells respond to stress and starvation by adjusting their growth rate and enacting stress defense programs. In eukaryotes this involves inactivation of TORC1, which in turn triggers downregulation of ribosome and protein synthesis genes and upregulation of stress response genes. Here we report that the highly conserved inositol pyrophosphate (PP-IP) second messengers (including 1-PP-IP5, 5-PP-IP4, and 5-PP-IP5) are also critical regulators of cell growth and the general stress response, acting in parallel with the TORC1 pathway to control the activity of the class I histone deacetylase Rpd3L. In fact, yeast cells that cannot synthesize any of the PP-IPs mount little to no transcriptional response to osmotic, heat, or oxidative stress. Furthermore, PP-IP-dependent regulation of Rpd3L occurs independently of the role individual PP-IPs (such as 5-PP-IP5) play in activating specialized stress/starvation response pathways. Thus, the PP-IP second messengers simultaneously activate and tune the global response to stress and starvation signals.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Gene Expression Regulation, Fungal",
+            "Histone Deacetylase 1",
+            "Inositol Phosphates",
+            "Mechanistic Target of Rapamycin Complex 1",
+            "Multiprotein Complexes",
+            "Osmolar Concentration",
+            "Oxidative Stress",
+            "Phosphotransferases (Phosphate Group Acceptor)",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins",
+            "Second Messenger Systems",
+            "TOR Serine-Threonine Kinases",
+            "Temperature"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jeremy",
+                "Last Name": "Worley",
+                "Affiliation": "Department of Molecular and Cellular Biology, University of Arizona, Tucson, AZ 85721-0206, USA."
+            },
+            {
+                "First Name": "Xiangxia",
+                "Last Name": "Luo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew P",
+                "Last Name": "Capaldi",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2013"
+    }
+]

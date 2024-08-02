@@ -1,3 +1,9 @@
+import os
+
+import compare_name_matches
+# from DBMI_research_profile_crawler import compare_name_matches
+from compare_name_matches import *
+
 from openai import OpenAI
 import json
 api_key = ''
@@ -34,7 +40,22 @@ def get_chatgpt_response(research_articles):
 def parser_response(response):
     return response[response.index('{'):response.index('}')+1]
 
-if __name__ == "__main__":
+def parse_MeSh_keyword(path):
+    keywords = []
+    mesh_terms = []
+
+    # Load the JSON data from the file
+    with open(path, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+
+    # Iterate over the articles and extract the keywords and MeSH terms
+    for article in data:
+        keywords.extend(article.get('Keywords', []))
+        mesh_terms.extend(article.get('MeSH terms', []))
+
+    return keywords, mesh_terms
+
+def prompt_research_summary_based_on_abstract():
     input_file = "researcher_profile.json"
     with open(input_file, 'r') as file:
         research_articles_list = json.load(file)
@@ -53,3 +74,51 @@ if __name__ == "__main__":
         json.dump(summaries, file, indent=4)
 
     print("ChatGPT Responses saved to", output_file)
+
+def prompt_research_interest_based_on_MeSH():
+    # folder_path = 'researchers_files(Yilu_format)'
+    folder_path = 'output'
+    research_txt = []
+    for filename in os.listdir("Research Interests"):
+        if filename.endswith('.txt'):
+            name, _ = os.path.splitext(filename)
+
+            research_txt.append(name)
+
+    for filename in os.listdir(folder_path):
+        print(f"Reading {filename}")
+        if filename.endswith('.json'):
+            # name, _ = os.path.splitext(filename)
+            name = compare_name_matches.extract_name_from_filename(filename)
+            if name in research_txt:
+                continue
+        else:
+            continue
+        json_file_path = os.path.join(folder_path,filename)
+        keywords, mesh_terms = parse_MeSh_keyword(json_file_path)
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+              {"role": "system",
+               "content": "You are a helpful Researcher profile summarizing assistant."},
+              {"role": "user", "content": f"Based on the Keywords and MeSH Terms extracted from mulitple research papers from the researcher, summarize them and generate me 10 research interests that conclude the researcher's research. Return the result as a python list."
+                                          f"Keywords: {keywords}"
+                                          f"MeSH Terms: {mesh_terms}"}
+            ]
+        )
+        content = response.choices[0].message.content
+        print(content)
+        research_interest = content[content.index('['):content.index(']')+1]
+
+        txt_file_path = os.path.join("Research Interests", f"{name}.txt")
+        with open(txt_file_path, 'w', encoding='utf-8') as txt_file:
+            txt_file.write(f"Researcher: {name}\n")
+            txt_file.write("Research Interests:\n")
+            txt_file.write(research_interest)
+
+        print(f"Research interests saved to {txt_file_path}")
+
+
+
+if __name__ == "__main__":
+    prompt_research_interest_based_on_MeSH()

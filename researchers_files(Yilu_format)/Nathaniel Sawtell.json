@@ -1,0 +1,1679 @@
+[
+    {
+        "PMID": "38918605",
+        "Title": "Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling and cloud-native open-source tools.",
+        "Abstract": "Contemporary pose estimation methods enable precise measurements of behavior via supervised deep learning with hand-labeled video frames. Although effective in many cases, the supervised approach requires extensive labeling and often produces outputs that are unreliable for downstream analyses. Here, we introduce 'Lightning Pose', an efficient pose estimation package with three algorithmic contributions. First, in addition to training on a few labeled video frames, we use many unlabeled videos and penalize the network whenever its predictions violate motion continuity, multiple-view geometry and posture plausibility (semi-supervised learning). Second, we introduce a network architecture that resolves occlusions by predicting pose on any given frame using surrounding unlabeled frames. Third, we refine the pose predictions post hoc by combining ensembling and Kalman smoothing. Together, these components render pose trajectories more accurate and scientifically usable. We released a cloud application that allows users to label data, train networks and process new videos directly from the browser.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bayes Theorem",
+            "Animals",
+            "Video Recording",
+            "Algorithms",
+            "Supervised Machine Learning",
+            "Cloud Computing",
+            "Software",
+            "Posture",
+            "Deep Learning",
+            "Image Processing, Computer-Assisted",
+            "Behavior, Animal"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dan",
+                "Last Name": "Biderman",
+                "Affiliation": "Columbia University, New York, NY, USA. db3236@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Whiteway",
+                "Affiliation": "Columbia University, New York, NY, USA. m.whiteway@columbia.edu."
+            },
+            {
+                "First Name": "Cole",
+                "Last Name": "Hurwitz",
+                "Affiliation": "Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Greenspan",
+                "Affiliation": "Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Robert S",
+                "Last Name": "Lee",
+                "Affiliation": "Lightning.ai, New York, NY, USA."
+            },
+            {
+                "First Name": "Ankit",
+                "Last Name": "Vishnubhotla",
+                "Affiliation": "Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Warren",
+                "Affiliation": "Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Federico",
+                "Last Name": "Pedraja",
+                "Affiliation": "Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Dillon",
+                "Last Name": "Noone",
+                "Affiliation": "Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Schartner",
+                "Affiliation": "Champalimaud Centre for the Unknown, Lisbon, Portugal."
+            },
+            {
+                "First Name": "Julia M",
+                "Last Name": "Huntenburg",
+                "Affiliation": "Max Planck Institute for Biological Cybernetics, T\u00fcbingen, Germany."
+            },
+            {
+                "First Name": "Anup",
+                "Last Name": "Khanal",
+                "Affiliation": "University of California, Los Angeles, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Guido T",
+                "Last Name": "Meijer",
+                "Affiliation": "Champalimaud Centre for the Unknown, Lisbon, Portugal."
+            },
+            {
+                "First Name": "Jean-Paul",
+                "Last Name": "Noel",
+                "Affiliation": "New York University, New York, NY, USA."
+            },
+            {
+                "First Name": "Alejandro",
+                "Last Name": "Pan-Vazquez",
+                "Affiliation": "Princeton University, Princeton, NJ, USA."
+            },
+            {
+                "First Name": "Karolina Z",
+                "Last Name": "Socha",
+                "Affiliation": "University College London, London, UK."
+            },
+            {
+                "First Name": "Anne E",
+                "Last Name": "Urai",
+                "Affiliation": "Leiden University, Leiden, the Netherlands."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": "Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Liam",
+                "Last Name": "Paninski",
+                "Affiliation": "Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Nature methods",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38448593",
+        "Title": "Collective sensing in electric fish.",
+        "Abstract": "A number of organisms, including dolphins, bats and electric fish, possess sophisticated active sensory systems that use self-generated signals (for example, acoustic or electrical emissions) to probe the environment",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Animal Communication",
+            "Cooperative Behavior",
+            "Electric Fish",
+            "Electric Organ",
+            "Male",
+            "Female"
+        ],
+        "Authors": [
+            {
+                "First Name": "Federico",
+                "Last Name": "Pedraja",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, USA. ep3023@columbia.edu."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, USA. ns2635@columbia.edu."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37745367",
+        "Title": "Collective Sensing in Electric Fish.",
+        "Abstract": "A number of organisms, including dolphins, bats, and electric fish, possess sophisticated active sensory systems that use self-generated signals (e.g. acoustic or electrical emissions) to probe the environment",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Federico",
+                "Last Name": "Pedraja",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37662298",
+        "Title": "Ultra-high density electrodes improve detection, yield, and cell type identification in neuronal recordings.",
+        "Abstract": "To understand the neural basis of behavior, it is essential to sensitively and accurately measure neural activity at single neuron and single spike resolution. Extracellular electrophysiology delivers this, but it has biases in the neurons it detects and it imperfectly resolves their action potentials. To minimize these limitations, we developed a silicon probe with much smaller and denser recording sites than previous designs, called Neuropixels Ultra (",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Zhiwen",
+                "Last Name": "Ye",
+                "Affiliation": "Department of Biological Structure, University of Washington, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Andrew M",
+                "Last Name": "Shelton",
+                "Affiliation": "MindScope Program, Allen Institute, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Jordan R",
+                "Last Name": "Shaker",
+                "Affiliation": "Department of Biological Structure, University of Washington, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Julien",
+                "Last Name": "Boussard",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Colonell",
+                "Affiliation": "Janelia Research Campus, Ashburn, VA, USA."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Birman",
+                "Affiliation": "Department of Biological Structure, University of Washington, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Sahar",
+                "Last Name": "Manavi",
+                "Affiliation": "MindScope Program, Allen Institute, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Susu",
+                "Last Name": "Chen",
+                "Affiliation": "Janelia Research Campus, Ashburn, VA, USA."
+            },
+            {
+                "First Name": "Charlie",
+                "Last Name": "Windolf",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Cole",
+                "Last Name": "Hurwitz",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Tomoyuki",
+                "Last Name": "Namima",
+                "Affiliation": "Department of Biological Structure, University of Washington, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Federico",
+                "Last Name": "Pedraja",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Shahaf",
+                "Last Name": "Weiss",
+                "Affiliation": "Max Planck Institute for Brain Research, Frankfurt, Germany."
+            },
+            {
+                "First Name": "Bogdan",
+                "Last Name": "Raducanu",
+                "Affiliation": "IMEC, Leuven, Belgium."
+            },
+            {
+                "First Name": "Torbj\u00f8rn V",
+                "Last Name": "Ness",
+                "Affiliation": "Norwegian University of Life Sciences, \u00c5s, Norway."
+            },
+            {
+                "First Name": "Xiaoxuan",
+                "Last Name": "Jia",
+                "Affiliation": "Center for Life Sciences & IDG/McGovern Institute for Brain Research, Tsinghua University, China."
+            },
+            {
+                "First Name": "Giulia",
+                "Last Name": "Mastroberardino",
+                "Affiliation": "UCL Institute of Ophthalmology, University College London, London, UK."
+            },
+            {
+                "First Name": "L Federico",
+                "Last Name": "Rossi",
+                "Affiliation": "Center for Neuroscience and Cognitive Systems, Istituto Italiano di Tecnologia, Rovereto, Italy."
+            },
+            {
+                "First Name": "Matteo",
+                "Last Name": "Carandini",
+                "Affiliation": "UCL Institute of Ophthalmology, University College London, London, UK."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "H\u00e4usser",
+                "Affiliation": "Wolfson Institute for Biomedical Research, University College London, London, UK."
+            },
+            {
+                "First Name": "Gaute T",
+                "Last Name": "Einevoll",
+                "Affiliation": "Norwegian University of Life Sciences, \u00c5s, Norway."
+            },
+            {
+                "First Name": "Gilles",
+                "Last Name": "Laurent",
+                "Affiliation": "Max Planck Institute for Brain Research, Frankfurt, Germany."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Wyeth",
+                "Last Name": "Bair",
+                "Affiliation": "Department of Biological Structure, University of Washington, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Anitha",
+                "Last Name": "Pasupathy",
+                "Affiliation": "Department of Biological Structure, University of Washington, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Carolina Mora",
+                "Last Name": "Lopez",
+                "Affiliation": "IMEC, Leuven, Belgium."
+            },
+            {
+                "First Name": "Barun",
+                "Last Name": "Dutta",
+                "Affiliation": "IMEC, Leuven, Belgium."
+            },
+            {
+                "First Name": "Liam",
+                "Last Name": "Paninski",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Joshua H",
+                "Last Name": "Siegle",
+                "Affiliation": "Allen Institute for Neural Dynamics, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Christof",
+                "Last Name": "Koch",
+                "Affiliation": "MindScope Program, Allen Institute, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Shawn R",
+                "Last Name": "Olsen",
+                "Affiliation": "MindScope Program, Allen Institute, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Timothy D",
+                "Last Name": "Harris",
+                "Affiliation": "Janelia Research Campus, Ashburn, VA, USA."
+            },
+            {
+                "First Name": "Nicholas A",
+                "Last Name": "Steinmetz",
+                "Affiliation": "Department of Biological Structure, University of Washington, Seattle, WA, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37321221",
+        "Title": "An internal model for canceling self-generated sensory input in freely behaving electric fish.",
+        "Abstract": "Internal models that predict the sensory consequences of motor actions are vital for sensory, motor, and cognitive functions. However, the relationship between motor action and sensory input is complex, often varying from one moment to another depending on the state of the animal and the environment. The neural mechanisms for generating predictions under such challenging, real-world conditions remain largely unknown. Using novel methods for underwater neural recording, a quantitative analysis of unconstrained behavior, and computational modeling, we provide evidence for an unexpectedly sophisticated internal model at the first stage of active electrosensory processing in mormyrid fish. Closed-loop manipulations reveal that electrosensory lobe neurons are capable of simultaneously learning and storing multiple predictions of the sensory consequences of motor commands specific to different sensory states. These results provide mechanistic insights into how internal motor signals and information about the sensory environment are combined within a cerebellum-like circuitry to predict the sensory consequences of natural behavior.",
+        "Keywords": [
+            "cerebellum",
+            "corollary discharge",
+            "electric fish",
+            "internal model",
+            "neuroethology",
+            "sensory processing"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Electric Fish",
+            "Electric Organ",
+            "Neurons",
+            "Cerebellum",
+            "Learning"
+        ],
+        "Authors": [
+            {
+                "First Name": "Avner",
+                "Last Name": "Wallach",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA. Electronic address: aw3057@columbia.edu."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA. Electronic address: ns2635@columbia.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37311457",
+        "Title": "A mechanism for differential control of axonal and dendritic spiking underlying learning in a cerebellum-like circuit.",
+        "Abstract": "In addition to the action potentials used for axonal signaling, many neurons generate dendritic \"spikes\" associated with synaptic plasticity. However, in order to control both plasticity and signaling, synaptic inputs must be able to differentially modulate the firing of these two spike types. Here, we investigate this issue in the electrosensory lobe (ELL) of weakly electric mormyrid fish, where separate control over axonal and dendritic spikes is essential for the transmission of learned predictive signals from inhibitory interneurons to the output stage of the circuit. Through a combination of experimental and modeling studies, we uncover a novel mechanism by which sensory input selectively modulates the rate of dendritic spiking by adjusting the amplitude of backpropagating axonal action potentials. Interestingly, this mechanism does not require spatially segregated synaptic inputs or dendritic compartmentalization but relies instead on an electrotonically distant spike initiation site in the axon-a common biophysical feature of neurons.",
+        "Keywords": [
+            "cerebellum",
+            "computational neuroscience",
+            "dendritic spikes",
+            "electric fish",
+            "neuroscience",
+            "synaptic plasticity",
+            "systems neuroscience"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Neurons",
+            "Action Potentials",
+            "Electric Fish",
+            "Axons",
+            "Cerebellum",
+            "Dendrites",
+            "Neuronal Plasticity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Salomon Z",
+                "Last Name": "Muller",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA; Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA. Electronic address: ns2635@columbia.edu."
+            }
+        ],
+        "Journal": "Current biology : CB",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37162966",
+        "Title": "Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling, and cloud-native open-source tools.",
+        "Abstract": "Contemporary pose estimation methods enable precise measurements of behavior via supervised deep learning with hand-labeled video frames. Although effective in many cases, the supervised approach requires extensive labeling and often produces outputs that are unreliable for downstream analyses. Here, we introduce \"Lightning Pose,\" an efficient pose estimation package with three algorithmic contributions. First, in addition to training on a few labeled video frames, we use many unlabeled videos and penalize the network whenever its predictions violate motion continuity, multiple-view geometry, and posture plausibility (semi-supervised learning). Second, we introduce a network architecture that resolves occlusions by predicting pose on any given frame using surrounding unlabeled frames. Third, we refine the pose predictions post-hoc by combining ensembling and Kalman smoothing. Together, these components render pose trajectories more accurate and scientifically usable. We release a cloud application that allows users to label data, train networks, and predict new videos directly from the browser.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Dan",
+                "Last Name": "Biderman",
+                "Affiliation": "Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Whiteway",
+                "Affiliation": "Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Cole",
+                "Last Name": "Hurwitz",
+                "Affiliation": "Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Greenspan",
+                "Affiliation": "Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Robert S",
+                "Last Name": "Lee",
+                "Affiliation": "Work done while at Lightning.ai, New York, USA."
+            },
+            {
+                "First Name": "Ankit",
+                "Last Name": "Vishnubhotla",
+                "Affiliation": "Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Warren",
+                "Affiliation": "Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Federico",
+                "Last Name": "Pedraja",
+                "Affiliation": "Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Dillon",
+                "Last Name": "Noone",
+                "Affiliation": "Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Schartner",
+                "Affiliation": "Champalimaud Centre for the Unknown, Lisbon, Portugal."
+            },
+            {
+                "First Name": "Julia M",
+                "Last Name": "Huntenburg",
+                "Affiliation": "Max Planck Institute for Biological Cybernetics, T\u00fcbingen, Germany."
+            },
+            {
+                "First Name": "Anup",
+                "Last Name": "Khanal",
+                "Affiliation": "University of California Los Angeles, Los Angeles, USA."
+            },
+            {
+                "First Name": "Guido T",
+                "Last Name": "Meijer",
+                "Affiliation": "Champalimaud Centre for the Unknown, Lisbon, Portugal."
+            },
+            {
+                "First Name": "Jean-Paul",
+                "Last Name": "Noel",
+                "Affiliation": "New York University, New York, USA."
+            },
+            {
+                "First Name": "Alejandro",
+                "Last Name": "Pan-Vazquez",
+                "Affiliation": "Princeton University, Princeton, USA."
+            },
+            {
+                "First Name": "Karolina Z",
+                "Last Name": "Socha",
+                "Affiliation": "University College London, London, United Kingdom."
+            },
+            {
+                "First Name": "Anne E",
+                "Last Name": "Urai",
+                "Affiliation": "Leiden University, Leiden, The Netherlands."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": "Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Liam",
+                "Last Name": "Paninski",
+                "Affiliation": "Columbia University, New York, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37007916",
+        "Title": "A Dense Conformal Electrode Array for High Spatial Resolution Stimulation of Electrosensory Systems.",
+        "Abstract": "Studies of electrosensory systems have led to insights into to a number of general issues in biology. However, investigations of these systems have been limited by the inability to precisely control spatial patterns of electrosensory input. In this paper, an electrode array and a system to selectively stimulate spatially restricted regions of an electroreceptor array is presented. The array has 96 channels consisting of chrome/gold electrodes patterned on a flexible parylene-C substrate and encapsulated with another parylene-C layer. The conformability of the electrode array allows for optimal current driving and surface interface conditions. Recordings of neural activity at the first central processing stage in weakly electric mormyrid fish support the potential of this system for high spatial resolution stimulation and mapping of electrosensory systems.",
+        "Keywords": [
+            "electric fish",
+            "electrode array",
+            "flexible",
+            "neurophysiology",
+            "stimulation"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Vikrant",
+                "Last Name": "Kumar",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Caroline",
+                "Last Name": "Yu",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Christine K",
+                "Last Name": "McGinn",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Krista E",
+                "Last Name": "Perks",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Sarah M",
+                "Last Name": "Thompson",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Ioannis",
+                "Last Name": "Kymissis",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, NY 10027, USA."
+            }
+        ],
+        "Journal": "Advanced materials technologies",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35354029",
+        "Title": "Neural readout of a latency code in the active electrosensory system.",
+        "Abstract": "The latency of spikes relative to a stimulus conveys sensory information across modalities. However, in most cases, it remains unclear whether and how such latency codes are utilized by postsynaptic neurons. In the active electrosensory system of mormyrid fish, a latency code for stimulus amplitude in electroreceptor afferent nerve fibers (EAs) is hypothesized to be read out by a central reference provided by motor corollary discharge (CD). Here, we demonstrate that CD enhances sensory responses in postsynaptic granular cells of the electrosensory lobe but is not required for reading out EA input. Instead, diverse latency and spike count tuning across the EA population give rise to graded information about stimulus amplitude that can be read out by standard integration of converging excitatory synaptic inputs. Inhibitory control over the temporal window of integration renders two granular cell subclasses differentially sensitive to information derived from relative spike latency versus spike count.",
+        "Keywords": [
+            "CP: Neuroscience",
+            "active sensing",
+            "corollary discharge",
+            "electric fish",
+            "spike latency",
+            "temporal coding"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Electric Fish",
+            "Electric Organ",
+            "Neurons",
+            "Synaptic Transmission"
+        ],
+        "Authors": [
+            {
+                "First Name": "Krista E",
+                "Last Name": "Perks",
+                "Affiliation": "Department of Biology, Wesleyan University, Middletown, CT 06459, USA; Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA. Electronic address: ns2635@columbia.edu."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34314716",
+        "Title": "Neurobiology: The power of pauses in\u00a0electrocommunication.",
+        "Abstract": "A new study of social communication behavior in weakly electric fish identifies neural mechanisms that may account for the significance of silent pauses in communication.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animal Communication",
+            "Animals",
+            "Electric Fish",
+            "Neurobiology",
+            "Social Behavior"
+        ],
+        "Authors": [
+            {
+                "First Name": "Federico",
+                "Last Name": "Pedraja",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA. Electronic address: ns2635@columbia.edu."
+            }
+        ],
+        "Journal": "Current biology : CB",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33428566",
+        "Title": "A rapid whisker-based decision underlying skilled locomotion in mice.",
+        "Abstract": "Skilled motor behavior requires rapidly integrating external sensory input with information about internal state to decide which movements to make next. Using machine learning approaches for high-resolution kinematic analysis, we uncover the logic of a rapid decision underlying sensory-guided locomotion in mice. After detecting obstacles with their whiskers mice select distinct kinematic strategies depending on a whisker-derived estimate of obstacle location together with the position and velocity of their body. Although mice rely on whiskers for obstacle avoidance, lesions of primary whisker sensory cortex had minimal impact. While motor cortex manipulations affected the execution of the chosen strategy, the decision-making process remained largely intact. These results highlight the potential of machine learning for reductionist analysis of naturalistic behaviors and provide a case in which subcortical brain structures appear sufficient for mediating a relatively sophisticated sensorimotor decision.",
+        "Keywords": [
+            "barrel cortex",
+            "decision-making",
+            "locomotion",
+            "motor cortex",
+            "mouse",
+            "neuroscience",
+            "whiskers"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Decision Making",
+            "Locomotion",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Touch",
+            "Vibrissae"
+        ],
+        "Authors": [
+            {
+                "First Name": "Richard A",
+                "Last Name": "Warren",
+                "Affiliation": "Department of Neuroscience, Mortimer Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Qianyun",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Neuroscience, Mortimer Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Judah R",
+                "Last Name": "Hoffman",
+                "Affiliation": "Department of Neuroscience, Mortimer Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Edward Y",
+                "Last Name": "Li",
+                "Affiliation": "Department of Neuroscience, Mortimer Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Y Kate",
+                "Last Name": "Hong",
+                "Affiliation": "Department of Neuroscience, Mortimer Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Randy M",
+                "Last Name": "Bruno",
+                "Affiliation": "Department of Neuroscience, Mortimer Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience, Mortimer Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "31735497",
+        "Title": "Continual Learning in a Multi-Layer Network of an Electric Fish.",
+        "Abstract": "Distributing learning across multiple layers has proven extremely powerful in artificial neural networks. However, little is known about how multi-layer learning is implemented in the brain. Here, we provide an account of learning across multiple processing layers in the electrosensory lobe (ELL) of mormyrid fish and report how it solves problems well known from machine learning. Because the ELL operates and learns continuously, it must reconcile learning and signaling functions without switching its mode of operation. We show that this is accomplished through a functional compartmentalization within intermediate layer neurons in which inputs driving learning differentially affect dendritic and axonal spikes. We also find that connectivity based on learning rather than sensory response selectivity assures that plasticity at synapses onto intermediate-layer neurons is matched to the requirements of output neurons. The mechanisms we uncover have relevance to learning in the cerebellum, hippocampus, and cerebral cortex, as well as in artificial systems.",
+        "Keywords": [
+            "corollary discharge",
+            "dendritic spikes",
+            "electric fish",
+            "learning",
+            "neural networks",
+            "synaptic plasticity"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animal Structures",
+            "Animals",
+            "Axons",
+            "Biophysical Phenomena",
+            "Electric Fish",
+            "Female",
+            "Learning",
+            "Male",
+            "Models, Neurological",
+            "Nerve Net",
+            "Neuronal Plasticity",
+            "Predatory Behavior",
+            "Sensation",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Salomon Z",
+                "Last Name": "Muller",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA; Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Abigail N",
+                "Last Name": "Zadina",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA; Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA. Electronic address: ns2635@columbia.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30860480",
+        "Title": "Generalization of learned responses in the mormyrid electrosensory lobe.",
+        "Abstract": "Appropriate generalization of learned responses to new situations is vital for adaptive behavior. We provide a circuit-level account of generalization in the electrosensory lobe (ELL) of weakly electric mormyrid fish. Much is already known in this system about a form of learning in which motor corollary discharge signals cancel responses to the uninformative input evoked by the fish's own electric pulses. However, for this cancellation to be useful under natural circumstances, it must generalize accurately across behavioral regimes, specifically different electric pulse rates. We show that such generalization indeed occurs in ELL neurons, and develop a circuit-level model explaining how this may be achieved. The mechanism involves regularized synaptic plasticity and an approximate matching of the temporal dynamics of motor corollary discharge and electrosensory inputs. Recordings of motor corollary discharge signals in mossy fibers and granule cells provide direct evidence for such matching.",
+        "Keywords": [
+            "cerebellum",
+            "corollary discharge",
+            "electric fish",
+            "generalization",
+            "neuroscience",
+            "synaptic plasticity"
+        ],
+        "MeSH terms": [
+            "Adaptation, Psychological",
+            "Animals",
+            "Behavior, Animal",
+            "Cerebrum",
+            "Electric Fish",
+            "Electric Organ",
+            "Electricity",
+            "Generalization, Psychological",
+            "Learning",
+            "Models, Neurological",
+            "Neuronal Plasticity",
+            "Neurons",
+            "Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Conor",
+                "Last Name": "Dempsey",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30001507",
+        "Title": "Internally Generated Predictions Enhance Neural and Behavioral Detection of Sensory Stimuli in an Electric Fish.",
+        "Abstract": "Studies of cerebellum-like circuits in fish have demonstrated that synaptic plasticity shapes the motor corollary discharge responses of granule cells into highly-specific predictions of self-generated sensory input. However, the functional significance of such predictions, known as negative images, has not been directly tested. Here we provide evidence for improvements in neural coding and behavioral detection of prey-like stimuli due to negative images. In addition, we find that manipulating synaptic plasticity leads to specific changes in circuit output that disrupt neural coding and detection of prey-like stimuli. These results link synaptic plasticity, neural coding, and behavior and also provide a circuit-level account of how combining external sensory input with internally generated predictions enhances sensory processing.",
+        "Keywords": [
+            "cerebellum",
+            "corollary discharge",
+            "electric fish",
+            "electrosensory",
+            "synaptic plasticity"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Cerebellum",
+            "Electric Fish",
+            "Electric Organ",
+            "Electric Stimulation",
+            "Electromagnetic Fields",
+            "Neuronal Plasticity",
+            "Neurons",
+            "Predatory Behavior",
+            "Sensation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Armen G",
+                "Last Name": "Enikolopov",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA; Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA. Electronic address: ns2635@columbia.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28530663",
+        "Title": "A cerebellum-like circuit in the auditory system cancels responses to self-generated sounds.",
+        "Abstract": "The dorsal cochlear nucleus (DCN) integrates auditory nerve input with a diverse array of sensory and motor signals processed in circuitry similar to that of the cerebellum. Yet how the DCN contributes to early auditory processing has been a longstanding puzzle. Using electrophysiological recordings in mice during licking behavior, we show that DCN neurons are largely unaffected by self-generated sounds while remaining sensitive to external acoustic stimuli. Recordings in deafened mice, together with neural activity manipulations, indicate that self-generated sounds are cancelled by non-auditory signals conveyed by mossy fibers. In addition, DCN neurons exhibit gradual reductions in their responses to acoustic stimuli that are temporally correlated with licking. Together, these findings suggest that DCN may act as an adaptive filter for cancelling self-generated sounds. Adaptive filtering has been established previously for cerebellum-like sensory structures in fish, suggesting a conserved function for such structures across vertebrates.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acoustic Stimulation",
+            "Action Potentials",
+            "Animals",
+            "Auditory Perception",
+            "Behavior, Animal",
+            "Cerebellum",
+            "Cochlear Nucleus",
+            "Deafness",
+            "Lidocaine",
+            "Male",
+            "Mice",
+            "Neurons",
+            "Trigeminal Nucleus, Spinal"
+        ],
+        "Authors": [
+            {
+                "First Name": "Shobhit",
+                "Last Name": "Singla",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Conor",
+                "Last Name": "Dempsey",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Warren",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Armen G",
+                "Last Name": "Enikolopov",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University Medical Center, New York, New York, USA."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27930905",
+        "Title": "The Timing Is Right for Cerebellar Learning.",
+        "Abstract": "In this issue of Neuron, Suvrathan et\u00a0al. (2016) provide a striking demonstration of a plasticity rule with temporal properties precisely matched to the computational requirements of behavioral learning and suggest major revisions to the rules for synaptic plasticity in the cerebellum.",
+        "Keywords": [
+            "VOR",
+            "cerebellum",
+            "learning",
+            "synaptic plasticity"
+        ],
+        "MeSH terms": [
+            "Cerebellum",
+            "Learning",
+            "Nerve Tissue",
+            "Neuronal Plasticity",
+            "Neurons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Conor",
+                "Last Name": "Dempsey",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA. Electronic address: ns2635@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27813831",
+        "Title": "Neural Mechanisms for Predicting the Sensory Consequences of Behavior: Insights from Electrosensory Systems.",
+        "Abstract": "Perception of the environment requires differentiating between external sensory inputs and those that are self-generated. Some of the clearest insights into the neural mechanisms underlying this process have come from studies of the electrosensory systems of fish. Neurons at the first stage of electrosensory processing generate negative images of the electrosensory consequences of the animal's own behavior. By canceling out the effects of predictable, self-generated inputs, negative images allow for the selective encoding of unpredictable, externally generated stimuli. Combined experimental and theoretical studies of electrosensory systems have led to detailed accounts of how negative images are formed at the level of synaptic plasticity rules, cells, and circuits. Here, I review these accounts and discuss their implications for understanding how predictions of the sensory consequences of behavior may be generated in other sensory structures and the cerebellum.",
+        "Keywords": [
+            "cerebellum",
+            "corollary discharge",
+            "dorsal cochlear nucleus",
+            "electric fish",
+            "internal model",
+            "proprioception",
+            "synaptic plasticity"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Cerebellum",
+            "Humans",
+            "Neuronal Plasticity",
+            "Perception",
+            "Sensory Receptor Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University Medical Center, New York, NY 10032; email: ns2635@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Annual review of physiology",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27512018",
+        "Title": "Responses of cerebellar Purkinje cells during fictive optomotor behavior in larval zebrafish.",
+        "Abstract": "Although most studies of the cerebellum have been conducted in mammals, cerebellar circuitry is highly conserved across vertebrates, suggesting that studies of simpler systems may be useful for understanding cerebellar function. The larval zebrafish is particularly promising in this regard because of its accessibility to optical monitoring and manipulations of neural activity. Although several studies suggest that the cerebellum plays a role in behavior at larval stages, little is known about the signals conveyed by particular classes of cerebellar neurons. Here we use electrophysiological recordings to characterize subthreshold, simple spike, and climbing fiber responses in larval zebrafish Purkinje cells in the context of the fictive optomotor response (OMR)-a paradigm in which fish adjust motor output to stabilize their virtual position relative to a visual stimulus. Although visual responses were prominent in Purkinje cells, they lacked the direction or velocity sensitivity that would be expected for controlling the OMR. On the other hand, Purkinje cells exhibited strong responses during fictive swim bouts. Temporal characteristics of these responses are suggestive of a general role for the larval zebrafish cerebellum in controlling swimming. Climbing fibers encoded both visual and motor signals but did not appear to encode signals that could be used to adjust OMR gain, such as retinal slip. Finally, the observation of diverse relationships between simple spikes and climbing fiber responses in individual Purkinje cells highlights the importance of distinguishing between these two types of activity in calcium imaging experiments.",
+        "Keywords": [
+            "cerebellum",
+            "optomotor",
+            "zebrafish"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Animals, Genetically Modified",
+            "Cerebellum",
+            "Motor Activity",
+            "Photic Stimulation",
+            "Purkinje Cells",
+            "Visual Perception",
+            "Zebrafish"
+        ],
+        "Authors": [
+            {
+                "First Name": "Karina",
+                "Last Name": "Scalise",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York; and."
+            },
+            {
+                "First Name": "Takashi",
+                "Last Name": "Shimizu",
+                "Affiliation": "Bioscience and Biotechnology Center, Nagoya University, Nagoya, Aichi, Japan."
+            },
+            {
+                "First Name": "Masahiko",
+                "Last Name": "Hibi",
+                "Affiliation": "Bioscience and Biotechnology Center, Nagoya University, Nagoya, Aichi, Japan."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York; and ns2635@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27504860",
+        "Title": "A comparative approach to cerebellar function: insights from electrosensory systems.",
+        "Abstract": "Despite its simple and highly-ordered circuitry the function of the cerebellum remains a topic of vigorous debate. This review explores connections between the cerebellum and sensory processing structures that closely resemble the cerebellum in terms of their evolution, development, patterns of gene expression, and circuitry. Recent studies of cerebellum-like structures involved in electrosensory processing in fish have provided insights into the functions of granule cells and unipolar brush cells-cell types shared with the cerebellum. We also discuss the possibility, supported by recent studies, that generating and subtracting predictions of the sensory consequences of motor commands may be core functions shared by both cerebellum-like structures and the cerebellum.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cerebellum",
+            "Fishes",
+            "Humans",
+            "Models, Animal",
+            "Neurons",
+            "Sensation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Richard",
+                "Last Name": "Warren",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University Medical Center, New York, NY 10032, United States."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University Medical Center, New York, NY 10032, United States. Electronic address: ns2635@columbia.edu."
+            }
+        ],
+        "Journal": "Current opinion in neurobiology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "25919958",
+        "Title": "Strength in more than numbers.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cerebellum",
+            "Neurons",
+            "Sensation",
+            "Synapses"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25429151",
+        "Title": "A role for mixed corollary discharge and proprioceptive signals in predicting the sensory consequences of movements.",
+        "Abstract": "Animals must distinguish behaviorally relevant patterns of sensory stimulation from those that are attributable to their own movements. In principle, this distinction could be made based on internal signals related to motor commands, known as corollary discharge (CD), sensory feedback, or some combination of both. Here we use an advantageous model system--the electrosensory lobe (ELL) of weakly electric mormyrid fish--to directly examine how CD and proprioceptive feedback signals are transformed into negative images of the predictable electrosensory consequences of the fish's motor commands and/or movements. In vivo recordings from ELL neurons and theoretical modeling suggest that negative images are formed via anti-Hebbian plasticity acting on random, nonlinear mixtures of CD and proprioception. In support of this, we find that CD and proprioception are randomly mixed in spinal mossy fibers and that properties of granule cells are consistent with a nonlinear recoding of these signals. The mechanistic account provided here may be relevant to understanding how internal models of movement consequences are implemented in other systems in which similar components (e.g., mixed sensory and motor signals and synaptic plasticity) are found.",
+        "Keywords": [
+            "cerebellum",
+            "corollary discharge",
+            "electric fish",
+            "proprioception",
+            "synaptic plasticity"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Electric Fish",
+            "Feedback, Physiological",
+            "Female",
+            "Forecasting",
+            "Male",
+            "Movement",
+            "Proprioception",
+            "Random Allocation",
+            "Sensory Receptor Cells",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tim",
+                "Last Name": "Requarth",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University, New York, New York 10032."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Kaifosh",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University, New York, New York 10032."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University, New York, New York 10032 ns2635@columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24853945",
+        "Title": "Plastic corollary discharge predicts sensory consequences of movements in a cerebellum-like circuit.",
+        "Abstract": "The capacity to predict the sensory consequences of movements is critical for sensory, motor, and cognitive function. Though it is hypothesized that internal signals related to motor commands, known as corollary discharge, serve to generate such predictions, this process remains poorly understood at the neural circuit level. Here we demonstrate that neurons in the electrosensory lobe (ELL) of weakly electric mormyrid fish generate negative images of the sensory consequences of the fish's own movements based on ascending spinal corollary discharge signals. These results generalize previous findings describing mechanisms for generating negative images of the effects of the fish's specialized electric organ discharge (EOD) and suggest that a cerebellum-like circuit endowed with associative synaptic plasticity acting on corollary discharge can solve the complex and ubiquitous problem of predicting sensory consequences of movements.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Biophysics",
+            "Calbindins",
+            "Cerebellum",
+            "Dendrites",
+            "Electric Fish",
+            "Electric Organ",
+            "Electric Stimulation",
+            "Functional Laterality",
+            "Movement",
+            "Nerve Fibers",
+            "Nerve Net",
+            "Neuronal Plasticity",
+            "Neurons",
+            "Patch-Clamp Techniques"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tim",
+                "Last Name": "Requarth",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University, New York, NY 10032, USA. Electronic address: ns2635@columbia.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24790163",
+        "Title": "Sensory processing and corollary discharge effects in posterior caudal lobe Purkinje cells in a weakly electric mormyrid fish.",
+        "Abstract": "Although it has been suggested that the cerebellum functions to predict the sensory consequences of motor commands, how such predictions are implemented in cerebellar circuitry remains largely unknown. A detailed and relatively complete account of predictive mechanisms has emerged from studies of cerebellum-like sensory structures in fish, suggesting that comparisons of the cerebellum and cerebellum-like structures may be useful. Here we characterize electrophysiological response properties of Purkinje cells in a region of the cerebellum proper of weakly electric mormyrid fish, the posterior caudal lobe (LCp), which receives the same mossy fiber inputs and projects to the same target structures as the electrosensory lobe (ELL), a well-studied cerebellum-like structure. We describe patterns of simple spike and climbing fiber activation in LCp Purkinje cells in response to motor corollary discharge, electrosensory, and proprioceptive inputs and provide evidence for two functionally distinct Purkinje cell subtypes within LCp. Protocols that induce rapid associative plasticity in ELL fail to induce plasticity in LCp, suggesting differences in the adaptive functions of the two structures. Similarities and differences between LCp and ELL are discussed in light of these results.",
+        "Keywords": [
+            "cerebellum",
+            "corollary discharge",
+            "electric fish",
+            "synaptic plasticity"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Electric Fish",
+            "Electric Organ",
+            "Evoked Potentials, Somatosensory",
+            "Nerve Fibers",
+            "Neuronal Plasticity",
+            "Purkinje Cells",
+            "Sensation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Karina",
+                "Last Name": "Alvi\u00f1a",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York ns2635@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24531306",
+        "Title": "A temporal basis for predicting the sensory consequences of motor commands in an electric fish.",
+        "Abstract": "Mormyrid electric fish are a model system for understanding how neural circuits predict the sensory consequences of motor acts. Medium ganglion cells in the electrosensory lobe create negative images that predict sensory input resulting from the fish's electric organ discharge (EOD). Previous studies have shown that negative images can be created through plasticity at granule cell-medium ganglion cell synapses, provided that granule cell responses to the brief EOD command are sufficiently varied and prolonged. Here we show that granule cells indeed provide such a temporal basis and that it is well-matched to the temporal structure of self-generated sensory inputs, allowing rapid and accurate sensory cancellation and explaining paradoxical features of negative images. We also demonstrate an unexpected and critical role of unipolar brush cells (UBCs) in generating the required delayed responses. These results provide a mechanistic account of how copies of motor commands are transformed into sensory predictions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Brain",
+            "Electric Fish",
+            "Electric Organ",
+            "Electrophysiology",
+            "Microelectrodes",
+            "Neurons",
+            "Sensation",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ann",
+                "Last Name": "Kennedy",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Wayne",
+                "Affiliation": "1] Department of Neuroscience, Columbia University, New York, New York, USA. [2]."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Kaifosh",
+                "Affiliation": "1] Department of Neuroscience, Columbia University, New York, New York, USA. [2]."
+            },
+            {
+                "First Name": "Karina",
+                "Last Name": "Alvi\u00f1a",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "1] Department of Neuroscience, Columbia University, New York, New York, USA. [2] Department of Physiology and Cellular Biophysics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "21704507",
+        "Title": "Neural mechanisms for filtering self-generated sensory signals in cerebellum-like circuits.",
+        "Abstract": "This review focuses on recent progress in understanding mechanisms for filtering self-generated sensory signals in cerebellum-like circuits in fish and mammals. Recent in vitro studies in weakly electric gymnotid fish have explored the interplay among anti-Hebbian plasticity, synaptic dynamics, and feedforward inhibition in canceling self-generated electrosensory inputs. Studies of the mammalian dorsal cochlear nucleus have revealed multimodal integration and anti-Hebbian plasticity, suggesting that this circuit may adaptively filter incoming auditory information. In vivo studies in weakly electric mormryid fish suggest a key role for granule cell coding in sensory filtering. The clear links between synaptic plasticity and systems level sensory filtering in cerebellum-like circuits may provide insights into hypothesized adaptive filtering functions of the cerebellum itself.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cerebellum",
+            "Electric Fish",
+            "Electric Organ",
+            "Nerve Net",
+            "Neuronal Plasticity",
+            "Neurons",
+            "Sensory Gating"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tim",
+                "Last Name": "Requarth",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University Medical Center, New York, NY 10032, United States."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current opinion in neurobiology",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "20510861",
+        "Title": "Multimodal integration in granule cells as a basis for associative plasticity and sensory prediction in a cerebellum-like circuit.",
+        "Abstract": "The recoding of diverse sensory and motor signals by granule cells (GCs) is probably critical for the function of cerebellar circuits, yet the nature of these transformations and their significance for cerebellar information processing remain poorly understood. In cerebellum-like structures in fish, anti-Hebbian plasticity at parallel fiber synapses generates \"negative images\" that act to cancel predictable patterns of electrosensory input. Here I test the hypothesis that GCs enhance the capacity of Purkinje-like cells to generate specific negative images by selectively encoding combinations of sensory and motor signals. Using in vivo whole-cell recordings, I show (1) that a subset of GCs integrate sensory and motor signals conveyed by distinct mossy fiber classes and (2) that Purkinje-like cells exhibit plastic changes specific to the combinations of signals that individual GCs encode. Consistent with influential theories of cerebellar function, these findings suggest that selective GC output enhances the capacity of Purkinje-like cells to acquire selectivity through associative plasticity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Cerebellum",
+            "Fishes",
+            "Forecasting",
+            "Nerve Net",
+            "Neuronal Plasticity",
+            "Sensory Receptor Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Department of Neuroscience and Kavli Institute for Brain Science, Columbia University Medical Center, New York, NY 10032, USA. ns2635@columbia.edu"
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "18984048",
+        "Title": "Adaptive processing in electrosensory systems: links to cerebellar plasticity and learning.",
+        "Abstract": "The first central stage of electrosensory processing in fish takes place in structures with local circuitry that resembles the cerebellum. Cerebellum-like structures and the cerebellum itself share common patterns of gene expression and may also share developmental and evolutionary origins. Given these similarities it is natural to ask whether insights gleaned from the study of cerebellum-like structures might be useful for understanding aspects of cerebellar function and vice versa. Work from electrosensory systems has shown that cerebellum-like circuitry acts to generate learned predictions about the sensory consequences of the animals' own behavior through a process of associative plasticity at parallel fiber synapses. Subtraction of these predictions from the actual sensory input serves to highlight unexpected and hence behaviorally relevant features. Learning and prediction are also central to many current ideas regarding the function of the cerebellum itself. The present review draws comparisons between cerebellum-like structures and the cerebellum focusing on the properties and sites of synaptic plasticity in these structures and on connections between plasticity and learning. Examples are drawn mainly from the electrosensory lobe (ELL) of mormyrid fish and from extensive work characterizing the role of the cerebellum in Pavlovian eyelid conditioning and vestibulo-ocular reflex (VOR) modification. Parallels with other cerebellum-like structures, including the gymnotid ELL, the elasmobranch dorsal octavolateral nucleus (DON), and the mammalian dorsal cochlear nucleus (DCN) are also discussed.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adaptation, Physiological",
+            "Animals",
+            "Cerebellum",
+            "Learning",
+            "Neuronal Plasticity",
+            "Sensory Receptor Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Neurological Sciences Institute, Oregon Health and Sciences University, Beaverton, OR 97006, USA. sawtelln@ohsu.edu"
+            },
+            {
+                "First Name": "Curtis C",
+                "Last Name": "Bell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of physiology, Paris",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18275284",
+        "Title": "Cerebellum-like structures and their implications for cerebellar function.",
+        "Abstract": "The nervous systems of most vertebrates include both the cerebellum and structures that are architecturally similar to the cerebellum. The cerebellum-like structures are sensory structures that receive input from the periphery in their deep layers and parallel fiber input in their molecular layers. This review describes these cerebellum-like structures and compares them with the cerebellum itself. The cerebellum-like structures in three groups of fish act as adaptive sensory processors in which the signals conveyed by parallel fibers in the molecular layer predict the patterns of sensory input to the deep layers through a process of associative synaptic plasticity. Similarities between the cerebellum-like structures and the cerebellum suggest that the cerebellum may also generate predictions about expected sensory inputs or states of the system, as suggested also by clinical, experimental, and theoretical studies of the cerebellum. Understanding the process of predicting sensory patterns in cerebellum-like structures may therefore be a source of insight into cerebellar function.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Afferent Pathways",
+            "Animals",
+            "Axons",
+            "Biological Evolution",
+            "Brain Stem",
+            "Cerebellum",
+            "Electric Fish",
+            "Neuronal Plasticity",
+            "Neurons",
+            "Sensation",
+            "Vertebrates"
+        ],
+        "Authors": [
+            {
+                "First Name": "Curtis C",
+                "Last Name": "Bell",
+                "Affiliation": "Neurological Sciences Institute, Oregon Health and Science University, Beaverton, Oregon 97006, USA. bellc@ohsu.edu"
+            },
+            {
+                "First Name": "Victor",
+                "Last Name": "Han",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annual review of neuroscience",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18272681",
+        "Title": "Transformations of electrosensory encoding associated with an adaptive filter.",
+        "Abstract": "Sensory information is often acquired through active exploration. However, an animal's own movements may result in changes in patterns of sensory input that could interfere with the detection and processing of behaviorally relevant sensory signals. Neural mechanisms for predicting the sensory consequences of movements are thus likely to be of general importance for sensory systems. Such mechanisms have been identified in cerebellum-like structures associated with electrosensory processing in fish. These structures are hypothesized to act as adaptive filters, removing correlations between incoming sensory input and central predictive signals through associative plasticity at parallel fiber synapses. The present study tests the adaptive filter hypothesis in the electrosensory lobe (ELL) of weakly electric mormyrid fish. We compared the ability of electroreceptors and ELL efferent neurons to encode the position of moving objects in the presence and absence of self-generated electrosensory signals caused by tail movements. Tail movements had strong effects on the responses of electroreceptors, substantially reducing the amount of information they conveyed about object position. In contrast, responses of efferent neurons were relatively unaffected by tail movements, and the information they conveyed about object position was preserved. We provide evidence that the electrosensory consequences of tail bending are opposed by proprioceptive inputs conveyed by parallel fibers and that the effects of proprioceptive inputs to efferent cells are plastic. These results support the idea that cerebellum-like structures learn and remove the predictable sensory consequences of behavior and link mechanisms of adaptive filtering to selective encoding of behaviorally relevant sensory information.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cerebellum",
+            "Electric Fish",
+            "Electric Organ",
+            "Evoked Potentials, Somatosensory",
+            "Movement",
+            "Neuronal Plasticity",
+            "Posture",
+            "Proprioception",
+            "Psychomotor Performance",
+            "Sensory Receptor Cells",
+            "Synapses",
+            "Tail"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Neurological Sciences Institute, Oregon Health & Sciences University, Beaverton, Oregon 97006, USA. sawtelln@ohsu.edu"
+            },
+            {
+                "First Name": "Alan",
+                "Last Name": "Williams",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17301164",
+        "Title": "Central control of dendritic spikes shapes the responses of Purkinje-like cells through spike timing-dependent synaptic plasticity.",
+        "Abstract": "Cerebellum-like structures process peripheral sensory information in combination with parallel fiber inputs that convey information about sensory and motor contexts. Activity-dependent changes in the strength of parallel fiber synapses act as an adaptive filter, removing predictable features of the sensory input. In the electrosensory lobe (ELL) of mormyrid fish, a main cellular site for this adaptive processing is the Purkinje-like medium ganglion (MG) cell. MG cells exhibit two types of spikes: narrow axon spikes (N spikes) and broad dendritic spikes (B spikes). N spikes shape ELL output by inhibiting efferent cells, whereas B spikes drive plasticity at parallel fiber synapses. Despite their critical role in plasticity, little is known about the relative importance of various classes of MG cell inputs in driving B spikes or to what extent B spikes can be controlled independently of N spikes. Using in vivo intracellular recordings, measurements of synaptic conductance, and pharmacological blockade of inhibition, we provide evidence for corollary discharge-evoked inhibition that exerts potent control over the timing and probability of B spikes with little apparent effect on N spikes. The timing of this inhibition corresponds to the period during which repeated occurrence of B spikes causes depression of corollary discharge-evoked synaptic responses and a reduction in N spikes. B spikes occurring before or after the period of inhibition lead to increases in corollary discharge-evoked excitation. Thus, by controlling the timing of B spikes, central inhibition shapes the output of MG cells through spike timing-dependent synaptic plasticity. Our findings are consistent with a model of ELL function in which feedback guides adaptive processing by regulating B spikes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Bicuculline",
+            "Dendrites",
+            "Electric Conductivity",
+            "Electric Fish",
+            "Electric Organ",
+            "Electric Stimulation",
+            "Evoked Potentials",
+            "GABA Antagonists",
+            "Neural Inhibition",
+            "Neural Networks, Computer",
+            "Purkinje Cells",
+            "Reaction Time",
+            "Skin",
+            "Synapses",
+            "Synaptic Transmission"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Neurological Sciences Institute, Oregon Health and Sciences University, Beaverton, Oregon 97006, USA. sawtelln@ohsu.edu"
+            },
+            {
+                "First Name": "Alan",
+                "Last Name": "Williams",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Curtis C",
+                "Last Name": "Bell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "16899717",
+        "Title": "Effects of sensing behavior on a latency code.",
+        "Abstract": "Sensory information is often acquired through active exploration, yet relatively little is known about how neurons encode sensory stimuli in the context of natural patterns of sensing behavior. We examined the effects of sensing behavior on a spike latency code in the active electrosensory system of mormyrid fish. These fish actively probe their environment by emitting brief electric organ discharge (EOD) pulses. Nearby objects alter the spatial pattern of current flowing through the skin. These changes are encoded by small shifts in the latency of individual electroreceptor afferent spikes after the EOD. In nature, the temporal pattern of EOD intervals is highly structured and varies depending on the behavioral context. We performed experiments in which we varied both the EOD amplitude and the intervals between EODs to understand how sensing behavior affects afferent latency coding. We use white-noise stimuli and linear filter estimation methods to develop simple models characterizing the dependence of afferent spike latency on the preceding sequence of EOD intervals and amplitudes. Comparing the predictions of these models with actual afferent responses for natural patterns of EOD intervals and amplitudes reveals an unexpectedly rich interplay between sensing behavior and stimulus encoding. Implications of our results for how afferent spike latency is decoded at central stages of electrosensory processing are discussed.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Afferent Pathways",
+            "Animals",
+            "Behavior, Animal",
+            "Computer Simulation",
+            "Electric Fish",
+            "Electric Organ",
+            "Information Storage and Retrieval",
+            "Models, Neurological",
+            "Reaction Time",
+            "Sensation",
+            "Sensory Receptor Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Neurological Sciences Institute, Oregon Health and Sciences University, Beaverton, Oregon 97006, USA. sawtelln@ohsu.edu"
+            },
+            {
+                "First Name": "Alan",
+                "Last Name": "Williams",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Patrick D",
+                "Last Name": "Roberts",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gerhard",
+                "Last Name": "von der Emde",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Curtis C",
+                "Last Name": "Bell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16880128",
+        "Title": "Instructive effect of visual experience in mouse visual cortex.",
+        "Abstract": "We describe a form of experience-dependent response enhancement in the visual cortex of awake mice. Repeated presentations of grating stimuli of a single orientation result in a persistent enhancement of responses evoked by the test stimulus. Response potentiation is specific to the orientation of the test stimulus, develops gradually over the course of several training sessions, and occurs in both juvenile and adult mice. The stimulus-selective response potentiation (SRP) can mask deprivation-induced response depression in adult mice. SRP requires NMDA receptor activation and is prevented by viral delivery of a peptide that interferes with AMPA receptor trafficking. SRP may reveal the mechanisms involved in certain forms of perceptual learning.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Discrimination Learning",
+            "Mice",
+            "Neuronal Plasticity",
+            "Orientation",
+            "Photic Stimulation",
+            "Receptors, N-Methyl-D-Aspartate",
+            "Visual Cortex",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mikhail Y",
+                "Last Name": "Frenkel",
+                "Affiliation": "The Picower Institute for Learning and Memory, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, Massachusetts 02139, USA."
+            },
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Antonia Cinira M",
+                "Last Name": "Diogo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bongjune",
+                "Last Name": "Yoon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rachael L",
+                "Last Name": "Neve",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark F",
+                "Last Name": "Bear",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16009545",
+        "Title": "From sparks to spikes: information processing in the electrosensory systems of fish.",
+        "Abstract": "Recent work on electrosensory systems in fish has combined traditional neuroethological approaches with quantitative methods for characterizing neural coding. These studies have shed light on general issues in sensory processing, including how peripheral sensory receptors encode external stimuli and how these representations are transformed at subsequent stages of processing.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Electric Fish",
+            "Electric Organ",
+            "Neurons",
+            "Sensory Receptor Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Neurological Sciences Institute, Oregon Health & Sciences University, Beaverton, Oregon 97006, USA. sawtelln@ohsu.edu"
+            },
+            {
+                "First Name": "Alan",
+                "Last Name": "Williams",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Curtis C",
+                "Last Name": "Bell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current opinion in neurobiology",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15774712",
+        "Title": "Recurrent feedback in the mormyrid electrosensory system: cells of the preeminential and lateral toral nuclei.",
+        "Abstract": "Many sensory regions integrate information ascending from peripheral receptors with descending inputs from other central structures. However, the significance of these descending inputs remains poorly understood. Descending inputs are prominent in the electrosensory system of mormyrid fish and include both recurrent connections from higher to lower stages of electrosensory processing and electric organ corollary discharge (EOCD) signals associated with the motor command that drives the electric organ discharge. The preeminential nucleus (PE) occupies a key position in a feedback loop that returns information from higher stages of electrosensory processing to the initial stage of processing in the electrosensory lobe (ELL). This feedback reflects the integration of ascending electrosensory input from ELL, descending input from the lateral toral nucleus (torus), and EOCD inputs to PE. We used intracellular recording and axonal tracing of stained cells to characterize EOCD and electrosensory responses of several cell types in PE and the torus. PE and toral cells exhibit prominent EOCD responses that are not due to EOCD inputs from ELL. PE cells giving rise to a direct feedback projection to ELL respond to electrosensory stimuli with rapid, precisely timed spikes that will affect ELL neurons early during the same EOD cycle. EOCD and electrosensory responses in toral cells are similar to those observed in PE and may be important in shaping feedback to ELL. These results provide an initial description of electrosensory feedback to ELL as well as information about how ascending, descending, and EOCD inputs are combined at higher stages of electrosensory processing.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Electric Fish",
+            "Electric Stimulation",
+            "Feedback",
+            "Neural Pathways",
+            "Neurons, Afferent"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Neurological Sciences Institute, Oregon Health and Science University, Beaverton, OR 97006, USA. sawtelln@ohsu.edu"
+            },
+            {
+                "First Name": "Claudia",
+                "Last Name": "Mohr",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Curtis C",
+                "Last Name": "Bell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "12818182",
+        "Title": "NMDA receptor-dependent ocular dominance plasticity in adult visual cortex.",
+        "Abstract": "The binocular region of mouse visual cortex is strongly dominated by inputs from the contralateral eye. Here we show in adult mice that depriving the dominant contralateral eye of vision leads to a persistent, NMDA receptor-dependent enhancement of the weak ipsilateral-eye inputs. These data provide in vivo evidence for metaplasticity as a mechanism for binocular competition and demonstrate that an ocular dominance shift can occur solely by the mechanisms of response enhancement. They also show that adult mouse visual cortex has a far greater potential for experience-dependent plasticity than previously appreciated. These insights may force a revision in how data on ocular dominance plasticity in mutant mice have been interpreted.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aging",
+            "Animals",
+            "Dominance, Ocular",
+            "Evoked Potentials, Visual",
+            "Excitatory Postsynaptic Potentials",
+            "Integrases",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Knockout",
+            "Mice, Transgenic",
+            "Neuronal Plasticity",
+            "Patch-Clamp Techniques",
+            "Receptors, N-Methyl-D-Aspartate",
+            "Viral Proteins",
+            "Vision, Monocular",
+            "Visual Cortex"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nathaniel B",
+                "Last Name": "Sawtell",
+                "Affiliation": "Howard Hughes Medical Institute, The Picower Center for Learning & Memory, Department of Brain & Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Mikhail Y",
+                "Last Name": "Frenkel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Benjamin D",
+                "Last Name": "Philpot",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kazu",
+                "Last Name": "Nakazawa",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Susumu",
+                "Last Name": "Tonegawa",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark F",
+                "Last Name": "Bear",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2003"
+    }
+]

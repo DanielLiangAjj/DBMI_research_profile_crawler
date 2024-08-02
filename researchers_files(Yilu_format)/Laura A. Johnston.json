@@ -1,0 +1,1036 @@
+[
+    {
+        "PMID": "38985651",
+        "Title": "The Drosophila TNF Eiger promotes Myc super-competition independent of canonical JNK signaling.",
+        "Abstract": "Numerous factors have been implicated in the cell-cell interactions that lead to elimination of cells via cell competition, a context-dependent process of cell selection in somatic tissues that is based on comparisons of cellular fitness. Here we use a series of genetic tests in Drosophila to explore the relative contribution of the pleiotropic cytokine Tumor Necrosis Factor \u237a (TNF\u237a) in Myc-mediated cell competition (also known as Myc super-competition or Myc cell competition). We find that the sole Drosophila TNF, Eiger (Egr), its receptor Grindelwald (Grnd/TNFR), and the adaptor proteins Traf4 and Traf6 are required to eliminate wild-type \"loser\" cells during Myc cell competition. Although typically the interaction between Egr and Grnd leads to cell death by activating the intracellular Jun N-terminal Kinase (JNK) stress signaling pathway, our experiments reveal that many components of canonical JNK signaling are dispensable for cell death in Myc cell competition, including the JNKKK Tak1, the JNKK Hemipterous (Hep) and the JNK Basket (Bsk). Our results suggest that Egr/Grnd signaling participates in Myc cell competition, but functions in a role that is largely independent of the JNK signaling pathway.",
+        "Keywords": [
+            "Drosophila",
+            "Cell competition",
+            "Competitive Signaling Module",
+            "JNK",
+            "Myc super-competition",
+            "TNF",
+            "epithelium"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Albana L",
+                "Last Name": "Kodra",
+                "Affiliation": "Department of Genetics & Development, Vagelos College of Physicians & Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Aditi",
+                "Last Name": "Sharma Singh",
+                "Affiliation": "Department of Genetics & Development, Vagelos College of Physicians & Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Claire",
+                "Last Name": "de la Cova",
+                "Affiliation": "Department of Biological Sciences, University of Wisconsin, Milwaukee, WI 53201, USA."
+            },
+            {
+                "First Name": "Marcello",
+                "Last Name": "Ziosi",
+                "Affiliation": "New York Genome Center, New York, NY 10013, USA."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": "Department of Genetics & Development, Vagelos College of Physicians & Surgeons, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Genetics",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37054704",
+        "Title": "Stem cell competition driven by the Axin2-p53 axis controls brain size during murine development.",
+        "Abstract": "Cell competition acts as a quality-control mechanism that eliminates cells less fit than their neighbors to optimize organ development. Whether and how competitive interactions occur between neural progenitor cells (NPCs) in the developing brain remains unknown. Here, we show that endogenous cell competition occurs and intrinsically correlates with the Axin2 expression level during normal brain development. Induction of genetic mosaicism predisposes Axin2-deficient NPCs to behave as \"losers\" in mice and undergo apoptotic elimination, but homogeneous ablation of Axin2 does not promote cell death. Mechanistically, Axin2 suppresses the p53 signaling pathway at the post-transcriptional level to maintain cell fitness, and Axin2-deficient cell elimination requires p53-dependent signaling. Furthermore, mosaic Trp53 deletion confers a \"winner\" status to p53-deficient cells that outcompete their neighbors. Conditional loss of both Axin2 and Trp53 increases cortical area and thickness, suggesting that the Axin2-p53 axis may coordinate to survey cell fitness, regulate natural cell competition, and optimize brain size during neurodevelopment.",
+        "Keywords": [
+            "Axin2",
+            "Trp53",
+            "brain size",
+            "cell competition",
+            "clonal analysis",
+            "genetic mosaic induction",
+            "loser signature",
+            "neural progenitor cells",
+            "neurodevelopment",
+            "single-cell RNA-seq"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Mice",
+            "Axin Protein",
+            "Cell Competition",
+            "Organ Size",
+            "Signal Transduction",
+            "Stem Cells",
+            "Tumor Suppressor Protein p53"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xue-Lian",
+                "Last Name": "Sun",
+                "Affiliation": "State Key Laboratory of Molecular Development Biology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100101, China."
+            },
+            {
+                "First Name": "Zhen-Hua",
+                "Last Name": "Chen",
+                "Affiliation": "State Key Laboratory of Molecular Development Biology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100101, China."
+            },
+            {
+                "First Name": "Xize",
+                "Last Name": "Guo",
+                "Affiliation": "State Key Laboratory of Molecular Development Biology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100101, China."
+            },
+            {
+                "First Name": "Jingjing",
+                "Last Name": "Wang",
+                "Affiliation": "State Key Laboratory of Molecular Development Biology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China."
+            },
+            {
+                "First Name": "Mengmeng",
+                "Last Name": "Ge",
+                "Affiliation": "State Key Laboratory of Molecular Development Biology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China."
+            },
+            {
+                "First Name": "Samuel Zheng Hao",
+                "Last Name": "Wong",
+                "Affiliation": "Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Ting",
+                "Last Name": "Wang",
+                "Affiliation": "State Key Laboratory of Molecular Development Biology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100101, China."
+            },
+            {
+                "First Name": "Si",
+                "Last Name": "Li",
+                "Affiliation": "State Key Laboratory of Molecular Development Biology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100101, China."
+            },
+            {
+                "First Name": "Mingze",
+                "Last Name": "Yao",
+                "Affiliation": "Institutes of Biomedical Sciences, Shanxi University, Taiyuan 030006, China."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": "Department of Genetics and Development, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Qing-Feng",
+                "Last Name": "Wu",
+                "Affiliation": "State Key Laboratory of Molecular Development Biology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 100101, China; Beijing Children's Hospital, Capital Medical University, Beijing 100045, China; Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, Beijing 100101, China. Electronic address: wu_qingfeng@genetics.ac.cn."
+            }
+        ],
+        "Journal": "Developmental cell",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "34909609",
+        "Title": "Studies of Myc super-competition and clonal growth in ",
+        "Abstract": "Cell competition is a cell selection process that arises in growing tissues as a result of interactions between cells of different fitness. This behavior is also observed in Myc super-competition, where healthy wild type cells in growing wing discs of ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Abigail J",
+                "Last Name": "Svoysky",
+                "Affiliation": "Department of Genetics and Development, Columbia University Medical Center."
+            },
+            {
+                "First Name": "Jeffrey L",
+                "Last Name": "Bellah",
+                "Affiliation": "Department of Genetics and Development, Columbia University Medical Center."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": "Department of Genetics and Development, Columbia University Medical Center."
+            }
+        ],
+        "Journal": "microPublication biology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33127847",
+        "Title": "Widely Used Mutants of ",
+        "Abstract": "The process of apoptosis in epithelia involves activation of caspases, delamination of cells, and degradation of cellular components. Corpses and cellular debris are then rapidly cleared from the tissue by phagocytic blood cells. In studies of the ",
+        "Keywords": [
+            "Eiger/TNF",
+            "NimC1 mutations",
+            "cell competition",
+            "cell death",
+            "phagocytosis"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Drosophila",
+            "Drosophila Proteins",
+            "Drosophila melanogaster",
+            "Mutation",
+            "Receptors, Immunologic",
+            "Tumor Necrosis Factor-alpha"
+        ],
+        "Authors": [
+            {
+                "First Name": "Albana",
+                "Last Name": "Kodra",
+                "Affiliation": "Department of Genetics & Development, Columbia University Irving Medical Center, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Claire",
+                "Last Name": "de la Cova",
+                "Affiliation": "Department of Biological Sciences, University of Wisconsin, Milwaukee, WI."
+            },
+            {
+                "First Name": "Abigail R",
+                "Last Name": "Gerhold",
+                "Affiliation": "Department of Biology, McGill University, Montr\u00e9al, QC."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": "Department of Genetics & Development, Columbia University Irving Medical Center, Vagelos College of Physicians and Surgeons, New York, NY lj180@columbia.edu."
+            }
+        ],
+        "Journal": "G3 (Bethesda, Md.)",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "30146479",
+        "Title": "Spatially Restricted Regulation of Sp\u00e4tzle/Toll Signaling during Cell Competition.",
+        "Abstract": "Cell competition employs comparisons of fitness to\u00a0selectively eliminate cells sensed as less healthy. In Drosophila, apoptotic elimination of the weaker \"loser\" cells from growing wing discs is induced by\u00a0a signaling module consisting of the Toll ligand Sp\u00e4tzle (Spz), several Toll-related receptors, and NF-\u03baB factors. How this module is activated and restricted to competing disc cells is unknown. Here, we use Myc-induced cell competition to demonstrate that loser cell elimination requires local wing disc synthesis of Spz. We identify Spz processing enzyme (SPE) and modular serine protease (ModSP) as activators of Spz-regulated competitive signaling and show that \"winner\" cells trigger elimination of nearby WT cells by boosting SPE production. Moreover, Spz requires both Toll and Toll-8 to induce apoptosis of wing disc cells. Thus, during cell competition, Spz-mediated signaling is strictly confined to the imaginal disc, allowing errors in tissue fitness to be corrected without compromising organismal physiology.",
+        "Keywords": [
+            "Drosophila",
+            "Myc",
+            "Sp\u00e4tzle",
+            "Toll receptors",
+            "cancer",
+            "cell competition",
+            "growth and development",
+            "inflammation",
+            "wing imaginal disc",
+            "\u201ccheaters\u201d"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Apoptosis",
+            "Cell Communication",
+            "Cell Physiological Phenomena",
+            "Drosophila Proteins",
+            "Drosophila melanogaster",
+            "Female",
+            "Male",
+            "NF-kappa B",
+            "Protein Binding",
+            "Proto-Oncogene Proteins c-myc",
+            "Serine Endopeptidases",
+            "Toll-Like Receptors",
+            "Wings, Animal"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lale",
+                "Last Name": "Alpar",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10025, USA; Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Cora",
+                "Last Name": "Berganti\u00f1os",
+                "Affiliation": "Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": "Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA. Electronic address: lj180@columbia.edu."
+            }
+        ],
+        "Journal": "Developmental cell",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29378809",
+        "Title": "Mosaic Analysis in ",
+        "Abstract": "Since the founding of ",
+        "Keywords": [
+            "Drosophila",
+            "Flp/FRT",
+            "FlyBook",
+            "mosaicism"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Clone Cells",
+            "Drosophila",
+            "Gene Expression Regulation",
+            "Gene Targeting",
+            "Genetic Testing",
+            "Germ Cells",
+            "Mosaicism",
+            "Mutation",
+            "Recombination, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Federico",
+                "Last Name": "Germani",
+                "Affiliation": "Institute of Molecular Life Sciences, University of Zurich, 8057, Switzerland."
+            },
+            {
+                "First Name": "Cora",
+                "Last Name": "Bergantinos",
+                "Affiliation": "Department of Genetics and Development, Columbia University, New York, New York 10032."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": "Department of Genetics and Development, Columbia University, New York, New York 10032 lj180@columbia.edu."
+            }
+        ],
+        "Journal": "Genetics",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "24692189",
+        "Title": "Socializing with MYC: cell competition in development and as a model for premalignant cancer.",
+        "Abstract": "Studies in Drosophila and mammals have made it clear that genetic mutations that arise in somatic tissues are rapidly recognized and eliminated, suggesting that cellular fitness is tightly monitored. During development, damaged, mutant, or otherwise unfit cells are prevented from contributing to the tissue and are instructed to die, whereas healthy cells benefit and populate the animal. This cell selection process, known as cell competition, eliminates somatic genetic heterogeneity and promotes tissue fitness during development. Yet cell competition also has a dark side. Super competition can be exploited by incipient cancers to subvert cellular cooperation and promote selfish behavior. Evidence is accumulating that MYC plays a key role in regulation of social behavior within tissues. Given the high number of tumors with deregulated MYC, studies of cell competition promise to yield insight into how the local environment yields to and participates in the early stages of tumor formation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Biomarkers, Tumor",
+            "Cell Communication",
+            "Cell Proliferation",
+            "Cell Transformation, Neoplastic",
+            "Drosophila melanogaster",
+            "Genes, myc",
+            "Mutation",
+            "Precancerous Conditions",
+            "Proto-Oncogene Proteins c-myc"
+        ],
+        "Authors": [
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": "Department of Genetics and Development, Columbia University Medical Center, New York, New York 10032."
+            }
+        ],
+        "Journal": "Cold Spring Harbor perspectives in medicine",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24561262",
+        "Title": "Supercompetitor status of Drosophila Myc cells requires p53 as a fitness sensor to reprogram metabolism and promote viability.",
+        "Abstract": "In growing tissues, cell fitness disparities can provoke interactions that promote stronger cells at the expense of the weaker in a process called cell competition. The mechanistic definition of cell fitness is not understood, nor is it understood how fitness differences are recognized. Drosophila cells with extra Myc activity acquire \"supercompetitor\" status upon confrontation with wild-type (WT) cells, prompting the latter's elimination via apoptosis. Here we show that such confrontation enhances glycolytic flux in Myc cells and promotes their fitness and proliferation in a p53-dependent manner. Whereas p53 loss in noncompeting Myc cells is inconsequential, its loss impairs metabolism, reduces viability, and prevents the killing activity of Myc supercompetitor cells. We propose that p53 acts as a general sensor of competitive confrontation to enhance the fitness of the \"winner\" population. Our findings suggest that the initial confrontation between precancerous and WT cells could enhance cancer cell fitness and promote tumor progression.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Proliferation",
+            "Cells, Cultured",
+            "Coculture Techniques",
+            "Drosophila",
+            "Drosophila Proteins",
+            "Genomic Instability",
+            "Glycolysis",
+            "Oxidative Phosphorylation",
+            "Proto-Oncogene Proteins c-myc",
+            "RNA, Messenger",
+            "Tumor Suppressor Protein p53"
+        ],
+        "Authors": [
+            {
+                "First Name": "Claire",
+                "Last Name": "de la Cova",
+                "Affiliation": "Department of Genetics and Development, College of Physicians and Surgeons, Columbia University Medical Center, 701\u00a0West\u00a0168th\u00a0Street, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Nanami",
+                "Last Name": "Senoo-Matsuda",
+                "Affiliation": "Department of Genetics and Development, College of Physicians and Surgeons, Columbia University Medical Center, 701\u00a0West\u00a0168th\u00a0Street, New York, NY 10032, USA; Department of Life Science and Medical BioScience, School of Advanced Science and Engineering, Waseda University, 2-2\u00a0Waskamatsu-cho, Shinjuku-ku, Tokyo 162-8480, Japan."
+            },
+            {
+                "First Name": "Marcello",
+                "Last Name": "Ziosi",
+                "Affiliation": "Department of Genetics and Development, College of Physicians and Surgeons, Columbia University Medical Center, 701\u00a0West\u00a0168th\u00a0Street, New York, NY 10032, USA; Department of Experimental Pathology, University of Bologna, 40126 Bologna, Italy."
+            },
+            {
+                "First Name": "D Christine",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Genetics and Development, College of Physicians and Surgeons, Columbia University Medical Center, 701\u00a0West\u00a0168th\u00a0Street, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Paola",
+                "Last Name": "Bellosta",
+                "Affiliation": "Department of Genetics and Development, College of Physicians and Surgeons, Columbia University Medical Center, 701\u00a0West\u00a0168th\u00a0Street, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Catarina M",
+                "Last Name": "Quinzii",
+                "Affiliation": "Department of Neurology, College of Physicians and Surgeons, Columbia University Medical Center, 630 West 168th Street, New York, NY\u00a010032, USA."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": "Department of Genetics and Development, College of Physicians and Surgeons, Columbia University Medical Center, 701\u00a0West\u00a0168th\u00a0Street, New York, NY 10032, USA. Electronic address: lj180@columbia.edu."
+            }
+        ],
+        "Journal": "Cell metabolism",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "22992954",
+        "Title": "Activated STAT regulates growth and induces competitive interactions independently of Myc, Yorkie, Wingless and ribosome biogenesis.",
+        "Abstract": "Cell competition is a conserved mechanism that regulates organ size and shares properties with the early stages of cancer. In Drosophila, wing cells with increased Myc or with optimum ribosome function become supercompetitors that kill their wild-type neighbors (called losers) up to several cell diameters away. Here, we report that modulating STAT activity levels regulates competitor status. Cells lacking STAT become losers that are killed by neighboring wild-type cells. By contrast, cells with hyper-activated STAT become supercompetitors that kill losers located at a distance in a manner that is dependent on hid but independent of Myc, Yorkie, Wingless signaling, and of ribosome biogenesis. These results indicate that STAT, Wingless and Myc are major parallel regulators of cell competition, which may converge on signals that non-autonomously kill losers. As hyper-activated STATs are causal to tumorigenesis and stem cell niche occupancy, our results have therapeutic implications for cancer and regenerative medicine.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Drosophila",
+            "Drosophila Proteins",
+            "Gene Expression Regulation, Developmental",
+            "Nuclear Proteins",
+            "Proto-Oncogene Proteins c-myc",
+            "Ribosomes",
+            "STAT Transcription Factors",
+            "Trans-Activators",
+            "Wnt1 Protein",
+            "YAP-Signaling Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Aloma B",
+                "Last Name": "Rodrigues",
+                "Affiliation": "Department of Biochemistry and Molecular Pharmacology, New York University School of Medicine, New York, NY 10016,  USA."
+            },
+            {
+                "First Name": "Tamara",
+                "Last Name": "Zoranovic",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aidee",
+                "Last Name": "Ayala-Camargo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Savraj",
+                "Last Name": "Grewal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tamara",
+                "Last Name": "Reyes-Robles",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michelle",
+                "Last Name": "Krasny",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "D Christine",
+                "Last Name": "Wu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Erika A",
+                "Last Name": "Bach",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Development (Cambridge, England)",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22438309",
+        "Title": "New frontiers in cell competition.",
+        "Abstract": "Cellular communication is at the heart of animal development, and guides the specification of cell fates, the movement of cells within and between tissues, and the coordinated arrangement of different body parts. During organ and tissue growth, cell-cell communication plays a critical role in decisions that determine whether cells survive to contribute to the organism. In this review, we discuss recent insights into cell competition, a social cellular phenomenon that selects the fittest cells in a tissue, and as such potentially contributes to the regulation of its growth and final size. The field of cell competition has seen a huge explosion in its study in the last several years, facilitated by the increasingly sophisticated genetic and molecular technology available in Drosophila and driven by its relevance to stem cell biology and human cancer.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Communication",
+            "Cell Differentiation",
+            "Drosophila",
+            "Gene Expression Regulation, Developmental",
+            "Humans"
+        ],
+        "Authors": [
+            {
+                "First Name": "Simon",
+                "Last Name": "de Beco",
+                "Affiliation": "Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Marcello",
+                "Last Name": "Ziosi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Developmental dynamics : an official publication of the American Association of Anatomists",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22036477",
+        "Title": "Maintenance of imaginal disc plasticity and regenerative potential in Drosophila by p53.",
+        "Abstract": "Following irradiation (IR), the DNA damage response (DDR) activates p53, which triggers death of cells in which repair cannot be completed. Lost tissue is then replaced and re-patterned through regeneration. We have examined the role of p53 in co-regulation of the DDR and tissue regeneration following IR damage in Drosophila. We find that after IR, p53 is required for imaginal disc cells to repair DNA, and in its absence the damage marker, \u03b3-H2AX is persistently expressed. p53 is also required for the compensatory proliferation and re-patterning of the damaged discs, and our results indicate that cell death is not required to trigger these processes. We identify an IR-induced delay in developmental patterning in wing discs that accompanies an animal-wide delay of the juvenile-adult transition, and demonstrate that both of these delays require p53. In p53 mutants, the lack of developmental delays and of damage resolution leads to anueploidy and tissue defects, and ultimately to morphological abnormalities and adult inviability. We propose that p53 maintains plasticity of imaginal discs by co-regulating the maintenance of genome integrity and disc regeneration, and coordinating these processes with the physiology of the animal. These findings place p53 in a role as master coordinator of DNA and tissue repair following IR.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Apoptosis",
+            "Cell Differentiation",
+            "Cell Proliferation",
+            "DNA Damage",
+            "DNA Repair",
+            "Drosophila melanogaster",
+            "Imaginal Discs",
+            "Mutation",
+            "Organogenesis",
+            "Pupa",
+            "Radiation, Ionizing",
+            "Regeneration",
+            "Survival Analysis",
+            "Time Factors",
+            "Tumor Suppressor Protein p53",
+            "Wings, Animal",
+            "Wound Healing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Brent S",
+                "Last Name": "Wells",
+                "Affiliation": "Department of Genetics & Development, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Developmental biology",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "20951343",
+        "Title": "Evidence for a growth-stabilizing regulatory feedback mechanism between Myc and Yorkie, the Drosophila homolog of Yap.",
+        "Abstract": "An understanding of how animal size is controlled requires knowledge of how positive and negative growth regulatory signals are balanced and integrated within cells. Here we demonstrate that the activities of the conserved growth-promoting transcription factor Myc and the tumor-suppressing Hippo pathway are codependent during growth of Drosophila imaginal discs. We find that Yorkie (Yki), the Drosophila homolog of the Hippo pathway transducer, Yap, regulates the transcription of Myc, and that Myc functions as a critical cellular growth effector of the pathway. We demonstrate that in turn, Myc regulates the expression of Yki as a function of its own cellular level, such that high levels of Myc repress Yki expression through both transcriptional and posttranscriptional mechanisms. We propose that the codependent regulatory relationship functionally coordinates the cellular activities of Yki and Myc and provides a mechanism of growth control that regulates organ size and has broad implications for cancer.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Drosophila Proteins",
+            "Drosophila melanogaster",
+            "Feedback, Physiological",
+            "Gene Expression Regulation, Developmental",
+            "Genetic Loci",
+            "Homeostasis",
+            "Intracellular Signaling Peptides and Proteins",
+            "Models, Biological",
+            "Nuclear Proteins",
+            "Protein Binding",
+            "Protein Serine-Threonine Kinases",
+            "Proto-Oncogene Proteins c-myc",
+            "Sequence Homology, Amino Acid",
+            "Signal Transduction",
+            "Trans-Activators",
+            "Transcription Factors",
+            "Transcription, Genetic",
+            "YAP-Signaling Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ricardo M",
+                "Last Name": "Neto-Silva",
+                "Affiliation": "Gulbenkian PhD Program in Biomedicine, P-2780-156 Oeiras, Portugal."
+            },
+            {
+                "First Name": "Simon",
+                "Last Name": "de Beco",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Developmental cell",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19896435",
+        "Title": "Preview. Competition among stem cells gets sticky.",
+        "Abstract": "In a recent report in Science, Issigonis et al. (2009) demonstrate that an inhibitor of JAK-STAT signaling controls integrin-mediated niche adhesion in the Drosophila testis, thereby limiting competition between germline and somatic stem cells for niche space.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "D Christine",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Biological Sciences, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell stem cell",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19897747",
+        "Title": "Control of wing size and proportions by Drosophila myc.",
+        "Abstract": "Generation of an organ of appropriate size and shape requires mechanisms that coordinate growth and patterning, but how this is achieved is not understood. Here we examine the role of the growth regulator dMyc in this process during Drosophila wing imaginal disc development. We find that dMyc is expressed in a dynamic pattern that correlates with fate specification of different regions of the wing disc, leading us to hypothesize that dMyc expression in each region directs its growth. Consistent with this view, clonal analysis of growth in each region demonstrated distinct temporal requirements for dMyc that match its expression. Surprisingly, however, experiments in which dMyc expression is manipulated reveal that the endogenous pattern has only a minor influence on wing shape. Indeed, when dMyc function is completely lacking in the wing disc over most of its development, the discs grow slowly and are small in size but appear morphologically normal. Our experiments indicate, therefore, that rather than directly influence differential growth in the wing disc, the pattern of dMyc expression augments growth directed by other regulators. Overall, however, an appropriate level of dMyc expression in the wing disc is necessary for each region to achieve a proportionately correct size.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "DNA-Binding Proteins",
+            "Drosophila Proteins",
+            "Drosophila melanogaster",
+            "Gene Expression Regulation",
+            "Organ Size",
+            "Time Factors",
+            "Transcription Factors",
+            "Wings, Animal"
+        ],
+        "Authors": [
+            {
+                "First Name": "D Christine",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Genetics and Development, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genetics",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19556501",
+        "Title": "Competitive interactions between cells: death, growth, and geography.",
+        "Abstract": "Competitive interactions between cells are the basis of many homeostatic processes in biology. Some of the best-described cases of competition between cells occur in Drosophila: cell competition, whereby somatic cells within a growing epithelium compete with one another for contribution to the adult, and stem cell competition, in which germline or somatic stem cells vie for residency in the niche. Both types of competition are conserved physiological processes, with much to tell us about how cellular neighborhoods influence cell behavior, and have importance to stem cell biology, regeneration and transplantation, and cancer.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Apoptosis",
+            "Cell Communication",
+            "Cell Physiological Phenomena",
+            "Cell Proliferation",
+            "Drosophila",
+            "Homeostasis",
+            "Models, Biological",
+            "Signal Transduction",
+            "Stem Cell Niche",
+            "Stem Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": "Department of Genetics and Development, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA. lj180@columbia.edu"
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18571409",
+        "Title": "Temporal regulation of metamorphic processes in Drosophila by the let-7 and miR-125 heterochronic microRNAs.",
+        "Abstract": "The let-7 and lin-4 microRNAs belong to a class of temporally expressed, noncoding regulatory RNAs that function as heterochronic switch genes in the nematode C. elegans. Heterochronic genes control the relative timing of events during development and are considered a major force in the rapid evolution of new morphologies. let-7 is highly conserved and in Drosophila is temporally coregulated with the lin-4 homolog, miR-125. Little is known, however, about their requirement outside the nematode or whether they universally control the timing of developmental processes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Cycle",
+            "Cell Nucleus",
+            "Drosophila",
+            "Drosophila Proteins",
+            "Gene Expression Regulation, Developmental",
+            "Metamorphosis, Biological",
+            "MicroRNAs",
+            "Muscle Cells",
+            "Neuromuscular Junction",
+            "Nuclear Proteins",
+            "Wings, Animal"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elizabeth E",
+                "Last Name": "Caygill",
+                "Affiliation": "Department of Genetics and Development, College of Physicians and Surgeons, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current biology : CB",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "19575645",
+        "Title": "Mechanisms of growth and homeostasis in the Drosophila wing.",
+        "Abstract": "Animal shape and size is controlled with amazing precision during development. External factors such as nutrient availability and crowding can alter overall animal size, but individual body parts scale reproducibly to match the body even with challenges from a changing environment. How is such precision achieved? Here, we review selected research from the last few years in Drosophila--arguably the premier genetic model for the study of animal growth--that sheds light on how body and tissue size are regulated by forces intrinsic to individual organs. We focus on two topics currently under intense study: the influence of pattern regulators on organ and tissue growth and the role of local competitive interactions between cells in tissue homeostasis and final size.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Body Patterning",
+            "Drosophila",
+            "Homeostasis",
+            "Larva",
+            "Wings, Animal"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ricardo M",
+                "Last Name": "Neto-Silva",
+                "Affiliation": "Department of Genetics and Development, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Brent S",
+                "Last Name": "Wells",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annual review of cell and developmental biology",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18000039",
+        "Title": "Soluble factors mediate competitive and cooperative interactions between cells expressing different levels of Drosophila Myc.",
+        "Abstract": "When neighboring cells in the developing Drosophila wing express different levels of the transcription factor, dMyc, competitive interactions can occur. Cells with more dMyc proliferate and ultimately overpopulate the wing, whereas cells with less dMyc die, thereby preventing wing overgrowth. How cells sense dMyc activity differences between themselves and the nature of the process leading to changes in growth and survival during competition remain unknown. We have developed a cell culture-based assay by using Drosophila S2 cells to investigate the mechanism of cell competition. We find that in vitro coculture of S2 cells that express different levels of dMyc leads to cellular interactions that recapitulate many aspects of cell competition in the developing wing. Our data indicate that both cell populations in the cocultures participate in and are required for the competitive process by releasing soluble factors into the medium. We demonstrate that the response of naive cells to medium conditioned with competitive cocultures depends on their potential to express dMyc: Cells that can express high levels of dMyc gain a survival advantage and proliferate faster, whereas cells with lower dMyc levels are instructed to die. We suggest that the ability of cells to perceive and respond to local differences in Myc activity is a cooperative mechanism that could contribute to growth regulation and developmental plasticity in organs and tissues during normal development and regeneration.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Binding, Competitive",
+            "Cell Line",
+            "Cell Proliferation",
+            "Culture Media, Conditioned",
+            "DNA-Binding Proteins",
+            "Drosophila Proteins",
+            "Drosophila melanogaster",
+            "Protein Binding",
+            "Solubility",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nanami",
+                "Last Name": "Senoo-Matsuda",
+                "Affiliation": "Department of Genetics and Development, Columbia University College of Physicians and Surgeons, 701 West 168th Street, HHSC 704, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "16920621",
+        "Title": "Compensatory proliferation in Drosophila imaginal discs requires Dronc-dependent p53 activity.",
+        "Abstract": "The p53 transcription factor directs a transcriptional program that determines whether a cell lives or dies after DNA damage. Animal survival after extensive cellular damage often requires that lost tissue be replaced through compensatory growth or regeneration. In Drosophila, damaged imaginal disc cells can induce the proliferation of neighboring viable cells, but how this is controlled is not clear. Here we provide evidence that Drosophila p53 (dp53) has a previously unidentified role in coordinating the compensatory growth response to tissue damage.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Caspases",
+            "Cell Proliferation",
+            "Drosophila",
+            "Drosophila Proteins",
+            "Extremities",
+            "Flow Cytometry",
+            "Immunohistochemistry",
+            "Larva",
+            "Morphogenesis",
+            "Regeneration",
+            "Tumor Suppressor Protein p53"
+        ],
+        "Authors": [
+            {
+                "First Name": "Brent S",
+                "Last Name": "Wells",
+                "Affiliation": "Department of Genetics and Development, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Eri",
+                "Last Name": "Yoshida",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current biology : CB",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16916612",
+        "Title": "Myc in model organisms: a view from the flyroom.",
+        "Abstract": "The Myc transcription factor regulates fundamental processes in a cell's life: its growth, division, and survival. Myc is conserved throughout metazoan phyla, and its identification in the fruit fly, Drosophila melanogaster has led to new insights in Myc's physiological roles. In this review, we describe recent research on the biology of Myc and its family members in Drosophila, paying particular attention to its role in the control of growth during development.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Animals, Genetically Modified",
+            "Drosophila Proteins",
+            "Drosophila melanogaster",
+            "Gene Expression Regulation, Developmental",
+            "Proto-Oncogene Proteins c-myc",
+            "Signal Transduction",
+            "Trans-Activators"
+        ],
+        "Authors": [
+            {
+                "First Name": "Claire",
+                "Last Name": "de la Cova",
+                "Affiliation": "Department of Genetics & Development, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Seminars in cancer biology",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16887009",
+        "Title": "The proximate determinants of insect size.",
+        "Abstract": "One of the least understood aspects of animal development--the determination of body size--is currently the subject of intense scrutiny. A new study employs a modeling approach to expose the factors that matter in the control of insect size.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Body Size",
+            "Insecta",
+            "Models, Biological"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joseph",
+                "Last Name": "Parker",
+                "Affiliation": "Department of Genetics and Development, College of Physicians and Surgeons, Columbia University, 701 West 168th Street, New York, NY 10032, USA. lj180@columbia.edu"
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of biology",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "15707885",
+        "Title": "Regeneration and transdetermination: new tricks from old cells.",
+        "Abstract": "In this issue of Cell, Sustar and Schubiger (2005) address a longstanding question in regeneration biology: How is pluripotency achieved during regeneration? The authors have examined the cell cycle and growth characteristics of multipotent regenerating and transdetermining Drosophila cells and come up with some surprising findings.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Cycle",
+            "Cell Differentiation",
+            "Cell Lineage",
+            "Drosophila melanogaster",
+            "Epithelial Cells",
+            "Extremities",
+            "Gene Expression Regulation, Developmental",
+            "Pluripotent Stem Cells",
+            "Regeneration"
+        ],
+        "Authors": [
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": "Department of Genetics & Development, Columbia University College of Physicians & Surgeons, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15066286",
+        "Title": "Drosophila myc regulates organ size by inducing cell competition.",
+        "Abstract": "Experiments in both vertebrates and invertebrates have illustrated the competitive nature of growth and led to the idea that competition is a mechanism of regulating organ and tissue size. We have assessed competitive interactions between cells in a developing organ and examined their effect on its final size. We show that local expression of the Drosophila growth regulator dMyc, a homolog of the c-myc protooncogene, induces cell competition and leads to the death of nearby wild-type cells in developing wings. We demonstrate that cell competition is executed via induction of the proapoptotic gene hid and that both competition and hid function are required for the wing to reach an appropriate size when dMyc is expressed. Moreover, we provide evidence that reproducible wing size during normal development requires apoptosis. Modulating dmyc levels to create cell competition and hid-dependent cell death may be a mechanism used during normal development to control organ size.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Apoptosis",
+            "Body Patterning",
+            "Body Weight",
+            "Cell Communication",
+            "Cell Differentiation",
+            "Cells, Cultured",
+            "Clone Cells",
+            "DNA-Binding Proteins",
+            "Drosophila Proteins",
+            "Drosophila melanogaster",
+            "Gene Expression Regulation, Developmental",
+            "Morphogenesis",
+            "Neuropeptides",
+            "Organogenesis",
+            "Transcription Factors",
+            "Wings, Animal"
+        ],
+        "Authors": [
+            {
+                "First Name": "Claire",
+                "Last Name": "de la Cova",
+                "Affiliation": "Department of Genetics and Development, College of Physicians and Surgeons, Columbia University, 701 West 168th Street, Room 704, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Mauricio",
+                "Last Name": "Abril",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paola",
+                "Last Name": "Bellosta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Gallant",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "15001704",
+        "Title": "Repression of dMyc expression by Wingless promotes Rbf-induced G1 arrest in the presumptive Drosophila wing margin.",
+        "Abstract": "Little is known about how patterns of cell proliferation and arrest are generated during development, a time when tight regulation of the cell cycle is necessary. In this study, the mechanism by which the developmental signaling molecule Wingless (Wg) generates G(1) arrest in the presumptive Drosophila wing margin is examined in detail. Wg signaling promotes activity of the Drosophila retinoblastoma family (Rbf) protein, which is required for G(1) arrest in the presumptive wing margin. Wg promotes Rbf function by repressing expression of the G(1)-S regulator Drosophila myc (dmyc). Ectopic expression of dMyc induces expression of Cyclin E, Cyclin D, and Cdk4, which can inhibit Rbf and promote G(1)-S progression. Thus, G(1) arrest in the presumptive wing margin depends on the presence of Rbf, which is maintained by the ability of Wg signaling to repress dmyc expression in these cells. In addition to advancing the understanding of how patterned cell-cycle arrest is generated by the Wg signaling molecule during development, this study indicates that components of the Rbf/E2f pathway are targets of dMyc in Drosophila. Although Rbf/E2f pathway components mediate the ability of dMyc to promote G(1) progression, dMyc appears to regulate growth independently of the RBF/E2f pathway.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cyclin-Dependent Kinase 4",
+            "Cyclin-Dependent Kinases",
+            "Cyclins",
+            "DNA-Binding Proteins",
+            "Drosophila",
+            "Drosophila Proteins",
+            "G1 Phase",
+            "Proto-Oncogene Proteins",
+            "Retinoblastoma Protein",
+            "Transcription Factors",
+            "Wings, Animal",
+            "Wnt1 Protein"
+        ],
+        "Authors": [
+            {
+                "First Name": "Molly",
+                "Last Name": "Duman-Scheel",
+                "Affiliation": "Ben May Institute for Cancer Research and Center for Molecular Oncology, University of Chicago, 924 East 57th Street, Chicago, IL 60637, USA."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wei",
+                "Last Name": "Du",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "12942089",
+        "Title": "Wingless promotes cell survival but constrains growth during Drosophila wing development.",
+        "Abstract": "During animal development, organs grow to a fixed size and shape. Organ development typically begins with a rapid growth phase followed by a gradual decline in growth rate as the organ matures, but the regulation of either stage of growth remains unclear. The Wnt/Wingless (Wg) proteins are critical for patterning most animal organs, have diverse effects on development and have been proposed to promote organ growth. Here we report that contrary to this view, Wg activity actually constrains wing growth during Drosophila melanogaster wing development. In addition, we demonstrate that Wg is required for wing cell survival, particularly during the rapid growth phase of wing development. We propose that the cell-survival- and growth-constraining activities of Wg function to sculpt and delimit final wing size as part of its overall patterning programme.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Body Patterning",
+            "Cell Differentiation",
+            "Cell Survival",
+            "Cells, Cultured",
+            "Drosophila Proteins",
+            "Drosophila melanogaster",
+            "Feedback, Physiological",
+            "Gene Expression Regulation, Developmental",
+            "Larva",
+            "Proto-Oncogene Proteins",
+            "Signal Transduction",
+            "Wings, Animal",
+            "Wnt1 Protein"
+        ],
+        "Authors": [
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": "Department of Genetics & Development, College of Physicians & Surgeons Columbia University 701 West 168th Street, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Angela L",
+                "Last Name": "Sanders",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature cell biology",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "11782950",
+        "Title": "Control of growth and organ size in Drosophila.",
+        "Abstract": "Transplantation experiments have shown that developing metazoan organs carry intrinsic information about their size and shape. Organ and body size are also sensitive to extrinsic cues provided by the environment, such as the availability of nutrients. The genetic and molecular pathways that contribute to animal size and shape are numerous, yet how they cooperate to control growth is mysterious. The recent identification and characterization of several mutations affecting growth in Drosophila melanogaster promises to provide insights. Many of these mutations affect the extrinsic control of animal size; others affect the organ-intrinsic control of pattern and size. In this review, we summarize the characteristics of some of these mutations and their roles in growth and size control. In addition, we speculate about possible connections between the extrinsic and intrinsic pathways controlling growth and pattern.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Body Patterning",
+            "Cell Communication",
+            "Cell Cycle",
+            "Drosophila melanogaster",
+            "Humans",
+            "Ligands",
+            "Models, Biological",
+            "Proto-Oncogene Proteins c-myc",
+            "Receptor, Insulin",
+            "Signal Transduction",
+            "Wings, Animal"
+        ],
+        "Authors": [
+            {
+                "First Name": "Laura A",
+                "Last Name": "Johnston",
+                "Affiliation": "Columbia University, Department of Genetics & Development, 701 West 168th Street, New York, NY, USA. lj180@columbia.edu"
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Gallant",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BioEssays : news and reviews in molecular, cellular and developmental biology",
+        "PubDate": "2002"
+    }
+]

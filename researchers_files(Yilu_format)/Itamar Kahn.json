@@ -1,0 +1,2100 @@
+[
+    {
+        "PMID": "36703722",
+        "Title": "Leveraging genetic diversity in mice to inform individual differences in brain microstructure and memory.",
+        "Abstract": "In human Alzheimer's disease (AD) patients and AD mouse models, both differential pre-disease brain features and differential disease-associated memory decline are observed, suggesting that certain neurological features may protect against AD-related cognitive decline. The combination of these features is known as brain reserve, and understanding the genetic underpinnings of brain reserve may advance AD treatment in genetically diverse human populations. One potential source of brain reserve is brain microstructure, which is genetically influenced and can be measured with diffusion MRI (dMRI). To investigate variation of dMRI metrics in pre-disease-onset, genetically diverse AD mouse models, we utilized a population of genetically distinct AD mice produced by crossing the 5XFAD transgenic mouse model of AD to 3 inbred strains (C57BL/6J, DBA/2J, FVB/NJ) and two wild-derived strains (CAST/EiJ, WSB/EiJ). At 3 months of age, these mice underwent diffusion magnetic resonance imaging (dMRI) to probe neural microanatomy in 83 regions of interest (ROIs). At 5 months of age, these mice underwent contextual fear conditioning (CFC). Strain had a significant effect on dMRI measures in most ROIs tested, while far fewer effects of sex, sex*strain interactions, or strain*sex*5XFAD genotype interactions were observed. A main effect of 5XFAD genotype was observed in only 1 ROI, suggesting that the 5XFAD transgene does not strongly disrupt neural development or microstructure of mice in early adulthood. Strain also explained the most variance in mouse baseline motor activity and long-term fear memory. Additionally, significant effects of sex and strain*sex interaction were observed on baseline motor activity, and significant strain*sex and sex*5XFAD genotype interactions were observed on long-term memory. We are the first to study the genetic influences of brain microanatomy in genetically diverse AD mice. Thus, we demonstrated that strain is the primary factor influencing brain microstructure in young adult AD mice and that neural development and early adult microstructure are not strongly altered by the 5XFAD transgene. We also demonstrated that strain, sex, and 5XFAD genotype interact to influence memory in genetically diverse adult mice. Our results support the usefulness of the 5XFAD mouse model and convey strong relationships between natural genetic variation, brain microstructure, and memory.",
+        "Keywords": [
+            "5XFAD",
+            "Alzheimer\u2019s disease",
+            "DTI",
+            "NODDI",
+            "brain reserve",
+            "diffusion MRI (dMRI)",
+            "genetic diversity",
+            "memory"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Thomas J",
+                "Last Name": "Murdy",
+                "Affiliation": "The Jackson Laboratory, Bar Harbor, ME, United States."
+            },
+            {
+                "First Name": "Amy R",
+                "Last Name": "Dunn",
+                "Affiliation": "The Jackson Laboratory, Bar Harbor, ME, United States."
+            },
+            {
+                "First Name": "Surjeet",
+                "Last Name": "Singh",
+                "Affiliation": "The Jackson Laboratory, Bar Harbor, ME, United States."
+            },
+            {
+                "First Name": "Maria A",
+                "Last Name": "Telpoukhovskaia",
+                "Affiliation": "The Jackson Laboratory, Bar Harbor, ME, United States."
+            },
+            {
+                "First Name": "Shanrong",
+                "Last Name": "Zhang",
+                "Affiliation": "The Jackson Laboratory, Bar Harbor, ME, United States."
+            },
+            {
+                "First Name": "Jacqueline K",
+                "Last Name": "White",
+                "Affiliation": "The Jackson Laboratory, Bar Harbor, ME, United States."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Department of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Marcelo",
+                "Last Name": "Febo",
+                "Affiliation": "Department of Neuroscience, University of Florida College of Medicine, Gainesville, FL, United States."
+            },
+            {
+                "First Name": "Catherine C",
+                "Last Name": "Kaczorowski",
+                "Affiliation": "The Jackson Laboratory, Bar Harbor, ME, United States."
+            }
+        ],
+        "Journal": "Frontiers in behavioral neuroscience",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "36355048",
+        "Title": "Structural brain connectivity predicts early acute pain after mild traumatic brain injury.",
+        "Abstract": "Mild traumatic brain injury (mTBI), is a leading cause of disability worldwide, with acute pain manifesting as one of its most debilitating symptoms. Understanding acute postinjury pain is important because it is a strong predictor of long-term outcomes. In this study, we imaged the brains of 157 patients with mTBI, following a motorized vehicle collision. We extracted white matter structural connectivity networks and used a machine learning approach to predict acute pain. Stronger white matter tracts within the sensorimotor, thalamiccortical, and default-mode systems predicted 20% of the variance in pain severity within 72 hours of the injury. This result generalized in 2 independent groups: 39 mTBI patients and 13 mTBI patients without whiplash symptoms. White matter measures collected at 6 months after the collision still predicted mTBI pain at that timepoint (n = 36). These white matter connections were associated with 2 nociceptive psychophysical outcomes tested at a remote body site-namely, conditioned pain modulation and magnitude of suprathreshold pain-and with pain sensitivity questionnaire scores. Our findings demonstrate a stable white matter network, the properties of which determine an important amount of pain experienced after acute injury, pinpointing a circuitry engaged in the transformation and amplification of nociceptive inputs to pain perception.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Brain Concussion",
+            "Acute Pain",
+            "Brain",
+            "White Matter",
+            "Pain Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Paulo",
+                "Last Name": "Branco",
+                "Affiliation": "Department of Neuroscience, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States."
+            },
+            {
+                "First Name": "Noam",
+                "Last Name": "Bosak",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Jannis",
+                "Last Name": "Bielefeld",
+                "Affiliation": "Department of Neuroscience, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States."
+            },
+            {
+                "First Name": "Olivia",
+                "Last Name": "Cong",
+                "Affiliation": "Department of Neuroscience, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States."
+            },
+            {
+                "First Name": "Yelena",
+                "Last Name": "Granovsky",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Department of Neuroscience and Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Yarnitsky",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "A Vania",
+                "Last Name": "Apkarian",
+                "Affiliation": "Department of Neuroscience, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States."
+            }
+        ],
+        "Journal": "Pain",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36082761",
+        "Title": "Brain Connectivity Predicts Chronic Pain in Acute Mild Traumatic Brain Injury.",
+        "Abstract": "Previous studies have established the role of the cortico-mesolimbic and descending pain modulation systems in chronic pain prediction. Mild traumatic brain injury (mTBI) is an acute pain model where chronic pain is prevalent and complicated for prediction. In this study, we set out to study whether functional connectivity (FC) of the nucleus accumbens (NAc) and the periaqueductal gray matter (PAG) is predictive of pain chronification in early-acute mTBI.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Brain Concussion",
+            "Chronic Pain",
+            "Brain",
+            "Periaqueductal Gray",
+            "Brain Mapping"
+        ],
+        "Authors": [
+            {
+                "First Name": "Noam",
+                "Last Name": "Bosak",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Paulo",
+                "Last Name": "Branco",
+                "Affiliation": "Department of Neuroscience, Northwestern University Medical School, Chicago, IL."
+            },
+            {
+                "First Name": "Pora",
+                "Last Name": "Kuperman",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Chen",
+                "Last Name": "Buxbaum",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Ruth Manor",
+                "Last Name": "Cohen",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Shiri",
+                "Last Name": "Fadel",
+                "Affiliation": "Department of Neurology, Rambam Health Care Campus, Haifa, Israel."
+            },
+            {
+                "First Name": "Rabab",
+                "Last Name": "Zubeidat",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Rafi",
+                "Last Name": "Hadad",
+                "Affiliation": "Department of Neurology, Rambam Health Care Campus, Haifa, Israel."
+            },
+            {
+                "First Name": "Amir",
+                "Last Name": "Lawen",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Noam",
+                "Last Name": "Saadon-Grosman",
+                "Affiliation": "Department of Medical Neurobiology, Faculty of Medicine, The Hebrew University, Jerusalem, Israel."
+            },
+            {
+                "First Name": "Michele",
+                "Last Name": "Sterling",
+                "Affiliation": "RECOVER Injury Research Centre, NHMRC Centre of Research Excellence in Road Traffic Injury Recovery, The University of Queensland, Brisbane, Australia."
+            },
+            {
+                "First Name": "Yelena",
+                "Last Name": "Granovsky",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Apkar Vania",
+                "Last Name": "Apkarian",
+                "Affiliation": "Department of Neuroscience, Northwestern University Medical School, Chicago, IL."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Yarnitsky",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            }
+        ],
+        "Journal": "Annals of neurology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34974525",
+        "Title": "The default network is causally linked to creative thinking.",
+        "Abstract": "Creative thinking represents a major evolutionary mechanism that greatly contributed to the rapid advancement of the human species. The ability to produce novel and useful ideas, or original thinking, is thought to correlate well with unexpected, synchronous activation of several large-scale, dispersed cortical networks, such as the default network (DN). Despite a\u00a0vast amount of correlative evidence, a causal link between default network and creativity has yet to be demonstrated. Surgeries for resection of brain tumors that lie in proximity to speech related areas are performed while the patient is awake to map the exposed cortical surface for language functions. Such operations provide a unique opportunity to explore human behavior while disrupting a focal cortical area via focal electrical stimulation. We used a novel paradigm of individualized direct cortical stimulation to examine the association between creative thinking and the DN. Preoperative resting-state fMRI was used to map the DN in individual patients. A cortical area identified as a DN node (study) or outside the DN (controls) was stimulated while the participants performed an alternate-uses-task (AUT). This task measures divergent thinking through the number and originality of different uses provided for an everyday object. Baseline AUT performance in the operating room was positively correlated with DN integrity. Direct cortical stimulation at the DN node resulted in decreased ability to produce alternate uses, but not in the originality of uses produced. Stimulation in areas that when used as network seed regions produced a network similar to the canonical DN was associated with reduction of creative fluency. Stimulation of areas that did not produce a default-like network (controls) did not alter creative thinking. This is the first study to causally link the DN and creative thinking.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Brain",
+            "Brain Mapping",
+            "Cognition",
+            "Creativity",
+            "Humans",
+            "Magnetic Resonance Imaging"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ben",
+                "Last Name": "Shofty",
+                "Affiliation": "Department of Neurosurgery, Tel Aviv Sourasky Medical Center and The Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel. Shoftyben@gmail.com."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Gonen",
+                "Affiliation": "Department of Neurosurgery, Tel Aviv Sourasky Medical Center and The Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel."
+            },
+            {
+                "First Name": "Eyal",
+                "Last Name": "Bergmann",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine and Institute, Technion-Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Naama",
+                "Last Name": "Mayseless",
+                "Affiliation": "Department of Psychology, University of Haifa, Haifa, Israel."
+            },
+            {
+                "First Name": "Akiva",
+                "Last Name": "Korn",
+                "Affiliation": "Department of Neurosurgery, Tel Aviv Sourasky Medical Center and The Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel."
+            },
+            {
+                "First Name": "Simone",
+                "Last Name": "Shamay-Tsoory",
+                "Affiliation": "Department of Psychology, University of Haifa, Haifa, Israel."
+            },
+            {
+                "First Name": "Rachel",
+                "Last Name": "Grossman",
+                "Affiliation": "Department of Neurosurgery, Tel Aviv Sourasky Medical Center and The Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Jalon",
+                "Affiliation": "Functional Brain Center, Wohl Institute for Advanced Imaging, Tel Aviv Sourasky Medical Center, and The Sagol Center for Neuroscience, Tel Aviv University, Tel Aviv, Israel."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine and Institute, Technion-Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Zvi",
+                "Last Name": "Ram",
+                "Affiliation": "Department of Neurosurgery, Tel Aviv Sourasky Medical Center and The Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel."
+            }
+        ],
+        "Journal": "Molecular psychiatry",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34731649",
+        "Title": "Toward next-generation primate neuroscience: A collaboration-based strategic plan for integrative neuroimaging.",
+        "Abstract": "Open science initiatives are creating opportunities to increase research coordination and impact in nonhuman primate (NHP) imaging. The PRIMatE Data and Resource Exchange community recently developed a collaboration-based strategic plan to advance NHP imaging as an integrative approach for multiscale neuroscience.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Neuroimaging",
+            "Neurosciences",
+            "Primates"
+        ],
+        "Authors": [
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "33753721",
+        "Title": "Structural and functional brain-wide alterations in A350V Iqsec2 mutant mice displaying autistic-like behavior.",
+        "Abstract": "IQSEC2 is an X-linked gene that is associated with autism spectrum disorder (ASD), intellectual disability, and epilepsy. IQSEC2 is a postsynaptic density protein, localized on excitatory synapses as part of the NMDA receptor complex and is suggested to play a role in AMPA receptor trafficking and mediation of long-term depression. Here, we present brain-wide structural volumetric and functional connectivity characterization in a novel mouse model with a missense mutation in the IQ domain of IQSEC2 (A350V). Using high-resolution structural and functional MRI, we show that animals with the A350V mutation display increased whole-brain volume which was further found to be specific to the cerebral cortex and hippocampus. Moreover, using a data-driven approach we identify putative alterations in structure-function relations of the frontal, auditory, and visual networks in A350V mice. Examination of these alterations revealed an increase in functional connectivity between the anterior cingulate cortex and the dorsomedial striatum. We also show that corticostriatal functional connectivity is correlated with individual variability in social behavior only in A350V mice, as assessed using the three-chamber social preference test. Our results at the systems-level bridge the impact of previously reported changes in AMPA receptor trafficking to network-level disruption and impaired social behavior. Further, the A350V mouse model recapitulates similarly reported brain-wide changes in other ASD mouse models, with substantially different cellular-level pathologies that nonetheless result in similar brain-wide alterations, suggesting that novel therapeutic approaches in ASD that result in systems-level rescue will be relevant to IQSEC2 mutations.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Autism Spectrum Disorder",
+            "Autistic Disorder",
+            "Brain",
+            "Guanine Nucleotide Exchange Factors",
+            "Intellectual Disability",
+            "Magnetic Resonance Imaging",
+            "Mice",
+            "Nerve Tissue Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Daniela",
+                "Last Name": "Lichtman",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, Haifa, 31096, Israel."
+            },
+            {
+                "First Name": "Eyal",
+                "Last Name": "Bergmann",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, Haifa, 31096, Israel."
+            },
+            {
+                "First Name": "Alexandra",
+                "Last Name": "Kavushansky",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, Haifa, 31096, Israel."
+            },
+            {
+                "First Name": "Nadav",
+                "Last Name": "Cohen",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, Haifa, 31096, Israel."
+            },
+            {
+                "First Name": "Nina S",
+                "Last Name": "Levy",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, Haifa, 31096, Israel."
+            },
+            {
+                "First Name": "Andrew P",
+                "Last Name": "Levy",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, Haifa, 31096, Israel. alevy@technion.ac.il."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, Haifa, 31096, Israel. kahn@technion.ac.il."
+            }
+        ],
+        "Journal": "Translational psychiatry",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33277621",
+        "Title": "Individual variability in functional connectivity architecture of the mouse brain.",
+        "Abstract": "In recent years precision fMRI has emerged in human brain research, demonstrating characterization of individual differences in brain organization. However, mechanistic investigations to the sources of individual variability are limited in humans and thus require animal models. Here, we used resting-state fMRI in awake mice to quantify the contribution of individual variation to the functional architecture of the mouse cortex. We found that the mouse connectome is also characterized by stable individual features that support connectivity-based identification. Unlike in humans, we found that individual variation is homogeneously distributed in sensory and association networks. Finally, connectome-based predictive modeling of motor behavior in the rotarod task revealed that individual variation in functional connectivity explained behavioral variability. Collectively, these results establish the feasibility of precision fMRI in mice and lay the foundation for future mechanistic investigations of individual brain organization and pre-clinical studies of brain disorders in the context of personalized medicine.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "Magnetic Resonance Imaging",
+            "Mice",
+            "Motor Activity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eyal",
+                "Last Name": "Bergmann",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Xenia",
+                "Last Name": "Gofman",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Alexandra",
+                "Last Name": "Kavushansky",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel. kahn@technion.ac.il."
+            }
+        ],
+        "Journal": "Communications biology",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32839340",
+        "Title": "Brain-wide structural and functional disruption in mice with oligodendrocyte-specific ",
+        "Abstract": "Neurofibromin gene (",
+        "Keywords": [
+            "NF1",
+            "connectome",
+            "oligodendrocytes",
+            "resting state"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "Gene Deletion",
+            "Magnetic Resonance Imaging",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Myelin Sheath",
+            "Neurofibromin 1",
+            "Nitric Oxide",
+            "Nitric Oxide Synthase",
+            "Oligodendroglia"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jad",
+                "Last Name": "Asleh",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine and Institute, Technion-Israel Institute of Technology, 3525422 Haifa, Israel."
+            },
+            {
+                "First Name": "Ben",
+                "Last Name": "Shofty",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine and Institute, Technion-Israel Institute of Technology, 3525422 Haifa, Israel."
+            },
+            {
+                "First Name": "Nadav",
+                "Last Name": "Cohen",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine and Institute, Technion-Israel Institute of Technology, 3525422 Haifa, Israel."
+            },
+            {
+                "First Name": "Alexandra",
+                "Last Name": "Kavushansky",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine and Institute, Technion-Israel Institute of Technology, 3525422 Haifa, Israel."
+            },
+            {
+                "First Name": "Alejandro",
+                "Last Name": "L\u00f3pez-Ju\u00e1rez",
+                "Affiliation": "Division of Experimental Hematology and Cancer Biology, Cincinnati Children's Hospital Medical Center, University of Cincinnati College of Medicine, Cincinnati, OH 45229."
+            },
+            {
+                "First Name": "Shlomi",
+                "Last Name": "Constantini",
+                "Affiliation": "Department of Pediatric Neurosurgery and Gilbert Israeli NF Center, Tel Aviv Medical Center, and Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv 6423906, Israel."
+            },
+            {
+                "First Name": "Nancy",
+                "Last Name": "Ratner",
+                "Affiliation": "Division of Experimental Hematology and Cancer Biology, Cincinnati Children's Hospital Medical Center, University of Cincinnati College of Medicine, Cincinnati, OH 45229 Nancy.Ratner@cchmc.org kahn@technion.ac.il."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine and Institute, Technion-Israel Institute of Technology, 3525422 Haifa, Israel; Nancy.Ratner@cchmc.org kahn@technion.ac.il."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31909701",
+        "Title": "Tremor Relief and Structural Integrity after MRI-guided Focused US Thalamotomy in Tremor Disorders.",
+        "Abstract": "Background MRI-guided focused US thalamotomy of ventral intermediate nucleus of the thalamus is a treatment for tremor disorders. Purpose To evaluate white matter integrity before and after thalamotomy and its correlation with clinical outcome. Materials and Methods Participants with essential tremor (ET) or Parkinson disease (PD) undergoing thalamotomy were prospectively recruited between March 2016 and October 2018. Tremor and quality of life were assessed before, 1 month after, and 6 months after thalamotomy. Participants underwent T1-weighted, T2-weighted fluid-attenuated image recovery, and diffusion-tensor MRI before and 1 day, 7-10 days, 1-3 months, and 6 months or longer after treatment. Diffusivity and fiber tractography measures were calculated. Repeated measures analysis of variance with post hoc paired ",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aged",
+            "Brain",
+            "Essential Tremor",
+            "Female",
+            "High-Intensity Focused Ultrasound Ablation",
+            "Humans",
+            "Magnetic Resonance Imaging, Interventional",
+            "Male",
+            "Middle Aged",
+            "Prospective Studies",
+            "Thalamus",
+            "Treatment Outcome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gil",
+                "Last Name": "Zur",
+                "Affiliation": "From the Department of Neuroscience, Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, 1 Efron St, Haifa 31096, Israel (G.Z., O.H.L.S., I.K., M.Z.); Departments of Radiology (G.Z., O.H.L.S., D.G., A.E.), Neurology (I.S.), and Neurosurgery (A.S., M.Z.), Rambam Health Care Campus, Haifa, Israel; Department of Neurobiology, Faculty of Life Science, Tel Aviv University, Tel Aviv, Israel (Y.A.); and Memory and Aging Center, Department of Neurology, University of California-San Francisco, San Francisco, Calif (O.H.L.S.)."
+            },
+            {
+                "First Name": "Orit H",
+                "Last Name": "Lesman-Segev",
+                "Affiliation": "From the Department of Neuroscience, Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, 1 Efron St, Haifa 31096, Israel (G.Z., O.H.L.S., I.K., M.Z.); Departments of Radiology (G.Z., O.H.L.S., D.G., A.E.), Neurology (I.S.), and Neurosurgery (A.S., M.Z.), Rambam Health Care Campus, Haifa, Israel; Department of Neurobiology, Faculty of Life Science, Tel Aviv University, Tel Aviv, Israel (Y.A.); and Memory and Aging Center, Department of Neurology, University of California-San Francisco, San Francisco, Calif (O.H.L.S.)."
+            },
+            {
+                "First Name": "Ilana",
+                "Last Name": "Schlesinger",
+                "Affiliation": "From the Department of Neuroscience, Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, 1 Efron St, Haifa 31096, Israel (G.Z., O.H.L.S., I.K., M.Z.); Departments of Radiology (G.Z., O.H.L.S., D.G., A.E.), Neurology (I.S.), and Neurosurgery (A.S., M.Z.), Rambam Health Care Campus, Haifa, Israel; Department of Neurobiology, Faculty of Life Science, Tel Aviv University, Tel Aviv, Israel (Y.A.); and Memory and Aging Center, Department of Neurology, University of California-San Francisco, San Francisco, Calif (O.H.L.S.)."
+            },
+            {
+                "First Name": "Dorith",
+                "Last Name": "Goldsher",
+                "Affiliation": "From the Department of Neuroscience, Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, 1 Efron St, Haifa 31096, Israel (G.Z., O.H.L.S., I.K., M.Z.); Departments of Radiology (G.Z., O.H.L.S., D.G., A.E.), Neurology (I.S.), and Neurosurgery (A.S., M.Z.), Rambam Health Care Campus, Haifa, Israel; Department of Neurobiology, Faculty of Life Science, Tel Aviv University, Tel Aviv, Israel (Y.A.); and Memory and Aging Center, Department of Neurology, University of California-San Francisco, San Francisco, Calif (O.H.L.S.)."
+            },
+            {
+                "First Name": "Alon",
+                "Last Name": "Sinai",
+                "Affiliation": "From the Department of Neuroscience, Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, 1 Efron St, Haifa 31096, Israel (G.Z., O.H.L.S., I.K., M.Z.); Departments of Radiology (G.Z., O.H.L.S., D.G., A.E.), Neurology (I.S.), and Neurosurgery (A.S., M.Z.), Rambam Health Care Campus, Haifa, Israel; Department of Neurobiology, Faculty of Life Science, Tel Aviv University, Tel Aviv, Israel (Y.A.); and Memory and Aging Center, Department of Neurology, University of California-San Francisco, San Francisco, Calif (O.H.L.S.)."
+            },
+            {
+                "First Name": "Menashe",
+                "Last Name": "Zaaroor",
+                "Affiliation": "From the Department of Neuroscience, Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, 1 Efron St, Haifa 31096, Israel (G.Z., O.H.L.S., I.K., M.Z.); Departments of Radiology (G.Z., O.H.L.S., D.G., A.E.), Neurology (I.S.), and Neurosurgery (A.S., M.Z.), Rambam Health Care Campus, Haifa, Israel; Department of Neurobiology, Faculty of Life Science, Tel Aviv University, Tel Aviv, Israel (Y.A.); and Memory and Aging Center, Department of Neurology, University of California-San Francisco, San Francisco, Calif (O.H.L.S.)."
+            },
+            {
+                "First Name": "Yaniv",
+                "Last Name": "Assaf",
+                "Affiliation": "From the Department of Neuroscience, Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, 1 Efron St, Haifa 31096, Israel (G.Z., O.H.L.S., I.K., M.Z.); Departments of Radiology (G.Z., O.H.L.S., D.G., A.E.), Neurology (I.S.), and Neurosurgery (A.S., M.Z.), Rambam Health Care Campus, Haifa, Israel; Department of Neurobiology, Faculty of Life Science, Tel Aviv University, Tel Aviv, Israel (Y.A.); and Memory and Aging Center, Department of Neurology, University of California-San Francisco, San Francisco, Calif (O.H.L.S.)."
+            },
+            {
+                "First Name": "Ayelet",
+                "Last Name": "Eran",
+                "Affiliation": "From the Department of Neuroscience, Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, 1 Efron St, Haifa 31096, Israel (G.Z., O.H.L.S., I.K., M.Z.); Departments of Radiology (G.Z., O.H.L.S., D.G., A.E.), Neurology (I.S.), and Neurosurgery (A.S., M.Z.), Rambam Health Care Campus, Haifa, Israel; Department of Neurobiology, Faculty of Life Science, Tel Aviv University, Tel Aviv, Israel (Y.A.); and Memory and Aging Center, Department of Neurology, University of California-San Francisco, San Francisco, Calif (O.H.L.S.)."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "From the Department of Neuroscience, Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, 1 Efron St, Haifa 31096, Israel (G.Z., O.H.L.S., I.K., M.Z.); Departments of Radiology (G.Z., O.H.L.S., D.G., A.E.), Neurology (I.S.), and Neurosurgery (A.S., M.Z.), Rambam Health Care Campus, Haifa, Israel; Department of Neurobiology, Faculty of Life Science, Tel Aviv University, Tel Aviv, Israel (Y.A.); and Memory and Aging Center, Department of Neurology, University of California-San Francisco, San Francisco, Calif (O.H.L.S.)."
+            }
+        ],
+        "Journal": "Radiology",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31826956",
+        "Title": "Individual structural features constrain the mouse functional connectome.",
+        "Abstract": "Whole brain dynamics intuitively depend upon the internal wiring of the brain; but to which extent the individual structural connectome constrains the corresponding functional connectome is unknown, even though its importance is uncontested. After acquiring structural data from individual mice, we virtualized their brain networks and simulated in silico functional MRI data. Theoretical results were validated against empirical awake functional MRI data obtained from the same mice. We demonstrate that individual structural connectomes predict the functional organization of individual brains. Using a virtual mouse brain derived from the Allen Mouse Brain Connectivity Atlas, we further show that the dominant predictors of individual structure-function relations are the asymmetry and the weights of the structural links. Model predictions were validated experimentally using tracer injections, identifying which missing connections (not measurable with diffusion MRI) are important for whole brain dynamics in the mouse. Individual variations thus define a specific structural fingerprint with direct impact upon the functional organization of individual brains, a key feature for personalized medicine.",
+        "Keywords": [
+            "MRI",
+            "connectome",
+            "large-scale model",
+            "resting state"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Francesca",
+                "Last Name": "Melozzi",
+                "Affiliation": "Aix Marseille Univ, Inserm, INS, Institut de Neurosciences des Syst\u00e8mes, Marseille, France."
+            },
+            {
+                "First Name": "Eyal",
+                "Last Name": "Bergmann",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, Haifa, 31096, Israel."
+            },
+            {
+                "First Name": "Julie A",
+                "Last Name": "Harris",
+                "Affiliation": "Allen Institute for Brain Science, Seattle, WA 98109."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, Haifa, 31096, Israel."
+            },
+            {
+                "First Name": "Viktor",
+                "Last Name": "Jirsa",
+                "Affiliation": "Aix Marseille Univ, Inserm, INS, Institut de Neurosciences des Syst\u00e8mes, Marseille, France."
+            },
+            {
+                "First Name": "Christophe",
+                "Last Name": "Bernard",
+                "Affiliation": "Aix Marseille Univ, Inserm, INS, Institut de Neurosciences des Syst\u00e8mes, Marseille, France."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31128207",
+        "Title": "Autism-associated Nf1 deficiency disrupts corticocortical and corticostriatal functional connectivity in human and mouse.",
+        "Abstract": "Children with the autosomal dominant single gene disorder, neurofibromatosis type 1 (NF1), display multiple structural and functional changes in the central nervous system, resulting in neuropsychological cognitive abnormalities. Here we assessed the pathological functional organization that may underlie the behavioral impairments in NF1 using resting-state functional connectivity MRI. Coherent spontaneous fluctuations in the fMRI signal across the entire brain were used to interrogate the pattern of functional organization of corticocortical and corticostriatal networks in both NF1 pediatric patients and mice with a heterozygous mutation in the Nf1 gene (Nf1",
+        "Keywords": [
+            "ADHD",
+            "Autism",
+            "Mouse model",
+            "Neurofibromatosis type 1",
+            "Pediatric patients",
+            "fMRI"
+        ],
+        "MeSH terms": [
+            "Adolescent",
+            "Animals",
+            "Autistic Disorder",
+            "Brain",
+            "Child",
+            "Disease Models, Animal",
+            "Female",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Mice",
+            "Neural Pathways",
+            "Neurofibromatosis 1"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ben",
+                "Last Name": "Shofty",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine and Institute, Technion - Israel Institute of Technology, Haifa, Israel; The Gilbert Israeli NF Center, Department of Pediatric Neurosurgery, Dana Children's Hospital, Tel Aviv Medical Center, and Tel Aviv University, Tel Aviv, Israel."
+            },
+            {
+                "First Name": "Eyal",
+                "Last Name": "Bergmann",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine and Institute, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Gil",
+                "Last Name": "Zur",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine and Institute, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Jad",
+                "Last Name": "Asleh",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine and Institute, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Noam",
+                "Last Name": "Bosak",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine and Institute, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Alexandra",
+                "Last Name": "Kavushansky",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine and Institute, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "F Xavier",
+                "Last Name": "Castellanos",
+                "Affiliation": "Department of Child and Adolescent Psychiatry, Hassenfeld Children's Hospital at NYU Langone, New York, NY, USA; Nathan Kline Institute for Psychiatric Research, Orangeburg, NY, USA."
+            },
+            {
+                "First Name": "Liat",
+                "Last Name": "Ben-Sira",
+                "Affiliation": "The Gilbert Israeli NF Center, Department of Pediatric Neurosurgery, Dana Children's Hospital, Tel Aviv Medical Center, and Tel Aviv University, Tel Aviv, Israel."
+            },
+            {
+                "First Name": "Roger J",
+                "Last Name": "Packer",
+                "Affiliation": "The Gilbert Family Neurofibromatosis Institute, Children's National Health System, Department of Neurology and Pediatrics, George Washington University, Washington, DC, USA."
+            },
+            {
+                "First Name": "Gilbert L",
+                "Last Name": "Vezina",
+                "Affiliation": "Department of Diagnostic Imaging and Radiology, Children's National Health System, Washington, DC, USA."
+            },
+            {
+                "First Name": "Shlomi",
+                "Last Name": "Constantini",
+                "Affiliation": "The Gilbert Israeli NF Center, Department of Pediatric Neurosurgery, Dana Children's Hospital, Tel Aviv Medical Center, and Tel Aviv University, Tel Aviv, Israel."
+            },
+            {
+                "First Name": "Maria T",
+                "Last Name": "Acosta",
+                "Affiliation": "The Gilbert Family Neurofibromatosis Institute, Children's National Health System, Department of Neurology and Pediatrics, George Washington University, Washington, DC, USA; National Human Genome Research Institute, National Institutes of Health, Bethesda, MD USA."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine and Institute, Technion - Israel Institute of Technology, Haifa, Israel. Electronic address: kahn@technion.ac.il."
+            }
+        ],
+        "Journal": "Neurobiology of disease",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30842726",
+        "Title": "An IQSEC2 Mutation Associated With Intellectual Disability and Autism Results in Decreased Surface AMPA Receptors.",
+        "Abstract": "We have recently described an A350V mutation in IQSEC2 associated with intellectual disability, autism and epilepsy. We sought to understand the molecular pathophysiology of this mutation with the goal of developing targets for drug intervention. We demonstrate here that the A350V mutation results in interference with the binding of apocalmodulin to the IQ domain of IQSEC2. We further demonstrate that this mutation results in constitutive activation of the guanine nucleotide exchange factor (GEF) activity of IQSEC2 resulting in increased production of the active form of Arf6. In a CRISPR generated mouse model of the A350V IQSEC2 mutation, we demonstrate that the surface expression of GluA2 AMPA receptors in mouse hippocampal tissue was significantly reduced in A350V IQSEC2 mutant mice compared to wild type IQSEC2 mice and that there is a significant reduction in basal synaptic transmission in the hippocampus of A350V IQSEC2 mice compared to wild type IQSEC2 mice. Finally, the A350V IQSEC2 mice demonstrated increased activity, abnormal social behavior and learning as compared to wild type IQSEC2 mice. These findings suggest a model of how the A350V mutation in IQSEC2 may mediate disease with implications for targets for drug therapy. These studies provide a paradigm for a personalized approach to precision therapy for a disease that heretofore has no therapy.",
+        "Keywords": [
+            "AMPA",
+            "Arf6",
+            "GEF",
+            "IQ domain",
+            "IQSEC2",
+            "autism",
+            "calmodulin",
+            "intellectual disability"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Eli J",
+                "Last Name": "Rogers",
+                "Affiliation": "Technion Faculty of Medicine, Technion Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Reem",
+                "Last Name": "Jada",
+                "Affiliation": "Technion Faculty of Medicine, Technion Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Kinneret",
+                "Last Name": "Schragenheim-Rozales",
+                "Affiliation": "Technion Faculty of Medicine, Technion Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Megha",
+                "Last Name": "Sah",
+                "Affiliation": "Department of Physiology and Neurobiology, University of Connecticut, Storrs, CT, United States."
+            },
+            {
+                "First Name": "Marisol",
+                "Last Name": "Cortes",
+                "Affiliation": "Department of Neurology, Johns Hopkins University, Baltimore, MD, United States."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Florence",
+                "Affiliation": "Department of Biopharmaceutical Sciences and Department of Cell Biology, Neurobiology and Anatomy, Medical College of Wisconsin, Milwaukee, WI, United States."
+            },
+            {
+                "First Name": "Nina S",
+                "Last Name": "Levy",
+                "Affiliation": "Technion Faculty of Medicine, Technion Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Rachel",
+                "Last Name": "Moss",
+                "Affiliation": "Technion Faculty of Medicine, Technion Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Randall S",
+                "Last Name": "Walikonis",
+                "Affiliation": "Department of Physiology and Neurobiology, University of Connecticut, Storrs, CT, United States."
+            },
+            {
+                "First Name": "Raz",
+                "Last Name": "Palty",
+                "Affiliation": "Technion Faculty of Medicine, Technion Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Reut",
+                "Last Name": "Shalgi",
+                "Affiliation": "Technion Faculty of Medicine, Technion Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Daniela",
+                "Last Name": "Lichtman",
+                "Affiliation": "Technion Faculty of Medicine, Technion Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Alexandra",
+                "Last Name": "Kavushansky",
+                "Affiliation": "Technion Faculty of Medicine, Technion Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Nashaat Z",
+                "Last Name": "Gerges",
+                "Affiliation": "Department of Biopharmaceutical Sciences and Department of Cell Biology, Neurobiology and Anatomy, Medical College of Wisconsin, Milwaukee, WI, United States."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Technion Faculty of Medicine, Technion Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "George K E",
+                "Last Name": "Umanah",
+                "Affiliation": "Department of Neurology, Johns Hopkins University, Baltimore, MD, United States."
+            },
+            {
+                "First Name": "Andrew P",
+                "Last Name": "Levy",
+                "Affiliation": "Technion Faculty of Medicine, Technion Israel Institute of Technology, Haifa, Israel."
+            }
+        ],
+        "Journal": "Frontiers in molecular neuroscience",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30778281",
+        "Title": "Multi-Modal Nano Particle Labeling of Neurons.",
+        "Abstract": "The development of imaging methodologies for single cell measurements over extended timescales of up to weeks, in the intact animal, will depend on signal strength, stability, validity and specificity of labeling. Whereas light-microscopy can achieve these with genetically-encoded probes or dyes, this modality does not allow mesoscale imaging of entire intact tissues. Non-invasive imaging techniques, such as magnetic resonance imaging (MRI), outperform light microscopy in field of view and depth of imaging, but do not offer cellular resolution and specificity, suffer from low signal-to-noise ratio and, in some instances, low temporal resolution. In addition, the origins of the signals measured by MRI are either indirect to the process of interest or hard to validate. It is therefore highly warranted to find means to enhance MRI signals to allow increases in resolution and cellular-specificity. To this end, cell-selective bi-functional magneto-fluorescent contrast agents can provide an elegant solution. Fluorescence provides means for identification of labeled cells and particles location after MRI acquisition, and it can be used to facilitate the design of cell-selective labeling of defined targets. Here we briefly review recent available designs of magneto-fluorescent markers and elaborate on key differences between them with respect to durability and relevant cellular highlighting approaches. We further focus on the potential of intracellular labeling and basic functional sensing MRI, with assays that enable imaging cells at microscopic and mesoscopic scales. Finally, we illustrate the qualities and limitations of the available imaging markers and discuss prospects for ",
+        "Keywords": [
+            "MRI",
+            "contrast agents",
+            "iron oxide nanoparticles",
+            "light microscopy",
+            "magneto fluorescence nanoparticle labeling"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Lilac",
+                "Last Name": "Amirav",
+                "Affiliation": "Schulich Faculty of Chemistry, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Shai",
+                "Last Name": "Berlin",
+                "Affiliation": "Department of Neuroscience, Ruth and Bruce Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Shunit",
+                "Last Name": "Olszakier",
+                "Affiliation": "Schulich Faculty of Chemistry, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Sandip K",
+                "Last Name": "Pahari",
+                "Affiliation": "Schulich Faculty of Chemistry, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Department of Neuroscience, Ruth and Bruce Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            }
+        ],
+        "Journal": "Frontiers in neuroscience",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "29723637",
+        "Title": "Multidimensional co-segmentation of longitudinal brain MRI ensembles in the presence of a neurodegenerative process.",
+        "Abstract": "MRI Segmentation of a pathological brain poses a significant challenge, as the available anatomical priors that provide top-down information to aid segmentation are inadequate in the presence of abnormalities. This problem is further complicated for longitudinal data capturing impaired brain development or neurodegenerative conditions, since the dynamic of brain atrophies has to be considered as well. For these cases, the absence of compatible annotated training examples renders the commonly used multi-atlas or machine-learning approaches impractical. We present a novel segmentation approach that accounts for the lack of labeled data via multi-region multi-subject co-segmentation (MMCoSeg) of longitudinal MRI sequences. The underlying, unknown anatomy is learned throughout an iterative process, in which the segmentation of a region is supported both by the segmentation of the neighboring regions, which share common boundaries, and by the segmentation of corresponding regions, in the other jointly segmented images. A 4D multi-region atlas that models the spatio-temporal deformations and can be adapted to different subjects undergoing similar degeneration processes is reconstructed concurrently. An inducible mouse model of p25 accumulation (the CK-p25 mouse) that displays key pathological hallmarks of Alzheimer disease (AD) is used as a gold-standard to test the proposed algorithm by providing a conditional control of rapid neurodegeneration. Applying the MMCoSeg to a cohort of CK-p25 mice and littermate controls yields promising segmentation results that demonstrate high compatibility with expertise manual annotations. An extensive comparative analysis with respect to current well-established, atlas-based segmentation methods highlights the advantage of the proposed approach, which provides accurate segmentation of longitudinal brain MRIs in pathological conditions, where only very few annotated examples are available.",
+        "Keywords": [
+            "Brain atrophies",
+            "Level sets method",
+            "Longitudinal data",
+            "Mouse brain MRI",
+            "Multi-region co-segmentation",
+            "Neurodegenerative conditions"
+        ],
+        "MeSH terms": [
+            "Alzheimer Disease",
+            "Animals",
+            "Atrophy",
+            "Brain",
+            "Brain Mapping",
+            "Image Processing, Computer-Assisted",
+            "Magnetic Resonance Imaging",
+            "Mice",
+            "Mice, Transgenic",
+            "Neurodegenerative Diseases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Shiri",
+                "Last Name": "Gordon",
+                "Affiliation": "Electrical and Computer Engineering Department and the Zlotowski Center for Neuroscience, Ben-Gurion University of the Negev, Beer-Sheva, Israel."
+            },
+            {
+                "First Name": "Irit",
+                "Last Name": "Dolgopyat",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Tammy",
+                "Last Name": "Riklin Raviv",
+                "Affiliation": "Electrical and Computer Engineering Department and the Zlotowski Center for Neuroscience, Ben-Gurion University of the Negev, Beer-Sheva, Israel. Electronic address: rrtammy@bgu.ac.il."
+            }
+        ],
+        "Journal": "NeuroImage",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28721358",
+        "Title": "Utah optrode array customization using stereotactic brain atlases and 3-D CAD modeling for optogenetic neocortical interrogation in small rodents and nonhuman primates.",
+        "Abstract": "As the optogenetic field expands, the need for precise targeting of neocortical circuits only grows more crucial. This work demonstrates a technique for using Solidworks",
+        "Keywords": [
+            "3-D CAD model",
+            "computer\u2013brain interface",
+            "macaque monkey",
+            "neocortical stimulation",
+            "optical interrogation",
+            "optogenetics"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Ronald W",
+                "Last Name": "Boutte",
+                "Affiliation": "University of Utah, Department of Electrical and Computer Engineering, Salt Lake City, Utah, United States."
+            },
+            {
+                "First Name": "Sam",
+                "Last Name": "Merlin",
+                "Affiliation": "University of Utah, Moran Eye Institute, Department of Ophthalmology, Salt Lake City, Utah, United States."
+            },
+            {
+                "First Name": "Guy",
+                "Last Name": "Yona",
+                "Affiliation": "Technion-Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Brandon",
+                "Last Name": "Griffiths",
+                "Affiliation": "Northrop Grumman Corporation, Salt Lake City, Utah, United States."
+            },
+            {
+                "First Name": "Alessandra",
+                "Last Name": "Angelucci",
+                "Affiliation": "University of Utah, Moran Eye Institute, Department of Ophthalmology, Salt Lake City, Utah, United States."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Technion-Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Shy",
+                "Last Name": "Shoham",
+                "Affiliation": "Technion-Israel Institute of Technology, Haifa, Israel."
+            },
+            {
+                "First Name": "Steve",
+                "Last Name": "Blair",
+                "Affiliation": "University of Utah, Department of Electrical and Computer Engineering, Salt Lake City, Utah, United States."
+            }
+        ],
+        "Journal": "Neurophotonics",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28119599",
+        "Title": "Early Age-Related Functional Connectivity Decline in High-Order Cognitive Networks.",
+        "Abstract": "As the world ages, it becomes urgent to unravel the mechanisms underlying brain aging and find ways of intervening with them. While for decades cognitive aging has been related to localized brain changes, growing attention is now being paid to alterations in distributed brain networks. Functional connectivity magnetic resonance imaging (fcMRI) has become a particularly useful tool to explore large-scale brain networks; yet, the temporal course of connectivity lifetime changes has not been established. Here, an extensive cross-sectional sample (21-85 years old, ",
+        "Keywords": [
+            "MRI",
+            "aging",
+            "brain networks",
+            "functional connectivity",
+            "lifespan",
+            "resting state"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Tali",
+                "Last Name": "Siman-Tov",
+                "Affiliation": "Cognitive Neurology Institute, Rambam Health Care Campus Haifa, Israel."
+            },
+            {
+                "First Name": "Noam",
+                "Last Name": "Bosak",
+                "Affiliation": "Department of Neuroscience, Ruth and Bruce Rappaport Faculty of Medicine, Technion - Israel Institute of Technology Haifa, Israel."
+            },
+            {
+                "First Name": "Elliot",
+                "Last Name": "Sprecher",
+                "Affiliation": "Laboratory of Clinical Neurophysiology, Ruth and Bruce Rappaport Faculty of Medicine, Technion - Israel Institute of TechnologyHaifa, Israel; Department of Neurology, Rambam Health Care CampusHaifa, Israel."
+            },
+            {
+                "First Name": "Rotem",
+                "Last Name": "Paz",
+                "Affiliation": "Cognitive Neurology Institute, Rambam Health Care Campus Haifa, Israel."
+            },
+            {
+                "First Name": "Ayelet",
+                "Last Name": "Eran",
+                "Affiliation": "Department of Diagnostic Imaging, Rambam Health Care Campus Haifa, Israel."
+            },
+            {
+                "First Name": "Judith",
+                "Last Name": "Aharon-Peretz",
+                "Affiliation": "Cognitive Neurology Institute, Rambam Health Care CampusHaifa, Israel; Department of Neurology, Rambam Health Care CampusHaifa, Israel."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Department of Neuroscience, Ruth and Bruce Rappaport Faculty of Medicine, Technion - Israel Institute of Technology Haifa, Israel."
+            }
+        ],
+        "Journal": "Frontiers in aging neuroscience",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27797832",
+        "Title": "The Organization of Mouse and Human Cortico-Hippocampal Networks Estimated by Intrinsic Functional Connectivity.",
+        "Abstract": "While the hippocampal memory system has been relatively conserved across mammals, the cerebral cortex has undergone massive expansion. A central question in brain evolution is how cortical development affected the nature of cortical inputs to the hippocampus. To address this question, we compared cortico-hippocampal connectivity using intrinsic functional connectivity MRI (fcMRI) in awake mice and humans. We found that fcMRI recapitulates anatomical connectivity, demonstrating sensory mapping within the mouse parahippocampal region. Moreover, we identified a similar topographical modality-specific organization along the longitudinal axis of the mouse hippocampus, indicating that sensory information arriving at the hippocampus is only partly integrated. Finally, comparing cortico-hippocampal connectivity across species, we discovered preferential hippocampal connectivity of sensory cortical networks in mice compared with preferential connectivity of association cortical networks in humans. Supporting this observation in humans but not in mice, sensory and association cortical networks are connected to spatially distinct subregions within the parahippocampal region. Collectively, these findings indicate that sensory cortical networks are coupled to the mouse but not the human hippocampal memory system, suggesting that the emergence of expanded and new association areas in humans resulted in the rerouting of cortical information flow and dissociation of primary sensory cortices from the hippocampus.",
+        "Keywords": [
+            "hippocampus",
+            "mammalian brain evolution",
+            "mouse connectivity atlas",
+            "mouse fMRI",
+            "resting state"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Animals",
+            "Atlases as Topic",
+            "Biological Evolution",
+            "Brain Mapping",
+            "Cerebral Cortex",
+            "Female",
+            "Hippocampus",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Mice, Inbred C57BL",
+            "Neural Pathways",
+            "Parahippocampal Gyrus",
+            "Rest",
+            "Species Specificity",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eyal",
+                "Last Name": "Bergmann",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa 31096, Israel."
+            },
+            {
+                "First Name": "Gil",
+                "Last Name": "Zur",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa 31096, Israel."
+            },
+            {
+                "First Name": "Guy",
+                "Last Name": "Bershadsky",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa 31096, Israel."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Department of Neuroscience, Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa 31096, Israel kahn@technion.ac.il."
+            }
+        ],
+        "Journal": "Cerebral cortex (New York, N.Y. : 1991)",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26866055",
+        "Title": "Realistic Numerical and Analytical Modeling of Light Scattering in Brain Tissue for Optogenetic Applications(1,2,3).",
+        "Abstract": "In recent years, optogenetics has become a central tool in neuroscience research. Estimating the transmission of visible light through brain tissue is of crucial importance for controlling the activation levels of neurons in different depths, designing optical systems, and avoiding lesions from excessive power density. The Kubelka-Munk model and Monte Carlo simulations have previously been used to model light propagation through rodents' brain tissue, however, these prior attempts suffer from fundamental shortcomings. Here, we introduce and study two modified approaches for modeling the distributions of light emanating from a multimode fiber and scattering through tissue, using both realistic numerical Monte Carlo simulations and an analytical approach based on the beam-spread function approach. We demonstrate a good agreement of the new methods' predictions both with recently published data, and with new measurements in mouse brain cortical slices, where our results yield a new cortical scattering length estimate of \u223c47 \u00b5m at \u03bb = 473 nm, significantly shorter than ordinarily assumed in optogenetic applications.",
+        "Keywords": [
+            "Monte Carlo optogenetics",
+            "beam-spread function",
+            "light scattering"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "Female",
+            "Light",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Models, Neurological",
+            "Monte Carlo Method",
+            "Optogenetics",
+            "Scattering, Radiation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Guy",
+                "Last Name": "Yona",
+                "Affiliation": "Autonomous Systems Program (TASP)."
+            },
+            {
+                "First Name": "Nizan",
+                "Last Name": "Meitav",
+                "Affiliation": "Faculty of Biomedical Engineering."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Rappaport Faculty of Medicine and Institute, Technion - Israel Institute of Technology, Haifa, 31096, Israel."
+            },
+            {
+                "First Name": "Shy",
+                "Last Name": "Shoham",
+                "Affiliation": "Faculty of Biomedical Engineering."
+            }
+        ],
+        "Journal": "eNeuro",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26793741",
+        "Title": "Holographic fiber bundle system for patterned optogenetic activation of large-scale neuronal networks.",
+        "Abstract": "Optogenetic perturbation has become a fundamental tool in controlling activity in neurons. Used to control activity in cell cultures, slice preparations, anesthetized and awake behaving animals, optical control of cell-type specific activity enables the interrogation of complex systems. A remaining challenge in developing optical control tools is the ability to produce defined light patterns such that power-efficient, precise control of neuronal populations is obtained. Here, we describe a system for patterned stimulation that enables the generation of structured activity in neurons by transmitting optical patterns from computer-generated holograms through an optical fiber bundle. The system couples the optical system to versatile fiber bundle configurations, including coherent or incoherent bundles composed of hundreds of up to several meters long fibers. We describe the components of the system, a method for calibration, and a detailed power efficiency and spatial specificity quantification. Next, we use the system to precisely control single-cell activity as measured by extracellular electrophysiological recordings in ChR2-expressing cortical cell cultures. The described system complements recent descriptions of optical control systems, presenting a system suitable for high-resolution spatiotemporal optical control of wide-area neural networks in vitro and in vivo, yielding a tool for precise neural system interrogation.",
+        "Keywords": [
+            "fiber bundles",
+            "holography",
+            "optogentics",
+            "spatial light modulators"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Nairouz",
+                "Last Name": "Farah",
+                "Affiliation": "Technion-Israel Institute of Technology, Faculty of Biomedical Engineering, Haifa 3200003, Israel; Bar Ilan University, Optometry Department, Ramat Gan 5290002, Israel."
+            },
+            {
+                "First Name": "Alexandra",
+                "Last Name": "Levinsky",
+                "Affiliation": "Technion-Israel Institute of Technology , Technion Autonomous Systems Program, Haifa 3200003, Israel."
+            },
+            {
+                "First Name": "Inbar",
+                "Last Name": "Brosh",
+                "Affiliation": "Technion-Israel Institute of Technology , Faculty of Biomedical Engineering, Haifa 3200003, Israel."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Technion-Israel Institute of Technology , Rappaport Faculty of Medicine and Institute, Haifa 3200003, Israel."
+            },
+            {
+                "First Name": "Shy",
+                "Last Name": "Shoham",
+                "Affiliation": "Technion-Israel Institute of Technology , Faculty of Biomedical Engineering, Haifa 3200003, Israel."
+            }
+        ],
+        "Journal": "Neurophotonics",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26504888",
+        "Title": "Causal Control of Biological Systems with Light.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Christopher",
+                "Last Name": "Moore",
+                "Affiliation": "Department of Neuroscience and Brown Institute for Brain Sciences , Brown University , Box GL-N Providence, Rhode Island 02912."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Technion-Israel Institute of Technology , Faculty of Medicine , Technion Haifa, Israel 32000."
+            }
+        ],
+        "Journal": "Neurophotonics",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25143610",
+        "Title": "Transfer of learning relates to intrinsic connectivity between hippocampus, ventromedial prefrontal cortex, and large-scale networks.",
+        "Abstract": "An important aspect of adaptive learning is the ability to flexibly use past experiences to guide new decisions. When facing a new decision, some people automatically leverage previously learned associations, while others do not. This variability in transfer of learning across individuals has been demonstrated repeatedly and has important implications for understanding adaptive behavior, yet the source of these individual differences remains poorly understood. In particular, it is unknown why such variability in transfer emerges even among homogeneous groups of young healthy participants who do not vary on other learning-related measures. Here we hypothesized that individual differences in the transfer of learning could be related to relatively stable differences in intrinsic brain connectivity, which could constrain how individuals learn. To test this, we obtained a behavioral measure of memory-based transfer outside of the scanner and on a separate day acquired resting-state functional MRI images in 42 participants. We then analyzed connectivity across independent component analysis-derived brain networks during rest, and tested whether intrinsic connectivity in learning-related networks was associated with transfer. We found that individual differences in transfer were related to intrinsic connectivity between the hippocampus and the ventromedial prefrontal cortex, and between these regions and large-scale functional brain networks. Together, the findings demonstrate a novel role for intrinsic brain dynamics in flexible learning-guided behavior, both within a set of functionally specific regions known to be important for learning, as well as between these regions and the default and frontoparietal networks, which are thought to serve more general cognitive functions.",
+        "Keywords": [
+            "generalization",
+            "intrinsic connectivity",
+            "learning",
+            "networks",
+            "rest"
+        ],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Association Learning",
+            "Brain Mapping",
+            "Decision Making",
+            "Female",
+            "Games, Experimental",
+            "Hippocampus",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Individuality",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Neural Pathways",
+            "Oxygen",
+            "Prefrontal Cortex",
+            "Reward",
+            "Transfer, Psychology",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Raphael T",
+                "Last Name": "Gerraty",
+                "Affiliation": "Department of Psychology, Kavli Institute for Brain Science, Columbia University New York, New York 10027."
+            },
+            {
+                "First Name": "Juliet Y",
+                "Last Name": "Davidow",
+                "Affiliation": "Department of Psychology, Kavli Institute for Brain Science, Columbia University New York, New York 10027."
+            },
+            {
+                "First Name": "G Elliott",
+                "Last Name": "Wimmer",
+                "Affiliation": "Department of Systems Neuroscience, University Medical Center Hamburg-Eppendorf, 20246 Hamburg, Germany, and."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Department of Physiology and Biophysics, The Ruth and Bruce Rappaport Faculty of Medicine Technion, Israel Institute of Technology, Haifa 31096, Israel."
+            },
+            {
+                "First Name": "Daphna",
+                "Last Name": "Shohamy",
+                "Affiliation": "Department of Psychology, Kavli Institute for Brain Science, Columbia University New York, New York 10027, ds2619@columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "22291028",
+        "Title": "Imbalanced neural responsivity to risk and reward indicates stress vulnerability in humans.",
+        "Abstract": "Trauma-related psychopathology has been associated with an intense emotional reaction to stressful event. Emotional responses have evolved to signal the presence of risks to be avoided or of rewards to be approached in the environment. Thus, individuals' sensitivity to signals of risk and reward may affect the level of stress vulnerability. Stress, however, can modify these sensitivities as well. In the current functional magnetic resonance imaging (fMRI) study, we prospectively probed the neural correlates of such sensitivities in 24 healthy soldiers by using an interactive game that encompasses risky and rewarding intervals both pre-exposure and post-exposure to stressful military service. As expected, risky and rewarding intervals elicited selective responses in the amygdala and nucleus accumbens (Nacc), respectively. Furthermore, increased post-traumatic stress disorder symptoms post-exposure (i.e., stress vulnerability) corresponded to greater amygdala's response to risk both pre-exposure and post-exposure and to decreased NAcc response to reward only post-exposure. By combining these regional responsivities post-exposure, we accurately identified all the most vulnerable soldiers. Imbalanced neural responsivity to risk and reward following exposure to stress may therefore constitute a marker for stress vulnerability. Such identification of vulnerability biomarkers can aid future diagnostic and therapeutic efforts by allowing early detection of vulnerability as well as follow up on patient's treatment progression.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Cerebral Cortex",
+            "Cognitive Dissonance",
+            "Decision Making",
+            "Disease Susceptibility",
+            "Female",
+            "Games, Experimental",
+            "Humans",
+            "Male",
+            "Reward",
+            "Risk-Taking",
+            "Stress Disorders, Post-Traumatic",
+            "Stress, Psychological"
+        ],
+        "Authors": [
+            {
+                "First Name": "Roee",
+                "Last Name": "Admon",
+                "Affiliation": "Functional Brain Center, Wohl Institute for Advanced Imaging, Tel Aviv Sourasky Medical Center, Tel Aviv 64239, Israel. roee@fmri-tlv.org"
+            },
+            {
+                "First Name": "Gad",
+                "Last Name": "Lubin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan D",
+                "Last Name": "Rosenblatt",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Orit",
+                "Last Name": "Stern",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michal",
+                "Last Name": "Assaf",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Talma",
+                "Last Name": "Hendler",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cerebral cortex (New York, N.Y. : 1991)",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "22016542",
+        "Title": "Characterization of the functional MRI response temporal linearity via optical control of neocortical pyramidal neurons.",
+        "Abstract": "The blood oxygenation level-dependent (BOLD) signal serves as the basis for human functional MRI (fMRI). Knowledge of the properties of the BOLD signal, such as how linear its response is to sensory stimuli, is essential for the design and interpretation of fMRI experiments. Here, we combined the cell-type and site-specific causal control provided by optogenetics and fMRI (opto-fMRI) in mice to test the linearity of BOLD signals driven by locally induced excitatory activity. We employed high-resolution mouse fMRI at 9.4 tesla to measure the BOLD response, and extracellular electrophysiological recordings to measure the effects of stimulation on single unit, multiunit, and local field potential activity. Optically driven stimulation of layer V neocortical pyramidal neurons resulted in a positive local BOLD response at the stimulated site. Consistent with a linear transform model, this locally driven BOLD response summated in response to closely spaced trains of stimulation. These properties were equivalent to responses generated through the multisynaptic method of driving neocortical activity by tactile sensory stimulation, and paralleled changes in electrophysiological measures. These results illustrate the potential of the opto-fMRI method and reinforce the critical assumption of human functional neuroimaging that--to first approximation--the BOLD response tracks local neural activity levels.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Bacterial Proteins",
+            "Brain Mapping",
+            "Channelrhodopsins",
+            "Image Processing, Computer-Assisted",
+            "Luminescent Proteins",
+            "Magnetic Resonance Imaging",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Transgenic",
+            "Neocortex",
+            "Oxygen",
+            "Photic Stimulation",
+            "Pyramidal Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Center for Brain Science and Howard Hughes Medical Institute, Harvard University, Cambridge, Massachusetts 02138, USA."
+            },
+            {
+                "First Name": "Mitul",
+                "Last Name": "Desai",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ulf",
+                "Last Name": "Knoblich",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jacob",
+                "Last Name": "Bernstein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Henninger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ann M",
+                "Last Name": "Graybiel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Edward S",
+                "Last Name": "Boyden",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Randy L",
+                "Last Name": "Buckner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher I",
+                "Last Name": "Moore",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21968568",
+        "Title": "Hemispheric asymmetry of visual scene processing in the human brain: evidence from repetition priming and intrinsic activity.",
+        "Abstract": "Asymmetrical specialization of cognitive processes across the cerebral hemispheres is a hallmark of healthy brain development and an important evolutionary trait underlying higher cognition in humans. While previous research, including studies of priming, divided visual field presentation, and split-brain patients, demonstrates a general pattern of right/left asymmetry of form-specific versus form-abstract visual processing, little is known about brain organization underlying this dissociation. Here, using repetition priming of complex visual scenes and high-resolution functional magnetic resonance imaging (MRI), we demonstrate asymmetrical form specificity of visual processing between the right and left hemispheres within a region known to be critical for processing of visual spatial scenes (parahippocampal place area [PPA]). Next, we use resting-state functional connectivity MRI analyses to demonstrate that this functional asymmetry is associated with differential intrinsic activity correlations of the right versus left PPA with regions critically involved in perceptual versus conceptual processing, respectively. Our results demonstrate that the PPA comprises lateralized subregions across the cerebral hemispheres that are engaged in functionally dissociable yet complementary components of visual scene analysis. Furthermore, this functional asymmetry is associated with differential intrinsic functional connectivity of the PPA with distinct brain areas known to mediate dissociable cognitive processes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Brain",
+            "Brain Mapping",
+            "Female",
+            "Functional Laterality",
+            "Humans",
+            "Image Interpretation, Computer-Assisted",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Photic Stimulation",
+            "Repetition Priming",
+            "Visual Pathways",
+            "Visual Perception",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "W Dale",
+                "Last Name": "Stevens",
+                "Affiliation": "Department of Psychology, Harvard University, Cambridge, MA 02138, USA. william.stevens@nih.gov"
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gagan S",
+                "Last Name": "Wig",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Daniel L",
+                "Last Name": "Schacter",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cerebral cortex (New York, N.Y. : 1991)",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "20072709",
+        "Title": "Brain Activity Dissociates Mentalization from Motivation During an Interpersonal Competitive Game.",
+        "Abstract": "Studies demonstrating selective brain networks subserving motivation and mentalization (i.e. attributing states of mind to others) during social interactions have not investigated their mutual independence. We report the results of two fMRI studies using a competitive game requiring players to use implicit 'on-line' mentalization simultaneously with motivational processes of gains and losses in playing against a human or a computer opponent. We delineate a network, consisting of bilateral temporoparietal junction, temporal pole (TP), medial prefrontal cortex (MPFC) and right fusiform gyrus, which is sensitive to the opponent's response (challenging>not challenging the player) and opponent type (human>computer). This network is similar to a known explicit 'off-line' mentalization circuit, suggesting its additional involvement in implicit 'on-line' mentalization, a process more applicable to real-life social interactions. Importantly, only MPFC and TP were selective to mentalization compared to motivation, highlighting their specific operation in attributing states of mind to others during social interactions.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Michal",
+                "Last Name": "Assaf",
+                "Affiliation": "Olin Neuropsychiatry Research Center, Institute of Living, Hartford Hospital, 200 Retreat Ave., Hartford, CT 06106, USA."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Godfrey D",
+                "Last Name": "Pearlson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Johnson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yehezkel",
+                "Last Name": "Yeshurun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vince D",
+                "Last Name": "Calhoun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Talma",
+                "Last Name": "Hendler",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Brain imaging and behavior",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19955295",
+        "Title": "Functional connectivity of the macaque posterior parahippocampal cortex.",
+        "Abstract": "Neuroimaging experiments in humans suggest that regions in parietal cortex and along the posterior midline are functionally connected to the medial temporal lobe and are active during memory retrieval. It is unknown whether macaques have a similar network. We examined functional connectivity in isoflurane-anesthetized macaques to identify a network associated with posterior parahippocampal cortex (PPHC). Functional connectivity was observed between the PPHC and retrosplenial, posterior cingulate, superior temporal gyrus, and inferior parietal cortex. PPHC correlations were distinct from regions in parietal and temporal cortex activated by an oculomotor task. Comparison of macaque and human PPHC correlations revealed similarities that suggest the temporal-parietal region identified in the macaque may share a common lineage with human Brodmann area 39, a region thought to be involved in recollection. These results suggest that macaques and humans may have homologous PPHC-parietal pathways. By specifying the location of the putative macaque homologue in parietal cortex, we provide a target for future physiological exploration of this area's role in mnemonic or alternative processes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Macaca fascicularis",
+            "Macaca mulatta",
+            "Magnetic Resonance Imaging",
+            "Nerve Net",
+            "Neural Pathways",
+            "Parahippocampal Gyrus"
+        ],
+        "Authors": [
+            {
+                "First Name": "Justin L",
+                "Last Name": "Vincent",
+                "Affiliation": "1Department of Psychology and Center for Brain Science, Harvard University, Cambridge, Massachusetts 02138, USA. vincent@nmr.mgh.harvard.edu"
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David C",
+                "Last Name": "Van Essen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Randy L",
+                "Last Name": "Buckner",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "18799601",
+        "Title": "Evidence for a frontoparietal control system revealed by intrinsic functional connectivity.",
+        "Abstract": "Two functionally distinct, and potentially competing, brain networks have been recently identified that can be broadly distinguished by their contrasting roles in attention to the external world versus internally directed mentation involving long-term memory. At the core of these two networks are the dorsal attention system and the hippocampal-cortical memory system, a component of the brain's default network. Here spontaneous blood-oxygenation-level-dependent (BOLD) signal correlations were used in three separate functional magnetic resonance imaging data sets (n = 105) to define a third system, the frontoparietal control system, which is spatially interposed between these two previously defined systems. The frontoparietal control system includes many regions identified as supporting cognitive control and decision-making processes including lateral prefrontal cortex, anterior cingulate cortex, and inferior parietal lobule. Detailed analysis of frontal and parietal cortex, including use of high-resolution data, revealed clear evidence for contiguous but distinct regions: in general, the regions associated with the frontoparietal control system are situated between components of the dorsal attention and hippocampal-cortical memory systems. The frontoparietal control system is therefore anatomically positioned to integrate information from these two opposing brain systems.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Brain Mapping",
+            "Cognition",
+            "Decision Making",
+            "Female",
+            "Frontal Lobe",
+            "Functional Laterality",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Oxygen",
+            "Temporal Lobe",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Justin L",
+                "Last Name": "Vincent",
+                "Affiliation": "Mallinckrodt Institute of Radiology, Washington University School of Medicine, St. Louis, Missouri, USA. vincent@nmr.mgh.harvard.edu"
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Abraham Z",
+                "Last Name": "Snyder",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marcus E",
+                "Last Name": "Raichle",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Randy L",
+                "Last Name": "Buckner",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18589510",
+        "Title": "Overcoming suppression in order to remember: contributions from anterior cingulate and ventrolateral prefrontal cortex.",
+        "Abstract": "The ability to remember is often compromised by competition from irrelevant memories. However, acts of selective remembering can alter the competitive relationship between memories; memories that are selected against are weakened, whereas those that are retrieved are strengthened. Whereas the weakening of selected-against memories is typically evidenced by subsequently poorer recall of these memories, the present study tested the hypothesis that when previously selected-against memories can subsequently be successfully retrieved, such acts of successful retrieval are associated with engagement of neurobiological mechanisms that serve to detect and overcome competition. Consistent with this hypothesis, fMRI revealed that anteriorcingulate cortex and right ventrolateral prefrontal cortex are differentially engaged during successful retrieval of previously selected-against memories, and that their engagement is directly related to the magnitude of weakening that is induced by prior acts of selecting against these memories.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Association Learning",
+            "Brain Mapping",
+            "Cues",
+            "Female",
+            "Functional Laterality",
+            "Gyrus Cinguli",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Mental Recall",
+            "Neuropsychological Tests",
+            "Oxygen",
+            "Prefrontal Cortex",
+            "Reaction Time",
+            "Repression, Psychology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Brice A",
+                "Last Name": "Kuhl",
+                "Affiliation": "Department of Psychology, Stanford University, Stanford, California 94305-2130, USA. bkuhl@stanford.edu"
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicole M",
+                "Last Name": "Dudukovic",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anthony D",
+                "Last Name": "Wagner",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cognitive, affective & behavioral neuroscience",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18385483",
+        "Title": "Distinct cortical anatomy linked to subregions of the medial temporal lobe revealed by intrinsic functional connectivity.",
+        "Abstract": "The hippocampus and adjacent cortical structures in the medial temporal lobe (MTL) contribute to memory through interactions with distributed brain areas. Studies of monkey and rodent anatomy suggest that parallel pathways converge on distinct subregions of the MTL. To explore the cortical areas linked to subregions of the MTL in humans, we examined cortico-cortical and hippocampal-cortical correlations using high-resolution, functional connectivity analysis in 100 individuals. MTL seed regions extended along the anterior to posterior axis and included hippocampus and adjacent structures. Results revealed two separate brain pathways that correlated with distinct subregions within the MTL. The body of the hippocampus and posterior parahippocampal cortex correlated with lateral parietal cortex, regions along the posterior midline including posterior cingulate and retrosplenial cortex, and ventral medial prefrontal cortex. By contrast, anterior hippocampus and the perirhinal/entorhinal cortices correlated with distinct regions in the lateral temporal cortex extending into the temporal pole. The present results are largely consistent with known connectivity in the monkey and provide a novel task-independent dissociation of the parallel pathways supporting the MTL memory system in humans. The cortical pathways include regions that have undergone considerable areal expansion in humans, providing insight into how the MTL memory system has evolved to support a diverse array of cognitive domains.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Brain Mapping",
+            "Female",
+            "Hippocampus",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Nerve Net",
+            "Neural Pathways",
+            "Oxygen",
+            "Parahippocampal Gyrus",
+            "Photic Stimulation",
+            "Psychophysics",
+            "Temporal Lobe"
+        ],
+        "Authors": [
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Department of Psychology and Center for Brain Science, Harvard University, Cambridge, Massachusetts, USA. kahn@nmr.mgh.harvard.edu"
+            },
+            {
+                "First Name": "Jessica R",
+                "Last Name": "Andrews-Hanna",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Justin L",
+                "Last Name": "Vincent",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Abraham Z",
+                "Last Name": "Snyder",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Randy L",
+                "Last Name": "Buckner",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17558403",
+        "Title": "Decreased demands on cognitive control reveal the neural processing benefits of forgetting.",
+        "Abstract": "Remembering often requires the selection of goal-relevant memories in the face of competition from irrelevant memories. Although there is a cost of selecting target memories over competing memories (increased forgetting of the competing memories), here we report neural evidence for the adaptive benefits of forgetting--namely, reduced demands on cognitive control during future acts of remembering. Functional magnetic resonance imaging during selective retrieval showed that repeated retrieval of target memories was accompanied by dynamic reductions in the engagement of functionally coupled cognitive control mechanisms that detect (anterior cingulate cortex) and resolve (dorsolateral and ventrolateral prefrontal cortex) mnemonic competition. Strikingly, regression analyses revealed that this prefrontal disengagement tracked the extent to which competing memories were forgotten; greater forgetting of competing memories was associated with a greater decline in demands on prefrontal cortex during target remembering. These findings indicate that, although forgetting can be frustrating, memory might be adaptive because forgetting confers neural processing benefits.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Cognition",
+            "Electrophysiology",
+            "Female",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Linear Models",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Memory",
+            "Mental Recall",
+            "Prefrontal Cortex",
+            "Regression Analysis",
+            "Temporal Lobe"
+        ],
+        "Authors": [
+            {
+                "First Name": "Brice A",
+                "Last Name": "Kuhl",
+                "Affiliation": "Department of Psychology, Stanford University, Jordan Hall, Building 420, 450 Serra Mall, Stanford, California 94305, USA. bkuhl@stanford.edu"
+            },
+            {
+                "First Name": "Nicole M",
+                "Last Name": "Dudukovic",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anthony D",
+                "Last Name": "Wagner",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "16129403",
+        "Title": "Memory strength and repetition suppression: multimodal imaging of medial temporal cortical contributions to recognition.",
+        "Abstract": "Declarative memory permits an organism to recognize stimuli that have been previously encountered, discriminating them from those that are novel. One basis for recognition is item memory strength, which may support the perception of stimulus familiarity. Though the medial temporal lobes are known to be critical for declarative memory, at present the neural mechanisms supporting perceived differences in memory strength remain poorly specified. Here, functional MRI (fMRI) and anatomically constrained magnetoencephalography (MEG) indexed correlates of graded memory strength in the human brain, focusing on medial temporal cortex. fMRI revealed a decrease in medial temporal cortical activation that tracked parametric levels of perceived memory strength. Anatomically constrained MEG current estimates revealed that strength-dependent signal reductions onset within 150-300 ms. Memory strength appears to be rapidly signaled by medial temporal cortex through repetition suppression (activation reductions), providing a basis for the subjective perception of stimulus familiarity or novelty.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Behavior",
+            "Face",
+            "Female",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Linear Models",
+            "Magnetic Resonance Imaging",
+            "Magnetoencephalography",
+            "Male",
+            "Memory",
+            "Oxygen",
+            "Photic Stimulation",
+            "Recognition, Psychology",
+            "Temporal Lobe"
+        ],
+        "Authors": [
+            {
+                "First Name": "Brian D",
+                "Last Name": "Gonsalves",
+                "Affiliation": "Department of Psychology and Neurosciences Program, Stanford University, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tim",
+                "Last Name": "Curran",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kenneth A",
+                "Last Name": "Norman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anthony D",
+                "Last Name": "Wagner",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "16054861",
+        "Title": "Parietal lobe contributions to episodic memory retrieval.",
+        "Abstract": "Although the parietal lobe is not traditionally thought to support declarative memory, recent event-related fMRI studies of episodic retrieval have consistently revealed a range of memory-related influences on activation in lateral posterior parietal cortex (PPC) and precuneus extending into posterior cingulate and retrosplenial cortex. This article surveys the fMRI literature on PPC activation during remembering, a literature that complements earlier electroencephalography data. We consider these recent memory-related fMRI responses within the context of classical ideas about parietal function that emphasize space-based attention and motor intention. We conclude by proposing three hypotheses concerning how parietal cortex might contribute to memory.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Brain Mapping",
+            "Electroencephalography",
+            "Functional Laterality",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Mental Recall",
+            "Parietal Lobe",
+            "Recognition, Psychology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anthony D",
+                "Last Name": "Wagner",
+                "Affiliation": "Department of Psychology and Neurosciences Program, Stanford University, Stanford, CA, USA. wagner@psych.stanford.edu"
+            },
+            {
+                "First Name": "Benjamin J",
+                "Last Name": "Shannon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Randy L",
+                "Last Name": "Buckner",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Trends in cognitive sciences",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15758048",
+        "Title": "Transient disruption of ventrolateral prefrontal cortex during verbal encoding affects subsequent memory performance.",
+        "Abstract": "Episodic memory supports conscious remembrance of everyday experience. Prior functional neuroimaging data indicate that episodic encoding during phonological task performance is correlated with activation in bilateral posterior ventrolateral prefrontal cortex (pVLPFC), although uncertainty remains regarding whether these prefrontal regions make necessary contributions to episodic memory formation. Using functional MRI data to guide application of single-pulse transcranial magnetic stimulation (spTMS), this study examined the necessity of left and right pVLPFC for episodic encoding (as expressed through subsequent memory performance). To assess the timing of critical computations, pVLPFC function was transiently disrupted at different poststimulus onset times while subjects made syllable decisions about visually presented familiar and unfamiliar words; subsequent memory for these stimuli was measured. Results revealed that left pVLPFC disruption during encoding of familiar words impaired subsequent memory, expressed as a decline in recognition confidence, with disruption being maximal at 380 ms after stimulus onset. In contrast, right pVLPFC disruption facilitated subsequent memory for familiar words, expressed as an increase in medium confidence recognition, with this facilitation being maximal at 380 ms. Finally, phonological (syllable) decision accuracy was facilitated by right pVLPFC disruption, with this effect being maximal at 340 ms, but was unaffected by left pVLPFC disruption. These findings suggest that left pVLPFC mechanisms onset between 300 and 400 ms during phonological processing of words, with these mechanisms appearing necessary for effective episodic encoding. In contrast, disruption of correlated mechanisms in right pVLPFC facilitates encoding, perhaps by inducing a functional shift in the mechanisms engaged during learning.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Analysis of Variance",
+            "Association Learning",
+            "Brain Mapping",
+            "Electric Stimulation",
+            "Female",
+            "Functional Laterality",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Magnetic Resonance Imaging",
+            "Magnetics",
+            "Male",
+            "Memory",
+            "Neuropsychological Tests",
+            "Oxygen",
+            "Phonetics",
+            "Prefrontal Cortex",
+            "Reaction Time",
+            "Verbal Behavior"
+        ],
+        "Authors": [
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Department of Psychology and Neuroscience Program, Stanford University, California, USA. kahn@mit.edu"
+            },
+            {
+                "First Name": "Alvaro",
+                "Last Name": "Pascual-Leone",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hugo",
+                "Last Name": "Theoret",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Felipe",
+                "Last Name": "Fregni",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dav",
+                "Last Name": "Clark",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anthony D",
+                "Last Name": "Wagner",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15115812",
+        "Title": "Functional-neuroanatomic correlates of recollection: implications for models of recognition memory.",
+        "Abstract": "Recognition decisions can be based on familiarity, the sense that an item was encountered previously (item memory), and on recollection, the conscious recovery of contextual information surrounding a previous encounter with the item (e.g., source memory). Recognition with recollection is thought to depend on multiple mechanisms, including prefrontal \"control\" processes that guide retrieval and recapitulation mechanisms that reactivate posterior neocortical representations that were present at encoding. However, uncertainty remains regarding the precise nature of prefrontal contributions to recollection and the selectivity of recapitulation to veridical recollection. The present event-related functional magnetic resonance imaging study sought to examine whether regions showing \"old-new\" effects support processes sensitive to recollection success or recollection attempt and whether recapitulation of neocortical representations emerge during veridical recollection as well as during false recognition (i.e., false alarms) or whether false recognition resembles familiarity-based responding. Results revealed that multiple left prefrontal cortical regions were engaged during attempts to recollect previous contextual (source) details, regardless of the nature of the to-be-recollected details and of source recollection outcome (successful vs unsuccessful). Recapitulation effects were observed in regions sensitive to the encoding task, suggesting that veridical recollection entails the reactivation of processes or representations present during encoding. Importantly, in contrast to leading models of recognition memory, false alarms also appeared to be based partially on recollection, as revealed through false recapitulation effects. Implications for neural and cognitive models of recognition are considered.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Brain Mapping",
+            "Female",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Mental Recall",
+            "Models, Neurological",
+            "Parahippocampal Gyrus",
+            "Parietal Lobe",
+            "Prefrontal Cortex",
+            "Reaction Time",
+            "Recognition, Psychology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Department of Psychology and Neurosciences Program, Stanford University, Stanford, California 94305-2130, USA. kahn@mit.edu"
+            },
+            {
+                "First Name": "Lila",
+                "Last Name": "Davachi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anthony D",
+                "Last Name": "Wagner",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "12930473",
+        "Title": "The neural reality of syntactic transformations: evidence from functional magnetic resonance imaging.",
+        "Abstract": "The functional anatomy of syntactic transformations, a major computational operation invoked in sentence processing, was identified through a functional magnetic resonance imaging investigation. A grammaticality judgment task was used, presented through a novel hidden-blocks design. Subjects listened to transformational and nontransformational sentences in which a host of other complexity generators (number of words, prepositions, embeddings, etc.) were kept constant. A series of analyses revealed that the neural processing of transformations is localizable, evoking a highly lateralized and localized activation in the left inferior frontal gyrus (Broca's region) and bilateral activation in the posterior superior temporal sulcus. The pattern of activation associated with transformational analysis was distinct from the one observed in neighboring regions, and anatomically separable from the effects of verb complexity, which yielded significant activation in the left posterior superior temporal sulcus. Taken together with neuropsychological evidence, these results uncover the neural reality of syntactic transformations.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Brain Mapping",
+            "Dominance, Cerebral",
+            "Female",
+            "Frontal Lobe",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Imaging, Three-Dimensional",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Problem Solving",
+            "Psycholinguistics",
+            "Semantics",
+            "Speech Perception",
+            "Temporal Lobe"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michal",
+                "Last Name": "Ben-Shachar",
+                "Affiliation": "Department of Psychology, Tel Aviv University, Tel Aviv, Israel."
+            },
+            {
+                "First Name": "Talma",
+                "Last Name": "Hendler",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dafna",
+                "Last Name": "Ben-Bashat",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yosef",
+                "Last Name": "Grodzinsky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Psychological science",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12880790",
+        "Title": "Sensing the invisible: differential sensitivity of visual cortex and amygdala to traumatic context.",
+        "Abstract": "To what extent does emotional traumatic context affect sensory processing in the brain? A striking example of emotional impact on sensation is manifested in posttraumatic stress disorder (PTSD), in which a severe emotional trauma produces recurrent and vivid unpleasant sensory recollections. Here we report on an fMRI study exploring the sensory processing of trauma-related pictures in the visual cortex and amygdala in respect to PTSD. The impact of traumatic experience on brain responses was tested in relation to stimuli content and its level of recognition in a parametric factorial design. Twenty combat veterans, 10 with and 10 without PTSD, viewed backward-masked images of combat and noncombat content, presented at below, near, and above recognition thresholds. The response to combat content evoked more activation in the visual cortex in PTSD subjects than in non-PTSD subjects, only when images were presented at below recognition threshold. By contrast, the amygdala demonstrated increased activation in PTSD subjects irrespective of content and recognition threshold of the images. These intriguing findings are compatible with the notion that in PTSD, emotional traumatic experience could modify visual processing already at the preattentive level. On the other hand, lack of content specificity in the amygdala point to a possible predisposed mechanism for pathological processing of traumatic experience. The differential sensitivity of the amygdala and visual cortex to traumatic context implies distinct roles of limbic and sensory regions in the registration and recollection of emotional experience in the brain.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Amygdala",
+            "Brain Mapping",
+            "Cognition",
+            "Data Interpretation, Statistical",
+            "Emotions",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Middle Aged",
+            "Somatosensory Cortex",
+            "Stress Disorders, Post-Traumatic",
+            "Veterans",
+            "Visual Cortex"
+        ],
+        "Authors": [
+            {
+                "First Name": "Talma",
+                "Last Name": "Hendler",
+                "Affiliation": "Functional Brain Imaging Laboratory, Wohl Institute for Advanced Imaging, Tel Aviv Sourasky Medical Center, Tel Aviv 64239, Israel. talma@tasmc.health.gov.il"
+            },
+            {
+                "First Name": "Pia",
+                "Last Name": "Rotshtein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yaara",
+                "Last Name": "Yeshurun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Weizmann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dafna",
+                "Last Name": "Ben-Bashat",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rafael",
+                "Last Name": "Malach",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Avi",
+                "Last Name": "Bleich",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "NeuroImage",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12867532",
+        "Title": "Neural circuits subserving the retrieval and maintenance of abstract rules.",
+        "Abstract": "Behavior is often governed by abstract rules or instructions for behavior that can be abstracted from one context and applied to another. Prefrontal cortex (PFC) is thought to be important for representing rules, although the contributions of ventrolateral (VLPFC) and dorsolateral (DLPFC) regions remain under-specified. In the present study, event-related fMRI was used to examine abstract rule representation in humans. Prior to scanning, subjects learned to associate unfamiliar shapes and nonwords with particular rules. During each fMRI trial, presentation of one of these cues was followed by a delay and then by sample and probe stimuli. Match and non-match rules required subjects to indicate whether or not the sample and probe matched; go rules required subjects to make a response that was not contingent on the sample/probe relation. Left VLPFC, parietal cortex, and pre-SMA exhibited sensitivity to rule type during the cue and delay periods. Delay-period activation in these regions, but not DLPFC, was greater when subjects had to maintain response contingencies (match, non-match) relative to when the cue signaled a specific response (go). In contrast, left middle temporal cortex exhibited rule sensitivity during the cue but not delay period. These results support the hypothesis that VLPFC interacts with temporal cortex to retrieve semantic information associated with a cue and with parietal cortex to retrieve and maintain relevant response contingencies across delays. Future investigations of cross-regional interactions will enable full assessment of this account. Collectively, these results demonstrate that multiple, neurally separable processes are recruited during abstract rule representation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acoustic Stimulation",
+            "Adolescent",
+            "Adult",
+            "Analysis of Variance",
+            "Cerebral Cortex",
+            "Cues",
+            "Female",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Nerve Net",
+            "Photic Stimulation",
+            "Psychomotor Performance",
+            "Reaction Time"
+        ],
+        "Authors": [
+            {
+                "First Name": "Silvia A",
+                "Last Name": "Bunge",
+                "Affiliation": "Psychology Department and Center for Mind and Brain, University of California Davis, California 95616, USA. sbunge@ucdavis.edu"
+            },
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan D",
+                "Last Name": "Wallis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Earl K",
+                "Last Name": "Miller",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anthony D",
+                "Last Name": "Wagner",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "11906703",
+        "Title": "The role of the amygdala in signaling prospective outcome of choice.",
+        "Abstract": "Can brain activity reveal a covert choice? Making a choice often evokes distinct emotions that accompany decision processes. Amygdala has been implicated in choice behavior that is guided by a prospective negative outcome. However, its specific involvement in emotional versus cognitive processing of choice behavior has been a subject of controversy. In this study, the human amygdala was monitored by functional magnetic resonance imaging (fMRI) while subjects were playing in a naturalistic choice paradigm against the experimenter. In order to win, players had to occasionally choose to bluff their opponent, risk \"getting caught,\" and suffer a loss. A critical period, when choice has been made but outcome was still unknown, activated the amygdala preferentially following the choice that entailed risk of loss. Thus, the response of the amygdala differentiated between subject's covert choice of either playing fair or foul. These results support a role of the amygdala in choice behavior, both in the appraisal of inherent value of choice and the signaling of prospective negative outcomes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Amygdala",
+            "Animals",
+            "Choice Behavior",
+            "Emotions",
+            "Female",
+            "Games, Experimental",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Middle Aged"
+        ],
+        "Authors": [
+            {
+                "First Name": "Itamar",
+                "Last Name": "Kahn",
+                "Affiliation": "Wohl Institute for Advanced Imaging, Tel Aviv Sourasky Medical Center, 6 Weizmann Street, 64239, Tel Aviv, Israel."
+            },
+            {
+                "First Name": "Yehezkel",
+                "Last Name": "Yeshurun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pia",
+                "Last Name": "Rotshtein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Itzhak",
+                "Last Name": "Fried",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dafna",
+                "Last Name": "Ben-Bashat",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Talma",
+                "Last Name": "Hendler",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2002"
+    }
+]

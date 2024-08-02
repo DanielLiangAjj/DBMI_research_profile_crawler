@@ -1,0 +1,3140 @@
+[
+    {
+        "PMID": "38627094",
+        "Title": "Phased nanopore assembly with Shasta and modular graph phasing with GFAse.",
+        "Abstract": "Reference-free genome phasing is vital for understanding allele inheritance and the impact of single-molecule DNA variation on phenotypes. To achieve thorough phasing across homozygous or repetitive regions of the genome, long-read sequencing technologies are often used to perform phased de novo assembly. As a step toward reducing the cost and complexity of this type of analysis, we describe new methods for accurately phasing Oxford Nanopore Technologies (ONT) sequence data with the Shasta genome assembler and a modular tool for extending phasing to the chromosome scale called GFAse. We test using new variants of ONT PromethION sequencing, including those using proximity ligation, and show that newer, higher accuracy ONT reads substantially improve assembly quality.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Nanopores",
+            "Sequence Analysis, DNA",
+            "Nanopore Sequencing",
+            "High-Throughput Nucleotide Sequencing",
+            "Software",
+            "Genomics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ryan",
+                "Last Name": "Lorig-Roach",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, California 95060, USA; rlorigro@ucsc.edu pacarnev@ucsc.edu bpaten@ucsc.edu."
+            },
+            {
+                "First Name": "Melissa",
+                "Last Name": "Meredith",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, California 95060, USA."
+            },
+            {
+                "First Name": "Jean",
+                "Last Name": "Monlong",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, California 95060, USA."
+            },
+            {
+                "First Name": "Miten",
+                "Last Name": "Jain",
+                "Affiliation": "Department of Bioengineering, Department of Physics, Northeastern University, Boston, Massachusetts 02120, USA."
+            },
+            {
+                "First Name": "Hugh E",
+                "Last Name": "Olsen",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, California 95060, USA."
+            },
+            {
+                "First Name": "Brandy",
+                "Last Name": "McNulty",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, California 95060, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Porubsky",
+                "Affiliation": "Department of Genome Sciences, University of Washington School of Medicine, Seattle, Washington 98195, USA."
+            },
+            {
+                "First Name": "Tessa G",
+                "Last Name": "Montague",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, New York 10027, USA."
+            },
+            {
+                "First Name": "Julian K",
+                "Last Name": "Lucas",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, California 95060, USA."
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Condon",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, California 95060, USA."
+            },
+            {
+                "First Name": "Jordan M",
+                "Last Name": "Eizenga",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, California 95060, USA."
+            },
+            {
+                "First Name": "Sissel",
+                "Last Name": "Juul",
+                "Affiliation": "Oxford Nanopore Technologies Incorporated, New York, New York 10013, USA."
+            },
+            {
+                "First Name": "Sean K",
+                "Last Name": "McKenzie",
+                "Affiliation": "Oxford Nanopore Technologies Incorporated, New York, New York 10013, USA."
+            },
+            {
+                "First Name": "Sara E",
+                "Last Name": "Simmonds",
+                "Affiliation": "Chan Zuckerberg Initiative Foundation, Redwood City, California 94063, USA."
+            },
+            {
+                "First Name": "Jimin",
+                "Last Name": "Park",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, California 95060, USA."
+            },
+            {
+                "First Name": "Mobin",
+                "Last Name": "Asri",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, California 95060, USA."
+            },
+            {
+                "First Name": "Sergey",
+                "Last Name": "Koren",
+                "Affiliation": "Genome Informatics Section, Computational and Statistical Genomics Branch, National Human Genome Research Institute, National Institutes of Health, Bethesda, Maryland 20894, USA."
+            },
+            {
+                "First Name": "Evan E",
+                "Last Name": "Eichler",
+                "Affiliation": "Department of Genome Sciences, University of Washington School of Medicine, Seattle, Washington 98195, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, New York 10027, USA."
+            },
+            {
+                "First Name": "Bruce",
+                "Last Name": "Martin",
+                "Affiliation": "Chan Zuckerberg Initiative Foundation, Redwood City, California 94063, USA."
+            },
+            {
+                "First Name": "Paolo",
+                "Last Name": "Carnevali",
+                "Affiliation": "Chan Zuckerberg Initiative Foundation, Redwood City, California 94063, USA; rlorigro@ucsc.edu pacarnev@ucsc.edu bpaten@ucsc.edu."
+            },
+            {
+                "First Name": "Karen H",
+                "Last Name": "Miga",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, California 95060, USA."
+            },
+            {
+                "First Name": "Benedict",
+                "Last Name": "Paten",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, California 95060, USA; rlorigro@ucsc.edu pacarnev@ucsc.edu bpaten@ucsc.edu."
+            }
+        ],
+        "Journal": "Genome research",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37696814",
+        "Title": "The spatial and temporal structure of neural activity across the fly brain.",
+        "Abstract": "What are the spatial and temporal scales of brainwide neuronal activity? We used swept, confocally-aligned planar excitation (SCAPE) microscopy to image all cells in a large volume of the brain of adult Drosophila with high spatiotemporal resolution while flies engaged in a variety of spontaneous behaviors. This revealed neural representations of behavior on multiple spatial and temporal scales. The activity of most neurons correlated (or anticorrelated) with running and flailing over timescales that ranged from seconds to a minute. Grooming elicited a weaker global response. Significant residual activity not directly correlated with behavior was high dimensional and reflected the activity of small clusters of spatially organized neurons that may correspond to genetically defined cell types. These clusters participate in the global dynamics, indicating that neural activity reflects a combination of local and broadly distributed components. This suggests that microcircuits with highly specified functions are provided with knowledge of the larger context in which they operate.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "Neurons",
+            "Drosophila",
+            "Grooming",
+            "Knowledge"
+        ],
+        "Authors": [
+            {
+                "First Name": "Evan S",
+                "Last Name": "Schaffer",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY, 10027, USA. ess2129@columbia.edu."
+            },
+            {
+                "First Name": "Neeli",
+                "Last Name": "Mishra",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Whiteway",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Wenze",
+                "Last Name": "Li",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Michelle B",
+                "Last Name": "Vancura",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Jason",
+                "Last Name": "Freedman",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Kripa B",
+                "Last Name": "Patel",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Venkatakaushik",
+                "Last Name": "Voleti",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Liam",
+                "Last Name": "Paninski",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Elizabeth M C",
+                "Last Name": "Hillman",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY, 10027, USA."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37343557",
+        "Title": "A brain atlas for the camouflaging dwarf cuttlefish, Sepia bandensis.",
+        "Abstract": "The coleoid cephalopods (cuttlefish, octopus, and squid) are a group of soft-bodied marine mollusks that exhibit an array of interesting biological phenomena, including dynamic camouflage, complex social behaviors, prehensile regenerating arms, and large brains capable of learning, memory, and problem-solving.",
+        "Keywords": [
+            "MRI",
+            "behavior",
+            "brain atlas",
+            "camouflage",
+            "cephalopod",
+            "chromatophore",
+            "cuttlefish",
+            "deep learning",
+            "histology",
+            "mollusk"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Sepia",
+            "Decapodiformes",
+            "Brain",
+            "Chromatophores",
+            "Skin Pigmentation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tessa G",
+                "Last Name": "Montague",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA; Howard Hughes Medical Institute, Columbia University, New York, NY 10027, USA. Electronic address: tessa.montague@columbia.edu."
+            },
+            {
+                "First Name": "Isabelle J",
+                "Last Name": "Rieth",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Sabrina",
+                "Last Name": "Gjerswold-Selleck",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Daniella",
+                "Last Name": "Garcia-Rosales",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Sukanya",
+                "Last Name": "Aneja",
+                "Affiliation": "Interactive Telecommunications Program, New York University, New York, NY 10003, USA."
+            },
+            {
+                "First Name": "Dana",
+                "Last Name": "Elkis",
+                "Affiliation": "Interactive Telecommunications Program, New York University, New York, NY 10003, USA."
+            },
+            {
+                "First Name": "Nanyan",
+                "Last Name": "Zhu",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Sabrina",
+                "Last Name": "Kentis",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Frederick A",
+                "Last Name": "Rubino",
+                "Affiliation": "Department of Cell Biology, NYU Grossman School of Medicine, New York, NY 10016, USA."
+            },
+            {
+                "First Name": "Adriana",
+                "Last Name": "Nemes",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Katherine",
+                "Last Name": "Wang",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Luke A",
+                "Last Name": "Hammond",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Roselis",
+                "Last Name": "Emiliano",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Rebecca A",
+                "Last Name": "Ober",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Jia",
+                "Last Name": "Guo",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA; Howard Hughes Medical Institute, Columbia University, New York, NY 10027, USA. Electronic address: ra27@columbia.edu."
+            }
+        ],
+        "Journal": "Current biology : CB",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37308660",
+        "Title": "A rapid and bidirectional reporter of neural activity reveals neural correlates of social behaviors in Drosophila.",
+        "Abstract": "Neural activity is modulated over different timescales encompassing subseconds to hours, reflecting changes in external environment, internal state and behavior. Using Drosophila as a model, we developed a rapid and bidirectional reporter that provides a cellular readout of recent neural activity. This reporter uses nuclear versus cytoplasmic distribution of CREB-regulated transcriptional co-activator (CRTC). Subcellular distribution of GFP-tagged CRTC (CRTC::GFP) bidirectionally changes on the order of minutes and reflects both increases and decreases in neural activity. We established an automated machine-learning-based routine for efficient quantification of reporter signal. Using this reporter, we demonstrate mating-evoked activation and inactivation of modulatory neurons. We further investigated the functional role of the master courtship regulator gene fruitless (fru) and show that fru is necessary to ensure activation of male arousal neurons by female cues. Together, our results establish CRTC::GFP as a bidirectional reporter of recent neural activity suitable for examining neural correlates in behavioral contexts.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Male",
+            "Female",
+            "Drosophila",
+            "Drosophila Proteins",
+            "Nervous System",
+            "Neurons",
+            "Social Behavior",
+            "Courtship",
+            "Drosophila melanogaster",
+            "Sexual Behavior, Animal",
+            "Nerve Tissue Proteins",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Moise",
+                "Last Name": "Bonheur",
+                "Affiliation": "Department of Physiology, UT Southwestern Medical Center, Dallas, TX, USA."
+            },
+            {
+                "First Name": "Kurtis J",
+                "Last Name": "Swartz",
+                "Affiliation": "Department of Neuroscience, Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Melissa G",
+                "Last Name": "Metcalf",
+                "Affiliation": "Department of Neuroscience, Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Xinke",
+                "Last Name": "Wen",
+                "Affiliation": "Department of Physiology, UT Southwestern Medical Center, Dallas, TX, USA."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Zhukovskaya",
+                "Affiliation": "Department of Neuroscience, Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Avirut",
+                "Last Name": "Mehta",
+                "Affiliation": "Department of Physiology, UT Southwestern Medical Center, Dallas, TX, USA."
+            },
+            {
+                "First Name": "Kristin E",
+                "Last Name": "Connors",
+                "Affiliation": "Department of Physiology, UT Southwestern Medical Center, Dallas, TX, USA."
+            },
+            {
+                "First Name": "Julia G",
+                "Last Name": "Barasch",
+                "Affiliation": "Department of Neuroscience, Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Andrew R",
+                "Last Name": "Jamieson",
+                "Affiliation": "Lyda Hill Department of Bioinformatics, UT Southwestern Medical Center, Dallas, TX, USA."
+            },
+            {
+                "First Name": "Kelsey C",
+                "Last Name": "Martin",
+                "Affiliation": "Department of Biological Chemistry, University of California, Los Angeles, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Department of Neuroscience, Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Daisuke",
+                "Last Name": "Hattori",
+                "Affiliation": "Department of Physiology, UT Southwestern Medical Center, Dallas, TX, USA. daisuke.hattori@utsouthwestern.edu."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37217726",
+        "Title": "Flexible neural control of transition points within the egg-laying behavioral sequence in Drosophila.",
+        "Abstract": "Innate behaviors are frequently comprised of ordered sequences of component actions that progress to satisfy essential drives. Progression is governed by specialized sensory cues that induce transitions between components within the appropriate context. Here we have characterized the structure of the egg-laying behavioral sequence in Drosophila and found significant variability in the transitions between component actions that affords the organism an adaptive flexibility. We identified distinct classes of interoceptive and exteroceptive sensory neurons that control the timing and direction of transitions between the terminal components of the sequence. We also identified a pair of motor neurons that enact the final transition to egg expulsion. These results provide a logic for the organization of innate behavior in which sensory information processed at critical junctures allows for flexible adjustments in component actions to satisfy drives across varied internal and external environments.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Drosophila",
+            "Drosophila Proteins",
+            "Sexual Behavior, Animal",
+            "Motor Neurons",
+            "Sensory Receptor Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kevin M",
+                "Last Name": "Cury",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, USA. kc2746@columbia.edu."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, USA. ra27@columbia.edu."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36865218",
+        "Title": "Phased nanopore assembly with Shasta and modular graph phasing with GFAse.",
+        "Abstract": "As a step towards simplifying and reducing the cost of haplotype resolved ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Ryan",
+                "Last Name": "Lorig-Roach",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+            },
+            {
+                "First Name": "Melissa",
+                "Last Name": "Meredith",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+            },
+            {
+                "First Name": "Jean",
+                "Last Name": "Monlong",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+            },
+            {
+                "First Name": "Miten",
+                "Last Name": "Jain",
+                "Affiliation": "Department of Bioengineering, Department of Physics, Northeastern University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Hugh",
+                "Last Name": "Olsen",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+            },
+            {
+                "First Name": "Brandy",
+                "Last Name": "McNulty",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Porubsky",
+                "Affiliation": "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Tessa",
+                "Last Name": "Montague",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, USA & Howard Hughes Medical Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Julian",
+                "Last Name": "Lucas",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Condon",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+            },
+            {
+                "First Name": "Jordan",
+                "Last Name": "Eizenga",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+            },
+            {
+                "First Name": "Sissel",
+                "Last Name": "Juul",
+                "Affiliation": "Oxford Nanopore Technologies Inc."
+            },
+            {
+                "First Name": "Sean",
+                "Last Name": "McKenzie",
+                "Affiliation": "Oxford Nanopore Technologies Inc."
+            },
+            {
+                "First Name": "Sara E",
+                "Last Name": "Simmonds",
+                "Affiliation": "Chan Zuckerberg Initiative Foundation, Redwood City, CA, USA."
+            },
+            {
+                "First Name": "Jimin",
+                "Last Name": "Park",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+            },
+            {
+                "First Name": "Mobin",
+                "Last Name": "Asri",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+            },
+            {
+                "First Name": "Sergey",
+                "Last Name": "Koren",
+                "Affiliation": "Genome Informatics Section, Computational and Statistical Genomics Branch, National Human Genome & Research Institute, National Institutes of Health, Bethesda, MD USA."
+            },
+            {
+                "First Name": "Evan",
+                "Last Name": "Eichler",
+                "Affiliation": "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA & Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, USA & Howard Hughes Medical Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Bruce",
+                "Last Name": "Martin",
+                "Affiliation": "Chan Zuckerberg Initiative Foundation, Redwood City, CA, USA."
+            },
+            {
+                "First Name": "Paolo",
+                "Last Name": "Carnevali",
+                "Affiliation": "Chan Zuckerberg Initiative Foundation, Redwood City, CA, USA."
+            },
+            {
+                "First Name": "Karen",
+                "Last Name": "Miga",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+            },
+            {
+                "First Name": "Benedict",
+                "Last Name": "Paten",
+                "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "34731675",
+        "Title": "Individual bitter-sensing neurons in Drosophila exhibit both ON and OFF responses that influence synaptic plasticity.",
+        "Abstract": "The brain generates internal representations that translate sensory stimuli into appropriate behavior. In the taste system, different tastes activate distinct populations of sensory neurons. We investigated the temporal properties of taste responses in Drosophila and discovered that different types of taste sensory neurons show striking differences in their response dynamics. Strong responses to stimulus onset (ON responses) and offset (OFF responses) were observed in bitter-sensing neurons in the labellum, whereas bitter neurons in the leg and other classes of labellar taste neurons showed only an ON response. Individual labellar bitter neurons generate both ON and OFF responses through a cell-intrinsic mechanism that requires canonical bitter receptors. A single receptor complex likely generates both ON and OFF responses to a given bitter ligand. These ON and OFF responses in the periphery are propagated to dopaminergic neurons that mediate aversive learning, and the presence of the OFF response impacts synaptic plasticity when bitter is used as a reinforcement cue. These studies reveal previously unknown features of taste responses that impact neural circuit function and may be important for behavior. Moreover, these studies show that OFF responses can dramatically influence timing-based synaptic plasticity, which is thought to underlie associative learning.",
+        "Keywords": [
+            "Drosophila",
+            "OFF response",
+            "calcium imaging",
+            "mushroom body",
+            "taste"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Drosophila",
+            "Drosophila Proteins",
+            "Neuronal Plasticity",
+            "Sensory Receptor Cells",
+            "Taste"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anita V",
+                "Last Name": "Devineni",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, 3227 Broadway, New York, NY 10027, USA. Electronic address: anita.devineni@emory.edu."
+            },
+            {
+                "First Name": "Julia U",
+                "Last Name": "Deere",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, 3227 Broadway, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Bei",
+                "Last Name": "Sun",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, 3227 Broadway, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, 3227 Broadway, New York, NY 10027, USA; Howard Hughes Medical Institute, Columbia University, New York, NY 10032, USA. Electronic address: ra27@columbia.edu."
+            }
+        ],
+        "Journal": "Current biology : CB",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34710366",
+        "Title": "Olfactory landmarks and path integration converge to form a cognitive spatial map.",
+        "Abstract": "The convergence of internal path integration and external sensory landmarks generates a cognitive spatial map in the hippocampus. We studied how localized odor cues are recognized as landmarks by recording the activity of neurons in CA1 during a virtual navigation task. We found that odor cues enriched place cell representations, dramatically improving navigation. Presentation of the same odor at different locations generated distinct place cell representations. An odor cue at a proximal location enhanced the local place cell density and also led to the formation of place cells beyond the cue. This resulted in the recognition of a second, more distal odor cue as a distinct landmark, suggesting an iterative mechanism for extending spatial representations into unknown territory. Our results establish that odors can serve as landmarks, motivating a model in which path integration and odor landmarks interact sequentially and iteratively to generate cognitive spatial maps over long distances.",
+        "Keywords": [
+            "CA1",
+            "hippocampus",
+            "landmarks",
+            "olfaction",
+            "path integration",
+            "place cells",
+            "spatial navigation",
+            "theoretical model"
+        ],
+        "MeSH terms": [
+            "Cognition",
+            "Cues",
+            "Hippocampus",
+            "Odorants",
+            "Place Cells",
+            "Smell",
+            "Space Perception",
+            "Spatial Navigation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Walter",
+                "Last Name": "Fischler-Ruiz",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain and Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, 10027 USA."
+            },
+            {
+                "First Name": "David G",
+                "Last Name": "Clark",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain and Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, 10027 USA."
+            },
+            {
+                "First Name": "Narendra R",
+                "Last Name": "Joshi",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain and Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, 10027 USA."
+            },
+            {
+                "First Name": "Virginia",
+                "Last Name": "Devi-Chou",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain and Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, 10027 USA."
+            },
+            {
+                "First Name": "Lacey",
+                "Last Name": "Kitch",
+                "Affiliation": "James H. Clark Center for Biomedical Engineering & Sciences, Stanford University, Stanford, CA, 94305 USA; CNC Program, Stanford University, Stanford, CA, 94305 USA."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Schnitzer",
+                "Affiliation": "James H. Clark Center for Biomedical Engineering & Sciences, Stanford University, Stanford, CA, 94305 USA; CNC Program, Stanford University, Stanford, CA, 94305 USA; Howard Hughes Medical Institute, Stanford University, Stanford, CA, 94305 USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain and Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, 10027 USA; Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, 10032 USA. Electronic address: lfa2103@columbia.edu."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain and Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, 10027 USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, 10032 USA; Howard Hughes Medical Institute, Columbia University, New York, NY, 10027 USA. Electronic address: ra27@columbia.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34619093",
+        "Title": "Evolving the olfactory system with machine learning.",
+        "Abstract": "The convergent evolution of the fly and mouse olfactory system led us to ask whether the anatomic connectivity and functional logic of olfactory circuits would evolve in artificial neural networks trained to perform olfactory tasks. Artificial networks trained to classify odor identity recapitulate the connectivity inherent in the olfactory system. Input units are driven by a single receptor type, and units driven by the same receptor converge to form a glomerulus. Glomeruli exhibit sparse, unstructured connectivity onto a larger expansion layer of Kenyon cells. When trained to both classify odor identity and to impart innate valence onto odors, the network develops independent pathways for identity and valence classification. Thus, the defining features of fly and mouse olfactory systems also evolved in artificial neural networks trained to perform olfactory tasks. This implies that convergent evolution reflects an underlying logic rather than shared developmental principles.",
+        "Keywords": [
+            "machine learning, AI, olfaction, evolution, neural circuits, perception, sensory processing"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Machine Learning",
+            "Mice",
+            "Odorants",
+            "Olfactory Bulb",
+            "Olfactory Pathways",
+            "Olfactory Perception",
+            "Olfactory Receptor Neurons",
+            "Smell"
+        ],
+        "Authors": [
+            {
+                "First Name": "Peter Y",
+                "Last Name": "Wang",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Yi",
+                "Last Name": "Sun",
+                "Affiliation": "Department of Mathematics, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA; Howard Hughes Medical Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Guangyu Robert",
+                "Last Name": "Yang",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA. Electronic address: yanggr@mit.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34108681",
+        "Title": "Representational drift in primary olfactory cortex.",
+        "Abstract": "Perceptual constancy requires the brain to maintain a stable representation of sensory input. In the olfactory system, activity in primary olfactory cortex (piriform cortex) is thought to determine odour identity",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Conditioning, Psychological",
+            "Fear",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Neurons",
+            "Odorants",
+            "Olfactory Cortex",
+            "Olfactory Pathways",
+            "Olfactory Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Carl E",
+                "Last Name": "Schoonover",
+                "Affiliation": "Howard Hughes Medical Institute, Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, USA. ces2001@columbia.edu."
+            },
+            {
+                "First Name": "Sarah N",
+                "Last Name": "Ohashi",
+                "Affiliation": "Howard Hughes Medical Institute, Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Howard Hughes Medical Institute, Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, USA. ra27@columbia.edu."
+            },
+            {
+                "First Name": "Andrew J P",
+                "Last Name": "Fink",
+                "Affiliation": "Howard Hughes Medical Institute, Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY, USA. af2243@columbia.edu."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34028136",
+        "Title": "Embryonic development of the camouflaging dwarf cuttlefish, Sepia bandensis.",
+        "Abstract": "The dwarf cuttlefish Sepia bandensis, a camouflaging cephalopod from the Indo-Pacific, is a promising new model organism for neuroscience, developmental biology, and evolutionary studies. Cuttlefish dynamically camouflage to their surroundings by altering the color, pattern, and texture of their skin. The skin's \"pixels\" (chromatophores) are controlled by motor neurons projecting from the brain. Thus, camouflage is a visible representation of neural activity. In addition to camouflage, the dwarf cuttlefish uses dynamic skin patterns for social communication. Despite more than 500 million years of evolutionary separation, cuttlefish and vertebrates converged to form limbs, camera-type eyes and a closed circulatory system. Moreover, cuttlefish have a striking ability to regenerate their limbs. Interrogation of these unique biological features will benefit from the development of a new set of tools. Dwarf cuttlefish reach sexual maturity in 4\u00a0months, they lay dozens of eggs over their 9-month lifespan, and the embryos develop to hatching in 1\u00a0month.",
+        "Keywords": [
+            "behavior",
+            "camouflage",
+            "cephalopod",
+            "cuttlefish",
+            "embryogenesis",
+            "gene editing",
+            "neuroscience",
+            "new model organism",
+            "staging series"
+        ],
+        "MeSH terms": [
+            "Adaptation, Physiological",
+            "Animals",
+            "Behavior, Animal",
+            "Biological Mimicry",
+            "Cells, Cultured",
+            "Decapodiformes",
+            "Embryo Culture Techniques",
+            "Embryo, Nonmammalian",
+            "Embryonic Development",
+            "Life Cycle Stages",
+            "Phylogeny",
+            "Sepia"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tessa G",
+                "Last Name": "Montague",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Isabelle J",
+                "Last Name": "Rieth",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Developmental dynamics : an official publication of the American Association of Anatomists",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33115926",
+        "Title": "Synaptic Organization of Anterior Olfactory Nucleus Inputs to Piriform Cortex.",
+        "Abstract": "Odors activate distributed ensembles of neurons within the piriform cortex, forming cortical representations of odor thought to be essential to olfactory learning and behaviors. This odor response is driven by direct input from the olfactory bulb, but is also shaped by a dense network of associative or intracortical inputs to piriform, which may enhance or constrain the cortical odor representation. With optogenetic techniques, it is possible to functionally isolate defined inputs to piriform cortex and assess their potential to activate or inhibit piriform pyramidal neurons. The anterior olfactory nucleus (AON) receives direct input from the olfactory bulb and sends an associative projection to piriform cortex that has potential roles in the state-dependent processing of olfactory behaviors. Here, we provide a detailed functional assessment of the AON afferents to piriform in male and female C57Bl/6J mice. We confirm that the AON forms glutamatergic excitatory synapses onto piriform pyramidal neurons; and while these inputs are not as strong as piriform recurrent collaterals, they are less constrained by disynaptic inhibition. Moreover, AON-to-piriform synapses contain a substantial NMDAR-mediated current that prolongs the synaptic response at depolarized potentials. These properties of limited inhibition and slow NMDAR-mediated currents result in strong temporal summation of AON inputs within piriform pyramidal neurons, and suggest that the AON could powerfully enhance activation of piriform neurons in response to odor.",
+        "Keywords": [
+            "anterior olfactory cortex",
+            "anterior olfactory nucleus",
+            "associational synapses",
+            "intracortical synapses",
+            "olfactory cortex",
+            "piriform cortex"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Female",
+            "Glutamic Acid",
+            "Male",
+            "Membrane Potentials",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Neurons, Afferent",
+            "Odorants",
+            "Olfactory Bulb",
+            "Olfactory Cortex",
+            "Optogenetics",
+            "Piriform Cortex",
+            "Pyramidal Cells",
+            "Receptors, N-Methyl-D-Aspartate",
+            "Smell",
+            "Synapses"
+        ],
+        "Authors": [
+            {
+                "First Name": "Marco J",
+                "Last Name": "Russo",
+                "Affiliation": "Department of Neuroscience, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Kevin M",
+                "Last Name": "Franks",
+                "Affiliation": "Department of Neuroscience, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Roxanne",
+                "Last Name": "Oghaz",
+                "Affiliation": "Department of Neuroscience, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Department of Biochemistry and Molecular Biophysics, Howard Hughes Medical Institute, Vagelos College of Physicians & Surgeons, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Steven A",
+                "Last Name": "Siegelbaum",
+                "Affiliation": "Department of Neuroscience, Kavli Institute for Brain Science, Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Pharmacology, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York sas8@columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32827456",
+        "Title": "Transient and Persistent Representations of Odor Value in Prefrontal Cortex.",
+        "Abstract": "The representation of odor in olfactory cortex (piriform) is distributive and unstructured and can only be afforded behavioral significance upon learning. We performed 2-photon imaging to examine the representation of odors in piriform and in two downstream areas, the orbitofrontal cortex (OFC) and the medial prefrontal cortex (mPFC), as mice learned olfactory associations. In piriform, we observed that odor responses were largely unchanged during learning. In OFC, 30% of the neurons acquired robust responses to conditioned stimuli (CS+) after learning, and these responses were gated by internal state and task context. Moreover, direct projections from piriform to OFC can be entrained to elicit learned olfactory behavior. CS+ responses in OFC diminished with continued training, whereas persistent representations of both CS+ and CS- odors emerged in mPFC. Optogenetic silencing indicates that these two brain structures function sequentially to consolidate the learning of appetitive associations.",
+        "Keywords": [
+            "Medial Prefrontal Cortex",
+            "Orbitofrontal Cortex",
+            "Piriform Cortex",
+            "learning",
+            "memory",
+            "olfaction",
+            "sensory processing",
+            "value"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Appetitive Behavior",
+            "Association Learning",
+            "Conditioning, Classical",
+            "Intravital Microscopy",
+            "Mice",
+            "Microscopy, Fluorescence, Multiphoton",
+            "Neurons",
+            "Odorants",
+            "Olfactory Pathways",
+            "Optogenetics",
+            "Piriform Cortex",
+            "Prefrontal Cortex"
+        ],
+        "Authors": [
+            {
+                "First Name": "Peter Y",
+                "Last Name": "Wang",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Cristian",
+                "Last Name": "Boboila",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Chin",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Alexandra",
+                "Last Name": "Higashi-Howard",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA; Howard Hughes Medical Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Philip",
+                "Last Name": "Shamash",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Zheng",
+                "Last Name": "Wu",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Nicole P",
+                "Last Name": "Stein",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA; Howard Hughes Medical Institute, Columbia University, New York, NY 10027, USA. Electronic address: ra27@columbia.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32105611",
+        "Title": "Context-Dependent Decision Making in a Premotor Circuit.",
+        "Abstract": "Cognitive capacities afford contingent associations between sensory information and behavioral responses. We studied this problem using an olfactory delayed match to sample task whereby a sample odor specifies the association between a subsequent test odor and rewarding action. Multi-neuron recordings revealed representations of the sample and test odors in olfactory sensory and association cortex, which were sufficient to identify the test\u00a0odor as match or non-match. Yet, inactivation of a\u00a0downstream premotor area (ALM), but not orbitofrontal cortex, confined to the epoch preceding the test odor led to gross impairment. Olfactory decisions that were not context-dependent were unimpaired. Therefore, ALM does not receive the outcome of a match/non-match decision from upstream areas. It receives contextual information-the identity of the sample-to establish the mapping between test odor and action. A novel population of pyramidal neurons in ALM layer 2 may mediate this process.",
+        "Keywords": [
+            "ALM",
+            "anterolateral motor cortex",
+            "context",
+            "decision-making",
+            "flexible behavior",
+            "olfaction",
+            "premotor cortex",
+            "working memory"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Brain Mapping",
+            "Decision Making",
+            "Discrimination, Psychological",
+            "Mice",
+            "Motor Cortex",
+            "Odorants",
+            "Olfactory Cortex",
+            "Olfactory Pathways",
+            "Optogenetics",
+            "Piriform Cortex",
+            "Psychomotor Performance",
+            "Pyramidal Cells",
+            "Reward",
+            "Smell"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zheng",
+                "Last Name": "Wu",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, New York, NY 10027, USA; Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Philip",
+                "Last Name": "Shamash",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Alexei",
+                "Last Name": "Taylor",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, New York, NY 10027, USA; Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, New York, NY 10027, USA; Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY 10027, USA. Electronic address: ra27@columbia.edu."
+            },
+            {
+                "First Name": "Michael N",
+                "Last Name": "Shadlen",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, New York, NY 10027, USA; Mortimer B. Zuckerman Mind Brain Behavior Institute and Department of Neuroscience, Columbia University, New York, NY 10027, USA. Electronic address: shadlen@columbia.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31996852",
+        "Title": "The pheromone darcin drives a circuit for innate and reinforced behaviours.",
+        "Abstract": "Organisms have evolved diverse behavioural strategies that enhance the likelihood of encountering and assessing mates",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Female",
+            "Intercellular Signaling Peptides and Proteins",
+            "Male",
+            "Mice",
+            "Olfactory Bulb",
+            "Pheromones",
+            "Proteins",
+            "Reinforcement, Psychology",
+            "Sexual Behavior, Animal"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ebru",
+                "Last Name": "Demir",
+                "Affiliation": "Department of Neuroscience, Columbia University, Mortimer B. Zuckerman Mind Brain Behavior Institute, New York, NY, USA."
+            },
+            {
+                "First Name": "Kenneth",
+                "Last Name": "Li",
+                "Affiliation": "Department of Neuroscience, Columbia University, Mortimer B. Zuckerman Mind Brain Behavior Institute, New York, NY, USA."
+            },
+            {
+                "First Name": "Natasha",
+                "Last Name": "Bobrowski-Khoury",
+                "Affiliation": "Department of Neuroscience, Columbia University, Mortimer B. Zuckerman Mind Brain Behavior Institute, New York, NY, USA."
+            },
+            {
+                "First Name": "Joshua I",
+                "Last Name": "Sanders",
+                "Affiliation": "Department of Neuroscience, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA."
+            },
+            {
+                "First Name": "Robert J",
+                "Last Name": "Beynon",
+                "Affiliation": "Centre for Proteome Research, Institute of Integrative Biology, University of Liverpool, Liverpool, UK."
+            },
+            {
+                "First Name": "Jane L",
+                "Last Name": "Hurst",
+                "Affiliation": "Mammalian Behaviour and Evolution Group, Institute of Integrative Biology, University of Liverpool, Leahurst Campus, Neston, UK."
+            },
+            {
+                "First Name": "Adam",
+                "Last Name": "Kepecs",
+                "Affiliation": "Department of Neuroscience, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA. akepecs@wustl.edu."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Department of Neuroscience, Columbia University, Mortimer B. Zuckerman Mind Brain Behavior Institute, New York, NY, USA. ra27@columbia.edu."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31205005",
+        "Title": "Acetic acid activates distinct taste pathways in ",
+        "Abstract": "Taste circuits are genetically determined to elicit an innate appetitive or aversive response, ensuring that animals consume nutritious foods and avoid the ingestion of toxins. We have examined the response of ",
+        "Keywords": [
+            "D. melanogaster",
+            "acetic acid",
+            "calcium imaging",
+            "feeding",
+            "hunger",
+            "internal state",
+            "neuroscience",
+            "taste"
+        ],
+        "MeSH terms": [
+            "Acetic Acid",
+            "Animals",
+            "Appetite",
+            "Drosophila melanogaster",
+            "Feeding Behavior",
+            "Hunger",
+            "Neural Pathways",
+            "Sensory Receptor Cells",
+            "Taste"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anita V",
+                "Last Name": "Devineni",
+                "Affiliation": "Department of Neuroscience, The Mortimer B Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Bei",
+                "Last Name": "Sun",
+                "Affiliation": "Department of Neuroscience, The Mortimer B Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Zhukovskaya",
+                "Affiliation": "Department of Neuroscience, The Mortimer B Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Department of Neuroscience, The Mortimer B Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30994457",
+        "Title": "A virtual burrow assay for head-fixed mice measures habituation, discrimination, exploration and avoidance without training.",
+        "Abstract": "We have designed an assay that measures approach and avoidance behaviors in head-fixed mice at millisecond timescale, is compatible with standard electrophysiological and optical methods for measuring neuronal activity, and requires no training. The Virtual Burrow Assay simulates a scenario in which a mouse, poised at the threshold of its burrow, evaluates whether to exit the enclosure or to retreat inside. The assay provides a sensitive readout of habituation, discrimination and exploration, as well as avoidance of both conditioned and innately aversive cues.",
+        "Keywords": [
+            "exploration",
+            "fear conditioning",
+            "habituation",
+            "head-fixed behavior",
+            "mouse",
+            "neuroscience",
+            "sensory discrimination",
+            "virtual burrow assay"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Avoidance Learning",
+            "Behavior, Animal",
+            "Exploratory Behavior",
+            "Habituation, Psychophysiologic",
+            "Mice"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrew Jp",
+                "Last Name": "Fink",
+                "Affiliation": "Department of Neuroscience, Howard Hughes Medical Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Department of Neuroscience, Howard Hughes Medical Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Carl E",
+                "Last Name": "Schoonover",
+                "Affiliation": "Department of Neuroscience, Howard Hughes Medical Institute, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "29706585",
+        "Title": "Odor Perception on the Two Sides of the Brain: Consistency Despite Randomness.",
+        "Abstract": "Neurons in piriform cortex receive input from a random collection of glomeruli, resulting in odor representations that lack the stereotypic organization of the olfactory bulb. We have performed in\u00a0vivo optical imaging and mathematical modeling to demonstrate that correlations are retained in the transformation from bulb to piriform cortex, a feature essential for generalization across odors. Random connectivity also implies that the piriform representation of a given odor will differ among different individuals and across brain hemispheres in a single individual. We show that these different representations can nevertheless support consistent agreement about odor quality across a range of odors. Our model also demonstrates that, whereas odor discrimination and categorization require far fewer neurons than reside in piriform cortex, consistent generalization may require the full complement of piriform neurons.",
+        "Keywords": [
+            "consistency across individuals",
+            "generalization",
+            "olfactory representation",
+            "piriform cortex",
+            "random connectivity",
+            "readout agreement"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Calcium",
+            "Drosophila",
+            "Functional Laterality",
+            "Generalization, Psychological",
+            "Intravital Microscopy",
+            "Mice",
+            "Models, Theoretical",
+            "Mushroom Bodies",
+            "Neurons",
+            "Olfactory Bulb",
+            "Olfactory Pathways",
+            "Olfactory Perception",
+            "Optical Imaging",
+            "Piriform Cortex"
+        ],
+        "Authors": [
+            {
+                "First Name": "Evan S",
+                "Last Name": "Schaffer",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA. Electronic address: ess2129@columbia.edu."
+            },
+            {
+                "First Name": "Dan D",
+                "Last Name": "Stettler",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Kato",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Gloria B",
+                "Last Name": "Choi",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Howard Hughes Medical Institute, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA; Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28502772",
+        "Title": "Representations of Novelty and Familiarity in a Mushroom Body Compartment.",
+        "Abstract": "Animals exhibit a behavioral response to novel sensory stimuli about which they have no prior knowledge. We have examined the neural and behavioral correlates of novelty and familiarity in the olfactory system of Drosophila. Novel odors elicit strong activity in output neurons (MBONs) of the \u03b1'3 compartment of the mushroom body that is rapidly suppressed upon repeated exposure to the same odor. This transition in neural activity upon familiarization requires odor-evoked activity in the dopaminergic neuron innervating this compartment. Moreover, exposure of a fly to novel odors evokes an alerting response that can also be elicited by optogenetic activation of \u03b1'3 MBONs. Silencing these MBONs eliminates the alerting behavior. These data suggest that the \u03b1'3 compartment plays a causal role in the behavioral response to novel and familiar stimuli as a consequence of dopamine-mediated plasticity at the Kenyon cell-MBON\u03b1'3 synapse.",
+        "Keywords": [
+            "Drosophila melanogaster",
+            "alerting response",
+            "dopamine",
+            "mushroom body",
+            "novelty and familiarity",
+            "olfactory learning and memory",
+            "repetition suppression"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Dopaminergic Neurons",
+            "Drosophila melanogaster",
+            "Learning",
+            "Memory",
+            "Mushroom Bodies",
+            "Odorants",
+            "Smell"
+        ],
+        "Authors": [
+            {
+                "First Name": "Daisuke",
+                "Last Name": "Hattori",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yoshinori",
+                "Last Name": "Aso",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA 20147, USA."
+            },
+            {
+                "First Name": "Kurtis J",
+                "Last Name": "Swartz",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Gerald M",
+                "Last Name": "Rubin",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA 20147, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "The Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10032, USA. Electronic address: ra27@columbia.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28215558",
+        "Title": "Optimal Degrees of Synaptic Connectivity.",
+        "Abstract": "Synaptic connectivity varies widely across neuronal types. Cerebellar granule cells receive five orders of magnitude fewer inputs than the Purkinje cells they innervate, and cerebellum-like circuits, including the insect mushroom body, also exhibit large divergences in connectivity. In contrast, the number of inputs per neuron in cerebral cortex is more uniform and large. We investigate how the dimension of a representation formed by a population of neurons depends on how many inputs each neuron receives and what this implies for learning associations. Our theory predicts that the dimensions of the cerebellar granule-cell and Drosophila Kenyon-cell representations are maximized at degrees of synaptic connectivity that match those observed anatomically, showing that sparse connectivity is sometimes superior to dense connectivity. When input synapses are subject to supervised plasticity, however, dense wiring becomes advantageous, suggesting that the type of plasticity exhibited by a set of synapses is a major determinant of connection density.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cerebellum",
+            "Cerebral Cortex",
+            "Drosophila melanogaster",
+            "Models, Neurological",
+            "Mushroom Bodies",
+            "Neuronal Plasticity",
+            "Purkinje Cells",
+            "Synapses"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA. Electronic address: ak3625@columbia.edu."
+            },
+            {
+                "First Name": "Kameron Decker",
+                "Last Name": "Harris",
+                "Affiliation": "Department of Applied Mathematics, University of Washington, Seattle, WA 98195, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Howard Hughes Medical Institute, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Haim",
+                "Last Name": "Sompolinsky",
+                "Affiliation": "Edmond and Lily Safra Center for Brain Sciences, Hebrew University, Jerusalem 91904, Israel; Racah Institute of Physics, Hebrew University, Jerusalem 91904, Israel; Center for Brain Science, Harvard University, Cambridge, MA 02138, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027, USA; Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "26140594",
+        "Title": "Neural Representations of Unconditioned Stimuli in Basolateral Amygdala Mediate Innate and Learned Responses.",
+        "Abstract": "Stimuli that possess inherently rewarding or aversive qualities elicit emotional responses and also induce learning by imparting valence upon neutral sensory cues. Evidence has accumulated implicating the amygdala as a critical structure in mediating these processes. We have developed a genetic strategy to identify the representations of rewarding and aversive unconditioned stimuli (USs) in the basolateral amygdala (BLA) and have examined their role in innate and learned responses. Activation of an ensemble of US-responsive cells in the BLA elicits innate physiological and behavioral responses of different valence. Activation of this US ensemble can also reinforce appetitive and aversive learning when paired with differing neutral stimuli. Moreover, we establish that the activation of US-responsive cells in the BLA is necessary for the expression of a conditioned response. Neural representations of conditioned and unconditioned stimuli therefore ultimately connect to US-responsive cells in the BLA to elicit both innate and learned responses.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Appetitive Behavior",
+            "Basolateral Nuclear Complex",
+            "Behavior, Animal",
+            "Conditioning, Classical",
+            "Learning",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Reward"
+        ],
+        "Authors": [
+            {
+                "First Name": "Felicity",
+                "Last Name": "Gore",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Edmund C",
+                "Last Name": "Schwartz",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Baylor C",
+                "Last Name": "Brangers",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Stanley",
+                "Last Name": "Aladi",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Joseph M",
+                "Last Name": "Stujenske",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Ekaterina",
+                "Last Name": "Likhtik",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Marco J",
+                "Last Name": "Russo",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Joshua A",
+                "Last Name": "Gordon",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY 10032, USA; New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "C Daniel",
+                "Last Name": "Salzman",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA; Department of Psychiatry, Columbia University, New York, NY 10032, USA; New York State Psychiatric Institute, New York, NY 10032, USA. Electronic address: cds2005@columbia.edu."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA; Howard Hughes Medical Institute, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA. Electronic address: ra27@columbia.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25535793",
+        "Title": "The neuronal architecture of the mushroom body provides a logic for associative learning.",
+        "Abstract": "We identified the neurons comprising the Drosophila mushroom body (MB), an associative center in invertebrate brains, and provide a comprehensive map describing their potential connections. Each of the 21 MB output neuron (MBON) types elaborates segregated dendritic arbors along the parallel axons of \u223c2000 Kenyon cells, forming 15 compartments that collectively tile the MB lobes. MBON axons project to five discrete neuropils outside of the MB and three MBON types form a feedforward network in the lobes. Each of the 20 dopaminergic neuron (DAN) types projects axons to one, or at most two, of the MBON compartments. Convergence of DAN axons on compartmentalized Kenyon cell-MBON synapses creates a highly ordered unit that can support learning to impose valence on sensory representations. The elucidation of the complement of neurons of the MB provides a comprehensive anatomical substrate from which one can infer a functional logic of associative olfactory learning and memory.",
+        "Keywords": [
+            "D. melanogaster",
+            "associative memory",
+            "dopamine",
+            "mushroom body",
+            "neuronal circuits",
+            "neuroscience",
+            "olfactory learning",
+            "plasticity"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Association Learning",
+            "Brain",
+            "Cell Compartmentation",
+            "Cell Shape",
+            "Dendrites",
+            "Dopaminergic Neurons",
+            "Drosophila melanogaster",
+            "Green Fluorescent Proteins",
+            "Logic",
+            "Models, Neurological",
+            "Mushroom Bodies",
+            "Neurotransmitter Agents",
+            "Olfactory Pathways",
+            "Sensory Receptor Cells",
+            "Smell"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yoshinori",
+                "Last Name": "Aso",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Daisuke",
+                "Last Name": "Hattori",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Yang",
+                "Last Name": "Yu",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Rebecca M",
+                "Last Name": "Johnston",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Nirmala A",
+                "Last Name": "Iyer",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Teri-T B",
+                "Last Name": "Ngo",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "Heather",
+                "Last Name": "Dionne",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Department of Neuroscience, College of Physicians and Surgeons, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Hiromu",
+                "Last Name": "Tanimoto",
+                "Affiliation": "Tohuku University Graduate School of Life Sciences, Sendai, Japan."
+            },
+            {
+                "First Name": "Gerald M",
+                "Last Name": "Rubin",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25383519",
+        "Title": "The participation of cortical amygdala in innate, odour-driven behaviour.",
+        "Abstract": "Innate behaviours are observed in naive animals without prior learning or experience, suggesting that the neural circuits that mediate these behaviours are genetically determined and stereotyped. The neural circuits that convey olfactory information from the sense organ to the cortical and subcortical olfactory centres have been anatomically defined, but the specific pathways responsible for innate responses to volatile odours have not been identified. Here we devise genetic strategies that demonstrate that a stereotyped neural circuit that transmits information from the olfactory bulb to cortical amygdala is necessary for innate aversive and appetitive behaviours. Moreover, we use the promoter of the activity-dependent gene arc to express the photosensitive ion channel, channelrhodopsin, in neurons of the cortical amygdala activated by odours that elicit innate behaviours. Optical activation of these neurons leads to appropriate behaviours that recapitulate the responses to innate odours. These data indicate that the cortical amygdala plays a critical role in generating innate odour-driven behaviours but do not preclude its participation in learned olfactory behaviours.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amygdala",
+            "Animals",
+            "Behavior",
+            "Learning",
+            "Mice",
+            "Neurons",
+            "Odorants",
+            "Olfactory Bulb",
+            "Olfactory Pathways",
+            "Olfactory Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cory M",
+                "Last Name": "Root",
+                "Affiliation": "Department of Neuroscience and the Howard Hughes Medical Institute, College of Physicians and Surgeons, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Christine A",
+                "Last Name": "Denny",
+                "Affiliation": "1] Department of Biological Sciences, New York State Psychiatric Institute, New York, New York 10032, USA [2] Department of Neuroscience and Psychiatry, New York State Psychiatric Institute, New York, New York 10032, USA [3] Division of Integrative Neuroscience, New York State Psychiatric Institute, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Ren\u00e9",
+                "Last Name": "Hen",
+                "Affiliation": "1] Department of Neuroscience and Psychiatry, New York State Psychiatric Institute, New York, New York 10032, USA [2] Division of Integrative Neuroscience, New York State Psychiatric Institute, New York, New York 10032, USA [3] Department of Pharmacology, Columbia University, New York State Psychiatric Institute, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Department of Neuroscience and the Howard Hughes Medical Institute, College of Physicians and Surgeons, Columbia University, New York, New York 10032, USA."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25043419",
+        "Title": "Identifying functional connections of the inner photoreceptors in Drosophila using Tango-Trace.",
+        "Abstract": "In Drosophila, the four inner photoreceptor neurons exhibit overlapping but distinct spectral sensitivities and mediate behaviors that reflect spectral preference. We developed a genetic strategy, Tango-Trace, that has permitted the identification of the connections of the four chromatic photoreceptors. Each of the four stochastically distributed chromatic photoreceptor subtypes make distinct connections in the medulla with four different TmY cells. Moreover, each class of TmY cells forms a retinotopic map in both the medulla and the lobula complex, generating four overlapping topographic maps that could carry different color information. Thus, the four inner photoreceptors transmit spectral information through distinct channels that may converge in both the medulla and lobula complex. These projections could provide an anatomic basis for color vision and may relay information about color to motion sensitive areas. Moreover, the Tango-Trace strategy we used may be applied more generally to identify neural circuits in the fly brain.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Aryl Hydrocarbon Receptor Nuclear Translocator",
+            "Chloride Channels",
+            "Color Vision",
+            "Drosophila Proteins",
+            "Drosophila melanogaster",
+            "Medulla Oblongata",
+            "Motion",
+            "Nerve Net",
+            "Neurons",
+            "Photic Stimulation",
+            "Photoreceptor Cells",
+            "Receptors, Histamine H2",
+            "Recombinant Fusion Proteins",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Smitha",
+                "Last Name": "Jagadish",
+                "Affiliation": "Department of Neuroscience and the Howard Hughes Medical Institute, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Gilad",
+                "Last Name": "Barnea",
+                "Affiliation": "Department of Neuroscience, Brown University, Providence, RI 02912\u00a0USA."
+            },
+            {
+                "First Name": "Thomas R",
+                "Last Name": "Clandinin",
+                "Affiliation": "Department of Neurobiology, Stanford University, Stanford, CA 94305, USA. Electronic address: trc@stanford.edu."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Department of Neuroscience and the Howard Hughes Medical Institute, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA. Electronic address: ra27@columbia.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "26092888",
+        "Title": "A Conversation with Richard Axel.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cognition",
+            "Humans",
+            "Odorants",
+            "Olfactory Bulb",
+            "Smell"
+        ],
+        "Authors": [
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Karen",
+                "Last Name": "Carniol",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cold Spring Harbor symposia on quantitative biology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "23615618",
+        "Title": "Random convergence of olfactory inputs in the Drosophila mushroom body.",
+        "Abstract": "The mushroom body in the fruitfly Drosophila melanogaster is an associative brain centre that translates odour representations into learned behavioural responses. Kenyon cells, the intrinsic neurons of the mushroom body, integrate input from olfactory glomeruli to encode odours as sparse distributed patterns of neural activity. We have developed anatomic tracing techniques to identify the glomerular origin of the inputs that converge onto 200 individual Kenyon cells. Here we show that each Kenyon cell integrates input from a different and apparently random combination of glomeruli. The glomerular inputs to individual Kenyon cells show no discernible organization with respect to their odour tuning, anatomic features or developmental origins. Moreover, different classes of Kenyon cells do not seem to preferentially integrate inputs from specific combinations of glomeruli. This organization of glomerular connections to the mushroom body could allow the fly to contextualize novel sensory experiences, a feature consistent with the role of this brain centre in mediating learned olfactory associations and behaviours.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Arthropod Antennae",
+            "Coloring Agents",
+            "Drosophila melanogaster",
+            "Female",
+            "Learning",
+            "Male",
+            "Models, Neurological",
+            "Mushroom Bodies",
+            "Neuroanatomical Tract-Tracing Techniques",
+            "Neurons",
+            "Odorants",
+            "Olfactory Pathways",
+            "Smell",
+            "Staining and Labeling"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sophie J C",
+                "Last Name": "Caron",
+                "Affiliation": "Department of Neuroscience, College of Physicians and Surgeons, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Vanessa",
+                "Last Name": "Ruta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "22627793",
+        "Title": "The best of times, the worst of times for psychiatric disease.",
+        "Abstract": "As long-awaited advances in psychiatric genetics begin to materialize in force, promising to steer us safely to the best of times in psychiatric disease research, many pharmaceutical companies pull away from the challenge of drug development, threatening to bring us to the worst of times for the field. There is a real danger of missed opportunities and a sense of urgency for defining a clear path forward.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Drug Industry",
+            "Humans",
+            "Mental Disorders",
+            "Psychiatry",
+            "Research Design"
+        ],
+        "Authors": [
+            {
+                "First Name": "Maria",
+                "Last Name": "Karayiorgou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Flint",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph A",
+                "Last Name": "Gogos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert C",
+                "Last Name": "Malenka",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22304923",
+        "Title": "Visualizing neuromodulation in vivo: TANGO-mapping of dopamine signaling reveals appetite control of sugar sensing.",
+        "Abstract": "Behavior cannot be predicted from a \"connectome\" because the brain contains a chemical \"map\" of neuromodulation superimposed upon its synaptic connectivity map. Neuromodulation changes how neural circuits process information in different states, such as hunger or arousal. Here we describe a genetically based method to map, in an unbiased and brain-wide manner, sites of neuromodulation under different conditions in the Drosophila brain. This method, and genetic perturbations, reveal that the well-known effect of hunger to enhance behavioral sensitivity to sugar is mediated, at least in part, by the release of dopamine onto primary gustatory sensory neurons, which enhances sugar-evoked calcium influx. These data reinforce the concept that sensory neurons constitute an important locus for state-dependent gain control of behavior and introduce a methodology that can be extended to other neuromodulators and model organisms.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Appetite Regulation",
+            "Arrestin",
+            "Brain",
+            "Brain Mapping",
+            "Dopamine",
+            "Drosophila melanogaster",
+            "Feeding Behavior",
+            "Female",
+            "Neurotransmitter Agents",
+            "Receptors, Dopamine",
+            "Sensory Receptor Cells",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hidehiko K",
+                "Last Name": "Inagaki",
+                "Affiliation": "Howard Hughes Medical Institute, California Institute of Technology, Pasadena, CA 91125, USA."
+            },
+            {
+                "First Name": "Shlomo",
+                "Last Name": "Ben-Tabou de-Leon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Allan M",
+                "Last Name": "Wong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Smitha",
+                "Last Name": "Jagadish",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hiroshi",
+                "Last Name": "Ishimoto",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gilad",
+                "Last Name": "Barnea",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Toshihiro",
+                "Last Name": "Kitamoto",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David J",
+                "Last Name": "Anderson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21982368",
+        "Title": "Recurrent circuitry dynamically shapes the activation of piriform cortex.",
+        "Abstract": "In the piriform cortex, individual odorants activate a unique ensemble of neurons that are distributed without discernable spatial order. Piriform neurons receive convergent excitatory inputs from random collections of olfactory bulb glomeruli. Pyramidal cells also make extensive recurrent connections with other excitatory and inhibitory neurons. We introduced channelrhodopsin into the piriform cortex to characterize these intrinsic circuits and to examine their contribution to activity driven by afferent bulbar inputs. We demonstrated that individual pyramidal cells are sparsely interconnected by thousands of excitatory synaptic connections that extend, largely undiminished, across the piriform cortex, forming a large excitatory network that can dominate the bulbar input. Pyramidal cells also activate inhibitory interneurons that mediate strong, local feedback inhibition that scales with excitation. This recurrent network can enhance or suppress bulbar input, depending on whether the input arrives before or after the cortex is activated. This circuitry may shape the ensembles of piriform cells that encode odorant identity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Brain Mapping",
+            "Interneurons",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Molecular Imaging",
+            "Odorants",
+            "Olfactory Pathways",
+            "Olfactory Perception",
+            "Pyramidal Cells",
+            "Synaptic Transmission"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kevin M",
+                "Last Name": "Franks",
+                "Affiliation": "Department of Neuroscience, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Marco J",
+                "Last Name": "Russo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dara L",
+                "Last Name": "Sosulski",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Abigail A",
+                "Last Name": "Mulligan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steven A",
+                "Last Name": "Siegelbaum",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21925321",
+        "Title": "Driving opposing behaviors with ensembles of piriform neurons.",
+        "Abstract": "Anatomic and physiologic studies have suggested a model in which neurons of the piriform cortex receive convergent input from random collections of glomeruli. In this model, odor representations can only be afforded behavioral significance upon experience. We have devised an experimental strategy that permits us to ask whether the activation of an arbitrarily chosen subpopulation of neurons in piriform cortex can elicit different behavioral responses dependent upon learning. Activation of a small subpopulation of piriform neurons expressing channelrhodopsin at multiple loci in the piriform cortex, when paired with reward or shock, elicits either appetitive or aversive behavior. Moreover, we demonstrate that different subpopulations of piriform neurons expressing ChR2 can be discriminated and independently entrained to elicit distinct behaviors. These observations demonstrate that the piriform cortex is sufficient to elicit learned behavioral outputs in the absence of sensory input. These data imply that the piriform does not use spatial order to map odorant identity or behavioral output.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Appetitive Behavior",
+            "Behavior, Animal",
+            "Channelrhodopsins",
+            "Conditioning, Psychological",
+            "Mice",
+            "Neurons",
+            "Odorants",
+            "Olfactory Pathways",
+            "Smell"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gloria B",
+                "Last Name": "Choi",
+                "Affiliation": "Department of Neuroscience and the Howard Hughes Medical Institute, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Dan D",
+                "Last Name": "Stettler",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Benjamin R",
+                "Last Name": "Kallman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shakthi T",
+                "Last Name": "Bhaskar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Fleischmann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21451525",
+        "Title": "Distinct representations of olfactory information in different cortical centres.",
+        "Abstract": "Sensory information is transmitted to the brain where it must be processed to translate stimulus features into appropriate behavioural output. In the olfactory system, distributed neural activity in the nose is converted into a segregated map in the olfactory bulb. Here we investigate how this ordered representation is transformed in higher olfactory centres in mice. We have developed a tracing strategy to define the neural circuits that convey information from individual glomeruli in the olfactory bulb to the piriform cortex and the cortical amygdala. The spatial order in the bulb is discarded in the piriform cortex; axons from individual glomeruli project diffusely to the piriform without apparent spatial preference. In the cortical amygdala, we observe broad patches of projections that are spatially stereotyped for individual glomeruli. These projections to the amygdala are overlapping and afford the opportunity for spatially localized integration of information from multiple glomeruli. The identification of a distributive pattern of projections to the piriform and stereotyped projections to the amygdala provides an anatomical context for the generation of learned and innate behaviours.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amygdala",
+            "Animals",
+            "Axons",
+            "Brain Mapping",
+            "Mice",
+            "Neuroanatomical Tract-Tracing Techniques",
+            "Olfactory Bulb",
+            "Olfactory Pathways",
+            "Olfactory Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dara L",
+                "Last Name": "Sosulski",
+                "Affiliation": "Department of Neuroscience and the Howard Hughes Medical Institute, College of Physicians and Surgeons, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Maria Lissitsyna",
+                "Last Name": "Bloom",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tyler",
+                "Last Name": "Cutforth",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sandeep Robert",
+                "Last Name": "Datta",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21124455",
+        "Title": "A dimorphic pheromone circuit in Drosophila from sensory input to descending output.",
+        "Abstract": "Drosophila show innate olfactory-driven behaviours that are observed in naive animals without previous learning or experience, suggesting that the neural circuits that mediate these behaviours are genetically programmed. Despite the numerical simplicity of the fly nervous system, features of the anatomical organization of the fly brain often confound the delineation of these circuits. Here we identify a neural circuit responsive to cVA, a pheromone that elicits sexually dimorphic behaviours. We have combined neural tracing using an improved photoactivatable green fluorescent protein (PA-GFP) with electrophysiology, optical imaging and laser-mediated microlesioning to map this circuit from the activation of sensory neurons in the antennae to the excitation of descending neurons in the ventral nerve cord. This circuit is concise and minimally comprises four neurons, connected by three synapses. Three of these neurons are overtly dimorphic and identify a male-specific neuropil that integrates inputs from multiple sensory systems and sends outputs to the ventral nerve cord. This neural pathway suggests a means by which a single pheromone can elicit different behaviours in the two sexes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acetates",
+            "Animals",
+            "Arthropod Antennae",
+            "Drosophila Proteins",
+            "Drosophila melanogaster",
+            "Female",
+            "Male",
+            "Nerve Tissue Proteins",
+            "Neuroanatomical Tract-Tracing Techniques",
+            "Odorants",
+            "Oleic Acids",
+            "Olfactory Pathways",
+            "Olfactory Perception",
+            "Pheromones",
+            "Physical Stimulation",
+            "Sensory Receptor Cells",
+            "Sex Characteristics",
+            "Sexual Behavior, Animal",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Vanessa",
+                "Last Name": "Ruta",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics and the Howard Hughes Medical Institute, College of Physicians and Surgeons, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Sandeep Robert",
+                "Last Name": "Datta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maria Luisa",
+                "Last Name": "Vasconcelos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jessica",
+                "Last Name": "Freeland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Loren L",
+                "Last Name": "Looger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20498080",
+        "Title": "Generating sparse and selective third-order responses in the olfactory system of the fly.",
+        "Abstract": "In the antennal lobe of Drosophila, information about odors is transferred from olfactory receptor neurons (ORNs) to projection neurons (PNs), which then send axons to neurons in the lateral horn of the protocerebrum (LHNs) and to Kenyon cells (KCs) in the mushroom body. The transformation from ORN to PN responses can be described by a normalization model similar to what has been used in modeling visually responsive neurons. We study the implications of this transformation for the generation of LHN and KC responses under the hypothesis that LHN responses are highly selective and therefore suitable for driving innate behaviors, whereas KCs provide a more general sparse representation of odors suitable for forming learned behavioral associations. Our results indicate that the transformation from ORN to PN firing rates in the antennal lobe equalizes the magnitudes of and decorrelates responses to different odors through feedforward nonlinearities and lateral suppression within the circuitry of the antennal lobe, and we study how these two components affect LHN and KC responses.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Drosophila melanogaster",
+            "Mushroom Bodies",
+            "Olfactory Receptor Neurons",
+            "Organ Size"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sean X",
+                "Last Name": "Luo",
+                "Affiliation": "Department of Neuroscience, Cellular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19778513",
+        "Title": "Representations of odor in the piriform cortex.",
+        "Abstract": "Olfactory perception is initiated by the recognition of odorants by a large repertoire of receptors in the sensory epithelium. A dispersed pattern of neural activity in the nose is converted into a segregated map in the olfactory bulb. How is this representation transformed at the next processing center for olfactory information, the piriform cortex? Optical imaging of odorant responses in the cortex reveals that the piriform discards spatial segregation as well as chemotopy and returns to a highly distributed organization in which different odorants activate unique but dispersed ensembles of cortical neurons. Neurons in piriform cortex, responsive to a given odorant, are not only distributed without apparent spatial preference but exhibit discontinuous receptive fields. This representation suggests organizational principles that differ from those in neocortical sensory areas where cells responsive to similar stimulus features are clustered and response properties vary smoothly across the cortex.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Animals, Newborn",
+            "Brain Mapping",
+            "Cerebral Cortex",
+            "Diagnostic Imaging",
+            "Egtazic Acid",
+            "Female",
+            "In Vitro Techniques",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Odorants",
+            "Olfactory Pathways",
+            "Olfactory Perception",
+            "Sensory Receptor Cells",
+            "Stimulation, Chemical"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dan D",
+                "Last Name": "Stettler",
+                "Affiliation": "Department of Neuroscience and Howard Hughes Medical Institute, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19109912",
+        "Title": "Mice with a \"monoclonal nose\": perturbations in an olfactory map impair odor discrimination.",
+        "Abstract": "We have altered the neural representation of odors in the brain by generating a mouse with a \"monoclonal nose\" in which greater than 95% of the sensory neurons express a single odorant receptor, M71. As a consequence, the frequency of sensory neurons expressing endogenous receptor genes is reduced 20-fold. We observe that these mice can smell, but odor discrimination and performance in associative olfactory learning tasks are impaired. However, these mice cannot detect the M71 ligand acetophenone despite the observation that virtually all sensory neurons and glomeruli are activated by this odor. The M71 transgenic mice readily detect other odors in the presence of acetophenone. These observations have implications for how receptor activation in the periphery is represented in the brain and how these representations encode odors.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aggression",
+            "Animals",
+            "Brain Mapping",
+            "Discrimination, Psychological",
+            "Evoked Potentials",
+            "Male",
+            "Mice",
+            "Mice, Transgenic",
+            "Nose",
+            "Odorants",
+            "Olfaction Disorders",
+            "Olfactory Bulb",
+            "Olfactory Pathways",
+            "Olfactory Receptor Neurons",
+            "Receptors, Odorant",
+            "Sexual Behavior, Animal"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alexander",
+                "Last Name": "Fleischmann",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics and Howard Hughes Medical Institute, Columbia College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Benjamin M",
+                "Last Name": "Shykind",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dara L",
+                "Last Name": "Sosulski",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kevin M",
+                "Last Name": "Franks",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Meredith E",
+                "Last Name": "Glinka",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dan Feng",
+                "Last Name": "Mei",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yonghua",
+                "Last Name": "Sun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Kirkland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Monica",
+                "Last Name": "Mendelsohn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark W",
+                "Last Name": "Albers",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18305480",
+        "Title": "The Drosophila pheromone cVA activates a sexually dimorphic neural circuit.",
+        "Abstract": "Courtship is an innate sexually dimorphic behaviour that can be observed in naive animals without previous learning or experience, suggesting that the neural circuits that mediate this behaviour are developmentally programmed. In Drosophila, courtship involves a complex yet stereotyped array of dimorphic behaviours that are regulated by Fru(M), a male-specific isoform of the fruitless gene. Fru(M) is expressed in about 2,000 neurons in the fly brain, including three subpopulations of olfactory sensory neurons and projection neurons (PNs). One set of Fru(+) olfactory neurons expresses the odorant receptor Or67d and responds to the male-specific pheromone cis-vaccenyl acetate (cVA). These neurons converge on the DA1 glomerulus in the antennal lobe. In males, activation of Or67d(+) neurons by cVA inhibits courtship of other males, whereas in females their activation promotes receptivity to other males. These observations pose the question of how a single pheromone acting through the same set of sensory neurons can elicit different behaviours in male and female flies. Anatomical or functional dimorphisms in this neural circuit might be responsible for the dimorphic behaviour. We therefore developed a neural tracing procedure that employs two-photon laser scanning microscopy to activate the photoactivatable green fluorescent protein. Here we show, using this technique, that the projections from the DA1 glomerulus to the protocerebrum are sexually dimorphic. We observe a male-specific axonal arbor in the lateral horn whose elaboration requires the expression of the transcription factor Fru(M) in DA1 projection neurons and other Fru(+) cells. The observation that cVA activates a sexually dimorphic circuit in the protocerebrum suggests a mechanism by which a single pheromone can elicit different behaviours in males and in females.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acetates",
+            "Animals",
+            "Courtship",
+            "Drosophila",
+            "Drosophila Proteins",
+            "Female",
+            "Male",
+            "Nerve Tissue Proteins",
+            "Neural Pathways",
+            "Neurons",
+            "Oleic Acids",
+            "Pheromones",
+            "Protein Isoforms",
+            "Sex Characteristics",
+            "Sexual Behavior, Animal",
+            "Smell",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sandeep Robert",
+                "Last Name": "Datta",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics and Howard Hughes Medical Institute, College of Physicians and Surgeons, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Maria Luisa",
+                "Last Name": "Vasconcelos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vanessa",
+                "Last Name": "Ruta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sean",
+                "Last Name": "Luo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Allan",
+                "Last Name": "Wong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ebru",
+                "Last Name": "Demir",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jorge",
+                "Last Name": "Flores",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Karen",
+                "Last Name": "Balonze",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Barry J",
+                "Last Name": "Dickson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18165312",
+        "Title": "The genetic design of signaling cascades to record receptor activation.",
+        "Abstract": "We have developed an experimental strategy to monitor protein interactions in a cell with a high degree of selectivity and sensitivity. A transcription factor is tethered to a membrane-bound receptor with a linker that contains a cleavage site for a specific protease. Activation of the receptor recruits a signaling protein fused to the protease that then cleaves and releases the transcription factor to activate reporter genes in the nucleus. This strategy converts a transient interaction into a stable and amplifiable reporter gene signal to record the activation of a receptor without interference from endogenous signaling pathways. We have developed this assay for three classes of receptors: G protein-coupled receptors, receptor tyrosine kinases, and steroid hormone receptors. Finally, we use the assay to identify a ligand for the orphan receptor GPR1, suggesting a role for this receptor in the regulation of inflammation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biochemistry",
+            "Calcium",
+            "Cell Line",
+            "Cell Physiological Phenomena",
+            "DNA-Binding Proteins",
+            "Gene Expression Regulation",
+            "Genetic Techniques",
+            "Humans",
+            "Ligands",
+            "Models, Biological",
+            "Models, Genetic",
+            "Plasmids",
+            "Receptor Protein-Tyrosine Kinases",
+            "Signal Transduction",
+            "Transcriptional Activation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gilad",
+                "Last Name": "Barnea",
+                "Affiliation": "Howard Hughes Medical Institute, Department of Biochemistry and Cellular Biophysics, Center for Neurobiology and Behavior, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Walter",
+                "Last Name": "Strapps",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gilles",
+                "Last Name": "Herrada",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yemiliya",
+                "Last Name": "Berman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jane",
+                "Last Name": "Ong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brian",
+                "Last Name": "Kloss",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kevin J",
+                "Last Name": "Lee",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17360519",
+        "Title": "Production and characterization of monoclonal antibodies sensitive to conformation in the 5HT2c serotonin receptor.",
+        "Abstract": "mAbs that are sensitive to protein conformation can be helpful in studies of protein structure and function; in particular, mAb fragments are useful reagents in membrane protein crystallization. We immunized mice with the rat 5HT2c serotonin receptor and derived clonal hybridoma cells, which we tested for specific antigen reactivity by using the complementarity of purified protein from bacteria and receptor-embedded mammalian cell membranes. Nine mAbs met our criteria for specificity, affinity, and sensitivity to conformational features. Epitopes were mapped in various additional tests. Five of the nine mAbs have cytoplasmic epitopes, and two of these are sensitive to the ligand state of the receptor. These properties should be useful both for structural analysis and in probes of function.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Antibodies, Monoclonal",
+            "Cell Membrane",
+            "Cell Separation",
+            "Crystallization",
+            "Cytoplasm",
+            "Epitope Mapping",
+            "Escherichia coli",
+            "Hybridomas",
+            "Ligands",
+            "Mice",
+            "NIH 3T3 Cells",
+            "Protein Conformation",
+            "Rats",
+            "Receptors, Serotonin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Filippo",
+                "Last Name": "Mancia",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics and the Howard Hughes Medical Institute, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Susan",
+                "Last Name": "Brenner-Morton",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Risa",
+                "Last Name": "Siegel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zahra",
+                "Last Name": "Assur",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yonghua",
+                "Last Name": "Sun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ira",
+                "Last Name": "Schieren",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Monica",
+                "Last Name": "Mendelsohn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "16873069",
+        "Title": "Interchromosomal interactions and olfactory receptor choice.",
+        "Abstract": "The expression of a single odorant receptor (OR) gene from a large gene family in individual sensory neurons is an essential feature of the organization and function of the olfactory system. We have used chromosome conformation capture to demonstrate the specific association of an enhancer element, H, on chromosome 14 with multiple OR gene promoters on different chromosomes. DNA and RNA fluorescence in situ hybridization (FISH) experiments allow us to visualize the colocalization of the H enhancer with the single OR allele that is transcribed in a sensory neuron. In transgenic mice bearing additional H elements, sensory neurons that express OR pseudogenes also express a second functional receptor. These data suggest a model of receptor choice in which a single trans-acting enhancer element may allow the stochastic activation of only one OR allele in an olfactory sensory neuron.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alleles",
+            "Animals",
+            "Chromosomes",
+            "DNA",
+            "DNA Methylation",
+            "Enhancer Elements, Genetic",
+            "Gene Expression Regulation",
+            "In Situ Hybridization, Fluorescence",
+            "Mice",
+            "Mice, Transgenic",
+            "Multigene Family",
+            "Neurons, Afferent",
+            "Olfactory Receptor Neurons",
+            "Promoter Regions, Genetic",
+            "Pseudogenes",
+            "RNA",
+            "Receptors, Odorant",
+            "Sulfites"
+        ],
+        "Authors": [
+            {
+                "First Name": "Stavros",
+                "Last Name": "Lomvardas",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics and Howard Hughes Medical Institute, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Gilad",
+                "Last Name": "Barnea",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David J",
+                "Last Name": "Pisapia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Monica",
+                "Last Name": "Mendelsohn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Kirkland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16175526",
+        "Title": "Scents and sensibility: a molecular logic of olfactory perception (Nobel lecture).",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Cloning, Molecular",
+            "DNA, Recombinant",
+            "Drosophila melanogaster",
+            "Humans",
+            "Mice",
+            "Neurosciences",
+            "Nobel Prize",
+            "Olfactory Bulb",
+            "Receptors, Odorant",
+            "Smell"
+        ],
+        "Authors": [
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA. ra27@columbia.edu"
+            }
+        ],
+        "Journal": "Angewandte Chemie (International ed. in English)",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15372051",
+        "Title": "A single population of olfactory sensory neurons mediates an innate avoidance behaviour in Drosophila.",
+        "Abstract": "All animals exhibit innate behaviours in response to specific sensory stimuli that are likely to result from the activation of developmentally programmed neural circuits. Here we observe that Drosophila exhibit robust avoidance to odours released by stressed flies. Gas chromatography and mass spectrometry identifies one component of this 'Drosophila stress odorant (dSO)' as CO2. CO2 elicits avoidance behaviour, at levels as low as 0.1%. We used two-photon imaging with the Ca2+-sensitive fluorescent protein G-CaMP to map the primary sensory neurons governing avoidance to CO2. CO2 activates only a single glomerulus in the antennal lobe, the V glomerulus; moreover, this glomerulus is not activated by any of 26 other odorants tested. Inhibition of synaptic transmission in sensory neurons that innervate the V glomerulus, using a temperature-sensitive Shibire gene (Shi(ts)), blocks the avoidance response to CO2. Inhibition of synaptic release in the vast majority of other olfactory receptor neurons has no effect on this behaviour. These data demonstrate that the activation of a single population of sensory neurons innervating one glomerulus is responsible for an innate avoidance behaviour in Drosophila.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Air",
+            "Animals",
+            "Avoidance Learning",
+            "Brain",
+            "Calcium",
+            "Carbon Dioxide",
+            "Drosophila melanogaster",
+            "Hydroxyurea",
+            "Instinct",
+            "Mice",
+            "Odorants",
+            "Olfactory Receptor Neurons",
+            "Stress, Physiological"
+        ],
+        "Authors": [
+            {
+                "First Name": "Greg S B",
+                "Last Name": "Suh",
+                "Affiliation": "Howard Hughes Medical Institute, California Institute of Technology, Pasadena, California 91125, USA."
+            },
+            {
+                "First Name": "Allan M",
+                "Last Name": "Wong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anne C",
+                "Last Name": "Hergarden",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jing W",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anne F",
+                "Last Name": "Simon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Seymour",
+                "Last Name": "Benzer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David J",
+                "Last Name": "Anderson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "15294140",
+        "Title": "Visualizing sexual dimorphism in the brain.",
+        "Abstract": "Sexually dimorphic behaviors are likely to involve neural pathways that express the androgen receptor (AR). We have genetically modified the AR locus to visualize dimorphisms in neuronal populations that express AR. Analysis of AR-positive neurons reveals both known dimorphisms in the preoptic area of the hypothalamus and the bed nucleus of the stria terminalis as well as novel dimorphic islands in the basal forebrain with a clarity unencumbered by the vast population of AR-negative neurons. This genetic approach allows the visualization of dimorphic subpopulations of AR-positive neurons along with their projections and may ultimately permit an association between neural circuits and specific dimorphic behaviors.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "Brain Chemistry",
+            "Female",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Neurons",
+            "Receptors, Androgen",
+            "Sex Characteristics",
+            "Sexual Behavior, Animal"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nirao M",
+                "Last Name": "Shah",
+                "Affiliation": "Howard Hughes Medical Institute, Center for Neurobiology and Behavior, 701W 168th St., HHSC 1014, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "David J",
+                "Last Name": "Pisapia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Silas",
+                "Last Name": "Maniatis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Monica M",
+                "Last Name": "Mendelsohn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adriana",
+                "Last Name": "Nemes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "15186780",
+        "Title": "Gene switching and the stability of odorant receptor gene choice.",
+        "Abstract": "Individual olfactory sensory neurons express only a single odorant receptor from a large family of genes, and this singularity is an essential feature in models of olfactory perception. We have devised a genetic strategy to examine the stability of receptor choice. We observe that immature olfactory sensory neurons that express a given odorant receptor can switch receptor expression, albeit at low frequency. Neurons that express a mutant receptor gene switch receptor transcription with significantly greater probability, suggesting that the expression of a functional odorant receptor elicits a feedback signal that terminates switching. This process of receptor gene switching assures that a neuron will ultimately express a functional receptor and that the choice of this receptor will remain stable for the life of the cell.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Apoptosis",
+            "Cell Differentiation",
+            "Cell Lineage",
+            "Feedback, Physiological",
+            "Gene Expression Regulation, Developmental",
+            "Genes, Reporter",
+            "Green Fluorescent Proteins",
+            "Growth Cones",
+            "Integrases",
+            "Luminescent Proteins",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mutation",
+            "Olfactory Bulb",
+            "Olfactory Receptor Neurons",
+            "RNA, Messenger",
+            "Receptors, Odorant",
+            "Smell",
+            "Synapses",
+            "Transcriptional Activation",
+            "Viral Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Benjamin M",
+                "Last Name": "Shykind",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics and Howard Hughes Medical Institute, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "S Christy",
+                "Last Name": "Rohani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sean",
+                "Last Name": "O'Donnell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adriana",
+                "Last Name": "Nemes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Monica",
+                "Last Name": "Mendelsohn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yonghua",
+                "Last Name": "Sun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gilad",
+                "Last Name": "Barnea",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "15157418",
+        "Title": "Spontaneous neural activity is required for the establishment and maintenance of the olfactory sensory map.",
+        "Abstract": "We have developed a genetic approach to examine the role of spontaneous activity and synaptic release in the establishment and maintenance of an olfactory sensory map. Conditional expression of tetanus toxin light chain, a molecule that inhibits synaptic release, does not perturb targeting during development, but neurons that express this molecule in a competitive environment fail to maintain appropriate synaptic connections and disappear. Overexpression of the inward rectifying potassium channel, Kir2.1, diminishes the excitability of sensory neurons and more severely disrupts the formation of an olfactory map. These studies suggest that spontaneous neural activity is required for the establishment and maintenance of the precise connectivity inherent in an olfactory sensory map.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Body Patterning",
+            "Brain Mapping",
+            "Cell Differentiation",
+            "Gene Expression Regulation, Developmental",
+            "Genes, Reporter",
+            "Growth Cones",
+            "Membrane Proteins",
+            "Metalloendopeptidases",
+            "Mice",
+            "Neuronal Plasticity",
+            "Neurons, Afferent",
+            "Olfactory Bulb",
+            "Olfactory Mucosa",
+            "Olfactory Pathways",
+            "Potassium Channels, Inwardly Rectifying",
+            "Presynaptic Terminals",
+            "R-SNARE Proteins",
+            "Synaptic Transmission",
+            "Synaptophysin",
+            "Tetanus Toxin"
+        ],
+        "Authors": [
+            {
+                "First Name": "C Ron",
+                "Last Name": "Yu",
+                "Affiliation": "Center for Neurobiology and Behavior, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Power",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gilad",
+                "Last Name": "Barnea",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sean",
+                "Last Name": "O'Donnell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hannah E V",
+                "Last Name": "Brown",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph",
+                "Last Name": "Osborne",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph A",
+                "Last Name": "Gogos",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "14990966",
+        "Title": "Mice cloned from olfactory sensory neurons.",
+        "Abstract": "Cloning by nuclear transplantation has been successfully carried out in various mammals, including mice. Until now mice have not been cloned from post-mitotic cells such as neurons. Here, we have generated fertile mouse clones derived by transferring the nuclei of post-mitotic, olfactory sensory neurons into oocytes. These results indicate that the genome of a post-mitotic, terminally differentiated neuron can re-enter the cell cycle and be reprogrammed to a state of totipotency after nuclear transfer. Moreover, the pattern of odorant receptor gene expression and the organization of odorant receptor genes in cloned mice was indistinguishable from wild-type animals, indicating that irreversible changes to the DNA of olfactory neurons do not accompany receptor gene choice.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Nucleus",
+            "Cloning, Organism",
+            "Embryo, Mammalian",
+            "Embryonic and Fetal Development",
+            "Gene Expression Regulation, Developmental",
+            "Mice",
+            "Nuclear Transfer Techniques",
+            "Olfactory Receptor Neurons",
+            "Oocytes",
+            "Polyploidy",
+            "Receptors, Odorant",
+            "Totipotent Stem Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kevin",
+                "Last Name": "Eggan",
+                "Affiliation": "Whitehead Institute for Biomedical Research and Department of Biology, Massachusetts Institute of Technology, 9 Cambridge Center, Cambridge, Massachusetts 02142, USA."
+            },
+            {
+                "First Name": "Kristin",
+                "Last Name": "Baldwin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Tackett",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph",
+                "Last Name": "Osborne",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph",
+                "Last Name": "Gogos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Chess",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rudolf",
+                "Last Name": "Jaenisch",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "12914696",
+        "Title": "Axonal ephrin-As and odorant receptors: coordinate determination of the olfactory sensory map.",
+        "Abstract": "Olfactory sensory neurons expressing a given odorant receptor (OR) project with precision to specific glomeruli in the olfactory bulb, generating a topographic map. In this study, we demonstrate that neurons expressing different ORs express different levels of ephrin-A protein on their axons. Moreover, alterations in the level of ephrin-A alter the glomerular map. Deletion of the ephrin-A5 and ephrin-A3 genes posteriorizes the glomerular locations for neurons expressing either the P2 or SR1 receptor, whereas overexpression of ephrin-A5 in P2 neurons results in an anterior shift in their glomeruli. Thus the ephrin-As are differentially expressed in distinct subpopulations of neurons and are likely to participate, along with the ORs, as one of a complement of guidance receptors governing the targeting of like axons to precise locations in the olfactory bulb.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Axons",
+            "Ephrin-A3",
+            "Ephrin-A5",
+            "In Situ Hybridization",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Knockout",
+            "Nerve Tissue Proteins",
+            "Neurons, Afferent",
+            "Olfactory Bulb",
+            "Olfactory Marker Protein",
+            "Receptors, Odorant",
+            "Recombinant Fusion Proteins",
+            "Sensation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tyler",
+                "Last Name": "Cutforth",
+                "Affiliation": "Howard Hughes Medical Institute and Center for Neurobiology and Behavior, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Laurie",
+                "Last Name": "Moring",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Monica",
+                "Last Name": "Mendelsohn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adriana",
+                "Last Name": "Nemes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nirao M",
+                "Last Name": "Shah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michelle M",
+                "Last Name": "Kim",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonas",
+                "Last Name": "Fris\u00e9n",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12553914",
+        "Title": "Two-photon calcium imaging reveals an odor-evoked map of activity in the fly brain.",
+        "Abstract": "An understanding of the logic of odor perception requires a functional analysis of odor-evoked patterns of activity in neural assemblies in the brain. We have developed a sensitive imaging system in the Drosophila brain that couples two-photon microscopy with the specific expression of the calcium-sensitive fluorescent protein, G-CaMP. At natural odor concentration, each odor elicits a distinct and sparse spatial pattern of activity in the antennal lobe that is conserved in different flies. Patterns of glomerular activity are similar upon imaging of sensory and projection neurons, suggesting the faithful transmission of sensory input to higher brain centers. Finally, we demonstrate that the response pattern of a given glomerulus is a function of the specificity of a single odorant receptor. The development of this imaging system affords an opportunity to monitor activity in defined neurons throughout the fly brain with high sensitivity and excellent spatial resolution.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Axons",
+            "Brain",
+            "Calcium",
+            "Calcium Signaling",
+            "Dendrites",
+            "Diagnostic Imaging",
+            "Drosophila",
+            "Ganglia, Invertebrate",
+            "Odorants",
+            "Olfactory Pathways",
+            "Olfactory Receptor Neurons",
+            "Photons",
+            "Smell"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jing W",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Howard Hughes Medical Institute, College of Physicians and Surgeons, Columbia University, 701 West 168th Street, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Allan M",
+                "Last Name": "Wong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jorge",
+                "Last Name": "Flores",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Leslie B",
+                "Last Name": "Vosshall",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12150904",
+        "Title": "Promoter choice determines splice site selection in protocadherin alpha and gamma pre-mRNA splicing.",
+        "Abstract": "A family of mammalian protocadherin (Pcdh) proteins is encoded by three closely linked gene clusters (alpha, beta, and gamma). Multiple alpha and gamma Pcdh mRNAs are expressed in distinct patterns in the nervous system and are generated by alternative pre-mRNA splicing between different \"variable\" exons and three \"constant\" exons within each cluster. We show that each Pcdh variable exon is preceded by a promoter and that promoter choice determines which variable exon is included in a Pcdh mRNA. In addition, we provide evidence that alternative splicing of variable exons within a gene cluster occurs via a cis-splicing mechanism. However, virtually every variable exon can engage in trans-splicing with constant exons from another cluster, albeit at a far lower level.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alleles",
+            "Alternative Splicing",
+            "Animals",
+            "Cadherins",
+            "Exons",
+            "Humans",
+            "Mice",
+            "Promoter Regions, Genetic",
+            "Protein Isoforms",
+            "Protein Precursors",
+            "RNA Precursors",
+            "RNA, Messenger",
+            "Reverse Transcriptase Polymerase Chain Reaction",
+            "Trans-Splicing",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Bosiljka",
+                "Last Name": "Tasic",
+                "Affiliation": "Department of Molecular and Cellular Biology, Harvard University, Cambridge, Massachusetts 02138, USA."
+            },
+            {
+                "First Name": "Christoph E",
+                "Last Name": "Nabholz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kristin K",
+                "Last Name": "Baldwin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Youngwook",
+                "Last Name": "Kim",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Erroll H",
+                "Last Name": "Rueckert",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Scott A",
+                "Last Name": "Ribich",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paula",
+                "Last Name": "Cramer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Qiang",
+                "Last Name": "Wu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tom",
+                "Last Name": "Maniatis",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "12007409",
+        "Title": "Spatial representation of the glomerular map in the Drosophila protocerebrum.",
+        "Abstract": "In the fruit fly, Drosophila, olfactory sensory neurons expressing a given receptor project to spatially invariant loci in the antennal lobe to create a topographic map of receptor activation. We have asked how the map in the antennal lobe is represented in higher sensory centers in the brain. Random labeling of individual projection neurons using the FLP-out technique reveals that projection neurons that innervate the same glomerulus exhibit strikingly similar axonal topography, whereas neurons from different glomeruli display very different patterns of projection in the protocerebrum. These results demonstrate that a topographic map of olfactory information is retained in higher brain centers, but the character of the map differs from that of the antennal lobe, affording an opportunity for integration of olfactory sensory input.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animal Structures",
+            "Animals",
+            "Animals, Genetically Modified",
+            "Axons",
+            "Body Patterning",
+            "Brain Mapping",
+            "Cell Differentiation",
+            "Dendrites",
+            "Drosophila melanogaster",
+            "Mushroom Bodies",
+            "Neuronal Plasticity",
+            "Olfactory Pathways",
+            "Olfactory Receptor Neurons",
+            "Smell",
+            "Telencephalon"
+        ],
+        "Authors": [
+            {
+                "First Name": "Allan M",
+                "Last Name": "Wong",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Howard Hughes Medical Institute, College of Physicians and Surgeons, Columbia University, 701 West 168th Street, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jing W",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "11972034",
+        "Title": "Altered sexual and social behaviors in trp2 mutant mice.",
+        "Abstract": "We have used gene targeting to generate mice with a homozygous deficiency in trp2, a cation channel expressed in the vomeronasal organ (VNO). Trp2 mutant animals reveal a striking reduction in the electrophysiological response to pheromones in the VNO, suggesting that trp2 plays a central role in mediating the pheromone response. These mutants therefore afford the opportunity to examine the role of the VNO in the generation of innate sexual and social behaviors in mice. Trp2 mutant males and nursing females are docile and fail to initiate aggressive attacks on intruder males. Male-female sexual behavior appears normal, but trp2 mutant males also vigorously mount other males. These results suggest that the cation channel trp2 is required in the VNO to detect male-specific pheromones that elicit aggressive behaviors and dictate the choice of sexual partners.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aggression",
+            "Animals",
+            "Electrophysiology",
+            "Female",
+            "Gene Deletion",
+            "Homozygote",
+            "Male",
+            "Membrane Proteins",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mutation",
+            "Pheromones",
+            "Sex Factors",
+            "Sexual Behavior, Animal",
+            "TRPC Cation Channels",
+            "Vomeronasal Organ"
+        ],
+        "Authors": [
+            {
+                "First Name": "Bradley G",
+                "Last Name": "Leypold",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "C Ron",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Trese",
+                "Last Name": "Leinders-Zufall",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michelle M",
+                "Last Name": "Kim",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Frank",
+                "Last Name": "Zufall",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "11752409",
+        "Title": "Sequence analysis of mouse vomeronasal receptor gene clusters reveals common promoter motifs and a history of recent expansion.",
+        "Abstract": "We have analyzed the organization and sequence of 73 V1R genes encoding putative pheromone receptors to identify regulatory features and characterize the evolutionary history of the V1R family. The 73 V1Rs arose from seven ancestral genes around the time of mouse-rat speciation through large local duplications, and this expansion may contribute to speciation events. Orthologous V1R genes appear to have been lost during primate evolution. Exceptional noncoding homology is observed across four V1R subfamilies at one cluster and thus may be important for locus-specific transcriptional regulation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Motifs",
+            "Amino Acid Sequence",
+            "Animals",
+            "Chemoreceptor Cells",
+            "DNA, Complementary",
+            "Exons",
+            "Gene Library",
+            "Genome",
+            "Genome, Human",
+            "Humans",
+            "Mice",
+            "Molecular Sequence Data",
+            "Multigene Family",
+            "Phylogeny",
+            "Promoter Regions, Genetic",
+            "Protein Structure, Tertiary",
+            "Rats",
+            "Sequence Analysis, DNA",
+            "Sequence Homology, Amino Acid",
+            "Transcription, Genetic",
+            "Vomeronasal Organ"
+        ],
+        "Authors": [
+            {
+                "First Name": "Robert P",
+                "Last Name": "Lane",
+                "Affiliation": "Department of Molecular Biotechnology, University of Washington, Seattle, WA 98195,USA. rlane@fhcrc.org"
+            },
+            {
+                "First Name": "Tyler",
+                "Last Name": "Cutforth",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Leroy",
+                "Last Name": "Hood",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Barbara J",
+                "Last Name": "Trask",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2002"
+    }
+]

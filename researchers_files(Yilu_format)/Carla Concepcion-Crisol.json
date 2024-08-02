@@ -1,0 +1,262 @@
+[
+    {
+        "PMID": "38464291",
+        "Title": "A Lung Cancer Mouse Model Database.",
+        "Abstract": "Lung cancer, the leading cause of cancer mortality, exhibits diverse histological subtypes and genetic complexities. Numerous preclinical mouse models have been developed to study lung cancer, but data from these models are disparate, siloed, and difficult to compare in a centralized fashion. Here we established the Lung Cancer Mouse Model Database (LCMMDB), an extensive repository of 1,354 samples from 77 transcriptomic datasets covering 974 samples from genetically engineered mouse models (GEMMs), 368 samples from carcinogen-induced models, and 12 samples from a spontaneous model. Meticulous curation and collaboration with data depositors have produced a robust and comprehensive database, enhancing the fidelity of the genetic landscape it depicts. The LCMMDB aligns 859 tumors from GEMMs with human lung cancer mutations, enabling comparative analysis and revealing a pressing need to broaden the diversity of genetic aberrations modeled in GEMMs. Accompanying this resource, we developed a web application that offers researchers intuitive tools for in-depth gene expression analysis. With standardized reprocessing of gene expression data, the LCMMDB serves as a powerful platform for cross-study comparison and lays the groundwork for future research, aiming to bridge the gap between mouse models and human lung cancer for improved translational relevance.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Ling",
+                "Last Name": "Cai",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ying",
+                "Last Name": "Gao",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ralph J",
+                "Last Name": "DeBerardinis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Acquaah-Mensah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vassilis",
+                "Last Name": "Aidinis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jennifer E",
+                "Last Name": "Beane",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shyam",
+                "Last Name": "Biswal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ting",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carla P",
+                "Last Name": "Concepcion-Crisol",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Barbara M",
+                "Last Name": "Gr\u00fcner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Deshui",
+                "Last Name": "Jia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Jones",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan M",
+                "Last Name": "Kurie",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Min Gyu",
+                "Last Name": "Lee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Per",
+                "Last Name": "Lindahl",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yonathan",
+                "Last Name": "Lissanu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maria Corina",
+                "Last Name": "Lorz Lopez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rosanna",
+                "Last Name": "Martinelli",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pawel K",
+                "Last Name": "Mazur",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah A",
+                "Last Name": "Mazzilli",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shinji",
+                "Last Name": "Mii",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Herwig",
+                "Last Name": "Moll",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roger",
+                "Last Name": "Moorehead",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Edward E",
+                "Last Name": "Morrisey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sheng Rong",
+                "Last Name": "Ng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew G",
+                "Last Name": "Oser",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arun R",
+                "Last Name": "Pandiri",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Charles A",
+                "Last Name": "Powell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Giorgio",
+                "Last Name": "Ramadori",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mirentxu",
+                "Last Name": "Santos Lafuente",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Snyder",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rocio",
+                "Last Name": "Sotillo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kang-Yi",
+                "Last Name": "Su",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tetsuro",
+                "Last Name": "Taki",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kekoa",
+                "Last Name": "Taparra",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yifeng",
+                "Last Name": "Xia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ed",
+                "Last Name": "van Veen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Monte M",
+                "Last Name": "Winslow",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Guanghua",
+                "Last Name": "Xiao",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Charles M",
+                "Last Name": "Rudin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Trudy G",
+                "Last Name": "Oliver",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yang",
+                "Last Name": "Xie",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John D",
+                "Last Name": "Minna",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38422476",
+        "Title": "Controlled Chaos: Parsing Acquired Immunoresistance in Lung Cancer.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Lung Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Brian S",
+                "Last Name": "Henick",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, New York, NY."
+            },
+            {
+                "First Name": "Benjamin O",
+                "Last Name": "Herzberg",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, New York, NY."
+            },
+            {
+                "First Name": "Carla P",
+                "Last Name": "Concepcion-Crisol",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, New York, NY."
+            },
+            {
+                "First Name": "Alison M",
+                "Last Name": "Taylor",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, New York, NY."
+            }
+        ],
+        "Journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "PubDate": "2024"
+    }
+]

@@ -1,0 +1,2977 @@
+[
+    {
+        "PMID": "38600655",
+        "Title": "Formation of Anisotropic Conducting Interlayer for High-Resolution Epidermal Electromyography Using Mixed-Conducting Particulate Composite.",
+        "Abstract": "Epidermal electrophysiology is a non-invasive method used in research and clinical practices to study the electrical activity of the brain, heart, nerves, and muscles. However, electrode/tissue interlayer materials such as ionically conducting pastes can negatively affect recordings by introducing lateral electrode-to-electrode ionic crosstalk and reducing spatial resolution. To overcome this issue, biocompatible, anisotropic-conducting interlayer composites (ACI) that establish an electrically anisotropic interface with the skin are developed, enabling the application of dense cutaneous sensor arrays. High-density, conformable electrodes are also microfabricated that adhere to the ACI and follow the curvilinear surface of the skin. The results show that ACI significantly enhances the spatial resolution of epidermal electromyography (EMG) recording compared to conductive paste, permitting the acquisition of single muscle action potentials with distinct spatial profiles. The high-density EMG in developing mice, non-human primates, and humans is validated. Overall, high spatial-resolution epidermal electrophysiology enabled by ACI has the potential to advance clinical diagnostics of motor system disorders and enhance data quality for human-computer interface applications.",
+        "Keywords": [
+            "EMG",
+            "anisotropic conductors",
+            "conducting polymers",
+            "organic bioelectronics"
+        ],
+        "MeSH terms": [
+            "Electromyography",
+            "Animals",
+            "Mice",
+            "Anisotropy",
+            "Humans",
+            "Epidermis",
+            "Electrodes",
+            "Electric Conductivity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zifang",
+                "Last Name": "Zhao",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, 10027, USA."
+            },
+            {
+                "First Name": "Han",
+                "Last Name": "Yu",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, 10027, USA."
+            },
+            {
+                "First Name": "Duncan J",
+                "Last Name": "Wisniewski",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, 10027, USA."
+            },
+            {
+                "First Name": "Claudia",
+                "Last Name": "Cea",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, 10027, USA."
+            },
+            {
+                "First Name": "Liang",
+                "Last Name": "Ma",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, 10027, USA."
+            },
+            {
+                "First Name": "Eric M",
+                "Last Name": "Trautmann",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Jennifer N",
+                "Last Name": "Gelinas",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, 10027, USA."
+            },
+            {
+                "First Name": "Dion",
+                "Last Name": "Khodagholy",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, 10027, USA."
+            }
+        ],
+        "Journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38443626",
+        "Title": "Preparatory activity and the expansive null-space.",
+        "Abstract": "The study of the cortical control of movement experienced a conceptual shift over recent decades, as the basic currency of understanding shifted from single-neuron tuning towards population-level factors and their dynamics. This transition was informed by a maturing understanding of recurrent networks, where mechanism is often characterized in terms of population-level factors. By estimating factors from data, experimenters could test network-inspired hypotheses. Central to such hypotheses are 'output-null' factors that do not directly drive motor outputs yet are essential to the overall computation. In this Review, we highlight how the hypothesis of output-null factors was motivated by the venerable observation that motor-cortex neurons are active during movement preparation, well before movement begins. We discuss how output-null factors then became similarly central to understanding neural activity during movement. We discuss how this conceptual framework provided key analysis tools, making it possible for experimenters to address long-standing questions regarding motor control. We highlight an intriguing trend: as experimental and theoretical discoveries accumulate, the range of computational roles hypothesized to be subserved by output-null factors continues to expand.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Motor Cortex",
+            "Movement",
+            "Neurons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA. mc3502@columbia.edu."
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": "Department of Electrical Engineering, Stanford University, Stanford, CA, USA."
+            }
+        ],
+        "Journal": "Nature reviews. Neuroscience",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38370650",
+        "Title": "Identifying Interpretable Latent Factors with Sparse Component Analysis.",
+        "Abstract": "In many neural populations, the computationally relevant signals are posited to be a set of 'latent factors' - signals shared across many individual neurons. Understanding the relationship between neural activity and behavior requires the identification of factors that reflect distinct computational roles. Methods for identifying such factors typically require supervision, which can be suboptimal if one is unsure how (or whether) factors can be grouped into distinct, meaningful sets. Here, we introduce Sparse Component Analysis (SCA), an unsupervised method that identifies interpretable latent factors. SCA seeks factors that are sparse in time and occupy orthogonal dimensions. With these simple constraints, SCA facilitates surprisingly clear parcellations of neural activity across a range of behaviors. We applied SCA to motor cortex activity from reaching and cycling monkeys, single-trial imaging data from ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Zimnik",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "K",
+                "Last Name": "Cora Ames",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Xinyue",
+                "Last Name": "An",
+                "Affiliation": "Department of Neurology, Northwestern University, Chicago, IL, USA."
+            },
+            {
+                "First Name": "Laura",
+                "Last Name": "Driscoll",
+                "Affiliation": "Department of Electrical Engineering, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Antonio H",
+                "Last Name": "Lara",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Abigail A",
+                "Last Name": "Russo",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Vladislav",
+                "Last Name": "Susoy",
+                "Affiliation": "Department of Physics, Harvard University, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": "Zuckerman Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Liam",
+                "Last Name": "Paninski",
+                "Affiliation": "Zuckerman Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Joshua I",
+                "Last Name": "Glaser",
+                "Affiliation": "Department of Neurology, Northwestern University, Chicago, IL, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37961359",
+        "Title": "DREDge: robust motion correction for high-density extracellular recordings across species.",
+        "Abstract": "High-density microelectrode arrays (MEAs) have opened new possibilities for systems neuroscience in human and non-human animals, but brain tissue motion relative to the array poses a challenge for downstream analyses, particularly in human recordings. We introduce DREDge (Decentralized Registration of Electrophysiology Data), a robust algorithm which is well suited for the registration of noisy, nonstationary extracellular electrophysiology recordings. In addition to estimating motion from spikes in the action potential (AP) frequency band, DREDge enables automated tracking of motion at high temporal resolution in the local field potential (LFP) frequency band. In human intraoperative recordings, which often feature fast (period <1s) motion, DREDge correction in the LFP band enabled reliable recovery of evoked potentials, and significantly reduced single-unit spike shape variability and spike sorting error. Applying DREDge to recordings made during deep probe insertions in nonhuman primates demonstrated the possibility of tracking probe motion of centimeters across several brain regions while simultaneously mapping single unit electrophysiological features. DREDge reliably delivered improved motion correction in acute mouse recordings, especially in those made with an recent ultra-high density probe. We also implemented a procedure for applying DREDge to recordings made across tens of days in chronic implantations in mice, reliably yielding stable motion tracking despite changes in neural activity across experimental sessions. Together, these advances enable automated, scalable registration of electrophysiological data across multiple species, probe types, and drift cases, providing a stable foundation for downstream scientific analyses of these rich datasets.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Charlie",
+                "Last Name": "Windolf",
+                "Affiliation": "Department of Statistics, Columbia University."
+            },
+            {
+                "First Name": "Han",
+                "Last Name": "Yu",
+                "Affiliation": "Zuckerman Institute, Columbia University."
+            },
+            {
+                "First Name": "Angelique C",
+                "Last Name": "Paulk",
+                "Affiliation": "Department of Neurology, Center for Neurotechnology and Neurorecovery, Massachusetts General Hospital, Harvard Medical School."
+            },
+            {
+                "First Name": "Domokos",
+                "Last Name": "Mesz\u00e9na",
+                "Affiliation": "Department of Neurology, Center for Neurotechnology and Neurorecovery, Massachusetts General Hospital, Harvard Medical School."
+            },
+            {
+                "First Name": "William",
+                "Last Name": "Mu\u00f1oz",
+                "Affiliation": "Department of Neurosurgery, Massachusetts General Hospital, Harvard Medical School."
+            },
+            {
+                "First Name": "Julien",
+                "Last Name": "Boussard",
+                "Affiliation": "Department of Statistics, Columbia University."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Hardstone",
+                "Affiliation": "Department of Neurology, Center for Neurotechnology and Neurorecovery, Massachusetts General Hospital, Harvard Medical School."
+            },
+            {
+                "First Name": "Irene",
+                "Last Name": "Caprara",
+                "Affiliation": "Department of Neurosurgery, Massachusetts General Hospital, Harvard Medical School."
+            },
+            {
+                "First Name": "Mohsen",
+                "Last Name": "Jamali",
+                "Affiliation": "Department of Neurosurgery, Massachusetts General Hospital, Harvard Medical School."
+            },
+            {
+                "First Name": "Yoav",
+                "Last Name": "Kfir",
+                "Affiliation": "Department of Neurosurgery, Massachusetts General Hospital, Harvard Medical School."
+            },
+            {
+                "First Name": "Duo",
+                "Last Name": "Xu",
+                "Affiliation": "Weill Institute for Neurosciences, University of California San Francisco."
+            },
+            {
+                "First Name": "Jason E",
+                "Last Name": "Chung",
+                "Affiliation": "Department of Neurological Surgery, University of California San Francisco."
+            },
+            {
+                "First Name": "Kristin K",
+                "Last Name": "Sellers",
+                "Affiliation": "Weill Institute for Neurosciences, University of California San Francisco."
+            },
+            {
+                "First Name": "Zhiwen",
+                "Last Name": "Ye",
+                "Affiliation": "Department of Biological Structure, University of Washington."
+            },
+            {
+                "First Name": "Jordan",
+                "Last Name": "Shaker",
+                "Affiliation": "Department of Biological Structure, University of Washington."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Lebedeva",
+                "Affiliation": "Cortexlab, University College London."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Raghavan",
+                "Affiliation": "Center for Neural Science, New York University."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Trautmann",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center."
+            },
+            {
+                "First Name": "Max",
+                "Last Name": "Melin",
+                "Affiliation": "David Geffen School of Medicine, University of California Los Angeles."
+            },
+            {
+                "First Name": "Jo\u00e3o",
+                "Last Name": "Couto",
+                "Affiliation": "David Geffen School of Medicine, University of California Los Angeles."
+            },
+            {
+                "First Name": "Samuel",
+                "Last Name": "Garcia",
+                "Affiliation": "Centre National de la Recherche Scientifique, Centre de Recherche en Neurosciences de Lyon."
+            },
+            {
+                "First Name": "Brian",
+                "Last Name": "Coughlin",
+                "Affiliation": "Department of Neurology, Center for Neurotechnology and Neurorecovery, Massachusetts General Hospital, Harvard Medical School."
+            },
+            {
+                "First Name": "Csaba",
+                "Last Name": "Horv\u00e1th",
+                "Affiliation": "Institute of Cognitive Neuroscience and Psychology, Research Centre for Natural Sciences, Budapest, Hungary."
+            },
+            {
+                "First Name": "Rich\u00e1rd",
+                "Last Name": "Fi\u00e1th",
+                "Affiliation": "Institute of Cognitive Neuroscience and Psychology, Research Centre for Natural Sciences, Budapest, Hungary."
+            },
+            {
+                "First Name": "Istv\u00e1n",
+                "Last Name": "Ulbert",
+                "Affiliation": "Institute of Cognitive Neuroscience and Psychology, Research Centre for Natural Sciences, Budapest, Hungary."
+            },
+            {
+                "First Name": "J Anthony",
+                "Last Name": "Movshon",
+                "Affiliation": "Center for Neural Science, New York University."
+            },
+            {
+                "First Name": "Michael N",
+                "Last Name": "Shadlen",
+                "Affiliation": "Zuckerman Institute, Columbia University."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Zuckerman Institute, Columbia University."
+            },
+            {
+                "First Name": "Anne K",
+                "Last Name": "Churchland",
+                "Affiliation": "David Geffen School of Medicine, University of California Los Angeles."
+            },
+            {
+                "First Name": "Nicholas A",
+                "Last Name": "Steinmetz",
+                "Affiliation": "Department of Biological Structure, University of Washington."
+            },
+            {
+                "First Name": "Edward F",
+                "Last Name": "Chang",
+                "Affiliation": "Weill Institute for Neurosciences, University of California San Francisco."
+            },
+            {
+                "First Name": "Jeffrey S",
+                "Last Name": "Schweitzer",
+                "Affiliation": "Department of Neurosurgery, Massachusetts General Hospital, Harvard Medical School."
+            },
+            {
+                "First Name": "Ziv M",
+                "Last Name": "Williams",
+                "Affiliation": "Department of Neurosurgery, Massachusetts General Hospital, Harvard Medical School."
+            },
+            {
+                "First Name": "Sydney S",
+                "Last Name": "Cash",
+                "Affiliation": "Department of Neurology, Center for Neurotechnology and Neurorecovery, Massachusetts General Hospital, Harvard Medical School."
+            },
+            {
+                "First Name": "Liam",
+                "Last Name": "Paninski",
+                "Affiliation": "Department of Statistics, Columbia University."
+            },
+            {
+                "First Name": "Erdem",
+                "Last Name": "Varol",
+                "Affiliation": "Department of Statistics, Columbia University."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37790422",
+        "Title": "Bypassing spike sorting: Density-based decoding using spike localization from dense multielectrode probes.",
+        "Abstract": "Neural decoding and its applications to brain computer interfaces (BCI) are essential for understanding the association between neural activity and behavior. A prerequisite for many decoding approaches is ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Yizi",
+                "Last Name": "Zhang",
+                "Affiliation": "Columbia University."
+            },
+            {
+                "First Name": "Tianxiao",
+                "Last Name": "He",
+                "Affiliation": "Columbia University."
+            },
+            {
+                "First Name": "Julien",
+                "Last Name": "Boussard",
+                "Affiliation": "Columbia University."
+            },
+            {
+                "First Name": "Charlie",
+                "Last Name": "Windolf",
+                "Affiliation": "Columbia University."
+            },
+            {
+                "First Name": "Olivier",
+                "Last Name": "Winter",
+                "Affiliation": "The International Brain Laboratory."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Trautmann",
+                "Affiliation": "Columbia University."
+            },
+            {
+                "First Name": "Noam",
+                "Last Name": "Roth",
+                "Affiliation": "University of Washington."
+            },
+            {
+                "First Name": "Hailey",
+                "Last Name": "Barrell",
+                "Affiliation": "University of Washington."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Churchland",
+                "Affiliation": "Columbia University."
+            },
+            {
+                "First Name": "Nicholas A",
+                "Last Name": "Steinmetz",
+                "Affiliation": "University of Washington."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Erdem",
+                "Last Name": "Varol",
+                "Affiliation": "New York University."
+            },
+            {
+                "First Name": "Cole",
+                "Last Name": "Hurwitz",
+                "Affiliation": "Columbia University."
+            },
+            {
+                "First Name": "Liam",
+                "Last Name": "Paninski",
+                "Affiliation": "Columbia University."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37205406",
+        "Title": "Large-scale high-density brain-wide neural recording in nonhuman primates.",
+        "Abstract": "High-density, integrated silicon electrodes have begun to transform systems neuroscience, by enabling large-scale neural population recordings with single cell resolution. Existing technologies, however, have provided limited functionality in nonhuman primate species such as macaques, which offer close models of human cognition and behavior. Here, we report the design, fabrication, and performance of Neuropixels 1.0-NHP, a high channel count linear electrode array designed to enable large-scale simultaneous recording in superficial and deep structures within the macaque or other large animal brain. These devices were fabricated in two versions: 4416 electrodes along a 45 mm shank, and 2496 along a 25 mm shank. For both versions, users can programmatically select 384 channels, enabling simultaneous multi-area recording with a single probe. We demonstrate recording from over 3000 single neurons within a session, and simultaneous recordings from over 1000 neurons using multiple probes. This technology represents a significant increase in recording access and scalability relative to existing technologies, and enables new classes of experiments involving fine-grained electrophysiological characterization of brain areas, functional connectivity between cells, and simultaneous brain-wide recording at scale.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Eric M",
+                "Last Name": "Trautmann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Janis K",
+                "Last Name": "Hesse",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gabriel M",
+                "Last Name": "Stine",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ruobing",
+                "Last Name": "Xia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shude",
+                "Last Name": "Zhu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Daniel J",
+                "Last Name": "O'Shea",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bill",
+                "Last Name": "Karsh",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Colonell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Frank F",
+                "Last Name": "Lanfranchi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Saurabh",
+                "Last Name": "Vyas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Zimnik",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Natalie A",
+                "Last Name": "Steinmann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Daniel A",
+                "Last Name": "Wagenaar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alexandru",
+                "Last Name": "Andrei",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carolina Mora",
+                "Last Name": "Lopez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John",
+                "Last Name": "O'Callaghan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jan",
+                "Last Name": "Putzeys",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bogdan C",
+                "Last Name": "Raducanu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marleen",
+                "Last Name": "Welkenhuysen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Churchland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tirin",
+                "Last Name": "Moore",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Shadlen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Doris",
+                "Last Name": "Tsao",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Barundeb",
+                "Last Name": "Dutta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Timothy",
+                "Last Name": "Harris",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36941429",
+        "Title": "Krishna V. Shenoy (1968-2023).",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA. mc3502@columbia.edu."
+            },
+            {
+                "First Name": "Paul",
+                "Last Name": "Nuyujukian",
+                "Affiliation": "Department of Bioengineering, Stanford University, Stanford, CA, USA. 23natureneuro@pn.stanford.edu."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36630961",
+        "Title": "The centrality of population-level factors to network computation is demonstrated by a versatile approach for training spiking networks.",
+        "Abstract": "Neural activity is often described in terms of population-level factors extracted from the responses of many neurons. Factors provide a lower-dimensional description with the aim of shedding light on network computations. Yet, mechanistically, computations are performed not by continuously valued factors but by interactions among neurons that spike discretely and variably. Models provide a means of bridging these levels of description. We developed a general method for training model networks of spiking neurons by leveraging factors extracted from either data or firing-rate-based networks. In addition to providing a useful model-building framework, this formalism illustrates how reliable and continuously valued factors can arise from seemingly stochastic spiking. Our framework establishes procedures for embedding this property in network models with different levels of realism. The relationship between spikes and factors in such networks provides a foundation for interpreting (and subtly redefining) commonly used quantities such as firing rates.",
+        "Keywords": [
+            "FORCE learning",
+            "artificial neural networks",
+            "dimensionality reduction",
+            "dynamical systems",
+            "factor models",
+            "motor system",
+            "network training",
+            "population dynamics",
+            "recurrent neural networks",
+            "spiking networks"
+        ],
+        "MeSH terms": [
+            "Neural Networks, Computer",
+            "Action Potentials",
+            "Neurons",
+            "Nerve Net",
+            "Models, Neurological"
+        ],
+        "Authors": [
+            {
+                "First Name": "Brian",
+                "Last Name": "DePasquale",
+                "Affiliation": "Princeton Neuroscience Institute, Princeton University, Princeton NJ, USA; Department of Neuroscience, Columbia University, New York, NY, USA; Center for Theoretical Neuroscience, Columbia University, New York, NY, USA. Electronic address: bddepasq@bu.edu."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Sussillo",
+                "Affiliation": "Department of Electrical Engineering, Stanford University, Stanford, CA, USA; Wu Tsai Neurosciences Institute, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA; Center for Theoretical Neuroscience, Columbia University, New York, NY, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA; Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, USA; Kavli Institute for Brain Science, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA; Kavli Institute for Brain Science, Columbia University, New York, NY, USA; Grossman Center for the Statistics of Mind, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36216998",
+        "Title": "Flexible neural control of motor units.",
+        "Abstract": "Voluntary movement requires communication from cortex to the spinal cord, where a dedicated pool of motor units (MUs) activates each muscle. The canonical description of MU function rests upon two foundational tenets. First, cortex cannot control MUs independently but supplies each pool with a common drive. Second, MUs are recruited in a rigid fashion that largely accords with Henneman's size principle. Although this paradigm has considerable empirical support, a direct test requires simultaneous observations of many MUs across diverse force profiles. In this study, we developed an isometric task that allowed stable MU recordings, in a rhesus macaque, even during rapidly changing forces. Patterns of MU activity were surprisingly behavior-dependent and could be accurately described only by assuming multiple drives. Consistent with flexible descending control, microstimulation of neighboring cortical sites recruited different MUs. Furthermore, the cortical population response displayed sufficient degrees of freedom to potentially exert fine-grained control. Thus, MU activity is flexibly controlled to meet task demands, and cortex may contribute to this ability.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Motor Neurons",
+            "Macaca mulatta",
+            "Spinal Cord",
+            "Muscle, Skeletal",
+            "Electromyography",
+            "Muscle Contraction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Najja J",
+                "Last Name": "Marshall",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Joshua I",
+                "Last Name": "Glaser",
+                "Affiliation": "Zuckerman Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Eric M",
+                "Last Name": "Trautmann",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Elom A",
+                "Last Name": "Amematsro",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Sean M",
+                "Last Name": "Perkins",
+                "Affiliation": "Zuckerman Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Michael N",
+                "Last Name": "Shadlen",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": "Zuckerman Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA. mc3502@columbia.edu."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35621264",
+        "Title": "Motor cortex activity across movement speeds is predicted by network-level strategies for generating muscle activity.",
+        "Abstract": "Learned movements can be skillfully performed at different paces. What neural strategies produce this flexibility? Can they be predicted and understood by network modeling? We trained monkeys to perform a cycling task at different speeds, and trained artificial recurrent networks to generate the empirical muscle-activity patterns. Network solutions reflected the principle that smooth well-behaved dynamics require low trajectory tangling. Network solutions had a consistent form, which yielded quantitative and qualitative predictions. To evaluate predictions, we analyzed motor cortex activity recorded during the same task. Responses supported the hypothesis that the dominant neural signals reflect not muscle activity, but network-level strategies for generating muscle activity. Single-neuron responses were better accounted for by network activity than by muscle activity. Similarly, neural population trajectories shared their organization not with muscle trajectories, but with network solutions. Thus, cortical activity could be understood based on the need to generate muscle activity via dynamics that allow smooth, robust control over movement speed.",
+        "Keywords": [
+            "dynamical systems",
+            "motor cortex",
+            "movement",
+            "neural networks",
+            "neuroscience",
+            "rhesus macaque",
+            "speed",
+            "tangling"
+        ],
+        "MeSH terms": [
+            "Learning",
+            "Motor Cortex",
+            "Movement",
+            "Muscles",
+            "Neurons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Shreya",
+                "Last Name": "Saxena",
+                "Affiliation": "Department of Electrical and Computer Engineering, University of Florida, Gainesville, United States."
+            },
+            {
+                "First Name": "Abigail A",
+                "Last Name": "Russo",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Cunningham",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35297409",
+        "Title": "Publisher Correction: Independent generation of sequence elements by motor cortex.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Zimnik",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA. mc3502@columbia.edu."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34716229",
+        "Title": "Cortical Control of Virtual Self-Motion Using Task-Specific Subspaces.",
+        "Abstract": "Brain-machine interfaces (BMIs) for reaching have enjoyed continued performance improvements, yet there remains significant need for BMIs that control other movement classes. Recent scientific findings suggest that the intrinsic covariance structure of neural activity depends strongly on movement class, potentially necessitating different decode algorithms across classes. To address this possibility, we developed a self-motion BMI based on cortical activity as monkeys cycled a hand-held pedal to progress along a virtual track. Unlike during reaching, we found no high-variance dimensions that directly correlated with to-be-decoded variables. This was due to no neurons having consistent correlations between their responses and kinematic variables. Yet we could decode a single variable-self-motion-by nonlinearly leveraging structure that spanned multiple high-variance neural dimensions. Resulting online BMI-control success rates approached those during manual control. These findings make two broad points regarding how to build decode algorithms that harmonize with the empirical structure of neural activity in motor cortex. First, even when decoding from the same cortical region (e.g., arm-related motor cortex), different movement classes may need to employ very different strategies. Although correlations between neural activity and hand velocity are prominent during reaching tasks, they are not a fundamental property of motor cortex and cannot be counted on to be present in general. Second, although one generally desires a low-dimensional readout, it can be beneficial to leverage a multidimensional high-variance subspace. Fully embracing this approach requires highly nonlinear approaches tailored to the task at hand, but can produce near-native levels of performance.",
+        "Keywords": [
+            "BMI",
+            "motor cortex",
+            "prosthetics",
+            "subspaces"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Biomechanical Phenomena",
+            "Brain-Computer Interfaces",
+            "Macaca mulatta",
+            "Male",
+            "Motor Cortex",
+            "Movement",
+            "Muscle, Skeletal",
+            "Psychomotor Performance"
+        ],
+        "Authors": [
+            {
+                "First Name": "Karen E",
+                "Last Name": "Schroeder",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Sean M",
+                "Last Name": "Perkins",
+                "Affiliation": "Zuckerman Institute, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Qi",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, New York mc3502@columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "33619403",
+        "Title": "Independent generation of sequence elements by motor cortex.",
+        "Abstract": "Rapid execution of motor sequences is believed to depend on fusing movement elements into cohesive units that are executed holistically. We sought to determine the contribution of primary motor and dorsal premotor cortex to this ability. Monkeys performed highly practiced two-reach sequences, interleaved with matched reaches performed alone or separated by a delay. We partitioned neural population activity into components pertaining to preparation, initiation and execution. The hypothesis that movement elements fuse makes specific predictions regarding all three forms of activity. We observed none of these predicted effects. Rapid two-reach sequences involved the same set of neural events as individual reaches but with preparation for the second reach occurring as the first was in flight. Thus, at the level of dorsal premotor and primary motor cortex, skillfully executing a rapid sequence depends not on fusing elements, but on the ability to perform two key processes at the same time.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Macaca mulatta",
+            "Male",
+            "Motor Cortex",
+            "Movement",
+            "Psychomotor Performance",
+            "Reaction Time"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Zimnik",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, USA. mc3502@columbia.edu."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "32516573",
+        "Title": "Neural Trajectories in the Supplementary Motor Area and Motor Cortex Exhibit Distinct Geometries, Compatible with Different Classes of Computation.",
+        "Abstract": "The supplementary motor area (SMA) is believed to contribute to higher order aspects of motor control. We considered a key higher order role: tracking progress throughout an action. We propose that doing so requires population activity to display low \"trajectory divergence\": situations with different future motor outputs should be distinct, even when present motor output is identical. We examined neural activity in SMA and primary motor cortex (M1) as monkeys cycled various distances through a virtual environment. SMA exhibited multiple response features that were absent in M1. At the single-neuron level, these included ramping firing rates and cycle-specific responses. At the population level, they included a helical population-trajectory geometry with shifts in the occupied subspace as movement unfolded. These diverse features all served to reduce trajectory divergence, which was much lower in SMA versus M1. Analogous population-trajectory geometry, also with low divergence, naturally arose in networks trained to internally guide multi-cycle movement.",
+        "Keywords": [
+            "motor control",
+            "motor cortex",
+            "neural computation",
+            "neural dynamics",
+            "population coding",
+            "population geometry",
+            "recurrent neural network",
+            "supplementary motor area"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Brain Mapping",
+            "Macaca mulatta",
+            "Motor Cortex",
+            "Neural Pathways",
+            "Neurons",
+            "Psychomotor Performance",
+            "Reaction Time",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Abigail A",
+                "Last Name": "Russo",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10027, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Ramin",
+                "Last Name": "Khajeh",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10027, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA; Center for Theoretical Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Sean R",
+                "Last Name": "Bittner",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10027, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA; Center for Theoretical Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Sean M",
+                "Last Name": "Perkins",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA; Department of Biomedical Engineering, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA; Grossman Center for the Statistics of Mind, Columbia University, New York, NY 10027, USA; Center for Theoretical Neuroscience, Columbia University, New York, NY 10027, USA; Department of Statistics, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10027, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA; Grossman Center for the Statistics of Mind, Columbia University, New York, NY 10027, USA; Center for Theoretical Neuroscience, Columbia University, New York, NY 10027, USA; Department of Physiology and Cellular Biophysics, Columbia University Medical Center, New York, NY 10032, USA; Kavli Institute for Brain Science, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10027, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA; Grossman Center for the Statistics of Mind, Columbia University, New York, NY 10027, USA; Kavli Institute for Brain Science, Columbia University, New York, NY 10027, USA. Electronic address: mc3502@columbia.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32043973",
+        "Title": "Postural control of arm and fingers through integration of movement commands.",
+        "Abstract": "Every movement ends in a period of stillness. Current models assume that commands that hold the limb at a target location do not depend on the commands that moved the limb to that location. Here, we report a surprising relationship between movement and posture in primates: on a within-trial basis, the commands that hold the arm and finger at a target location depend on the mathematical integration of the commands that moved the limb to that location. Following damage to the corticospinal tract, both the move and hold period commands become more variable. However, the hold period commands retain their dependence on the integral of the move period commands. Thus, our data suggest that the postural controller possesses a feedforward module that uses move commands to calculate a component of hold commands. This computation may arise within an unknown subcortical system that integrates cortical commands to stabilize limb posture.",
+        "Keywords": [
+            "Reaching",
+            "human",
+            "integration",
+            "motor control",
+            "motor learning",
+            "neuroscience",
+            "posture",
+            "rhesus macaque",
+            "stroke"
+        ],
+        "MeSH terms": [
+            "Adaptation, Physiological",
+            "Animals",
+            "Case-Control Studies",
+            "Fingers",
+            "Haplorhini",
+            "Humans",
+            "Models, Neurological",
+            "Movement",
+            "Postural Balance",
+            "Pyramidal Tracts",
+            "Stroke"
+        ],
+        "Authors": [
+            {
+                "First Name": "Scott T",
+                "Last Name": "Albert",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins School of Medicine, Baltimore, United States."
+            },
+            {
+                "First Name": "Alkis M",
+                "Last Name": "Hadjiosif",
+                "Affiliation": "Department of Neurology, Johns Hopkins School of Medicine, Baltimore, United States."
+            },
+            {
+                "First Name": "Jihoon",
+                "Last Name": "Jang",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins School of Medicine, Baltimore, United States."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Zimnik",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Demetris S",
+                "Last Name": "Soteropoulos",
+                "Affiliation": "Institute of Neuroscience, Newcastle University, Newcastle upon Tyne, United Kingdom."
+            },
+            {
+                "First Name": "Stuart N",
+                "Last Name": "Baker",
+                "Affiliation": "Institute of Neuroscience, Newcastle University, Newcastle upon Tyne, United Kingdom."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "John W",
+                "Last Name": "Krakauer",
+                "Affiliation": "Department of Neurology, Johns Hopkins School of Medicine, Baltimore, United States."
+            },
+            {
+                "First Name": "Reza",
+                "Last Name": "Shadmehr",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins School of Medicine, Baltimore, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31596230",
+        "Title": "Motor cortex signals for each arm are mixed across hemispheres and neurons yet partitioned within the population response.",
+        "Abstract": "Motor cortex (M1) has lateralized outputs, yet neurons can be active during movements of either arm. What is the nature and role of activity across the two hemispheres? We recorded muscles and neurons bilaterally while monkeys cycled with each arm. Most neurons were active during movement of either arm. Responses were strongly arm-dependent, raising two possibilities. First, population-level signals might differ depending on the arm used. Second, the same population-level signals might be present, but distributed differently across neurons. The data supported this second hypothesis. Muscle activity was accurately predicted by activity in either the ipsilateral or contralateral hemisphere. More generally, we failed to find signals unique to the contralateral hemisphere. Yet if signals are shared across hemispheres, how do they avoid impacting the wrong arm? We found that activity related to each arm occupies a distinct subspace, enabling muscle-activity decoders to naturally ignore signals related to the other arm.",
+        "Keywords": [
+            "arm movement",
+            "bimanual",
+            "motor cortex",
+            "neuroscience",
+            "rhesus macaque",
+            "state space"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Arm",
+            "Functional Laterality",
+            "Macaca mulatta",
+            "Male",
+            "Motor Cortex",
+            "Motor Neurons",
+            "Movement"
+        ],
+        "Authors": [
+            {
+                "First Name": "Katherine Cora",
+                "Last Name": "Ames",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30755488",
+        "Title": "Perturbation of Macaque Supplementary Motor Area Produces Context-Independent Changes in the Probability of Movement Initiation.",
+        "Abstract": "The contribution of the supplementary motor area (SMA) to movement initiation remains unclear. SMA exhibits premovement activity across a variety of contexts, including externally cued and self-initiated movements. Yet SMA lesions impair initiation primarily for self-initiated movements. Does SMA influence initiation across contexts or does it play a more specialized role, perhaps contributing only when initiation is less dependent on external cues? To address this question, we perturbed SMA activity via microstimulation at variable times before movement onset. Experiments used two adult male rhesus monkeys trained on a reaching task. We used three contexts that differed regarding how tightly movement initiation was linked to external cues. Movement kinematics were not altered by microstimulation. Instead, microstimulation induced a variety of changes in the timing of movement initiation, with different effects dominating for different contexts. Despite their diversity, these changes could be explained by a simple model where microstimulation has a stereotyped impact on the probability of initiation. Surprisingly, a unified model accounted for effects across all three contexts, regardless of whether initiation was determined more by external cues versus internal considerations. All effects were present for stimulation both contralateral and ipsilateral to the moving arm. Thus, the probability of initiating a pending movement is altered by perturbation of SMA activity. However, changes in initiation probability are independent of the balance of internal and external factors that establish the baseline initiation probability.",
+        "Keywords": [
+            "macaque",
+            "microstimulation",
+            "reaching",
+            "supplementary motor area"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Biomechanical Phenomena",
+            "Electric Stimulation",
+            "Functional Laterality",
+            "Macaca mulatta",
+            "Male",
+            "Motor Cortex",
+            "Movement",
+            "Psychomotor Performance"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Zimnik",
+                "Affiliation": "Department of Neuroscience."
+            },
+            {
+                "First Name": "Antonio H",
+                "Last Name": "Lara",
+                "Affiliation": "Department of Neuroscience."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, mc3502@columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30132759",
+        "Title": "Conservation of preparatory neural events in monkey motor cortex regardless of how movement is initiated.",
+        "Abstract": "A time-consuming preparatory stage is hypothesized to precede voluntary movement. A putative neural substrate of motor preparation occurs when a delay separates instruction and execution cues. When readiness is sustained during the delay, sustained neural activity is observed in motor and premotor areas. Yet whether delay-period activity reflects an essential preparatory stage is controversial. In particular, it has remained ambiguous whether delay-period-like activity appears before non-delayed movements. To overcome that ambiguity, we leveraged a recently developed analysis method that parses population responses into putatively preparatory and movement-related components. We examined cortical responses when reaches were initiated after an imposed delay, at a self-chosen time, or reactively with low latency and no delay. Putatively preparatory events were conserved across all contexts. Our findings support the hypothesis that an appropriate preparatory state is consistently achieved before movement onset. However, our results reveal that this process can consume surprisingly little time.",
+        "Keywords": [
+            "motor cortex",
+            "movement preparation",
+            "neuroscience",
+            "reaching",
+            "rhesus macaque"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Biomechanical Phenomena",
+            "Electromyography",
+            "Haplorhini",
+            "Male",
+            "Motor Cortex",
+            "Movement",
+            "Muscles",
+            "Neural Pathways",
+            "Reaction Time",
+            "Task Performance and Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Antonio H",
+                "Last Name": "Lara",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Gamaleldin F",
+                "Last Name": "Elsayed",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Zimnik",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29398358",
+        "Title": "Motor Cortex Embeds Muscle-like Commands in an Untangled Population Response.",
+        "Abstract": "Primate motor cortex projects to spinal interneurons and motoneurons, suggesting that motor cortex activity may be dominated by muscle-like commands. Observations during reaching lend support to this view, but evidence remains ambiguous and much debated. To provide a different perspective, we employed a novel behavioral paradigm that facilitates comparison between time-evolving neural and muscle activity. We found that single motor cortex neurons displayed many muscle-like properties, but the structure of population activity was not muscle-like. Unlike muscle activity, neural activity was structured to avoid \"tangling\": moments where similar activity patterns led to dissimilar future patterns. Avoidance of tangling was present across tasks and species. Network models revealed a potential reason for this consistent feature: low tangling confers noise robustness. Finally, we were able to predict motor cortex activity from muscle activity by leveraging the hypothesis that muscle-like commands are embedded in additional structure that yields low tangling.",
+        "Keywords": [
+            "motor control",
+            "motor cortex",
+            "movement generation",
+            "neural dynamics",
+            "neural network",
+            "pattern generation",
+            "rhythmic movement"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Macaca mulatta",
+            "Male",
+            "Mice",
+            "Models, Neurological",
+            "Motor Activity",
+            "Motor Cortex",
+            "Motor Neurons",
+            "Muscle, Skeletal",
+            "Neural Pathways"
+        ],
+        "Authors": [
+            {
+                "First Name": "Abigail A",
+                "Last Name": "Russo",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY 10032, USA; Zuckerman Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Sean R",
+                "Last Name": "Bittner",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY 10032, USA; Zuckerman Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Sean M",
+                "Last Name": "Perkins",
+                "Affiliation": "Zuckerman Institute, Columbia University, New York, NY 10027, USA; Department of Biomedical Engineering, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Jeffrey S",
+                "Last Name": "Seely",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY 10032, USA; Zuckerman Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Brian M",
+                "Last Name": "London",
+                "Affiliation": "SeatGeek, New York, NY 10003, USA."
+            },
+            {
+                "First Name": "Antonio H",
+                "Last Name": "Lara",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY 10032, USA; Zuckerman Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Miri",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY 10032, USA; Zuckerman Institute, Columbia University, New York, NY 10027, USA; Departments of Biochemistry and Molecular Biophysics, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Najja J",
+                "Last Name": "Marshall",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY 10032, USA; Zuckerman Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Adam",
+                "Last Name": "Kohn",
+                "Affiliation": "Department of Ophthalmology and Visual Sciences, Dominick Purpura Department of Neuroscience, Albert Einstein College of Medicine, Yeshiva University, Bronx, NY 10461, USA."
+            },
+            {
+                "First Name": "Thomas M",
+                "Last Name": "Jessell",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY 10032, USA; Zuckerman Institute, Columbia University, New York, NY 10027, USA; Kavli Institute for Brain Science, Columbia University Medical Center, New York, NY 10032, USA; Howard Hughes Medical Institute, Columbia University, New York, NY 10032, USA; Departments of Biochemistry and Molecular Biophysics, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Laurence F",
+                "Last Name": "Abbott",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY 10032, USA; Zuckerman Institute, Columbia University, New York, NY 10027, USA; Kavli Institute for Brain Science, Columbia University Medical Center, New York, NY 10032, USA; Department of Physiology and Cellular Biophysics, Columbia University Medical Center, New York, NY 10032, USA; Center for Theoretical Neuroscience, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": "Zuckerman Institute, Columbia University, New York, NY 10027, USA; Grossman Center for the Statistics of Mind, Columbia University, New York, NY 10027, USA; Center for Theoretical Neuroscience, Columbia University Medical Center, New York, NY 10032, USA; Department of Statistics, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY 10032, USA; Zuckerman Institute, Columbia University, New York, NY 10027, USA; Kavli Institute for Brain Science, Columbia University Medical Center, New York, NY 10032, USA; Grossman Center for the Statistics of Mind, Columbia University, New York, NY 10027, USA. Electronic address: mc3502@columbia.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28735748",
+        "Title": "Behaviorally Selective Engagement of Short-Latency Effector Pathways by Motor Cortex.",
+        "Abstract": "Blocking motor cortical output with lesions or pharmacological inactivation has identified movements that require motor cortex. Yet, when and how motor cortex influences muscle activity during movement execution remains unresolved. We addressed this ambiguity using measurement and perturbation of motor cortical activity together with electromyography in mice during two forelimb movements that differ in their requirement for cortical involvement. Rapid optogenetic silencing and electrical stimulation indicated that short-latency pathways linking motor cortex with spinal motor neurons are selectively activated during one behavior. Analysis of motor cortical activity revealed a dramatic change between behaviors in the coordination of firing patterns across neurons that could account for this differential influence. Thus, our results suggest that changes in motor cortical output patterns enable a behaviorally selective engagement of short-latency effector pathways. The model of motor cortical influence implied by our findings helps reconcile previous observations on the function of motor cortex.",
+        "Keywords": [
+            "channelrhodopsin",
+            "motor cortex",
+            "mouse",
+            "neural dynamics",
+            "neural recording"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Choice Behavior",
+            "Electromyography",
+            "Forelimb",
+            "Male",
+            "Mice",
+            "Motor Cortex",
+            "Motor Neurons",
+            "Movement",
+            "Neural Pathways",
+            "Optogenetics",
+            "Synaptic Transmission"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrew",
+                "Last Name": "Miri",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Kavli Institute of Brain Science, Columbia University, New York, NY 10032, USA; Howard Hughes Medical Institute, Columbia University, New York, NY 10032, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10032, USA. Electronic address: andrewmiri@gmail.com."
+            },
+            {
+                "First Name": "Claire L",
+                "Last Name": "Warriner",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Kavli Institute of Brain Science, Columbia University, New York, NY 10032, USA; Howard Hughes Medical Institute, Columbia University, New York, NY 10032, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jeffrey S",
+                "Last Name": "Seely",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA; Grossman Center for the Statistics of Mind, Columbia University, New York, NY 10032, USA; Center for Theoretical Neuroscience, Columbia University, New York, NY 10032, USA; David Mahoney Center for Brain and Behavior Research, Columbia University, New York, NY 10032, USA; Kavli Institute of Brain Science, Columbia University, New York, NY 10032, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Gamaleldin F",
+                "Last Name": "Elsayed",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA; Grossman Center for the Statistics of Mind, Columbia University, New York, NY 10032, USA; Center for Theoretical Neuroscience, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": "Department of Statistics, Columbia University, New York, NY 10032, USA; Grossman Center for the Statistics of Mind, Columbia University, New York, NY 10032, USA; Center for Theoretical Neuroscience, Columbia University, New York, NY 10032, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA; Grossman Center for the Statistics of Mind, Columbia University, New York, NY 10032, USA; David Mahoney Center for Brain and Behavior Research, Columbia University, New York, NY 10032, USA; Kavli Institute of Brain Science, Columbia University, New York, NY 10032, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Thomas M",
+                "Last Name": "Jessell",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Kavli Institute of Brain Science, Columbia University, New York, NY 10032, USA; Howard Hughes Medical Institute, Columbia University, New York, NY 10032, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27814353",
+        "Title": "Tensor Analysis Reveals Distinct Population Structure that Parallels the Different Computational Roles of Areas M1 and V1.",
+        "Abstract": "Cortical firing rates frequently display elaborate and heterogeneous temporal structure. One often wishes to compute quantitative summaries of such structure-a basic example is the frequency spectrum-and compare with model-based predictions. The advent of large-scale population recordings affords the opportunity to do so in new ways, with the hope of distinguishing between potential explanations for why responses vary with time. We introduce a method that assesses a basic but previously unexplored form of population-level structure: when data contain responses across multiple neurons, conditions, and times, they are naturally expressed as a third-order tensor. We examined tensor structure for multiple datasets from primary visual cortex (V1) and primary motor cortex (M1). All V1 datasets were 'simplest' (there were relatively few degrees of freedom) along the neuron mode, while all M1 datasets were simplest along the condition mode. These differences could not be inferred from surface-level response features. Formal considerations suggest why tensor structure might differ across modes. For idealized linear models, structure is simplest across the neuron mode when responses reflect external variables, and simplest across the condition mode when responses reflect population dynamics. This same pattern was present for existing models that seek to explain motor cortex responses. Critically, only dynamical models displayed tensor structure that agreed with the empirical M1 data. These results illustrate that tensor structure is a basic feature of the data. For M1 the tensor structure was compatible with only a subset of existing models.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Brain Mapping",
+            "Computer Simulation",
+            "Diffusion Tensor Imaging",
+            "Haplorhini",
+            "Models, Neurological",
+            "Motor Cortex",
+            "Movement",
+            "Nerve Net",
+            "Psychomotor Performance",
+            "Reproducibility of Results",
+            "Sensitivity and Specificity",
+            "Visual Cortex",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jeffrey S",
+                "Last Name": "Seely",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": "Neurosciences Program,Stanford University, Stanford, CA, United States of America."
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": "Department of Electrical Engineering, Stanford University, Stanford, CA, United States of America."
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": "Neurosciences Program,Stanford University, Stanford, CA, United States of America."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": "Grossman Center for the Statistics of Mind, Columbia University Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, United States of America."
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27807345",
+        "Title": "Reorganization between preparatory and movement population responses in motor cortex.",
+        "Abstract": "Neural populations can change the computation they perform on very short timescales. Although such flexibility is common, the underlying computational strategies at the population level remain unknown. To address this gap, we examined population responses in motor cortex during reach preparation and movement. We found that there exist exclusive and orthogonal population-level subspaces dedicated to preparatory and movement computations. This orthogonality yielded a reorganization in response correlations: the set of neurons with shared response properties changed completely between preparation and movement. Thus, the same neural population acts, at different times, as two separate circuits with very different properties. This finding is not predicted by existing motor cortical models, which predict overlapping preparation-related and movement-related subspaces. Despite orthogonality, responses in the preparatory subspace were lawfully related to subsequent responses in the movement subspace. These results reveal a population-level strategy for performing separate but linked computations.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Macaca mulatta",
+            "Male",
+            "Models, Neurological",
+            "Motor Cortex",
+            "Movement"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamaleldin F",
+                "Last Name": "Elsayed",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Antonio H",
+                "Last Name": "Lara",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, New York 11724, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, New York, New York 10032, USA."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27761519",
+        "Title": "The Largest Response Component in the Motor Cortex Reflects Movement Timing but Not Movement Type.",
+        "Abstract": "Neural activity in monkey motor cortex (M1) and dorsal premotor cortex (PMd) can reflect a chosen movement well before that movement begins. The pattern of neural activity then changes profoundly just before movement onset. We considered the prediction, derived from formal considerations, that the transition from preparation to movement might be accompanied by a large overall change in the neural state that reflects when movement is made rather than which movement is made. Specifically, we examined \"components\" of the population response: time-varying patterns of activity from which each neuron's response is approximately composed. Amid the response complexity of individual M1 and PMd neurons, we identified robust response components that were \"condition-invariant\": their magnitude and time course were nearly identical regardless of reach direction or path. These condition-invariant response components occupied dimensions orthogonal to those occupied by the \"tuned\" response components. The largest condition-invariant component was much larger than any of the tuned components; i.e., it explained more of the structure in individual-neuron responses. This condition-invariant response component underwent a rapid change before movement onset. The timing of that change predicted most of the trial-by-trial variance in reaction time. Thus, although individual M1 and PMd neurons essentially always reflected which movement was made, the largest component of the population response reflected movement timing rather than movement type.",
+        "Keywords": [
+            "condition-invariant signal",
+            "dPCA",
+            "movement initiation",
+            "movement triggering",
+            "reaction time",
+            "state space"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Arm",
+            "Electromyography",
+            "Macaca mulatta",
+            "Male",
+            "Microelectrodes",
+            "Motor Activity",
+            "Motor Cortex",
+            "Muscle, Skeletal",
+            "Neurons",
+            "Neuropsychological Tests",
+            "Reaction Time",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": "Neurosciences Program, Stanford University, Stanford, California 94305; Department of Electrical Engineering, Stanford University, Stanford, California 94305; Cold Spring Harbor Laboratory, Cold Spring Harbor, New York 11724."
+            },
+            {
+                "First Name": "Jeffrey S",
+                "Last Name": "Seely",
+                "Affiliation": "Department of Neuroscience."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Sussillo",
+                "Affiliation": "Neurosciences Program, Stanford University, Stanford, California 94305; Department of Electrical Engineering, Stanford University, Stanford, California 94305."
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": "Department of Electrical Engineering, Stanford University, Stanford, California 94305; Department of Neurosurgery, Palo Alto Medical Foundation, Palo Alto, California 94301."
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": "Neurosciences Program, Stanford University, Stanford, California 94305; Department of Electrical Engineering, Stanford University, Stanford, California 94305; Department of Bioengineering, Stanford University, Stanford, California 94305; Department of Neurobiology, Stanford University, Stanford, California 94305; Howard Hughes Medical Institute, Stanford University, Stanford, California 94305."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience; Grossman Center for the Statistics of Mind, David Mahoney Center for Brain and Behavior Research, Kavli Institute for Brain Science, Columbia University Medical Center, New York, NY 10032."
+            }
+        ],
+        "Journal": "eNeuro",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26220660",
+        "Title": "Single-trial dynamics of motor cortex and their applications to brain-machine interfaces.",
+        "Abstract": "Increasing evidence suggests that neural population responses have their own internal drive, or dynamics, that describe how the neural population evolves through time. An important prediction of neural dynamical models is that previously observed neural activity is informative of noisy yet-to-be-observed activity on single-trials, and may thus have a denoising effect. To investigate this prediction, we built and characterized dynamical models of single-trial motor cortical activity. We find these models capture salient dynamical features of the neural population and are informative of future neural activity on single trials. To assess how neural dynamics may beneficially denoise single-trial neural activity, we incorporate neural dynamics into a brain-machine interface (BMI). In online experiments, we find that a neural dynamical BMI achieves substantially higher performance than its non-dynamical counterpart. These results provide evidence that neural dynamics beneficially inform the temporal evolution of neural activity on single trials and may directly impact the performance of BMIs.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "Brain-Computer Interfaces",
+            "Macaca mulatta",
+            "Male",
+            "Models, Neurological",
+            "Motor Cortex"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan C",
+                "Last Name": "Kao",
+                "Affiliation": "Electrical Engineering Department, Stanford University, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Paul",
+                "Last Name": "Nuyujukian",
+                "Affiliation": "1] Bioengineering Department, Stanford University, Stanford, California 94305, USA [2] School of Medicine, Stanford University, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": "1] Electrical Engineering Department, Stanford University, Stanford, California 94305, USA [2] Palo Alto Medical Foundation, Palo Alto, California 94301, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": "Department of Statistics, Columbia University, New York, New York 10027, USA."
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": "1] Electrical Engineering Department, Stanford University, Stanford, California 94305, USA [2] Bioengineering Department, Stanford University, Stanford, California 94305, USA [3] Neurosciences Program, Stanford University, Stanford, California, USA [4] Neurobiology Department, Stanford University, Stanford, California 94305, USA [5] Bio-X Program, Stanford University, Stanford, California 94305, USA [6] Stanford Neurosciences Institute, Stanford University, Stanford, California 94305, USA."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26141430",
+        "Title": "Editorial overview: Motor circuits and action.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "Humans",
+            "Locomotion",
+            "Movement",
+            "Neural Pathways"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ole",
+                "Last Name": "Kiehn",
+                "Affiliation": "Mammalian Locomotor Laboratory, Department of Neuroscience, Karolinska Institutet, Retziusv\u00e4g 8, 17177 Stockholm, Sweden. Electronic address: Ole.Kiehn@ki.se."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Grossman Center for the Statistics of Mind, David Mahoney Center for Brain and Behavior Research, Kavli Institute for Brain Science, Columbia University Medical Center, New York, NY 10032, United States. Electronic address: mc3502@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Current opinion in neurobiology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26075643",
+        "Title": "A neural network that finds a naturalistic solution for the production of muscle activity.",
+        "Abstract": "It remains an open question how neural responses in motor cortex relate to movement. We explored the hypothesis that motor cortex reflects dynamics appropriate for generating temporally patterned outgoing commands. To formalize this hypothesis, we trained recurrent neural networks to reproduce the muscle activity of reaching monkeys. Models had to infer dynamics that could transform simple inputs into temporally and spatially complex patterns of muscle activity. Analysis of trained models revealed that the natural dynamical solution was a low-dimensional oscillator that generated the necessary multiphasic commands. This solution closely resembled, at both the single-neuron and population levels, what was observed in neural recordings from the same monkeys. Notably, data and simulations agreed only when models were optimized to find simple solutions. An appealing interpretation is that the empirically observed dynamics of motor cortex may reflect a simple solution to the problem of generating temporally patterned descending commands.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Electromyography",
+            "Electrophysiological Phenomena",
+            "Haplorhini",
+            "Motor Activity",
+            "Motor Cortex",
+            "Muscle, Skeletal",
+            "Nerve Net",
+            "Neural Networks, Computer",
+            "Neurons"
+        ],
+        "Authors": [
+            {
+                "First Name": "David",
+                "Last Name": "Sussillo",
+                "Affiliation": "Department of Electrical Engineering and Neurosciences Program, Stanford University, Stanford, California, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Grossman Center for the Statistics of Mind, David Mahoney Center for Brain and Behavior Research, Kavli Institute for Brain Science, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": "Department of Electrical Engineering and Neurosciences Program, Stanford University, Stanford, California, USA."
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": "1] Department of Electrical Engineering and Neurosciences Program, Stanford University, Stanford, California, USA. [2] Departments of Bioengineering and Neurobiology, Stanford Neurosciences Institute and Bio-X Program, Stanford University, Stanford, California, USA."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25942352",
+        "Title": "Vacillation, indecision and hesitation in moment-by-moment decoding of monkey motor cortex.",
+        "Abstract": "When choosing actions, we can act decisively, vacillate, or suffer momentary indecision. Studying how individual decisions unfold requires moment-by-moment readouts of brain state. Here we provide such a view from dorsal premotor and primary motor cortex. Two monkeys performed a novel decision task while we recorded from many neurons simultaneously. We found that a decoder trained using 'forced choices' (one target viable) was highly reliable when applied to 'free choices'. However, during free choices internal events formed three categories. Typically, neural activity was consistent with rapid, unwavering choices. Sometimes, though, we observed presumed 'changes of mind': the neural state initially reflected one choice before changing to reflect the final choice. Finally, we observed momentary 'indecision': delay forming any clear motor plan. Further, moments of neural indecision accompanied moments of behavioral indecision. Together, these results reveal the rich and diverse set of internal events long suspected to occur during free choice.",
+        "Keywords": [
+            "decision making",
+            "decoder",
+            "free choice",
+            "monkey",
+            "motor",
+            "neuroscience",
+            "vacillation"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Choice Behavior",
+            "Cognition",
+            "Electrodes, Implanted",
+            "Macaca mulatta",
+            "Male",
+            "Motor Cortex",
+            "Neurons",
+            "Reaction Time",
+            "Uncertainty"
+        ],
+        "Authors": [
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": "Department of Electrical Engineering, Stanford University, Stanford, United States."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": "Department of Electrical Engineering, Stanford University, Stanford, United States."
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": "Department of Electrical Engineering, Stanford University, Stanford, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25851506",
+        "Title": "A Dynamical Basis Set for Generating Reaches.",
+        "Abstract": "The motor cortex was the one of the first cortical areas to be explored electrophysiologically, yet little agreement has emerged regarding its basic response properties. Often it is assumed that single-neuron responses reflect a preference for a particular movement or movement variable. It may be further assumed that movement is generated by (or at least accompanied by) a growing population-level preference for the relevant movement. This view has been attractive because it provides a canonical form for the single neuron, a link between preparatory and movement activity, a way of interpreting the population response, and a platform for designing analyses and couching hypotheses. However, this traditional view yields predictions that are at odds with basic features of the data. We discuss an alternative simplified model, in which outgoing commands are produced by dynamics that generate different output patterns as a function of the initial preparatory state. For reaching tasks, we hypothesized simple quasioscillatory dynamics because they provide a natural basis set for the empirical patterns of muscle activity. The predictions of the dynamical model match the data well at both the single-neuron and population levels, and the quasioscillatory patterns explain many of the otherwise odd features of the neural responses.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Models, Neurological",
+            "Motor Activity",
+            "Neurons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Grossman Center for the Statistics of Mind, David Mahoney Center for Brain and Behavior Research, Kavli Institute for Brain Science, Columbia University Medical Center, New York, New York 10032 mc3502@columbia.edu."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": "Department of Statistics, Grossman Center for the Statistics of Mind, Center for Theoretical Neuroscience, Institute for Data Science and Engineering, Columbia University, New York, New York 10027."
+            }
+        ],
+        "Journal": "Cold Spring Harbor symposia on quantitative biology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24487233",
+        "Title": "Cortical activity in the null space: permitting preparation without movement.",
+        "Abstract": "Neural circuits must perform computations and then selectively output the results to other circuits. Yet synapses do not change radically at millisecond timescales. A key question then is: how is communication between neural circuits controlled? In motor control, brain areas directly involved in driving movement are active well before movement begins. Muscle activity is some readout of neural activity, yet it remains largely unchanged during preparation. Here we find that during preparation, while the monkey holds still, changes in motor cortical activity cancel out at the level of these population readouts. Motor cortex can thereby prepare the movement without prematurely causing it. Further, we found evidence that this mechanism also operates in dorsal premotor cortex, largely accounting for how preparatory activity is attenuated in primary motor cortex. Selective use of 'output-null' vs. 'output-potent' patterns of activity may thus help control communication to the muscles and between these brain areas.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Computer Simulation",
+            "Electromyography",
+            "Electrophysiological Phenomena",
+            "Macaca mulatta",
+            "Male",
+            "Models, Neurological",
+            "Motor Cortex",
+            "Movement",
+            "Muscle, Skeletal",
+            "Nerve Net",
+            "Neurons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": "1] Neurosciences Program, Stanford University, Stanford, California, USA. [2] Department of Electrical Engineering, Stanford University, Stanford, California, USA. [3] Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "1] Department of Neuroscience, Columbia University Medical Center, New York, New York, USA. [2] Grossman Center for the Statistics of Mind, Columbia University Medical Center, New York, New York, USA. [3] David Mahoney Center for Brain and Behavior Research, Columbia University Medical Center, New York, New York, USA. [4] Kavli Institute for Brain Science, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": "1] Department of Electrical Engineering, Stanford University, Stanford, California, USA. [2] Department of Neurosurgery, Palo Alto Medical Foundation, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": "1] Neurosciences Program, Stanford University, Stanford, California, USA. [2] Department of Electrical Engineering, Stanford University, Stanford, California, USA. [3] Department of Bioengineering, Stanford University, Stanford, California, USA. [4] Department of Neurobiology, Stanford University, Stanford, California, USA."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24216250",
+        "Title": "DataHigh: graphical user interface for visualizing and interacting with high-dimensional neural activity.",
+        "Abstract": "Analyzing and interpreting the activity of a heterogeneous population of neurons can be challenging, especially as the number of neurons, experimental trials, and experimental conditions increases. One approach is to extract a set of latent variables that succinctly captures the prominent co-fluctuation patterns across the neural population. A key problem is that the number of latent variables needed to adequately describe the population activity is often greater than 3, thereby preventing direct visualization of the latent space. By visualizing a small number of 2-d projections of the latent space or each latent variable individually, it is easy to miss salient features of the population activity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Models, Neurological",
+            "Nerve Net",
+            "Neurons",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Benjamin R",
+                "Last Name": "Cowley",
+                "Affiliation": "Department of Machine Learning, Carnegie Mellon University, Pittsburgh, PA, USA. Center for Neural Basis of Cognition, Carnegie Mellon University, Pittsburgh, PA, USA."
+            },
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zachary S",
+                "Last Name": "Butler",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Byron M",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neural engineering",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23725001",
+        "Title": "Cortical control of arm movements: a dynamical systems perspective.",
+        "Abstract": "Our ability to move is central to everyday life. Investigating the neural control of movement in general, and the cortical control of volitional arm movements in particular, has been a major research focus in recent decades. Studies have involved primarily either attempts to account for single-neuron responses in terms of tuning for movement parameters or attempts to decode movement parameters from populations of tuned neurons. Even though this focus on encoding and decoding has led to many seminal advances, it has not produced an agreed-upon conceptual framework. Interest in understanding the underlying neural dynamics has recently increased, leading to questions such as how does the current population response determine the future population response, and to what purpose? We review how a dynamical systems perspective may help us understand why neural activity evolves the way it does, how neural activity relates to movement parameters, and how a unified conceptual framework may result.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Arm",
+            "Evoked Potentials, Motor",
+            "Humans",
+            "Models, Neurological",
+            "Motor Cortex",
+            "Movement",
+            "Nonlinear Dynamics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": "Department of Electrical Engineering, Stanford Institute for Neuro-Innovation and TranslationalNeuroscience, Stanford University, Stanford, CA 94305, USA. shenoy@stanford.edu"
+            },
+            {
+                "First Name": "Maneesh",
+                "Last Name": "Sahani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annual review of neuroscience",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23699057",
+        "Title": "The roles of monkey M1 neuron classes in movement preparation and execution.",
+        "Abstract": "The motor cortices exhibit substantial activity while preparing movements, yet the arm remains still during preparation. We investigated whether a subpopulation of presumed inhibitory neurons in primary motor cortex (M1) might be involved in \"gating\" motor output during preparation, while permitting output during movement. This hypothesis predicts a release of inhibition just before movement onset. In data from M1 of two monkeys, we did not find evidence for this hypothesis: few neurons exhibited a clear pause during movement, and these were at the tail end of a broad distribution. We then identified a subpopulation likely to be enriched for inhibitory interneurons, using their waveform shapes. We found that the firing rates of this subpopulation tended to increase during movement instead of decreasing as predicted by the M1 gating model. No clear subset that might implement an inhibitory gate was observed. Together with previous evidence against upstream inhibitory mechanisms in premotor cortex, this provides evidence against an inhibitory \"gate\" for motor output in cortex. Instead, it appears that some other mechanism must likely exist.",
+        "Keywords": [
+            "cell type",
+            "gating",
+            "interneurons",
+            "motor cortex",
+            "pyramidal cells"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Macaca mulatta",
+            "Male",
+            "Motor Cortex",
+            "Movement",
+            "Neural Inhibition",
+            "Neurons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": "Neurosciences Program, Stanford University, Stanford, California, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23366954",
+        "Title": "DataHigh: graphical user interface for visualizing and interacting with high-dimensional neural activity.",
+        "Abstract": "The activity of tens to hundreds of neurons can be succinctly summarized by a smaller number of latent variables extracted using dimensionality reduction methods. These latent variables define a reduced-dimensional space in which we can study how population activity varies over time, across trials, and across experimental conditions. Ideally, we would like to visualize the population activity directly in the reduced-dimensional space, whose optimal dimensionality (as determined from the data) is typically greater than 3. However, direct plotting can only provide a 2D or 3D view. To address this limitation, we developed a Matlab graphical user interface (GUI) that allows the user to quickly navigate through a continuum of different 2D projections of the reduced-dimensional space. To demonstrate the utility and versatility of this GUI, we applied it to visualize population activity recorded in premotor and motor cortices during reaching tasks. Examples include single-trial population activity recorded using a multi-electrode array, as well as trial-averaged population activity recorded sequentially using single electrodes. Because any single 2D projection may provide a misleading impression of the data, being able to see a large number of 2D projections is critical for intuition-and hypothesis-building during exploratory data analysis. The GUI includes a suite of additional interactive tools, including playing out population activity timecourses as a movie and displaying summary statistics, such as covariance ellipses and average timecourses. The use of visualization tools like the GUI developed here, in tandem with dimensionality reduction methods, has the potential to further our understanding of neural population activity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Brain Mapping",
+            "Computer Graphics",
+            "Evoked Potentials, Motor",
+            "Humans",
+            "Motor Cortex",
+            "Movement",
+            "Nerve Net",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Benjamin R",
+                "Last Name": "Cowley",
+                "Affiliation": "Department of Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, PA, USA."
+            },
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Byron M",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "23160043",
+        "Title": "A high-performance neural prosthesis enabled by control algorithm design.",
+        "Abstract": "Neural prostheses translate neural activity from the brain into control signals for guiding prosthetic devices, such as computer cursors and robotic limbs, and thus offer individuals with disabilities greater interaction with the world. However, relatively low performance remains a critical barrier to successful clinical translation; current neural prostheses are considerably slower, with less accurate control, than the native arm. Here we present a new control algorithm, the recalibrated feedback intention-trained Kalman filter (ReFIT-KF) that incorporates assumptions about the nature of closed-loop neural prosthetic control. When tested in rhesus monkeys implanted with motor cortical electrode arrays, the ReFIT-KF algorithm outperformed existing neural prosthetic algorithms in all measured domains and halved target acquisition time. This control algorithm permits sustained, uninterrupted use for hours and generalizes to more challenging tasks without retraining. Using this algorithm, we demonstrate repeatable high performance for years after implantation in two monkeys, thereby increasing the clinical viability of neural prostheses.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Electrodes, Implanted",
+            "Macaca",
+            "Male",
+            "Neural Prostheses",
+            "Photic Stimulation",
+            "Psychomotor Performance"
+        ],
+        "Authors": [
+            {
+                "First Name": "Vikash",
+                "Last Name": "Gilja",
+                "Affiliation": "Department of Computer Science, Stanford University, Stanford, California, USA. gilja@stanford.edu"
+            },
+            {
+                "First Name": "Paul",
+                "Last Name": "Nuyujukian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cindy A",
+                "Last Name": "Chestek",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Byron M",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joline M",
+                "Last Name": "Fan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan C",
+                "Last Name": "Kao",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "23103992",
+        "Title": "Two layers of neural variability.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cerebral Cortex",
+            "Humans",
+            "Models, Neurological",
+            "Nerve Net",
+            "Neurons",
+            "Nonlinear Dynamics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22722855",
+        "Title": "Neural population dynamics during reaching.",
+        "Abstract": "Most theories of motor cortex have assumed that neural activity represents movement parameters. This view derives from what is known about primary visual cortex, where neural activity represents patterns of light. Yet it is unclear how well the analogy between motor and visual cortex holds. Single-neuron responses in motor cortex are complex, and there is marked disagreement regarding which movement parameters are represented. A better analogy might be with other motor systems, where a common principle is rhythmic neural activity. Here we find that motor cortex responses during reaching contain a brief but strong oscillatory component, something quite unexpected for a non-periodic behaviour. Oscillation amplitude and phase followed naturally from the preparatory state, suggesting a mechanistic role for preparatory neural activity. These results demonstrate an unexpected yet surprisingly simple structure in the population response. This underlying structure explains many of the confusing features of individual neural responses.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Biomechanical Phenomena",
+            "Electromyography",
+            "Leeches",
+            "Macaca mulatta",
+            "Male",
+            "Models, Neurological",
+            "Motor Cortex",
+            "Movement",
+            "Neurons",
+            "Rotation",
+            "Swimming",
+            "Walking"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Neuroscience, Kavli Institute for Brain Science, David Mahoney Center, Columbia University Medical Center, New York, New York 10032, USA. mc3502@columbia.edu"
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Justin D",
+                "Last Name": "Foster",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paul",
+                "Last Name": "Nuyujukian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21775782",
+        "Title": "Long-term stability of neural prosthetic control signals from silicon cortical arrays in rhesus macaque motor cortex.",
+        "Abstract": "Cortically-controlled prosthetic systems aim to help disabled patients by translating neural signals from the brain into control signals for guiding prosthetic devices. Recent reports have demonstrated reasonably high levels of performance and control of computer cursors and prosthetic limbs, but to achieve true clinical viability, the long-term operation of these systems must be better understood. In particular, the quality and stability of the electrically-recorded neural signals require further characterization. Here, we quantify action potential changes and offline neural decoder performance over 382 days of recording from four intracortical arrays in three animals. Action potential amplitude decreased by 2.4% per month on average over the course of 9.4, 10.4, and 31.7 months in three animals. During most time periods, decoder performance was not well correlated with action potential amplitude (p > 0.05 for three of four arrays). In two arrays from one animal, action potential amplitude declined by an average of 37% over the first 2 months after implant. However, when using simple threshold-crossing events rather than well-isolated action potentials, no corresponding performance loss was observed during this time using an offline decoder. One of these arrays was effectively used for online prosthetic experiments over the following year. Substantial short-term variations in waveforms were quantified using a wireless system for contiguous recording in one animal, and compared within and between days for all three animals. Overall, this study suggests that action potential amplitude declines more slowly than previously supposed, and performance can be maintained over the course of multiple years when decoding from threshold-crossing events rather than isolated action potentials. This suggests that neural prosthetic systems may provide high performance over multiple years in human clinical trials.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Algorithms",
+            "Animals",
+            "Data Interpretation, Statistical",
+            "Electrodes, Implanted",
+            "Electroencephalography",
+            "Macaca mulatta",
+            "Motor Cortex",
+            "Neurons",
+            "Prostheses and Implants",
+            "Prosthesis Design",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cynthia A",
+                "Last Name": "Chestek",
+                "Affiliation": "Department of Electrical Engineering, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Vikash",
+                "Last Name": "Gilja",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paul",
+                "Last Name": "Nuyujukian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Justin D",
+                "Last Name": "Foster",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joline M",
+                "Last Name": "Fan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zuley",
+                "Last Name": "Rivera-Alvidrez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neural engineering",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21763517",
+        "Title": "A dynamical systems view of motor preparation: implications for neural prosthetic system design.",
+        "Abstract": "Neural prosthetic systems aim to help disabled patients suffering from a range of neurological injuries and disease by using neural activity from the brain to directly control assistive devices. This approach in effect bypasses the dysfunctional neural circuitry, such as an injured spinal cord. To do so, neural prostheses depend critically on a scientific understanding of the neural activity that drives them. We review here several recent studies aimed at understanding the neural processes in premotor cortex that precede arm movements and lead to the initiation of movement. These studies were motivated by hypotheses and predictions conceived of within a dynamical systems perspective. This perspective concentrates on describing the neural state using as few degrees of freedom as possible and on inferring the rules that govern the motion of that neural state. Although quite general, this perspective has led to a number of specific predictions that have been addressed experimentally. It is hoped that the resulting picture of the dynamical role of preparatory and movement-related neural activity will be particularly helpful to the development of neural prostheses, which can themselves be viewed as dynamical systems under the control of the larger dynamical system to which they are attached.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Arm",
+            "Behavior",
+            "Humans",
+            "Motor Cortex",
+            "Movement",
+            "Nerve Net",
+            "Neural Prostheses",
+            "Neurons",
+            "Psychomotor Performance",
+            "Reaction Time"
+        ],
+        "Authors": [
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": "Department of Electrical Engineering, Stanford University, Stanford, California, USA. shenoy@stanford.edu"
+            },
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maneesh",
+                "Last Name": "Sahani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Progress in brain research",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21040842",
+        "Title": "Cortical preparatory activity: representation of movement or first cog in a dynamical machine?",
+        "Abstract": "The motor cortices are active during both movement and movement preparation. A common assumption is that preparatory activity constitutes a subthreshold form of movement activity: a neuron active during rightward movements becomes modestly active during preparation of a rightward movement. We asked whether this pattern of activity is, in fact, observed. We found that it was not: at the level of a single neuron, preparatory tuning was weakly correlated with movement-period tuning. Yet, somewhat paradoxically, preparatory tuning could be captured by a preferred direction in an abstract \"space\" that described the population-level pattern of movement activity. In fact, this relationship accounted for preparatory responses better than did traditional tuning models. These results are expected if preparatory activity provides the initial state of a dynamical system whose evolution produces movement activity. Our results thus suggest that preparatory activity may not represent specific factors, and may instead play a more mechanistic role.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Brain Mapping",
+            "Electrophysiology",
+            "Haplorhini",
+            "Models, Neurological",
+            "Motor Cortex",
+            "Movement",
+            "Neurons",
+            "Photic Stimulation",
+            "Psychomotor Performance",
+            "Space Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Electrical Engineering, Stanford University, Stanford, CA 94305, USA. church@stanford.edu"
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20538784",
+        "Title": "Roles of monkey premotor neuron classes in movement preparation and execution.",
+        "Abstract": "Dorsal premotor cortex (PMd) is known to be involved in the planning and execution of reaching movements. However, it is not understood how PMd plan activity-often present in the very same neurons that respond during movement-is prevented from itself producing movement. We investigated whether inhibitory interneurons might \"gate\" output from PMd, by maintaining high levels of inhibition during planning and reducing inhibition during execution. Recently developed methods permit distinguishing interneurons from pyramidal neurons using extracellular recordings. We extend these methods here for use with chronically implanted multi-electrode arrays. We then applied these methods to single- and multi-electrode recordings in PMd of two monkeys performing delayed-reach tasks. Responses of putative interneurons were not generally in agreement with the hypothesis that they act to gate output from the area: in particular it was not the case that interneurons tended to reduce their firing rates around the time of movement. In fact, interneurons increased their rates more than putative pyramidal neurons during both the planning and movement epochs. The two classes of neurons also differed in a number of other ways, including greater modulation across conditions for interneurons, and interneurons more frequently exhibiting increases in firing rate during movement planning and execution. These findings provide novel information about the greater responsiveness of putative PMd interneurons in motor planning and execution and suggest that we may need to consider new possibilities for how planning activity is structured such that it does not itself produce movement.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Brain Mapping",
+            "Executive Function",
+            "Macaca mulatta",
+            "Male",
+            "Motor Cortex",
+            "Motor Neurons",
+            "Movement",
+            "Statistics as Topic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Matthew T",
+                "Last Name": "Kaufman",
+                "Affiliation": "Neurosciences Program, Stanford University, Stanford, California 94305-4075, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gopal",
+                "Last Name": "Santhanam",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Byron M",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Afsheen",
+                "Last Name": "Afshar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20173745",
+        "Title": "Stimulus onset quenches neural variability: a widespread cortical phenomenon.",
+        "Abstract": "Neural responses are typically characterized by computing the mean firing rate, but response variability can exist across trials. Many studies have examined the effect of a stimulus on the mean response, but few have examined the effect on response variability. We measured neural variability in 13 extracellularly recorded datasets and one intracellularly recorded dataset from seven areas spanning the four cortical lobes in monkeys and cats. In every case, stimulus onset caused a decline in neural variability. This occurred even when the stimulus produced little change in mean firing rate. The variability decline was observed in membrane potential recordings, in the spiking of individual neurons and in correlated spiking variability measured with implanted 96-electrode arrays. The variability decline was observed for all stimuli tested, regardless of whether the animal was awake, behaving or anaesthetized. This widespread variability decline suggests a rather general property of cortex, that its state is stabilized by an input.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Anesthesia",
+            "Animals",
+            "Cats",
+            "Cerebral Cortex",
+            "Databases, Factual",
+            "Electrodes, Implanted",
+            "Factor Analysis, Statistical",
+            "Macaca fascicularis",
+            "Macaca mulatta",
+            "Macaca nemestrina",
+            "Membrane Potentials",
+            "Microelectrodes",
+            "Motor Activity",
+            "Neurons",
+            "Neuropsychological Tests",
+            "Time Factors",
+            "Video Recording",
+            "Visual Perception",
+            "Wakefulness"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Electrical Engineering, Stanford University School of Medicine, Stanford University, Stanford, California, USA. church@stanford.edu"
+            },
+            {
+                "First Name": "Byron M",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Leo P",
+                "Last Name": "Sugrue",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marlene R",
+                "Last Name": "Cohen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Greg S",
+                "Last Name": "Corrado",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "William T",
+                "Last Name": "Newsome",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew M",
+                "Last Name": "Clark",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paymon",
+                "Last Name": "Hosseini",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Benjamin B",
+                "Last Name": "Scott",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David C",
+                "Last Name": "Bradley",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew A",
+                "Last Name": "Smith",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adam",
+                "Last Name": "Kohn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "J Anthony",
+                "Last Name": "Movshon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Katherine M",
+                "Last Name": "Armstrong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tirin",
+                "Last Name": "Moore",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steve W",
+                "Last Name": "Chang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lawrence H",
+                "Last Name": "Snyder",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen G",
+                "Last Name": "Lisberger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicholas J",
+                "Last Name": "Priebe",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ian M",
+                "Last Name": "Finn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Ferster",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gopal",
+                "Last Name": "Santhanam",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maneesh",
+                "Last Name": "Sahani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "18093826",
+        "Title": "Techniques for extracting single-trial activity patterns from large-scale neural recordings.",
+        "Abstract": "Large, chronically implanted arrays of microelectrodes are an increasingly common tool for recording from primate cortex and can provide extracellular recordings from many (order of 100) neurons. While the desire for cortically based motor prostheses has helped drive their development, such arrays also offer great potential to advance basic neuroscience research. Here we discuss the utility of array recording for the study of neural dynamics. Neural activity often has dynamics beyond that driven directly by the stimulus. While governed by those dynamics, neural responses may nevertheless unfold differently for nominally identical trials, rendering many traditional analysis methods ineffective. We review recent studies - some employing simultaneous recording, some not - indicating that such variability is indeed present both during movement generation and during the preceding premotor computations. In such cases, large-scale simultaneous recordings have the potential to provide an unprecedented view of neural dynamics at the level of single trials. However, this enterprise will depend not only on techniques for simultaneous recording but also on the use and further development of analysis techniques that can appropriately reduce the dimensionality of the data, and allow visualization of single-trial neural behavior.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Cerebral Cortex",
+            "Electrodes, Implanted",
+            "Humans",
+            "Nerve Net",
+            "Neurons",
+            "Neurophysiology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Neurosciences Program and Department of Electrical Engineering, Stanford University, CISX, 330 Serra Mall, Stanford, CA 94305-4075, United States. church@stanford.edu"
+            },
+            {
+                "First Name": "Byron M",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maneesh",
+                "Last Name": "Sahani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current opinion in neurobiology",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17959477",
+        "Title": "Increasing the performance of cortically-controlled prostheses.",
+        "Abstract": "Neural prostheses have received considerable attention due to their potential to dramatically improve the quality of life of severely disabled patients. Cortically-controlled prostheses are able to translate neural activity from cerebral cortex into control signals for guiding computer cursors or prosthetic limbs. Non-invasive and invasive electrode techniques can be used to measure neural activity, with the latter promising considerably higher levels of performance and therefore functionality to patients. We review here some of our recent experimental and computational work aimed at establishing a principled design methodology to increase electrode-based cortical prosthesis performance to near theoretical limits. Studies discussed include translating unprecedentedly brief periods of \"plan\" activity into high information rate (6.5 bits/s)control signals, improving decode algorithms and optimizing visual target locations for further performance increases, and recording from chronically implanted arrays in freely behaving monkeys to characterize neuron stability. Taken together, these results should substantially increase the clinical viability of cortical prostheses.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Artificial Limbs",
+            "Cerebral Cortex",
+            "Electrodes, Implanted",
+            "Macaca mulatta",
+            "Prosthesis Design",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": "Department of Electrical Engineering, Stanford University, Stanford, CA 94305, USA. shenoy@stanford.edu"
+            },
+            {
+                "First Name": "Gopal",
+                "Last Name": "Santhanam",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Afsheen",
+                "Last Name": "Afshar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Byron M",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vikash",
+                "Last Name": "Gilja",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael D",
+                "Last Name": "Linderman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rachel S",
+                "Last Name": "Kalmar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Caleb T",
+                "Last Name": "Kemere",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aaron P",
+                "Last Name": "Batista",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Teresa H",
+                "Last Name": "Meng",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "17913908",
+        "Title": "Single-neuron stability during repeated reaching in macaque premotor cortex.",
+        "Abstract": "Some movements that animals and humans make are highly stereotyped, repeated with little variation. The patterns of neural activity associated with repeats of a movement may be highly similar, or the same movement may arise from different patterns of neural activity, if the brain exploits redundancies in the neural projections to muscles. We examined the stability of the relationship between neural activity and behavior. We asked whether the variability in neural activity that we observed during repeated reaching was consistent with a noisy but stable relationship, or with a changing relationship, between neural activity and behavior. Monkeys performed highly similar reaches under tight behavioral control, while many neurons in the dorsal aspect of premotor cortex and the primary motor cortex were simultaneously monitored for several hours. Neural activity was predominantly stable over time in all measured properties: firing rate, directional tuning, and contribution to a decoding model that predicted kinematics from neural activity. The small changes in neural activity that we did observe could be accounted for primarily by subtle changes in behavior. We conclude that the relationship between neural activity and practiced behavior is reasonably stable, at least on timescales of minutes up to 48 h. This finding has significant implications for the design of neural prosthetic systems because it suggests that device recalibration need not be overly frequent, It also has implications for studies of neural plasticity because a stable baseline permits identification of nonstationary shifts.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Behavior, Animal",
+            "Linear Models",
+            "Macaca",
+            "Motor Cortex",
+            "Movement",
+            "Neurons",
+            "Psychomotor Performance",
+            "Reaction Time",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cynthia A",
+                "Last Name": "Chestek",
+                "Affiliation": "Department of Electrical Engineering, Stanford University, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Aaron P",
+                "Last Name": "Batista",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gopal",
+                "Last Name": "Santhanam",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Byron M",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Afsheen",
+                "Last Name": "Afshar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Cunningham",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vikash",
+                "Last Name": "Gilja",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17376854",
+        "Title": "Temporal complexity and heterogeneity of single-neuron activity in premotor and motor cortex.",
+        "Abstract": "The relationship between neural activity in motor cortex and movement is highly debated. Although many studies have examined the spatial tuning (e.g., for direction) of cortical responses, less attention has been paid to the temporal properties of individual neuron responses. We developed a novel task, employing two instructed speeds, that allows meaningful averaging of neural responses across reaches with nearly identical velocity profiles. Doing so preserves fine temporal structure and reveals considerable complexity and heterogeneity of response patterns in primary motor and premotor cortex. Tuning for direction was prominent, but the preferred direction was frequently inconstant with respect to time, instructed-speed, and/or reach distance. Response patterns were often temporally complex and multiphasic, and varied with direction and instructed speed in idiosyncratic ways. A wide variety of patterns was observed, and it was not uncommon for a neuron to exhibit a pattern shared by no other neuron in our dataset. Response patterns of individual neurons rarely, if ever, matched those of individual muscles. Indeed, the set of recorded responses spanned a much higher dimensional space than would be expected for a model in which neural responses relate to a moderate number of factors-dynamic, kinematic, or otherwise. Complex responses may provide a basis-set representing many parameters. Alternately, it may be necessary to discard the notion that responses exist to \"represent\" movement parameters. It has been argued that complex and heterogeneous responses are expected of a recurrent network that produces temporally patterned outputs, and the present results would seem to support this view.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Brain Mapping",
+            "Computer Simulation",
+            "Electromyography",
+            "Evoked Potentials, Motor",
+            "Macaca mulatta",
+            "Male",
+            "Models, Neurological",
+            "Motor Cortex",
+            "Movement",
+            "Neural Networks, Computer",
+            "Neurons",
+            "Psychomotor Performance",
+            "Reaction Time"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Neurosciences Program and Department of Electrical Engineering, Stanford University, Stanford, California 94305-4075, USA."
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17271310",
+        "Title": "Improving neural prosthetic system performance by combining plan and peri-movement activity.",
+        "Abstract": "While most neural prosthetic systems to date estimate arm movements based solely on the activity prior to reaching movements during a delay period (plan activity) or solely on the activity during reaching movements (peri-movement activity), we show that decode classification can be improved by 56% and 71% respectively by using both types of activity together. We recorded from the pre-motor cortex of a rhesus monkey performing a delayed-reach task to one of seven targets. We found that taking into account the time-varying structure in peri-movement activity further improved performance by 15%, while doing the same for plan activity did not improve performance. We also found low correlations in activity between pairs of simultaneously-recorded units and across time periods within a given trial condition. These results show that decode performance can be significantly improved by combining information from the plan and peri-movement periods, and that there is nearly no loss in performance when assuming independence between units and across tune periods within a given trial condition.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Byron M",
+                "Last Name": "Yu",
+                "Affiliation": "Department of Electrical Engineering, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gopal",
+                "Last Name": "Santhanam",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "17178410",
+        "Title": "A central source of movement variability.",
+        "Abstract": "Movements are universally, sometimes frustratingly, variable. When such variability causes error, we typically assume that something went wrong during the movement. The same assumption is made by recent and influential models of motor control. These posit that the principal limit on repeatable performance is neuromuscular noise that corrupts movement as it occurs. An alternative hypothesis is that movement variability arises before movements begin, during motor preparation. We examined this possibility directly by recording the preparatory activity of single cortical neurons during a highly practiced reach task. Small variations in preparatory neural activity were predictive of small variations in the upcoming reach. Effect magnitudes were such that at least half of the observed movement variability likely had its source during motor preparation. Thus, even for a highly practiced task, the ability to repeatedly plan the same movement limits our ability to repeatedly execute the same movement.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Biomechanical Phenomena",
+            "Cell Count",
+            "Electromyography",
+            "Evoked Potentials, Motor",
+            "Macaca mulatta",
+            "Male",
+            "Motor Cortex",
+            "Movement",
+            "Neurons",
+            "Psychomotor Performance",
+            "Reaction Time",
+            "Regression, Psychology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Neurosciences Program, Stanford University, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Afsheen",
+                "Last Name": "Afshar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "17005608",
+        "Title": "Delay of movement caused by disruption of cortical preparatory activity.",
+        "Abstract": "We tested the hypothesis that delay-period activity in premotor cortex is essential to movement preparation. During a delayed-reach task, we used subthreshold intracortical microstimulation to disrupt putative \"preparatory\" activity. Microstimulation led to a highly specific increase in reach reaction time. Effects were largest when activity was disrupted around the time of the go cue. Earlier disruptions, which presumably allowed movement preparation time to recover, had only a weak impact. Furthermore, saccadic reaction time showed little or no increase. Finally, microstimulation of nearby primary motor cortex, even when slightly suprathreshold, had little effect on reach reaction time. These findings provide the first evidence, of a causal and temporally specific nature, that activity in premotor cortex is fundamental to movement preparation. Furthermore, although reaction times were increased, the movements themselves were essentially unperturbed. This supports the suggestion that movement preparation is an active and actively monitored process and that movement can be delayed until inaccuracies are repaired. These results are readily interpreted in the context of the recently developed optimal-subspace hypothesis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Conditioning, Psychological",
+            "Decision Making",
+            "Electric Stimulation",
+            "Macaca mulatta",
+            "Male",
+            "Motor Cortex",
+            "Movement",
+            "Nerve Net",
+            "Neural Pathways",
+            "Neurons",
+            "Neuropsychological Tests",
+            "Psychomotor Performance",
+            "Reaction Time",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Department of Electrical Engineering and Neurosciences Program, 330 Serra Mall, Stanford University, Stanford CA 94305-4075, USA."
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "16855111",
+        "Title": "Preparatory activity in premotor and motor cortex reflects the speed of the upcoming reach.",
+        "Abstract": "Neurons in premotor and motor cortex show preparatory activity during an instructed-delay task. It has been suggested that such activity primarily reflects visuospatial aspects of the movement, such as target location or reach direction and extent. We asked whether a more dynamic feature, movement speed, is also reflected. Two monkeys were trained to reach at different speeds (\"slow\" or \"fast,\" peak speed being approximately 50-100% higher for the latter) depending on target color. Targets were presented in seven directions and at two distances. Of 95 neurons with tuned delay-period activity, 95, 78, and 94% showed a significant influence of direction, distance, and instructed speed, respectively. Average peak modulations with respect to direction, distance and speed were 18, 10, and 11 spikes/s. Although robust, modulations of firing rate with target direction were not necessarily invariant: for 45% of neurons, the preferred direction depended significantly on target distance and/or instructed speed. We collected an additional dataset, examining in more detail the effect of target distance (5 distances from 3 to 12 cm in 2 directions). Of 41 neurons with tuned delay-period activity, 85, 83, and 98% showed a significant impact of direction, distance, and instructed speed. Statistical interactions between the effects of distance and instructed speed were common, but it was nevertheless clear that distance \"tuning\" was not in general a simple consequence of speed tuning. We conclude that delay-period preparatory activity robustly reflects a nonspatial aspect of the upcoming reach. However, it is unclear whether the recorded neural responses conform to any simple reference frame, intrinsic or extrinsic.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Arm",
+            "Color",
+            "Conditioning, Operant",
+            "Data Interpretation, Statistical",
+            "Electromyography",
+            "Electrophysiology",
+            "Macaca mulatta",
+            "Male",
+            "Motor Cortex",
+            "Motor Neurons",
+            "Oculomotor Muscles",
+            "Photic Stimulation",
+            "Psychomotor Performance",
+            "Space Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Neurosciences Program and Department of Electrical Engineering, Stanford University, Stanford, CA 94305-4075, USA. church@stanford.edu"
+            },
+            {
+                "First Name": "Gopal",
+                "Last Name": "Santhanam",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16597724",
+        "Title": "Neural variability in premotor cortex provides a signature of motor preparation.",
+        "Abstract": "We present experiments and analyses designed to test the idea that firing rates in premotor cortex become optimized during motor preparation, approaching their ideal values over time. We measured the across-trial variability of neural responses in dorsal premotor cortex of three monkeys performing a delayed-reach task. Such variability was initially high, but declined after target onset, and was maintained at a rough plateau during the delay. An additional decline was observed after the go cue. Between target onset and movement onset, variability declined by an average of 34%. This decline in variability was observed even when mean firing rate changed little. We hypothesize that this effect is related to the progress of motor preparation. In this interpretation, firing rates are initially variable across trials but are brought, over time, to their \"appropriate\" values, becoming consistent in the process. Consistent with this hypothesis, reaction times were longer if the go cue was presented shortly after target onset, when variability was still high, and were shorter if the go cue was presented well after target onset, when variability had fallen to its plateau. A similar effect was observed for the natural variability in reaction time: longer (shorter) reaction times tended to occur on trials in which firing rates were more (less) variable. These results reveal a remarkable degree of temporal structure in the variability of cortical neurons. The relationship with reaction time argues that the changes in variability approximately track the progress of motor preparation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Cognition",
+            "Cues",
+            "Macaca mulatta",
+            "Male",
+            "Motor Cortex",
+            "Motor Neurons",
+            "Motor Skills",
+            "Movement",
+            "Reaction Time",
+            "Volition"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Neurosciences Program, Stanford University, Stanford, California 94305, USA."
+            },
+            {
+                "First Name": "Byron M",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen I",
+                "Last Name": "Ryu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gopal",
+                "Last Name": "Santhanam",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krishna V",
+                "Last Name": "Shenoy",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "15483064",
+        "Title": "Comparison of the spatial limits on direction selectivity in visual areas MT and V1.",
+        "Abstract": "We recorded responses to apparent motion from directionally selective neurons in primary visual cortex (V1) of anesthetized monkeys and middle temporal area (MT) of awake monkeys. Apparent motion consisted of multiple stationary stimulus flashes presented in sequence, characterized by their temporal separation (delta t) and spatial separation (delta x). Stimuli were 8 degrees square patterns of 100% correlated random dots that moved at apparent speeds of 16 or 32 degrees/s. For both V1 and MT, the difference between the response to the preferred and null directions declined with increasing flash separation. For each neuron, we estimated the maximum flash separation for which directionally selective responses were observed. For the range of speeds we used, delta x provided a better description of the limitation on directional responses than did delta t. When comparing MT and V1 neurons of similar preferred speed, there was no difference in the maximum delta x between our samples from the two areas. In both V1 and MT, the great majority of neurons had maximal values of delta x in the 0.25-1 degrees range. Mean values were almost identical between the two areas. For most neurons, larger flash separations led to both weaker responses to the preferred direction and increased responses to the opposite direction. The former mechanism was slightly more dominant in MT and the latter slightly more dominant in V1. We conclude that V1 and MT neurons lose direction selectivity for similar values of delta x, supporting the hypothesis that basic direction selectivity in MT is inherited from V1, at least over the range of stimulus speeds represented by both areas.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Macaca mulatta",
+            "Motion Perception",
+            "Neurons",
+            "Photic Stimulation",
+            "Reaction Time",
+            "Space Perception",
+            "Temporal Lobe",
+            "Time Factors",
+            "Visual Cortex",
+            "Wakefulness"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Neuroscience Graduate Program and Department of Physiology, Stanford University, 330 Serra Mall, CISX 312, Stanford, CA 94305-4075, USA. church@stanford.edu"
+            },
+            {
+                "First Name": "Nicholas J",
+                "Last Name": "Priebe",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen G",
+                "Last Name": "Lisberger",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "12815015",
+        "Title": "Evidence for object permanence in the smooth-pursuit eye movements of monkeys.",
+        "Abstract": "We recorded the smooth-pursuit eye movements of monkeys in response to targets that were extinguished (blinked) for 200 ms in mid-trajectory. Eye velocity declined considerably during the target blinks, even when the blinks were completely predictable in time and space. Eye velocity declined whether blinks were presented during steady-state pursuit of a constant-velocity target, during initiation of pursuit before target velocity was reached, or during eye accelerations induced by a change in target velocity. When a physical occluder covered the trajectory of the target during blinks, creating the impression that the target moved behind it, the decline in eye velocity was reduced or abolished. If the target was occluded once the eye had reached target velocity, pursuit was only slightly poorer than normal, uninterrupted pursuit. In contrast, if the target was occluded during the initiation of pursuit, while the eye was accelerating toward target velocity, pursuit during occlusion was very different from normal pursuit. Eye velocity remained relatively stable during target occlusion, showing much less acceleration than normal pursuit and much less of a decline than was produced by a target blink. Anticipatory or predictive eye acceleration was typically observed just prior to the reappearance of the target. Computer simulations show that these results are best understood by assuming that a mechanism of eye-velocity memory remains engaged during target occlusion but is disengaged during target blinks.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Blinking",
+            "Macaca mulatta",
+            "Male",
+            "Photic Stimulation",
+            "Pursuit, Smooth",
+            "Reaction Time"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": "Howard Hughes Medical Institute, San Francisco, California 94143, USA. church@stanford.edu"
+            },
+            {
+                "First Name": "I-Han",
+                "Last Name": "Chou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen G",
+                "Last Name": "Lisberger",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12091560",
+        "Title": "Constraints on the source of short-term motion adaptation in macaque area MT. I. the role of input and intrinsic mechanisms.",
+        "Abstract": "Neurons in area MT, a motion-sensitive area of extrastriate cortex, respond to a step of target velocity with a transient-sustained firing pattern. The transition from a high initial firing rate to a lower sustained rate occurs over a time course of 20-80 ms and is considered a form of short-term adaptation. The present paper asks whether adaptation is due to input-specific mechanisms such as short-term synaptic depression or if it results from intrinsic cellular mechanisms such as spike-rate adaptation. We assessed the contribution of input-specific mechanisms by using a condition/test paradigm to measure the spatial scale of adaptation. Conditioning and test stimuli were placed within MT receptive fields but were spatially segregated so that the two stimuli would activate different populations of inputs from the primary visual cortex (V1). Conditioning motion at one visual location caused a reduction of the transient firing to subsequent test motion at a second location. The adaptation field, estimated as the region of visual space where conditioning motion caused adaptation, was always larger than the MT receptive field. Use of the same stimulus configuration while recording from direction-selective neurons in V1 failed to demonstrate either adaptation or the transient-sustained response pattern that is the signature of short-term adaptation in MT. We conclude that the shift from transient to sustained firing in MT cells does not result from an input-specific mechanism applied to inputs from V1 because it operates over a wider range of the visual field than is covered by receptive fields of V1 neurons. We used a direct analysis of MT neuron spike trains for many repetitions of the same motion stimulus to assess the contribution to adaptation of intrinsic cellular mechanisms related to spiking. On a trial-by-trial basis, there was no correlation between number of spikes in the transient interval and the interval immediately after the transient period. This is opposite the prediction that there should be a correlation if spikes cause adaptation directly. Further, the transient was suppressed or extinguished, not delayed, in trials in which the neuron emitted zero spikes during the interval that showed a transient in average firing rate. We conclude that the transition from transient to sustained firing in neurons in area MT is caused by mechanisms that are neither input-specific nor controlled by the spiking of the adapting neuron. We propose that the short-term adaptation observed in area MT emerges from the intracortical circuit within MT.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Adaptation, Physiological",
+            "Animals",
+            "Macaca",
+            "Macaca fascicularis",
+            "Macaca mulatta",
+            "Models, Neurological",
+            "Motion Perception",
+            "Neurons",
+            "Photic Stimulation",
+            "Time Factors",
+            "Visual Cortex",
+            "Visual Pathways"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas J",
+                "Last Name": "Priebe",
+                "Affiliation": "Howard Hughes Medical Institute, Department of Physiology, W. M. Keck Foundation, Center for Integrative Neuroscience, and the Neuroscience Graduate Program, University of California, San Francisco, California 94143, USA. nico@northwestern.edu"
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Churchland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen G",
+                "Last Name": "Lisberger",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2002"
+    }
+]

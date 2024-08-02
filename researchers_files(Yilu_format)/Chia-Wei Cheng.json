@@ -1,0 +1,2323 @@
+[
+    {
+        "PMID": "38848678",
+        "Title": "Isthmus progenitor cells contribute to homeostatic cellular turnover and support regeneration following intestinal injury.",
+        "Abstract": "The currently accepted intestinal epithelial cell organization model proposes that Lgr5",
+        "Keywords": [
+            "adult stem cells",
+            "cell potency",
+            "epithelial stem cells",
+            "intestinal stem cells",
+            "intestine",
+            "plasticity",
+            "regeneration",
+            "regulatory network analysis",
+            "single cell",
+            "stemness signature"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Regeneration",
+            "Stem Cells",
+            "Homeostasis",
+            "Mice",
+            "Intestinal Mucosa",
+            "Receptors, G-Protein-Coupled",
+            "Intestines",
+            "Cell Differentiation",
+            "Mice, Inbred C57BL",
+            "Epithelial Cells",
+            "Single-Cell Analysis",
+            "Male"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ermanno",
+                "Last Name": "Malagola",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alessandro",
+                "Last Name": "Vasciaveo",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yosuke",
+                "Last Name": "Ochiai",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Woosook",
+                "Last Name": "Kim",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Biyun",
+                "Last Name": "Zheng",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA; Department of Gastroenterology, Fujian Medical University Union Hospital, Fujian 350000, China."
+            },
+            {
+                "First Name": "Luca",
+                "Last Name": "Zanella",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alexander L E",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Moritz",
+                "Last Name": "Middelhoff",
+                "Affiliation": "Klinik und Poliklinik f\u00fcr Innere Medizin II, Klinikum rechts der Isar, Technische Universit\u00e4t M\u00fcnchen, Munich, Germany."
+            },
+            {
+                "First Name": "Henrik",
+                "Last Name": "Nienh\u00fcser",
+                "Affiliation": "Department of General, Visceral and Transplant Surgery, University Hospital Heidelberg, Im Neuenheimer Feld 420, 69120 Heidelberg, Germany."
+            },
+            {
+                "First Name": "Lu",
+                "Last Name": "Deng",
+                "Affiliation": "Stowers Institute for Medical Research, Kansas City, MO 64110, USA; Department of Pathology and Laboratory Medicine, University of Kansas Medical Center, Kansas City, KS 66107, USA."
+            },
+            {
+                "First Name": "Feijing",
+                "Last Name": "Wu",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Quin T",
+                "Last Name": "Waterbury",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Bryana",
+                "Last Name": "Belin",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "LaBella",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Leah B",
+                "Last Name": "Zamechek",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Melissa H",
+                "Last Name": "Wong",
+                "Affiliation": "Department of Cell, Developmental & Cancer Biology, Oregon Health & Sciences University, 3181 SW Sam Jackson Park Road, L215, Portland, OR, USA."
+            },
+            {
+                "First Name": "Linheng",
+                "Last Name": "Li",
+                "Affiliation": "Stowers Institute for Medical Research, Kansas City, MO 64110, USA; Department of Pathology and Laboratory Medicine, University of Kansas Medical Center, Kansas City, KS 66107, USA."
+            },
+            {
+                "First Name": "Chandan",
+                "Last Name": "Guha",
+                "Affiliation": "Department of Radiation Oncology, Montefiore Medical Center, Albert Einstein College of Medicine, 1300 Morris Park Avenue, Bronx, NY 10461, USA."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Columbia Stem Cell Initiative, Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Kelley S",
+                "Last Name": "Yan",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA; Columbia Stem Cell Initiative, Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY, USA; Columbia University Digestive and Liver Disease Research Center, New York, NY 10032, USA; Department of Medicine, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Medicine, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biochemistry & Molecular Biophysics, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biomedical Informatics, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032, USA; Chan Zuckerberg Biohub NY, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: ac2248@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Timothy C",
+                "Last Name": "Wang",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine and Irving Cancer Research Center, Columbia University Medical Center, New York, NY 10032, USA; Columbia University Digestive and Liver Disease Research Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: tcw21@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37310628",
+        "Title": "Modeling Notch Activity and Lineage Decisions Using Intestinal Organoids.",
+        "Abstract": "Organoid cultures have been developed to model intestinal stem cell (ISC) function in self-renewal and differentiation. Upon differentiation, the first fate decision for ISC and early progenitors to make is between secretory (Paneth cell, goblet cell, enteroendocrine cell, or tuft cell) and absorptive (enterocyte and M cell) lineages. Using genetic and pharmacological approaches, in vivo studies in the past decade have revealed that Notch signaling functions as a binary switch for the secretory vs. absorptive lineage decision in adult intestine. Recent breakthroughs in organoid-based assays enable real-time observation of smaller-scale and higher-throughput experiments in vitro, which have begun contributing to new understandings of mechanistic principles underlying intestinal differentiation. In this chapter, we summarize the in vivo and in vitro tools for modulating Notch signaling and assess its impact on intestinal cell fate. We also provide example protocols of how to use intestinal organoids as functional assays to study Notch activity in intestinal lineage decisions.",
+        "Keywords": [
+            "Lineage",
+            "Notch",
+            "Organoids"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Humans",
+            "Intestines",
+            "Enterocytes",
+            "Enteroendocrine Cells",
+            "Biological Assay",
+            "Organoids"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yifan",
+                "Last Name": "Qiu",
+                "Affiliation": "Columbia Stem Cell Initiative, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Sabrina K",
+                "Last Name": "Phanor",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Subin",
+                "Last Name": "Pyo",
+                "Affiliation": "Columbia Stem Cell Initiative, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Columbia Stem Cell Initiative, Columbia University Irving Medical Center, New York, NY, USA. cc4688@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Methods in molecular biology (Clifton, N.J.)",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37310625",
+        "Title": "Epigenetic and Transcriptional Dynamics of Notch Program in Intestinal Differentiation.",
+        "Abstract": "The equilibrium between stem cell self-renewal and differentiation followed by proper lineage specification of progenitor cells is considered imperative for maintaining intestinal homeostasis. In the hierarchical model, intestinal differentiation is defined by the stepwise acquisition of lineage-specific mature cell features, where Notch signaling and lateral inhibition instructively regulate the cell-fate decisions. Recent studies reveal a broadly permissive intestinal chromatin underlies the lineage plasticity and adaptation to diet mediated by Notch transcriptional program. Here, we review the conventional understanding of Notch programming in intestinal differentiation and describe how new data from epigenetic and transcriptional analyses may refine or revise the current view. We provide instructions on sample preparation and data analysis and explain how to use ChIP-seq and scRNA-seq in combination of lineage tracing assay to determine the dynamics of Notch program and intestinal differentiation in the context of dietary and metabolic regulation of cell-fate decisions.",
+        "Keywords": [
+            "Cell-fate decisions",
+            "ChIP-seq",
+            "Notch",
+            "scRNA-seq"
+        ],
+        "MeSH terms": [
+            "Epigenomics",
+            "Acclimatization",
+            "Biological Assay",
+            "Cell Differentiation",
+            "Epigenesis, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Shahadat",
+                "Last Name": "Rahman",
+                "Affiliation": "Columbia Stem Cell Initiative, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Xi",
+                "Last Name": "Lan",
+                "Affiliation": "Koch Institute for Integrative Cancer Research, MIT, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Terranova",
+                "Affiliation": "Genomic Medicine Department, The University of Texas MD Anderson Cancer Center, Houston, TX, USA."
+            },
+            {
+                "First Name": "Rayan",
+                "Last Name": "El-Kholdi",
+                "Affiliation": "Columbia Stem Cell Initiative, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Omer H",
+                "Last Name": "Yilmaz",
+                "Affiliation": "Koch Institute for Integrative Cancer Research, MIT, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Columbia Stem Cell Initiative, Columbia University Irving Medical Center, New York, NY, USA. cc4688@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Methods in molecular biology (Clifton, N.J.)",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36711807",
+        "Title": "Post-fast refeeding enhances intestinal stem cell-mediated regeneration and tumourigenesis through mTORC1-dependent polyamine synthesis.",
+        "Abstract": "For more than a century, fasting regimens have improved health, lifespan, and tissue regeneration in diverse organisms, including humans. However, how fasting and post-fast refeeding impact adult stem cells and tumour formation has yet to be explored in depth. Here, we demonstrate that post-fast refeeding increases intestinal stem cell (ISC) proliferation and tumour formation: Post-fast refeeding augments the regenerative capacity of ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Shinya",
+                "Last Name": "Imada",
+                "Affiliation": "Department of Biology, The David H. Koch Institute for Integrative Cancer Research at MIT, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Heaji",
+                "Last Name": "Shin",
+                "Affiliation": "Department of Biology, The David H. Koch Institute for Integrative Cancer Research at MIT, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Saleh",
+                "Last Name": "Khawaled",
+                "Affiliation": "Department of Biology, The David H. Koch Institute for Integrative Cancer Research at MIT, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Sven W",
+                "Last Name": "Meckelmann",
+                "Affiliation": "Applied Analytical Chemistry, University of Duisburg-Essen, 45141 Essen, Germany."
+            },
+            {
+                "First Name": "Charles A",
+                "Last Name": "Whittaker",
+                "Affiliation": "Barbara K. Ostrom (1978) Bioinformatics and Computing Core Facility, Swanson Biotechnology Center, Koch Institute at the MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Renan Oliveira",
+                "Last Name": "Corr\u00eaa",
+                "Affiliation": "Department of Biology, The David H. Koch Institute for Integrative Cancer Research at MIT, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Dikshant",
+                "Last Name": "Pradhan",
+                "Affiliation": "Barbara K. Ostrom (1978) Bioinformatics and Computing Core Facility, Swanson Biotechnology Center, Koch Institute at the MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Gizem",
+                "Last Name": "Calibasi-Kocal",
+                "Affiliation": "Department of Biology, The David H. Koch Institute for Integrative Cancer Research at MIT, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Luiza Martins Nascentes",
+                "Last Name": "Melo",
+                "Affiliation": "Department of Dermatology, University Hospital Essen & German Cancer Consortium, Partner Site, Essen, 45147, Germany."
+            },
+            {
+                "First Name": "Gabriele",
+                "Last Name": "Allies",
+                "Affiliation": "Department of Dermatology, University Hospital Essen & German Cancer Consortium, Partner Site, Essen, 45147, Germany."
+            },
+            {
+                "First Name": "Pia",
+                "Last Name": "Wittenhofer",
+                "Affiliation": "Applied Analytical Chemistry, University of Duisburg-Essen, 45141 Essen, Germany."
+            },
+            {
+                "First Name": "Oliver J",
+                "Last Name": "Schmitz",
+                "Affiliation": "Applied Analytical Chemistry, University of Duisburg-Essen, 45141 Essen, Germany."
+            },
+            {
+                "First Name": "Jatin",
+                "Last Name": "Roper",
+                "Affiliation": "Division of Gastroenterology, Department of Medicine, Duke University, Durham, North Carolina, USA; Department of Pharmacology and Cancer Biology, Duke University, Durham, North Carolina, NC 27710, USA."
+            },
+            {
+                "First Name": "Marco Aurelio Ramirez",
+                "Last Name": "Vinolo",
+                "Affiliation": "Laboratory of Immunoinflammation, Department of Genetics, Evolution, Microbiology and Immunology, Institute of Biology, University of Campinas, Campinas, SP 13083-862, Brazil."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Department of Biology, The David H. Koch Institute for Integrative Cancer Research at MIT, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Alpaslan",
+                "Last Name": "Tasdogan",
+                "Affiliation": "Department of Dermatology, University Hospital Essen & German Cancer Consortium, Partner Site, Essen, 45147, Germany."
+            },
+            {
+                "First Name": "\u00d6mer H",
+                "Last Name": "Yilmaz",
+                "Affiliation": "Department of Biology, The David H. Koch Institute for Integrative Cancer Research at MIT, MIT, Cambridge, MA 02139, USA; Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA; Department of Pathology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114, USA."
+            }
+        ],
+        "Journal": "Research square",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "34818540",
+        "Title": "Reprogramming of H3K9bhb at regulatory elements is a key feature of fasting in the small intestine.",
+        "Abstract": "\u03b2-hydroxybutyrate (\u03b2-OHB) is an essential metabolic energy source during fasting and functions as a chromatin regulator by lysine \u03b2-hydroxybutyrylation (Kbhb) modification of the core histones H3 and H4. We report that Kbhb on histone H3 (H3K9bhb) is enriched at proximal promoters of critical gene subsets associated with lipolytic and ketogenic metabolic pathways in small intestine (SI) crypts during fasting. Similar Kbhb enrichment is observed in Lgr5",
+        "Keywords": [
+            "chromatin states",
+            "fasting response",
+            "gene expression",
+            "histone modifications",
+            "ketogenic",
+            "small intestine crypts",
+            "\u03b2-hydroxybutyrate"
+        ],
+        "MeSH terms": [
+            "3-Hydroxybutyric Acid",
+            "Acetylation",
+            "Animals",
+            "Chromatin",
+            "Fasting",
+            "Female",
+            "Gene Expression",
+            "Gene Expression Regulation",
+            "Histones",
+            "Intestine, Small",
+            "Ketone Bodies",
+            "Lysine",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Promoter Regions, Genetic",
+            "Regulatory Sequences, Nucleic Acid"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christopher J",
+                "Last Name": "Terranova",
+                "Affiliation": "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Kristina M",
+                "Last Name": "Stemler",
+                "Affiliation": "Department of Experimental Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Praveen",
+                "Last Name": "Barrodia",
+                "Affiliation": "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA; Department of Experimental Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Sabrina L",
+                "Last Name": "Jeter-Jones",
+                "Affiliation": "Department of Experimental Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Zhongqi",
+                "Last Name": "Ge",
+                "Affiliation": "Department of Experimental Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA; Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Marimar",
+                "Last Name": "de la Cruz Bonilla",
+                "Affiliation": "Department of Experimental Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Ayush",
+                "Last Name": "Raman",
+                "Affiliation": "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA; Epigenomics Program, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Kendra L",
+                "Last Name": "Allton",
+                "Affiliation": "Department of Epigenetics and Molecular Carcinogenesis, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Emre",
+                "Last Name": "Arslan",
+                "Affiliation": "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "\u00d6mer H",
+                "Last Name": "Yilmaz",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Michelle C",
+                "Last Name": "Barton",
+                "Affiliation": "Department of Epigenetics and Molecular Carcinogenesis, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Kunal",
+                "Last Name": "Rai",
+                "Affiliation": "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA. Electronic address: krai@mdanderson.org."
+            },
+            {
+                "First Name": "Helen",
+                "Last Name": "Piwnica-Worms",
+                "Affiliation": "Department of Experimental Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA. Electronic address: hpiwnica-worms@mdanderson.org."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34767451",
+        "Title": "Cell size is a determinant of stem cell potential during aging.",
+        "Abstract": "Stem cells are remarkably small. Whether small size is important for stem cell function is unknown. We find that hematopoietic stem cells (HSCs) enlarge under conditions known to decrease stem cell function. This decreased fitness of large HSCs is due to reduced proliferation and was accompanied by altered metabolism. Preventing HSC enlargement or reducing large HSCs in size averts the loss of stem cell potential under conditions causing stem cell exhaustion. Last, we show that murine and human HSCs enlarge during aging. Preventing this age-dependent enlargement improves HSC function. We conclude that small cell size is important for stem cell function in vivo and propose that stem cell enlargement contributes to their functional decline during aging.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jette",
+                "Last Name": "Lengefeld",
+                "Affiliation": "David H. Koch Institute for Integrative Cancer Research, Howard Hughes Medical Institute, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "David H Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Pema",
+                "Last Name": "Maretich",
+                "Affiliation": "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Marguerite",
+                "Last Name": "Blair",
+                "Affiliation": "David H Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Hannah",
+                "Last Name": "Hagen",
+                "Affiliation": "David H Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Melanie R",
+                "Last Name": "McReynolds",
+                "Affiliation": "Department of Chemistry, Princeton University, Princeton, NJ, USA."
+            },
+            {
+                "First Name": "Emily",
+                "Last Name": "Sullivan",
+                "Affiliation": "David H Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Kyra",
+                "Last Name": "Majors",
+                "Affiliation": "David H Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Christina",
+                "Last Name": "Roberts",
+                "Affiliation": "Max Planck Institute for Biology of Ageing and CECAD, University of Cologne, Cologne, Germany."
+            },
+            {
+                "First Name": "Joon Ho",
+                "Last Name": "Kang",
+                "Affiliation": "David H Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Joachim D",
+                "Last Name": "Steiner",
+                "Affiliation": "Max Planck Institute for Biology of Ageing and CECAD, University of Cologne, Cologne, Germany."
+            },
+            {
+                "First Name": "Teemu P",
+                "Last Name": "Miettinen",
+                "Affiliation": "David H Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Scott R",
+                "Last Name": "Manalis",
+                "Affiliation": "David H Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Adam",
+                "Last Name": "Antebi",
+                "Affiliation": "Max Planck Institute for Biology of Ageing and CECAD, University of Cologne, Cologne, Germany."
+            },
+            {
+                "First Name": "Sean J",
+                "Last Name": "Morrison",
+                "Affiliation": "Children's Research Institute and Department of Pediatrics, University of Texas Southwestern Medical Center, Dallas, TX, USA."
+            },
+            {
+                "First Name": "Jacqueline A",
+                "Last Name": "Lees",
+                "Affiliation": "David H Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Laurie A",
+                "Last Name": "Boyer",
+                "Affiliation": "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "\u00d6mer H",
+                "Last Name": "Yilmaz",
+                "Affiliation": "David H Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Angelika",
+                "Last Name": "Amon",
+                "Affiliation": "David H. Koch Institute for Integrative Cancer Research, Howard Hughes Medical Institute, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            }
+        ],
+        "Journal": "Science advances",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34516047",
+        "Title": "Identifying Cell-Type-Specific Metabolic Signatures Using Transcriptome and Proteome Analyses.",
+        "Abstract": "Studies in various tissues have revealed a central role of metabolic pathways in regulating adult stem cell function in tissue regeneration and tumor initiation. The unique metabolic dependences or preferences of adult stem cells, therefore, are emerging as a new category of therapeutic target. Recently, advanced methods including high-resolution metabolomics, proteomics, and transcriptomics have been developed to address the growing interest in stem cell metabolism. A practical framework integrating the omics analyses is needed to systematically perform metabolic characterization in a cell-type-specific manner. Here, we leverage recent advances in transcriptomics and proteomics research to identify cell-type-specific metabolic features by reconstructing cell identity using genes and the encoded enzymes involved in major metabolic pathways. We provide protocols for cell isolation, transcriptome and proteome analyses, and metabolite profiling and measurement. The workflow for mapping cell-type-specific metabolic signatures presented here, although initially developed for intestinal crypt cells, can be easily implemented for cell populations in other tissues, and is highly compatible with most public datasets. \u00a9 2021 The Authors. Current Protocols published by Wiley Periodicals LLC. Basic Protocol 1: Intestinal crypt isolation and cell population purification Basic Protocol 2: Transcriptome\u00a0analyses for cell-type-specific metabolic gene expression Basic Protocol 3: Proteome\u00a0analyses for cell-type-specific metabolic enzyme levels Basic Protocol 4: Metabolite profiling and measurement.",
+        "Keywords": [
+            "metabolism",
+            "proteome",
+            "stem cell",
+            "transcriptome"
+        ],
+        "MeSH terms": [
+            "Gene Expression Profiling",
+            "Metabolic Networks and Pathways",
+            "Proteome",
+            "Proteomics",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nadja",
+                "Last Name": "Gebert",
+                "Affiliation": "Leibniz Institute on Aging-Fritz Lipmann Institute (FLI), Jena, Germany."
+            },
+            {
+                "First Name": "Shahadat",
+                "Last Name": "Rahman",
+                "Affiliation": "Columbia Stem Cell Initiative, Department of Genetics and Development, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Caroline A",
+                "Last Name": "Lewis",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, Massachusetts."
+            },
+            {
+                "First Name": "Alessandro",
+                "Last Name": "Ori",
+                "Affiliation": "Leibniz Institute on Aging-Fritz Lipmann Institute (FLI), Jena, Germany."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Columbia Stem Cell Initiative, Department of Genetics and Development, Columbia University Irving Medical Center, New York, New York."
+            }
+        ],
+        "Journal": "Current protocols",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33808324",
+        "Title": "Crosstalk between Renal and Vascular Calcium Signaling: The Link between Nephrolithiasis and Vascular Calcification.",
+        "Abstract": "Calcium (Ca",
+        "Keywords": [
+            "calcium homeostasis",
+            "calcium signal",
+            "calcium-sensing receptor",
+            "hypercalciuria",
+            "kidney stone",
+            "nephrolithiasis",
+            "osteo-/chondrogenic transdifferentiation",
+            "vascular calcification"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Calcium",
+            "Calcium Signaling",
+            "Endothelial Cells",
+            "Humans",
+            "Hypercalciuria",
+            "Kidney",
+            "Kidney Calculi",
+            "Myocytes, Smooth Muscle",
+            "Nephrolithiasis",
+            "Receptors, Calcium-Sensing",
+            "Vascular Calcification"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chan-Jung",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Urology, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan 704302, Taiwan."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Department of Urology, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan 704302, Taiwan."
+            },
+            {
+                "First Name": "Yau-Sheng",
+                "Last Name": "Tsai",
+                "Affiliation": "Institute of Clinical Medicine, College of Medicine, National Cheng Kung University, Tainan 704302, Taiwan."
+            },
+            {
+                "First Name": "Ho-Shiang",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Urology, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan 704302, Taiwan."
+            }
+        ],
+        "Journal": "International journal of molecular sciences",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33798421",
+        "Title": "Introductions to the community: Early-career researchers in the time of COVID-19.",
+        "Abstract": "COVID-19 has unfortunately halted lab work, conferences, and in-person networking, which is especially detrimental to researchers just starting their labs. Through social media and our reviewer networks, we met some early-career stem cell investigators impacted by the closures. Here, they introduce themselves and their research to our readers.",
+        "Keywords": [],
+        "MeSH terms": [
+            "COVID-19",
+            "Humans",
+            "Research Personnel",
+            "Stem Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Judith",
+                "Last Name": "Agudo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Courtney L",
+                "Last Name": "Jones",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alexandra",
+                "Last Name": "Avgustinova",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alejo E",
+                "Last Name": "Rodriguez-Fraticelli",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mekayla",
+                "Last Name": "Storer",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell stem cell",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33667357",
+        "Title": "100 Years of Exploiting Diet and Nutrition for Tissue Regeneration.",
+        "Abstract": "In this forum piece, we review progress in exploiting diet and nutrition for enhancing tissue regeneration with a particular emphasis on how dietary composition and diet-induced physiology influence adult stem cell biology.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Diet"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139, USA; Department of Genetics and Development, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "\u00d6mer H",
+                "Last Name": "Yilmaz",
+                "Affiliation": "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139, USA; Department of Biology, MIT, Cambridge, MA 02139, USA; Department of Pathology, Massachusetts General Hospital Boston and Harvard Medical School, Boston, MA 02114, USA. Electronic address: ohyilmaz@mit.edu."
+            }
+        ],
+        "Journal": "Cell stem cell",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33277157",
+        "Title": "Nutritional Control of Intestinal Stem Cells in Homeostasis and Tumorigenesis.",
+        "Abstract": "Food and nutrition have a profound impact on organismal health and diseases, and tissue-specific adult stem cells play a crucial role in coordinating tissue maintenance by responding to dietary cues. Emerging evidence indicates that adult intestinal stem cells (ISCs) actively adjust their fate decisions in response to diets and nutritional states to drive intestinal adaptation. Here, we review the signaling mechanisms mediating the dietary responses imposed by caloric intake and nutritional composition (i.e., macronutrients and micronutrients), fasting-feeding patterns, diet-induced growth factors, and microbiota on ISCs and their relevance to the beginnings of intestinal tumors.",
+        "Keywords": [
+            "colon cancer",
+            "diet",
+            "intestinal stem cell",
+            "microbiota"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Carcinogenesis",
+            "Colonic Neoplasms",
+            "Homeostasis",
+            "Humans",
+            "Intestinal Mucosa",
+            "Intestines",
+            "Stem Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gizem",
+                "Last Name": "Calibasi-Kocal",
+                "Affiliation": "David H. Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology (MIT), Cambridge, MA, USA; Department of Translational Oncology, Institute of Oncology, Dokuz Eylul University, Izmir, Turkey."
+            },
+            {
+                "First Name": "Omid",
+                "Last Name": "Mashinchian",
+                "Affiliation": "Nestl\u00e9 Research, Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL) Innovation Park, Lausanne, Switzerland; School of Life Sciences, EPFL, Lausanne, Switzerland."
+            },
+            {
+                "First Name": "Yasemin",
+                "Last Name": "Basbinar",
+                "Affiliation": "Department of Translational Oncology, Institute of Oncology, Dokuz Eylul University, Izmir, Turkey."
+            },
+            {
+                "First Name": "Ender",
+                "Last Name": "Ellidokuz",
+                "Affiliation": "Department of Gastroenterology, Faculty of Medicine, Dokuz Eylul University, Izmir, Turkey."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "David H. Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology (MIT), Cambridge, MA, USA. Electronic address: cwcheng@mit.edu."
+            },
+            {
+                "First Name": "\u00d6mer H",
+                "Last Name": "Yilmaz",
+                "Affiliation": "David H. Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology (MIT), Cambridge, MA, USA; Department of Biology, MIT, Cambridge, MA, USA; Broad Institute of Harvard and MIT, Cambridge, MA, USA; Departments of Pathology, Gastroenterology, and Surgery, Massachusetts General Hospital and Harvard Medical School, Boston, USA. Electronic address: ohyilmaz@mit.edu."
+            }
+        ],
+        "Journal": "Trends in endocrinology and metabolism: TEM",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "32705635",
+        "Title": "Strategies for Measuring Induction of Fatty Acid Oxidation in Intestinal Stem and Progenitor Cells.",
+        "Abstract": "This protocol describes a multipronged approach that we have created to determine the transcriptional induction of fatty acid oxidation (FAO) genes in Lgr5",
+        "Keywords": [
+            "Fatty acid oxidation",
+            "Metabolomics",
+            "RNA-sequencing",
+            "Stable isotope tracing",
+            "Stem cell metabolism"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Fatty Acids",
+            "Flow Cytometry",
+            "Intestinal Mucosa",
+            "Lipid Metabolism",
+            "Metabolomics",
+            "Oxidation-Reduction",
+            "Stem Cells",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "The David H. Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Omer H",
+                "Last Name": "Yilmaz",
+                "Affiliation": "The David H. Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA, USA. ohyilmaz@mit.edu."
+            },
+            {
+                "First Name": "Maria M",
+                "Last Name": "Mihaylova",
+                "Affiliation": "Department of Biological Chemistry and Pharmacology, The Ohio State University, Columbus, OH, USA. Maria.Mihaylova@osumc.edu."
+            }
+        ],
+        "Journal": "Methods in molecular biology (Clifton, N.J.)",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32348758",
+        "Title": "Region-Specific Proteome Changes of the Intestinal Epithelium during Aging and Dietary Restriction.",
+        "Abstract": "The small intestine is responsible for nutrient absorption and one of the most important interfaces between the environment and the body. During aging, changes of the epithelium lead to food malabsorption and reduced barrier function, thus increasing disease risk. The drivers of these alterations remain poorly understood. Here, we compare the proteomes of intestinal crypts from mice across different anatomical regions and ages. We find that aging alters epithelial immunity, metabolism, and cell proliferation and is accompanied by region-dependent skewing in the cellular composition of the epithelium. Of note, short-term dietary restriction followed by refeeding partially restores the epithelium by promoting stem cell differentiation toward the secretory lineage. We identify Hmgcs2 (3-hydroxy-3-methylglutaryl-coenzyme A [CoA] synthetase 2), the rate-limiting enzyme for ketogenesis, as a modulator of stem cell differentiation that responds to dietary changes, and we provide an atlas of region- and age-dependent proteome changes of the small intestine.",
+        "Keywords": [
+            "aging",
+            "dietary restriction",
+            "hmgcs2",
+            "intestine",
+            "ketone bodies",
+            "proteomics",
+            "stem cells"
+        ],
+        "MeSH terms": [
+            "Age Factors",
+            "Animals",
+            "Diet Therapy",
+            "Humans",
+            "Intestinal Mucosa",
+            "Mice",
+            "Proteomics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nadja",
+                "Last Name": "Gebert",
+                "Affiliation": "Leibniz Institute on Aging - Fritz Lipmann Institute (FLI), Jena, Germany."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Joanna M",
+                "Last Name": "Kirkpatrick",
+                "Affiliation": "Leibniz Institute on Aging - Fritz Lipmann Institute (FLI), Jena, Germany."
+            },
+            {
+                "First Name": "Domenico",
+                "Last Name": "Di Fraia",
+                "Affiliation": "Leibniz Institute on Aging - Fritz Lipmann Institute (FLI), Jena, Germany."
+            },
+            {
+                "First Name": "Jina",
+                "Last Name": "Yun",
+                "Affiliation": "Genentech, Inc., 1 DNA Way, South San Francisco, CA 94080, USA."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Sch\u00e4del",
+                "Affiliation": "Institute of Pharmacy, Friedrich Schiller University, Jena, Germany."
+            },
+            {
+                "First Name": "Simona",
+                "Last Name": "Pace",
+                "Affiliation": "Institute of Pharmacy, Friedrich Schiller University, Jena, Germany."
+            },
+            {
+                "First Name": "George B",
+                "Last Name": "Garside",
+                "Affiliation": "Leibniz Institute on Aging - Fritz Lipmann Institute (FLI), Jena, Germany."
+            },
+            {
+                "First Name": "Oliver",
+                "Last Name": "Werz",
+                "Affiliation": "Institute of Pharmacy, Friedrich Schiller University, Jena, Germany."
+            },
+            {
+                "First Name": "K Lenhard",
+                "Last Name": "Rudolph",
+                "Affiliation": "Leibniz Institute on Aging - Fritz Lipmann Institute (FLI), Jena, Germany."
+            },
+            {
+                "First Name": "Henri",
+                "Last Name": "Jasper",
+                "Affiliation": "Genentech, Inc., 1 DNA Way, South San Francisco, CA 94080, USA."
+            },
+            {
+                "First Name": "\u00d6mer H",
+                "Last Name": "Yilmaz",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Alessandro",
+                "Last Name": "Ori",
+                "Affiliation": "Leibniz Institute on Aging - Fritz Lipmann Institute (FLI), Jena, Germany. Electronic address: alessandro.ori@leibniz-fli.de."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31442404",
+        "Title": "Ketone Body Signaling Mediates Intestinal Stem Cell Homeostasis and Adaptation to Diet.",
+        "Abstract": "Little is known about how metabolites couple tissue-specific stem cell function with physiology. Here we show that, in the mammalian small intestine, the expression of Hmgcs2 (3-hydroxy-3-methylglutaryl-CoA synthetase 2), the gene encoding the rate-limiting enzyme in the production of ketone bodies, including beta-hydroxybutyrate (\u03b2OHB), distinguishes self-renewing Lgr5",
+        "Keywords": [
+            "HDAC",
+            "Hmgcs2",
+            "Intestinal stem cell",
+            "Notch",
+            "beta-hydroxybutyrate",
+            "ketogenic diet",
+            "ketone bodies"
+        ],
+        "MeSH terms": [
+            "3-Hydroxybutyric Acid",
+            "Aged, 80 and over",
+            "Animals",
+            "Cell Differentiation",
+            "Cell Self Renewal",
+            "Diet, High-Fat",
+            "Female",
+            "Histone Deacetylase Inhibitors",
+            "Humans",
+            "Hydroxymethylglutaryl-CoA Synthase",
+            "Intestines",
+            "Ketone Bodies",
+            "Male",
+            "Mice",
+            "Mice, Knockout",
+            "Receptors, G-Protein-Coupled",
+            "Receptors, Notch",
+            "Signal Transduction",
+            "Stem Cells",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Moshe",
+                "Last Name": "Biton",
+                "Affiliation": "Department of Molecular Biology, Massachusetts General Hospital, Boston, MA 02114, USA; Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Adam L",
+                "Last Name": "Haber",
+                "Affiliation": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Nuray",
+                "Last Name": "Gunduz",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA; Institute of Materials Science and Nanotechnology, National Nanotechnology Research Center (UNAM), Bilkent University, 06800 Ankara, Turkey."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Eng",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA; Department of Pathology, Massachusetts General Hospital Boston and Harvard Medical School, Boston, MA 02114, USA."
+            },
+            {
+                "First Name": "Liam T",
+                "Last Name": "Gaynor",
+                "Affiliation": "Dana-Farber Cancer Institute, 450 Brookline Avenue, Boston, MA 02215, USA."
+            },
+            {
+                "First Name": "Surya",
+                "Last Name": "Tripathi",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Gizem",
+                "Last Name": "Calibasi-Kocal",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA; Dokuz Eylul University, Institute of Oncology, Department of Translational Oncology, Izmir, Turkey."
+            },
+            {
+                "First Name": "Steffen",
+                "Last Name": "Rickelt",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Vincent L",
+                "Last Name": "Butty",
+                "Affiliation": "BioMicro Center at MIT, Department of Biology, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Marta",
+                "Last Name": "Moreno-Serrano",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Ameena M",
+                "Last Name": "Iqbal",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Khristian E",
+                "Last Name": "Bauer-Rowe",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Shinya",
+                "Last Name": "Imada",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA; Department of Gastroenterological and Transplant Surgery, Graduate School of Biomedical and Health Sciences, Hiroshima University, 1-2-3 Kasumi, Minami-ku, Hiroshima 734-8551, Japan."
+            },
+            {
+                "First Name": "Mehmet Sefa",
+                "Last Name": "Ulutas",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA; Department of Biology, Siirt University, Science and Arts Faculty, 56100 Siirt, Turkey."
+            },
+            {
+                "First Name": "Constantine",
+                "Last Name": "Mylonas",
+                "Affiliation": "Department of Biology, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Mark T",
+                "Last Name": "Whary",
+                "Affiliation": "Division of Comparative Medicine, Department of Biological Engineering, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Stuart S",
+                "Last Name": "Levine",
+                "Affiliation": "BioMicro Center at MIT, Department of Biology, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Yasemin",
+                "Last Name": "Basbinar",
+                "Affiliation": "Dokuz Eylul University, Institute of Oncology, Department of Translational Oncology, Izmir, Turkey."
+            },
+            {
+                "First Name": "Richard O",
+                "Last Name": "Hynes",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA; Howard Hughes Medical Institute, Department of Biology, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Mari",
+                "Last Name": "Mino-Kenudson",
+                "Affiliation": "Department of Pathology, Massachusetts General Hospital Boston and Harvard Medical School, Boston, MA 02114, USA."
+            },
+            {
+                "First Name": "Vikram",
+                "Last Name": "Deshpande",
+                "Affiliation": "Department of Pathology, Massachusetts General Hospital Boston and Harvard Medical School, Boston, MA 02114, USA."
+            },
+            {
+                "First Name": "Laurie A",
+                "Last Name": "Boyer",
+                "Affiliation": "Department of Biology, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "James G",
+                "Last Name": "Fox",
+                "Affiliation": "Division of Comparative Medicine, Department of Biological Engineering, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Terranova",
+                "Affiliation": "Genomic Medicine Department, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Kunal",
+                "Last Name": "Rai",
+                "Affiliation": "Genomic Medicine Department, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Helen",
+                "Last Name": "Piwnica-Worms",
+                "Affiliation": "Department of Experimental Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Maria M",
+                "Last Name": "Mihaylova",
+                "Affiliation": "Department of Biological Chemistry and Pharmacology, The Ohio State University, Columbus, OH 43210 USA."
+            },
+            {
+                "First Name": "Aviv",
+                "Last Name": "Regev",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA; Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA; Howard Hughes Medical Institute, Department of Biology, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "\u00d6mer H",
+                "Last Name": "Yilmaz",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT, Cambridge, MA 02139, USA; Department of Biology, MIT, Cambridge, MA 02139, USA; Department of Pathology, Massachusetts General Hospital Boston and Harvard Medical School, Boston, MA 02114, USA; Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA. Electronic address: ohyilmaz@mit.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "29727683",
+        "Title": "Fasting Activates Fatty Acid Oxidation to Enhance Intestinal Stem Cell Function during Homeostasis and Aging.",
+        "Abstract": "Diet has a profound effect on tissue regeneration in diverse organisms, and low caloric states such as intermittent fasting have beneficial effects on organismal health and age-associated loss of tissue function. The role of adult stem and progenitor cells in responding to short-term fasting and whether such responses improve regeneration are not well studied. Here we show that a 24\u00a0hr fast augments intestinal stem cell (ISC) function in young and aged mice by inducing a fatty acid oxidation (FAO) program and that pharmacological activation of this program mimics many effects of fasting. Acute genetic disruption of Cpt1a, the rate-limiting enzyme in FAO, abrogates ISC-enhancing effects of fasting, but long-term Cpt1a deletion decreases ISC numbers and function,\u00a0implicating a role for FAO in ISC maintenance. These\u00a0findings highlight a role for FAO in mediating pro-regenerative effects of fasting in intestinal biology, and they may represent a viable strategy for enhancing intestinal regeneration.",
+        "Keywords": [
+            "aging",
+            "fasting",
+            "fatty acid oxidation",
+            "intestinal stem cells",
+            "intestine",
+            "metabolism",
+            "mitochondrial metabolism",
+            "stem cells"
+        ],
+        "MeSH terms": [
+            "Aging",
+            "Animals",
+            "Cells, Cultured",
+            "Fasting",
+            "Fatty Acids",
+            "Homeostasis",
+            "Intestines",
+            "Mice",
+            "Mice, Inbred Strains",
+            "Oxidation-Reduction",
+            "Stem Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Maria M",
+                "Last Name": "Mihaylova",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA; The David H. Koch Institute for Integrative Cancer Research at MIT, Department of Biology, MIT, Cambridge, MA 02139, USA; Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA; Howard Hughes Medical Institute, Chevy Chase, MD, USA."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "The David H. Koch Institute for Integrative Cancer Research at MIT, Department of Biology, MIT, Cambridge, MA 02139, USA; Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Amanda Q",
+                "Last Name": "Cao",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA; The David H. Koch Institute for Integrative Cancer Research at MIT, Department of Biology, MIT, Cambridge, MA 02139, USA; Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA; Howard Hughes Medical Institute, Chevy Chase, MD, USA."
+            },
+            {
+                "First Name": "Surya",
+                "Last Name": "Tripathi",
+                "Affiliation": "The David H. Koch Institute for Integrative Cancer Research at MIT, Department of Biology, MIT, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Miyeko D",
+                "Last Name": "Mana",
+                "Affiliation": "The David H. Koch Institute for Integrative Cancer Research at MIT, Department of Biology, MIT, Cambridge, MA 02139, USA; Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Khristian E",
+                "Last Name": "Bauer-Rowe",
+                "Affiliation": "The David H. Koch Institute for Integrative Cancer Research at MIT, Department of Biology, MIT, Cambridge, MA 02139, USA; Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Monther",
+                "Last Name": "Abu-Remaileh",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA; The David H. Koch Institute for Integrative Cancer Research at MIT, Department of Biology, MIT, Cambridge, MA 02139, USA; Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA; Howard Hughes Medical Institute, Chevy Chase, MD, USA."
+            },
+            {
+                "First Name": "Laura",
+                "Last Name": "Clavain",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA; The David H. Koch Institute for Integrative Cancer Research at MIT, Department of Biology, MIT, Cambridge, MA 02139, USA; Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA; Howard Hughes Medical Institute, Chevy Chase, MD, USA."
+            },
+            {
+                "First Name": "Aysegul",
+                "Last Name": "Erdemir",
+                "Affiliation": "The David H. Koch Institute for Integrative Cancer Research at MIT, Department of Biology, MIT, Cambridge, MA 02139, USA; Faculty of Arts & Sciences, Department of Molecular Biology and Genetics, Yildiz Technical University, 34210 Istanbul, Turkey."
+            },
+            {
+                "First Name": "Caroline A",
+                "Last Name": "Lewis",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Elizaveta",
+                "Last Name": "Freinkman",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Audrey S",
+                "Last Name": "Dickey",
+                "Affiliation": "Department of Neurology, Duke University School of Medicine, Durham, NC 27710, USA."
+            },
+            {
+                "First Name": "Albert R",
+                "Last Name": "La Spada",
+                "Affiliation": "Department of Neurology, Duke University School of Medicine, Durham, NC 27710, USA."
+            },
+            {
+                "First Name": "Yanmei",
+                "Last Name": "Huang",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "George W",
+                "Last Name": "Bell",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Vikram",
+                "Last Name": "Deshpande",
+                "Affiliation": "Department of Pathology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114, USA."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Carmeliet",
+                "Affiliation": "Laboratory of Angiogenesis and Neurovascular Link, Department of Oncology, KU Leuven, 3000 Leuven, Belgium; Laboratory of Angiogenesis and Neurovascular Link, Vesalius Research Center, VIB, 3000 Leuven, Belgium."
+            },
+            {
+                "First Name": "Pekka",
+                "Last Name": "Katajisto",
+                "Affiliation": "Institute of Biotechnology, HiLIFE, University of Helsinki, P.O. Box 56, Helsinki, Finland; Department of Biosciences and Nutrition, Karolinska Institutet, 14183 Stockholm, Sweden."
+            },
+            {
+                "First Name": "David M",
+                "Last Name": "Sabatini",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA; The David H. Koch Institute for Integrative Cancer Research at MIT, Department of Biology, MIT, Cambridge, MA 02139, USA; Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA; Howard Hughes Medical Institute, Chevy Chase, MD, USA. Electronic address: sabatini@wi.mit.edu."
+            },
+            {
+                "First Name": "\u00d6mer H",
+                "Last Name": "Yilmaz",
+                "Affiliation": "The David H. Koch Institute for Integrative Cancer Research at MIT, Department of Biology, MIT, Cambridge, MA 02139, USA; Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA; Department of Pathology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114, USA. Electronic address: ohyilmaz@mit.edu."
+            }
+        ],
+        "Journal": "Cell stem cell",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29395049",
+        "Title": "FAOund the Link: Phospholipid Remodeling and Intestinal Stem Cell Growth and Tumorigenesis.",
+        "Abstract": "In this issue of Cell Stem Cell, Wang et\u00a0al. (2018) identify a novel link between Lpcat3-mediated phospholipid remodeling (the Lands cycle) and cholesterol biosynthesis that modulates intestinal stem cell proliferation and tumorigenesis. Notably, inhibition of cholesterol biosynthesis dampens many of the Lpcat3-deficiency-mediated effects in the intestine.",
+        "Keywords": [],
+        "MeSH terms": [
+            "1-Acylglycerophosphocholine O-Acyltransferase",
+            "Carcinogenesis",
+            "Cholesterol",
+            "Humans",
+            "Intestines",
+            "Stem Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT and Department of Biology, MIT, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "\u00d6mer H",
+                "Last Name": "Yilmaz",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT and Department of Biology, MIT, Cambridge, MA 02142, USA; Department of Pathology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114, USA. Electronic address: ohyilmaz@mit.edu."
+            }
+        ],
+        "Journal": "Cell stem cell",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28235195",
+        "Title": "Fasting-Mimicking Diet Promotes Ngn3-Driven \u03b2-Cell Regeneration to Reverse Diabetes.",
+        "Abstract": "Stem-cell-based therapies can potentially reverse organ dysfunction and diseases, but the removal of impaired tissue and activation of a program leading to organ regeneration pose major challenges. In mice, a 4-day fasting mimicking diet (FMD) induces a stepwise expression of Sox17 and Pdx-1, followed by Ngn3-driven generation of insulin-producing \u03b2\u00a0cells, resembling that observed during pancreatic development. FMD cycles restore insulin secretion and glucose homeostasis in both type 2 and type 1 diabetes mouse models. In human type 1 diabetes pancreatic islets, fasting conditions reduce PKA and mTOR activity and induce Sox2 and Ngn3 expression and insulin production. The effects of the FMD are reversed by IGF-1 treatment and recapitulated by PKA and mTOR inhibition. These results indicate that a FMD promotes the reprogramming of\u00a0pancreatic cells to restore insulin generation in islets from T1D patients and reverse both T1D and T2D phenotypes in mouse models. PAPERCLIP.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Basic Helix-Loop-Helix Transcription Factors",
+            "Diabetes Mellitus, Type 1",
+            "Diabetes Mellitus, Type 2",
+            "Diet",
+            "Fasting",
+            "Glucose Tolerance Test",
+            "Humans",
+            "In Vitro Techniques",
+            "Insulin",
+            "Insulin-Secreting Cells",
+            "Islets of Langerhans",
+            "Mice",
+            "Nerve Tissue Proteins",
+            "Pancreas",
+            "Signal Transduction",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Longevity Institute, School of Gerontology, Department of Biological Sciences, University of Southern California, 3715 McClintock Avenue, Los Angeles, CA 90089-0191, USA; Koch Institute at MIT, 500 Main Street, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Valentina",
+                "Last Name": "Villani",
+                "Affiliation": "GOFARR Laboratory for Organ Regenerative Research and Cell Therapeutics, Children's Hospital Los Angeles, Division of Urology, Saban Research Institute, University of Southern California, Los Angeles, Los Angeles, CA 90027, USA."
+            },
+            {
+                "First Name": "Roberta",
+                "Last Name": "Buono",
+                "Affiliation": "Longevity Institute, School of Gerontology, Department of Biological Sciences, University of Southern California, 3715 McClintock Avenue, Los Angeles, CA 90089-0191, USA; IFOM FIRC Institute of Molecular Oncology, Via Adamello 16, Milan 20139, Italy."
+            },
+            {
+                "First Name": "Min",
+                "Last Name": "Wei",
+                "Affiliation": "Longevity Institute, School of Gerontology, Department of Biological Sciences, University of Southern California, 3715 McClintock Avenue, Los Angeles, CA 90089-0191, USA."
+            },
+            {
+                "First Name": "Sanjeev",
+                "Last Name": "Kumar",
+                "Affiliation": "Eli and Edythe Broad Center for Regenerative Medicine and Stem Cell Research at USC, Keck School of Medicine, University of Southern California, Los Angeles, CA 90027, USA."
+            },
+            {
+                "First Name": "Omer H",
+                "Last Name": "Yilmaz",
+                "Affiliation": "Koch Institute at MIT, 500 Main Street, Cambridge, MA 02139, USA."
+            },
+            {
+                "First Name": "Pinchas",
+                "Last Name": "Cohen",
+                "Affiliation": "Longevity Institute, School of Gerontology, Department of Biological Sciences, University of Southern California, 3715 McClintock Avenue, Los Angeles, CA 90089-0191, USA."
+            },
+            {
+                "First Name": "Julie B",
+                "Last Name": "Sneddon",
+                "Affiliation": "Diabetes Center, University of California, San Francisco, 513 Parnassus Avenue, San Francisco, CA 94143."
+            },
+            {
+                "First Name": "Laura",
+                "Last Name": "Perin",
+                "Affiliation": "GOFARR Laboratory for Organ Regenerative Research and Cell Therapeutics, Children's Hospital Los Angeles, Division of Urology, Saban Research Institute, University of Southern California, Los Angeles, Los Angeles, CA 90027, USA."
+            },
+            {
+                "First Name": "Valter D",
+                "Last Name": "Longo",
+                "Affiliation": "Longevity Institute, School of Gerontology, Department of Biological Sciences, University of Southern California, 3715 McClintock Avenue, Los Angeles, CA 90089-0191, USA; Eli and Edythe Broad Center for Regenerative Medicine and Stem Cell Research at USC, Keck School of Medicine, University of Southern California, Los Angeles, CA 90027, USA; IFOM FIRC Institute of Molecular Oncology, Via Adamello 16, Milan 20139, Italy. Electronic address: vlongo@usc.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28202779",
+        "Title": "Fasting-mimicking diet and markers/risk factors for aging, diabetes, cancer, and cardiovascular disease.",
+        "Abstract": "Calorie restriction or changes in dietary composition can enhance healthy aging, but the inability of most subjects to adhere to chronic and extreme diets, as well as potentially adverse effects, limits their application. We randomized 100 generally healthy participants from the United States into two study arms and tested the effects of a fasting-mimicking diet (FMD)-low in calories, sugars, and protein but high in unsaturated fats-on markers/risk factors associated with aging and age-related diseases. We compared subjects who followed 3 months of an unrestricted diet to subjects who consumed the FMD for 5 consecutive days per month for 3 months. Three FMD cycles reduced body weight, trunk, and total body fat; lowered blood pressure; and decreased insulin-like growth factor 1 (IGF-1). No serious adverse effects were reported. After 3 months, control diet subjects were crossed over to the FMD program, resulting in a total of 71 subjects completing three FMD cycles. A post hoc analysis of subjects from both FMD arms showed that body mass index, blood pressure, fasting glucose, IGF-1, triglycerides, total and low-density lipoprotein cholesterol, and C-reactive protein were more beneficially affected in participants at risk for disease than in subjects who were not at risk. Thus, cycles of a 5-day FMD are safe, feasible, and effective in reducing markers/risk factors for aging and age-related diseases. Larger studies in patients with diagnosed diseases or selected on the basis of risk factors are warranted to confirm the effect of the FMD on disease prevention and treatment.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Aging",
+            "Biomarkers",
+            "Cardiovascular Diseases",
+            "Diabetes Mellitus",
+            "Diet",
+            "Fasting",
+            "Female",
+            "Follow-Up Studies",
+            "Humans",
+            "Male",
+            "Neoplasms",
+            "Risk Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Min",
+                "Last Name": "Wei",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Sebastian",
+                "Last Name": "Brandhorst",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Mahshid",
+                "Last Name": "Shelehchi",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Hamed",
+                "Last Name": "Mirzaei",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Chia Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Budniak",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Susan",
+                "Last Name": "Groshen",
+                "Affiliation": "Department of Preventive Medicine, Keck School of Medicine, University of Southern California, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Wendy J",
+                "Last Name": "Mack",
+                "Affiliation": "Department of Preventive Medicine, Keck School of Medicine, University of Southern California, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Esra",
+                "Last Name": "Guen",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Stefano",
+                "Last Name": "Di Biase",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Pinchas",
+                "Last Name": "Cohen",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Todd E",
+                "Last Name": "Morgan",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Tanya",
+                "Last Name": "Dorff",
+                "Affiliation": "Norris Comprehensive Cancer Center, Keck School of Medicine, University of Southern California, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Kurt",
+                "Last Name": "Hong",
+                "Affiliation": "Department of Internal Medicine, Keck School of Medicine, University of Southern California, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Andreas",
+                "Last Name": "Michalsen",
+                "Affiliation": "Department of Internal and Complementary Medicine, Charit\u00e9 University Medical Center, 10117 Berlin, Germany."
+            },
+            {
+                "First Name": "Alessandro",
+                "Last Name": "Laviano",
+                "Affiliation": "Department of Clinical Medicine, Sapienza University, 00185 Rome, Italy."
+            },
+            {
+                "First Name": "Valter D",
+                "Last Name": "Longo",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA. vlongo@usc.edu."
+            }
+        ],
+        "Journal": "Science translational medicine",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28060803",
+        "Title": "Starving leukemia to induce differentiation.",
+        "Abstract": "A new study shows that fasting induces the differentiation and elimination of some types of leukemia, which implicates fasting or its mimetics as a novel strategy for the treatment of leukemia.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Differentiation",
+            "Humans",
+            "Leukemia"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT and Department of Biology, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA."
+            },
+            {
+                "First Name": "\u00d6mer H",
+                "Last Name": "Yilmaz",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT and Department of Biology, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA."
+            }
+        ],
+        "Journal": "Nature medicine",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27411588",
+        "Title": "Fasting-Mimicking Diet Reduces HO-1 to Promote T\u00a0Cell-Mediated Tumor Cytotoxicity.",
+        "Abstract": "Immune-based interventions are promising strategies to achieve long-term cancer-free survival. Fasting was previously shown to differentially sensitize tumors to chemotherapy while protecting normal cells, including hematopoietic stem and immune cells, from its toxic side effects. Here, we show that the combination of chemotherapy and a fasting-mimicking diet (FMD) increases the levels of bone marrow common lymphoid progenitor cells and cytotoxic CD8(+) tumor-infiltrating lymphocytes (TILs), leading to a major delay in breast cancer and melanoma progression. In breast tumors, this effect is partially mediated by the downregulation of the stress-responsive enzyme heme oxygenase-1 (HO-1). These data indicate that FMD cycles combined with chemotherapy can enhance T\u00a0cell-dependent targeted killing of cancer cells both by stimulating the hematopoietic system and by enhancing CD8(+)-dependent tumor cytotoxicity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Breast Neoplasms",
+            "Cell Line, Tumor",
+            "Cell Proliferation",
+            "Cell Survival",
+            "Combined Modality Therapy",
+            "Disease Progression",
+            "Down-Regulation",
+            "Doxorubicin",
+            "Fasting",
+            "Female",
+            "Gene Expression Regulation, Neoplastic",
+            "Heme Oxygenase-1",
+            "Humans",
+            "Lymphocytes, Tumor-Infiltrating",
+            "MCF-7 Cells",
+            "Mice",
+            "Neoplasm Transplantation",
+            "T-Lymphocytes, Cytotoxic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Stefano",
+                "Last Name": "Di Biase",
+                "Affiliation": "Longevity Institute, Leonard Davis School of Gerontology and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Changhan",
+                "Last Name": "Lee",
+                "Affiliation": "Longevity Institute, Leonard Davis School of Gerontology and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Sebastian",
+                "Last Name": "Brandhorst",
+                "Affiliation": "Longevity Institute, Leonard Davis School of Gerontology and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Brianna",
+                "Last Name": "Manes",
+                "Affiliation": "Longevity Institute, Leonard Davis School of Gerontology and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Roberta",
+                "Last Name": "Buono",
+                "Affiliation": "Longevity Institute, Leonard Davis School of Gerontology and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Longevity Institute, Leonard Davis School of Gerontology and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Mafalda",
+                "Last Name": "Cacciottolo",
+                "Affiliation": "Longevity Institute, Leonard Davis School of Gerontology and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Alejandro",
+                "Last Name": "Martin-Montalvo",
+                "Affiliation": "Translational Gerontology Branch, National Institute on Aging, National Institutes of Health, Baltimore, MD 21224, USA."
+            },
+            {
+                "First Name": "Rafael",
+                "Last Name": "de Cabo",
+                "Affiliation": "Translational Gerontology Branch, National Institute on Aging, National Institutes of Health, Baltimore, MD 21224, USA."
+            },
+            {
+                "First Name": "Min",
+                "Last Name": "Wei",
+                "Affiliation": "Longevity Institute, Leonard Davis School of Gerontology and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Todd E",
+                "Last Name": "Morgan",
+                "Affiliation": "Longevity Institute, Leonard Davis School of Gerontology and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Valter D",
+                "Last Name": "Longo",
+                "Affiliation": "Longevity Institute, Leonard Davis School of Gerontology and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            }
+        ],
+        "Journal": "Cancer cell",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27282289",
+        "Title": "Safety and feasibility of fasting in combination with platinum-based chemotherapy.",
+        "Abstract": "Short-term starvation prior to chemotherapy administration protects mice against toxicity. We undertook dose-escalation of fasting prior to platinum-based chemotherapy to determine safety and feasibility in cancer patients.",
+        "Keywords": [
+            "Chemotherapy",
+            "Fasting",
+            "Insulin-like growth factor",
+            "Neutropenia",
+            "Oxidative stress"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Aged",
+            "Biomarkers",
+            "Fasting",
+            "Feasibility Studies",
+            "Female",
+            "Humans",
+            "Insulin-Like Growth Factor I",
+            "Male",
+            "Middle Aged",
+            "Neoplasms",
+            "Oxidative Stress",
+            "Platinum",
+            "Treatment Outcome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tanya B",
+                "Last Name": "Dorff",
+                "Affiliation": "USC Keck School of Medicine, Norris Comprehensive Cancer Center, 1441 Eastlake Ave. #3440, Los Angeles, CA, 90033, USA."
+            },
+            {
+                "First Name": "Susan",
+                "Last Name": "Groshen",
+                "Affiliation": "Department of Preventive Medicine, USC Keck School of Medicine, 1441 Eastlake Ave, #4427, Los Angeles, 90033, CA, United States."
+            },
+            {
+                "First Name": "Agustin",
+                "Last Name": "Garcia",
+                "Affiliation": "USC Keck School of Medicine, Norris Comprehensive Cancer Center, 1441 Eastlake Ave. #3440, Los Angeles, CA, 90033, USA."
+            },
+            {
+                "First Name": "Manali",
+                "Last Name": "Shah",
+                "Affiliation": "USC Keck School of Medicine, Norris Comprehensive Cancer Center, 1441 Eastlake Ave. #3440, Los Angeles, CA, 90033, USA."
+            },
+            {
+                "First Name": "Denice",
+                "Last Name": "Tsao-Wei",
+                "Affiliation": "Department of Preventive Medicine, USC Keck School of Medicine, 1441 Eastlake Ave, #4427, Los Angeles, 90033, CA, United States."
+            },
+            {
+                "First Name": "Huyen",
+                "Last Name": "Pham",
+                "Affiliation": "USC Keck School of Medicine, Department of Obstetrics and Gynecology, 1441 Eastlake Ave, #3440, Los Angeles, 90033, CA, United States."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Longevity Institute, University of Southern California Davis School of Gerontology, Department of Biological Sciences, 3715 McClintock Avenue, Los Angeles, 90089, CA, United States."
+            },
+            {
+                "First Name": "Sebastian",
+                "Last Name": "Brandhorst",
+                "Affiliation": "Longevity Institute, University of Southern California Davis School of Gerontology, Department of Biological Sciences, 3715 McClintock Avenue, Los Angeles, 90089, CA, United States."
+            },
+            {
+                "First Name": "Pinchas",
+                "Last Name": "Cohen",
+                "Affiliation": "Longevity Institute, University of Southern California Davis School of Gerontology, Department of Biological Sciences, 3715 McClintock Avenue, Los Angeles, 90089, CA, United States."
+            },
+            {
+                "First Name": "Min",
+                "Last Name": "Wei",
+                "Affiliation": "Longevity Institute, University of Southern California Davis School of Gerontology, Department of Biological Sciences, 3715 McClintock Avenue, Los Angeles, 90089, CA, United States."
+            },
+            {
+                "First Name": "Valter",
+                "Last Name": "Longo",
+                "Affiliation": "Longevity Institute, University of Southern California Davis School of Gerontology, Department of Biological Sciences, 3715 McClintock Avenue, Los Angeles, 90089, CA, United States. vlongo@usc.edu."
+            },
+            {
+                "First Name": "David I",
+                "Last Name": "Quinn",
+                "Affiliation": "USC Keck School of Medicine, Norris Comprehensive Cancer Center, 1441 Eastlake Ave. #3440, Los Angeles, CA, 90033, USA. diquinn@usc.edu."
+            }
+        ],
+        "Journal": "BMC cancer",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26431180",
+        "Title": "IGFBP3 and T1D: Systemic Factors in Colonic Stem Cell Function and Diabetic Enteropathy.",
+        "Abstract": "Patients with type 1 diabetes (T1D) often experience gastrointestinal enteropathy (DE) of unclear etiology. Now in Cell Stem Cell, D'Addio et al. (2015) utilize organoid culture models to study the roles of stem cells in DE and show that circulating IGF/IGFBP3 controls colonic stem cell function during homeostasis and in T1D patients.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Colon",
+            "Diabetes Complications",
+            "Diabetes Mellitus, Experimental",
+            "Humans",
+            "Insulin-Like Growth Factor Binding Protein 3",
+            "Insulin-Like Growth Factor I",
+            "Stem Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT and Department of Biology, Massachusetts Institute of Technology, Cambridge, MA\u00a002142, USA."
+            },
+            {
+                "First Name": "\u00d6mer H",
+                "Last Name": "Yilmaz",
+                "Affiliation": "Koch Institute for Integrative Cancer Research at MIT and Department of Biology, Massachusetts Institute of Technology, Cambridge, MA\u00a002142, USA; Department of Pathology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114, USA. Electronic address: ohyilmaz@mit.edu."
+            }
+        ],
+        "Journal": "Cell stem cell",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26094889",
+        "Title": "A Periodic Diet that Mimics Fasting Promotes Multi-System Regeneration, Enhanced Cognitive Performance, and Healthspan.",
+        "Abstract": "Prolonged fasting (PF) promotes stress resistance, but its effects on longevity are poorly understood. We show that alternating PF and nutrient-rich medium extended yeast lifespan independently of established pro-longevity genes. In mice, 4 days of a diet that mimics fasting (FMD), developed to minimize the burden of PF, decreased the size of multiple organs/systems, an effect followed upon re-feeding by an elevated number of progenitor and stem cells and regeneration. Bi-monthly FMD cycles started at middle age extended longevity, lowered visceral fat, reduced cancer incidence and skin lesions, rejuvenated the immune system, and retarded bone mineral density loss. In old mice, FMD cycles promoted hippocampal neurogenesis, lowered IGF-1 levels and PKA activity, elevated NeuroD1, and improved cognitive performance. In a pilot clinical trial, three FMD cycles decreased risk factors/biomarkers for aging, diabetes, cardiovascular disease, and cancer without major adverse effects, providing support for the use of FMDs to promote healthspan.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Abdominal Fat",
+            "Adult",
+            "Aged",
+            "Aging",
+            "Animals",
+            "Body Weight",
+            "Cardiovascular Diseases",
+            "Cognition",
+            "Diet",
+            "Fasting",
+            "Female",
+            "Humans",
+            "Longevity",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Middle Aged",
+            "Neoplasms",
+            "Neurogenesis",
+            "Pilot Projects",
+            "Psychomotor Performance",
+            "Regeneration",
+            "Saccharomyces cerevisiae",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sebastian",
+                "Last Name": "Brandhorst",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "In Young",
+                "Last Name": "Choi",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Min",
+                "Last Name": "Wei",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Chia Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Sargis",
+                "Last Name": "Sedrakyan",
+                "Affiliation": "GOFARR Laboratory, Children's Hospital Los Angeles, Division of Urology, Saban Research Institute, University of Southern California, Los\u00a0Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Gerardo",
+                "Last Name": "Navarrete",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Louis",
+                "Last Name": "Dubeau",
+                "Affiliation": "Department of Pathology, Keck School of Medicine, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Li Peng",
+                "Last Name": "Yap",
+                "Affiliation": "Molecular Imaging Center, Department of Radiology, Keck School of Medicine, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Ryan",
+                "Last Name": "Park",
+                "Affiliation": "Molecular Imaging Center, Department of Radiology, Keck School of Medicine, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Manlio",
+                "Last Name": "Vinciguerra",
+                "Affiliation": "Institute for Liver and Digestive Health, Division of Medicine, University College London, Royal Free Hospital, London NW3 2PF, UK."
+            },
+            {
+                "First Name": "Stefano",
+                "Last Name": "Di Biase",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Hamed",
+                "Last Name": "Mirzaei",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Mario G",
+                "Last Name": "Mirisola",
+                "Affiliation": "Department of Pathobiology and Medical Biotechnology, University of Palermo, 90100 Palermo, Italy."
+            },
+            {
+                "First Name": "Patra",
+                "Last Name": "Childress",
+                "Affiliation": "Global Medicine Program, Keck School of Medicine, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Lingyun",
+                "Last Name": "Ji",
+                "Affiliation": "Department of Preventive Medicine, Keck School of Medicine, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Susan",
+                "Last Name": "Groshen",
+                "Affiliation": "Department of Preventive Medicine, Keck School of Medicine, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Fabio",
+                "Last Name": "Penna",
+                "Affiliation": "Department of Clinical and Biological Sciences, University of Torino, 10100 Torino, Italy."
+            },
+            {
+                "First Name": "Patrizio",
+                "Last Name": "Odetti",
+                "Affiliation": "Department of Internal Medicine, University of Genova, 16146 Genova, Italy."
+            },
+            {
+                "First Name": "Laura",
+                "Last Name": "Perin",
+                "Affiliation": "GOFARR Laboratory, Children's Hospital Los Angeles, Division of Urology, Saban Research Institute, University of Southern California, Los\u00a0Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Peter S",
+                "Last Name": "Conti",
+                "Affiliation": "Molecular Imaging Center, Department of Radiology, Keck School of Medicine, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Yuji",
+                "Last Name": "Ikeno",
+                "Affiliation": "Department of Pathology, Barshop Institute, University of Texas Health Science Center, San Antonio, TX 78229, USA."
+            },
+            {
+                "First Name": "Brian K",
+                "Last Name": "Kennedy",
+                "Affiliation": "Buck Institute for Research on Aging, Novato, CA 94945, USA."
+            },
+            {
+                "First Name": "Pinchas",
+                "Last Name": "Cohen",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Todd E",
+                "Last Name": "Morgan",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Tanya B",
+                "Last Name": "Dorff",
+                "Affiliation": "Norris Comprehensive Cancer Center, Keck School of Medicine, University of Southern California, Los Angeles, CA 90089,\u00a0USA."
+            },
+            {
+                "First Name": "Valter D",
+                "Last Name": "Longo",
+                "Affiliation": "Longevity Institute, School of Gerontology, and Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA; IFOM, FIRC Institute of Molecular Oncology, 20139 Milano, Italy. Electronic address: vlongo@usc.edu."
+            }
+        ],
+        "Journal": "Cell metabolism",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25244621",
+        "Title": "Identification of trans,trans-2,4-decadienal metabolites in mouse and human cells using liquid chromatography-mass spectrometry.",
+        "Abstract": "trans,trans-2,4-Decadienal (tt-DDE), a lipid peroxidation product of linolieic acid, is the most abundant aldehyde identified in cooking oil fumes and is readily detectable in food products as well as in restaurant emissions. Previously, we have reported the toxicological effects of tt-DDE in vitro and in vivo. However, the metabolic pathways of tt-DDE in vivo remain unclear. In our present study, we combined liquid chromatography-mass spectrometry with triple quadrupole and time-of-flight to identify tt-DDE metabolites in the urine of mice orally administered tt-DDE. We identified two tt-DDE metabolites, 2,4-decadienoic acid and cysteine-conjugated 2,4-decadien-1-ol, in the urine of mice gavaged with tt-DDE and in human hepatoma cell cultures. The structure of 2,4-decadienoic acid was confirmed upon comparison of its tandem mass spectrometry (MS/MS) spectrum and retention time with those of synthetic standards. The moieties of cysteine and alcohol on cysteine-conjugated 2,4-decadien-1-ol were validated by treating cell cultures with stable-isotope-labeled cysteine and 4-methylpyrazole, an alcohol dehydrogenase inhibitor. The MS/MS spectra of a cysteine standard and ionized cysteine detached from cysteine-conjugated 2,4-decadien-1-ol were identical. Two metabolic pathways for the biotransformation of tt-DDE in vivo are proposed: (i) the oxidation of tt-DDE to the corresponding carboxylic acid, 2,4-decadienoic acid, in liver cells and (ii) glutathione (GHS) conjugation, GSH breakdown, and aldehyde reduction, which generate cysteine-conjugated 2,4-decadien-1-ol in both liver and lung cells. In conclusion, this platform can be used to identify tt-DDE metabolites, and cysteine-conjugated 2,4-decadien-1-ol can serve as a biomarker for assessing exposure to tt-DDE.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aldehydes",
+            "Animals",
+            "Biomarkers",
+            "Biotransformation",
+            "Cell Line",
+            "Cell Survival",
+            "Chromatography, High Pressure Liquid",
+            "Cysteine",
+            "Fomepizole",
+            "Glutathione",
+            "Humans",
+            "Isomerism",
+            "Isotope Labeling",
+            "Male",
+            "Mice",
+            "Mice, Inbred ICR",
+            "Oxidation-Reduction",
+            "Pyrazoles",
+            "Tandem Mass Spectrometry"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kao-Lu",
+                "Last Name": "Pan",
+                "Affiliation": "National Environmental Health Research Center, National Health Research Institutes , Zhunan 35053, Taiwan."
+            },
+            {
+                "First Name": "Wei-Jan",
+                "Last Name": "Huang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ming-Hua",
+                "Last Name": "Hsu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hui-Ling",
+                "Last Name": "Lee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Huei-Ju",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ming-Hsien",
+                "Last Name": "Tsai",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mei-Ya",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pinpin",
+                "Last Name": "Lin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Chemical research in toxicology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24905167",
+        "Title": "Prolonged fasting reduces IGF-1/PKA to promote hematopoietic-stem-cell-based regeneration and reverse immunosuppression.",
+        "Abstract": "Immune system defects are at the center of aging and a range of diseases. Here, we show that prolonged fasting reduces circulating IGF-1 levels and PKA activity in various cell populations, leading to signal transduction changes in long-term hematopoietic stem cells (LT-HSCs) and niche cells that promote stress resistance, self-renewal, and lineage-balanced regeneration. Multiple cycles of fasting abated the immunosuppression and mortality caused by chemotherapy and reversed age-dependent myeloid-bias in mice, in agreement with preliminary data on the protection of lymphocytes from chemotoxicity in fasting patients. The proregenerative effects of fasting on stem cells were recapitulated by deficiencies in either IGF-1 or PKA and blunted by exogenous IGF-1. These findings link the reduced levels of IGF-1 caused by fasting to PKA signaling and establish their crucial role in regulating hematopoietic stem cell protection, self-renewal, and regeneration.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cyclic AMP-Dependent Protein Kinases",
+            "Fasting",
+            "Hematopoietic Stem Cells",
+            "Immunosuppression Therapy",
+            "Insulin-Like Growth Factor I",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Regeneration"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Longevity Institute, School of Gerontology, Department of Biological Sciences, University of Southern California, 3715 McClintock Avenue, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Gregor B",
+                "Last Name": "Adams",
+                "Affiliation": "Eli and Edythe Broad Center for Regenerative Medicine and Stem Cell Research at USC, Keck School of Medicine, University of Southern California, 1425 San Pablo Street, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Laura",
+                "Last Name": "Perin",
+                "Affiliation": "Saban Research Institute, Division of Urology, Children's Hospital Los Angeles, University of Southern California, 4650 Sunset Boulevard, Los Angeles, CA 90027, USA."
+            },
+            {
+                "First Name": "Min",
+                "Last Name": "Wei",
+                "Affiliation": "Longevity Institute, School of Gerontology, Department of Biological Sciences, University of Southern California, 3715 McClintock Avenue, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Xiaoying",
+                "Last Name": "Zhou",
+                "Affiliation": "Eli and Edythe Broad Center for Regenerative Medicine and Stem Cell Research at USC, Keck School of Medicine, University of Southern California, 1425 San Pablo Street, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Ben S",
+                "Last Name": "Lam",
+                "Affiliation": "Eli and Edythe Broad Center for Regenerative Medicine and Stem Cell Research at USC, Keck School of Medicine, University of Southern California, 1425 San Pablo Street, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Stefano",
+                "Last Name": "Da Sacco",
+                "Affiliation": "Saban Research Institute, Division of Urology, Children's Hospital Los Angeles, University of Southern California, 4650 Sunset Boulevard, Los Angeles, CA 90027, USA."
+            },
+            {
+                "First Name": "Mario",
+                "Last Name": "Mirisola",
+                "Affiliation": "Department of Medical Biotechnology and Forensics, University of Palermo, via Divisi 83, 90133 Palermo, Italy."
+            },
+            {
+                "First Name": "David I",
+                "Last Name": "Quinn",
+                "Affiliation": "Translational Oncology Program, Kenneth J. Norris Comprehensive Cancer Center, Keck School of Medicine, University of Southern California, 1441 Eastlake Avenue, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Tanya B",
+                "Last Name": "Dorff",
+                "Affiliation": "Translational Oncology Program, Kenneth J. Norris Comprehensive Cancer Center, Keck School of Medicine, University of Southern California, 1441 Eastlake Avenue, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "John J",
+                "Last Name": "Kopchick",
+                "Affiliation": "Department of Biomedical Sciences, Heritage College of Osteopathic Medicine, Ohio University, 228 Irvine Hall, Athens, OH 45701, USA."
+            },
+            {
+                "First Name": "Valter D",
+                "Last Name": "Longo",
+                "Affiliation": "Longevity Institute, School of Gerontology, Department of Biological Sciences, University of Southern California, 3715 McClintock Avenue, Los Angeles, CA 90089, USA; Eli and Edythe Broad Center for Regenerative Medicine and Stem Cell Research at USC, Keck School of Medicine, University of Southern California, 1425 San Pablo Street, Los Angeles, CA 90033, USA; IFOM, FIRC Institute of Molecular Oncology, Via Adamello, 16, 20139 Milano, Italy. Electronic address: vlongo@usc.edu."
+            }
+        ],
+        "Journal": "Cell stem cell",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24606898",
+        "Title": "Low protein intake is associated with a major reduction in IGF-1, cancer, and overall mortality in the 65 and younger but not older population.",
+        "Abstract": "Mice and humans with growth hormone receptor/IGF-1 deficiencies display major reductions in age-related diseases. Because protein restriction reduces GHR-IGF-1 activity, we examined links between protein intake and mortality. Respondents aged 50-65 reporting high protein intake had a 75% increase in overall mortality and a 4-fold increase in cancer death risk during the following 18 years. These associations were either abolished or attenuated if the proteins were plant derived. Conversely, high protein intake was associated with reduced cancer and overall mortality in respondents over 65, but a 5-fold increase in diabetes mortality across all ages. Mouse studies confirmed the effect of high protein intake and GHR-IGF-1 signaling on the incidence and progression of breast and melanoma tumors, but also the detrimental effects of a low protein diet in the very old. These results suggest that low protein intake during middle age followed by moderate to high protein consumption in old adults may optimize healthspan and longevity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aged",
+            "Animals",
+            "Breast Neoplasms",
+            "Carrier Proteins",
+            "Cross-Sectional Studies",
+            "Diabetes Mellitus",
+            "Diet, Protein-Restricted",
+            "Female",
+            "Follow-Up Studies",
+            "Humans",
+            "Insulin-Like Growth Factor I",
+            "Longevity",
+            "Male",
+            "Melanoma",
+            "Mice",
+            "Mice, Inbred BALB C",
+            "Mice, Inbred C57BL",
+            "Mice, Knockout",
+            "Middle Aged",
+            "Neoplasms",
+            "Proportional Hazards Models",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Morgan E",
+                "Last Name": "Levine",
+                "Affiliation": "Davis School of Gerontology, University of Southern California, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Jorge A",
+                "Last Name": "Suarez",
+                "Affiliation": "Davis School of Gerontology, University of Southern California, Los Angeles, CA 90033, USA; Longevity Institute, University of Southern California, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Sebastian",
+                "Last Name": "Brandhorst",
+                "Affiliation": "Davis School of Gerontology, University of Southern California, Los Angeles, CA 90033, USA; Longevity Institute, University of Southern California, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Priya",
+                "Last Name": "Balasubramanian",
+                "Affiliation": "Davis School of Gerontology, University of Southern California, Los Angeles, CA 90033, USA; Longevity Institute, University of Southern California, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": "Davis School of Gerontology, University of Southern California, Los Angeles, CA 90033, USA; Longevity Institute, University of Southern California, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Federica",
+                "Last Name": "Madia",
+                "Affiliation": "Davis School of Gerontology, University of Southern California, Los Angeles, CA 90033, USA; EURL ECVAM, Institute for Health & Consumer Protection, European Commission Joint Research Centre, Ispra (VA) 21027, Italy."
+            },
+            {
+                "First Name": "Luigi",
+                "Last Name": "Fontana",
+                "Affiliation": "Department of Medicine, Washington University in St. Louis, St. Louis, MO 63110, USA; Department of Clinical and Experimental Sciences, Brescia University School of Medicine, Brescia 25123, Italy; CEINGE Biotecnologie Avanzate, Napoli 80145, Italy."
+            },
+            {
+                "First Name": "Mario G",
+                "Last Name": "Mirisola",
+                "Affiliation": "Davis School of Gerontology, University of Southern California, Los Angeles, CA 90033, USA; Longevity Institute, University of Southern California, Los Angeles, CA 90033, USA; Dipartimento di Biopatologia e Metodologie Biomediche, Universita' di Palermo, Palermo 90127, Italy."
+            },
+            {
+                "First Name": "Jaime",
+                "Last Name": "Guevara-Aguirre",
+                "Affiliation": "Universidad San Francisco de Quito & Instituto IEMYR, Quito 17-1200-841, Ecuador."
+            },
+            {
+                "First Name": "Junxiang",
+                "Last Name": "Wan",
+                "Affiliation": "Davis School of Gerontology, University of Southern California, Los Angeles, CA 90033, USA; Longevity Institute, University of Southern California, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Giuseppe",
+                "Last Name": "Passarino",
+                "Affiliation": "Department of Biology, Ecology and Earth Science, University of Calabria, Rende 87036, Italy."
+            },
+            {
+                "First Name": "Brian K",
+                "Last Name": "Kennedy",
+                "Affiliation": "Buck Institute for Research on Aging, Novato, CA 94945, USA."
+            },
+            {
+                "First Name": "Min",
+                "Last Name": "Wei",
+                "Affiliation": "Davis School of Gerontology, University of Southern California, Los Angeles, CA 90033, USA; Longevity Institute, University of Southern California, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Pinchas",
+                "Last Name": "Cohen",
+                "Affiliation": "Davis School of Gerontology, University of Southern California, Los Angeles, CA 90033, USA; Longevity Institute, University of Southern California, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Eileen M",
+                "Last Name": "Crimmins",
+                "Affiliation": "Davis School of Gerontology, University of Southern California, Los Angeles, CA 90033, USA."
+            },
+            {
+                "First Name": "Valter D",
+                "Last Name": "Longo",
+                "Affiliation": "Davis School of Gerontology, University of Southern California, Los Angeles, CA 90033, USA; Longevity Institute, University of Southern California, Los Angeles, CA 90033, USA. Electronic address: vlongo@usc.edu."
+            }
+        ],
+        "Journal": "Cell metabolism",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "21325617",
+        "Title": "Growth hormone receptor deficiency is associated with a major reduction in pro-aging signaling, cancer, and diabetes in humans.",
+        "Abstract": "Mutations in growth signaling pathways extend life span, as well as protect against age-dependent DNA damage in yeast and decrease insulin resistance and cancer in mice. To test their effect in humans, we monitored for 22 years Ecuadorian individuals who carry mutations in the growth hormone receptor (GHR) gene that lead to severe GHR and IGF-1 (insulin-like growth factor-1) deficiencies. We combined this information with surveys to identify the cause and age of death for individuals in this community who died before this period. The individuals with GHR deficiency exhibited only one nonlethal malignancy and no cases of diabetes, in contrast to a prevalence of 17% for cancer and 5% for diabetes in control subjects. A possible explanation for the very low incidence of cancer was suggested by in vitro studies: Serum from subjects with GHR deficiency reduced DNA breaks but increased apoptosis in human mammary epithelial cells treated with hydrogen peroxide. Serum from GHR-deficient subjects also caused reduced expression of RAS, PKA (protein kinase A), and TOR (target of rapamycin) and up-regulation of SOD2 (superoxide dismutase 2) in treated cells, changes that promote cellular protection and life-span extension in model organisms. We also observed reduced insulin concentrations (1.4 \u03bcU/ml versus 4.4 \u03bcU/ml in unaffected relatives) and a very low HOMA-IR (homeostatic model assessment-insulin resistance) index (0.34 versus 0.96 in unaffected relatives) in individuals with GHR deficiency, indicating higher insulin sensitivity, which could explain the absence of diabetes in these subjects. These results provide evidence for a role of evolutionarily conserved pathways in the control of aging and disease burden in humans.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Aging",
+            "Apoptosis",
+            "Cells, Cultured",
+            "Cohort Studies",
+            "DNA Breaks",
+            "Diabetes Mellitus",
+            "Female",
+            "Genotype",
+            "Humans",
+            "Hydrogen Peroxide",
+            "Male",
+            "Middle Aged",
+            "Neoplasms",
+            "Receptors, Somatotropin",
+            "Signal Transduction",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jaime",
+                "Last Name": "Guevara-Aguirre",
+                "Affiliation": "Institute of Endocrinology, Metabolism and Reproduction, Quito, Ecuador. jguevara@iemyr-ecuador.org"
+            },
+            {
+                "First Name": "Priya",
+                "Last Name": "Balasubramanian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marco",
+                "Last Name": "Guevara-Aguirre",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Min",
+                "Last Name": "Wei",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Federica",
+                "Last Name": "Madia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Hwang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alejandro",
+                "Last Name": "Martin-Montalvo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jannette",
+                "Last Name": "Saavedra",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sue",
+                "Last Name": "Ingles",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rafael",
+                "Last Name": "de Cabo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pinchas",
+                "Last Name": "Cohen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Valter D",
+                "Last Name": "Longo",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Science translational medicine",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21298668",
+        "Title": "A novel DNA selection and direct extraction process and its application in DNA recombination.",
+        "Abstract": "In the conventional bench-top approach, the DNA recombination process is time- and effort-consuming due to laborious procedures lasting from several hours to a day. A novel DNA selection and direct extraction process has been proposed, integrated and tested on chip. The integrative microfluidic chip can perform the whole procedure of DNA recombination, including DNA digestion, gel electrophoresis, DNA extraction and insert-vector ligation within 1\u2009h. In this high-throughput design, the manual gel cutting was replaced by an automatic processing system that performed high-quality and high-recovery efficiency in DNA extraction process. With no need of gel-dissolving reagents and manipulation, the application of selection and direct extraction process could significantly eliminate the risks from UV and EtBr and also facilitate DNA recombination. Reliable output with high success rate of cloning has been achieved with a significant reduction in operational hazards, required materials, efforts and time.",
+        "Keywords": [],
+        "MeSH terms": [
+            "DNA",
+            "Electrophoresis",
+            "Equipment Design",
+            "Equipment Failure Analysis",
+            "Microfluidic Analytical Techniques",
+            "Microfluidics",
+            "Oligonucleotide Array Sequence Analysis",
+            "Recombination, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "An-Bang",
+                "Last Name": "Wang",
+                "Affiliation": "Institute of Applied Mechanics, National Taiwan University, Taipei, Taiwan. abwang@spring.iam.ntu.edu.tw"
+            },
+            {
+                "First Name": "Chia-Wei",
+                "Last Name": "Cheng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "I-Chun",
+                "Last Name": "Lin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Fei-Yau",
+                "Last Name": "Lu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Huai-Jen",
+                "Last Name": "Tsai",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chiu-Chun",
+                "Last Name": "Lin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chun-Hui",
+                "Last Name": "Yang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Po-Ting",
+                "Last Name": "Pan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chen-Chi",
+                "Last Name": "Kuan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yen-Chih",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yi-Wei",
+                "Last Name": "Lin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chih-Ning",
+                "Last Name": "Chang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yi-Hung",
+                "Last Name": "Wu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tetuko",
+                "Last Name": "Kurniawan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chii-Wann",
+                "Last Name": "Lin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew M",
+                "Last Name": "Wo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lin-Chi",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Electrophoresis",
+        "PubDate": "2011"
+    }
+]

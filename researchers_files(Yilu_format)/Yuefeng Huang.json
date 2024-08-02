@@ -1,0 +1,3172 @@
+[
+    {
+        "PMID": "39000865",
+        "Title": "An Improved Method for Detecting Crane Wheel-Rail Faults Based on YOLOv8 and the Swin Transformer.",
+        "Abstract": "In the realm of special equipment, significant advancements have been achieved in fault detection. Nonetheless, faults originating in the equipment manifest with diverse morphological characteristics and varying scales. Certain faults necessitate the extrapolation from global information owing to their occurrence in localized areas. Simultaneously, the intricacies of the inspection area's background easily interfere with the intelligent detection processes. Hence, a refined YOLOv8 algorithm leveraging the Swin Transformer is proposed, tailored for detecting faults in special equipment. The Swin Transformer serves as the foundational network of the YOLOv8 framework, amplifying its capability to concentrate on comprehensive features during the feature extraction, crucial for fault analysis. A multi-head self-attention mechanism regulated by a sliding window is utilized to expand the observation window's scope. Moreover, an asymptotic feature pyramid network is introduced to augment spatial feature extraction for smaller targets. Within this network architecture, adjacent low-level features are merged, while high-level features are gradually integrated into the fusion process. This prevents loss or degradation of feature information during transmission and interaction, enabling accurate localization of smaller targets. Drawing from wheel-rail faults of lifting equipment as an illustration, the proposed method is employed to diagnose an expanded fault dataset generated through transfer learning. Experimental findings substantiate that the proposed method in adeptly addressing numerous challenges encountered in the intelligent fault detection of special equipment. Moreover, it outperforms mainstream target detection models, achieving real-time detection capabilities.",
+        "Keywords": [
+            "Swin Transformer",
+            "YOLOv8",
+            "fault detection",
+            "feature pyramid network",
+            "special equipment"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Yunlong",
+                "Last Name": "Li",
+                "Affiliation": "Beijing Materials Handling Research Institute Co. Ltd., Beijing 100007, China."
+            },
+            {
+                "First Name": "Xiuli",
+                "Last Name": "Tang",
+                "Affiliation": "Beijing Materials Handling Research Institute Co. Ltd., Beijing 100007, China."
+            },
+            {
+                "First Name": "Wusheng",
+                "Last Name": "Liu",
+                "Affiliation": "Beijing Materials Handling Research Institute Co. Ltd., Beijing 100007, China."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Beijing Materials Handling Research Institute Co. Ltd., Beijing 100007, China."
+            },
+            {
+                "First Name": "Zhinong",
+                "Last Name": "Li",
+                "Affiliation": "Key Laboratory of Nondestructive Testing of the Ministry of Education, Nanchang Hangkong University, Nanchang 330063, China."
+            }
+        ],
+        "Journal": "Sensors (Basel, Switzerland)",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38980811",
+        "Title": "One-Pot Synthesis of Silicon Quantum Dots-Based Fluorescent Nanomaterial and Its Application.",
+        "Abstract": "Conventionally obtained silicon quantum dots (Si QDs) generally suffer from the disadvantages of a cumbersome preparation process, large fluctuation in the quality of Si QDs, poor water solubility, and aggregation-caused quenching (ACQ) phenomenon. Here we report a facile one-pot strategy to synthesize a novel Si QDs-based fluorescent nanomaterial in which Si QDs are confined into dendritic mesoporous silica, named as SiQDs@DMSNs. The prepared SiQDs@DMSNs, with adjustable particle sizes ranging from 140 to 300 nm, emit blue fluorescence around 410 nm upon excitation by ultraviolet light at a wavelength of 300 nm. It is found that the addition of sodium salicylate (NaSAL) plays a crucial role in the ",
+        "Keywords": [
+            "Silicon quantum dots",
+            "biosensors",
+            "dendritic mesoporous silica",
+            "fluorescent nanomaterials",
+            "one-pot synthesis strategy"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "School of Chemistry and Materials Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou 310024, China."
+            },
+            {
+                "First Name": "Yu",
+                "Last Name": "Zhang",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai 200050, China."
+            },
+            {
+                "First Name": "Zideng",
+                "Last Name": "Dai",
+                "Affiliation": "School of Chemistry and Materials Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou 310024, China."
+            },
+            {
+                "First Name": "Runjie",
+                "Last Name": "Miao",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai 200050, China."
+            },
+            {
+                "First Name": "Hangrong",
+                "Last Name": "Chen",
+                "Affiliation": "School of Chemistry and Materials Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou 310024, China."
+            }
+        ],
+        "Journal": "ACS applied materials & interfaces",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38946983",
+        "Title": "FRONTAL WHITE MATTER CHANGES INDICATE RECOVERY WITH INPATIENT TREATMENT IN HEROIN ADDICTION.",
+        "Abstract": "Amidst an unprecedented opioid epidemic, identifying neurobiological correlates of change with medication-assisted treatment of heroin use disorder is imperative. Distributed white matter (WM) impairments in individuals with heroin use disorder (iHUD) have been associated with increased drug craving, a reliable predictor of treatment outcomes. However, little is known about the extent of whole-brain structural connectivity changes with inpatient treatment and abstinence in iHUD.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Pierre-Olivier",
+                "Last Name": "Gaudreault",
+                "Affiliation": "Psychiatry and Neuroscience Departments, Icahn School of Medicine at Mount Sinai, New York City, NY, USA."
+            },
+            {
+                "First Name": "Sarah G",
+                "Last Name": "King",
+                "Affiliation": "Psychiatry and Neuroscience Departments, Icahn School of Medicine at Mount Sinai, New York City, NY, USA."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Psychiatry and Neuroscience Departments, Icahn School of Medicine at Mount Sinai, New York City, NY, USA."
+            },
+            {
+                "First Name": "Ahmet O",
+                "Last Name": "Ceceli",
+                "Affiliation": "Psychiatry and Neuroscience Departments, Icahn School of Medicine at Mount Sinai, New York City, NY, USA."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Kronberg",
+                "Affiliation": "Psychiatry and Neuroscience Departments, Icahn School of Medicine at Mount Sinai, New York City, NY, USA."
+            },
+            {
+                "First Name": "Nelly",
+                "Last Name": "Alia-Klein",
+                "Affiliation": "Psychiatry and Neuroscience Departments, Icahn School of Medicine at Mount Sinai, New York City, NY, USA."
+            },
+            {
+                "First Name": "Rita Z",
+                "Last Name": "Goldstein",
+                "Affiliation": "Psychiatry and Neuroscience Departments, Icahn School of Medicine at Mount Sinai, New York City, NY, USA."
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38798480",
+        "Title": "ILC2s navigate tissue redistribution during infection using stage-specific S1P receptors.",
+        "Abstract": "Lymphocytes can circulate as well as take residence within tissues. While the mechanisms by which circulating populations are recruited to infection sites have been extensively characterized, the molecular basis for the recirculation of tissue-resident cells is less understood. Here, we show that helminth infection- or IL-25-induced redistribution of intestinal group 2 innate lymphoid cells (ILC2s) requires access to the lymphatic vessel network. Although the secondary lymphoid structure is an essential signal hub for adaptive lymphocyte differentiation and dispatch, it is redundant for ILC2 migration and effector function. Upon IL-25 stimulation, a dramatic change in epigenetic landscape occurs in intestinal ILC2s, leading to the expression of sphingosine-1-phosphate receptors (S1PRs). Among the various S1PRs, we found that S1PR5 is critical for ILC2 exit from intestinal tissue to lymph. By contrast, S1PR1 plays a dominant role in ILC2 egress from mesenteric lymph nodes to blood circulation and then to distal tissues including the lung where the redistributed ILC2s contribute to tissue repair. The requirement of two S1PRs for ILC2 migration is largely due to the dynamic expression of the tissue-retention marker CD69, which mediates S1PR1 internalization. Thus, our study demonstrates a stage-specific requirement of different S1P receptors for ILC2 redistribution during infection. We therefore propose a fundamental paradigm that innate and adaptive lymphocytes utilize a shared vascular network frame and specialized navigation cues for migration.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Takamasa",
+                "Last Name": "Ito",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yoshihiro",
+                "Last Name": "Ishida",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yingyu",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent",
+                "Last Name": "Guichard",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wanwei",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Han",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kevin",
+                "Last Name": "Guckian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jerold",
+                "Last Name": "Chun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jianwen",
+                "Last Name": "Que",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Allen",
+                "Last Name": "Smith",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph F",
+                "Last Name": "Urban",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38746340",
+        "Title": "Serum cytokine and inflammatory markers in individuals with heroin use disorder: potential biomarkers for diagnosis and disease severity.",
+        "Abstract": "Opioid use disorders cause major morbidity and mortality, and there is a pressing need for novel mechanistic targets and biomarkers for diagnosis and prognosis. Exposure to mu-opioid receptor (MOR) agonists causes changes in cytokine and inflammatory protein networks in peripheral blood, and also in brain glia and neurons. Individuals with heroin use disorder (iHUD) show dysregulated levels of several cytokines in blood. However, there is limited data on a comprehensive panel of such markers in iHUD versus healthy controls (HC), especially as a multi-target biomarker. We used a validated proximity extension assay for relative quantification of 92 cytokines and inflammatory proteins in serum of iHUD on medication assisted therapy (MAT; n=21), versus HC (n=24). Twenty-nine targets showed significant group differences (primarily iHUD>HC), surviving multiple comparison correction (p=0.05). This included 19 members of canonical cytokine families, including specific chemokines, interleukins, growth factors, and tumor necrosis factor (TNF)-related proteins. For dimensionality reduction, data from these 19 cytokines were entered into a principal component (PC) analysis, and PC1 scores were iHUD>HC (p<0.0001). A receiver-operating characteristic (ROC) curve analysis yielded an AUROC=91.7% (p<0.0001). This PC1 score remained a positive predictor of being in the HUD group in a multivariable logistic regression, which included demographic/clinical variables. Overall, this study shows a panel of cytokines that differ significantly between iHUD and HC, and provides a multi-target \"cytokine biomarker score\" for potential diagnostic purposes, and examination of disease severity.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Eduardo R",
+                "Last Name": "Butelman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Flurin",
+                "Last Name": "Cathomas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pierre-Olivier",
+                "Last Name": "Gaudreault",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Panos",
+                "Last Name": "Roussos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Scott J",
+                "Last Name": "Russo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rita Z",
+                "Last Name": "Goldstein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nelly",
+                "Last Name": "Alia-Klein",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38723531",
+        "Title": "A universal strategy for constructing high-performance silica-based AIE materials for biomedical application.",
+        "Abstract": "As an emerging fluorophore, aggregation-induced emission luminogens (AIEgens) have received widespread attention in recent years, but the inherent drawbacks of AIEgens, such as the poor water-solubility and insufficient fluorescence stability in complex environments, restrict their performance in practical applications. Herein, we report a universal strategy based on hydrophobic dendritic mesoporous silica (HMSN) that can integrate different AIE molecules to construct multi-color fluorescent AIE materials. Specifically, HMSN with central radial pores was used as a powerful carrier for direct loading AIE molecules and restricting their intramolecular motions. Due to the pore-domain restriction effect and hydrophobic interaction, the obtained silica-based AIE materials have bright fluorescence with a maximum quantum yield of 68.38%, high colloidal/fluorescence stability, and excellent biosafety. Further, these silica-based AIE materials can be conjugated with functional antibodies to obtain probes with different targetability. After integration with immunomagnetic beads, the prepared detection probes achieved the quantitative detection of cardiac troponin I with the limit of detection (LOD) of 0.508\u00a0ng/mL. Overall, the targeting probes stemming from silica-based AIE materials can not only achieve cell-specific imaging, but quantify the number of Jurkat cells (LOD\u00a0=\u00a0270 cells/mL) to further determine the specific etiology of the disease.",
+        "Keywords": [
+            "Aggregation-induced emission",
+            "Biomedical applications",
+            "Bright and stable",
+            "Cardiac troponin I",
+            "Hydrophobic dendritic silica"
+        ],
+        "MeSH terms": [
+            "Silicon Dioxide",
+            "Humans",
+            "Fluorescent Dyes",
+            "Jurkat Cells",
+            "Porosity",
+            "Hydrophobic and Hydrophilic Interactions",
+            "Surface Properties",
+            "Particle Size"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yu",
+                "Last Name": "Zhang",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, 1295 Ding-Xi Road, Shanghai 200050, China; Center of Materials Science and Optoelectronics Engineering, University of Chinese Academy of Sciences, 19A Yuquan Road, Beijing 100049, China."
+            },
+            {
+                "First Name": "Runjie",
+                "Last Name": "Miao",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, 1295 Ding-Xi Road, Shanghai 200050, China; Center of Materials Science and Optoelectronics Engineering, University of Chinese Academy of Sciences, 19A Yuquan Road, Beijing 100049, China."
+            },
+            {
+                "First Name": "Haifeng",
+                "Last Name": "Sha",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, 1295 Ding-Xi Road, Shanghai 200050, China."
+            },
+            {
+                "First Name": "Wenyan",
+                "Last Name": "Ma",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, 1295 Ding-Xi Road, Shanghai 200050, China; School of Chemistry and Materials Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, 1 Sub-lane Xiangshan, Hangzhou 310024, China."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, 1295 Ding-Xi Road, Shanghai 200050, China; School of Chemistry and Materials Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, 1 Sub-lane Xiangshan, Hangzhou 310024, China."
+            },
+            {
+                "First Name": "Hangrong",
+                "Last Name": "Chen",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, 1295 Ding-Xi Road, Shanghai 200050, China; Center of Materials Science and Optoelectronics Engineering, University of Chinese Academy of Sciences, 19A Yuquan Road, Beijing 100049, China; School of Chemistry and Materials Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, 1 Sub-lane Xiangshan, Hangzhou 310024, China. Electronic address: hrchen@mail.sic.ac.cn."
+            }
+        ],
+        "Journal": "Journal of colloid and interface science",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38529320",
+        "Title": "Single Cell Analysis of Lung Lymphatic Endothelial Cells and Lymphatic Responses during Influenza Infection.",
+        "Abstract": "Tissue lymphatic vessels network plays critical roles in immune surveillance and tissue homeostasis in response to pathogen invasion, but how lymphatic system ",
+        "Keywords": [
+            "Influenza infection",
+            "Lymphatic endothelial cells (LECs)",
+            "PD-L1",
+            "Regeneration",
+            "Single cell",
+            "lung injury",
+            "scRNA-seq"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jian",
+                "Last Name": "Ge",
+                "Affiliation": "Columbia Center for Human Development & Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Hongxia",
+                "Last Name": "Shao",
+                "Affiliation": "Columbia Center for Human Development & Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Hongxu",
+                "Last Name": "Ding",
+                "Affiliation": "Department of Pharmacy Practice and Science, College of Pharmacy, University of Arizona, Tucson, AZ 85724 USA."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Xuebing",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Medicine, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jie",
+                "Last Name": "Sun",
+                "Affiliation": "Carter Immunology Center, University of Virginia, Charlottesville, VA 22908, USA."
+            },
+            {
+                "First Name": "Jianwen",
+                "Last Name": "Que",
+                "Affiliation": "Columbia Center for Human Development & Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Journal of respiratory biology and translational medicine",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38336331",
+        "Title": "Preparation of starch-palmitic acid complexes by three different starches: A comparative study using the method of heating treatment and autoclaving treatment.",
+        "Abstract": "Recent research emphasizes the growing importance of starch-lipid complexes due to their anti-digestibility ability, prompting a need to explore the impact of different starch sources and preparation methods on their properties. In this study, starch-palmitic acid (PA) complexes were prepared by three different starches including Tartary buckwheat starch (TBS), potato starch (PTS), and pea starch (PS) by heating treatment (HT) and autoclaving treatment (AT), respectively, and their physicochemical property and in vitro digestibility were systematically compared. The formation of the starch-PA complex was confirmed through various characterization techniques, including scanning electron microscopy, differential scanning calorimetry, Fourier transform infrared spectroscopy, and X-ray diffraction. Among the complexes, the PTS-PA complex exhibited the highest complexation index over 80\u00a0%, while the PS-PA complex had the lowest rapid digestible starch content (56.49-59.42\u00a0%). Additionally, the complexes prepared by AT exhibited higher resistant starch content (41.95-32.46\u00a0%) than those prepared by HT (31.42-32.49\u00a0%), while the complexes prepared by HT held better freeze-thaw stability and hydration ability than those prepared by AT. This study highlights the important role of starch sources in the physicochemical and digestibility properties of starch-lipid complex and the potential application of AT in the preparation of novel resistant starch.",
+        "Keywords": [
+            "Heating treatment",
+            "In vitro digestibility",
+            "Palmitic acid"
+        ],
+        "MeSH terms": [
+            "Starch",
+            "Palmitic Acid",
+            "Resistant Starch",
+            "Heating",
+            "Chemical Phenomena",
+            "X-Ray Diffraction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Qiuyan",
+                "Last Name": "Liu",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China."
+            },
+            {
+                "First Name": "Ji",
+                "Last Name": "Li",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China."
+            },
+            {
+                "First Name": "Yueping",
+                "Last Name": "Luo",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China."
+            },
+            {
+                "First Name": "Ruijie",
+                "Last Name": "Li",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China."
+            },
+            {
+                "First Name": "Yuanchen",
+                "Last Name": "He",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China."
+            },
+            {
+                "First Name": "Caian",
+                "Last Name": "He",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China. Electronic address: caian.he@nwafu.edu.cn."
+            },
+            {
+                "First Name": "Qiang",
+                "Last Name": "Peng",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China; Beijing Engineering and Technology Research Center of Food Additives, Beijing Technology & Business University (BTBU), Beijing 100048, China. Electronic address: pengqiang@nwafu.edu.cn."
+            },
+            {
+                "First Name": "Min",
+                "Last Name": "Wang",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China. Electronic address: wangmin20050606@163.com."
+            }
+        ],
+        "Journal": "International journal of biological macromolecules",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37977467",
+        "Title": "Green synthesis of lignin-directed palladium nanoparticles/UiO-66-NH",
+        "Abstract": "A combination of multiple methods can greatly intensify the removal efficiency of hazardous substances. Herein, the synergistic utilization of adsorption and catalysis achieved for the highly efficient removal of hexavalent chromium (Cr",
+        "Keywords": [
+            "Adsorption-catalysis removal",
+            "Hexavalent chromium",
+            "Paper-based material",
+            "PdNPs",
+            "UiO-66-NH(2)"
+        ],
+        "MeSH terms": [
+            "Palladium",
+            "Metal Nanoparticles",
+            "Adsorption",
+            "Lignin",
+            "Organometallic Compounds",
+            "Chromium",
+            "Catalysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lili",
+                "Last Name": "Zhang",
+                "Affiliation": "Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, College of Light Industry and Food Engineering, College of Chemical Engineering, Nanjing Forestry University, Nanjing 210037, China; Guangxi Key Laboratory of Clean Pulp & Papermaking and Pollution Control, College of Light Industry and Food Engineering, Guangxi University, Nanning 530004, China. Electronic address: zhangll@njfu.edu.cn."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, College of Light Industry and Food Engineering, College of Chemical Engineering, Nanjing Forestry University, Nanjing 210037, China. Electronic address: huangyuefeng@njfu.edu.cn."
+            },
+            {
+                "First Name": "Jiaqing",
+                "Last Name": "Zhang",
+                "Affiliation": "Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, College of Light Industry and Food Engineering, College of Chemical Engineering, Nanjing Forestry University, Nanjing 210037, China."
+            },
+            {
+                "First Name": "Enqing",
+                "Last Name": "Zhu",
+                "Affiliation": "Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, College of Light Industry and Food Engineering, College of Chemical Engineering, Nanjing Forestry University, Nanjing 210037, China."
+            },
+            {
+                "First Name": "Jinxia",
+                "Last Name": "Ma",
+                "Affiliation": "Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, College of Light Industry and Food Engineering, College of Chemical Engineering, Nanjing Forestry University, Nanjing 210037, China. Electronic address: jxma@njfu.edu.cn."
+            },
+            {
+                "First Name": "Zhiguo",
+                "Last Name": "Wang",
+                "Affiliation": "Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, College of Light Industry and Food Engineering, College of Chemical Engineering, Nanjing Forestry University, Nanjing 210037, China. Electronic address: wzg@njfu.edu.cn."
+            }
+        ],
+        "Journal": "International journal of biological macromolecules",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37961156",
+        "Title": "Naturalistic drug cue reactivity in heroin use disorder: orbitofrontal synchronization as a marker of craving and recovery.",
+        "Abstract": "Movies captivate groups of individuals (the audience), especially if they contain themes of common motivational interest to the group. In drug addiction, a key mechanism is maladaptive motivational salience attribution whereby drug cues outcompete other reinforcers within the same environment or context. We predicted that while watching a drug-themed movie, where cues for drugs and other stimuli share a continuous narrative context, fMRI responses in individuals with heroin use disorder (iHUD) will preferentially synchronize during drug scenes. Results revealed such drug-biased synchronization in the orbitofrontal cortex (OFC), ventromedial and ventrolateral prefrontal cortex, and insula. After 15 weeks of inpatient treatment, there was a significant reduction in this drug-biased shared response in the OFC, which correlated with a concomitant reduction in dynamically-measured craving, suggesting synchronized OFC responses to a drug-themed movie as a neural marker of craving and recovery in iHUD.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Greg",
+                "Last Name": "Kronberg",
+                "Affiliation": "Icahn School of Medicine at Mount Sinai, New York, NY 10029."
+            },
+            {
+                "First Name": "Ahmet O",
+                "Last Name": "Ceceli",
+                "Affiliation": "Icahn School of Medicine at Mount Sinai, New York, NY 10029."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Icahn School of Medicine at Mount Sinai, New York, NY 10029."
+            },
+            {
+                "First Name": "Pierre-Olivier",
+                "Last Name": "Gaudreault",
+                "Affiliation": "Icahn School of Medicine at Mount Sinai, New York, NY 10029."
+            },
+            {
+                "First Name": "Sarah G",
+                "Last Name": "King",
+                "Affiliation": "Icahn School of Medicine at Mount Sinai, New York, NY 10029."
+            },
+            {
+                "First Name": "Natalie",
+                "Last Name": "McClain",
+                "Affiliation": "Icahn School of Medicine at Mount Sinai, New York, NY 10029."
+            },
+            {
+                "First Name": "Nelly",
+                "Last Name": "Alia-Klein",
+                "Affiliation": "Icahn School of Medicine at Mount Sinai, New York, NY 10029."
+            },
+            {
+                "First Name": "Rita Z",
+                "Last Name": "Goldstein",
+                "Affiliation": "Icahn School of Medicine at Mount Sinai, New York, NY 10029."
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37862432",
+        "Title": "Long 3'UTRs predispose neurons to inflammation by promoting immunostimulatory double-stranded RNA formation.",
+        "Abstract": "Loss of RNA homeostasis underlies numerous neurodegenerative and neuroinflammatory diseases. However, the molecular mechanisms that trigger neuroinflammation are poorly understood. Viral double-stranded RNA (dsRNA) triggers innate immune responses when sensed by host pattern recognition receptors (PRRs) present in all cell types. Here, we report that human neurons intrinsically carry exceptionally high levels of immunostimulatory dsRNAs and identify long 3'UTRs as giving rise to neuronal dsRNA structures. We found that the neuron-enriched ELAVL family of genes (",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "3' Untranslated Regions",
+            "RNA, Double-Stranded",
+            "Neuroinflammatory Diseases",
+            "Inflammation",
+            "Receptors, Pattern Recognition",
+            "Neurons",
+            "Zika Virus",
+            "Zika Virus Infection"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tyler J",
+                "Last Name": "Dorrity",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Heegwon",
+                "Last Name": "Shin",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Kenenni A",
+                "Last Name": "Wiegand",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Aruda",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Closser",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Emily",
+                "Last Name": "Jung",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Jake A",
+                "Last Name": "Gertie",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Amanda",
+                "Last Name": "Leone",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Rachel",
+                "Last Name": "Polfer",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Bruce",
+                "Last Name": "Culbertson",
+                "Affiliation": "Integrated Program in Cellular, Molecular, and Biomedical Studies, Columbia University Vagelos College of Physicians and Surgeons, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Lisa",
+                "Last Name": "Yu",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Christine",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Takamasa",
+                "Last Name": "Ito",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Anna-Lena",
+                "Last Name": "Steckelberg",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Hynek",
+                "Last Name": "Wichterle",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Hachung",
+                "Last Name": "Chung",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New\u00a0York, NY, USA."
+            }
+        ],
+        "Journal": "Science immunology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37648136",
+        "Title": "Synthesis of biomass hyperbranched polyamide resin from cellulose and citric acid for wood adhesive.",
+        "Abstract": "Traditional wood adhesives have the problems of excessive dependence on fossil resources and environmental pollution. Cellulose, a renewable biomass resource with a low price and huge output, provides a basis for preparing biomass wood adhesives. In this study, a new type of polyamide resin was prepared by modifying microcrystalline cellulose and reacting with natural citric acid. Specifically, toluenesulfonyl cellulose (TS) was synthesized, and functional amino cellulose (AC) was prepared by a nucleophilic substitution reaction with hyperbranched polyamide (HP). Then cellulose-based hyperbranched polyamide resin (CHP) was prepared by polycondensation with citric acid. The structure of CHP resin was investigated by FTIR, XPS, ",
+        "Keywords": [
+            "Cellulose-based adhesive",
+            "Hyperbranched cross-linked",
+            "Water resistance"
+        ],
+        "MeSH terms": [
+            "Adhesives",
+            "Nylons",
+            "Wood",
+            "Biomass",
+            "Cellulose"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tao",
+                "Last Name": "Jin",
+                "Affiliation": "Yunnan Provincial Key Laboratory of Wood Adhesives and Glued Products, Southwest Forestry University, Kunming 650224, Yunnan, China."
+            },
+            {
+                "First Name": "Heyang",
+                "Last Name": "Zeng",
+                "Affiliation": "Yunnan Provincial Key Laboratory of Wood Adhesives and Glued Products, Southwest Forestry University, Kunming 650224, Yunnan, China."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Yunnan Provincial Key Laboratory of Wood Adhesives and Glued Products, Southwest Forestry University, Kunming 650224, Yunnan, China."
+            },
+            {
+                "First Name": "Li",
+                "Last Name": "Liu",
+                "Affiliation": "Yunnan Provincial Key Laboratory of Wood Adhesives and Glued Products, Southwest Forestry University, Kunming 650224, Yunnan, China."
+            },
+            {
+                "First Name": "Wentao",
+                "Last Name": "Yao",
+                "Affiliation": "Yunnan Provincial Key Laboratory of Wood Adhesives and Glued Products, Southwest Forestry University, Kunming 650224, Yunnan, China."
+            },
+            {
+                "First Name": "Haiyang",
+                "Last Name": "Guo",
+                "Affiliation": "Jiaxing Key Laboratory of Molecular Recognition and Sensing, College of Biological, Chemical Sciences and Engineering, Jiaxing University, Jiaxing 314001, China. Electronic address: guohy@zjxu.edu.cn."
+            },
+            {
+                "First Name": "Senlei",
+                "Last Name": "Shi",
+                "Affiliation": "Yunnan Provincial Key Laboratory of Wood Adhesives and Glued Products, Southwest Forestry University, Kunming 650224, Yunnan, China."
+            },
+            {
+                "First Name": "Guanben",
+                "Last Name": "Du",
+                "Affiliation": "Yunnan Provincial Key Laboratory of Wood Adhesives and Glued Products, Southwest Forestry University, Kunming 650224, Yunnan, China. Electronic address: guanben@swfu.edu.cn."
+            },
+            {
+                "First Name": "Lianpeng",
+                "Last Name": "Zhang",
+                "Affiliation": "Yunnan Provincial Key Laboratory of Wood Adhesives and Glued Products, Southwest Forestry University, Kunming 650224, Yunnan, China. Electronic address: lpz@zju.edu.cn."
+            }
+        ],
+        "Journal": "International journal of biological macromolecules",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37434487",
+        "Title": "Association of Cortico-Striatal Engagement During Cue Reactivity, Reappraisal, and Savoring of Drug and Non-Drug Stimuli With Craving in Heroin Addiction.",
+        "Abstract": "The authors investigated cortico-striatal reactivity to drug cues (as compared with neutral and food cues), drug cue reappraisal, food cue savoring, and their correlations with heroin craving in individuals with heroin use disorder compared with healthy control subjects.",
+        "Keywords": [
+            "Addiction Psychiatry",
+            "Opioids",
+            "Substance-Related and Addictive Disorders"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Female",
+            "Adult",
+            "Brain",
+            "Craving",
+            "Heroin Dependence",
+            "Heroin",
+            "Cues",
+            "Cross-Sectional Studies",
+            "Magnetic Resonance Imaging"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Psychiatry (Huang, Ceceli, Kronberg, Malaker, Parvaz, Alia-Klein, Goldstein) and Department of Neuroscience, Friedman Brain Institute (King, Parvaz, Alia-Klein, Goldstein), Icahn School of Medicine at Mount Sinai, New York; Center on Mindfulness and Integrative Health Intervention Development and College of Social Work, University of Utah, Salt Lake City (Garland)."
+            },
+            {
+                "First Name": "Ahmet O",
+                "Last Name": "Ceceli",
+                "Affiliation": "Department of Psychiatry (Huang, Ceceli, Kronberg, Malaker, Parvaz, Alia-Klein, Goldstein) and Department of Neuroscience, Friedman Brain Institute (King, Parvaz, Alia-Klein, Goldstein), Icahn School of Medicine at Mount Sinai, New York; Center on Mindfulness and Integrative Health Intervention Development and College of Social Work, University of Utah, Salt Lake City (Garland)."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Kronberg",
+                "Affiliation": "Department of Psychiatry (Huang, Ceceli, Kronberg, Malaker, Parvaz, Alia-Klein, Goldstein) and Department of Neuroscience, Friedman Brain Institute (King, Parvaz, Alia-Klein, Goldstein), Icahn School of Medicine at Mount Sinai, New York; Center on Mindfulness and Integrative Health Intervention Development and College of Social Work, University of Utah, Salt Lake City (Garland)."
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "King",
+                "Affiliation": "Department of Psychiatry (Huang, Ceceli, Kronberg, Malaker, Parvaz, Alia-Klein, Goldstein) and Department of Neuroscience, Friedman Brain Institute (King, Parvaz, Alia-Klein, Goldstein), Icahn School of Medicine at Mount Sinai, New York; Center on Mindfulness and Integrative Health Intervention Development and College of Social Work, University of Utah, Salt Lake City (Garland)."
+            },
+            {
+                "First Name": "Pias",
+                "Last Name": "Malaker",
+                "Affiliation": "Department of Psychiatry (Huang, Ceceli, Kronberg, Malaker, Parvaz, Alia-Klein, Goldstein) and Department of Neuroscience, Friedman Brain Institute (King, Parvaz, Alia-Klein, Goldstein), Icahn School of Medicine at Mount Sinai, New York; Center on Mindfulness and Integrative Health Intervention Development and College of Social Work, University of Utah, Salt Lake City (Garland)."
+            },
+            {
+                "First Name": "Muhammad A",
+                "Last Name": "Parvaz",
+                "Affiliation": "Department of Psychiatry (Huang, Ceceli, Kronberg, Malaker, Parvaz, Alia-Klein, Goldstein) and Department of Neuroscience, Friedman Brain Institute (King, Parvaz, Alia-Klein, Goldstein), Icahn School of Medicine at Mount Sinai, New York; Center on Mindfulness and Integrative Health Intervention Development and College of Social Work, University of Utah, Salt Lake City (Garland)."
+            },
+            {
+                "First Name": "Nelly",
+                "Last Name": "Alia-Klein",
+                "Affiliation": "Department of Psychiatry (Huang, Ceceli, Kronberg, Malaker, Parvaz, Alia-Klein, Goldstein) and Department of Neuroscience, Friedman Brain Institute (King, Parvaz, Alia-Klein, Goldstein), Icahn School of Medicine at Mount Sinai, New York; Center on Mindfulness and Integrative Health Intervention Development and College of Social Work, University of Utah, Salt Lake City (Garland)."
+            },
+            {
+                "First Name": "Eric L",
+                "Last Name": "Garland",
+                "Affiliation": "Department of Psychiatry (Huang, Ceceli, Kronberg, Malaker, Parvaz, Alia-Klein, Goldstein) and Department of Neuroscience, Friedman Brain Institute (King, Parvaz, Alia-Klein, Goldstein), Icahn School of Medicine at Mount Sinai, New York; Center on Mindfulness and Integrative Health Intervention Development and College of Social Work, University of Utah, Salt Lake City (Garland)."
+            },
+            {
+                "First Name": "Rita Z",
+                "Last Name": "Goldstein",
+                "Affiliation": "Department of Psychiatry (Huang, Ceceli, Kronberg, Malaker, Parvaz, Alia-Klein, Goldstein) and Department of Neuroscience, Friedman Brain Institute (King, Parvaz, Alia-Klein, Goldstein), Icahn School of Medicine at Mount Sinai, New York; Center on Mindfulness and Integrative Health Intervention Development and College of Social Work, University of Utah, Salt Lake City (Garland)."
+            }
+        ],
+        "Journal": "The American journal of psychiatry",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37400674",
+        "Title": "m",
+        "Abstract": "Innate lymphoid cells (ILCs) can quickly switch from a quiescent state to an active state and rapidly produce effector molecules that provide critical early immune protection. How the post-transcriptional machinery processes different stimuli and initiates robust gene expression in ILCs is poorly understood. Here, we show that deletion of the N",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cytokines",
+            "Homeostasis",
+            "Immunity, Innate",
+            "Lymphocytes",
+            "RNA",
+            "Animals",
+            "Mice"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yingyu",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Wanwei",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jingyao",
+                "Last Name": "Zhao",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Takamasa",
+                "Last Name": "Ito",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jiacheng",
+                "Last Name": "Jin",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Alexis O",
+                "Last Name": "Aparicio",
+                "Affiliation": "Department of Medicine, Department of Systems Biology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Junsong",
+                "Last Name": "Zhou",
+                "Affiliation": "Department of Rehabilitation and Regenerative Medicine, Columbia Stem Cell Initiative, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Vincent",
+                "Last Name": "Guichard",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Yinshan",
+                "Last Name": "Fang",
+                "Affiliation": "Department of Medicine, Division of Digestive and Liver Diseases, Columbia Center for Human Development, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jianwen",
+                "Last Name": "Que",
+                "Affiliation": "Department of Medicine, Division of Digestive and Liver Diseases, Columbia Center for Human Development, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Joseph F",
+                "Last Name": "Urban",
+                "Affiliation": "Agricultural Research Service, Beltsville Human Nutrition Research Center, Diet, Genomics, and Immunology Laboratory, and Beltsville Agricultural Research Center, Animal Parasitic Diseases Laboratory, U.S. Department of Agriculture, Beltsville, MD, USA."
+            },
+            {
+                "First Name": "Jacob H",
+                "Last Name": "Hanna",
+                "Affiliation": "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Sankar",
+                "Last Name": "Ghosh",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Xuebing",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Medicine, Department of Systems Biology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Lei",
+                "Last Name": "Ding",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Uttiya",
+                "Last Name": "Basu",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University Medical Center, New York, NY, USA. yh3102@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature immunology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37316576",
+        "Title": "Overdose mortality rates for opioids and stimulant drugs are substantially higher in men than in women: state-level analysis.",
+        "Abstract": "Drug overdoses from opioids and stimulants are a major cause of mortality in the United States. It is unclear if there are stable sex differences in overdose mortality for these drugs across states, whether these differ across the lifespan, and if so, whether they can be accounted for by different levels of drug misuse. This was a state-level analysis of epidemiological data on overdose mortality, across 10-year age bins (age range: 15-74), using the CDC WONDER platform for decedents in the United States in 2020-1. The outcome measure was rate of overdose death (per 100,000) for: synthetic opioids (e.g., fentanyl), heroin, psychostimulants with potential for misuse (e.g., methamphetamine), and cocaine. Multiple linear regressions controlled for ethnic-cultural background, household net worth, and sex-specific rate of misuse (from NSDUH, 2018-9). For all these drug categories, males had greater overall overdose mortality than females, after controlling for rates of drug misuse. The mean male/female sex ratio of mortality rate was relatively stable across jurisdictions: synthetic opioids (2.5 [95% CI, 2.4-7]), heroin, (2.9 [95% CI, 2.7-3.1], psychostimulants (2.4 [95% CI, 2.3-5]), and cocaine (2.8 [95% CI, 2.6-9]). With data stratified in 10-year age bins, the sex difference generally survived adjustment (especially in the 25-64 age range). Results indicate that males are significantly more vulnerable than females to overdose deaths caused by opioid and stimulant drugs, taking into account differing state-level environmental conditions and drug misuse levels. These results call for research into diverse biological, behavioral, and social factors that underlie sex differences in human vulnerability to drug overdose.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Female",
+            "Male",
+            "United States",
+            "Adolescent",
+            "Young Adult",
+            "Adult",
+            "Middle Aged",
+            "Aged",
+            "Analgesics, Opioid",
+            "Heroin",
+            "Drug Overdose",
+            "Central Nervous System Stimulants",
+            "Cocaine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eduardo R",
+                "Last Name": "Butelman",
+                "Affiliation": "Neuropsychoimaging of Addiction and Related Conditions Research Program, Departments of Psychiatry and Neuroscience Icahn School of Medicine at Mount Sinai, New York, NY, USA. eduardo.butelman@mssm.edu."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Neuropsychoimaging of Addiction and Related Conditions Research Program, Departments of Psychiatry and Neuroscience Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+            },
+            {
+                "First Name": "David H",
+                "Last Name": "Epstein",
+                "Affiliation": "National Institute on Drug Abuse (NIDA), Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Yavin",
+                "Last Name": "Shaham",
+                "Affiliation": "National Institute on Drug Abuse (NIDA), Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Rita Z",
+                "Last Name": "Goldstein",
+                "Affiliation": "Neuropsychoimaging of Addiction and Related Conditions Research Program, Departments of Psychiatry and Neuroscience Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+            },
+            {
+                "First Name": "Nora D",
+                "Last Name": "Volkow",
+                "Affiliation": "National Institute on Drug Abuse (NIDA), Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Nelly",
+                "Last Name": "Alia-Klein",
+                "Affiliation": "Neuropsychoimaging of Addiction and Related Conditions Research Program, Departments of Psychiatry and Neuroscience Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+            }
+        ],
+        "Journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37204308",
+        "Title": "Making memories last using the peripheral effect of direct current stimulation.",
+        "Abstract": "Most memories that are formed are forgotten, while others are retained longer and are subject to memory stabilization. We show that non-invasive transcutaneous electrical stimulation of the greater occipital nerve (NITESGON) using direct current during learning elicited a long-term memory effect. However, it did not trigger an immediate effect on learning. A neurobiological model of long-term memory proposes a mechanism by which memories that are initially unstable can be strengthened through subsequent novel experiences. In a series of studies, we demonstrate NITESGON's capability to boost the retention of memories when applied shortly before, during, or shortly after the time of learning by enhancing memory consolidation via activation and communication in and between the locus coeruleus pathway and hippocampus by plausibly modulating dopaminergic input. These findings may have a significant impact for neurocognitive disorders that inhibit memory consolidation such as Alzheimer's disease.",
+        "Keywords": [
+            "behavioral tagging",
+            "brain stimulation",
+            "dopamine",
+            "human",
+            "interference",
+            "locus coeruleus",
+            "neuroscience"
+        ],
+        "MeSH terms": [
+            "Learning",
+            "Memory, Long-Term",
+            "Memory Consolidation",
+            "Hippocampus",
+            "Dopamine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alison M",
+                "Last Name": "Luckey",
+                "Affiliation": "Global Brain Health Institute and Institute of Neuroscience, Trinity College Dublin, Dublin, Ireland."
+            },
+            {
+                "First Name": "Lauren S",
+                "Last Name": "McLeod",
+                "Affiliation": "School of Medicine, Texas Tech School of Medicine, Lubbock, United States."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, United States."
+            },
+            {
+                "First Name": "Anusha",
+                "Last Name": "Mohan",
+                "Affiliation": "Global Brain Health Institute and Institute of Neuroscience, Trinity College Dublin, Dublin, Ireland."
+            },
+            {
+                "First Name": "Sven",
+                "Last Name": "Vanneste",
+                "Affiliation": "Global Brain Health Institute and Institute of Neuroscience, Trinity College Dublin, Dublin, Ireland."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37034753",
+        "Title": "Recovery of inhibitory control prefrontal cortex function in inpatients with heroin use disorder: a 15-week longitudinal fMRI study.",
+        "Abstract": "Heroin addiction and related mortality impose a devastating toll on society, with little known about the neurobiology of this disease or its treatment. Poor inhibitory control is a common manifestation of prefrontal cortex (PFC) impairments in addiction, and its potential recovery following treatment is largely unknown in heroin (or any drug) addiction.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Ahmet O",
+                "Last Name": "Ceceli",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy Place, Box 1230, New York, NY 10029."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy Place, Box 1230, New York, NY 10029."
+            },
+            {
+                "First Name": "Pierre-Olivier",
+                "Last Name": "Gaudreault",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy Place, Box 1230, New York, NY 10029."
+            },
+            {
+                "First Name": "Natalie E",
+                "Last Name": "McClain",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy Place, Box 1230, New York, NY 10029."
+            },
+            {
+                "First Name": "Sarah G",
+                "Last Name": "King",
+                "Affiliation": "Department of Neuroscience, Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy Place, Box 1065, New York, NY 10029."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Kronberg",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy Place, Box 1230, New York, NY 10029."
+            },
+            {
+                "First Name": "Amelia",
+                "Last Name": "Brackett",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy Place, Box 1230, New York, NY 10029."
+            },
+            {
+                "First Name": "Gabriela N",
+                "Last Name": "Hoberman",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy Place, Box 1230, New York, NY 10029."
+            },
+            {
+                "First Name": "John H",
+                "Last Name": "Gray",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy Place, Box 1230, New York, NY 10029."
+            },
+            {
+                "First Name": "Eric L",
+                "Last Name": "Garland",
+                "Affiliation": "Center on Mindfulness and Integrative Health Intervention Development (C-MIIND), University of Utah, 395 S. 1500 East, Salt Lake City, UT 84108, USA."
+            },
+            {
+                "First Name": "Nelly",
+                "Last Name": "Alia-Klein",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy Place, Box 1230, New York, NY 10029."
+            },
+            {
+                "First Name": "Rita Z",
+                "Last Name": "Goldstein",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy Place, Box 1230, New York, NY 10029."
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36711659",
+        "Title": "Overdose mortality rates for opioids or stimulants are higher in males than females, controlling for rates of drug misuse: State-level data.",
+        "Abstract": "Drug overdoses from opioids like fentanyl and heroin and stimulant drugs such as methamphetamine and cocaine are a major cause of mortality in the United States, with potential sex differences across the lifespan.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Eduardo R",
+                "Last Name": "Butelman",
+                "Affiliation": "Neuropsychoimaging of Addiction and Related Conditions Research Program, Departments of Psychiatry and Neuroscience Icahn School of Medicine at Mount Sinai, New York, NY."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Neuropsychoimaging of Addiction and Related Conditions Research Program, Departments of Psychiatry and Neuroscience Icahn School of Medicine at Mount Sinai, New York, NY."
+            },
+            {
+                "First Name": "David H",
+                "Last Name": "Epstein",
+                "Affiliation": "National Institute on Drug Abuse (NIDA), Baltimore, MD."
+            },
+            {
+                "First Name": "Yavin",
+                "Last Name": "Shaham",
+                "Affiliation": "National Institute on Drug Abuse (NIDA), Baltimore, MD."
+            },
+            {
+                "First Name": "Rita Z",
+                "Last Name": "Goldstein",
+                "Affiliation": "Neuropsychoimaging of Addiction and Related Conditions Research Program, Departments of Psychiatry and Neuroscience Icahn School of Medicine at Mount Sinai, New York, NY."
+            },
+            {
+                "First Name": "Nora D",
+                "Last Name": "Volkow",
+                "Affiliation": "National Institute on Drug Abuse (NIDA), Baltimore, MD."
+            },
+            {
+                "First Name": "Nelly",
+                "Last Name": "Alia-Klein",
+                "Affiliation": "Neuropsychoimaging of Addiction and Related Conditions Research Program, Departments of Psychiatry and Neuroscience Icahn School of Medicine at Mount Sinai, New York, NY."
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36596194",
+        "Title": "Electron beam irradiation pretreatment enhances the formation of granular starch-phenolics complexes.",
+        "Abstract": "Starch-phenolics complex generated by the interaction between starch and phenolic acids had improved characteristics than the native starch, but the efficient preparation of such complex is still challenging. In this study, we proposed a new method for the preparation of starch-phenolics complexes under the pretreatment of electron beam irradiation (EBI). Four structurally similar monomeric phenolic acids including gallic acid (GA), 3,4-Dihydroxy-5-methoxybenzoic acid (3MGA), syringic acid (SA) and vanillic acid (VA), which naturally existed in Tartary buckwheat (TB) seeds, were complexed with native and EBI-pretreated TB starch. The results showed that the complexation between starch and 3MGA was the strongest, more than 30\u00a0mg of 3MGA was complexed with 1\u00a0g of starch. The complexation did not affect the particle morphology and A-type structure of starch, but changed the crystal structure order and promoted the strength of hydrogen bond, which may lead to the formation of granular complex. EBI pretreatment can significantly promote the complexation by enhancing hydrogen bonds as indicated by a broader band at 3500 \u223c 3100\u00a0cm",
+        "Keywords": [
+            "Crystal structure",
+            "Hydrogen bond",
+            "Interaction force",
+            "Particle characteristics",
+            "Phenolic hydroxyl groups amount",
+            "Physical modification",
+            "Retrogradation",
+            "Tartary buckwheat"
+        ],
+        "MeSH terms": [
+            "Starch",
+            "Spectroscopy, Fourier Transform Infrared",
+            "Electrons",
+            "Magnetic Resonance Spectroscopy",
+            "Particle Size",
+            "Phenols"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, 22 Xinong Road, 712100 Yangling, Shaanxi, People's Republic of China."
+            },
+            {
+                "First Name": "Qiuyan",
+                "Last Name": "Liu",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, 22 Xinong Road, 712100 Yangling, Shaanxi, People's Republic of China."
+            },
+            {
+                "First Name": "Jiangtao",
+                "Last Name": "Yu",
+                "Affiliation": "Yangling Hesheng Irradiation Technologies Company Limited, 6 Mengyang Road, 712100 Yangling, Shaanxi, People's Republic of China."
+            },
+            {
+                "First Name": "Qiang",
+                "Last Name": "Zhang",
+                "Affiliation": "College of Chemistry and Pharmacy, Northwest A&F University, 22 Xinong Road, 712100 Yangling, Shaanxi, People's Republic of China."
+            },
+            {
+                "First Name": "Caian",
+                "Last Name": "He",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, 22 Xinong Road, 712100 Yangling, Shaanxi, People's Republic of China. Electronic address: hecaian@nwafu.edu.cn."
+            },
+            {
+                "First Name": "Lin",
+                "Last Name": "Han",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, 22 Xinong Road, 712100 Yangling, Shaanxi, People's Republic of China. Electronic address: hanlin730@163.com."
+            },
+            {
+                "First Name": "Min",
+                "Last Name": "Wang",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, 22 Xinong Road, 712100 Yangling, Shaanxi, People's Republic of China. Electronic address: wangmin20050606@163.com."
+            }
+        ],
+        "Journal": "Food research international (Ottawa, Ont.)",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36200376",
+        "Title": "Common and distinct fronto-striatal volumetric changes in heroin and cocaine use disorders.",
+        "Abstract": "Different drugs of abuse impact the morphology of fronto-striatal dopaminergic targets in both common and unique ways. While dorsal striatal volume tracks with addiction severity across drug classes, opiates impact ventromedial prefrontal cortex (vmPFC) and nucleus accumbens (NAcc) neuroplasticity in preclinical models, and psychostimulants alter inhibitory control, rooted in cortical regions such as the inferior frontal gyrus (IFG). We hypothesized parallel grey matter volume changes associated with human heroin or cocaine use disorder: lower grey matter volume of vmPFC/NAcc in heroin use disorder and IFG in cocaine use disorder, and putamen grey matter volume to be associated with addiction severity measures (including craving) across both. In this cross-sectional study, we quantified grey matter volume (P < 0.05-corrected) in age/sex/IQ-matched individuals with heroin use disorder (n = 32, seven females), cocaine use disorder (n = 32, six females) and healthy controls (n = 32, six females) and compared fronto-striatal volume between groups using voxel-wise general linear models and non-parametric permutation-based tests. Overall, individuals with heroin use disorder had smaller vmPFC and NAcc/putamen volumes than healthy controls. Bilateral lower IFG grey matter volume patterns were specifically evident in cocaine versus heroin use disorders. Correlations between addiction severity measures and putamen grey matter volume did not reach nominal significance level in this sample. These results indicate alterations in dopamine-innervated regions (in the vmPFC and NAcc) in heroin addiction. For the first time we demonstrate lower IFG grey matter volume specifically in cocaine compared with heroin use disorder, suggesting a signature of reduced inhibitory control, which remains to be tested directly using select behavioural measures. Overall, results suggest substance-specific volumetric changes in human psychostimulant or opiate addiction, with implications for fine-tuning biomarker and treatment identification by primary drug of abuse.",
+        "Keywords": [
+            "addiction",
+            "grey matter",
+            "opiate",
+            "prefrontal cortex",
+            "stimulant",
+            "striatum"
+        ],
+        "MeSH terms": [
+            "Female",
+            "Humans",
+            "Heroin",
+            "Cross-Sectional Studies",
+            "Corpus Striatum",
+            "Gray Matter",
+            "Cocaine",
+            "Magnetic Resonance Imaging"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ahmet O",
+                "Last Name": "Ceceli",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Kronberg",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Pias",
+                "Last Name": "Malaker",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Pazia",
+                "Last Name": "Miller",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Sarah G",
+                "Last Name": "King",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Pierre-Olivier",
+                "Last Name": "Gaudreault",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Natalie",
+                "Last Name": "McClain",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Lily",
+                "Last Name": "Gabay",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Devarshi",
+                "Last Name": "Vasa",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Jeffrey H",
+                "Last Name": "Newcorn",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Defne",
+                "Last Name": "Ekin",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Nelly",
+                "Last Name": "Alia-Klein",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Rita Z",
+                "Last Name": "Goldstein",
+                "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            }
+        ],
+        "Journal": "Brain : a journal of neurology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35074132",
+        "Title": "Strong water-resistant, UV-blocking cellulose/glucomannan/lignin composite films inspired by natural LCC bonds.",
+        "Abstract": "Lignocellulose multi-component films were fabricated using cellulose nanofiber (CNF), konjac glucomannan (KGM), and alkali lignin (AL). Covalent bonds among these three lignocellulose components were constructed with epichlorohydrin (EPI) to achieve chemical cross-linking, which inspired by lignin-carbohydrate complex (LCC) bonds in natural wood. Chemical cross-linking enhanced the mechanical properties of the composite films, the tensile stress reached to 110.47\u00a0MPa and the tensile strain reached to 8.27%. The presence of hemicellulose and lignin in composite films contributed to the functionalities of the films. The composite film with 20\u00a0wt% AL blocked over 99% of both UVA and UVB, the water contact angle reached 110.38\u00b0, and no obvious swelling behavior was observed after soaking in water for 180\u00a0days. Composite films with strong water-resistance and UV-blocking have great potential for the related application.",
+        "Keywords": [
+            "Chemical cross-linking",
+            "Composite film",
+            "Lignocellulose",
+            "Multi-component"
+        ],
+        "MeSH terms": [
+            "Cellulose",
+            "Lignin",
+            "Mannans",
+            "Water"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lisha",
+                "Last Name": "Ma",
+                "Affiliation": "Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, International Innovation Center for Forest Chemicals and Materials, College of Light Industry and Food Engineering, Nanjing Forestry University, Nanjing 210037, China.. Electronic address: malisha@njfu.edu.cn."
+            },
+            {
+                "First Name": "Yelin",
+                "Last Name": "Zhu",
+                "Affiliation": "Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, International Innovation Center for Forest Chemicals and Materials, College of Light Industry and Food Engineering, Nanjing Forestry University, Nanjing 210037, China."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, International Innovation Center for Forest Chemicals and Materials, College of Light Industry and Food Engineering, Nanjing Forestry University, Nanjing 210037, China."
+            },
+            {
+                "First Name": "Lili",
+                "Last Name": "Zhang",
+                "Affiliation": "Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, International Innovation Center for Forest Chemicals and Materials, College of Light Industry and Food Engineering, Nanjing Forestry University, Nanjing 210037, China.. Electronic address: zhangll@njfu.edu.cn."
+            },
+            {
+                "First Name": "Zhiguo",
+                "Last Name": "Wang",
+                "Affiliation": "Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, International Innovation Center for Forest Chemicals and Materials, College of Light Industry and Food Engineering, Nanjing Forestry University, Nanjing 210037, China.. Electronic address: wzg@njfu.edu.cn."
+            }
+        ],
+        "Journal": "Carbohydrate polymers",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34871362",
+        "Title": "Intestinal IL-33 promotes platelet activity for neutrophil recruitment during acute inflammation.",
+        "Abstract": "Peripheral serotonin (5-HT) is mainly generated from the gastrointestinal tract and taken up and stored by platelets in the circulation. Although the gut is recognized as a major immune organ, how intestinal local immune responses control whole-body physiology via 5-HT remains unclear. Here, we show that intestinal inflammation enhances systemic platelet activation and blood coagulation. Intestinal epithelium damage induces elevated levels of the alarm cytokine interleukin-33 (IL-33), leading to platelet activation via promotion of gut-derived 5-HT release. More importantly, we found that loss of intestinal epithelial-derived IL-33 lowers peripheral 5-HT levels, resulting in compromised platelet activation and hemostasis. Functionally, intestinal IL-33 contributes to the recruitment of neutrophils to sites of acute inflammation by enhancing platelet activities. Genetic deletion of intestinal IL-33 or neutralization of peripheral IL-33 protects animals from lipopolysaccharide endotoxic shock through attenuated neutrophil extravasation. Therefore, our data establish a distinct role of intestinal IL-33 in activating platelets by promoting 5-HT release for systemic physiology and inflammation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Inflammation",
+            "Interleukin-33",
+            "Neutrophil Infiltration",
+            "Neutrophils",
+            "Serotonin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zuojia",
+                "Last Name": "Chen",
+                "Affiliation": "Experimental Immunology Branch and."
+            },
+            {
+                "First Name": "Jialie",
+                "Last Name": "Luo",
+                "Affiliation": "Experimental Immunology Branch and."
+            },
+            {
+                "First Name": "Jian",
+                "Last Name": "Li",
+                "Affiliation": "Experimental Immunology Branch and."
+            },
+            {
+                "First Name": "Girak",
+                "Last Name": "Kim",
+                "Affiliation": "Experimental Immunology Branch and."
+            },
+            {
+                "First Name": "Andy",
+                "Last Name": "Stewart",
+                "Affiliation": "Cancer and Inflammation Program, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD; and."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Chuan",
+                "Last Name": "Wu",
+                "Affiliation": "Experimental Immunology Branch and."
+            }
+        ],
+        "Journal": "Blood",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34182233",
+        "Title": "Polarity-specific high-definition transcranial direct current stimulation of the anterior and posterior default mode network improves remote memory retrieval.",
+        "Abstract": "Previous studies show that activity in the posterior default mode network (pDMN), including the posterior cingulate cortex and the precuneus, is correlated with the success of long-term episodic memory retrieval. However, the role of the anterior DMN (aDMN) including the medial prefrontal cortex is still unclear. Some studies show that activating the medial prefrontal cortex improves memory retrieval while other studies show deactivation of the medial prefrontal cortex in successful retrieval of episodic memories, suggesting a possible functional dissociation between the aDMN and pDMN.",
+        "Keywords": [
+            "Anodal stimulation",
+            "Cathodal stimulation",
+            "Medial prefrontal cortex",
+            "Posterior cingulate cortex"
+        ],
+        "MeSH terms": [
+            "Default Mode Network",
+            "Humans",
+            "Memory, Episodic",
+            "Memory, Long-Term",
+            "Mental Recall",
+            "Prefrontal Cortex",
+            "Transcranial Direct Current Stimulation",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "School of Behavioral and Brain Sciences, The University of Texas at Dallas, Richardson, TX, USA."
+            },
+            {
+                "First Name": "Anusha",
+                "Last Name": "Mohan",
+                "Affiliation": "Global Brain Health Institute, Trinity College Dublin, Dublin, Ireland; Trinity College Institute for Neuroscience, Trinity College Dublin, Dublin, Ireland; Lab for Clinical & Integrative Neuroscience, School of Psychology, Trinity College Dublin, Dublin, Ireland."
+            },
+            {
+                "First Name": "S Lauren",
+                "Last Name": "McLeod",
+                "Affiliation": "School of Behavioral and Brain Sciences, The University of Texas at Dallas, Richardson, TX, USA."
+            },
+            {
+                "First Name": "Alison M",
+                "Last Name": "Luckey",
+                "Affiliation": "Global Brain Health Institute, Trinity College Dublin, Dublin, Ireland; Trinity College Institute for Neuroscience, Trinity College Dublin, Dublin, Ireland; Lab for Clinical & Integrative Neuroscience, School of Psychology, Trinity College Dublin, Dublin, Ireland."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Hart",
+                "Affiliation": "School of Behavioral and Brain Sciences, The University of Texas at Dallas, Richardson, TX, USA."
+            },
+            {
+                "First Name": "Sven",
+                "Last Name": "Vanneste",
+                "Affiliation": "School of Behavioral and Brain Sciences, The University of Texas at Dallas, Richardson, TX, USA; Global Brain Health Institute, Trinity College Dublin, Dublin, Ireland; Trinity College Institute for Neuroscience, Trinity College Dublin, Dublin, Ireland; Lab for Clinical & Integrative Neuroscience, School of Psychology, Trinity College Dublin, Dublin, Ireland. Electronic address: sven.vanneste@tcd.ie."
+            }
+        ],
+        "Journal": "Brain stimulation",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33220232",
+        "Title": "Interleukin-33 Promotes Serotonin Release from Enterochromaffin Cells for Intestinal Homeostasis.",
+        "Abstract": "The gastrointestinal tract is known as the largest endocrine organ that encounters and integrates various immune stimulations and neuronal responses due to constant environmental challenges. Enterochromaffin (EC) cells, which function as chemosensors on the gut epithelium, are known to translate environmental cues into serotonin (5-HT) production, contributing to intestinal physiology. However, how immune signals participate in gut sensation and neuroendocrine response remains unclear. Interleukin-33 (IL-33) acts as an alarmin cytokine by alerting the system of potential environmental stresses. We here demonstrate that IL-33 induced instantaneous peristaltic movement and facilitated Trichuris muris expulsion. We found that IL-33 could be sensed by EC cells, inducing release of 5-HT. IL-33-mediated 5-HT release activated enteric neurons, subsequently promoting gut motility. Mechanistically, IL-33 triggered calcium influx via a non-canonical\u00a0signaling pathway specifically in EC cells to induce 5-HT secretion. Our data establish an immune-neuroendocrine axis in calibrating rapid 5-HT release for intestinal homeostasis.",
+        "Keywords": [
+            "IL-33",
+            "PLC-\u03b31",
+            "ST2",
+            "TRPA1",
+            "enterochromaffin cells",
+            "gut motility",
+            "helminth clearance",
+            "serotonin release"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Calcium Signaling",
+            "Enterochromaffin Cells",
+            "Homeostasis",
+            "Interleukin-33",
+            "Intestines",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Knockout",
+            "Neuroimmunomodulation",
+            "Neurons",
+            "Peristalsis",
+            "Serotonin",
+            "Trichuriasis",
+            "Trichuris"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zuojia",
+                "Last Name": "Chen",
+                "Affiliation": "Experimental Immunology Branch, National Cancer Institute, NIH, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Jialie",
+                "Last Name": "Luo",
+                "Affiliation": "Experimental Immunology Branch, National Cancer Institute, NIH, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Jian",
+                "Last Name": "Li",
+                "Affiliation": "Experimental Immunology Branch, National Cancer Institute, NIH, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Girak",
+                "Last Name": "Kim",
+                "Affiliation": "Experimental Immunology Branch, National Cancer Institute, NIH, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Andy",
+                "Last Name": "Stewart",
+                "Affiliation": "Cancer and Inflammation Program, Center for Cancer Research, National Cancer Institute, NIH, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Joseph F",
+                "Last Name": "Urban",
+                "Affiliation": "U.S. Department of Agriculture, Agricultural Research Service, Beltsville Human Nutrition Research Center, Diet, Genomics, and Immunology Laboratory, Beltsville, MD, USA."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, NIH, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Shan",
+                "Last Name": "Chen",
+                "Affiliation": "Retinal Neurophysiology Section, National Eye Institute, NIH, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Ling-Gang",
+                "Last Name": "Wu",
+                "Affiliation": "Synaptic Transmission Section, National Institute of Neurological Disorders and Stroke, NIH, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Chesler",
+                "Affiliation": "Sensory Cells and Circuits Section, National Center for Complementary and Integrative Health, NIH, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Giorgio",
+                "Last Name": "Trinchieri",
+                "Affiliation": "Cancer and Inflammation Program, Center for Cancer Research, National Cancer Institute, NIH, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Wei",
+                "Last Name": "Li",
+                "Affiliation": "Retinal Neurophysiology Section, National Eye Institute, NIH, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Chuan",
+                "Last Name": "Wu",
+                "Affiliation": "Experimental Immunology Branch, National Cancer Institute, NIH, Bethesda, MD, USA. Electronic address: chuan.wu@nih.gov."
+            }
+        ],
+        "Journal": "Immunity",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33148657",
+        "Title": "The peripheral effect of direct current stimulation on brain circuits involving memory.",
+        "Abstract": "An ongoing debate surrounding transcranial direct current stimulation (tDCS) of the scalp is whether it modulates brain activity both directly and in a regionally constrained manner enough to positively affect symptoms in patients with neurological disorders. One alternative explanation is that direct current stimulation affects neural circuits mainly indirectly, i.e., via peripheral nerves. Here, we report that noninvasive direct current stimulation indirectly affects neural circuits via peripheral nerves. In a series of studies, we show that direct current stimulation can cause activation of the greater occipital nerve (ON-tDCS) and augments memory via the ascending fibers of the occipital nerve to the locus coeruleus, promoting noradrenaline release. This noradrenergic pathway plays a key role in driving hippocampal activity by modifying functional connectivity supporting the consolidation of a memory event.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Sven",
+                "Last Name": "Vanneste",
+                "Affiliation": "Lab for Clinical and Integrative Neuroscience, School for Behavioral and Brain Sciences, University of Texas at Dallas, Richardson, TX, USA. sven.vanneste@tcd.ie."
+            },
+            {
+                "First Name": "Anusha",
+                "Last Name": "Mohan",
+                "Affiliation": "Global Brain Health Institute, Institute of Neuroscience, Trinity College Dublin, Dublin, Ireland."
+            },
+            {
+                "First Name": "Hye Bin",
+                "Last Name": "Yoo",
+                "Affiliation": "Lab for Clinical and Integrative Neuroscience, School for Behavioral and Brain Sciences, University of Texas at Dallas, Richardson, TX, USA."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Lab for Clinical and Integrative Neuroscience, School for Behavioral and Brain Sciences, University of Texas at Dallas, Richardson, TX, USA."
+            },
+            {
+                "First Name": "Alison M",
+                "Last Name": "Luckey",
+                "Affiliation": "Lab for Clinical and Integrative Neuroscience, School for Behavioral and Brain Sciences, University of Texas at Dallas, Richardson, TX, USA."
+            },
+            {
+                "First Name": "S Lauren",
+                "Last Name": "McLeod",
+                "Affiliation": "Lab for Clinical and Integrative Neuroscience, School for Behavioral and Brain Sciences, University of Texas at Dallas, Richardson, TX, USA."
+            },
+            {
+                "First Name": "Michel N",
+                "Last Name": "Tabet",
+                "Affiliation": "Neurobiology of Memory Lab, School for Behavioral and Brain Sciences, University of Texas at Dallas, Richardson, TX, USA."
+            },
+            {
+                "First Name": "Rimenez R",
+                "Last Name": "Souza",
+                "Affiliation": "Neurobiology of Memory Lab, School for Behavioral and Brain Sciences, University of Texas at Dallas, Richardson, TX, USA."
+            },
+            {
+                "First Name": "Christa K",
+                "Last Name": "McIntyre",
+                "Affiliation": "Neurobiology of Memory Lab, School for Behavioral and Brain Sciences, University of Texas at Dallas, Richardson, TX, USA."
+            },
+            {
+                "First Name": "Sandra",
+                "Last Name": "Chapman",
+                "Affiliation": "Center for Brain Health, School for Behavioral and Brain Sciences, University of Texas at Dallas, Richardson, TX, USA."
+            },
+            {
+                "First Name": "Ian H",
+                "Last Name": "Robertson",
+                "Affiliation": "Center for Brain Health, School for Behavioral and Brain Sciences, University of Texas at Dallas, Richardson, TX, USA."
+            },
+            {
+                "First Name": "Wing Ting",
+                "Last Name": "To",
+                "Affiliation": "Lab for Clinical and Integrative Neuroscience, School for Behavioral and Brain Sciences, University of Texas at Dallas, Richardson, TX, USA."
+            }
+        ],
+        "Journal": "Science advances",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "36132381",
+        "Title": "Customizing the reduction of individual graphene oxide flakes for precise work function tuning with meV precision.",
+        "Abstract": "Being able to precisely control the reduction of two-dimensional graphene oxide films will open exciting opportunities for tailor-making the functionality of nanodevices with on-demand properties. Here we report the meticulously controlled reduction of individual graphene oxide flakes ranging from single to seven layers through controlled laser irradiation. It is found that the reduction can be customized in such a precise way that the film thickness can be accurately thinned with sub-nanometer resolution, facilitated by extraordinary temperature gradients >10",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "School of Mathematics and Physics, Queens University Belfast Belfast BT7 1NN UK f.huang@qub.ac.uk."
+            },
+            {
+                "First Name": "Dengke",
+                "Last Name": "Ma",
+                "Affiliation": "NNU-SULI Thermal Energy Research Center (NSTER), Center for Quantum Transport and Thermal Energy Science (CQTES), School of Physics and Technology, Nanjing Normal University Nanjing 210023 China."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Turner",
+                "Affiliation": "School of Mathematics and Physics, Queens University Belfast Belfast BT7 1NN UK f.huang@qub.ac.uk."
+            },
+            {
+                "First Name": "Gavin E",
+                "Last Name": "Donnelly",
+                "Affiliation": "School of Mathematics and Physics, Queens University Belfast Belfast BT7 1NN UK f.huang@qub.ac.uk."
+            },
+            {
+                "First Name": "Joel M",
+                "Last Name": "Katzen",
+                "Affiliation": "School of Mathematics and Physics, Queens University Belfast Belfast BT7 1NN UK f.huang@qub.ac.uk."
+            },
+            {
+                "First Name": "William R",
+                "Last Name": "Hendren",
+                "Affiliation": "School of Mathematics and Physics, Queens University Belfast Belfast BT7 1NN UK f.huang@qub.ac.uk."
+            },
+            {
+                "First Name": "J Marty",
+                "Last Name": "Gregg",
+                "Affiliation": "School of Mathematics and Physics, Queens University Belfast Belfast BT7 1NN UK f.huang@qub.ac.uk."
+            },
+            {
+                "First Name": "Robert M",
+                "Last Name": "Bowman",
+                "Affiliation": "School of Mathematics and Physics, Queens University Belfast Belfast BT7 1NN UK f.huang@qub.ac.uk."
+            },
+            {
+                "First Name": "Lifa",
+                "Last Name": "Zhang",
+                "Affiliation": "NNU-SULI Thermal Energy Research Center (NSTER), Center for Quantum Transport and Thermal Energy Science (CQTES), School of Physics and Technology, Nanjing Normal University Nanjing 210023 China."
+            },
+            {
+                "First Name": "Gang",
+                "Last Name": "Zhang",
+                "Affiliation": "Institute of High Performance Computing, ASTAR Singapore 138632 Singapore."
+            },
+            {
+                "First Name": "Fumin",
+                "Last Name": "Huang",
+                "Affiliation": "School of Mathematics and Physics, Queens University Belfast Belfast BT7 1NN UK f.huang@qub.ac.uk."
+            }
+        ],
+        "Journal": "Nanoscale advances",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31353223",
+        "Title": "Neuropeptide CGRP Limits Group 2 Innate Lymphoid Cell Responses and Constrains Type 2 Inflammation.",
+        "Abstract": "Innate lymphocytes maintain tissue homeostasis at mucosal barriers, with group 2 innate lymphoid cells (ILC2s) producing type 2 cytokines and controlling helminth infection. While the molecular understanding of ILC2 responses has advanced, the complexity of microenvironmental factors impacting ILC2s is becoming increasingly apparent. Herein, we used single-cell analysis to explore the diversity of gene expression among lung lymphocytes during helminth infection. Following infection, we identified a subset of ILC2s that preferentially expressed Il5-encoding interleukin (IL)-5, together with Calca-encoding calcitonin gene-related peptide (CGRP) and its cognate receptor components. CGRP in concert with IL-33 and neuromedin U (NMU) supported IL-5 but constrained IL-13 expression and ILC2 proliferation. Without CGRP signaling, ILC2 responses and worm expulsion were enhanced. Collectively, these data point to CGRP as a context-dependent negative regulatory factor that shapes innate lymphocyte responses to alarmins and neuropeptides during type 2 innate immune responses.",
+        "Keywords": [
+            "CGRP",
+            "IL-33",
+            "NMU",
+            "Nippostrongylus brasiliensis",
+            "cytokines",
+            "host defense",
+            "immunoregulation",
+            "innate lymphoid cells",
+            "neuropeptides",
+            "single-cell RNA-seq"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cells, Cultured",
+            "Cytokines",
+            "Immunity, Innate",
+            "Inflammation",
+            "Interleukin-33",
+            "Lymphocytes",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Knockout",
+            "Neuropeptides",
+            "Nippostrongylus",
+            "Receptors, Calcitonin Gene-Related Peptide",
+            "Single-Cell Analysis",
+            "Strongylida Infections",
+            "Th2 Cells",
+            "Transplantation Chimera"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hiroyuki",
+                "Last Name": "Nagashima",
+                "Affiliation": "Lymphocyte Cell Biology Section, Molecular Immunology and Inflammation Branch, National Institute of Arthritis, Musculoskeletal and Skin Diseases, NIH, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Tanel",
+                "Last Name": "Mahlak\u00f5iv",
+                "Affiliation": "Jill Roberts Institute for Research in Inflammatory Bowel Disease, Joan and Sanford I. Weill Department of Medicine, Department of Microbiology and Immunology, Weill Cornell Medicine, Cornell University, New York, NY 10021, USA."
+            },
+            {
+                "First Name": "Han-Yu",
+                "Last Name": "Shih",
+                "Affiliation": "Lymphocyte Cell Biology Section, Molecular Immunology and Inflammation Branch, National Institute of Arthritis, Musculoskeletal and Skin Diseases, NIH, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Fred P",
+                "Last Name": "Davis",
+                "Affiliation": "Lymphocyte Cell Biology Section, Molecular Immunology and Inflammation Branch, National Institute of Arthritis, Musculoskeletal and Skin Diseases, NIH, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Francoise",
+                "Last Name": "Meylan",
+                "Affiliation": "Lymphocyte Cell Biology Section, Molecular Immunology and Inflammation Branch, National Institute of Arthritis, Musculoskeletal and Skin Diseases, NIH, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, NIH, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Oliver J",
+                "Last Name": "Harrison",
+                "Affiliation": "Metaorganism Immunity Section, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, NIH, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Chen",
+                "Last Name": "Yao",
+                "Affiliation": "Lymphocyte Cell Biology Section, Molecular Immunology and Inflammation Branch, National Institute of Arthritis, Musculoskeletal and Skin Diseases, NIH, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Yohei",
+                "Last Name": "Mikami",
+                "Affiliation": "Lymphocyte Cell Biology Section, Molecular Immunology and Inflammation Branch, National Institute of Arthritis, Musculoskeletal and Skin Diseases, NIH, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Joseph F",
+                "Last Name": "Urban",
+                "Affiliation": "US Department of Agriculture, Agricultural Research Service, Beltsville Human Nutrition Research Center, Diet, Genomics, and Immunology Laboratory, Beltsville, MD 20705-2350, USA."
+            },
+            {
+                "First Name": "Kathleen M",
+                "Last Name": "Caron",
+                "Affiliation": "Department of Cell Biology and Physiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+            },
+            {
+                "First Name": "Yasmine",
+                "Last Name": "Belkaid",
+                "Affiliation": "Metaorganism Immunity Section, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, NIH, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Yuka",
+                "Last Name": "Kanno",
+                "Affiliation": "Lymphocyte Cell Biology Section, Molecular Immunology and Inflammation Branch, National Institute of Arthritis, Musculoskeletal and Skin Diseases, NIH, Bethesda, MD 20892, USA. Electronic address: kannoy@mail.nih.gov."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Artis",
+                "Affiliation": "Jill Roberts Institute for Research in Inflammatory Bowel Disease, Joan and Sanford I. Weill Department of Medicine, Department of Microbiology and Immunology, Weill Cornell Medicine, Cornell University, New York, NY 10021, USA. Electronic address: dartis@med.cornell.edu."
+            },
+            {
+                "First Name": "John J",
+                "Last Name": "O'Shea",
+                "Affiliation": "Lymphocyte Cell Biology Section, Molecular Immunology and Inflammation Branch, National Institute of Arthritis, Musculoskeletal and Skin Diseases, NIH, Bethesda, MD 20892, USA. Electronic address: john.oshea@nih.gov."
+            }
+        ],
+        "Journal": "Immunity",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31351959",
+        "Title": "The effects of dielectric barrier discharge plasma on physicochemical and digestion properties of starch.",
+        "Abstract": "The effects of dielectric barrier discharge (DBD) plasma treatment on physicochemical and digestion properties of Tartary buckwheat (TBS), sorghum (SS), wheat (WS) and quinoa (QS) starches were investigated. Plasma treatment resulted in higher solubility and lower swelling capacity of the starch samples studied. Through XRD and FTIR analyses, the relative crystallinity of starch was increased by DBD plasma, while the crystalline type remained unchanged. It was observed from SEM that more fissures and holes appeared for TBS and SS granules, and granule aggregation occurred for WS and QS caused by plasma treatment, both of which made digestion enzymes more accessible to the four starches. In addition, a marked increase in gelatinization temperature and significant reduction in viscosity of plasma treated starches were found. Interestingly, the increased enzyme accessibility and decreased viscosity of starch were consistent with the enhanced starch digestibility that was suggested by the increased RDS content, digestion rate and digestion velocity constant. Therefore, the DBD plasma treatment on starch may be not in favor of postprandial blood sugar control, but it is suggested to be applied in some industrial processes that need acceleration in starch hydrolyzation, such as bioethanol production, brewing and food fermentation.",
+        "Keywords": [
+            "DBD plasma",
+            "Physicochemical properties",
+            "Starch digestion"
+        ],
+        "MeSH terms": [
+            "Amylose",
+            "Chemical Phenomena",
+            "Digestion",
+            "Hydrolysis",
+            "Plasma Gases",
+            "Spectrum Analysis",
+            "Starch",
+            "Thermogravimetry"
+        ],
+        "Authors": [
+            {
+                "First Name": "Shanshan",
+                "Last Name": "Gao",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China."
+            },
+            {
+                "First Name": "Hang",
+                "Last Name": "Liu",
+                "Affiliation": "State Key Laboratory of Microbial Metabolism and Ministry of Education Key Laboratory of System Biomedicine, School of Life Science and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
+            },
+            {
+                "First Name": "Lijun",
+                "Last Name": "Sun",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China."
+            },
+            {
+                "First Name": "Na",
+                "Last Name": "Liu",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China."
+            },
+            {
+                "First Name": "Jiao",
+                "Last Name": "Wang",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China."
+            },
+            {
+                "First Name": "Fuying",
+                "Last Name": "Wang",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China."
+            },
+            {
+                "First Name": "Junwei",
+                "Last Name": "Cao",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China."
+            },
+            {
+                "First Name": "Rui",
+                "Last Name": "Fan",
+                "Affiliation": "Key Laboratory of Physical Electronics and Devices of the Ministry of Education, Xi'an Jiaotong University, Xi'an, Shaanxi 710049, China; School of Electronic and Information Engineering, Xi'an Jiaotong University, Xi'an, Shaanxi 710049, China."
+            },
+            {
+                "First Name": "Xiaoning",
+                "Last Name": "Zhang",
+                "Affiliation": "Key Laboratory of Physical Electronics and Devices of the Ministry of Education, Xi'an Jiaotong University, Xi'an, Shaanxi 710049, China; School of Electronic and Information Engineering, Xi'an Jiaotong University, Xi'an, Shaanxi 710049, China."
+            },
+            {
+                "First Name": "Min",
+                "Last Name": "Wang",
+                "Affiliation": "College of Food Science and Engineering, Northwest A&F University, Yangling 712100, China. Electronic address: wangmin20050606@163.com."
+            }
+        ],
+        "Journal": "International journal of biological macromolecules",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31053504",
+        "Title": "The Chemoattractant Receptor Ebi2 Drives Intranodal Naive CD4",
+        "Abstract": "Lymph nodes (LNs) play critical roles in adaptive immunity by concentrating in one location the antigens, antigen-presenting cells, and antigen-responsive lymphocytes involved in such responses. Recent studies have revealed nonrandom localization of innate and adaptive immune cells within these organs, suggesting that microanatomical positioning optimizes responses involving sparse cooperating cells. Here, we report that the peripheral localization of LN cDC2 dendritic cells specialized for MHC-II antigen presentation is matched by a similarly biased paracortical distribution of CD4",
+        "Keywords": [
+            "CD4(+) T\u00a0cells",
+            "Ebi2",
+            "antigen search",
+            "cDC2 dendritic cells",
+            "lymph node",
+            "spatial distribution"
+        ],
+        "MeSH terms": [
+            "Adaptive Immunity",
+            "Animals",
+            "Antigen Presentation",
+            "Antigens",
+            "CD4-Positive T-Lymphocytes",
+            "CD8-Positive T-Lymphocytes",
+            "Cell Differentiation",
+            "Dendritic Cells",
+            "Histocompatibility Antigens Class II",
+            "Lymph Nodes",
+            "Mice",
+            "Mice, Inbred BALB C",
+            "Mice, Inbred C57BL",
+            "Mice, Knockout",
+            "Receptors, G-Protein-Coupled"
+        ],
+        "Authors": [
+            {
+                "First Name": "Antonio P",
+                "Last Name": "Baptista",
+                "Affiliation": "Lymphocyte Biology Section, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Anita",
+                "Last Name": "Gola",
+                "Affiliation": "Lymphocyte Biology Section, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Lymphocyte Biology Section, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Pedro",
+                "Last Name": "Milanez-Almeida",
+                "Affiliation": "Lymphocyte Biology Section, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Parizad",
+                "Last Name": "Torabi-Parizi",
+                "Affiliation": "Lymphocyte Biology Section, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA; Critical Care Medicine Department, Clinical Center, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Joseph F",
+                "Last Name": "Urban",
+                "Affiliation": "Diet, Genomics, and Immunology Laboratory, Beltsville Human Nutrition Research Center, Agricultural Research Service, US Department of Agriculture, Beltsville, MD 20705, USA."
+            },
+            {
+                "First Name": "Virginia S",
+                "Last Name": "Shapiro",
+                "Affiliation": "Department of Immunology, Mayo Clinic, Rochester, MN 55905, USA."
+            },
+            {
+                "First Name": "Michael Y",
+                "Last Name": "Gerner",
+                "Affiliation": "Lymphocyte Biology Section, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Ronald N",
+                "Last Name": "Germain",
+                "Affiliation": "Lymphocyte Biology Section, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA. Electronic address: rgermain@niaid.nih.gov."
+            }
+        ],
+        "Journal": "Immunity",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30472437",
+        "Title": "ILC2s - resident lymphocytes pre-adapted to a specific tissue or migratory effectors that adapt to where they move?",
+        "Abstract": "A cardinal feature of the T-cell adaptive immune system is the antigen-dependent activation of na\u00efve T cells in secondary lymphoid sites, followed by the migration of the resultant effector cells through the efferent lymph to the blood and then into a peripheral tissue site of infection or tumor growth. In contrast, the current view of innate lymphocytes (ILCs), the innate counterparts of T cells, is that they are tissue-resident cells, adapted to their specific environments during development and performing their effector functions locally upon cytokine stimulation. Here we present recent findings that challenge the latter as defining the properties of ILCs, at least ILC2s. Our studies show that IL-25, administrated experimentally or generated in response to helminth infection, triggers local proliferation and activation of intestinal ILC2s that are the precursors to inflammatory ILC2 (iILC2) cells. These cells downregulate CD69 expression, upregulate S1P receptors and move across the villus lymphatic endothelium in an S1P-depndent manner. They subsequently enter the blood stream, through which they traffic to distant organs such as the liver and lung. In the lung, these iILC2 cells play a crucial role in host defense during the pulmonary stage of helminth infection. In the later stage of infection, a fraction of the iILC2 cells phenotypically convert into lung-resident natural ILC2 (nILC2)-like cells while another fraction homes back to their original location in the small intestine. These data support the view that ILC2s possess properties considered characteristic of adaptive T lymphocytes, namely local activation and distant effector function, but in response to alarm cytokines instead of specific antigen. These findings also raise questions about whether other ILC subsets show similar trafficking potential when suitably challenged, the extent to which such cells show plasticity in adapting to new tissue environments beyond the course of early development, and the relative roles of organ-resident versus migratory ILCs in host defense.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adaptive Immunity",
+            "Animals",
+            "Biological Evolution",
+            "Cell Movement",
+            "Cellular Microenvironment",
+            "Cytokines",
+            "Helminthiasis",
+            "Host-Pathogen Interactions",
+            "Humans",
+            "Immunity, Innate",
+            "Intestinal Mucosa",
+            "Lymphocyte Activation",
+            "Lymphocytes",
+            "Th2 Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ronald N",
+                "Last Name": "Germain",
+                "Affiliation": "Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA. Electronic address: RGERMAIN@niaid.nih.gov."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA. Electronic address: yh3102@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Current opinion in immunology",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30367247",
+        "Title": "Meta-analysis of functional subdivisions within human posteromedial cortex.",
+        "Abstract": "The posteromedial cortex (PMC)-comprising posterior cingulate cortex (PCC), retrosplenial cortex (RSC), and the precuneus (PrC)-is perhaps best known for its involvement in the default mode network. There is no consensus regarding the specific functions of PMC, however, and its component regions each exhibit distinct, but partially overlapping functional profiles. To date, there has been minimal effort to disentangle the functions of these regions. In the present study, we use Neurosynth ( http://neurosynth.org ) to conduct an unbiased meta-analysis of the PMC based on fMRI coactivation and semantic information extracted from 11,406 studies. Our analyses revealed six PMC clusters with distinct functional profiles: superior and inferior dorsal PCC, anterior and posterior PrC, ventral PCC, and RSC. We discuss these findings in the context of the existing literature and suggest several fruitful avenues for continued research.",
+        "Keywords": [
+            "Default mode network",
+            "Posterior cingulate cortex",
+            "Precuneus",
+            "Retrosplenial cortex"
+        ],
+        "MeSH terms": [
+            "Brain Mapping",
+            "Databases, Factual",
+            "Gyrus Cinguli",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Nerve Net",
+            "Neural Pathways",
+            "Parietal Lobe"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Lab for Clinical and Integrative Neuroscience, School of Behavioral and Brain Science, University of Texas at Dallas, 800 W Campbell Rd, Richardson, TX, 75080, USA."
+            },
+            {
+                "First Name": "Jeffrey",
+                "Last Name": "Hullfish",
+                "Affiliation": "Lab for Clinical and Integrative Neuroscience, School of Behavioral and Brain Science, University of Texas at Dallas, 800 W Campbell Rd, Richardson, TX, 75080, USA."
+            },
+            {
+                "First Name": "Dirk",
+                "Last Name": "De Ridder",
+                "Affiliation": "Department of Surgical Sciences, Dunedin School of Medicine, University of Otago, Dunedin, New Zealand."
+            },
+            {
+                "First Name": "Sven",
+                "Last Name": "Vanneste",
+                "Affiliation": "Lab for Clinical and Integrative Neuroscience, School of Behavioral and Brain Science, University of Texas at Dallas, 800 W Campbell Rd, Richardson, TX, 75080, USA. sven.vanneste@utdallas.edu."
+            }
+        ],
+        "Journal": "Brain structure & function",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30294968",
+        "Title": "Thinking differently about ILCs-Not just tissue resident and not just the same as CD4",
+        "Abstract": "Innate lymphoid cells (ILCs) resemble adaptive T lymphocytes based on transcription factor expression, cytokine production, and their presumptive roles in immunity, but are activated for effector function through cytokine signaling and not antigen-specific receptors. The prevailing view is that ILCs adapt to specific microenvironments during development and operate as tissue-resident cells in co-operation with antigen-specific T cells to provide host protection and contribute to tissue maintenance. In particular, conventional models equate the activity of different ILC subsets with CD4",
+        "Keywords": [
+            "host-pathogen interaction",
+            "innate lymphoid cells",
+            "mucosa"
+        ],
+        "MeSH terms": [
+            "Adaptive Immunity",
+            "Animals",
+            "Cell Movement",
+            "Homeostasis",
+            "Humans",
+            "Immunity, Innate",
+            "Infections",
+            "Intestinal Mucosa",
+            "Lung",
+            "Lymphocytes",
+            "Microbiota",
+            "Th17 Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, National institute of Health, Bethesda, Maryland."
+            },
+            {
+                "First Name": "Kairui",
+                "Last Name": "Mao",
+                "Affiliation": "Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, National institute of Health, Bethesda, Maryland."
+            },
+            {
+                "First Name": "Ronald N",
+                "Last Name": "Germain",
+                "Affiliation": "Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, National institute of Health, Bethesda, Maryland."
+            }
+        ],
+        "Journal": "Immunological reviews",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29812895",
+        "Title": "Rigorous and Accurate Contrast Spectroscopy for Ultimate Thickness Determination of Micrometer-Sized Graphene on Gold and Molecular Sensing.",
+        "Abstract": "The thickness of graphene films can be accurately determined by optical contrast spectroscopy. However, this becomes challenging and complicated when the flake size reduces to the micrometer scale, where the contrast spectrum is sensitively dependent on the polarization and incident angle of light. Here, we report accurate measurement of the optical contrast spectra of micrometer-sized few-layer graphene flakes on Au substrate. Using a high-resolution optical microscopy with a 100\u00d7 magnification objective, we accurately determined the layer numbers of flakes as small as one micrometer in lateral size. We developed a theoretical model to accurately take into account the appropriate contribution of light incident at various angles and polarizations, which matched the experimental results extremely well. Furthermore, we demonstrate that the optical contrast spectroscopy is highly sensitive to detect the adsorption of submonolayer airborne hydrocarbon molecules, which can reveal whether graphene is contaminated. Though the technique was demonstrated on graphene, it can be readily generalized to many other two-dimensional materials, which opens new avenues for developing miniaturized and ultrasensitive label-free molecular sensors.",
+        "Keywords": [
+            "airborne contamination",
+            "gold",
+            "graphene",
+            "molecular sensor",
+            "optical contrast"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Joel M",
+                "Last Name": "Katzen",
+                "Affiliation": "School of Mathematics and Physics , Queen's University Belfast , Belfast BT7 1NN , United Kingdom."
+            },
+            {
+                "First Name": "Mat\u011bj",
+                "Last Name": "Velick\u00fd",
+                "Affiliation": "School of Mathematics and Physics , Queen's University Belfast , Belfast BT7 1NN , United Kingdom."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "School of Mathematics and Physics , Queen's University Belfast , Belfast BT7 1NN , United Kingdom."
+            },
+            {
+                "First Name": "Stacey",
+                "Last Name": "Drakeley",
+                "Affiliation": "School of Mathematics and Physics , Queen's University Belfast , Belfast BT7 1NN , United Kingdom."
+            },
+            {
+                "First Name": "William",
+                "Last Name": "Hendren",
+                "Affiliation": "School of Mathematics and Physics , Queen's University Belfast , Belfast BT7 1NN , United Kingdom."
+            },
+            {
+                "First Name": "Robert M",
+                "Last Name": "Bowman",
+                "Affiliation": "School of Mathematics and Physics , Queen's University Belfast , Belfast BT7 1NN , United Kingdom."
+            },
+            {
+                "First Name": "Qiran",
+                "Last Name": "Cai",
+                "Affiliation": "Institute for Frontier Materials , Deakin University , Waurn Ponds , Victoria 3216 , Australia."
+            },
+            {
+                "First Name": "Ying",
+                "Last Name": "Chen",
+                "Affiliation": "Institute for Frontier Materials , Deakin University , Waurn Ponds , Victoria 3216 , Australia."
+            },
+            {
+                "First Name": "Lu Hua",
+                "Last Name": "Li",
+                "Affiliation": "Institute for Frontier Materials , Deakin University , Waurn Ponds , Victoria 3216 , Australia."
+            },
+            {
+                "First Name": "Fumin",
+                "Last Name": "Huang",
+                "Affiliation": "School of Mathematics and Physics , Queen's University Belfast , Belfast BT7 1NN , United Kingdom."
+            }
+        ],
+        "Journal": "ACS applied materials & interfaces",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29364878",
+        "Title": "Innate and adaptive lymphocytes sequentially shape the gut microbiota and lipid metabolism.",
+        "Abstract": "The mammalian gut is colonized by numerous microorganisms collectively termed the microbiota, which have a mutually beneficial relationship with their host. Normally, the gut microbiota matures during ontogeny to a state of balanced commensalism marked by the absence of adverse inflammation. Subsets of innate lymphoid cells (ILCs) and conventional T cells are considered to have redundant functions in containment and clearance of microbial pathogens, but how these two major lymphoid-cell populations each contribute to shaping the mature commensal microbiome and help to maintain tissue homeostasis has not been determined. Here we identify, using advanced multiplex quantitative imaging methods, an extensive and persistent phosphorylated-STAT3 signature in group 3 ILCs and intestinal epithelial cells that is induced by interleukin (IL)-23 and IL-22 in mice that lack CD4",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adaptive Immunity",
+            "Animals",
+            "CD4-Positive T-Lymphocytes",
+            "Epithelial Cells",
+            "Gastrointestinal Microbiome",
+            "Homeodomain Proteins",
+            "Homeostasis",
+            "Immunity, Innate",
+            "Inflammation",
+            "Interleukin-23",
+            "Interleukins",
+            "Intestine, Small",
+            "Lipid Metabolism",
+            "Lymphocyte Activation",
+            "Lymphocytes",
+            "Male",
+            "Mice",
+            "Monocytes",
+            "Phosphorylation",
+            "Receptors, CCR2",
+            "STAT3 Transcription Factor",
+            "Symbiosis",
+            "T-Lymphocytes, Regulatory",
+            "Th17 Cells",
+            "Weaning",
+            "Interleukin-22"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kairui",
+                "Last Name": "Mao",
+                "Affiliation": "Lymphocyte Biology Section, Laboratory of Systems Biology, National Institute of Allergy and Infectious Disease, National Institutes of Health, Bethesda, Maryland 20892, USA."
+            },
+            {
+                "First Name": "Antonio P",
+                "Last Name": "Baptista",
+                "Affiliation": "Lymphocyte Biology Section, Laboratory of Systems Biology, National Institute of Allergy and Infectious Disease, National Institutes of Health, Bethesda, Maryland 20892, USA."
+            },
+            {
+                "First Name": "Samira",
+                "Last Name": "Tamoutounour",
+                "Affiliation": "Mucosal Immunology Section, Laboratory of Parasitic Diseases, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland 20892, USA."
+            },
+            {
+                "First Name": "Lenan",
+                "Last Name": "Zhuang",
+                "Affiliation": "Laboratory of Endocrinology and Receptor Biology, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, Maryland 20892, USA."
+            },
+            {
+                "First Name": "Nicolas",
+                "Last Name": "Bouladoux",
+                "Affiliation": "Mucosal Immunology Section, Laboratory of Parasitic Diseases, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland 20892, USA."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Martins",
+                "Affiliation": "Systems Genomics and Bioinformatics Unit, Laboratory of Systems Biology, National Institute of Allergy and Infectious Disease, National Institutes of Health, Bethesda, Maryland 20892, USA."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland 20892, USA."
+            },
+            {
+                "First Name": "Michael Y",
+                "Last Name": "Gerner",
+                "Affiliation": "Department of Immunology, University of Washington School of Medicine, Seattle, Washington 98109, USA."
+            },
+            {
+                "First Name": "Yasmine",
+                "Last Name": "Belkaid",
+                "Affiliation": "Mucosal Immunology Section, Laboratory of Parasitic Diseases, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland 20892, USA."
+            },
+            {
+                "First Name": "Ronald N",
+                "Last Name": "Germain",
+                "Affiliation": "Lymphocyte Biology Section, Laboratory of Systems Biology, National Institute of Allergy and Infectious Disease, National Institutes of Health, Bethesda, Maryland 20892, USA."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29343732",
+        "Title": "The neural correlates of the unified percept of alcohol-related craving: a fMRI and EEG study.",
+        "Abstract": "Alcohol addiction is accompanied by aberrant neural activity. Previously, task-based fMRI and resting-state EEG studies have revealed that craving, a critical component of addiction, is linked to abnormal activity in cortical regions including the dorsal anterior cingulate cortex (dACC), nucleus accumbens (NAcc), posterior cingulate cortex (PCC) and pregenual anterior cingulate cortex (pgACC), etc. In this study, we combine these two imaging techniques to investigate a group of alcohol-addicted patients and provide convergent evidence for the neural correlates of craving not only in alcohol but substance abuse in general. We observe abnormal BOLD signal levels in the dACC, NAcc, pgACC, PCC, amygdala, and parahippocampus (PHC) in a cue-reactivity fMRI experiment. These findings are consistent with increased beta-band activity in the dACC and pgACC in resting-state EEG. We further observe desynchronization characterized by decreased functional connectivity in cue-based fMRI and hypersynchronization characterized by increased functional connectivity between these regions in the theta frequency band. The results of our study show a consistent pattern of alcohol craving elicited by external cues and internal desires. Given the advantage of superior spatial and temporal resolution, we hypothesize a \"central craving network\" that integrates the different aspects of alcohol addiction into a unified percept.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alcoholism",
+            "Behavior, Addictive",
+            "Brain",
+            "Brain Mapping",
+            "Craving",
+            "Cues",
+            "Electroencephalography",
+            "Ethanol",
+            "Female",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Middle Aged",
+            "Oxygen"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Lab for Clinical & Integrative Neuroscience, School of Behavioral and Brain Sciences, The University of Texas at, Dallas, USA."
+            },
+            {
+                "First Name": "Anusha",
+                "Last Name": "Mohan",
+                "Affiliation": "Lab for Clinical & Integrative Neuroscience, School of Behavioral and Brain Sciences, The University of Texas at, Dallas, USA."
+            },
+            {
+                "First Name": "Dirk",
+                "Last Name": "De Ridder",
+                "Affiliation": "Department of Surgical Sciences, Section of Neurosurgery, Dunedin School of Medicine, University of Otago, Dunedin, New Zealand."
+            },
+            {
+                "First Name": "Stefan",
+                "Last Name": "Sunaert",
+                "Affiliation": "Translational MRI, Department of Imaging and Pathology & Medical Imaging Research Center, Department of Radiology, Katholieke Universiteit Leuven - University of Leuven, Leuven, Belgium."
+            },
+            {
+                "First Name": "Sven",
+                "Last Name": "Vanneste",
+                "Affiliation": "Lab for Clinical & Integrative Neuroscience, School of Behavioral and Brain Sciences, The University of Texas at, Dallas, USA. sven.vanneste@utdallas.edu."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29302015",
+        "Title": "S1P-dependent interorgan trafficking of group 2 innate lymphoid cells supports host defense.",
+        "Abstract": "Innate lymphoid cells (ILCs) are innate counterparts of adaptive T lymphocytes, contributing to host defense, tissue repair, metabolic homeostasis, and inflammatory diseases. ILCs have been considered to be tissue-resident cells, but whether ILCs move between tissue sites during infection has been unclear. We show here that interleukin-25- or helminth-induced inflammatory ILC2s are circulating cells that arise from resting ILC2s residing in intestinal lamina propria. They migrate to diverse tissues based on sphingosine 1-phosphate (S1P)-mediated chemotaxis that promotes lymphatic entry, blood circulation, and accumulation in peripheral sites, including the lung, where they contribute to anti-helminth defense and tissue repair. This ILC2 expansion and migration is a behavioral parallel to the antigen-driven proliferation and migration of adaptive lymphocytes to effector sites and indicates that ILCs complement adaptive immunity by providing both local and distant tissue protection during infection.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adaptive Immunity",
+            "Animals",
+            "Cell Proliferation",
+            "Chemotaxis",
+            "Female",
+            "Fingolimod Hydrochloride",
+            "Homeodomain Proteins",
+            "Homeostasis",
+            "Immunity, Innate",
+            "Immunosuppressive Agents",
+            "Interleukin-17",
+            "Intestines",
+            "Lung",
+            "Lymphocytes",
+            "Lysophospholipids",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Mutant Strains",
+            "Mucous Membrane",
+            "Nippostrongylus",
+            "Sphingosine",
+            "Strongylida Infections",
+            "T-Lymphocytes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Kairui",
+                "Last Name": "Mao",
+                "Affiliation": "Laboratory of Systems Biology, NIAID, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Xi",
+                "Last Name": "Chen",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Ming-An",
+                "Last Name": "Sun",
+                "Affiliation": "Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Takeshi",
+                "Last Name": "Kawabe",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Weizhe",
+                "Last Name": "Li",
+                "Affiliation": "Laboratory of Systems Biology, NIAID, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Usher",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Jinfang",
+                "Last Name": "Zhu",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Joseph F",
+                "Last Name": "Urban",
+                "Affiliation": "Diet, Genomics, and Immunology Laboratory, Beltsville Human Nutrition Research Center, Agricultural Research Service, U.S. Department of Agriculture (USDA), Beltsville, MD 20705, USA."
+            },
+            {
+                "First Name": "William E",
+                "Last Name": "Paul",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Ronald N",
+                "Last Name": "Germain",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health, Bethesda, MD 20892, USA. yuefeng.huang@nih.gov rgermain@niaid.nih.gov."
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28783663",
+        "Title": "Memory-phenotype CD4",
+        "Abstract": "Conventional CD4",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Takeshi",
+                "Last Name": "Kawabe",
+                "Affiliation": "Cytokine Biology Unit, Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA. takeshi.kawabe@nih.gov asher@niaid.nih.gov rgermain@niaid.nih.gov."
+            },
+            {
+                "First Name": "Dragana",
+                "Last Name": "Jankovic",
+                "Affiliation": "Immunobiology Section, Laboratory of Parasitic Diseases, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Shuko",
+                "Last Name": "Kawabe",
+                "Affiliation": "Cytokine Biology Unit, Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Cytokine Biology Unit, Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Ping-Hsien",
+                "Last Name": "Lee",
+                "Affiliation": "Cytokine Biology Unit, Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Hidehiro",
+                "Last Name": "Yamane",
+                "Affiliation": "Cytokine Biology Unit, Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Jinfang",
+                "Last Name": "Zhu",
+                "Affiliation": "Molecular and Cellular Immunoregulation Unit, Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Alan",
+                "Last Name": "Sher",
+                "Affiliation": "Immunobiology Section, Laboratory of Parasitic Diseases, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA. takeshi.kawabe@nih.gov asher@niaid.nih.gov rgermain@niaid.nih.gov."
+            },
+            {
+                "First Name": "Ronald N",
+                "Last Name": "Germain",
+                "Affiliation": "Cytokine Biology Unit, Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA. takeshi.kawabe@nih.gov asher@niaid.nih.gov rgermain@niaid.nih.gov."
+            },
+            {
+                "First Name": "William E",
+                "Last Name": "Paul",
+                "Affiliation": "Cytokine Biology Unit, Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            }
+        ],
+        "Journal": "Science immunology",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28490441",
+        "Title": "PD-1 regulates KLRG1",
+        "Abstract": "Group 2 innate lymphoid cells (ILC-2s) regulate immune responses to pathogens and maintain tissue homeostasis in response to cytokines. Positive regulation of ILC-2s through ICOS has been recently elucidated. We demonstrate here that PD-1 is an important negative regulator of KLRG1",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation",
+            "Homeodomain Proteins",
+            "Humans",
+            "Immunity, Innate",
+            "Lectins, C-Type",
+            "Lymphocyte Count",
+            "Lymphocyte Subsets",
+            "Lymphocytes",
+            "Mice, Inbred C57BL",
+            "Nippostrongylus",
+            "Parasites",
+            "Programmed Cell Death 1 Receptor",
+            "Receptors, Immunologic",
+            "STAT5 Transcription Factor",
+            "Signal Transduction",
+            "Strongylida Infections",
+            "Trans-Activators"
+        ],
+        "Authors": [
+            {
+                "First Name": "Samuel",
+                "Last Name": "Taylor",
+                "Affiliation": "Experimental Transplantation Immunology Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892."
+            },
+            {
+                "First Name": "Grace",
+                "Last Name": "Mallett",
+                "Affiliation": "Institute of Cellular Medicine, Newcastle University, Newcastle Upon Tyne, NE1 7RU, England, UK."
+            },
+            {
+                "First Name": "Chaido",
+                "Last Name": "Stathopoulou",
+                "Affiliation": "Institute of Cellular Medicine, Newcastle University, Newcastle Upon Tyne, NE1 7RU, England, UK."
+            },
+            {
+                "First Name": "Tania C",
+                "Last Name": "Felizardo",
+                "Affiliation": "Experimental Transplantation Immunology Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892."
+            },
+            {
+                "First Name": "Ming-An",
+                "Last Name": "Sun",
+                "Affiliation": "Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD 20892."
+            },
+            {
+                "First Name": "Evelyn L",
+                "Last Name": "Martin",
+                "Affiliation": "Institute of Cellular Medicine, Newcastle University, Newcastle Upon Tyne, NE1 7RU, England, UK."
+            },
+            {
+                "First Name": "Nathaniel",
+                "Last Name": "Zhu",
+                "Affiliation": "Experimental Transplantation Immunology Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892."
+            },
+            {
+                "First Name": "Emma L",
+                "Last Name": "Woodward",
+                "Affiliation": "Institute of Cellular Medicine, Newcastle University, Newcastle Upon Tyne, NE1 7RU, England, UK."
+            },
+            {
+                "First Name": "Martina S",
+                "Last Name": "Elias",
+                "Affiliation": "Institute of Cellular Medicine, Newcastle University, Newcastle Upon Tyne, NE1 7RU, England, UK."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Scott",
+                "Affiliation": "Institute of Cellular Medicine, Newcastle University, Newcastle Upon Tyne, NE1 7RU, England, UK."
+            },
+            {
+                "First Name": "Nick J",
+                "Last Name": "Reynolds",
+                "Affiliation": "Institute of Cellular Medicine, Newcastle University, Newcastle Upon Tyne, NE1 7RU, England, UK."
+            },
+            {
+                "First Name": "William E",
+                "Last Name": "Paul",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892."
+            },
+            {
+                "First Name": "Daniel H",
+                "Last Name": "Fowler",
+                "Affiliation": "Experimental Transplantation Immunology Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892."
+            },
+            {
+                "First Name": "Shoba",
+                "Last Name": "Amarnath",
+                "Affiliation": "Institute of Cellular Medicine, Newcastle University, Newcastle Upon Tyne, NE1 7RU, England, UK shoba.amarnath@ncl.ac.uk."
+            }
+        ],
+        "Journal": "The Journal of experimental medicine",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "26322482",
+        "Title": "Innate immunological function of TH2 cells in vivo.",
+        "Abstract": "Type 2 helper T cells (TH2 cells) produce interleukin 13 (IL-13) when stimulated by papain or house dust mite extract (HDM) and induce eosinophilic inflammation. This innate response is dependent on IL-33 but not T cell antigen receptors (TCRs). While type 2 innate lymphoid cells (ILC2 cells) are the dominant innate producers of IL-13 in naive mice, we found here that helminth-infected mice had more TH2 cells compared to uninfected mice, and thes e cells became major mediators of innate type 2 responses. TH2 cells made important contributions to HDM-induced antigen-nonspecific eosinophilic inflammation and protected mice recovering from infection with Ascaris suum against subsequent infection with the phylogenetically distant nematode Nippostrongylus brasiliensis. Our findings reveal a previously unappreciated role for effector TH2 cells during TCR-independent innate-like immune responses.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Flow Cytometry",
+            "Helminthiasis",
+            "Helminths",
+            "Immunity, Innate",
+            "Lung",
+            "Lymphocytes",
+            "Mice",
+            "Polymerase Chain Reaction",
+            "Th2 Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Liying",
+                "Last Name": "Guo",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Xi",
+                "Last Name": "Chen",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Jane",
+                "Last Name": "Hu-Li",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Joseph F",
+                "Last Name": "Urban",
+                "Affiliation": "United States Department of Agriculture, Agricultural Research Service, Beltsville Human Nutrition Research Center, Diet, Genomics, and Immunology Laboratory, Beltsville, Maryland, USA."
+            },
+            {
+                "First Name": "William E",
+                "Last Name": "Paul",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+            }
+        ],
+        "Journal": "Nature immunology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26232596",
+        "Title": "Inflammatory group 2 innate lymphoid cells.",
+        "Abstract": "Group 2 innate lymphoid cells (ILC2 cells) are able to produce type 2 cytokines and to mediate type 2 immune protection and tissue homeostasis. ILC2 cells have often been considered to be a single set of cells that respond to IL-33 and/or IL-25. Recent evidence now indicates that ILC2 cells can be grouped into two distinct subsets: homeostatic or natural ILC2s (nILC2 cells); and inflammatory ILC2 cells (iILC2 cells). nILC2 cells reside in barrier tissues and primarily respond to IL-33. They play critical roles not only in immune protection but also in tissue repair and beige fat biogenesis. iILC2 cells are not present in peripheral tissues in the steady state but can be elicited at many sites by helminth infection or IL-25 treatment. IL-25-elicited ilLC2 cells act as transient ILC progenitors with multipotency. They can be mobilized by distinct types of infections to develop into nILC2-like or ILC3-like cells, functioning in corresponding immune responses. The demonstration of the existence of iILC2 cells adds to our understanding of the complexity of ILC2 biology and makes necessary an analysis of the relationship between nILC2 cells and iILC2 cells.",
+        "Keywords": [
+            "IL-25",
+            "IL-33",
+            "ILC plasticity",
+            "iILC2",
+            "nILC2"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Helminthiasis",
+            "Homeostasis",
+            "Humans",
+            "Immunity",
+            "Inflammation",
+            "Interleukin-17",
+            "Interleukin-33",
+            "Lymphocytes",
+            "Th2 Cells",
+            "Wound Healing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA yuefeng.huang@nih.gov."
+            },
+            {
+                "First Name": "William E",
+                "Last Name": "Paul",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            }
+        ],
+        "Journal": "International immunology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "25617435",
+        "Title": "UXT potentiates angiogenesis by attenuating Notch signaling.",
+        "Abstract": "Angiogenesis is spatially and temporally orchestrated by a myriad of signaling pathways, including the Notch signaling pathway. Here, we identified UXT as an evolutionarily conserved and developmentally expressed protein, indispensable for intersegmental vessel (ISV) formation in zebrafish. Deficiency of UXT in zebrafish embryos results in shorter ISVs, loss of tip cell behavior, and impairment of endothelial cell migration and division. Significantly, UXT attenuates the expression of the Notch-responsive genes in vitro and in vivo. Mechanistically, UXT binds to the promoters of the Notch signaling target genes and specifically interacts with the transactivation region domain of the Notch intracellular domain (NICD), impairing the interaction between NICD and the transcription factor RBP-J\u03ba endogenously. This prevents RBP-J\u03ba/CSL from activation and thus inhibits the consequent gene inductions. Furthermore, blockade of Notch signaling rescues the angiogenesis defect caused by UXT knockdown both in vitro and in vivo. Taken together, the data presented in this study characterize UXT as a novel repressor of Notch signaling, shedding new light on the molecular regulation of angiogenesis.",
+        "Keywords": [
+            "Angiogenesis",
+            "HUVECs",
+            "Notch signaling",
+            "UXT",
+            "Zebrafish"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cell Division",
+            "Cell Movement",
+            "Human Umbilical Vein Endothelial Cells",
+            "Humans",
+            "Immunoglobulin J Recombination Signal Sequence-Binding Protein",
+            "Neovascularization, Physiologic",
+            "Receptors, Notch",
+            "Zebrafish",
+            "Zebrafish Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yi",
+                "Last Name": "Zhou",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200031, China State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200031, China."
+            },
+            {
+                "First Name": "Rui",
+                "Last Name": "Ge",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200031, China."
+            },
+            {
+                "First Name": "Rui",
+                "Last Name": "Wang",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200031, China."
+            },
+            {
+                "First Name": "Feng",
+                "Last Name": "Liu",
+                "Affiliation": "State Key Laboratory of Biomembrane and Membrane Biotechnology, Institute of Zoology, Chinese Academy of Sciences, Beijing 100101, China."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200031, China."
+            },
+            {
+                "First Name": "Heng",
+                "Last Name": "Liu",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200031, China."
+            },
+            {
+                "First Name": "Yan",
+                "Last Name": "Hao",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200031, China."
+            },
+            {
+                "First Name": "Qin",
+                "Last Name": "Zhou",
+                "Affiliation": "The Division of Molecular Nephrology and the Creative Training Center for Undergraduates, Chongqing Medical University, Chongqing 400016, China zhouqin@cqmu.edu.cn cwang01@sibcb.ac.cn."
+            },
+            {
+                "First Name": "Chen",
+                "Last Name": "Wang",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200031, China zhouqin@cqmu.edu.cn cwang01@sibcb.ac.cn."
+            }
+        ],
+        "Journal": "Development (Cambridge, England)",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25609812",
+        "Title": "Tom70 mediates Sendai virus-induced apoptosis on mitochondria.",
+        "Abstract": "Virus infection triggers immediate innate immune responses. Apoptosis represents another effective means to restrict virus invasion, besides robust expression of host cytokines and chemokines. IRF3 was recently demonstrated to be indispensable for Sendai virus (SeV)-induced apoptosis, but the underlying mechanism is not fully understood. Here we report that a dynamic protein complex, Tom70/Hsp90/IRF3/Bax, mediates SeV-induced apoptosis. The cytosolic proapoptotic protein Bax interacts specifically with IRF3 upon virus infection. The mitochondrial outer membrane protein Tom70 recruits IRF3 to mitochondria via Hsp90. Consequently, the relocation of Bax onto mitochondria induces the leakage of cytochrome c into the cytosol and initiates the corresponding apoptosis. Interestingly, IKK-i is essential for this apoptosis, whereas TBK1 is dispensable. Collectively, our study characterizes a novel protein complex that is important for SeV-induced apoptosis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Apoptosis",
+            "Cell Line",
+            "Cytochromes c",
+            "HSP90 Heat-Shock Proteins",
+            "Host-Pathogen Interactions",
+            "Humans",
+            "Interferon Regulatory Factor-3",
+            "Mice",
+            "Mitochondria",
+            "Mitochondrial Membrane Transport Proteins",
+            "Mitochondrial Precursor Protein Import Complex Proteins",
+            "Sendai virus",
+            "bcl-2-Associated X Protein"
+        ],
+        "Authors": [
+            {
+                "First Name": "Bo",
+                "Last Name": "Wei",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+            },
+            {
+                "First Name": "Ye",
+                "Last Name": "Cui",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+            },
+            {
+                "First Name": "Heng",
+                "Last Name": "Liu",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+            },
+            {
+                "First Name": "Lin",
+                "Last Name": "Li",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+            },
+            {
+                "First Name": "Mi",
+                "Last Name": "Li",
+                "Affiliation": "The Division of Molecular Nephrology and the Creative Training Center for Undergraduates, The M.O.E. Key Laboratory of Laboratory Medical Diagnostics, The College of Laboratory Medicine, Chongqing Medical University, Chongqing, China."
+            },
+            {
+                "First Name": "Kang-Cheng",
+                "Last Name": "Ruan",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+            },
+            {
+                "First Name": "Qin",
+                "Last Name": "Zhou",
+                "Affiliation": "The Division of Molecular Nephrology and the Creative Training Center for Undergraduates, The M.O.E. Key Laboratory of Laboratory Medical Diagnostics, The College of Laboratory Medicine, Chongqing Medical University, Chongqing, China zhouqin@cqmu.edu.cn cwang01@sibcb.ac.cn."
+            },
+            {
+                "First Name": "Chen",
+                "Last Name": "Wang",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China zhouqin@cqmu.edu.cn cwang01@sibcb.ac.cn."
+            }
+        ],
+        "Journal": "Journal of virology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25531830",
+        "Title": "IL-25-responsive, lineage-negative KLRG1(hi) cells are multipotential 'inflammatory' type 2 innate lymphoid cells.",
+        "Abstract": "Innate lymphoid cells (ILCs) are lymphocyte-like cells that lack T cell or B cell antigen receptors and mediate protective and repair functions through cytokine secretion. Among these, type 2 ILCs (ILC2 cells) are able to produce type 2 cytokines. We report the existence of an inflammatory ILC2 (iILC2) population responsive to interleukin 25 (IL-25) that complemented IL-33-responsive natural ILC2 (nILC2) cells. iILC2 cells developed into nILC2-like cells in vitro and in vivo and contributed to the expulsion of Nippostrongylus brasiliensis. They also acquired IL-17-producing ability and provided partial protection against Candida albicans. We propose that iILC2 cells are transient progenitors of ILCs mobilized by inflammation and infection that develop into nILC2-like cells or ILC3-like cells and contribute to immunity to both helminths and fungi.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Animals, Genetically Modified",
+            "Candida albicans",
+            "Candidiasis",
+            "Cell Lineage",
+            "Gene Deletion",
+            "Inflammation",
+            "Interleukin-17",
+            "Lectins, C-Type",
+            "Leukocytes",
+            "Lung",
+            "Lymphocytes",
+            "Mice",
+            "Nippostrongylus",
+            "Receptors, Immunologic",
+            "Receptors, Interleukin-7",
+            "Strongylida Infections"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Liying",
+                "Last Name": "Guo",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Jin",
+                "Last Name": "Qiu",
+                "Affiliation": "Laboratory of Clinical Infectious Diseases, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Xi",
+                "Last Name": "Chen",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Jane",
+                "Last Name": "Hu-Li",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Ulrich",
+                "Last Name": "Siebenlist",
+                "Affiliation": "Laboratory of Molecular Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Peter R",
+                "Last Name": "Williamson",
+                "Affiliation": "Laboratory of Clinical Infectious Diseases, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Joseph F",
+                "Last Name": "Urban",
+                "Affiliation": "Diet, Genomics, and Immunology Laboratory, Beltsville Human Nutrition Research Center, Agricultural Research Service, USDA, Beltsville, Maryland, USA."
+            },
+            {
+                "First Name": "William E",
+                "Last Name": "Paul",
+                "Affiliation": "Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+            }
+        ],
+        "Journal": "Nature immunology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "24651600",
+        "Title": "MAVS-MKK7-JNK2 defines a novel apoptotic signaling pathway during viral infection.",
+        "Abstract": "Viral infection induces innate immunity and apoptosis. Apoptosis is an effective means to sacrifice virus-infected host cells and therefore restrict the spread of pathogens. However, the underlying mechanisms of this process are still poorly understood. Here, we show that the mitochondrial antiviral signaling protein (MAVS/VISA/Cardif/IPS-1) is critical for SeV (Sendai virus)-induced apoptosis. MAVS specifically activates c-Jun N-terminal kinase 2 (JNK2) but not other MAP kinases. Jnk2-/- cells, but not Jnk1-/- cells, are unable to initiate virus-induced apoptosis and SeV further fails to trigger apoptosis in MAPK kinase 7 (MKK7) knockout (Mkk7-/-) cells. Mechanistically, MAVS recruits MKK7 onto mitochondria via its 3D domain, which subsequently phosphorylates JNK2 and thus activates the apoptosis pathway. Consistently, Jnk2-/- mice, but not Jnk1-/- mice, display marked inflammatory injury in lung and liver after viral challenge. Collectively, we have identified a novel signaling pathway, involving MAVS-MKK7-JNK2, which mediates virus-induced apoptosis and highlights the indispensable role of mitochondrial outer membrane in host defenses.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adaptor Proteins, Signal Transducing",
+            "Animals",
+            "Apoptosis",
+            "Blotting, Western",
+            "Humans",
+            "Immunohistochemistry",
+            "MAP Kinase Kinase 7",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Knockout",
+            "Microscopy, Confocal",
+            "Mitogen-Activated Protein Kinase 9",
+            "RNA, Small Interfering",
+            "Real-Time Polymerase Chain Reaction",
+            "Respirovirus Infections",
+            "Sendai virus",
+            "Signal Transduction",
+            "Transfection"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+            },
+            {
+                "First Name": "Heng",
+                "Last Name": "Liu",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+            },
+            {
+                "First Name": "Senlin",
+                "Last Name": "Li",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+            },
+            {
+                "First Name": "Yijun",
+                "Last Name": "Tang",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+            },
+            {
+                "First Name": "Bo",
+                "Last Name": "Wei",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+            },
+            {
+                "First Name": "Huansha",
+                "Last Name": "Yu",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+            },
+            {
+                "First Name": "Chen",
+                "Last Name": "Wang",
+                "Affiliation": "State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+            }
+        ],
+        "Journal": "PLoS pathogens",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "22131337",
+        "Title": "UXT-V1 facilitates the formation of MAVS antiviral signalosome on mitochondria.",
+        "Abstract": "Virus infection induces the MAVS-TNFR-associated factor (TRAF) 3 signaling axis on mitochondria. It remains to elucidate the corresponding regulatory processes. In this study, we identify UXT-V1 as a novel TRAF3-binding protein. UXT-V1 is critical for the virus-induced activation of NF-\u03baB and IFN regulatory factor 3. Reduction of UXT-V1 impairs the induction of IFN-\u03b2 and attenuates the host antiviral responses. The N-terminal TRAF-binding motif of UXT-V1 binds to the C-terminal TRAF domain of TRAF3, thus facilitating the interaction between TRAF3 and MAVS. Notably, TRAF3 and TNFR-associated death domain protein are recruited onto mitochondria upon virus infection. These translocations are blocked when knocking down UXT-V1. Thus, UXT-V1 represents a novel integral component of the MAVS signalosome on mitochondria, mediating the innate antiviral signal transduction.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adaptor Proteins, Signal Transducing",
+            "Amino Acid Motifs",
+            "Animals",
+            "Cell Cycle Proteins",
+            "HEK293 Cells",
+            "HeLa Cells",
+            "Humans",
+            "Interferon Regulatory Factor-3",
+            "Interferon-beta",
+            "Mice",
+            "Mitochondria",
+            "Molecular Chaperones",
+            "NF-kappa B",
+            "NIH 3T3 Cells",
+            "Neoplasm Proteins",
+            "Protein Binding",
+            "Signal Transduction",
+            "TNF Receptor-Associated Factor 3",
+            "Virus Diseases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+            },
+            {
+                "First Name": "Heng",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rui",
+                "Last Name": "Ge",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yi",
+                "Last Name": "Zhou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiwen",
+                "Last Name": "Lou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chen",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of immunology (Baltimore, Md. : 1950)",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21307340",
+        "Title": "UXT-V1 protects cells against TNF-induced apoptosis through modulating complex II formation.",
+        "Abstract": "Proteins that directly regulate tumor necrosis factor (TNF) signaling have critical roles in determining cell death and survival. Previously we characterized ubiquitously expressed transcript (UXT)-V2 as a novel transcriptional cofactor to regulate nuclear factor-\u03baB in the nucleus. Here we report that another splicing isoform of UXT, UXT-V1, localizes in cytoplasm and regulates TNF-induced apoptosis. UXT-V1 knockdown cells are hypersensitive to TNF-induced apoptosis. We demonstrated that UXT-V1 is a new component of TNF receptor signaling complex. We found that UXT-V1 binds to TNF receptor-associated factor 2 and prevents TNF receptor-associated death domain protein from recruiting Fas-associated protein with death domain. More importantly, UXT-V1 is a short-half-life protein, the degradation of which facilitates the formation of the apoptotic receptor complex II in response to TNF treatment. This study demonstrates that UXT-V1 is a novel regulator of TNF-induced apoptosis and sheds new light on the underlying molecular mechanism of this process.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Apoptosis",
+            "Cell Cycle Proteins",
+            "Cell Line, Transformed",
+            "Cell Nucleus",
+            "Cytoplasm",
+            "Female",
+            "Gene Expression Regulation",
+            "Gene Knockdown Techniques",
+            "Half-Life",
+            "Humans",
+            "Mice",
+            "Microscopy, Confocal",
+            "Molecular Chaperones",
+            "NF-kappa B",
+            "Neoplasm Proteins",
+            "Protein Binding",
+            "Protein Isoforms",
+            "Protein Structure, Tertiary",
+            "Receptors, Tumor Necrosis Factor, Type I",
+            "Signal Transduction",
+            "TNF Receptor-Associated Death Domain Protein",
+            "TNF Receptor-Associated Factor 2",
+            "Tumor Necrosis Factor-alpha"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200031, China."
+            },
+            {
+                "First Name": "Liang",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yi",
+                "Last Name": "Zhou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Heng",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jueqing",
+                "Last Name": "Yang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zhenggang",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chen",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular biology of the cell",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21098220",
+        "Title": "Negative feedback regulation of NF-\u03baB action by CITED2 in the nucleus.",
+        "Abstract": "NF-\u03baB is a family of important transcription factors that modulate immunity, development, inflammation, and cancer. The biological activity of NF-\u03baB is subjected to various spatial and temporal regulations. Bioinformatics analysis predicts that CITED2 is topologically close to NF-\u03baB in the protein interaction networks. In this study, we show that ectopic expression or knockdown of CITED2 attenuates or potentiates, respectively, the expression of NF-\u03baB-responsive genes. Mechanistically, CITED2 constitutively localizes inside the nucleus and interacts specifically with the coactivator p300. This prevents p65 from binding to p300, impairs p65 acetylation, and attenuates p65 binding to its cognate promoters. Furthermore, LPS induces CITED2 expression via NF-\u03baB in macrophages. CITED2 sensitizes cells to TNF-\u03b1-induced apoptosis. Collectively, this study identifies CITED2 as a novel regulator of NF-\u03baB in the nucleus, which reveals a negative feedback mechanism for NF-\u03baB signaling.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Line",
+            "Cell Nucleus",
+            "Down-Regulation",
+            "Feedback, Physiological",
+            "HEK293 Cells",
+            "Humans",
+            "Jurkat Cells",
+            "Lipopolysaccharides",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "NF-kappa B",
+            "Protein Interaction Mapping",
+            "Repressor Proteins",
+            "Signal Transduction",
+            "Trans-Activators"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xiwen",
+                "Last Name": "Lou",
+                "Affiliation": "Laboratory of Molecular Cell Biology, Institute of Biochemistry and Cell Biology, Chinese Academy of Sciences, Shanghai 200031, China."
+            },
+            {
+                "First Name": "Shaogang",
+                "Last Name": "Sun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wei",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yi",
+                "Last Name": "Zhou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xing",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yufei",
+                "Last Name": "Shan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chen",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of immunology (Baltimore, Md. : 1950)",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "19011765",
+        "Title": "HRGD: a database for mining potential heterosis-related genes in plants.",
+        "Abstract": "Heterosis-Related Gene Database (HRGD) is designed to manage the output of comparative transcriptomic studies related to heterosis (or hybrid vigor) among major agricultural crops, providing publicly available query and analysis platform for practical data mining. The database contains information concerning over 5,000 differentially expressed genes (DEGs) among the hybrid-parent tissue panels from rice genomes generated in our institute and other genomes of major cereal crops collected from published literatures. We have annotated relevant genes from manually extracted information includes not only gene sequences, genomic structures, and functional annotations but also empirical expression data generated based on various large-scale genomic methods. Tools for visualization and functional analysis of DEGs from various hybrid-parent tissue panels are also integrated via a user-friendly web interface. HRGD is a useful tool for helping plant biologists and crop breeders to explore biological knowledge that is being generated on a daily basis and in a large scale. The HRGD data resource is publicly available at http://hrgd.genomics.org.cn/ .",
+        "Keywords": [],
+        "MeSH terms": [
+            "Computational Biology",
+            "Databases, Genetic",
+            "Gene Expression Profiling",
+            "Hybrid Vigor",
+            "Software",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Shuhui",
+                "Last Name": "Song",
+                "Affiliation": "Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, 101300, China. songsh@genomics.org.cn"
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xuan",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gang",
+                "Last Name": "Wei",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hongzhu",
+                "Last Name": "Qu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Weiwei",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiaomeng",
+                "Last Name": "Ge",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Songnian",
+                "Last Name": "Hu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Guozhen",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yanchun",
+                "Last Name": "Liang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jun",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Plant molecular biology",
+        "PubDate": "2009"
+    }
+]

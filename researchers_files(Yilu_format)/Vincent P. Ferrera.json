@@ -1,0 +1,2830 @@
+[
+    {
+        "PMID": "38968113",
+        "Title": "A mathematical theory of relational generalization in transitive inference.",
+        "Abstract": "Humans and animals routinely infer relations between different items or events and generalize these relations to novel combinations of items. This allows them to respond appropriately to radically novel circumstances and is fundamental to advanced cognition. However, how learning systems (including the brain) can implement the necessary inductive biases has been unclear. We investigated transitive inference (TI), a classic relational task paradigm in which subjects must learn a relation ([Formula: see text] and [Formula: see text]) and generalize it to new combinations of items ([Formula: see text]). Through mathematical analysis, we found that a broad range of biologically relevant learning models (e.g. gradient flow or ridge regression) perform TI successfully and recapitulate signature behavioral patterns long observed in living subjects. First, we found that models with item-wise additive representations automatically encode transitive relations. Second, for more general representations, a single scalar \"conjunctivity factor\" determines model behavior on TI and, further, the principle of norm minimization (a standard statistical inductive bias) enables models with fixed, partly conjunctive representations to generalize transitively. Finally, neural networks in the \"rich regime,\" which enables representation learning and improves generalization on many tasks, unexpectedly show poor generalization and anomalous behavior on TI. We find that such networks implement a form of norm minimization (over hidden weights) that yields a local encoding mechanism lacking transitivity. Our findings show how minimal statistical learning principles give rise to a classical relational inductive bias (transitivity), explain empirically observed behaviors, and establish a formal approach to understanding the neural basis of relational abstraction.",
+        "Keywords": [
+            "compositional generalization",
+            "relational learning",
+            "relational representations",
+            "transitive inference"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Generalization, Psychological",
+            "Learning",
+            "Cognition",
+            "Models, Theoretical",
+            "Brain"
+        ],
+        "Authors": [
+            {
+                "First Name": "Samuel",
+                "Last Name": "Lippl",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "Kenneth",
+                "Last Name": "Kay",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Department of Neuroscience, Columbia University, New York, NY 10027."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38662797",
+        "Title": "Emergent neural dynamics and geometry for generalization in a transitive inference task.",
+        "Abstract": "Relational cognition-the ability to infer relationships that generalize to novel combinations of objects-is fundamental to human and animal intelligence. Despite this importance, it remains unclear how relational cognition is implemented in the brain due in part to a lack of hypotheses and predictions at the levels of collective neural activity and behavior. Here we discovered, analyzed, and experimentally tested neural networks (NNs) that perform transitive inference (TI), a classic relational task (if A > B and B > C, then A > C). We found NNs that (i) generalized perfectly, despite lacking overt transitive structure prior to training, (ii) generalized when the task required working memory (WM), a capacity thought to be essential to inference in the brain, (iii) emergently expressed behaviors long observed in living subjects, in addition to a novel order-dependent behavior, and (iv) expressed different task solutions yielding alternative behavioral and neural predictions. Further, in a large-scale experiment, we found that human subjects performing WM-based TI showed behavior inconsistent with a class of NNs that characteristically expressed an intuitive task solution. These findings provide neural insights into a classical relational ability, with wider implications for how the brain realizes relational cognition.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Neural Networks, Computer",
+            "Cognition",
+            "Brain",
+            "Memory, Short-Term",
+            "Models, Neurological",
+            "Computational Biology",
+            "Male",
+            "Adult",
+            "Female",
+            "Young Adult",
+            "Nerve Net",
+            "Task Performance and Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kenneth",
+                "Last Name": "Kay",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Natalie",
+                "Last Name": "Biderman",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Ramin",
+                "Last Name": "Khajeh",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Manuel",
+                "Last Name": "Beiran",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Christopher J",
+                "Last Name": "Cueva",
+                "Affiliation": "Department of Brain and Cognitive Sciences, MIT, Cambridge, Massachusetts, United States of America."
+            },
+            {
+                "First Name": "Daphna",
+                "Last Name": "Shohamy",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Xue-Xin",
+                "Last Name": "Wei",
+                "Affiliation": "Departments of Neuroscience and Psychology, The University of Texas at Austin, Austin, Texas, United States of America."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37662223",
+        "Title": "A mathematical theory of relational generalization in transitive inference.",
+        "Abstract": "Humans and animals routinely infer relations between different items or events and generalize these relations to novel combinations of items. This allows them to respond appropriately to radically novel circumstances and is fundamental to advanced cognition. However, how learning systems (including the brain) can implement the necessary inductive biases has been unclear. Here we investigated transitive inference (TI), a classic relational task paradigm in which subjects must learn a relation (",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Samuel",
+                "Last Name": "Lippl",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, NY."
+            },
+            {
+                "First Name": "Kenneth",
+                "Last Name": "Kay",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, NY."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, NY."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, NY."
+            },
+            {
+                "First Name": "L F",
+                "Last Name": "Abbott",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, NY."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37558125",
+        "Title": "Alteration of functional connectivity in the cortex and major brain networks of non-human primates following focused ultrasound exposure in the dorsal striatum.",
+        "Abstract": "Focused ultrasound (FUS) is a non-invasive neuromodulation technology that is being investigated for potential treatment of neurological and psychiatric disorders. FUS combined with microbubbles can temporarily open the intact blood-brain barrier (BBB) of animals and humans, and facilitate drug delivery. FUS exposure, either with or without microbubbles, has been demonstrated to alter the behavior of non-human primates (NHP), and previous studies have demonstrated the transient and long-term effects of FUS neuromodulation on functional connectivity using resting state functional MRI. The behavioral effects of FUS vary depending on whether or not it is applied in conjunction with microbubbles to open the BBB, but it is unknown whether opening the BBB affects functional connectivity differently than FUS alone.",
+        "Keywords": [
+            "Blood-brain barrier opening",
+            "Brain networks",
+            "Focused ultrasound",
+            "Functional connectivity",
+            "Neuromodulation",
+            "Resting state functional MRI"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Humans",
+            "Brain",
+            "Blood-Brain Barrier",
+            "Primates",
+            "Cerebral Cortex",
+            "Microbubbles",
+            "Magnetic Resonance Imaging"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dong",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Neuroscience, Columbia University, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, USA. Electronic address: dl3341@columbia.edu."
+            },
+            {
+                "First Name": "Fabian",
+                "Last Name": "Munoz",
+                "Affiliation": "Department of Neuroscience, Columbia University, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, USA."
+            },
+            {
+                "First Name": "Soroosh",
+                "Last Name": "Sanatkhani",
+                "Affiliation": "Department of Neuroscience, Columbia University, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, USA."
+            },
+            {
+                "First Name": "Antonios N",
+                "Last Name": "Pouliopoulos",
+                "Affiliation": "Department of Surgical & Interventional Engineering, School of Biomedical Engineering & Imaging Science, King's College London, UK."
+            },
+            {
+                "First Name": "Elisa E",
+                "Last Name": "Konofagou",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, USA; Department of Radiology, Columbia University, USA."
+            },
+            {
+                "First Name": "Jack",
+                "Last Name": "Grinband",
+                "Affiliation": "Department of Radiology, Columbia University, USA; Department of Psychiatry, Columbia University, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, USA; Department of Psychiatry, Columbia University, USA."
+            }
+        ],
+        "Journal": "Brain stimulation",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35061028",
+        "Title": "Influence of Rule- and Reward-based Strategies on Inferences of Serial Order by Monkeys.",
+        "Abstract": "Knowledge of transitive relationships between items can contribute to learning the order of a set of stimuli from pairwise comparisons. However, cognitive mechanisms of transitive inferences based on rank order remain unclear, as are relative contributions of reward associations and rule-based inference. To explore these issues, we created a conflict between rule- and reward-based learning during a serial ordering task. Rhesus macaques learned two lists, each containing five stimuli that were trained exclusively with adjacent pairs. Selection of the higher-ranked item resulted in rewards. \"Small reward\" lists yielded two drops of fluid reward, whereas \"large reward\" lists yielded five drops. Following training of adjacent pairs, monkeys were tested on novels pairs. One item was selected from each list, such that a ranking rule could conflict with preferences for large rewards. Differences between the corresponding reward magnitudes had a strong influence on accuracy, but we also observed a symbolic distance effect. That provided evidence of a rule-based influence on decisions. RT comparisons suggested a conflict between rule- and reward-based processes. We conclude that performance reflects the contributions of two strategies and that a model-based strategy is employed in the face of a strong countervailing reward incentive.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Humans",
+            "Knowledge",
+            "Learning",
+            "Macaca mulatta",
+            "Motivation",
+            "Reward"
+        ],
+        "Authors": [
+            {
+                "First Name": "Allain-Thibeault",
+                "Last Name": "Ferhat",
+                "Affiliation": "Columbia University Irving Medical Center."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Columbia University Irving Medical Center."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Terrace",
+                "Affiliation": "Columbia University Irving Medical Center."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Columbia University Irving Medical Center."
+            }
+        ],
+        "Journal": "Journal of cognitive neuroscience",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34855434",
+        "Title": "Transitive inference after minimal training in rhesus macaques (Macaca mulatta).",
+        "Abstract": "Rhesus macaques, when trained for several hundred trials on adjacent items in an ordered list (e.g., A > B, B > C, C > D), are able to make accurate transitive inferences (TI) about previously untrained pairs (e.g., A > C, B > D). How that learning unfolds during training, however, is not well understood. We sought to measure the relationship between the amount of TI training and the resulting response accuracy in 4 rhesus macaques using seven-item lists. The training conditions included the absolute minimal case of presenting each of the six adjacent pairs only once prior to testing. We also tested transfer to nonadjacent pairs with 24 and 114 training trials. Because performance during and after small amounts of training is expected to be near chance levels, we developed a descriptive statistical model to estimate potentially subtle learning effects in the presence of much larger random response variability and systematic bias. These results suggest that subjects learned serial order in an incremental fashion. Thus, rather than performing transitive inference by a logical process, serial learning in rhesus macaques proceeds in a manner more akin to a statistical inference, with an initial uncertainty about list position that gradually becomes more accurate as evidence accumulates. (PsycInfo Database Record (c) 2021 APA, all rights reserved).",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Macaca mulatta",
+            "Serial Learning"
+        ],
+        "Authors": [
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute."
+            },
+            {
+                "First Name": "Fabian",
+                "Last Name": "Munoz",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Meaney",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Terrace",
+                "Affiliation": "Department of Psychology."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute."
+            }
+        ],
+        "Journal": "Journal of experimental psychology. Animal learning and cognition",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34302565",
+        "Title": "Positional inference in rhesus macaques.",
+        "Abstract": "Understanding how organisms make transitive inferences is critical to understanding their general ability to learn serial relationships. In this context, transitive inference (TI) can be understood as a specific heuristic that applies broadly to many different serial learning tasks, which have been the focus of hundreds of studies involving dozens of species. In the present study, monkeys learned the order of 7-item lists of photographic stimuli by trial and error, and were then tested on \"derived\" lists. These derived test lists combined stimuli from multiple training lists in ambiguous ways, sometimes changing their order relative to training. We found that subjects displayed strong preferences when presented with novel test pairs, even when those pairs were drawn from different training lists. These preferences were helpful when test pairs had an ordering congruent with their ranks during training, but yielded consistently below-chance performance when pairs had an incongruent order relative to training. This behavior can be explained by the joint contributions of transitive inference and another heuristic that we refer to as \"positional inference.\" Positional inferences play a complementary role to transitive inferences in facilitating choices between novel pairs of stimuli. The theoretical framework that best explains both transitive and positional inferences is a spatial model that represents both the position of each stimulus and its uncertainty. A computational implementation of this framework yields accurate predictions about both correct responses and errors on derived lists.",
+        "Keywords": [
+            "Derived list",
+            "Positional inference",
+            "Serial learning",
+            "Symbolic distance effect",
+            "Transitive inference"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Learning",
+            "Macaca mulatta",
+            "Serial Learning"
+        ],
+        "Authors": [
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, 10027, USA. greg.guichard.jensen@gmail.com."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Terrace",
+                "Affiliation": "Department of Psychology, Columbia University, New York, NY, 10027, USA."
+            }
+        ],
+        "Journal": "Animal cognition",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34294761",
+        "Title": "Safety evaluation of a clinical focused ultrasound system for neuronavigation guided blood-brain barrier opening in non-human primates.",
+        "Abstract": "An emerging approach with potential in improving the treatment of neurodegenerative diseases and brain tumors is the use of focused ultrasound (FUS) to bypass the blood-brain barrier (BBB) in a non-invasive and localized manner. A large body of pre-clinical work has paved the way for the gradual clinical implementation of FUS-induced BBB opening. Even though the safety profile of FUS treatments in rodents has been extensively studied, the histological and behavioral effects of clinically relevant BBB opening in large animals are relatively understudied. Here, we examine the histological and behavioral safety profile following localized BBB opening in non-human primates (NHPs), using a neuronavigation-guided clinical system prototype. We show that FUS treatment triggers a short-lived immune response within the targeted region without exacerbating the touch accuracy or reaction time in visual-motor cognitive tasks. Our experiments were designed using a multiple-case-study approach, in order to maximize the acquired data and support translation of the FUS system into human studies. Four NHPs underwent a single session of FUS-mediated BBB opening in the prefrontal cortex. Two NHPs were treated bilaterally at different pressures, sacrificed on day 2 and 18 post-FUS, respectively, and their brains were histologically processed. In separate experiments, two NHPs that were earlier trained in a behavioral task were exposed to FUS unilaterally, and their performance was tracked for at least 3\u00a0weeks after BBB opening. An increased microglia density around blood vessels was detected on day 2, but was resolved by day 18. We also detected signs of enhanced immature neuron presence within areas that underwent BBB opening, compared to regions with an intact BBB, confirming previous rodent studies. Logistic regression analysis showed that the NHP cognitive performance did not deteriorate following BBB opening. These preliminary results demonstrate that neuronavigation-guided FUS with a single-element transducer is a non-invasive method capable of reversibly opening the BBB, without substantial histological or behavioral impact in an animal model closely resembling humans. Future work should confirm the observations of this multiple-case-study work across animals, species and tasks.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Biological Transport",
+            "Biomarkers",
+            "Blood-Brain Barrier",
+            "Cognition",
+            "Magnetic Resonance Imaging",
+            "Microbubbles",
+            "Models, Animal",
+            "Neuronavigation",
+            "Primates",
+            "Quantitative Trait, Heritable",
+            "Ultrasonic Waves"
+        ],
+        "Authors": [
+            {
+                "First Name": "Antonios N",
+                "Last Name": "Pouliopoulos",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York City, NY, 10032, USA."
+            },
+            {
+                "First Name": "Nancy",
+                "Last Name": "Kwon",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York City, NY, 10032, USA."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York City, NY, 10032, USA."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Meaney",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York City, NY, 10027, USA."
+            },
+            {
+                "First Name": "Yusuke",
+                "Last Name": "Niimi",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York City, NY, 10032, USA."
+            },
+            {
+                "First Name": "Mark T",
+                "Last Name": "Burgess",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York City, NY, 10032, USA."
+            },
+            {
+                "First Name": "Robin",
+                "Last Name": "Ji",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York City, NY, 10032, USA."
+            },
+            {
+                "First Name": "Alicia J",
+                "Last Name": "McLuckie",
+                "Affiliation": "Institute of Comparative Medicine, Columbia University, New York City, NY, 10032, USA."
+            },
+            {
+                "First Name": "Fabian A",
+                "Last Name": "Munoz",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York City, NY, 10032, USA."
+            },
+            {
+                "First Name": "Hermes A S",
+                "Last Name": "Kamimura",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York City, NY, 10032, USA."
+            },
+            {
+                "First Name": "Andrew F",
+                "Last Name": "Teich",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University, New York City, NY, 10032, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York City, NY, 10032, USA."
+            },
+            {
+                "First Name": "Elisa E",
+                "Last Name": "Konofagou",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York City, NY, 10032, USA. ek2191@columbia.edu."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34224733",
+        "Title": "Negative allosteric modulation of metabotropic glutamate receptor 5 attenuates alcohol self-administration in baboons.",
+        "Abstract": "Many of the behavioral symptoms that define alcohol use disorder (AUD) are thought to be mediated by amplified glutamatergic activity. As a result, previous preclinical studies have investigated glutamate receptor inhibition as a potential pharmacotherapy for AUD, particularly the metabotropic glutamate receptor 5 (mGlu5). In rodents, mGlu5 negative allosteric modulators (NAMs) have been shown to decrease alcohol self-administration. However, their effect on non-human primates has not previously been explored. To bridge this gap, the effects of mGlu5 NAM pretreatment on sweetened alcohol (8% w/v in diluted KoolAid) self-administration in female baboons were evaluated. Two different mGlu5 NAMs were tested: 1) 3-2((-Methyl-4-thiazolyl) ethynyl) pyridine (MTEP) which was administered at a dose of 2\u00a0mg/kg IM; and 2) auglurant (N-(5-fluoropyridin-2-yl)-6-methyl-4-(pyrimidin-5-yloxy)picolinamide), a newly developed NAM, which was tested under two different routes (0.001, 0.01, 0.03, 0.1\u00a0mg/kg IM and 0.1, 0.3, 1.0\u00a0mg/kg PO). MTEP decreased both fixed ratio and progressive ratio responding for sweetened alcohol. Auglurant, administered IM, decreased alcohol self-administration at doses that did not affect self-administration of an alcohol-free sweet liquid reward (0.01 to 0.1\u00a0mg/kg). Oral administration of auglurant was not effective in decreasing alcohol self-administration. Our results extend positive findings from rodent studies on mGlu5 regulation of alcohol drinking to female baboons and further strengthen the rationale for targeting mGlu5 in clinical trials for AUD.",
+        "Keywords": [
+            "Alcohol self-administration",
+            "Non-human primate",
+            "mGlu5"
+        ],
+        "MeSH terms": [
+            "Alcoholism",
+            "Allosteric Regulation",
+            "Aminopyridines",
+            "Animals",
+            "Ethanol",
+            "Female",
+            "Glutamic Acid",
+            "Humans",
+            "Papio",
+            "Picolinic Acids",
+            "Pyridines",
+            "Receptor, Metabotropic Glutamate 5",
+            "Self Administration",
+            "Thiazoles"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael C",
+                "Last Name": "Salling",
+                "Affiliation": "Department of Cell Biology and Anatomy, Lousiana State University Health Sciences Center, New Orleans, LA, USA. Electronic address: msalli@lsuhsc.edu."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Grassetti",
+                "Affiliation": "Departments of Psychiatry, Columbia University College of Physicians and Surgeons and the New York State Psychiatric Institute, New York, NY, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Departments of Neuroscience and Psychiatry, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Diana",
+                "Last Name": "Martinez",
+                "Affiliation": "Departments of Psychiatry, Columbia University College of Physicians and Surgeons and the New York State Psychiatric Institute, New York, NY, USA."
+            },
+            {
+                "First Name": "Richard W",
+                "Last Name": "Foltin",
+                "Affiliation": "Departments of Psychiatry, Columbia University College of Physicians and Surgeons and the New York State Psychiatric Institute, New York, NY, USA."
+            }
+        ],
+        "Journal": "Pharmacology, biochemistry, and behavior",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33794355",
+        "Title": "Combining brain perturbation and neuroimaging in non-human primates.",
+        "Abstract": "Brain perturbation studies allow detailed causal inferences of behavioral and neural processes. Because the combination of brain perturbation methods and neural measurement techniques is inherently challenging, research in humans has predominantly focused on non-invasive, indirect brain perturbations, or neurological lesion studies. Non-human primates have been indispensable as a neurobiological system that is highly similar to humans while simultaneously being more experimentally tractable, allowing visualization of the functional and structural impact of systematic brain perturbation. This review considers the state of the art in non-human primate brain perturbation with a focus on approaches that can be combined with neuroimaging. We consider both non-reversible (lesions) and reversible or temporary perturbations such as electrical, pharmacological, optical, optogenetic, chemogenetic, pathway-selective, and ultrasound based interference methods. Method-specific considerations from the research and development community are offered to facilitate research in this field and support further innovations. We conclude by identifying novel avenues for further research and innovation and by highlighting the clinical translational potential of the methods.",
+        "Keywords": [
+            "Causality",
+            "Chemogenetics",
+            "Infrared",
+            "Lesion",
+            "Microstimulation",
+            "Optogenetics",
+            "Primates",
+            "Ultrasound",
+            "fMRI"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "Humans",
+            "Neuroimaging",
+            "Optogenetics",
+            "Primates"
+        ],
+        "Authors": [
+            {
+                "First Name": "P Christiaan",
+                "Last Name": "Klink",
+                "Affiliation": "Department of Vision & Cognition, Netherlands Institute for Neuroscience, Meibergdreef 47, 1105 BA Amsterdam, the Netherlands. Electronic address: c.klink@nin.knaw.nl."
+            },
+            {
+                "First Name": "Jean-Fran\u00e7ois",
+                "Last Name": "Aubry",
+                "Affiliation": "Physics for Medicine Paris, Inserm U1273, CNRS UMR 8063, ESPCI Paris, PSL University, Paris, France."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience & Department of Psychiatry, Columbia University Medical Center, New York, NY, USA; Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Fox",
+                "Affiliation": "Department of Psychology & California National Primate Research Center, University of California, Davis, CA, USA."
+            },
+            {
+                "First Name": "Sean",
+                "Last Name": "Froudist-Walsh",
+                "Affiliation": "Center for Neural Science, New York University, New York, NY, USA."
+            },
+            {
+                "First Name": "B\u00e9chir",
+                "Last Name": "Jarraya",
+                "Affiliation": "NeuroSpin, Commissariat \u00e0 l'\u00c9nergie Atomique et aux \u00c9nergies Alternatives (CEA), Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale (INSERM), Cognitive Neuroimaging Unit, Universit\u00e9 Paris-Saclay, France; Foch Hospital, UVSQ, Suresnes, France."
+            },
+            {
+                "First Name": "Elisa E",
+                "Last Name": "Konofagou",
+                "Affiliation": "Ultrasound and Elasticity Imaging Laboratory, Department of Biomedical Engineering, Columbia University, New York, NY, USA; Department of Radiology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Richard J",
+                "Last Name": "Krauzlis",
+                "Affiliation": "Laboratory of Sensorimotor Research, National Eye Institute, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Adam",
+                "Last Name": "Messinger",
+                "Affiliation": "Laboratory of Brain and Cognition, National Institute of Mental Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Anna S",
+                "Last Name": "Mitchell",
+                "Affiliation": "Department of Experimental Psychology, Oxford University, Oxford, United Kingdom."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Ortiz-Rios",
+                "Affiliation": "Newcastle University Medical School, Newcastle upon Tyne NE1 7RU, United Kingdom; German Primate Center, Leibniz Institute for Primate Research, Kellnerweg 4, 37077 G\u00f6ttingen, Germany."
+            },
+            {
+                "First Name": "Hiroyuki",
+                "Last Name": "Oya",
+                "Affiliation": "Iowa Neuroscience Institute, Carver College of Medicine, University of Iowa, Iowa City, IA, USA; Department of Neurosurgery, University of Iowa, Iowa city, IA, USA."
+            },
+            {
+                "First Name": "Angela C",
+                "Last Name": "Roberts",
+                "Affiliation": "Department of Physiology, Development and Neuroscience, Cambridge University, Cambridge, United Kingdom."
+            },
+            {
+                "First Name": "Anna Wang",
+                "Last Name": "Roe",
+                "Affiliation": "Interdisciplinary Institute of Neuroscience and Technology, School of Medicine, Zhejiang University, Hangzhou 310029, China."
+            },
+            {
+                "First Name": "Matthew F S",
+                "Last Name": "Rushworth",
+                "Affiliation": "Department of Experimental Psychology, Oxford University, Oxford, United Kingdom."
+            },
+            {
+                "First Name": "J\u00e9r\u00f4me",
+                "Last Name": "Sallet",
+                "Affiliation": "Department of Experimental Psychology, Oxford University, Oxford, United Kingdom; Univ Lyon, Universit\u00e9 Lyon 1, Inserm, Stem Cell and Brain Research Institute, U1208 Bron, France; Wellcome Centre for Integrative Neuroimaging, Department of Experimental Psychology, University of Oxford, Oxford, United Kingdom."
+            },
+            {
+                "First Name": "Michael Christoph",
+                "Last Name": "Schmid",
+                "Affiliation": "Newcastle University Medical School, Newcastle upon Tyne NE1 7RU, United Kingdom; Faculty of Science and Medicine, University of Fribourg, Chemin du Mus\u00e9e 5, CH-1700 Fribourg, Switzerland."
+            },
+            {
+                "First Name": "Charles E",
+                "Last Name": "Schroeder",
+                "Affiliation": "Nathan Kline Institute, Orangeburg, NY, USA; Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jordy",
+                "Last Name": "Tasserie",
+                "Affiliation": "NeuroSpin, Commissariat \u00e0 l'\u00c9nergie Atomique et aux \u00c9nergies Alternatives (CEA), Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale (INSERM), Cognitive Neuroimaging Unit, Universit\u00e9 Paris-Saclay, France."
+            },
+            {
+                "First Name": "Doris Y",
+                "Last Name": "Tsao",
+                "Affiliation": "Division of Biology and Biological Engineering, Tianqiao and Chrissy Chen Institute for Neuroscience; Howard Hughes Medical Institute; Computation and Neural Systems, Caltech, Pasadena, CA, USA."
+            },
+            {
+                "First Name": "Lynn",
+                "Last Name": "Uhrig",
+                "Affiliation": "NeuroSpin, Commissariat \u00e0 l'\u00c9nergie Atomique et aux \u00c9nergies Alternatives (CEA), Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale (INSERM), Cognitive Neuroimaging Unit, Universit\u00e9 Paris-Saclay, France."
+            },
+            {
+                "First Name": "Wim",
+                "Last Name": "Vanduffel",
+                "Affiliation": "Laboratory for Neuro- and Psychophysiology, Neurosciences Department, KU Leuven Medical School, Leuven, Belgium; Leuven Brain Institute, KU Leuven, Leuven Belgium; Harvard Medical School, Boston, MA, USA; Massachusetts General Hospital, Martinos Center for Biomedical Imaging, Charlestown, MA, USA."
+            },
+            {
+                "First Name": "Melanie",
+                "Last Name": "Wilke",
+                "Affiliation": "German Primate Center, Leibniz Institute for Primate Research, Kellnerweg 4, 37077 G\u00f6ttingen, Germany; Department of Cognitive Neurology, University Medicine G\u00f6ttingen, G\u00f6ttingen, Germany."
+            },
+            {
+                "First Name": "Igor",
+                "Last Name": "Kagan",
+                "Affiliation": "German Primate Center, Leibniz Institute for Primate Research, Kellnerweg 4, 37077 G\u00f6ttingen, Germany. Electronic address: ikagan@dpz.eu."
+            },
+            {
+                "First Name": "Christopher I",
+                "Last Name": "Petkov",
+                "Affiliation": "Newcastle University Medical School, Newcastle upon Tyne NE1 7RU, United Kingdom. Electronic address: chris.petkov@ncl.ac.uk."
+            }
+        ],
+        "Journal": "NeuroImage",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33565006",
+        "Title": "Category learning in a transitive inference paradigm.",
+        "Abstract": "The implied order of a ranked set of visual images can be learned without reliance on information that explicitly signals their order. Such learning is difficult to explain by associative mechanisms, but can be accounted for by cognitive representations and processes such as transitive inference. Our study sought to determine if those processes also apply to learning categories of images. We asked whether participants can (a) infer that stimulus images belonged to familiar categories, even when the images for each trial were unique, and (b) sort those categories into an ordering that obeys transitivity. Participants received minimal verbal instruction and a single session of training. Despite this, they learned the implied order of lists of fixed stimuli and lists of ordered categories, using trial-unique exemplars. We trained two groups, one for which stimuli were constant throughout training and testing (n = 60), and one for which exemplars of each category were trial-unique (n = 50). Our findings suggest that differing cognitive processes may underpin serial learning when learning about specific stimuli as opposed to stimulus categories.",
+        "Keywords": [
+            "Categorization",
+            "Serial learning",
+            "Symbolic distance effect",
+            "Transitive inference"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Humans",
+            "Learning",
+            "Mice"
+        ],
+        "Authors": [
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA. greg.guichard.jensen@gmail.com."
+            },
+            {
+                "First Name": "Tina",
+                "Last Name": "Kao",
+                "Affiliation": "Department of Psychology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Charlotte",
+                "Last Name": "Michaelcheck",
+                "Affiliation": "Department of Psychology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Saani Simms",
+                "Last Name": "Borge",
+                "Affiliation": "Department of Psychology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Terrace",
+                "Affiliation": "Department of Psychology, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Memory & cognition",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "32523062",
+        "Title": "Learned Representation of Implied Serial Order in Posterior Parietal Cortex.",
+        "Abstract": "Monkeys can learn the implied ranking of pairs of images drawn from an ordered set, despite never seeing all of the images simultaneously and without explicit spatial or temporal cues. We recorded the activity of posterior parietal cortex (including lateral intraparietal area LIP) neurons while monkeys learned 7-item transitive inference (TI) lists with 2 items presented on each trial. Behavior and neuronal activity were significantly influenced by the ordinal relationship of the stimulus pairs, specifically symbolic distance (the difference in rank) and joint rank (the sum of the ranks). Symbolic distance strongly predicted decision accuracy and learning rate. An effect of joint rank on performance was found nested within the symbolic distance effect. Across the population of neurons, there was significant modulation of firing correlated with the relative ranks of the two stimuli presented on each trial. Neurons exhibited selectivity for stimulus rank during learning, but not before or after. The observed behavior is poorly explained by associative or reward mechanisms, and appears more consistent with a mental workspace model in which implied serial order is mapped within a spatial framework. The neural data suggest that posterior parietal cortex supports serial learning by representing information about the ordinal relationship of the stimuli presented during a given trial.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Cognition",
+            "Cues",
+            "Humans",
+            "Learning",
+            "Macaca mulatta",
+            "Male",
+            "Neurons",
+            "Parietal Lobe",
+            "Pattern Recognition, Visual",
+            "Photic Stimulation",
+            "Psychomotor Performance",
+            "Reward",
+            "Single-Cell Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Fabian",
+                "Last Name": "Munoz",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Benjamin C",
+                "Last Name": "Kennedy",
+                "Affiliation": "Department of Neurosurgery, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Yelda",
+                "Last Name": "Alkan",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Terrace",
+                "Affiliation": "Department of Psychology, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University Medical Center, New York, NY, 10032, USA. vpf3@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32128384",
+        "Title": "Reward associations do not explain transitive inference performance in monkeys.",
+        "Abstract": "Most accounts of behavior in nonhuman animals assume that they make choices to maximize expected reward value. However, model-free reinforcement learning based on reward associations cannot account for choice behavior in transitive inference paradigms. We manipulated the amount of reward associated with each item of an ordered list, so that maximizing expected reward value was always in conflict with decision rules based on the implicit list order. Under such a schedule, model-free reinforcement algorithms cannot achieve high levels of accuracy, even after extensive training. Monkeys nevertheless learned to make correct rule-based choices. These results show that monkeys' performance in transitive inference paradigms is not driven solely by expected reward and that appropriate inferences are made despite discordant reward incentives. We show that their choices can be explained by an abstract, model-based representation of list order, and we provide a method for inferring the contents of such representations from observed data.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Choice Behavior",
+            "Macaca mulatta",
+            "Male",
+            "Models, Biological",
+            "Reward"
+        ],
+        "Authors": [
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Department of Psychology, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Yelda",
+                "Last Name": "Alkan",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Terrace",
+                "Affiliation": "Department of Psychology, Columbia University, New York, NY 10027, USA."
+            }
+        ],
+        "Journal": "Science advances",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31750719",
+        "Title": "Absolute and relative knowledge of ordinal position on implied lists.",
+        "Abstract": "Does serial learning result in specific associations between pairs of items, or does it result in a cognitive map based on relations of all items? In 2 experiments, we trained human participants to learn various lists of photographic images. We then tested the participants on new lists of photographic images. These new lists were constructed by selecting only 1 image from each list learned during training. In Experiment 1, participants were trained to choose the earlier (experimenter defined) item when presented with adjacent pairs of items on each of 5 different 5-item lists. Participants were then tested on derived lists, in which each item retained its original ordinal position, even though each of the presented pairs was novel. Participants performed above chance on all of the derived lists. In Experiment 2, a different group of participants received the same training as those of Experiment 1, but the ordinal positions of items were systematically changed on each derived list. The response accuracy for Experiment 2 varied inversely with the degree to which an item's original ordinal position was changed. These results can be explained by a model in which participants learned to make both positional inferences about the absolute rank of each stimulus, and transitive inferences about the relative ranks of pairs of stimuli. These inferences enhanced response accuracy when ordinal position was maintained, but not when it was changed. Our results demonstrate quantitatively that, in addition to item-item associations that participants acquire while learning a list of arbitrary items, they form a cognitive map that represents both experienced and inferred relationships. (PsycInfo Database Record (c) 2021 APA, all rights reserved).",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cues",
+            "Female",
+            "Humans",
+            "Knowledge",
+            "Male",
+            "Photic Stimulation",
+            "Serial Learning"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tina",
+                "Last Name": "Kao",
+                "Affiliation": "Department of Social Science."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Department of Psychology."
+            },
+            {
+                "First Name": "Charlotte",
+                "Last Name": "Michaelcheck",
+                "Affiliation": "Mailman School of Public Health."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Terrace",
+                "Affiliation": "Department of Psychology."
+            }
+        ],
+        "Journal": "Journal of experimental psychology. Learning, memory, and cognition",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31481871",
+        "Title": "Discovering Implied Serial Order Through Model-Free and Model-Based Learning.",
+        "Abstract": "Humans and animals can learn to order a list of items without relying on explicit spatial or temporal cues. To do so, they appear to make use of transitivity, a property of all ordered sets. Here, we summarize relevant research on the transitive inference (TI) paradigm and its relationship to learning the underlying order of an arbitrary set of items. We compare six computational models of TI performance, three of which are model-free (",
+        "Keywords": [
+            "cognitive maps",
+            "model-based learning",
+            "model-free learning",
+            "reinforcement learning",
+            "transitive inference"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Department of Psychology, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Terrace",
+                "Affiliation": "Department of Psychology, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, United States."
+            }
+        ],
+        "Journal": "Frontiers in neuroscience",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30393592",
+        "Title": "Modulation of Brain Function and Behavior by Focused Ultrasound.",
+        "Abstract": "The past decade has seen rapid growth in the application of focused ultrasound (FUS) as a tool for basic neuroscience research and potential treatment of brain disorders. Here, we review recent developments in our understanding of how FUS can alter brain activity, perception and behavior when applied to the central nervous system, either alone or in combination with circulating agents.",
+        "Keywords": [
+            "blood-brain barrier permeability",
+            "brain stimulation",
+            "cognition",
+            "drug delivery",
+            "microbubble"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Fabian",
+                "Last Name": "Munoz",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, 10027 USA."
+            },
+            {
+                "First Name": "Christian",
+                "Last Name": "Aurup",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, NY, 10027 USA."
+            },
+            {
+                "First Name": "Elisa E",
+                "Last Name": "Konofagou",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, NY, 10027 USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, 10027 USA."
+            }
+        ],
+        "Journal": "Current behavioral neuroscience reports",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29789530",
+        "Title": "Efficient Blood-Brain Barrier Opening in Primates with Neuronavigation-Guided Ultrasound and Real-Time Acoustic Mapping.",
+        "Abstract": "Brain diseases including neurological disorders and tumors remain under treated due to the challenge to access the brain, and blood-brain barrier (BBB) restricting drug delivery which, also profoundly limits the development of pharmacological treatment. Focused ultrasound (FUS) with microbubbles is\u00a0the sole method to open the BBB noninvasively, locally, and transiently and facilitate drug delivery, while translation to the clinic is challenging due to long procedure, targeting limitations, or invasiveness of current systems. In order to provide rapid, flexible yet precise applications, we have designed a noninvasive FUS and monitoring system with the protocol tested in monkeys (from in silico preplanning and simulation, real-time targeting and acoustic mapping, to post-treatment assessment). With a short procedure (30\u2009min) similar to current clinical imaging duration or radiation therapy, the achieved targeting (both cerebral cortex and subcortical structures) and monitoring accuracy was close to the predicted 2-mm lower limit. This system would enable rapid clinical transcranial FUS applications outside of the MRI system without a stereotactic frame, thereby benefiting patients especially in the elderly population.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acoustics",
+            "Animals",
+            "Blood-Brain Barrier",
+            "Brain",
+            "Brain Mapping",
+            "Drug Delivery Systems",
+            "Macaca fascicularis",
+            "Macaca mulatta",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Microbubbles",
+            "Neuronavigation",
+            "Primates",
+            "Sonication",
+            "Ultrasonography"
+        ],
+        "Authors": [
+            {
+                "First Name": "Shih-Ying",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Christian",
+                "Last Name": "Aurup",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Carlos Sierra",
+                "Last Name": "Sanchez",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Julien",
+                "Last Name": "Grondin",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Wenlan",
+                "Last Name": "Zheng",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Hermes",
+                "Last Name": "Kamimura",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Elisa E",
+                "Last Name": "Konofagou",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, USA. ek2191@columbia.edu."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29187808",
+        "Title": "Toward a Cognitive Neural Prosthesis Using Focused Ultrasound.",
+        "Abstract": "Non-invasive brain stimulation using focused ultrasound has many potential applications as a research and clinical tool, including its incorporation as either an extracorporeal or implantable neural prosthetic. To this end, we investigated the effect of focused ultrasound (FUS) combined with systemically administered microbubbles on visual-motor decision-making behavior in monkeys. We applied FUS to the putamen in one hemisphere to open the blood-brain barrier (BBB), and then tested behavioral performance 3-4 h later. On days when the monkeys were treated with FUS, their decisions were faster and more accurate than days without sonication. The performance improvement suggested both a shift in the decision criterion and an enhancement of the use of sensory evidence in the decision process. FUS also interacted with the effect of a low dose of haloperidol. The findings indicate that a two-minute application of FUS can have a sustained impact on performance of complex cognitive tasks, and may increase the efficacy of psychoactive medications. The results lend further support to the idea that the dorsal striatum plays an integral role in evidence- and reward-based decision-making, and provide motivation for incorporating FUS into cognitive neural prosthetic devices.",
+        "Keywords": [
+            "NHP model",
+            "blood-brain barrier",
+            "decision making",
+            "drug delivery",
+            "focused ultrasound stimulation"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Matthew E",
+                "Last Name": "Downs",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Tobias",
+                "Last Name": "Teichert",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Amanda",
+                "Last Name": "Buch",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Maria E",
+                "Last Name": "Karakatsani",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Carlos",
+                "Last Name": "Sierra",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Shangshang",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Elisa E",
+                "Last Name": "Konofagou",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, United States."
+            }
+        ],
+        "Journal": "Frontiers in neuroscience",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28546309",
+        "Title": "Inferential Learning of Serial Order of Perceptual Categories by Rhesus Monkeys (",
+        "Abstract": "Category learning in animals is typically trained explicitly, in most instances by varying the exemplars of a single category in a matching-to-sample task. Here, we show that male rhesus macaques can learn categories by a transitive inference paradigm in which novel exemplars of five categories were presented throughout training. Instead of requiring decisions about a constant set of repetitively presented stimuli, we studied the macaque's ability to determine the relative order of multiple exemplars of particular stimuli that were rarely repeated. Ordinal decisions generalized both to novel stimuli and, as a consequence, to novel pairings. Thus, we showed that rhesus monkeys could learn to categorize on the basis of implied ordinal position, without prior matching-to-sample training, and that they could then make inferences about category order. Our results challenge the plausibility of association models of category learning and broaden the scope of the transitive inference paradigm.",
+        "Keywords": [
+            "categorization",
+            "cognition",
+            "serial learning",
+            "transitive inference"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Association Learning",
+            "Cognition",
+            "Decision Making",
+            "Macaca mulatta",
+            "Male",
+            "Pattern Recognition, Visual",
+            "Task Performance and Analysis",
+            "Thinking"
+        ],
+        "Authors": [
+            {
+                "First Name": "Natalie",
+                "Last Name": "Tanner",
+                "Affiliation": "Columbia College."
+            },
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Department of Neuroscience, greg.guichard.jensen@gmail.com terrace@columbia.edu."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Terrace",
+                "Affiliation": "Department of Psychology, and greg.guichard.jensen@gmail.com terrace@columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28333486",
+        "Title": "Transitive inference in humans (Homo sapiens) and rhesus macaques (Macaca mulatta) after massed training of the last two list items.",
+        "Abstract": "Transitive inference (TI) is a classic learning paradigm for which the relative contributions of experienced rewards and representation-based inference have been debated vigorously, particularly regarding the notion that animals are capable of logic and reasoning. Rhesus macaque subjects and human participants performed a TI task in which, prior to learning a 7-item list (ABCDEFG), a block of trials presented exclusively the pair FG. Contrary to the expectation of associative models, the high prior rate of reward for F did not disrupt subsequent learning of the entire list. Monkeys (who each completed many sessions with novel stimuli) learned to anticipate that novel stimuli should be preferred over F. We interpret this as evidence of a task representation of TI that generalizes beyond learning about specific stimuli. Humans (who were task-na\u00efve) showed a transitory bias to F when it was paired with novel stimuli, but very rapidly unlearned that bias. Performance with respect to the remaining stimuli was consistent with past reports of TI in both species. These results are difficult to reconcile with any account that assigns the strength of association between individual stimuli and rewards. Instead, they support sophisticated cognitive processes in both species, albeit with some species differences. (PsycINFO Database Record",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Association Learning",
+            "Humans",
+            "Macaca mulatta",
+            "Motivation",
+            "Problem Solving",
+            "Reward",
+            "Serial Learning",
+            "Task Performance and Analysis",
+            "Thinking"
+        ],
+        "Authors": [
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Department of Psychology, Columbia University."
+            },
+            {
+                "First Name": "Yelda",
+                "Last Name": "Alkan",
+                "Affiliation": "Department of Neuroscience, Columbia University."
+            },
+            {
+                "First Name": "Fabian",
+                "Last Name": "Mu\u00f1oz",
+                "Affiliation": "Department of Neuroscience, Columbia University."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Terrace",
+                "Affiliation": "Department of Psychology, Columbia University."
+            }
+        ],
+        "Journal": "Journal of comparative psychology (Washington, D.C. : 1983)",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28320656",
+        "Title": "Targeting Effects on the Volume of the Focused Ultrasound-Induced Blood-Brain Barrier Opening in Nonhuman Primates In Vivo.",
+        "Abstract": "Drug delivery to subcortical regions is susceptible to the blood-brain barrier (BBB) impeding the molecular exchange between the blood stream and the brain parenchyma. Focused ultrasound (FUS) coupled with the administration of microbubbles has been proved to open the BBB locally, transiently, and noninvasively both in rodents and in nonhuman-primates (NHPs). The development of this disruption technique independent of MRI monitoring is of primordial importance yet restrained to the targeting optimization. This paper establishes the linear relationship of the incidence angle with the volume of BBB opening ( V",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Blood-Brain Barrier",
+            "Brain",
+            "Callithrix",
+            "Drug Delivery Systems",
+            "Extracorporeal Shockwave Therapy",
+            "High-Energy Shock Waves",
+            "Macaca",
+            "Male",
+            "Primates"
+        ],
+        "Authors": [
+            {
+                "First Name": "Maria Eleni Marilena",
+                "Last Name": "Karakatsani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gesthimani Mania",
+                "Last Name": "Samiotaki",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew E",
+                "Last Name": "Downs",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Elisa E",
+                "Last Name": "Konofagou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "IEEE transactions on ultrasonics, ferroelectrics, and frequency control",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27853267",
+        "Title": "Characterizing Focused-Ultrasound Mediated Drug Delivery to the Heterogeneous Primate Brain In Vivo with Acoustic Monitoring.",
+        "Abstract": "Focused ultrasound with microbubbles has been used to noninvasively and selectively deliver pharmacological agents across the blood-brain barrier (BBB) for treating brain diseases. Acoustic cavitation monitoring could serve as an on-line tool to assess and control the treatment. While it demonstrated a strong correlation in small animals, its translation to primates remains in question due to the anatomically different and highly heterogeneous brain structures with gray and white matteras well as dense vasculature. In addition, the drug delivery efficiency and the BBB opening volume have never been shown to be predictable through cavitation monitoring in primates. This study aimed at determining how cavitation activity is correlated with the amount and concentration of gadolinium delivered through the BBB and its associated delivery efficiency as well as the BBB opening volume in non-human primates. Another important finding entails the effect of heterogeneous brain anatomy and vasculature of a primate brain, i.e., presence of large cerebral vessels, gray and white matter that will also affect the cavitation activity associated with variation of BBB opening in different tissue types, which is not typically observed in small animals. Both these new findings are critical in the primate brain and provide essential information for clinical applications.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Blood-Brain Barrier",
+            "Drug Delivery Systems",
+            "Gadolinium",
+            "Gray Matter",
+            "Macaca mulatta",
+            "Male",
+            "Ultrasonic Waves"
+        ],
+        "Authors": [
+            {
+                "First Name": "Shih-Ying",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Carlos Sierra",
+                "Last Name": "Sanchez",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Gesthimani",
+                "Last Name": "Samiotaki",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Amanda",
+                "Last Name": "Buch",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Elisa E",
+                "Last Name": "Konofagou",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26496829",
+        "Title": "Blood-Brain Barrier Opening in Behaving Non-Human Primates via Focused Ultrasound with Systemically Administered Microbubbles.",
+        "Abstract": "Over the past fifteen years, focused ultrasound coupled with intravenously administered microbubbles (FUS) has been proven an effective, non-invasive technique to open the blood-brain barrier (BBB) in vivo. Here we show that FUS can safely and effectively open the BBB at the basal ganglia and thalamus in alert non-human primates (NHP) while they perform a behavioral task. The BBB was successfully opened in 89% of cases at the targeted brain regions of alert NHP with an average volume of opening 28% larger than prior anesthetized FUS procedures. Safety (lack of edema or microhemorrhage) of FUS was also improved during alert compared to anesthetized procedures. No physiological effects (change in heart rate, motor evoked potentials) were observed during any of the procedures. Furthermore, the application of FUS did not disrupt reaching behavior, but in fact improved performance by decreasing reaction times by 23 ms, and significantly decreasing touch error by 0.76 mm on average.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Blood-Brain Barrier",
+            "Microbubbles",
+            "Primates",
+            "Ultrasonography"
+        ],
+        "Authors": [
+            {
+                "First Name": "Matthew E",
+                "Last Name": "Downs",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Amanda",
+                "Last Name": "Buch",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Maria Eleni",
+                "Last Name": "Karakatsani",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Elisa E",
+                "Last Name": "Konofagou",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26416969",
+        "Title": "Human substantia nigra neurons encode decision outcome and are modulated by categorization uncertainty in an auditory categorization task.",
+        "Abstract": "The ability to categorize stimuli - predator or prey, friend or foe - is an essential feature of the decision-making process. Underlying that ability is the development of an internally generated category boundary to generate decision outcomes. While classic temporal difference reinforcement models assume midbrain dopaminergic neurons underlie the prediction error required to learn boundary location, these neurons also demonstrate a robust response to nonreward incentive stimuli. More recent models suggest that this may reflect a motivational aspect to performing a task which should be accounted for when modeling dopaminergic neuronal behavior. To clarify the role of substantia nigra dopamine neurons in uncertain perceptual decision making, we investigated their behavior using single neuron extracellular recordings in patients with Parkinson's disease undergoing deep brain stimulation. Subjects underwent a simple auditory categorical decision-making task in which they had to classify a tone as either low- or high-pitched relative to an explicit threshold tone and received feedback but no reward. We demonstrate that the activity of human SN dopaminergic neurons is predictive of perceptual categorical decision outcome and is modulated by uncertainty. Neuronal activity was highest during difficult (uncertain) decisions that resulted in correct responses and lowest during easy decisions that resulted in incorrect responses. This pattern of results is more consistent with a \"motivational\" role with regards to perceptual categorization and suggests that dopamine neurons are most active when critical information - as represented by uncertainty - is available for learning decision boundaries.",
+        "Keywords": [
+            "Decision making",
+            "dopamine",
+            "perceptual categorization",
+            "single neuron recording",
+            "substantia nigra"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Robert A",
+                "Last Name": "McGovern",
+                "Affiliation": "Department of Neurological Surgery, New York-Presbyterian Hospital, Columbia University Medical Center, New York, New York ram2140@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Andrew K",
+                "Last Name": "Chan",
+                "Affiliation": "Department of Neurological Surgery, New York-Presbyterian Hospital, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Charles B",
+                "Last Name": "Mikell",
+                "Affiliation": "Department of Neurological Surgery, New York-Presbyterian Hospital, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Sheehy",
+                "Affiliation": "Department of Neurological Surgery, New York-Presbyterian Hospital, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Guy M",
+                "Last Name": "McKhann",
+                "Affiliation": "Department of Neurological Surgery, New York-Presbyterian Hospital, Columbia University Medical Center, New York, New York."
+            }
+        ],
+        "Journal": "Physiological reports",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26407227",
+        "Title": "Implicit Value Updating Explains Transitive Inference Performance: The Betasort Model.",
+        "Abstract": "Transitive inference (the ability to infer that B > D given that B > C and C > D) is a widespread characteristic of serial learning, observed in dozens of species. Despite these robust behavioral effects, reinforcement learning models reliant on reward prediction error or associative strength routinely fail to perform these inferences. We propose an algorithm called betasort, inspired by cognitive processes, which performs transitive inference at low computational cost. This is accomplished by (1) representing stimulus positions along a unit span using beta distributions, (2) treating positive and negative feedback asymmetrically, and (3) updating the position of every stimulus during every trial, whether that stimulus was visible or not. Performance was compared for rhesus macaques, humans, and the betasort algorithm, as well as Q-learning, an established reward-prediction error (RPE) model. Of these, only Q-learning failed to respond above chance during critical test trials. Betasort's success (when compared to RPE models) and its computational efficiency (when compared to full Markov decision process implementations) suggests that the study of reinforcement learning in organisms will be best served by a feature-driven approach to comparing formal models.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Computational Biology",
+            "Humans",
+            "Learning",
+            "Macaca mulatta",
+            "Machine Learning",
+            "Male",
+            "Models, Neurological",
+            "Models, Statistical",
+            "Reward"
+        ],
+        "Authors": [
+            {
+                "First Name": "Greg",
+                "Last Name": "Jensen",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, United States of America; Department of Psychology, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Fabian",
+                "Last Name": "Mu\u00f1oz",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Yelda",
+                "Last Name": "Alkan",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, United States of America; Department of Psychiatry, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Terrace",
+                "Affiliation": "Department of Psychology, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26236226",
+        "Title": "A new paradigm and computational framework to estimate stop-signal reaction time distributions from the inhibition of complex motor sequences.",
+        "Abstract": "Inhibitory control is an important component of executive function that allows organisms to abort emerging behavioral plans or ongoing actions on the fly as new sensory information becomes available. Current models treat inhibitory control as a race between a Go- and a Stop process that may be mediated by partially distinct neural substrates, i.e., the direct and the hyper-direct pathway of the basal ganglia. The fact that finishing times of the Stop process (Stop-Signal Reaction Time, SSRT) cannot be observed directly has precluded a precise comparison of the functional properties that govern the initiation (GoRT) and inhibition (SSRT) of a motor response. To solve this problem, we modified an existing inhibitory paradigm and developed a non-parametric framework to measure the trial-by-trial variability of SSRT. A series of simulations verified that the non-parametric approach is on par with a parametric approach and yields accurate estimates of the entire SSRT distribution from as few as ~750 trials. Our results show that in identical settings, the distribution of SSRT is very similar to the distribution of GoRT albeit somewhat shorter, wider and significantly less right-skewed. The ability to measure the precise shapes of SSRT distributions opens new avenues for research into the functional properties of the hyper-direct pathway that is believed to mediate inhibitory control.",
+        "Keywords": [
+            "SSRT distribution",
+            "cognitive control",
+            "motor sequence",
+            "race model",
+            "stop signal task"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Tobias",
+                "Last Name": "Teichert",
+                "Affiliation": "Department of Neuroscience, Columbia University New York, NY, USA ; Department of Psychiatry, University of Pittsburgh Pittsburgh, PA, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University New York, NY, USA."
+            }
+        ],
+        "Journal": "Frontiers in computational neuroscience",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26170314",
+        "Title": "Functional evolution of new and expanded attention networks in humans.",
+        "Abstract": "Macaques are often used as a model system for invasive investigations of the neural substrates of cognition. However, 25 million years of evolution separate humans and macaques from their last common ancestor, and this has likely substantially impacted the function of the cortical networks underlying cognitive processes, such as attention. We examined the homology of frontoparietal networks underlying attention by comparing functional MRI data from macaques and humans performing the same visual search task. Although there are broad similarities, we found fundamental differences between the species. First, humans have more dorsal attention network areas than macaques, indicating that in the course of evolution the human attention system has expanded compared with macaques. Second, potentially homologous areas in the dorsal attention network have markedly different biases toward representing the contralateral hemifield, indicating that the underlying neural architecture of these areas may differ in the most basic of properties, such as receptive field distribution. Third, despite clear evidence of the temporoparietal junction node of the ventral attention network in humans as elicited by this visual search task, we did not find functional evidence of a temporoparietal junction in macaques. None of these differences were the result of differences in training, experimental power, or anatomical variability between the two species. The results of this study indicate that macaque data should be applied to human models of cognition cautiously, and demonstrate how evolution may shape cortical networks.",
+        "Keywords": [
+            "attention",
+            "cortex",
+            "fMRI",
+            "human",
+            "monkey"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Animals",
+            "Attention",
+            "Behavior, Animal",
+            "Brain",
+            "Brain Mapping",
+            "Cerebral Cortex",
+            "Cognition",
+            "Female",
+            "Humans",
+            "Macaca",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Nerve Net",
+            "Parietal Lobe",
+            "Reaction Time",
+            "Species Specificity",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gaurav H",
+                "Last Name": "Patel",
+                "Affiliation": "Department of Psychiatry, Columbia University College of Physicians and Surgeons, New York, NY 10032; New York State Psychiatric Institute, New York, NY 10032; patelga@nyspi.columbia.edu."
+            },
+            {
+                "First Name": "Danica",
+                "Last Name": "Yang",
+                "Affiliation": "State University of New York College of Optometry, New York, NY 10036;"
+            },
+            {
+                "First Name": "Emery C",
+                "Last Name": "Jamerson",
+                "Affiliation": "Columbia University, New York, NY 10027;"
+            },
+            {
+                "First Name": "Lawrence H",
+                "Last Name": "Snyder",
+                "Affiliation": "Department of Anatomy and Neurobiology, Washington University School of Medicine, Saint Louis, MO 63110;"
+            },
+            {
+                "First Name": "Maurizio",
+                "Last Name": "Corbetta",
+                "Affiliation": "Department of Anatomy and Neurobiology, Washington University School of Medicine, Saint Louis, MO 63110; Department of Neurology, Washington University School of Medicine, Saint Louis, MO 63110; Department of Radiology, Washington University School of Medicine, Saint Louis, MO 63110;"
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Psychiatry, Columbia University College of Physicians and Surgeons, New York, NY 10032; Department of Neuroscience, Columbia University, New York, NY 10032."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26087322",
+        "Title": "Correction: Long-Term Safety of Repeated Blood-Brain Barrier Opening via Focused Ultrasound with Microbubbles in Non-Human Primates Performing a Cognitive Task.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Matthew E",
+                "Last Name": "Downs",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Amanda",
+                "Last Name": "Buch",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carlos",
+                "Last Name": "Sierra",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maria Eleni",
+                "Last Name": "Karakatsani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tobias",
+                "Last Name": "Teichert",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shangshang",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Elisa E",
+                "Last Name": "Konofagou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26019315",
+        "Title": "Smooth pursuit preparation modulates neuronal responses in visual areas MT and MST.",
+        "Abstract": "Primates are able to track small moving visual targets using smooth pursuit eye movements. Target motion for smooth pursuit is signaled by neurons in visual cortical areas MT and MST. In this study, we trained monkeys to either initiate or withhold smooth pursuit in the presence of a moving target to test whether this decision was reflected in the relative strength of \"go\" and \"no-go\" processes. We found that the gain of the motor response depended strongly on whether monkeys were instructed to initiate or withhold pursuit, thus demonstrating voluntary control of pursuit initiation. We found that the amplitude of the neuronal response to moving targets in areas MT and MST was also significantly lower on no-go trials (by 2.1 spikes/s on average). The magnitude of the neural response reduction was small compared with the behavioral gain reduction. There were no significant differences in neuronal direction selectivity, spatial selectivity, or response reliability related to pursuit initiation or the absence thereof. Variability in eye speed was negatively correlated with firing rate variability after target motion onset during go trials but not during no-go trials, suggesting that MT and MST activity represents an error signal for a negative feedback controller. We speculate that modulation of the visual motion signals in areas MT and MST may be one of the first visual cortical events in the initiation of smooth pursuit and that the small early response modulation may be amplified to produce an all-or-none motor response by downstream areas.",
+        "Keywords": [
+            "decision-making",
+            "motion",
+            "movement",
+            "smooth pursuit",
+            "voluntary movement"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Eye Movement Measurements",
+            "Feedback, Physiological",
+            "Macaca mulatta",
+            "Microelectrodes",
+            "Neuropsychological Tests",
+            "Photic Stimulation",
+            "Psychomotor Performance",
+            "Pursuit, Smooth",
+            "Visual Cortex",
+            "Volition"
+        ],
+        "Authors": [
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Departments of Neuroscience and Psychiatry, Columbia University, New York, New York vpf3@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25945493",
+        "Title": "Long-Term Safety of Repeated Blood-Brain Barrier Opening via Focused Ultrasound with Microbubbles in Non-Human Primates Performing a Cognitive Task.",
+        "Abstract": "Focused Ultrasound (FUS) coupled with intravenous administration of microbubbles (MB) is a non-invasive technique that has been shown to reliably open (increase the permeability of) the blood-brain barrier (BBB) in multiple in vivo models including non-human primates (NHP). This procedure has shown promise for clinical and basic science applications, yet the safety and potential neurological effects of long term application in NHP requires further investigation under parameters shown to be efficacious in that species (500 kHz, 200-400 kPa, 4-5 \u03bcm MB, 2 minute sonication). In this study, we repeatedly opened the BBB in the caudate and putamen regions of the basal ganglia of 4 NHP using FUS with systemically-administered MB over 4-20 months. We assessed the safety of the FUS with MB procedure using MRI to detect edema or hemorrhaging in the brain. Contrast enhanced T1-weighted MRI sequences showed a 98% success rate for openings in the targeted regions. T2-weighted and SWI sequences indicated a lack edema in the majority of the cases. We investigated potential neurological effects of the FUS with MB procedure through quantitative cognitive testing of' visual, cognitive, motivational, and motor function using a random dot motion task with reward magnitude bias presented on a touchpanel display. Reaction times during the task significantly increased on the day of the FUS with MB procedure. This increase returned to baseline within 4-5 days after the procedure. Visual motion discrimination thresholds were unaffected. Our results indicate FUS with MB can be a safe method for repeated opening of the BBB at the basal ganglia in NHP for up to 20 months without any long-term negative physiological or neurological effects with the parameters used.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Blood-Brain Barrier",
+            "Brain",
+            "Cognition",
+            "Echoencephalography",
+            "Macaca fascicularis",
+            "Macaca mulatta",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Microbubbles",
+            "Safety",
+            "Sonication",
+            "Task Performance and Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Matthew E",
+                "Last Name": "Downs",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Amanda",
+                "Last Name": "Buch",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Carlos",
+                "Last Name": "Sierra",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Maria Eleni",
+                "Last Name": "Karakatsani",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Tobias",
+                "Last Name": "Teichert",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shangshang",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Elisa E",
+                "Last Name": "Konofagou",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, United States of America; Department of Radiology, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25415238",
+        "Title": "Interpretive monitoring in the caudate nucleus.",
+        "Abstract": "In a dynamic environment an organism has to constantly adjust ongoing behavior to adapt to a given context. This process requires continuous monitoring of ongoing behavior to provide its meaningful interpretation. The caudate nucleus is known to have a role in behavioral monitoring, but the nature of these signals during dynamic behavior is still unclear. We recorded neuronal activity in the caudate nucleus in monkeys during categorization behavior that changed rapidly across contexts. We found that neuronal activity maintained representation of the identity and context of a recently categorized stimulus, as well as interpreted the behavioral meaningfulness of the maintained trace. The accuracy of this cognitive monitoring signal was highest for behavior for which subjects were prone to make errors. Thus, the caudate nucleus provides interpretive monitoring of ongoing behavior, which is necessary for contextually specific decisions to adapt to rapidly changing conditions.",
+        "Keywords": [
+            "basal ganglia",
+            "cognition",
+            "decision making",
+            "electrophysiology",
+            "neuronal populations",
+            "neuroscience",
+            "nonhuman primates"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Caudate Nucleus",
+            "Macaca mulatta",
+            "Male",
+            "Neurons",
+            "Task Performance and Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Marianna",
+                "Last Name": "Yanike",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25242103",
+        "Title": "Modifying cognition and behavior with electrical microstimulation: implications for cognitive prostheses.",
+        "Abstract": "A fundamental goal of cognitive neuroscience is to understand how brain activity generates complex mental states and behaviors. While neuronal activity may predict or correlate with behavioral responses in a cognitive task, the use of electrical microstimulation presents the possibility to augment such correlational findings with direct evidence for causal relationships. Although microstimulation has been used for many years as a tool for mapping sensory and motor function, its role in learning, memory and decision-making has emerged only recently. Focal microstimulation of higher cortical areas can produce complex mental states and sequences of action. However, the relationship between the locus of stimulation and the percepts or actions evoked is often stereotyped and inflexible. The challenge is to develop stimulation systems that do not have fixed output but can flexibly contribute to complex cognitive and behavioral tasks. We discuss how microstimulation has been instrumental in manipulating a wide spectrum of cognitive functions including working memory, perceptual decisions and executive control by enhancing attention, re-ordering temporal sequence of saccades, improving associative learning or cognitive performance. For example, stimulation in prefrontal, parietal and sensory cortices may establish causal effects on decision-making, while microstimulation of inferotemporal cortex or caudate nucleus enhances associative learning. Building cognitive prosthetics based on the insights gleaned from such studies may depend on the development of multiple-input, multiple-output (MIMO) devices that allow subjects to control stimulation with their own thoughts in a closed-loop system.",
+        "Keywords": [
+            "Attention",
+            "CN",
+            "Caudate nucleus",
+            "Causal relationship",
+            "Dorsolateral prefrontal cortex",
+            "FEF",
+            "Frontal eye field",
+            "IT",
+            "Inferotemporal cortex",
+            "Learning",
+            "MF",
+            "MT",
+            "Memory/movement field",
+            "Middle temporal visual area",
+            "Perception",
+            "RF",
+            "Receptive field",
+            "SEF",
+            "SMA",
+            "Supplementary eye field",
+            "Supplementary motor area",
+            "dlPFC"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Ioan",
+                "Last Name": "Opris",
+                "Affiliation": "Department of Physiology & Pharmacology, Wake Forest University School of Medicine, Winston Salem, NC 27157, USA. Electronic address: ioopris@wfubmc.edu."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Departments of Neuroscience and Psychiatry, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Neuroscience and biobehavioral reviews",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24599295",
+        "Title": "Humans optimize decision-making by delaying decision onset.",
+        "Abstract": "Why do humans make errors on seemingly trivial perceptual decisions? It has been shown that such errors occur in part because the decision process (evidence accumulation) is initiated before selective attention has isolated the relevant sensory information from salient distractors. Nevertheless, it is typically assumed that subjects increase accuracy by prolonging the decision process rather than delaying decision onset. To date it has not been tested whether humans can strategically delay decision onset to increase response accuracy. To address this question we measured the time course of selective attention in a motion interference task using a novel variant of the response signal paradigm. Based on these measurements we estimated time-dependent drift rate and showed that subjects should in principle be able trade speed for accuracy very effectively by delaying decision onset. Using the time-dependent estimate of drift rate we show that subjects indeed delay decision onset in addition to raising response threshold when asked to stress accuracy over speed in a free reaction version of the same motion-interference task. These findings show that decision onset is a critical aspect of the decision process that can be adjusted to effectively improve decision accuracy.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Decision Making",
+            "Discrimination, Psychological",
+            "Female",
+            "Humans",
+            "Male",
+            "Models, Psychological",
+            "Photic Stimulation",
+            "Reaction Time",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tobias",
+                "Last Name": "Teichert",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, United States of America; Department of Psychiatry, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Jack",
+                "Last Name": "Grinband",
+                "Affiliation": "Department of Radiology, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24573287",
+        "Title": "Representation of outcome risk and action in the anterior caudate nucleus.",
+        "Abstract": "The anterior caudate nucleus is essential for goal-directed behavior because it links outcome information to actions. It is well known that caudate neurons provide a variety of reward-related and action signals. However, it is still unclear how the two signals are integrated. We investigated whether and how outcome risk modulates spatial representation. We recorded neural activity in the anterior caudate nucleus while monkeys made saccades to multiple spatial targets, each associated with either fixed (safe) or variable (risky) amount of reward. We report that individual neurons combined the outcome reward signal with spatial information about the direction of saccades. These signals could be reliably read out from the populations of neurons. Moreover, the prospect of a risky outcome improved the quality of spatial information. These results provide direct evidence that global spatial representation in the caudate is modulated by outcome, which can be important for flexible control of behavior, particularly during learning and habit formation, when outcomes vary.",
+        "Keywords": [
+            "basal ganglia",
+            "decision making",
+            "electrophysiology",
+            "neuronal populations",
+            "nonhuman primates",
+            "risk"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Caudate Nucleus",
+            "Choice Behavior",
+            "Cues",
+            "Macaca mulatta",
+            "Male",
+            "Memory",
+            "Neurons",
+            "Orientation",
+            "Predictive Value of Tests",
+            "Reaction Time",
+            "Reward",
+            "Risk",
+            "Risk-Taking",
+            "Saccades"
+        ],
+        "Authors": [
+            {
+                "First Name": "Marianna",
+                "Last Name": "Yanike",
+                "Affiliation": "Department of Neuroscience and Department of Psychiatry, Columbia University, New York, New York 10032."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24478349",
+        "Title": "Performance monitoring in monkey frontal eye field.",
+        "Abstract": "The frontal eye fields (FEF) are thought to mediate response selection during oculomotor decision tasks. In addition, many FEF neurons have robust postsaccadic responses, but their role in postchoice evaluative processes (online performance monitoring) is only beginning to become apparent. Here we report error-related neural activity in FEF while monkeys performed a biased speed-categorization task that enticed the animals to make impulsive errors. Twenty-three percent of cells in macaque FEF coded an internally generated error-related signal, and many of the same cells also coded task difficulty. The observed responses are primarily consistent with three related concepts that have been associated with performance monitoring: (1) response conflict; (2) uncertainty; and (3) reward prediction. Overall, our findings suggest a novel role for the FEF as part of the neural network that evaluates the preceding choice to optimize behavior in the future.",
+        "Keywords": [
+            "conflict monitoring",
+            "decision-making",
+            "error-detection",
+            "performance monitoring",
+            "reward prediction",
+            "uncertainty"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Brain Mapping",
+            "Decision Making",
+            "Eye Movements",
+            "Fourier Analysis",
+            "Frontal Lobe",
+            "Functional Laterality",
+            "Image Processing, Computer-Assisted",
+            "Linear Models",
+            "Macaca mulatta",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Neurons",
+            "Online Systems",
+            "Photic Stimulation",
+            "Predictive Value of Tests",
+            "Reaction Time",
+            "Reward",
+            "Visual Fields",
+            "Visual Pathways"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tobias",
+                "Last Name": "Teichert",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York 10032."
+            },
+            {
+                "First Name": "Dian",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "22737139",
+        "Title": "Orienting of attention to gaze direction cues in rhesus macaques: species-specificity, and effects of cue motion and reward predictiveness.",
+        "Abstract": "Primates live in complex social groups and rely on social cues to direct their attention. For example, primates react faster to an unpredictable stimulus after seeing a conspecific looking in the direction of that stimulus. In the current study we tested the specificity of facial cues (gaze direction) for orienting attention and their interaction with other cues that are known to guide attention. In particular, we tested whether macaque monkeys only respond to gaze cues from conspecifics or if the effect generalizes across species. We found an attentional advantage of conspecific faces over human and cartoon faces. Because gaze cues are often conveyed by gesture, we also explored the effect of image motion (a simulated glance) on the orienting of attention in monkeys. We found that the simulated glance did not significantly enhance the speed of orienting for monkey-face stimuli, but had a significant effect for images of human faces. Finally, because gaze cues presumably guide attention toward relevant or rewarding stimuli, we explored whether orienting of attention was modulated by reward predictiveness. When the cue predicted reward location, face, and non-face cues were effective in speeding responses toward the cued location. This effect was strongest for conspecific faces. In sum, our results suggest that while conspecific gaze cues activate an intrinsic process that reflexively directs spatial attention, its effect is relatively small in comparison to other features including motion and reward predictiveness. It is possible that gaze cues are more important for decision-making and voluntary orienting than for reflexive orienting.",
+        "Keywords": [
+            "Posner",
+            "conspecific",
+            "decision-making",
+            "endogenous",
+            "learned",
+            "monkey",
+            "reflexive"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Dian",
+                "Last Name": "Yu",
+                "Affiliation": "Department of Neuroscience, Mahoney Center, Columbia University New York, NY, USA."
+            },
+            {
+                "First Name": "Tobias",
+                "Last Name": "Teichert",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Frontiers in psychology",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21799913",
+        "Title": "Noninvasive, transient and selective blood-brain barrier opening in non-human primates in vivo.",
+        "Abstract": "The blood-brain barrier (BBB) is a specialized vascular system that impedes entry of all large and the vast majority of small molecules including the most potent central nervous system (CNS) disease therapeutic agents from entering from the lumen into the brain parenchyma. Microbubble-enhanced, focused ultrasound (ME-FUS) has been previously shown to disrupt noninvasively, selectively, and transiently the BBB in small animals in vivo. For the first time, the feasibility of transcranial ME-FUS BBB opening in non-human primates is demonstrated with subsequent BBB recovery. Sonications were combined with two different types of microbubbles (customized 4-5 \u00b5m and Definity\u00ae). 3T MRI was used to confirm the BBB disruption and to assess brain damage.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Blood-Brain Barrier",
+            "Drug Delivery Systems",
+            "Feasibility Studies",
+            "Magnetic Resonance Imaging",
+            "Microbubbles",
+            "Primates",
+            "Time Factors",
+            "Ultrasonics",
+            "Ultrasonography"
+        ],
+        "Authors": [
+            {
+                "First Name": "Fabrice",
+                "Last Name": "Marquet",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Yao-Sheng",
+                "Last Name": "Tung",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tobias",
+                "Last Name": "Teichert",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Elisa E",
+                "Last Name": "Konofagou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21554960",
+        "Title": "Conflict, error likelihood, and RT: Response to Brown & Yeung et al.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Brain Mapping",
+            "Choice Behavior",
+            "Female",
+            "Frontal Lobe",
+            "Humans",
+            "Male",
+            "Reaction Time"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jack",
+                "Last Name": "Grinband",
+                "Affiliation": "Departments of Radiology & Neuroscience, Columbia University, New York, NY 10032, USA. jg2269@columbia.edu"
+            },
+            {
+                "First Name": "Judith",
+                "Last Name": "Savitskaya",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tor D",
+                "Last Name": "Wager",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tobias",
+                "Last Name": "Teichert",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joy",
+                "Last Name": "Hirsch",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "NeuroImage",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21168515",
+        "Title": "The dorsal medial frontal cortex is sensitive to time on task, not response conflict or error likelihood.",
+        "Abstract": "The dorsal medial frontal cortex (dMFC) is highly active during choice behavior. Though many models have been proposed to explain dMFC function, the conflict monitoring model is the most influential. It posits that dMFC is primarily involved in detecting interference between competing responses thus signaling the need for control. It accurately predicts increased neural activity and response time (RT) for incompatible (high-interference) vs. compatible (low-interference) decisions. However, it has been shown that neural activity can increase with time on task, even when no decisions are made. Thus, the greater dMFC activity on incompatible trials may stem from longer RTs rather than response conflict. This study shows that (1) the conflict monitoring model fails to predict the relationship between error likelihood and RT, and (2) the dMFC activity is not sensitive to congruency, error likelihood, or response conflict, but is monotonically related to time on task.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Brain Mapping",
+            "Choice Behavior",
+            "Conflict, Psychological",
+            "Female",
+            "Frontal Lobe",
+            "Humans",
+            "Image Interpretation, Computer-Assisted",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Reaction Time",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jack",
+                "Last Name": "Grinband",
+                "Affiliation": "Department of Radiology, Columbia University, New York, NY 10032, USA. jackgrinband@gmail.com"
+            },
+            {
+                "First Name": "Judith",
+                "Last Name": "Savitskaya",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tor D",
+                "Last Name": "Wager",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tobias",
+                "Last Name": "Teichert",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joy",
+                "Last Name": "Hirsch",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "NeuroImage",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21151367",
+        "Title": "Suboptimal integration of reward magnitude and prior reward likelihood in categorical decisions by monkeys.",
+        "Abstract": "Sensory decisions may be influenced by non-sensory information regarding reward magnitude or reward likelihood. Given identical sensory information, it is more optimal to choose an option if it is a priori more likely to be correct and hence rewarded (prior reward likelihood bias), or if it yields a larger reward, given that it is the correct choice (reward magnitude bias). Here, we investigated the ability of macaque monkeys to integrate reward magnitude and prior reward likelihood information into a categorical decision about stimuli with high signal strength but variable decision uncertainty. In the asymmetric reward magnitude condition, monkeys over-adjusted their decision criterion such that they chose the highly rewarded alternative far more often than was optimal; in contrast, monkeys did not adjust their decision criterion in response to asymmetric reward likelihood. This finding shows that in this setting, monkeys did not adjust their decision criterion based on the product of reward likelihood and reward magnitude as has been reported to be the case in value-based decisions that do not involve decision uncertainty due to stimulus categorization.",
+        "Keywords": [
+            "categorization",
+            "psychometric function",
+            "reward bias",
+            "signal detection theory"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Tobias",
+                "Last Name": "Teichert",
+                "Affiliation": "Department of Neuroscience, Columbia University New York, NY, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Frontiers in neuroscience",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20810882",
+        "Title": "Internally generated error signals in monkey frontal eye field during an inferred motion task.",
+        "Abstract": "An internal model for predictive saccades in frontal cortex was investigated by recording neurons in monkey frontal eye field (FEF) during an inferred motion task. Monkeys were trained to make saccades to the extrapolated position of a small moving target that was rendered temporarily invisible and whose trajectory was altered. On approximately two-thirds of the trials, monkeys made multiple saccades while the target was invisible. Primary saccades were correlated with extrapolated target position. Secondary saccades significantly reduced residual errors resulting from imperfect accuracy of the first saccade. These observations suggest that the second saccade was corrective. Because there was no visual feedback, corrective saccades could only be driven by an internally generated error signal. Neuronal activity in the frontal eye field was directionally tuned before both primary and secondary saccades. Separate subpopulations of cells encoded either saccade direction or direction error before the second saccade. These results suggest that FEF neurons encode the error after the first saccade, as well as the direction of the second saccade. Hence, FEF appears to contribute to detecting and correcting movement errors based on internally generated signals.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Eye Movements",
+            "Feedback, Sensory",
+            "Haplorhini",
+            "Macaca mulatta",
+            "Male",
+            "Motion Perception",
+            "Photic Stimulation",
+            "Psychomotor Performance",
+            "Visual Fields"
+        ],
+        "Authors": [
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Departments of Psychiatry and Neuroscience, Columbia University, Keck-Mahoney Center for Brain and Behavior Research, New York, New York 10032, USA. vpf3@columbia.edu"
+            },
+            {
+                "First Name": "Andrei",
+                "Last Name": "Barborica",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19969009",
+        "Title": "Effects of heartbeat and respiration on macaque fMRI: implications for functional connectivity.",
+        "Abstract": "The use of functional magnetic resonance imaging (fMRI) in non-human primates is on the increase. It is known that the blood-oxygen-level-dependent (BOLD) signal varies not only as a function of local neuronal energy consumption but also as a function of cardiac and respiratory activity. We mapped these cyclic cardiac and respiratory artifacts in anesthetized macaque monkeys and present an objective analysis of their impact on estimates of functional connectivity (fcMRI). Voxels with significant cardiac and respiratory artifacts were found in much the same regions as previously reported for awake humans. We show two example seeds where removing the artifacts clearly decreased the number of false positive and false negative correlations. In particular, removing the artifacts reduced correlations in the so-called resting state network. Temporal bandpass filtering or spatial smoothing may help to reduce the effects of artifacts in some cases but are not an adequate replacement for an algorithm that explicitly models and removes cyclic cardiac and respiratory artifacts.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "Brain Mapping",
+            "Heart Rate",
+            "Image Processing, Computer-Assisted",
+            "Macaca mulatta",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Nerve Net",
+            "Oxygen",
+            "Respiration",
+            "Rest",
+            "Spectrum Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tobias",
+                "Last Name": "Teichert",
+                "Affiliation": "Columbia University, Department of Psychiatry and Neuroscience, David Mahoney Centre for Brain and Behavior Research, New York, USA. tt2288@columbia.edu"
+            },
+            {
+                "First Name": "Jack",
+                "Last Name": "Grinband",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joy",
+                "Last Name": "Hirsch",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuropsychologia",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19855389",
+        "Title": "Frontal eye field neurons signal changes in decision criteria.",
+        "Abstract": "Flexible links between sensory stimuli and behavioral responses underlie many cognitive processes. One process that contributes to flexible decision-making is categorization. Some categories are innate or overlearned, but, in many cases, category boundaries represent flexible decision criteria that can shift on the fly to adapt to changes in the environment. The ability to shift category boundaries allows decision-making to adapt to changing circumstances. We found that monkeys were able to switch rapidly between two category boundaries when classifying the speed of a moving dot pattern and that neurons in monkey frontal eye field (FEF) changed their activity when the boundary changed. The responses of a subpopulation of FEF neurons that were sensitive to both stimulus and boundary speed were used to classify the stimuli as accurately as the monkeys' performance.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Brain Mapping",
+            "Color Perception",
+            "Decision Making",
+            "Electric Stimulation",
+            "Macaca mulatta",
+            "Male",
+            "Memory, Short-Term",
+            "Motion Perception",
+            "Neurons",
+            "Neuropsychological Tests",
+            "Photic Stimulation",
+            "Reaction Time",
+            "Saccades",
+            "Statistics as Topic",
+            "Visual Cortex",
+            "Visual Fields",
+            "Visual Pathways",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York, USA. vpf3@columbia.edu"
+            },
+            {
+                "First Name": "Marianna",
+                "Last Name": "Yanike",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carlos",
+                "Last Name": "Cassanello",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18775784",
+        "Title": "Detection of time-varying signals in event-related fMRI designs.",
+        "Abstract": "In neuroimaging research on attention, cognitive control, decision-making, and other areas where response time (RT) is a critical variable, the temporal variability associated with the decision is often assumed to be inconsequential to the hemodynamic response (HDR) in rapid event-related designs. On this basis, the majority of published studies model brain activity lasting less than 4 s with brief impulses representing the onset of neural or cognitive events, which are then convolved with the hemodynamic impulse response function (HRF). However, electrophysiological studies have shown that decision-related neuronal activity is not instantaneous, but in fact, often lasts until the motor response. It is therefore possible that small differences in neural processing durations, similar to human RTs, will produce noticeable changes in the HDR, and therefore in the results of regression analyses. In this study we compare the effectiveness of traditional models that assume no temporal variance with a model that explicitly accounts for the duration of very brief epochs of neural activity. Using both simulations and fMRI data, we show that brief differences in duration are detectable, making it possible to dissociate the effects of stimulus intensity from stimulus duration, and that optimizing the model for the type of activity being detected improves the statistical power, consistency, and interpretability of results.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Brain",
+            "Brain Mapping",
+            "Humans",
+            "Image Interpretation, Computer-Assisted",
+            "Magnetic Resonance Imaging",
+            "Models, Neurological",
+            "Sensitivity and Specificity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jack",
+                "Last Name": "Grinband",
+                "Affiliation": "Program in Imaging and Cognitive Sciences, Columbia University, New York, New York 10032, USA. jg2269@columbia.edu"
+            },
+            {
+                "First Name": "Tor D",
+                "Last Name": "Wager",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Martin",
+                "Last Name": "Lindquist",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joy",
+                "Last Name": "Hirsch",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "NeuroImage",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18632886",
+        "Title": "Neuronal responses to moving targets in monkey frontal eye fields.",
+        "Abstract": "Due to delays in visuomotor processing, eye movements directed toward moving targets must integrate both target position and velocity to be accurate. It is unknown where and how target velocity information is incorporated into the planning of rapid (saccadic) eye movements. We recorded the activity of neurons in frontal eye fields (FEFs) while monkeys made saccades to stationary and moving targets. A substantial fraction of FEF neurons was found to encode not only the initial position of a moving target, but the metrics (amplitude and direction) of the saccade needed to intercept the target. Many neurons also encoded target velocity in a nearly linear manner. The quasi-linear dependence of firing rate on target velocity means that the neuronal response can be directly read out to compute the future position of a target moving with constant velocity. This is demonstrated using a quantitative model in which saccade amplitude is encoded in the population response of neurons tuned to retinal target position and modulated by target velocity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Analysis of Variance",
+            "Animals",
+            "Electric Stimulation",
+            "Eye",
+            "Eye Movements",
+            "Macaca mulatta",
+            "Male",
+            "Models, Biological",
+            "Motion Perception",
+            "Neurons",
+            "Numerical Analysis, Computer-Assisted",
+            "Photic Stimulation",
+            "Reaction Time",
+            "Statistics as Topic",
+            "Visual Cortex"
+        ],
+        "Authors": [
+            {
+                "First Name": "Carlos R",
+                "Last Name": "Cassanello",
+                "Affiliation": "Department of Neuroscience, Columbia University, and Keck-Mahoney Center for Mind and Brain, New York, New York, USA. Carlos.Cassanello@anu.edu.au"
+            },
+            {
+                "First Name": "Abhay T",
+                "Last Name": "Nihalani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17715189",
+        "Title": "Coordination of smooth pursuit and saccade target selection in monkeys.",
+        "Abstract": "The coordination of saccadic and smooth pursuit eye movements in macaque monkeys was investigated using a target selection paradigm with two moving targets crossing at a center fixation point. A task in which monkeys selected a target based on its color was used to test the hypothesis that common neural signals underlie target selection for pursuit and saccades, as well as testing whether target selection signals are available to the saccade and pursuit systems simultaneously or sequentially. Several combinations of target color, speed, and direction were used. In all cases, smooth pursuit was highly selective for the rewarded target before any saccade occurred. On >80% of the trials, the saccade was directed toward the same target as both pre- and postsaccadic pursuit. The results favor a model in which a shared target selection signal is simultaneously available to both the saccade and pursuit systems, rather than a sequential model.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Color",
+            "Data Interpretation, Statistical",
+            "Electromyography",
+            "Eye Movements",
+            "Macaca mulatta",
+            "Male",
+            "Models, Statistical",
+            "Photic Stimulation",
+            "Psychomotor Performance",
+            "Pursuit, Smooth",
+            "Saccades"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gilbert R",
+                "Last Name": "Case",
+                "Affiliation": "Biological Sciences Department, Florida State University, Tallahassee, FL, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17650063",
+        "Title": "Visual remapping by vector subtraction: analysis of multiplicative gain field models.",
+        "Abstract": "Saccadic eye movements remain spatially accurate even when the target becomes invisible and the initial eye position is perturbed. The brain accomplishes this in part by remapping the remembered target location in retinal coordinates. The computation that underlies this visual remapping is approximated by vector subtraction: the original saccade vector is updated by subtracting the vector corresponding to the intervening eye movement. The neural mechanism by which vector subtraction is implemented is not fully understood. Here, we investigate vector subtraction within a framework in which eye position and retinal target position signals interact multiplicatively (gain field). When the eyes move, they induce a spatial modulation of the firing rates across a retinotopic map of neurons. The updated saccade metric can be read from the shift of the peak of the population activity across the map. This model uses a quasi-linear (half-rectified) dependence on the eye position and requires the slope of the eye position input to be negatively proportional to the preferred retinal position of each neuron. We derive analytically this constraint and study its range of validity. We discuss how this mechanism relates to experimental results reported in the frontal eye fields of macaque monkeys.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Computer Simulation",
+            "Humans",
+            "Models, Neurological",
+            "Nonlinear Dynamics",
+            "Photic Stimulation",
+            "Saccades",
+            "Vision, Ocular",
+            "Visual Fields",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Carlos R",
+                "Last Name": "Cassanello",
+                "Affiliation": "Columbia University, Department of Psychiatry, Center for Neurobiology and Behavior, David Mahoney Center for Brain and Behavior Research, New York, NY, USA. cc2391@columbia.edu"
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neural computation",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17510192",
+        "Title": "Computing vector differences using a gain field-like mechanism in monkey frontal eye field.",
+        "Abstract": "Signals related to eye position are essential for visual perception and eye movements, and are powerful modulators of sensory responses in many regions of the visual and oculomotor systems. We show that visual and pre-saccadic responses of frontal eye field (FEF) neurons are modulated by initial eye position in a way suggestive of a multiplicative mechanism (gain field). Furthermore the slope of the eye position sensitivity tends to be negatively correlated with preferred retinal position across the population. A model with Gaussian visual receptive fields and linear-rectified eye position gain fields accounts for a large portion of the variance in the recorded data. Using physiologically derived parameters, this model is able to subtract the gaze shift from the vector representing the retinal location of the target. This computation might be used to maintain a memory of target location in space during ongoing eye movements. This updated spatial memory can be read directly from the locus of the peak of activity across the retinotopic map of FEF and it is the result of a vector subtraction between retinal target location when flashed and subsequent eye displacement in the dark.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Artifacts",
+            "Electric Stimulation",
+            "Eye Movements",
+            "Fixation, Ocular",
+            "Linear Models",
+            "Macaca mulatta",
+            "Models, Biological",
+            "Neurons",
+            "Normal Distribution",
+            "Photic Stimulation",
+            "Retina",
+            "Saccades",
+            "Vision, Ocular",
+            "Visual Fields"
+        ],
+        "Authors": [
+            {
+                "First Name": "Carlos R",
+                "Last Name": "Cassanello",
+                "Affiliation": "Center for Neurobiology and Behavior, Department of Psychiatry, Columbia University, 1051 Riverside Drive, Kolb Annex 504, New York, NY 10032, USA. cc2391@columbia.edu"
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of physiology",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17001336",
+        "Title": "Walk the line: parietal neurons respect category boundaries.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Haplorhini",
+            "Learning",
+            "Models, Psychological",
+            "Neurons",
+            "Orientation",
+            "Parietal Lobe",
+            "Pattern Recognition, Visual",
+            "Reward"
+        ],
+        "Authors": [
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jack",
+                "Last Name": "Grinband",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16723405",
+        "Title": "Modulation of visual responses in macaque frontal eye field during covert tracking of invisible targets.",
+        "Abstract": "The purpose of this study was to investigate the interaction between internal representations of invisible moving targets and visual responses of neurons in frontal eye fields (FEFs). Monkeys were trained to make saccades to the extrapolated position of a target that was temporarily rendered invisible for variable durations as if it had passed behind an occluder. Flashed, task-irrelevant visual probe stimuli were used to study the visual responsiveness of FEF neurons during this task. Probes were flashed at various times and locations during the occlusion interval. Net changes in neuronal activity were obtained by comparing the activity on trials with probes with randomly interleaved trials without any probe. Most neurons showed an increase in firing rate in response to the probe, but some showed a decrease. Both types of responses were enhanced when the invisible target moved toward the receptive field (RF) as compared with trials on which the target moved away from the RF. Some neurons showed a spatial shift in the visual response during the occlusion interval. For cells that were excited by the probe, the shift tended to be correlated with the direction of motion of the target, whereas for cells that were inhibited the shift tended to be in the opposite direction. These results suggest that the role of FEF in predicting invisible target motion includes a sensory/perceptual component.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adaptation, Physiological",
+            "Animals",
+            "Evoked Potentials, Visual",
+            "Macaca mulatta",
+            "Male",
+            "Motion Perception",
+            "Perceptual Masking",
+            "Photic Stimulation",
+            "Saccades",
+            "Visual Cortex",
+            "Visual Fields"
+        ],
+        "Authors": [
+            {
+                "First Name": "Quan",
+                "Last Name": "Xiao",
+                "Affiliation": "Department of Psychiatry, Center for Neurobiology and Behavior, David Mahoney Center for Brain and Behavior Research, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Andrei",
+                "Last Name": "Barborica",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cerebral cortex (New York, N.Y. : 1991)",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "16597350",
+        "Title": "Radial motion bias in macaque frontal eye field.",
+        "Abstract": "The visual responsiveness and spatial tuning of frontal eye field (FEF) neurons were determined using a delayed memory saccade task. Neurons with visual responses were then tested for direction selectivity using moving random dot patterns centered in the visual receptive field. The preferred axis of motion showed a significant tendency to be aligned with the receptive-field location so as to favor motion toward or away from the center of gaze. Centrifugal (outward) motion was preferred over centripetal motion. Motion-sensitive neurons in FEF thus appear to have a direction bias at the population level. This bias may facilitate the detection or discrimination of expanding optic flow patterns. The direction bias is similar to that seen in visual area MT and in posterior parietal cortex, from which FEF receives afferent projections. The outward motion bias may explain asymmetries in saccades made to moving targets. A representation of optic flow in FEF might be useful for planning eye movements during navigation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Electric Stimulation",
+            "Eye",
+            "Macaca mulatta",
+            "Male",
+            "Motion",
+            "Motion Perception",
+            "Neurons",
+            "Photic Stimulation",
+            "Reference Values",
+            "Saccades",
+            "Time Factors",
+            "Visual Cortex",
+            "Visual Fields",
+            "Visual Pathways"
+        ],
+        "Authors": [
+            {
+                "First Name": "Quan",
+                "Last Name": "Xiao",
+                "Affiliation": "Columbia University, Department of Psychiatry, Center for Neurobiology and Behavior, David Mahoney Center for Brain and Behavior Research, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Andrei",
+                "Last Name": "Barborica",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Visual neuroscience",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16510779",
+        "Title": "Perception, memory, and action in frontal and parietal cortex. Focus on \"Selection and maintenance of saccade goals in the human frontal eye fields\".",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Evoked Potentials, Visual",
+            "Frontal Lobe",
+            "Humans",
+            "Memory",
+            "Parietal Lobe",
+            "Saccades",
+            "Visual Fields",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jack",
+                "Last Name": "Grinband",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of neurophysiology",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16504950",
+        "Title": "A neural representation of categorization uncertainty in the human brain.",
+        "Abstract": "The ability to classify visual objects into discrete categories (\"friend\" versus \"foe\"; \"edible\" versus \"poisonous\") is essential for survival and is a fundamental cognitive function. The cortical substrates that mediate this function, however, have not been identified in humans. To identify brain regions involved in stimulus categorization, we developed a task in which subjects classified stimuli according to a variable categorical boundary. Psychophysical functions were used to define a decision variable, categorization uncertainty, which was systematically manipulated. Using event-related functional MRI, we discovered that activity in a fronto-striatal-thalamic network, consisting of the medial frontal gyrus, anterior insula, ventral striatum, and dorsomedial thalamus, was modulated by categorization uncertainty. We found this network to be distinct from the frontoparietal attention network, consisting of the frontal and parietal eye fields, where activity was not correlated with categorization uncertainty.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Attention",
+            "Brain",
+            "Brain Mapping",
+            "Female",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Models, Psychological",
+            "Nerve Net",
+            "Oxygen",
+            "Pattern Recognition, Visual",
+            "Photic Stimulation",
+            "Psychophysics",
+            "Reaction Time",
+            "Time Factors",
+            "Uncertainty"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jack",
+                "Last Name": "Grinband",
+                "Affiliation": "Center for Neurobiology and Behavior, Columbia University, New York, New York 10032, USA. jg2269@columbia.edu"
+            },
+            {
+                "First Name": "Joy",
+                "Last Name": "Hirsch",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16446136",
+        "Title": "A flashing line can warp your mind.",
+        "Abstract": "Keeping pace with a constantly changing world requires the ability to make predictions about the future on a variety of timescales. A very basic example of this is the ability to predict the future location of a moving object in the brief time that it takes to perceive and respond to that object. In this issue of Neuron, experiments by Sundberg, Fallah, and Reynolds reveal a potential neural substrate for making short-range predictions about motion in visual area V4.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Brain Mapping",
+            "Humans",
+            "Mental Processes",
+            "Motion Perception",
+            "Neural Networks, Computer",
+            "Photic Stimulation",
+            "Time Perception",
+            "Visual Cortex"
+        ],
+        "Authors": [
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": "Columbia University, Department of Psychiatry, Center for Neurobiology and Behavior, David Mahoney Center for Brain and Behavior Research, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Andrei",
+                "Last Name": "Barborica",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16127440",
+        "Title": "Motion processing in macaque V4.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Macaca",
+            "Motion Perception",
+            "Visual Cortex"
+        ],
+        "Authors": [
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John H R",
+                "Last Name": "Maunsell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15969908",
+        "Title": "Microstimulation of the dorsolateral prefrontal cortex biases saccade target selection.",
+        "Abstract": "A long-standing issue concerning the executive function of the primate dorsolateral prefrontal cortex is how the activity of prefrontal neurons is linked to behavioral response selection. To establish a functional relationship between prefrontal memory fields and saccade target selection, we trained three macaque monkeys to make saccades to the remembered location of a visual cue in a delayed spatial match-to-sample saccade task. We electrically stimulated sites in the prefrontal cortex with subthreshold currents during the delay epoch while monkeys performed this task. Our results show that the artificially injected signal interacts with the neural activity responsible for target selection, biasing saccade choices either towards the receptive/movement field (RF/MF) or away from the RF/MF, depending on the stimulation site. These findings might reflect a functional link between prefrontal signals responsible for the selection bias by modulating the balance between excitation and inhibition in the competitive interactions underlying behavioral selection.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Electric Stimulation",
+            "Macaca mulatta",
+            "Male",
+            "Neural Inhibition",
+            "Prefrontal Cortex",
+            "Reaction Time",
+            "Saccades"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ioan",
+                "Last Name": "Opris",
+                "Affiliation": "Center for Neurobiology and Behavior and Department of Psychiatry, Columbia University, New York, NY 10032, USA. iopris@wfubmc.edu"
+            },
+            {
+                "First Name": "Andrei",
+                "Last Name": "Barborica",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of cognitive neuroscience",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15893784",
+        "Title": "Effects of electrical microstimulation in monkey frontal eye field on saccades to remembered targets.",
+        "Abstract": "Spatially selective delay activity in the frontal eye field (FEF) is hypothesized to be part of a mechanism for the transformation of visual signals into instructions for voluntary movements. To understand the linkage between FEF activity and eye movement planning, we recorded neuronal responses of FEF neurons while monkeys performed a memory-saccade task. We then electrically stimulated the same sites during the memory-delay epoch of the task. The stimulation currents used were subthreshold for evoking saccades during a gap-fixation task. Microstimulation resulted in changes in the spatial and temporal components of saccade parameters: an increase in latency, and a shift in amplitude and direction. We performed a vector analysis to determine the relative influence of the visual cue and electrical stimulus on the memory-saccade. In general, the memory-saccade was strongly weighted toward the visual cue direction, yet the electrical stimulus introduced a consistent bias away from the receptive/movement field of the stimulation site. The effects of sub-threshold stimulation were consistent with a combination of vector subtraction and averaging, but not with vector summation. Vector subtraction may play a role in spatial updating of movement plans for memory-guided saccades when eye position changes during the memory period.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cues",
+            "Electric Stimulation",
+            "Fixation, Ocular",
+            "Macaca mulatta",
+            "Male",
+            "Memory",
+            "Neurons",
+            "Neuropsychological Tests",
+            "Prefrontal Cortex",
+            "Reaction Time",
+            "Saccades",
+            "Visual Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ioan",
+                "Last Name": "Opris",
+                "Affiliation": "David A. Mahoney Center for Brain and Behavioral Studies, Center for Neurobiology and Behavior, Columbia University, New York, NY 10032, USA. iopris@wfubmc.edu"
+            },
+            {
+                "First Name": "Andrei",
+                "Last Name": "Barborica",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Vision research",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15056705",
+        "Title": "Modification of saccades evoked by stimulation of frontal eye field during invisible target tracking.",
+        "Abstract": "We investigated the internal representation of invisible moving targets using electrical microstimulation in the prefrontal cortex. Monkeys were trained to make saccades to the extrapolated position of a small moving target that was rendered invisible during part of its trajectory. Although the target was invisible, involuntary saccades were evoked by electrical microstimulation of the frontal eye field. Stimulation was applied at different times relative to the disappearance of the target while the monkey fixated. When stimulation was applied immediately after target disappearance, electrically evoked saccades were biased toward the starting point of the target trajectory. When stimulation was applied later in the trial, evoked saccades were biased toward the end of the trajectory. The bias in evoked saccade direction changed continuously over time. The magnitude and statistical significance of the electrically evoked saccade deviation depended on the accuracy of the monkeys' voluntary saccades relative to the invisible target. The results suggest that covert tracking is accompanied by a continuously shifting saccade plan that moves along the target path.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Electric Stimulation",
+            "Fixation, Ocular",
+            "Macaca mulatta",
+            "Male",
+            "Motion Perception",
+            "Prefrontal Cortex",
+            "Saccades",
+            "Task Performance and Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrei",
+                "Last Name": "Barborica",
+                "Affiliation": "Department of Psychiatry, Center for Neurobiology and Behavior, Keck-Mahoney Center for Brain and Behavior Research, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "14673003",
+        "Title": "Effects of spontaneous eye movements on spatial memory in macaque periarcuate cortex.",
+        "Abstract": "Persistent activity in prefrontal cortex during delayed response tasks is a putative neural correlate of spatial working memory. We tested whether this activity was sensitive to eye movements made during the memory interval by recording from prefrontal neurons while monkeys performed a delayed spatial matching saccade task in which they were allowed to make eye movements freely. We found that eye movements degraded the spatial tuning of persistent activity even as there was an improvement in behavioral performance. Although the strength of the memory signal decreased, delay activity continued to signal the location of cue. The results suggest that free eye movements reduce neuronal gain rather than add variability. The saccades performed during the delay suggest the existence of a rehearsal mechanism that could contribute to working memory maintenance. The results do not provide support for a segregation of storage and executive functions in the periarcuate cortex.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Behavior, Animal",
+            "Macaca mulatta",
+            "Male",
+            "Memory",
+            "Neurons",
+            "Prefrontal Cortex",
+            "Saccades"
+        ],
+        "Authors": [
+            {
+                "First Name": "Puiu F",
+                "Last Name": "Balan",
+                "Affiliation": "Columbia University, Department of Psychiatry, Center for Neurobiology and Behavior, David Mahoney Center for Brain and Behavior Research, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12843243",
+        "Title": "Effects of gaze shifts on maintenance of spatial memory in macaque frontal eye field.",
+        "Abstract": "The activity of 91 neurons in the frontal eye fields (FEFs) of two macaque monkeys was recorded while the animals performed a delayed spatial match-to-sample task. During the delay, the animals were required to shift their gaze to one of four eccentric locations. Neuronal activity during the delay was analyzed for sensitivity to cue location and eye position. One-third of the neurons showed significant delay activity selective for cue location, whereas slightly more than one-half of the neurons showed significant modulation of delay activity when the gaze was shifted to an eccentric location. Despite this modulation, the neurons continued to signal their preferred cue location during most of the delay. However, after recentering saccades, the memory signal was temporarily abolished and then reemerged over a period of few hundred milliseconds. This is consistent with the idea that spatial working memory is buffered outside of the FEF. For most neurons, delay activity tended to increase when the gaze was shifted away from the preferred location and to decrease when the gaze was shifted toward the preferred location. This pattern of modulation is consistent with a vector subtraction mechanism that allows for the superposition of multiple saccade plans.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cues",
+            "Electric Stimulation",
+            "Electrodes, Implanted",
+            "Fixation, Ocular",
+            "Frontal Lobe",
+            "Macaca mulatta",
+            "Male",
+            "Memory",
+            "Neurons",
+            "Parietal Lobe",
+            "Photic Stimulation",
+            "Saccades",
+            "Space Perception",
+            "Visual Fields"
+        ],
+        "Authors": [
+            {
+                "First Name": "Puiu F",
+                "Last Name": "Balan",
+                "Affiliation": "Department of Psychiatry, Center for Neurobiology and Behavior, and David Mahoney Center for Brain and Behavior Research, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12535990",
+        "Title": "Comparison of performance on memory-guided saccade and delayed spatial match-to-sample tasks in monkeys.",
+        "Abstract": "To investigate the sources of spatial error in memory-guided saccades (MGS), we have trained monkeys on two different tasks: a MGS task and a delayed spatial match-to-sample (MTS) task. We first tested the effect of introducing a post-saccadic visual feedback on the accuracy of MGS. We found that visual feedback had a pronounced effect on the systematic saccade error, but less of an effect on the variable error. Visual feedback can improve the accuracy of saccadic eye movements over several days, while feedback removal can decrease accuracy in a reversible way. These effects also depend both on target eccentricity and the duration of the memory delay. To test whether saccade error is due to the accuracy of spatial memory storage or arises downstream from that memory, we measured behavioral performance on a spatial MTS task both before and after training with visual feedback. The results showed no significant difference in performance of the MTS task before and after feedback training despite significant changes in MGS accuracy. The results suggest that the accuracy of spatial memory is not the source of the systematic errors that accompany MGS.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Analysis of Variance",
+            "Animals",
+            "Cues",
+            "Discrimination Learning",
+            "Feedback",
+            "Macaca mulatta",
+            "Male",
+            "Memory",
+            "Photic Stimulation",
+            "Psychomotor Performance",
+            "Saccades",
+            "Space Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ioan",
+                "Last Name": "Opris",
+                "Affiliation": "Department of Psychiatry, Center for Neurobiology and Behavior, Columbia University, New York, NY 10032, USA. ioan.opris@yale.edu"
+            },
+            {
+                "First Name": "Andrei",
+                "Last Name": "Barborica",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Vision research",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12483216",
+        "Title": "Estimating invisible target speed from neuronal activity in monkey frontal eye field.",
+        "Abstract": "Working memory involves transient storage of information and the ability to manipulate that information for short-range planning and prediction. The computational aspect of working memory can be probed using dynamic sensorimotor behavior requiring complex stimulus-response mappings. Such a transformation occurs when extrapolating the future location of a moving target that is rendered temporarily invisible. Estimating the trajectory of an invisible moving target requires encoding and storing several target features, including the direction and speed of motion. We trained monkeys to make saccades to the estimated position of invisible targets moving at various speeds. The activity of neurons in the frontal eye field (FEF) was consistently modulated according to the speed of target motion. A reconstruction algorithm showed that estimates of target speed based on FEF activity were similar to behavioral speed estimates. FEF may therefore be involved in updating an internal representation of target trajectory for predictive saccades.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Fixation, Ocular",
+            "Frontal Lobe",
+            "Macaca mulatta",
+            "Male",
+            "Memory, Short-Term",
+            "Models, Neurological",
+            "Motion Perception",
+            "Nerve Net",
+            "Neurons",
+            "Photic Stimulation",
+            "Psychomotor Performance",
+            "Reaction Time",
+            "Saccades",
+            "Synaptic Transmission"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrei",
+                "Last Name": "Barborica",
+                "Affiliation": "Department of Psychiatry, Center for Neurobiology and Behavior, and David Mahoney Center for Mind and Brain, Columbia University, 1051 Riverside Dr., Kolb Annex 504, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Ferrera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2003"
+    }
+]

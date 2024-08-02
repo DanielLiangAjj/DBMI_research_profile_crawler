@@ -1,0 +1,3137 @@
+[
+    {
+        "PMID": "38565852",
+        "Title": "AI is a viable alternative to high throughput screening: a 318-target study.",
+        "Abstract": "High throughput screening (HTS) is routinely used to identify bioactive small molecules. This requires physical compounds, which limits coverage of accessible chemical space. Computational approaches combined with vast on-demand chemical libraries can access far greater chemical space, provided that the predictive accuracy is sufficient to identify useful molecules. Through the largest and most diverse virtual HTS campaign reported to date, comprising 318 individual projects, we demonstrate that our AtomNet\u00ae convolutional neural network successfully finds novel hits across every major therapeutic area and protein class. We address historical limitations of computational screening by demonstrating success for target proteins without known binders, high-quality X-ray crystal structures, or manual cherry-picking of compounds. We show that the molecules selected by the AtomNet\u00ae model are novel drug-like scaffolds rather than minor modifications to known bioactive compounds. Our empirical results suggest that computational methods can substantially replace HTS as the first step of small-molecule drug discovery.",
+        "Keywords": [],
+        "MeSH terms": [
+            "High-Throughput Screening Assays",
+            "Drug Discovery",
+            "Small Molecule Libraries"
+        ],
+        "Authors": [
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38309503",
+        "Title": "NEDD4L intramolecular interactions regulate its auto and substrate Na",
+        "Abstract": "NEDD4L is a HECT-type E3 ligase that catalyzes the addition of ubiquitin to intracellular substrates such as the cardiac voltage-gated sodium channel, Na",
+        "Keywords": [
+            "E3 ligases",
+            "HECT",
+            "NEDD4-2",
+            "NEDD4L",
+            "NanoMaN",
+            "Nav1.5",
+            "PTM",
+            "SCN5A",
+            "mass spectrometry",
+            "nanobody",
+            "post translational modification",
+            "proteostasis",
+            "transthioesterification",
+            "ubiquitin",
+            "voltage-gated sodium channel"
+        ],
+        "MeSH terms": [
+            "Endosomal Sorting Complexes Required for Transport",
+            "Nedd4 Ubiquitin Protein Ligases",
+            "Ubiquitin",
+            "Ubiquitination",
+            "Humans",
+            "NAV1.5 Voltage-Gated Sodium Channel",
+            "HEK293 Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Katharine M",
+                "Last Name": "Wright",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Sara",
+                "Last Name": "Nathan",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Hanjie",
+                "Last Name": "Jiang",
+                "Affiliation": "Division of Genetics, Department of Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA; Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, Massachusetts, USA; Department of Pharmacology and Molecular Sciences, Johns Hopkins School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Wendy",
+                "Last Name": "Xia",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "HyoJeon",
+                "Last Name": "Kim",
+                "Affiliation": "Division of Genetics, Department of Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA; Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Nourdine",
+                "Last Name": "Chakouri",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Justin N",
+                "Last Name": "Nwafor",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Lucile",
+                "Last Name": "Fossier",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Lakshmi",
+                "Last Name": "Srinivasan",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Zan",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Tatiana",
+                "Last Name": "Boronina",
+                "Affiliation": "Mass Spectrometry and Proteomics Facility, Department of Biological Chemistry, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Jeremy",
+                "Last Name": "Post",
+                "Affiliation": "Mass Spectrometry and Proteomics Facility, Department of Biological Chemistry, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Suman",
+                "Last Name": "Paul",
+                "Affiliation": "Department of Oncology, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Robert N",
+                "Last Name": "Cole",
+                "Affiliation": "Mass Spectrometry and Proteomics Facility, Department of Biological Chemistry, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Philip A",
+                "Last Name": "Cole",
+                "Affiliation": "Division of Genetics, Department of Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA; Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Sandra B",
+                "Last Name": "Gabelli",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA; Department of Oncology, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA; Department of Medicine, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA. Electronic address: sandra.gabelli@merck.com."
+            }
+        ],
+        "Journal": "The Journal of biological chemistry",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38227371",
+        "Title": "A membrane-associated phosphoswitch in Rad controls adrenergic regulation of cardiac calcium channels.",
+        "Abstract": "The ability to fight or flee from a threat relies on an acute adrenergic surge that augments cardiac output, which is dependent on increased cardiac contractility and heart rate. This cardiac response depends on \u03b2-adrenergic-initiated reversal of the small RGK G protein Rad-mediated inhibition of voltage-gated calcium channels (CaV) acting through the Cav\u03b2 subunit. Here, we investigate how Rad couples phosphorylation to augmented Ca2+ influx and increased cardiac contraction. We show that reversal required phosphorylation of Ser272 and Ser300 within Rad's polybasic, hydrophobic C-terminal domain (CTD). Phosphorylation of Ser25 and Ser38 in Rad's N-terminal domain (NTD) alone was ineffective. Phosphorylation of Ser272 and Ser300 or the addition of 4 Asp residues to the CTD reduced Rad's association with the negatively charged, cytoplasmic plasmalemmal surface and with CaV\u03b2, even in the absence of CaV\u03b1, measured here by FRET. Addition of a posttranslationally prenylated CAAX motif to Rad's C-terminus, which constitutively tethers Rad to the membrane, prevented the physiological and biochemical effects of both phosphorylation and Asp substitution. Thus, dissociation of Rad from the sarcolemma, and consequently from CaV\u03b2, is sufficient for sympathetic upregulation of Ca2+ currents.",
+        "Keywords": [
+            "Calcium channels",
+            "Cardiology",
+            "Cardiovascular disease",
+            "Excitation contraction coupling"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Adrenergic Agents",
+            "Calcium",
+            "Calcium Channels, L-Type",
+            "Myocytes, Cardiac",
+            "Monomeric GTP-Binding Proteins",
+            "Arrhythmias, Cardiac"
+        ],
+        "Authors": [
+            {
+                "First Name": "Arianne",
+                "Last Name": "Papa",
+                "Affiliation": "Division of Cardiology, Department of Medicine, and."
+            },
+            {
+                "First Name": "Pedro J",
+                "Last Name": "Del Rivero Morfin",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Bi-Xing",
+                "Last Name": "Chen",
+                "Affiliation": "Division of Cardiology, Department of Medicine, and."
+            },
+            {
+                "First Name": "Lin",
+                "Last Name": "Yang",
+                "Affiliation": "Division of Cardiology, Department of Medicine, and."
+            },
+            {
+                "First Name": "Alexander N",
+                "Last Name": "Katchman",
+                "Affiliation": "Division of Cardiology, Department of Medicine, and."
+            },
+            {
+                "First Name": "Sergey I",
+                "Last Name": "Zakharov",
+                "Affiliation": "Division of Cardiology, Department of Medicine, and."
+            },
+            {
+                "First Name": "Guoxia",
+                "Last Name": "Liu",
+                "Affiliation": "Division of Cardiology, Department of Medicine, and."
+            },
+            {
+                "First Name": "Michael S",
+                "Last Name": "Bohnen",
+                "Affiliation": "Division of Cardiology, Department of Medicine, and."
+            },
+            {
+                "First Name": "Vivian",
+                "Last Name": "Zheng",
+                "Affiliation": "Division of Cardiology, Department of Medicine, and."
+            },
+            {
+                "First Name": "Moshe",
+                "Last Name": "Katz",
+                "Affiliation": "Faculty of Medicine and."
+            },
+            {
+                "First Name": "Suraj",
+                "Last Name": "Subramaniam",
+                "Affiliation": "Faculty of Life Sciences, Tel Aviv University, Tel Aviv, Israel."
+            },
+            {
+                "First Name": "Joel A",
+                "Last Name": "Hirsch",
+                "Affiliation": "Faculty of Life Sciences, Tel Aviv University, Tel Aviv, Israel."
+            },
+            {
+                "First Name": "Sharon",
+                "Last Name": "Weiss",
+                "Affiliation": "Faculty of Medicine and."
+            },
+            {
+                "First Name": "Nathan",
+                "Last Name": "Dascal",
+                "Affiliation": "Faculty of Medicine and."
+            },
+            {
+                "First Name": "Arthur",
+                "Last Name": "Karlin",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Geoffrey S",
+                "Last Name": "Pitt",
+                "Affiliation": "Cardiovascular Research Institute and Department of Medicine, Weill Cornell Medical College, New York, New York, USA."
+            },
+            {
+                "First Name": "Henry M",
+                "Last Name": "Colecraft",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Steven O",
+                "Last Name": "Marx",
+                "Affiliation": "Division of Cardiology, Department of Medicine, and."
+            }
+        ],
+        "Journal": "The Journal of clinical investigation",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38175169",
+        "Title": "Asymmetric contribution of a selectivity filter gate in triggering inactivation of CaV1.3 channels.",
+        "Abstract": "Voltage-dependent and Ca2+-dependent inactivation (VDI and CDI, respectively) of CaV channels are two biologically consequential feedback mechanisms that fine-tune Ca2+ entry into neurons and cardiomyocytes. Although known to be initiated by distinct molecular events, how these processes obstruct conduction through the channel pore remains poorly defined. Here, focusing on ultrahighly conserved tryptophan residues in the interdomain interfaces near the selectivity filter of CaV1.3, we demonstrate a critical role for asymmetric conformational changes in mediating VDI and CDI. Specifically, mutagenesis of the domain III-IV interface, but not others, enhanced VDI. Molecular dynamics simulations demonstrate that mutations in distinct selectivity filter interfaces differentially impact conformational flexibility. Furthermore, mutations in distinct domains preferentially disrupt CDI mediated by the N- versus C-lobes of CaM, thus uncovering a scheme of structural bifurcation of CaM signaling. These findings highlight the fundamental importance of the asymmetric arrangement of the pseudotetrameric CaV pore domain for feedback inhibition.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Calcium",
+            "Mutation",
+            "Molecular Dynamics Simulation",
+            "Myocytes, Cardiac",
+            "Neurons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pedro J",
+                "Last Name": "Del Rivero Morfin",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Audrey L",
+                "Last Name": "Kochiss",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Klaus R",
+                "Last Name": "Liedl",
+                "Affiliation": "Institute of General, Inorganic and Theoretical Chemistry, University of Innsbruck , Innsbruck, Austria."
+            },
+            {
+                "First Name": "Bernhard E",
+                "Last Name": "Flucher",
+                "Affiliation": "Department of Physiology and Medical Physics, Institute of Physiology, Medical University Innsbruck, Innsbruck, Austria."
+            },
+            {
+                "First Name": "Monica L I",
+                "Last Name": "Fern\u00e1ndez-Quintero",
+                "Affiliation": "Institute of General, Inorganic and Theoretical Chemistry, University of Innsbruck , Innsbruck, Austria."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "The Journal of general physiology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37790372",
+        "Title": "A Genetically Encoded Actuator Selectively Boosts L-type Calcium Channels in Diverse Physiological Settings.",
+        "Abstract": "L-type Ca ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Pedro J",
+                "Last Name": "Del Rivero Morfin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Diego Scala",
+                "Last Name": "Chavez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Srinidhi",
+                "Last Name": "Jayaraman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lin",
+                "Last Name": "Yang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Audrey L",
+                "Last Name": "Kochiss",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Henry M",
+                "Last Name": "Colecraft",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "X Shawn",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steven O",
+                "Last Name": "Marx",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anjali M",
+                "Last Name": "Rajadhyaksha",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37790368",
+        "Title": "Asymmetric Contribution of a Selectivity Filter Gate in Triggering Inactivation of Ca",
+        "Abstract": "Voltage-dependent and Ca",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Pedro J",
+                "Last Name": "Del Rivero Morfin",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University."
+            },
+            {
+                "First Name": "Audrey L",
+                "Last Name": "Kochiss",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University."
+            },
+            {
+                "First Name": "Klaus R",
+                "Last Name": "Liedl",
+                "Affiliation": "Institute of General, Inorganic and Theoretical Chemistry, University of Innsbruck, Innsbruck, Austria."
+            },
+            {
+                "First Name": "Bernhard E",
+                "Last Name": "Flucher",
+                "Affiliation": "Institute of Physiology, Department of Physiology and Medical Physics, Medical University Innsbruck, Innsbruck, Austria."
+            },
+            {
+                "First Name": "Monica L I",
+                "Last Name": "Fern\u00e1ndez-Quintero",
+                "Affiliation": "Institute of General, Inorganic and Theoretical Chemistry, University of Innsbruck, Innsbruck, Austria."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37555356",
+        "Title": "Coupled sodium channels: Does it really take two to tango?",
+        "Abstract": null,
+        "Keywords": [
+            "NaV1.5",
+            "Sodium channels",
+            "cardiac arrhythmia",
+            "coupled gating",
+            "ion channels"
+        ],
+        "MeSH terms": [
+            "Sodium Channels",
+            "Membrane Potentials",
+            "NAV1.5 Voltage-Gated Sodium Channel"
+        ],
+        "Authors": [
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "The Journal of physiology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37516972",
+        "Title": "Protocol for deriving proximity, affinity, and stoichiometry of protein interactions using image-based quantitative two-hybrid FRET.",
+        "Abstract": "Two-hybrid F\u00f6rster resonance energy transfer (FRET) provides proximity, affinity, and stoichiometry information in binding interactions. We present an image-based approach that surpasses traditional two-hybrid FRET assays in precision and robustness. We outline instrument setup and image acquisition and further describe steps for image preprocessing and two-hybrid FRET analysis using provided software to simplify the workflow. This protocol is compatible with confocal microscopes for high-precision and imaging plate readers for high-throughput applications. A plasmid-based reference system supports fast establishment of the protocol. For complete details on the use and execution of this protocol, please refer to Rivas et\u00a0al.",
+        "Keywords": [
+            "Microscopy"
+        ],
+        "MeSH terms": [
+            "Fluorescence Resonance Energy Transfer",
+            "Software",
+            "Plasmids"
+        ],
+        "Authors": [
+            {
+                "First Name": "Colin",
+                "Last Name": "Feldmann",
+                "Affiliation": "Institute of Cardiovascular Physiology and Pathophysiology, Faculty of Medicine, Biomedical Center, LMU-Munich, 82152 Planegg-Martinsried, Germany; Institute of Neurophysiology, Medizinische Hochschule Hannover, 30625 Hannover, Germany."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Sch\u00e4nzler",
+                "Affiliation": "Institute of Neurophysiology, Medizinische Hochschule Hannover, 30625 Hannover, Germany."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, Medical Center, New York 10032, NY, USA."
+            },
+            {
+                "First Name": "Christian",
+                "Last Name": "Wahl-Schott",
+                "Affiliation": "Institute of Cardiovascular Physiology and Pathophysiology, Faculty of Medicine, Biomedical Center, LMU-Munich, 82152 Planegg-Martinsried, Germany; Institute of Neurophysiology, Medizinische Hochschule Hannover, 30625 Hannover, Germany. Electronic address: christian.wahlschott@med.uni-muenchen.de."
+            }
+        ],
+        "Journal": "STAR protocols",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36707054",
+        "Title": "Ion channel chameleons: Switching ion selectivity by alternative splicing.",
+        "Abstract": "Voltage-gated sodium and calcium channels are distinct, evolutionarily related ion channels that achieve remarkable ion selectivity despite sharing an overall similar structure. Classical studies have shown that ion selectivity is determined by specific binding of ions to the channel pore, enabled by signature amino acid sequences within the selectivity filter (SF). By studying ancestral channels in the pond snail (Lymnaea stagnalis), Guan et\u00a0al. showed in a recent JBC article that this well-established mechanism can be tuned by alternative splicing, allowing a single Ca",
+        "Keywords": [
+            "CaV3",
+            "T-type channels",
+            "calcium channels",
+            "ion channels",
+            "ion selectivity",
+            "lymnaea CaV3",
+            "sodium channels"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Alternative Splicing",
+            "Amino Acid Sequence",
+            "Calcium",
+            "Calcium Channels",
+            "Ions",
+            "Snails",
+            "Voltage-Gated Sodium Channels"
+        ],
+        "Authors": [
+            {
+                "First Name": "Allen L",
+                "Last Name": "Hsu",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, New York, USA. Electronic address: mbj2124@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of biological chemistry",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36592229",
+        "Title": "Sympathetic Nervous System Regulation of Cardiac Calcium Channels.",
+        "Abstract": "Calcium influx through voltage-gated calcium channels, Ca",
+        "Keywords": [
+            "Adrenergic",
+            "Calcium channels",
+            "Heart",
+            "Phosphorylation"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Calcium Channels",
+            "Calcium",
+            "Receptors, Adrenergic, beta",
+            "Myocytes, Cardiac",
+            "Sympathetic Nervous System",
+            "Cyclic AMP-Dependent Protein Kinases",
+            "Calcium Channels, L-Type",
+            "Phosphorylation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pedro J",
+                "Last Name": "Del Rivero Morfin",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Steven O",
+                "Last Name": "Marx",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA. sm460@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA. mbj2124@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Handbook of experimental pharmacology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36494348",
+        "Title": "Selective posttranslational inhibition of Ca",
+        "Abstract": "Ca",
+        "Keywords": [],
+        "MeSH terms": [
+            "Calcium Channels",
+            "Myocytes, Cardiac",
+            "Neurons",
+            "src Homology Domains",
+            "Protein Isoforms",
+            "Calcium Channels, L-Type",
+            "Calcium"
+        ],
+        "Authors": [
+            {
+                "First Name": "Travis J",
+                "Last Name": "Morgenstern",
+                "Affiliation": "Department of Molecular Pharmacology and Therapeutics, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Neha",
+                "Last Name": "Nirwan",
+                "Affiliation": "Cardiovascular Research Institute, University of California, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Erick O",
+                "Last Name": "Hern\u00e1ndez-Ochoa",
+                "Affiliation": "Department of Biochemistry and Biology, University of Maryland School of Medicine, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Hugo",
+                "Last Name": "Bibollet",
+                "Affiliation": "Department of Biochemistry and Biology, University of Maryland School of Medicine, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Papiya",
+                "Last Name": "Choudhury",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Yianni D",
+                "Last Name": "Laloudakis",
+                "Affiliation": "Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Roger A",
+                "Last Name": "Bannister",
+                "Affiliation": "Department of Biochemistry and Biology, University of Maryland School of Medicine, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Martin F",
+                "Last Name": "Schneider",
+                "Affiliation": "Department of Biochemistry and Biology, University of Maryland School of Medicine, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Daniel L",
+                "Last Name": "Minor",
+                "Affiliation": "Cardiovascular Research Institute, University of California, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Henry M",
+                "Last Name": "Colecraft",
+                "Affiliation": "Department of Molecular Pharmacology and Therapeutics, Columbia University Irving Medical Center, New York, NY, USA. hc2405@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "36424916",
+        "Title": "Rad regulation of Ca",
+        "Abstract": "Fight-or-flight responses involve \u03b2-adrenergic-induced increases in heart rate and contractile force. In the present study, we uncover the primary mechanism underlying the heart's innate contractile reserve. We show that four protein kinase A (PKA)-phosphorylated residues in Rad, a calcium channel inhibitor, are crucial for controlling basal calcium current and essential for \u03b2-adrenergic augmentation of calcium influx in cardiomyocytes. Even with intact PKA signaling to other proteins modulating calcium handling, preventing adrenergic activation of calcium channels in Rad-phosphosite-mutant mice (4SA-Rad) has profound physiological effects: reduced heart rate with increased pauses, reduced basal contractility, near-complete attenuation of \u03b2-adrenergic contractile response and diminished exercise capacity. Conversely, expression of mutant calcium-channel \u03b2-subunits that cannot bind 4SA-Rad is sufficient to enhance basal calcium influx and contractility to adrenergically augmented levels of wild-type mice, rescuing the failing heart phenotype of 4SA-Rad mice. Hence, disruption of interactions between Rad and calcium channels constitutes the foundation toward next-generation therapeutics specifically enhancing cardiac contractility.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Arianne",
+                "Last Name": "Papa",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Sergey I",
+                "Last Name": "Zakharov",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Alexander N",
+                "Last Name": "Katchman",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Jared S",
+                "Last Name": "Kushner",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Bi-Xing",
+                "Last Name": "Chen",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Lin",
+                "Last Name": "Yang",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Guoxia",
+                "Last Name": "Liu",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Alejandro Sanchez",
+                "Last Name": "Jimenez",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Robyn J",
+                "Last Name": "Eisert",
+                "Affiliation": "Department of Systems Biology, Laboratory of Systems Pharmacology, Harvard Medical School, Boston, MA, USA."
+            },
+            {
+                "First Name": "Gary A",
+                "Last Name": "Bradshaw",
+                "Affiliation": "Department of Systems Biology, Laboratory of Systems Pharmacology, Harvard Medical School, Boston, MA, USA."
+            },
+            {
+                "First Name": "Wen",
+                "Last Name": "Dun",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Shah R",
+                "Last Name": "Ali",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Aaron",
+                "Last Name": "Rodriques",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Karen",
+                "Last Name": "Zhou",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Veli",
+                "Last Name": "Topkara",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Mu",
+                "Last Name": "Yang",
+                "Affiliation": "Institute for Genomic Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Morrow",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Emily J",
+                "Last Name": "Tsai",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Arthur",
+                "Last Name": "Karlin",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Elaine",
+                "Last Name": "Wan",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Marian",
+                "Last Name": "Kalocsay",
+                "Affiliation": "Department of Systems Biology, Laboratory of Systems Pharmacology, Harvard Medical School, Boston, MA, USA."
+            },
+            {
+                "First Name": "Geoffrey S",
+                "Last Name": "Pitt",
+                "Affiliation": "Cardiovascular Research Institute and Department of Medicine, Weill Cornell Medical College, New York, NY, USA."
+            },
+            {
+                "First Name": "Henry M",
+                "Last Name": "Colecraft",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Steven O",
+                "Last Name": "Marx",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            }
+        ],
+        "Journal": "Nature cardiovascular research",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "36167061",
+        "Title": "CaV1.2 channelopathic mutations evoke diverse pathophysiological mechanisms.",
+        "Abstract": "The first pathogenic mutation in CaV1.2 was identified in 2004 and was shown to cause a severe multisystem disorder known as Timothy syndrome (TS). The mutation was localized to the distal S6 region of the channel, a region known to play a major role in channel activation. TS patients suffer from life-threatening cardiac symptoms as well as significant neurodevelopmental deficits, including autism spectrum disorder (ASD). Since this discovery, the number and variety of mutations identified in CaV1.2 have grown tremendously, and the distal S6 regions remain a frequent locus for many of these mutations. While the majority of patients harboring these mutations exhibit cardiac symptoms that can be well explained by known pathogenic mechanisms, the same cannot be said for the ASD or neurodevelopmental phenotypes seen in some patients, indicating a gap in our understanding of the pathogenesis of CaV1.2 channelopathies. Here, we use whole-cell patch clamp, quantitative Ca2+ imaging, and single channel recordings to expand the known mechanisms underlying the pathogenesis of CaV1.2 channelopathies. Specifically, we find that mutations within the S6 region can exert independent and separable effects on activation, voltage-dependent inactivation (VDI), and Ca2+-dependent inactivation (CDI). Moreover, the mechanisms underlying the CDI effects of these mutations are varied and include altered channel opening and possible disruption of CDI transduction. Overall, these results provide a structure-function framework to conceptualize the role of S6 mutations in pathophysiology and offer insight into the biophysical defects associated with distinct clinical manifestations.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Autism Spectrum Disorder",
+            "Autistic Disorder",
+            "Calcium",
+            "Calcium Channels, L-Type",
+            "Channelopathies",
+            "Humans",
+            "Long QT Syndrome",
+            "Mutation",
+            "Syndactyly"
+        ],
+        "Authors": [
+            {
+                "First Name": "Moradeke A",
+                "Last Name": "Bamgboye",
+                "Affiliation": "Department of Physiology, University of Maryland School of Medicine, Baltimore, MD."
+            },
+            {
+                "First Name": "Kevin G",
+                "Last Name": "Herold",
+                "Affiliation": "Department of Physiology, University of Maryland School of Medicine, Baltimore, MD."
+            },
+            {
+                "First Name": "Daiana C O",
+                "Last Name": "Vieira",
+                "Affiliation": "Department of Physiology, University of Maryland School of Medicine, Baltimore, MD."
+            },
+            {
+                "First Name": "Maria K",
+                "Last Name": "Traficante",
+                "Affiliation": "Department of Physiology, University of Maryland School of Medicine, Baltimore, MD."
+            },
+            {
+                "First Name": "Philippa J",
+                "Last Name": "Rogers",
+                "Affiliation": "Department of Physiology, University of Maryland School of Medicine, Baltimore, MD."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Biophysics, Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Ivy E",
+                "Last Name": "Dick",
+                "Affiliation": "Department of Physiology, University of Maryland School of Medicine, Baltimore, MD."
+            }
+        ],
+        "Journal": "The Journal of general physiology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35662881",
+        "Title": "Fibroblast growth factor homologous factors serve as a molecular rheostat in tuning arrhythmogenic cardiac late sodium current.",
+        "Abstract": "Voltage-gated sodium (Nav1.5) channels support the genesis and brisk spatial propagation of action potentials in the heart. Disruption of Na",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Nourdine",
+                "Last Name": "Chakouri",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Sharen",
+                "Last Name": "Rivas",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Roybal",
+                "Affiliation": "Department of Pharmacology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Lin",
+                "Last Name": "Yang",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Johanna",
+                "Last Name": "Diaz",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Allen",
+                "Last Name": "Hsu",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Ryan",
+                "Last Name": "Mahling",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Bi-Xing",
+                "Last Name": "Chen",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Josiah O",
+                "Last Name": "Owoyemi",
+                "Affiliation": "Department Physiology, University of Maryland, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Deborah",
+                "Last Name": "DiSilvestre",
+                "Affiliation": "Department Physiology, University of Maryland, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Dario",
+                "Last Name": "Sirabella",
+                "Affiliation": "Columbia Stem Cell Initiative, Stem Cell Core, Columbia University Irving Medical Center, NY, USA."
+            },
+            {
+                "First Name": "Barbara",
+                "Last Name": "Corneo",
+                "Affiliation": "Columbia Stem Cell Initiative, Stem Cell Core, Columbia University Irving Medical Center, NY, USA."
+            },
+            {
+                "First Name": "Gordon F",
+                "Last Name": "Tomaselli",
+                "Affiliation": "Department of Medicine, Albert Einstein College of Medicine, New York, NY, USA."
+            },
+            {
+                "First Name": "Ivy E",
+                "Last Name": "Dick",
+                "Affiliation": "Department Physiology, University of Maryland, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Steven O",
+                "Last Name": "Marx",
+                "Affiliation": "Department of Pharmacology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Nature cardiovascular research",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35353604",
+        "Title": "A bridge from the endoplasmic reticulum to the plasma membrane comes into view.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Membrane",
+            "Endoplasmic Reticulum"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ryan",
+                "Last Name": "Mahling",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35202650",
+        "Title": "Development of high-affinity nanobodies specific for Na",
+        "Abstract": "Voltage-gated sodium channels, Na",
+        "Keywords": [
+            "FRET",
+            "Lama glama",
+            "Na(V)1.4",
+            "Na(V)1.5",
+            "X-ray diffraction",
+            "biolayer interferometry",
+            "hIPSC-CM",
+            "nanobody",
+            "voltage-gated sodium channel"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cells, Cultured",
+            "Escherichia coli",
+            "Humans",
+            "Long QT Syndrome",
+            "Mammals",
+            "Protein Isoforms",
+            "Recombinant Proteins",
+            "Single-Domain Antibodies",
+            "Voltage-Gated Sodium Channels"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lakshmi",
+                "Last Name": "Srinivasan",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Vanina",
+                "Last Name": "Alzogaray",
+                "Affiliation": "Fundaci\u00f3n Instituto Leloir, IIBBA-CONICET, Buenos Aires, Argentina."
+            },
+            {
+                "First Name": "Dakshnamurthy",
+                "Last Name": "Selvakumar",
+                "Affiliation": "ForteBio, Sartorius BioAnalytical Instruments, Fremont, California, USA."
+            },
+            {
+                "First Name": "Sara",
+                "Last Name": "Nathan",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Jesse B",
+                "Last Name": "Yoder",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Katharine M",
+                "Last Name": "Wright",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Sebasti\u00e1n",
+                "Last Name": "Klinke",
+                "Affiliation": "Fundaci\u00f3n Instituto Leloir, IIBBA-CONICET, Buenos Aires, Argentina."
+            },
+            {
+                "First Name": "Justin N",
+                "Last Name": "Nwafor",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Mar\u00eda S",
+                "Last Name": "Labanda",
+                "Affiliation": "Fundaci\u00f3n Instituto Leloir, IIBBA-CONICET, Buenos Aires, Argentina."
+            },
+            {
+                "First Name": "Fernando A",
+                "Last Name": "Goldbaum",
+                "Affiliation": "Fundaci\u00f3n Instituto Leloir, IIBBA-CONICET, Buenos Aires, Argentina."
+            },
+            {
+                "First Name": "Arne",
+                "Last Name": "Sch\u00f6n",
+                "Affiliation": "Department of Biology, The Johns Hopkins University Krieger School of Arts and Science, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Ernesto",
+                "Last Name": "Freire",
+                "Affiliation": "Department of Biology, The Johns Hopkins University Krieger School of Arts and Science, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Gordon F",
+                "Last Name": "Tomaselli",
+                "Affiliation": "Department of Medicine, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "L Mario",
+                "Last Name": "Amzel",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Sandra B",
+                "Last Name": "Gabelli",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA; Department of Medicine, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA; Department of Oncology, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA. Electronic address: gabelli@jhmi.edu."
+            }
+        ],
+        "Journal": "The Journal of biological chemistry",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34929720",
+        "Title": "Structural architecture of the human NALCN channelosome.",
+        "Abstract": "Depolarizing sodium (Na",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Motifs",
+            "Calmodulin",
+            "Carrier Proteins",
+            "Humans",
+            "Ion Channel Gating",
+            "Ion Channels",
+            "Membrane Potentials",
+            "Membrane Proteins",
+            "Neurons",
+            "Sodium"
+        ],
+        "Authors": [
+            {
+                "First Name": "Marc",
+                "Last Name": "Kschonsak",
+                "Affiliation": "Department of Structural Biology, Genentech Inc., South San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Han Chow",
+                "Last Name": "Chua",
+                "Affiliation": "Department of Drug Design and Pharmacology, University of Copenhagen, Copenhagen, Denmark."
+            },
+            {
+                "First Name": "Claudia",
+                "Last Name": "Weidling",
+                "Affiliation": "Department of Drug Design and Pharmacology, University of Copenhagen, Copenhagen, Denmark."
+            },
+            {
+                "First Name": "Nourdine",
+                "Last Name": "Chakouri",
+                "Affiliation": "Department Physiology and Cellular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Cameron L",
+                "Last Name": "Noland",
+                "Affiliation": "Department of Structural Biology, Genentech Inc., South San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Katharina",
+                "Last Name": "Schott",
+                "Affiliation": "Department of Drug Design and Pharmacology, University of Copenhagen, Copenhagen, Denmark."
+            },
+            {
+                "First Name": "Timothy",
+                "Last Name": "Chang",
+                "Affiliation": "Department of BioMolecular Resources, Genentech Inc., South San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Christine",
+                "Last Name": "Tam",
+                "Affiliation": "Department of BioMolecular Resources, Genentech Inc., South San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Nidhi",
+                "Last Name": "Patel",
+                "Affiliation": "Department of BioMolecular Resources, Genentech Inc., South San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Christopher P",
+                "Last Name": "Arthur",
+                "Affiliation": "Department of Structural Biology, Genentech Inc., South San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Leitner",
+                "Affiliation": "Department of Biology, Institute of Molecular Systems Biology, ETH Z\u00fcrich, Zurich, Switzerland. leitner@imsb.biol.ethz.ch."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department Physiology and Cellular Biophysics, Columbia University, New York, NY, USA. mbj2124@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Claudio",
+                "Last Name": "Ciferri",
+                "Affiliation": "Department of Structural Biology, Genentech Inc., South San Francisco, CA, USA. ciferri.claudio@gene.com."
+            },
+            {
+                "First Name": "Stephan Alexander",
+                "Last Name": "Pless",
+                "Affiliation": "Department of Drug Design and Pharmacology, University of Copenhagen, Copenhagen, Denmark. stephan.pless@sund.ku.dk."
+            },
+            {
+                "First Name": "Jian",
+                "Last Name": "Payandeh",
+                "Affiliation": "Department of Structural Biology, Genentech Inc., South San Francisco, CA, USA. jpayandeh@interlinetx.com."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34099178",
+        "Title": "Probing ion channel macromolecular interactions using fluorescence resonance energy transfer.",
+        "Abstract": "Ion channels are macromolecular complexes whose functions are exquisitely tuned by interacting proteins. Fluorescence resonance energy transfer (FRET) is a powerful methodology that is adept at quantifying ion channel protein-protein interactions in living cells. For FRET experiments, the interacting partners are tagged with appropriate donor and acceptor fluorescent proteins. If the fluorescently-labeled molecules are in close proximity, then photoexcitation of the donor results in non-radiative energy transfer to the acceptor, and subsequent fluorescence emission of the acceptor. The stoichiometry of ion channel interactions and their relative binding affinities can be deduced by quantifying both the FRET efficiency and the total number of donors and acceptors in a given cell. In this chapter, we discuss general considerations for FRET analysis of biological interactions, various strategies for estimating FRET efficiencies, and detailed protocols for construction of binding curves and determination of stoichiometry. We focus on implementation of FRET assays using a flow cytometer given its amenability for high-throughput data acquisition, enhanced accessibility, and robust analysis. This versatile methodology permits mechanistic dissection of dynamic changes in ion channel interactions.",
+        "Keywords": [
+            "FRET 2-hybrid assay",
+            "Flow cytometry",
+            "Fluorescence resonance energy transfer",
+            "Live-cell binding",
+            "Stoichiometry"
+        ],
+        "MeSH terms": [
+            "Flow Cytometry",
+            "Fluorescence Resonance Energy Transfer",
+            "Macromolecular Substances",
+            "Microscopy, Fluorescence",
+            "Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sharen",
+                "Last Name": "Rivas",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Khadija",
+                "Last Name": "Hanif",
+                "Affiliation": "Barnard College, New York, NY, United States."
+            },
+            {
+                "First Name": "Nourdine",
+                "Last Name": "Chakouri",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, United States. Electronic address: mbj2124@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Methods in enzymology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34021086",
+        "Title": "Elementary mechanisms of calmodulin regulation of Na",
+        "Abstract": "In cardiomyocytes, Na",
+        "Keywords": [
+            "Brugada syndrome",
+            "Nav1.5",
+            "calmodulin",
+            "ion channels",
+            "long QT syndrome"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Arrhythmias, Cardiac",
+            "Binding Sites",
+            "Calcium",
+            "Calcium Signaling",
+            "Calmodulin",
+            "Fluorescence Resonance Energy Transfer",
+            "Gene Expression",
+            "HEK293 Cells",
+            "Humans",
+            "Ion Channel Gating",
+            "Kinetics",
+            "Models, Molecular",
+            "Mutation",
+            "Myocytes, Cardiac",
+            "NAV1.5 Voltage-Gated Sodium Channel",
+            "Patch-Clamp Techniques",
+            "Protein Binding",
+            "Protein Conformation, alpha-Helical",
+            "Protein Conformation, beta-Strand",
+            "Protein Interaction Domains and Motifs",
+            "Recombinant Proteins",
+            "Sodium"
+        ],
+        "Authors": [
+            {
+                "First Name": "Po Wei",
+                "Last Name": "Kang",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD 21218; kang.powei@wustl.edu mbj2124@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Nourdine",
+                "Last Name": "Chakouri",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Johanna",
+                "Last Name": "Diaz",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Gordon F",
+                "Last Name": "Tomaselli",
+                "Affiliation": "Department of Medicine, Albert Einstein College of Medicine, Bronx, NY 10461."
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD 21218."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD 21218; kang.powei@wustl.edu mbj2124@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33667546",
+        "Title": "The molecular basis of the inhibition of Ca",
+        "Abstract": "Ca",
+        "Keywords": [
+            "calcium channel",
+            "calcium-dependent inactivation (CDI)",
+            "calmodulin (CaM)",
+            "fluorescence resonance energy transfer (FRET)",
+            "ion channel",
+            "patch clamp"
+        ],
+        "MeSH terms": [
+            "Calcium",
+            "Calmodulin",
+            "Caveolin 1",
+            "Cells, Cultured",
+            "Humans",
+            "Ion Channel Gating",
+            "Kinetics",
+            "Mutation",
+            "Protein Binding",
+            "Structure-Activity Relationship"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lingjie",
+                "Last Name": "Sang",
+                "Affiliation": "Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Daiana C O",
+                "Last Name": "Vieira",
+                "Affiliation": "Department of Physiology, University of Maryland School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": "Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA; Department of Physiology and Cellular Biophysics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Ivy E",
+                "Last Name": "Dick",
+                "Affiliation": "Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA; Department of Physiology, University of Maryland School of Medicine, Baltimore, Maryland, USA. Electronic address: ied@som.umaryand.edu."
+            }
+        ],
+        "Journal": "The Journal of biological chemistry",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33306788",
+        "Title": "Structural basis of cytoplasmic NaV1.5 and NaV1.4 regulation.",
+        "Abstract": "Voltage-gated sodium channels (NaVs) are membrane proteins responsible for the rapid upstroke of the action potential in excitable cells. There are nine human voltage-sensitive NaV1 isoforms that, in addition to their sequence differences, differ in tissue distribution and specific function. This review focuses on isoforms NaV1.4 and NaV1.5, which are primarily expressed in skeletal and cardiac muscle cells, respectively. The determination of the structures of several eukaryotic NaVs by single-particle cryo-electron microscopy (cryo-EM) has brought new perspective to the study of the channels. Alignment of the cryo-EM structure of the transmembrane channel pore with x-ray crystallographic structures of the cytoplasmic domains illustrates the complementary nature of the techniques and highlights the intricate cellular mechanisms that modulate these channels. Here, we review structural insights into the cytoplasmic C-terminal regulation of NaV1.4 and NaV1.5 with special attention to Ca2+ sensing by calmodulin, implications for disease, and putative channel dimerization.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Calmodulin",
+            "Cryoelectron Microscopy",
+            "Humans",
+            "Myocytes, Cardiac",
+            "Voltage-Gated Sodium Channels"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sara",
+                "Last Name": "Nathan",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD."
+            },
+            {
+                "First Name": "Sandra B",
+                "Last Name": "Gabelli",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD."
+            },
+            {
+                "First Name": "Jesse B",
+                "Last Name": "Yoder",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD."
+            },
+            {
+                "First Name": "Lakshmi",
+                "Last Name": "Srinivasan",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD."
+            },
+            {
+                "First Name": "Richard W",
+                "Last Name": "Aldrich",
+                "Affiliation": "Department of Neuroscience, University of Texas at Austin, Austin, TX."
+            },
+            {
+                "First Name": "Gordon F",
+                "Last Name": "Tomaselli",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Albert Einstein College of Medicine, Bronx, NY."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY."
+            },
+            {
+                "First Name": "L Mario",
+                "Last Name": "Amzel",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD."
+            }
+        ],
+        "Journal": "The Journal of general physiology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33277403",
+        "Title": "Cutting out the fat: Site-specific deacylation of an ion channel.",
+        "Abstract": "",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acylation",
+            "Ion Channels",
+            "Large-Conductance Calcium-Activated Potassium Channels",
+            "Mutation",
+            "Potassium"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pedro J",
+                "Last Name": "Del Rivero Morfin",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, New York, USA. Electronic address: mbj2124@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of biological chemistry",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33086983",
+        "Title": "Adrenergic Ca",
+        "Abstract": "Changing activity of cardiac Ca",
+        "Keywords": [
+            "calcium",
+            "calcium channels",
+            "cyclic AMP-dependent protein kinases",
+            "ion channels",
+            "physiology"
+        ],
+        "MeSH terms": [
+            "Adrenergic beta-Agonists",
+            "Animals",
+            "Calcium Channels, L-Type",
+            "HEK293 Cells",
+            "Heart Failure",
+            "Humans",
+            "Ion Channel Gating",
+            "Membrane Potentials",
+            "Mice, Transgenic",
+            "Mutation",
+            "Myocytes, Cardiac",
+            "Phosphorylation",
+            "Protein Conformation",
+            "Rabbits",
+            "Structure-Activity Relationship",
+            "ras Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Arianne",
+                "Last Name": "Papa",
+                "Affiliation": "Division of Cardiology, Department of Medicine (A.P., J.K., J.A.H., A.N.K., S.I.Z., B.-x.C., L.Y., R.L., S.L., G.L., D.R., X.L., V.T., S.O.M.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Jared",
+                "Last Name": "Kushner",
+                "Affiliation": "Division of Cardiology, Department of Medicine (A.P., J.K., J.A.H., A.N.K., S.I.Z., B.-x.C., L.Y., R.L., S.L., G.L., D.R., X.L., V.T., S.O.M.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Jessica A",
+                "Last Name": "Hennessey",
+                "Affiliation": "Division of Cardiology, Department of Medicine (A.P., J.K., J.A.H., A.N.K., S.I.Z., B.-x.C., L.Y., R.L., S.L., G.L., D.R., X.L., V.T., S.O.M.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Alexander N",
+                "Last Name": "Katchman",
+                "Affiliation": "Division of Cardiology, Department of Medicine (A.P., J.K., J.A.H., A.N.K., S.I.Z., B.-x.C., L.Y., R.L., S.L., G.L., D.R., X.L., V.T., S.O.M.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Sergey I",
+                "Last Name": "Zakharov",
+                "Affiliation": "Division of Cardiology, Department of Medicine (A.P., J.K., J.A.H., A.N.K., S.I.Z., B.-x.C., L.Y., R.L., S.L., G.L., D.R., X.L., V.T., S.O.M.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Bi-Xing",
+                "Last Name": "Chen",
+                "Affiliation": "Division of Cardiology, Department of Medicine (A.P., J.K., J.A.H., A.N.K., S.I.Z., B.-x.C., L.Y., R.L., S.L., G.L., D.R., X.L., V.T., S.O.M.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Lin",
+                "Last Name": "Yang",
+                "Affiliation": "Division of Cardiology, Department of Medicine (A.P., J.K., J.A.H., A.N.K., S.I.Z., B.-x.C., L.Y., R.L., S.L., G.L., D.R., X.L., V.T., S.O.M.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Ree",
+                "Last Name": "Lu",
+                "Affiliation": "Division of Cardiology, Department of Medicine (A.P., J.K., J.A.H., A.N.K., S.I.Z., B.-x.C., L.Y., R.L., S.L., G.L., D.R., X.L., V.T., S.O.M.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Stephen",
+                "Last Name": "Leong",
+                "Affiliation": "Division of Cardiology, Department of Medicine (A.P., J.K., J.A.H., A.N.K., S.I.Z., B.-x.C., L.Y., R.L., S.L., G.L., D.R., X.L., V.T., S.O.M.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Johanna",
+                "Last Name": "Diaz",
+                "Affiliation": "Department of Physiology and Cellular Biophysics (A.P., J.D., P.J.d.R.M., H.M.C., O.C., M.B.-J.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Guoxia",
+                "Last Name": "Liu",
+                "Affiliation": "Division of Cardiology, Department of Medicine (A.P., J.K., J.A.H., A.N.K., S.I.Z., B.-x.C., L.Y., R.L., S.L., G.L., D.R., X.L., V.T., S.O.M.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Roybal",
+                "Affiliation": "Division of Cardiology, Department of Medicine (A.P., J.K., J.A.H., A.N.K., S.I.Z., B.-x.C., L.Y., R.L., S.L., G.L., D.R., X.L., V.T., S.O.M.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Xianghai",
+                "Last Name": "Liao",
+                "Affiliation": "Division of Cardiology, Department of Medicine (A.P., J.K., J.A.H., A.N.K., S.I.Z., B.-x.C., L.Y., R.L., S.L., G.L., D.R., X.L., V.T., S.O.M.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Pedro J",
+                "Last Name": "Del Rivero Morfin",
+                "Affiliation": "Department of Physiology and Cellular Biophysics (A.P., J.D., P.J.d.R.M., H.M.C., O.C., M.B.-J.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Henry M",
+                "Last Name": "Colecraft",
+                "Affiliation": "Department of Physiology and Cellular Biophysics (A.P., J.D., P.J.d.R.M., H.M.C., O.C., M.B.-J.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Geoffrey S",
+                "Last Name": "Pitt",
+                "Affiliation": "Cardiovascular Research Institute, Weill Cornell Medical College, New York, New York (G.S.P.)."
+            },
+            {
+                "First Name": "Oliver",
+                "Last Name": "Clarke",
+                "Affiliation": "Department of Physiology and Cellular Biophysics (A.P., J.D., P.J.d.R.M., H.M.C., O.C., M.B.-J.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Veli",
+                "Last Name": "Topkara",
+                "Affiliation": "Division of Cardiology, Department of Medicine (A.P., J.K., J.A.H., A.N.K., S.I.Z., B.-x.C., L.Y., R.L., S.L., G.L., D.R., X.L., V.T., S.O.M.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics (A.P., J.D., P.J.d.R.M., H.M.C., O.C., M.B.-J.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Steven O",
+                "Last Name": "Marx",
+                "Affiliation": "Division of Cardiology, Department of Medicine (A.P., J.K., J.A.H., A.N.K., S.I.Z., B.-x.C., L.Y., R.L., S.L., G.L., D.R., X.L., V.T., S.O.M.), Columbia University, Vagelos College of Physicians and Surgeons, New York, NY."
+            }
+        ],
+        "Journal": "Circulation research",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "32870823",
+        "Title": "Fibroblast growth factor homologous factors tune arrhythmogenic late NaV1.5 current in calmodulin binding-deficient channels.",
+        "Abstract": "The Ca2+-binding protein calmodulin has emerged as a pivotal player in tuning Na+ channel function, although its impact in vivo remains to be resolved. Here, we identify the role of calmodulin and the NaV1.5 interactome in regulating late Na+ current in cardiomyocytes. We created transgenic mice with cardiac-specific expression of human NaV1.5 channels with alanine substitutions for the IQ motif (IQ/AA). The mutations rendered the channels incapable of binding calmodulin to the C-terminus. The IQ/AA transgenic mice exhibited normal ventricular repolarization without arrhythmias and an absence of increased late Na+ current. In comparison, transgenic mice expressing a lidocaine-resistant (F1759A) human NaV1.5 demonstrated increased late Na+ current and prolonged repolarization in cardiomyocytes, with spontaneous arrhythmias. To determine regulatory factors that prevent late Na+ current for the IQ/AA mutant channel, we considered fibroblast growth factor homologous factors (FHFs), which are within the NaV1.5 proteomic subdomain shown by proximity labeling in transgenic mice expressing NaV1.5 conjugated to ascorbate peroxidase. We found that FGF13 diminished late current of the IQ/AA but not F1759A mutant cardiomyocytes, suggesting that endogenous FHFs may serve to prevent late Na+ current in mouse cardiomyocytes. Leveraging endogenous mechanisms may furnish an alternative avenue for developing novel pharmacology that selectively blunts late Na+ current.",
+        "Keywords": [
+            "Arrhythmias",
+            "Calmodulin",
+            "Cardiology",
+            "Sodium channels"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Arrhythmias, Cardiac",
+            "Calcium Signaling",
+            "Calmodulin",
+            "Female",
+            "Fibroblast Growth Factors",
+            "Humans",
+            "Male",
+            "Mice",
+            "Mice, Transgenic",
+            "Mutation",
+            "Myocytes, Cardiac",
+            "NAV1.5 Voltage-Gated Sodium Channel",
+            "Protein Binding",
+            "Sodium"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jeffrey",
+                "Last Name": "Abrams",
+                "Affiliation": "Division of Cardiology, Department of Medicine."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Roybal",
+                "Affiliation": "Department of Pharmacology, and."
+            },
+            {
+                "First Name": "Nourdine",
+                "Last Name": "Chakouri",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Alexander N",
+                "Last Name": "Katchman",
+                "Affiliation": "Division of Cardiology, Department of Medicine."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Weinberg",
+                "Affiliation": "Division of Cardiology, Department of Medicine."
+            },
+            {
+                "First Name": "Lin",
+                "Last Name": "Yang",
+                "Affiliation": "Division of Cardiology, Department of Medicine."
+            },
+            {
+                "First Name": "Bi-Xing",
+                "Last Name": "Chen",
+                "Affiliation": "Division of Cardiology, Department of Medicine."
+            },
+            {
+                "First Name": "Sergey I",
+                "Last Name": "Zakharov",
+                "Affiliation": "Division of Cardiology, Department of Medicine."
+            },
+            {
+                "First Name": "Jessica A",
+                "Last Name": "Hennessey",
+                "Affiliation": "Division of Cardiology, Department of Medicine."
+            },
+            {
+                "First Name": "Uma Mahesh R",
+                "Last Name": "Avula",
+                "Affiliation": "Division of Cardiology, Department of Medicine."
+            },
+            {
+                "First Name": "Johanna",
+                "Last Name": "Diaz",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Chaojian",
+                "Last Name": "Wang",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Duke University Medical Center, Durham, North Carolina, USA."
+            },
+            {
+                "First Name": "Elaine Y",
+                "Last Name": "Wan",
+                "Affiliation": "Division of Cardiology, Department of Medicine."
+            },
+            {
+                "First Name": "Geoffrey S",
+                "Last Name": "Pitt",
+                "Affiliation": "Cardiovascular Research Institute, Weill Cornell Medical College, New York, New York, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Steven O",
+                "Last Name": "Marx",
+                "Affiliation": "Division of Cardiology, Department of Medicine."
+            }
+        ],
+        "Journal": "JCI insight",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32820053",
+        "Title": "Ca",
+        "Abstract": "Calmodulin (CaM) regulation of voltage-gated calcium (Ca",
+        "Keywords": [
+            "calcium",
+            "calcium channel",
+            "calmodulin",
+            "calmodulin (CaM)",
+            "calmodulin regulation",
+            "ion channel",
+            "stoichiometry",
+            "voltage-gated Ca channels"
+        ],
+        "MeSH terms": [
+            "Calcium",
+            "Calcium Channels, L-Type",
+            "Calmodulin",
+            "HEK293 Cells",
+            "Humans",
+            "Ion Channel Gating",
+            "Protein Binding",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nourdine",
+                "Last Name": "Chakouri",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Johanna",
+                "Last Name": "Diaz",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Philemon S",
+                "Last Name": "Yang",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, New York, USA. Electronic address: mbj2124@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of biological chemistry",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32047263",
+        "Title": "Spectral hallmark of auditory-tactile interactions in the mouse somatosensory cortex.",
+        "Abstract": "To synthesize a coherent representation of the external world, the brain must integrate inputs across different types of stimuli. Yet the mechanistic basis of this computation at the level of neuronal populations remains obscure. Here, we investigate tactile-auditory integration using two-photon Ca",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Auditory Perception",
+            "Calcium",
+            "Evoked Potentials",
+            "Mice",
+            "Molecular Imaging",
+            "Motor Activity",
+            "Neurons",
+            "Physical Stimulation",
+            "Psychomotor Performance",
+            "Somatosensory Cortex",
+            "Touch"
+        ],
+        "Authors": [
+            {
+                "First Name": "Manning",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, MD, 21205, USA."
+            },
+            {
+                "First Name": "Sung Eun",
+                "Last Name": "Kwon",
+                "Affiliation": "Solomon H. Snyder Department of Neuroscience, The Johns Hopkins University School of Medicine, Kavli Neuroscience Discovery Institute, and Brain Science Institute, Baltimore, MD, 21205, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, MD, 21205, USA."
+            },
+            {
+                "First Name": "Daniel H",
+                "Last Name": "O'Connor",
+                "Affiliation": "Solomon H. Snyder Department of Neuroscience, The Johns Hopkins University School of Medicine, Kavli Neuroscience Discovery Institute, and Brain Science Institute, Baltimore, MD, 21205, USA."
+            },
+            {
+                "First Name": "John B",
+                "Last Name": "Issa",
+                "Affiliation": "Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, MD, 21205, USA. john.issa@gmail.com."
+            }
+        ],
+        "Journal": "Communications biology",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31969708",
+        "Title": "Mechanism of adrenergic Ca",
+        "Abstract": "Increased cardiac contractility during the fight-or-flight response is caused by \u03b2-adrenergic augmentation of Ca",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Calcium Channels, L-Type",
+            "Calcium Channels, N-Type",
+            "Cellular Microenvironment",
+            "Cyclic AMP",
+            "Cyclic AMP-Dependent Protein Kinases",
+            "Female",
+            "HEK293 Cells",
+            "Heterotrimeric GTP-Binding Proteins",
+            "Humans",
+            "Male",
+            "Mice",
+            "Monomeric GTP-Binding Proteins",
+            "Myocardium",
+            "Phosphorylation",
+            "Protein Domains",
+            "Protein Subunits",
+            "Proteomics",
+            "Receptors, Adrenergic, beta",
+            "Signal Transduction",
+            "ras Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Guoxia",
+                "Last Name": "Liu",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Arianne",
+                "Last Name": "Papa",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Alexander N",
+                "Last Name": "Katchman",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Sergey I",
+                "Last Name": "Zakharov",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Roybal",
+                "Affiliation": "Department of Pharmacology, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Jessica A",
+                "Last Name": "Hennessey",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Jared",
+                "Last Name": "Kushner",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Lin",
+                "Last Name": "Yang",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Bi-Xing",
+                "Last Name": "Chen",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Kushnir",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Katerina",
+                "Last Name": "Dangas",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Steven P",
+                "Last Name": "Gygi",
+                "Affiliation": "Department of Cell Biology, Harvard Medical School, Boston, MA, USA."
+            },
+            {
+                "First Name": "Geoffrey S",
+                "Last Name": "Pitt",
+                "Affiliation": "Cardiovascular Research Institute, Weill Cornell Medical College, New York, NY, USA."
+            },
+            {
+                "First Name": "Henry M",
+                "Last Name": "Colecraft",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Marian",
+                "Last Name": "Kalocsay",
+                "Affiliation": "Department of Systems Biology, Laboratory of Systems Pharmacology, Harvard Medical School, Boston, MA, USA. Marian_Kalocsay@hms.harvard.edu."
+            },
+            {
+                "First Name": "Steven O",
+                "Last Name": "Marx",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, Vagelos College of Physicians and Surgeons, New York, NY, USA. sm460@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "30944319",
+        "Title": "Ca",
+        "Abstract": "Skeletal muscle voltage-gated Na",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Motifs",
+            "Amino Acid Sequence",
+            "Arrhythmias, Cardiac",
+            "Binding Sites",
+            "Calcium",
+            "Calmodulin",
+            "Humans",
+            "Models, Molecular",
+            "Muscle, Skeletal",
+            "Mutation",
+            "NAV1.4 Voltage-Gated Sodium Channel",
+            "NAV1.5 Voltage-Gated Sodium Channel",
+            "Protein Binding",
+            "Protein Conformation",
+            "Protein Domains",
+            "Protein Interaction Domains and Motifs",
+            "Protein Isoforms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jesse B",
+                "Last Name": "Yoder",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD, 21205, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Federica",
+                "Last Name": "Farinelli",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, 21205, USA."
+            },
+            {
+                "First Name": "Lakshmi",
+                "Last Name": "Srinivasan",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD, 21205, USA."
+            },
+            {
+                "First Name": "Sophie R",
+                "Last Name": "Shoemaker",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD, 21205, USA."
+            },
+            {
+                "First Name": "Gordon F",
+                "Last Name": "Tomaselli",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Albert Einstein College of Medicine, Bronx, NY, 10461, USA."
+            },
+            {
+                "First Name": "Sandra B",
+                "Last Name": "Gabelli",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD, 21205, USA. gabelli@jhmi.edu."
+            },
+            {
+                "First Name": "L Mario",
+                "Last Name": "Amzel",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD, 21205, USA. mamzel@jhmi.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30224470",
+        "Title": "Regulatory \u03b31 subunits defy symmetry in functional modulation of BK channels.",
+        "Abstract": "Structural symmetry is a hallmark of homomeric ion channels. Nonobligatory regulatory proteins can also critically define the precise functional role of such channels. For instance, the pore-forming subunit of the large conductance voltage and calcium-activated potassium (BK, Slo1, or KCa",
+        "Keywords": [
+            "BK channels",
+            "FRET",
+            "K+ channels",
+            "regulatory subunits",
+            "stoichiometry"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Fluorescence Resonance Energy Transfer",
+            "Ion Channel Gating",
+            "Large-Conductance Calcium-Activated Potassium Channel alpha Subunits",
+            "Mice",
+            "Protein Subunits",
+            "Xenopus laevis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Vivian",
+                "Last Name": "Gonzalez-Perez",
+                "Affiliation": "Department of Anesthesiology, Washington University School of Medicine, St. Louis, MO 63110."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Xiao-Ming",
+                "Last Name": "Xia",
+                "Affiliation": "Department of Anesthesiology, Washington University School of Medicine, St. Louis, MO 63110."
+            },
+            {
+                "First Name": "Christopher J",
+                "Last Name": "Lingle",
+                "Affiliation": "Department of Anesthesiology, Washington University School of Medicine, St. Louis, MO 63110; clingle@morpheus.wustl.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "30198845",
+        "Title": "Allosteric regulators selectively prevent Ca",
+        "Abstract": "Calmodulin (CaM) serves as a pervasive regulatory subunit of Ca",
+        "Keywords": [
+            "Ca channels",
+            "Na channels",
+            "SH3 and cysteine rich domain proteins",
+            "calcium regulation",
+            "calmodulin",
+            "fibroblast growth factor homologous factors",
+            "molecular biophysics",
+            "structural biology"
+        ],
+        "MeSH terms": [
+            "Action Potentials",
+            "Allosteric Regulation",
+            "Amino Acid Motifs",
+            "Amino Acid Sequence",
+            "Animals",
+            "Calcium",
+            "Calcium Channels",
+            "Calmodulin",
+            "Feedback, Physiological",
+            "Fibroblast Growth Factors",
+            "HEK293 Cells",
+            "Humans",
+            "Mutagenesis",
+            "Nerve Tissue Proteins",
+            "Protein Binding",
+            "Protein Domains",
+            "Protein Engineering",
+            "Rats",
+            "Signal Transduction",
+            "Sodium Channels"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Niu",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, United States."
+            },
+            {
+                "First Name": "Ivy E",
+                "Last Name": "Dick",
+                "Affiliation": "Department of Physiology, University of Maryland, Baltimore, United States."
+            },
+            {
+                "First Name": "Wanjun",
+                "Last Name": "Yang",
+                "Affiliation": "Department of Cardiology, Johns Hopkins University, Baltimore, United States."
+            },
+            {
+                "First Name": "Moradeke A",
+                "Last Name": "Bamgboye",
+                "Affiliation": "Department of Physiology, University of Maryland, Baltimore, United States."
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, United States."
+            },
+            {
+                "First Name": "Gordon",
+                "Last Name": "Tomaselli",
+                "Affiliation": "Department of Cardiology, Johns Hopkins University, Baltimore, United States."
+            },
+            {
+                "First Name": "Takanari",
+                "Last Name": "Inoue",
+                "Affiliation": "Department of Cell Biology, Johns Hopkins University, Baltimore, United States."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, College of Physicians and Surgeons, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29950399",
+        "Title": "Duplex signaling by CaM and Stac3 enhances Ca",
+        "Abstract": "Ca",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adaptor Proteins, Signal Transducing",
+            "Calcium Channels, L-Type",
+            "Calmodulin",
+            "HEK293 Cells",
+            "Humans",
+            "Muscular Diseases",
+            "Patch-Clamp Techniques"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Niu",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD."
+            },
+            {
+                "First Name": "Wanjun",
+                "Last Name": "Yang",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD."
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Takanari",
+                "Last Name": "Inoue",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD jctinoue@jhmi.edu."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY mbj2124@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of general physiology",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29531055",
+        "Title": "Bilobal architecture is a requirement for calmodulin signaling to Ca",
+        "Abstract": "Calmodulin (CaM) regulation of voltage-gated calcium (Ca",
+        "Keywords": [
+            "CaV1.3",
+            "calcium regulation",
+            "calmodulin",
+            "ion channels",
+            "voltage-gated Ca channels"
+        ],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Animals",
+            "Calcium",
+            "Calcium Channels",
+            "Calcium Signaling",
+            "Calmodulin",
+            "Humans",
+            "Ion Channel Gating",
+            "Models, Molecular",
+            "Protein Binding",
+            "Protein Conformation",
+            "Rats",
+            "Sequence Homology",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Rahul",
+                "Last Name": "Banerjee",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins University School of Medicine, Baltimore, MD 21205."
+            },
+            {
+                "First Name": "Jesse B",
+                "Last Name": "Yoder",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD 21205."
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins University School of Medicine, Baltimore, MD 21205."
+            },
+            {
+                "First Name": "L Mario",
+                "Last Name": "Amzel",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD 21205."
+            },
+            {
+                "First Name": "Gordon F",
+                "Last Name": "Tomaselli",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, MD 21287."
+            },
+            {
+                "First Name": "Sandra B",
+                "Last Name": "Gabelli",
+                "Affiliation": "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD 21205; mbj2124@cumc.columbia.edu gabelli@jhmi.edu."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins University School of Medicine, Baltimore, MD 21205; mbj2124@cumc.columbia.edu gabelli@jhmi.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28923947",
+        "Title": "TPC2 polymorphisms associated with a hair pigmentation phenotype in humans result in gain of channel function by independent mechanisms.",
+        "Abstract": "Two-pore channels (TPCs) are endolysosomal cation channels. Two members exist in humans, TPC1 and TPC2. Functional roles associated with the ubiquitously expressed TPCs include VEGF-induced neoangiogenesis, LDL-cholesterol trafficking and degradation, physical endurance under fasting conditions, autophagy regulation, the acrosome reaction in sperm, cancer cell migration, and intracellular trafficking of pathogens such as Ebola virus or bacterial toxins (e.g., cholera toxin). In a genome-wide association study for variants associated with human pigmentation characteristics two coding variants of TPC2, rs35264875 (encoding M484L) and rs3829241 (encoding G734E), have been found to be associated with a shift from brown to blond hair color. In two recent follow-up studies a role for TPC2 in pigmentation has been further confirmed. However, these human polymorphic variants have not been functionally characterized until now. The development of endolysosomal patch-clamp techniques has made it possible to investigate directly ion channel activities and characteristics in isolated endolysosomal organelles. We applied this technique here to scrutinize channel characteristics of the polymorphic TPC2 variants in direct comparison with WT. We found that both polymorphisms lead to a gain of channel function by independent mechanisms. We next conducted a clinical study with more than 100 blond- and brown/black-haired individuals. We performed a genotype/phenotype analysis and subsequently isolated fibroblasts from WT and polymorphic variant carriers for endolysosomal patch-clamp experimentation to confirm key in vitro findings.",
+        "Keywords": [
+            "TPC",
+            "TPC2",
+            "pigmentation",
+            "polymorphism",
+            "two-pore channel"
+        ],
+        "MeSH terms": [
+            "Calcium Channels",
+            "Genome-Wide Association Study",
+            "HEK293 Cells",
+            "Hair",
+            "Humans",
+            "Patch-Clamp Techniques",
+            "Phenotype",
+            "Pigmentation",
+            "Polymorphism, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yu-Kai",
+                "Last Name": "Chao",
+                "Affiliation": "Department of Pharmacy, Center for Drug Research and Center for Integrated Protein Science Munich, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, 81377 Munich, Germany."
+            },
+            {
+                "First Name": "Verena",
+                "Last Name": "Schludi",
+                "Affiliation": "Department of Pharmacy, Center for Drug Research and Center for Integrated Protein Science Munich, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, 81377 Munich, Germany."
+            },
+            {
+                "First Name": "Cheng-Chang",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Pharmacy, Center for Drug Research and Center for Integrated Protein Science Munich, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, 81377 Munich, Germany."
+            },
+            {
+                "First Name": "Elisabeth",
+                "Last Name": "Butz",
+                "Affiliation": "Department of Pharmacy, Center for Drug Research and Center for Integrated Protein Science Munich, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, 81377 Munich, Germany."
+            },
+            {
+                "First Name": "O N Phuong",
+                "Last Name": "Nguyen",
+                "Affiliation": "Department of Pharmacy, Center for Drug Research and Center for Integrated Protein Science Munich, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, 81377 Munich, Germany."
+            },
+            {
+                "First Name": "Martin",
+                "Last Name": "M\u00fcller",
+                "Affiliation": "Department of Pharmacy, Center for Drug Research and Center for Integrated Protein Science Munich, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, 81377 Munich, Germany."
+            },
+            {
+                "First Name": "Jens",
+                "Last Name": "Kr\u00fcger",
+                "Affiliation": "High-Performance and Cloud Computing Group, Zentrum f\u00fcr Datenverarbeitung, Universit\u00e4t T\u00fcbingen, 72076 T\u00fcbingen, Germany."
+            },
+            {
+                "First Name": "Claudia",
+                "Last Name": "Kammerbauer",
+                "Affiliation": "Department of Dermatology, Medical Faculty, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, 80337 Munich, Germany."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Calcium Signals Laboratory, Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, MD 21205."
+            },
+            {
+                "First Name": "Angelika M",
+                "Last Name": "Vollmar",
+                "Affiliation": "Department of Pharmacy, Center for Drug Research and Center for Integrated Protein Science Munich, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, 81377 Munich, Germany."
+            },
+            {
+                "First Name": "Carola",
+                "Last Name": "Berking",
+                "Affiliation": "Department of Dermatology, Medical Faculty, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, 80337 Munich, Germany."
+            },
+            {
+                "First Name": "Martin",
+                "Last Name": "Biel",
+                "Affiliation": "Department of Pharmacy, Center for Drug Research and Center for Integrated Protein Science Munich, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, 81377 Munich, Germany."
+            },
+            {
+                "First Name": "Christian A",
+                "Last Name": "Wahl-Schott",
+                "Affiliation": "Department of Pharmacy, Center for Drug Research and Center for Integrated Protein Science Munich, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, 81377 Munich, Germany; christian.wahl@cup.uni-muenchen.de christian.grimm@cup.uni-muenchen.de."
+            },
+            {
+                "First Name": "Christian",
+                "Last Name": "Grimm",
+                "Affiliation": "Department of Pharmacy, Center for Drug Research and Center for Integrated Protein Science Munich, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, 81377 Munich, Germany; christian.wahl@cup.uni-muenchen.de christian.grimm@cup.uni-muenchen.de."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27922011",
+        "Title": "Detecting stoichiometry of macromolecular complexes in live cells using FRET.",
+        "Abstract": "The stoichiometry of macromolecular interactions is fundamental to cellular signalling yet challenging to detect from living cells. Fluorescence resonance energy transfer (FRET) is a powerful phenomenon for characterizing close-range interactions whereby a donor fluorophore transfers energy to a closely juxtaposed acceptor. Recognizing that FRET measured from the acceptor's perspective reports a related but distinct quantity versus the donor, we utilize the ratiometric comparison of the two to obtain the stoichiometry of a complex. Applying this principle to the long-standing controversy of calmodulin binding to ion channels, we find a surprising Ca",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Calcium Channels",
+            "Calmodulin",
+            "Cell Survival",
+            "Fluorescence Resonance Energy Transfer",
+            "HEK293 Cells",
+            "Humans",
+            "Luminescent Proteins",
+            "Macromolecular Substances",
+            "Mice",
+            "Myosin Type V",
+            "Protein Binding",
+            "Protein Domains",
+            "Reproducibility of Results",
+            "Sodium Channels"
+        ],
+        "Authors": [
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Calcium Signals Laboratory, Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Ross Building, Room 713, 720 Rutland Avenue, Baltimore, Maryland 21205, USA."
+            },
+            {
+                "First Name": "Daniel N",
+                "Last Name": "Yue",
+                "Affiliation": "Calcium Signals Laboratory, Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Ross Building, Room 713, 720 Rutland Avenue, Baltimore, Maryland 21205, USA."
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": "Calcium Signals Laboratory, Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Ross Building, Room 713, 720 Rutland Avenue, Baltimore, Maryland 21205, USA."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27831569",
+        "Title": "Quantifying macromolecular interactions in living cells using FRET two-hybrid assays.",
+        "Abstract": "F\u00f6rster resonance energy transfer (FRET) is a versatile method for analyzing protein-protein interactions within living cells. This protocol describes a nondestructive live-cell FRET assay for robust quantification of relative binding affinities for protein-protein interactions. Unlike other approaches, our method correlates the measured FRET efficiencies to relative concentration of interacting proteins to determine binding isotherms while including collisional FRET corrections. We detail how to assemble and calibrate the equipment using experimental and theoretical procedures. A step-by-step protocol is given for sample preparation, data acquisition and analysis. The method uses relatively inexpensive and widely available equipment and can be performed with minimal training. Implementation of the imaging setup requires up to 1 week, and sample preparation takes \u223c1-3 d. An individual FRET experiment, including control measurements, can be completed within 4-6 h, with data analysis requiring an additional 1-3 h.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Survival",
+            "Fluorescence Resonance Energy Transfer",
+            "HEK293 Cells",
+            "Humans",
+            "Two-Hybrid System Techniques"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elisabeth S",
+                "Last Name": "Butz",
+                "Affiliation": "Center for Integrated Protein Science CIPS-M and Zentrum f\u00fcr Pharmaforschung, Department Pharmazie; DZHK (German Center for Cardiovascular Research), partner site Munich Heart Alliance, Munich, Germany."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Calcium Signals Laboratory, Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Shen",
+                "Affiliation": "Calcium Signals Laboratory, Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Philemon S",
+                "Last Name": "Yang",
+                "Affiliation": "Calcium Signals Laboratory, Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Lingjie",
+                "Last Name": "Sang",
+                "Affiliation": "Calcium Signals Laboratory, Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Martin",
+                "Last Name": "Biel",
+                "Affiliation": "Center for Integrated Protein Science CIPS-M and Zentrum f\u00fcr Pharmaforschung, Department Pharmazie; DZHK (German Center for Cardiovascular Research), partner site Munich Heart Alliance, Munich, Germany."
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": "Calcium Signals Laboratory, Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Christian",
+                "Last Name": "Wahl-Schott",
+                "Affiliation": "Center for Integrated Protein Science CIPS-M and Zentrum f\u00fcr Pharmaforschung, Department Pharmazie; DZHK (German Center for Cardiovascular Research), partner site Munich Heart Alliance, Munich, Germany."
+            }
+        ],
+        "Journal": "Nature protocols",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27542508",
+        "Title": "Following Optogenetic Dimerizers and Quantitative Prospects.",
+        "Abstract": "Optogenetics describes the use of genetically encoded photosensitive proteins to direct intended biological processes with light in recombinant and native systems. While most of these light-responsive proteins were originally discovered in photosynthetic organisms, the past few decades have been punctuated by experiments that not only commandeer but also engineer and enhance these natural tools to explore a wide variety of physiological questions. In addition, the ability to tune dynamic range and kinetic rates of optogenetic actuators is a challenging question that is heavily explored with computational methods devised to facilitate optimization of these systems. Here, we explain the basic mechanisms of a few popular photodimerizing optogenetic systems, discuss applications, compare optogenetic tools against more traditional chemical methods, and propose a simple quantitative understanding of how actuators exert their influence on targeted processes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Luminescent Proteins",
+            "Models, Molecular",
+            "Optogenetics",
+            "Plants",
+            "Protein Multimerization"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Niu",
+                "Affiliation": "Department of Biomedical Engineering, School of Medicine, The Johns Hopkins University, Baltimore, Maryland. Electronic address: jniu4@jhu.edu."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben Johny",
+                "Affiliation": "Department of Biomedical Engineering, School of Medicine, The Johns Hopkins University, Baltimore, Maryland."
+            },
+            {
+                "First Name": "Ivy E",
+                "Last Name": "Dick",
+                "Affiliation": "Department of Biomedical Engineering, School of Medicine, The Johns Hopkins University, Baltimore, Maryland; Department of Physiology, University of Maryland School of Medicine, Baltimore, Maryland."
+            },
+            {
+                "First Name": "Takanari",
+                "Last Name": "Inoue",
+                "Affiliation": "Department of Biomedical Engineering, School of Medicine, The Johns Hopkins University, Baltimore, Maryland; Department of Cell Biology, School of Medicine, The Johns Hopkins University, Baltimore, Maryland; The Center for Cell Dynamics, Institute for Basic Biomedical Sciences, The Johns Hopkins University, Baltimore, Maryland; Precursory Research for Embryonic Science and Technology, Japan Science and Technology Agency, Saitama, Japan. Electronic address: jctinoue@jhmi.edu."
+            }
+        ],
+        "Journal": "Biophysical journal",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27255217",
+        "Title": "An autism-associated mutation in CaV1.3 channels has opposing effects on voltage- and Ca(2+)-dependent regulation.",
+        "Abstract": "CaV1.3 channels are a major class of L-type Ca(2+) channels which contribute to the rhythmicity of the heart and brain. In the brain, these channels are vital for excitation-transcription coupling, synaptic plasticity, and neuronal firing. Moreover, disruption of CaV1.3 function has been associated with several neurological disorders. Here, we focus on the de novo missense mutation A760G which has been linked to autism spectrum disorder (ASD). To explore the role of this mutation in ASD pathogenesis, we examined the effects of A760G on CaV1.3 channel gating and regulation. Introduction of the mutation severely diminished the Ca(2+)-dependent inactivation (CDI) of CaV1.3 channels, an important feedback system required for Ca(2+) homeostasis. This reduction in CDI was observed in two major channel splice variants, though to different extents. Using an allosteric model of channel gating, we found that the underlying mechanism of CDI reduction is likely due to enhanced channel opening within the Ca(2+)-inactivated mode. Remarkably, the A760G mutation also caused an opposite increase in voltage-dependent inactivation (VDI), resulting in a multifaceted mechanism underlying ASD. When combined, these regulatory deficits appear to increase the intracellular Ca(2+) concentration, thus potentially disrupting neuronal development and synapse formation, ultimately leading to ASD.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Autism Spectrum Disorder",
+            "Calcium",
+            "Calcium Channels",
+            "Calcium Channels, L-Type",
+            "Down-Regulation",
+            "HEK293 Cells",
+            "Homeostasis",
+            "Humans",
+            "Ion Channel Gating",
+            "Membrane Potentials",
+            "Models, Animal",
+            "Mutation, Missense",
+            "Rats"
+        ],
+        "Authors": [
+            {
+                "First Name": "Worawan B",
+                "Last Name": "Limpitikul",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience, The Johns Hopkins University School of Medicine, Ross Building, Room 713,720 Rutland Avenue, Baltimore, MD 21205, USA."
+            },
+            {
+                "First Name": "Ivy E",
+                "Last Name": "Dick",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience, The Johns Hopkins University School of Medicine, Ross Building, Room 713,720 Rutland Avenue, Baltimore, MD 21205, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience, The Johns Hopkins University School of Medicine, Ross Building, Room 713,720 Rutland Avenue, Baltimore, MD 21205, USA."
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience, The Johns Hopkins University School of Medicine, Ross Building, Room 713,720 Rutland Avenue, Baltimore, MD 21205, USA."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26176690",
+        "Title": "A rendezvous with the queen of ion channels: Three decades of ion channel research by David T Yue and his Calcium Signals Laboratory.",
+        "Abstract": "David T. Yue was a renowned biophysicist who dedicated his life to the study of Ca(2+) signaling in cells. In the wake of his passing, we are left not only with a feeling of great loss, but with a tremendous and impactful body of work contributed by a remarkable man. David's research spanned the spectrum from atomic structure to organ systems, with a quantitative rigor aimed at understanding the fundamental mechanisms underlying biological function. Along the way he developed new tools and approaches, enabling not only his own research but that of his contemporaries and those who will come after him. While we cannot hope to replicate the eloquence and style we are accustomed to in David's writing, we nonetheless undertake a review of David's chosen field of study with a focus on many of his contributions to the calcium channel field.",
+        "Keywords": [
+            "biophysics",
+            "calcium channel",
+            "calmodulin",
+            "protein kinase A",
+            "single channels",
+            "sodium channel"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Biophysics",
+            "Calcium Channels",
+            "Calcium Signaling",
+            "History, 20th Century",
+            "History, 21st Century",
+            "United States"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ivy E",
+                "Last Name": "Dick",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "Worawan B",
+                "Last Name": "Limpitikul",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Niu",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "Rahul",
+                "Last Name": "Banerjee",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "John B",
+                "Last Name": "Issa",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "Paul J",
+                "Last Name": "Adams",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "Po Wei",
+                "Last Name": "Kang",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "Shin Rong",
+                "Last Name": "Lee",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "Lingjie",
+                "Last Name": "Sang",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "Wanjun",
+                "Last Name": "Yang",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Babich",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "Manning",
+                "Last Name": "Zhang",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "Hojjat",
+                "Last Name": "Bazazzi",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "Nancy C",
+                "Last Name": "Yue",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            },
+            {
+                "First Name": "Gordon F",
+                "Last Name": "Tomaselli",
+                "Affiliation": "a Calcium Signals Laboratory; Department of Biomedical Engineering ; Johns Hopkins University School of Medicine ; Baltimore , MD USA."
+            }
+        ],
+        "Journal": "Channels (Austin, Tex.)",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "25966688",
+        "Title": "Towards a Unified Theory of Calmodulin Regulation (Calmodulation) of Voltage-Gated Calcium and Sodium Channels.",
+        "Abstract": "Voltage-gated Na and Ca(2+) channels represent two major ion channel families that enable myriad biological functions including the generation of action potentials and the coupling of electrical and chemical signaling in cells. Calmodulin regulation (calmodulation) of these ion channels comprises a vital feedback mechanism with distinct physiological implications. Though long-sought, a shared understanding of the channel families remained elusive for two decades as the functional manifestations and the structural underpinnings of this modulation often appeared to diverge. Here, we review recent advancements in the understanding of calmodulation of Ca(2+) and Na channels that suggest a remarkable similarity in their regulatory scheme. This interrelation between the two channel families now paves the way towards a unified mechanistic framework to understand vital calmodulin-dependent feedback and offers shared principles to approach related channelopathic diseases. An exciting era of synergistic study now looms.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Calcium",
+            "Calcium Channels",
+            "Calmodulin",
+            "Feedback, Physiological",
+            "Humans",
+            "Ion Channel Gating",
+            "Models, Biological",
+            "Voltage-Gated Sodium Channels"
+        ],
+        "Authors": [
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ivy E",
+                "Last Name": "Dick",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lingjie",
+                "Last Name": "Sang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Worawan B",
+                "Last Name": "Limpitikul",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Po Wei",
+                "Last Name": "Kang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Niu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rahul",
+                "Last Name": "Banerjee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wanjun",
+                "Last Name": "Yang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jennifer S",
+                "Last Name": "Babich",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John B",
+                "Last Name": "Issa",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shin Rong",
+                "Last Name": "Lee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ho",
+                "Last Name": "Namkung",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jiangyu",
+                "Last Name": "Li",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Manning",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Philemon S",
+                "Last Name": "Yang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hojjat",
+                "Last Name": "Bazzazi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paul J",
+                "Last Name": "Adams",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rosy",
+                "Last Name": "Joshi-Mukherjee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Daniel N",
+                "Last Name": "Yue",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": "Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Ross Building, Room 713, 720 Rutland Avenue, Baltimore, MD 21205, USA. manu@jhmi.edu."
+            }
+        ],
+        "Journal": "Current molecular pharmacology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25417111",
+        "Title": "Apocalmodulin itself promotes ion channel opening and Ca(2+) regulation.",
+        "Abstract": "The Ca(2+)-free form of calmodulin (apoCaM) often appears inert, modulating target molecules only upon conversion to its Ca(2+)-bound form. This schema has appeared to govern voltage-gated Ca(2+) channels, where apoCaM has been considered a dormant Ca(2+) sensor, associated with channels but awaiting the binding of Ca(2+) ions before inhibiting channel opening to provide vital feedback inhibition. Using single-molecule measurements of channels and chemical dimerization to elevate apoCaM, we find that apoCaM binding on its own markedly upregulates opening, rivaling the strongest forms of modulation. Upon Ca(2+) binding to this CaM, inhibition may simply reverse the initial upregulation. As RNA-edited and -spliced channel variants show different affinities for apoCaM, the apoCaM-dependent control mechanisms may underlie the functional diversity of these variants and explain an elongation of\u00a0neuronal action potentials by apoCaM. More broadly, voltage-gated Na channels adopt this same modulatory principle. ApoCaM thus imparts potent and pervasive ion-channel regulation. PAPERCLIP:",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Calcium Channels",
+            "Calcium Channels, L-Type",
+            "Calmodulin",
+            "Electrophysiological Phenomena",
+            "Humans",
+            "Mice",
+            "Rats",
+            "Sodium Channels"
+        ],
+        "Authors": [
+            {
+                "First Name": "Paul J",
+                "Last Name": "Adams",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience, Center for Cell Dynamics, The Johns Hopkins University School of Medicine, 720 Rutland Avenue, Baltimore, MD 21205, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience, Center for Cell Dynamics, The Johns Hopkins University School of Medicine, 720 Rutland Avenue, Baltimore, MD 21205, USA."
+            },
+            {
+                "First Name": "Ivy E",
+                "Last Name": "Dick",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience, Center for Cell Dynamics, The Johns Hopkins University School of Medicine, 720 Rutland Avenue, Baltimore, MD 21205, USA."
+            },
+            {
+                "First Name": "Takanari",
+                "Last Name": "Inoue",
+                "Affiliation": "Department of Cell Biology and Center for Cell Dynamics, The Johns Hopkins University School of Medicine, 855 N. Wolfe Street, Baltimore, MD 21205, USA; Precursory Research for Embryonic Science and Technology, Japan Science and Technology Agency, 4-1-8 Honcho Kawaguchi, Saitama 332-0012, Japan."
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience, Center for Cell Dynamics, The Johns Hopkins University School of Medicine, 720 Rutland Avenue, Baltimore, MD 21205, USA. Electronic address: dyue@jhmi.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25122673",
+        "Title": "Calcineurin determines toxic versus beneficial responses to \u03b1-synuclein.",
+        "Abstract": "Calcineurin (CN) is a highly conserved Ca(2+)-calmodulin (CaM)-dependent phosphatase that senses Ca(2+) concentrations and transduces that information into cellular responses. Ca(2+) homeostasis is disrupted by \u03b1-synuclein (\u03b1-syn), a small lipid binding protein whose misfolding and accumulation is a pathological hallmark of several neurodegenerative diseases. We report that \u03b1-syn, from yeast to neurons, leads to sustained highly elevated levels of cytoplasmic Ca(2+), thereby activating a CaM-CN cascade that engages substrates that result in toxicity. Surprisingly, complete inhibition of CN also results in toxicity. Limiting the availability of CaM shifts CN's spectrum of substrates toward protective pathways. Modulating CN or CN's substrates with highly selective genetic and pharmacological tools (FK506) does the same. FK506 crosses the blood brain barrier, is well tolerated in humans, and is active in neurons and glia. Thus, a tunable response to CN, which has been conserved for a billion years, can be targeted to rebalance the phosphatase's activities from toxic toward beneficial substrates. These findings have immediate therapeutic implications for synucleinopathies.",
+        "Keywords": [
+            "Crz1",
+            "NFAT",
+            "Slm2",
+            "TORC2",
+            "neuroinflammation"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Calcineurin",
+            "Calcineurin Inhibitors",
+            "Calcium Signaling",
+            "Calmodulin",
+            "Cells, Cultured",
+            "Gene Knockdown Techniques",
+            "Humans",
+            "Lewy Body Disease",
+            "Mice",
+            "Mice, Transgenic",
+            "Models, Neurological",
+            "NFATC Transcription Factors",
+            "Neurons",
+            "Parkinson Disease",
+            "Phosphoric Monoester Hydrolases",
+            "Rats",
+            "Recombinant Proteins",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins",
+            "Tacrolimus",
+            "alpha-Synuclein"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gabriela",
+                "Last Name": "Caraveo",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142; Howard Hughes Medical Institute, Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139;"
+            },
+            {
+                "First Name": "Pavan K",
+                "Last Name": "Auluck",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142; Department of Pathology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114; Departments of."
+            },
+            {
+                "First Name": "Luke",
+                "Last Name": "Whitesell",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142;"
+            },
+            {
+                "First Name": "Chee Yeun",
+                "Last Name": "Chung",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142;"
+            },
+            {
+                "First Name": "Valeriya",
+                "Last Name": "Baru",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142; Howard Hughes Medical Institute, Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139;"
+            },
+            {
+                "First Name": "Eugene V",
+                "Last Name": "Mosharov",
+                "Affiliation": "Neurology and."
+            },
+            {
+                "First Name": "Xiaohui",
+                "Last Name": "Yan",
+                "Affiliation": "Department of Biological Sciences, The University of Alabama, Tuscaloosa, AL 35487;"
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Departments of Biomedical Engineering and Neuroscience, The Johns Hopkins University School of Medicine, Baltimore, MD 21205; and."
+            },
+            {
+                "First Name": "Martin",
+                "Last Name": "Soste",
+                "Affiliation": "Department of Biology, Institute of Biochemistry, Eidgenossische Technische Hochschule Zurich, Zurich CH-8093, Switzerland."
+            },
+            {
+                "First Name": "Paola",
+                "Last Name": "Picotti",
+                "Affiliation": "Department of Biology, Institute of Biochemistry, Eidgenossische Technische Hochschule Zurich, Zurich CH-8093, Switzerland."
+            },
+            {
+                "First Name": "Hanna",
+                "Last Name": "Kim",
+                "Affiliation": "Department of Biological Sciences, The University of Alabama, Tuscaloosa, AL 35487;"
+            },
+            {
+                "First Name": "Kim A",
+                "Last Name": "Caldwell",
+                "Affiliation": "Department of Biological Sciences, The University of Alabama, Tuscaloosa, AL 35487;"
+            },
+            {
+                "First Name": "Guy A",
+                "Last Name": "Caldwell",
+                "Affiliation": "Department of Biological Sciences, The University of Alabama, Tuscaloosa, AL 35487;"
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Sulzer",
+                "Affiliation": "Neurology and Psychiatry, Columbia University Medical Center, New York, NY 10032;"
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": "Departments of Biomedical Engineering and Neuroscience, The Johns Hopkins University School of Medicine, Baltimore, MD 21205; and."
+            },
+            {
+                "First Name": "Susan",
+                "Last Name": "Lindquist",
+                "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA 02142; Howard Hughes Medical Institute, Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139; lindquist@wi.mit.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24949975",
+        "Title": "Conservation of Ca2+/calmodulin regulation across Na and Ca2+ channels.",
+        "Abstract": "Voltage-gated Na and Ca2+ channels comprise distinct ion channel superfamilies, yet the carboxy tails of these channels exhibit high homology, hinting at a long-shared and purposeful module. For different Ca2+ channels, carboxyl-tail interactions with calmodulin do elaborate robust and similar forms of Ca2+ regulation. However, Na channels have only shown subtler Ca2+ modulation that differs among reports, challenging attempts at unified understanding. Here, by rapid Ca2+ photorelease onto Na channels, we reset this view of Na channel regulation. For cardiac-muscle channels (NaV1.5), reported effects from which most mechanistic proposals derive, we observe no Ca2+ modulation. Conversely, for skeletal-muscle channels (NaV1.4), we uncover fast Ca2+ regulation eerily similar to that of Ca2+ channels. Channelopathic myotonia mutations halve NaV1.4 Ca2+ regulation, and transplanting the NaV1.4 carboxy tail onto Ca2+ channels recapitulates Ca2+ regulation. Thus, we argue for the persistence and physiological relevance of an ancient Ca2+ regulatory module across Na and Ca2+ channels.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Animals",
+            "Calcium",
+            "Calcium Channels",
+            "Calmodulin",
+            "Guinea Pigs",
+            "Humans",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Muscle Cells",
+            "Myoblasts",
+            "Phylogeny",
+            "Rats",
+            "Sequence Alignment",
+            "Voltage-Gated Sodium Channels"
+        ],
+        "Authors": [
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience and Center for Cell Dynamics, The\u00a0Johns\u00a0Hopkins\u00a0University School of Medicine, Ross Building, Room 713, 720 Rutland Avenue, Baltimore, MD 21205, USA."
+            },
+            {
+                "First Name": "Philemon S",
+                "Last Name": "Yang",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience and Center for Cell Dynamics, The\u00a0Johns\u00a0Hopkins\u00a0University School of Medicine, Ross Building, Room 713, 720 Rutland Avenue, Baltimore, MD 21205, USA."
+            },
+            {
+                "First Name": "Jacqueline",
+                "Last Name": "Niu",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience and Center for Cell Dynamics, The\u00a0Johns\u00a0Hopkins\u00a0University School of Medicine, Ross Building, Room 713, 720 Rutland Avenue, Baltimore, MD 21205, USA."
+            },
+            {
+                "First Name": "Wanjun",
+                "Last Name": "Yang",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience and Center for Cell Dynamics, The\u00a0Johns\u00a0Hopkins\u00a0University School of Medicine, Ross Building, Room 713, 720 Rutland Avenue, Baltimore, MD 21205, USA."
+            },
+            {
+                "First Name": "Rosy",
+                "Last Name": "Joshi-Mukherjee",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience and Center for Cell Dynamics, The\u00a0Johns\u00a0Hopkins\u00a0University School of Medicine, Ross Building, Room 713, 720 Rutland Avenue, Baltimore, MD 21205, USA."
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience and Center for Cell Dynamics, The\u00a0Johns\u00a0Hopkins\u00a0University School of Medicine, Ross Building, Room 713, 720 Rutland Avenue, Baltimore, MD 21205, USA. Electronic address: dyue@jhmi.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24863929",
+        "Title": "Calmodulin regulation (calmodulation) of voltage-gated calcium channels.",
+        "Abstract": "Calmodulin regulation (calmodulation) of the family of voltage-gated CaV1-2 channels comprises a prominent prototype for ion channel regulation, remarkable for its powerful Ca(2+) sensing capabilities, deep in elegant mechanistic lessons, and rich in biological and therapeutic implications. This field thereby resides squarely at the epicenter of Ca(2+) signaling biology, ion channel biophysics, and therapeutic advance. This review summarizes the historical development of ideas in this field, the scope and richly patterned organization of Ca(2+) feedback behaviors encompassed by this system, and the long-standing challenges and recent developments in discerning a molecular basis for calmodulation. We conclude by highlighting the considerable synergy between mechanism, biological insight, and promising therapeutics.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Calcium",
+            "Calcium Channels, L-Type",
+            "Calcium Signaling",
+            "Calmodulin",
+            "Cell Membrane",
+            "Humans",
+            "Ion Channel Gating",
+            "Membrane Potentials"
+        ],
+        "Authors": [
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben-Johny",
+                "Affiliation": "Calcium Signals Laboratory, Department of Biomedical Engineering, Department of Neuroscience, and Center for Cell Dynamics, Johns Hopkins University School of Medicine, Baltimore, MD 21205Calcium Signals Laboratory, Department of Biomedical Engineering, Department of Neuroscience, and Center for Cell Dynamics, Johns Hopkins University School of Medicine, Baltimore, MD 21205Calcium Signals Laboratory, Department of Biomedical Engineering, Department of Neuroscience, and Center for Cell Dynamics, Johns Hopkins University School of Medicine, Baltimore, MD 21205Calcium Signals Laboratory, Department of Biomedical Engineering, Department of Neuroscience, and Center for Cell Dynamics, Johns Hopkins University School of Medicine, Baltimore, MD 21205."
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": "Calcium Signals Laboratory, Department of Biomedical Engineering, Department of Neuroscience, and Center for Cell Dynamics, Johns Hopkins University School of Medicine, Baltimore, MD 21205Calcium Signals Laboratory, Department of Biomedical Engineering, Department of Neuroscience, and Center for Cell Dynamics, Johns Hopkins University School of Medicine, Baltimore, MD 21205Calcium Signals Laboratory, Department of Biomedical Engineering, Department of Neuroscience, and Center for Cell Dynamics, Johns Hopkins University School of Medicine, Baltimore, MD 21205Calcium Signals Laboratory, Department of Biomedical Engineering, Department of Neuroscience, and Center for Cell Dynamics, Johns Hopkins University School of Medicine, Baltimore, MD 21205 dyue@jhmi.edu."
+            }
+        ],
+        "Journal": "The Journal of general physiology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24441587",
+        "Title": "Allostery in Ca\u00b2\u207a channel modulation by calcium-binding proteins.",
+        "Abstract": "Distinguishing between allostery and competition among modulating ligands is challenging for large target molecules. Out of practical necessity, inferences are often drawn from in vitro assays on target fragments, but such inferences may belie actual mechanisms. One key example of such ambiguity concerns calcium-binding proteins (CaBPs) that tune signaling molecules regulated by calmodulin (CaM). As CaBPs resemble CaM, CaBPs are believed to competitively replace CaM on targets. Yet, brain CaM expression far surpasses that of CaBPs, raising questions as to whether CaBPs can exert appreciable biological actions. Here, we devise a live-cell, holomolecule approach that reveals an allosteric mechanism for calcium channels whose CaM-mediated inactivation is eliminated by CaBP4. Our strategy is to covalently link CaM and/or CaBP to holochannels, enabling live-cell fluorescence resonance energy transfer assays to resolve a cyclical allosteric binding scheme for CaM and CaBP4 to channels, thus explaining how trace CaBPs prevail. This approach may apply generally for discerning allostery in live cells.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Allosteric Regulation",
+            "Binding, Competitive",
+            "Calcium Channels",
+            "Calcium-Binding Proteins",
+            "Calmodulin",
+            "Humans",
+            "Protein Binding",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Philemon S",
+                "Last Name": "Yang",
+                "Affiliation": "Calcium Signals Laboratory, Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Manu Ben",
+                "Last Name": "Johny",
+                "Affiliation": "Calcium Signals Laboratory, Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": "1] Calcium Signals Laboratory, Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA. [2] Department of Neuroscience, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            }
+        ],
+        "Journal": "Nature chemical biology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24120865",
+        "Title": "Continuously tunable Ca(2+) regulation of RNA-edited CaV1.3 channels.",
+        "Abstract": "CaV1.3 ion channels are dominant Ca(2+) portals into pacemaking neurons, residing at the epicenter of brain rhythmicity and neurodegeneration. Negative Ca(2+) feedback regulation of CaV1.3 channels (CDI) is therefore critical for Ca(2+) homeostasis. Intriguingly, nearly half the CaV1.3 transcripts in the brain\u00a0are RNA edited to reduce CDI and influence oscillatory activity. It is then mechanistically remarkable that this editing occurs precisely within an IQ\u00a0domain, whose interaction with Ca(2+)-bound calmodulin (Ca(2+)/CaM) is believed to induce CDI. Here, we sought the mechanism underlying the altered CDI of edited channels. Unexpectedly, editing failed to attenuate Ca(2+)/CaM binding. Instead, editing weakened the prebinding of Ca(2+)-free CaM (apoCaM) to channels, which proves essential for CDI. Thus, editing might render CDI continuously tunable by fluctuations in ambient CaM, a prominent effect we substantiate in substantia nigral neurons. This adjustability of Ca(2+) regulation by CaM now looms as a key element of CNS Ca(2+) homeostasis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Animals",
+            "Calcium",
+            "Calcium Channels, L-Type",
+            "Calmodulin",
+            "Cells, Cultured",
+            "HEK293 Cells",
+            "Humans",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Molecular Sequence Data",
+            "Neurons",
+            "Patch-Clamp Techniques",
+            "Protein Binding",
+            "Protein Structure, Tertiary",
+            "RNA",
+            "RNA Editing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hojjat",
+                "Last Name": "Bazzazi",
+                "Affiliation": "Calcium Signals Laboratory, Departments of Biomedical Engineering and Neuroscience, The Johns Hopkins University School of Medicine, Ross Building, Room 713, 720 Rutland Avenue, Baltimore, MD 21205, USA."
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben Johny",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paul J",
+                "Last Name": "Adams",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tuck Wah",
+                "Last Name": "Soong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23591884",
+        "Title": "Dynamic switching of calmodulin interactions underlies Ca2+ regulation of CaV1.3 channels.",
+        "Abstract": "Calmodulin regulation of CaV channels is a prominent Ca(2+) feedback mechanism orchestrating vital adjustments of Ca(2+) entry. The long-held structural correlation of this regulation has been Ca(2+)-bound calmodulin, complexed alone with an IQ domain on the channel carboxy terminus. Here, however, systematic alanine mutagenesis of the entire carboxyl tail of an L-type CaV1.3 channel casts doubt on this paradigm. To identify the actual molecular states underlying channel regulation, we develop a structure-function approach relating the strength of regulation to the affinity of underlying calmodulin/channel interactions, by a Langmuir relation (individually transformed Langmuir analysis). Accordingly, we uncover frank exchange of Ca(2+)-calmodulin to interfaces beyond the IQ domain, initiating substantial rearrangements of the calmodulin/channel complex. The N-lobe of Ca(2+)-calmodulin binds an N-terminal spatial Ca(2+) transforming element module on the channel amino terminus, whereas the C-lobe binds an EF-hand region upstream of the IQ domain. This system of structural plasticity furnishes a next-generation blueprint for CaV channel modulation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Calcium",
+            "Calcium Channels, L-Type",
+            "Calmodulin",
+            "HEK293 Cells",
+            "Humans",
+            "Structure-Activity Relationship"
+        ],
+        "Authors": [
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben Johny",
+                "Affiliation": "Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA."
+            },
+            {
+                "First Name": "Philemon S",
+                "Last Name": "Yang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hojjat",
+                "Last Name": "Bazzazi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "20142517",
+        "Title": "Molecular endpoints of Ca2+/calmodulin- and voltage-dependent inactivation of Ca(v)1.3 channels.",
+        "Abstract": "Ca(2+)/calmodulin- and voltage-dependent inactivation (CDI and VDI) comprise vital prototypes of Ca(2+) channel modulation, rich with biological consequences. Although the events initiating CDI and VDI are known, their downstream mechanisms have eluded consensus. Competing proposals include hinged-lid occlusion of channels, selectivity filter collapse, and allosteric inhibition of the activation gate. Here, novel theory predicts that perturbations of channel activation should alter inactivation in distinctive ways, depending on which hypothesis holds true. Thus, we systematically mutate the activation gate, formed by all S6 segments within Ca(V)1.3. These channels feature robust baseline CDI, and the resulting mutant library exhibits significant diversity of activation, CDI, and VDI. For CDI, a clear and previously unreported pattern emerges: activation-enhancing mutations proportionately weaken inactivation. This outcome substantiates an allosteric CDI mechanism. For VDI, the data implicate a \"hinged lid-shield\" mechanism, similar to a hinged-lid process, with a previously unrecognized feature. Namely, we detect a \"shield\" in Ca(V)1.3 channels that is specialized to repel lid closure. These findings reveal long-sought downstream mechanisms of inactivation and may furnish a framework for the understanding of Ca(2+) channelopathies involving S6 mutations.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Amino Acid Sequence",
+            "Animals",
+            "Calcium Channels",
+            "Calcium Channels, L-Type",
+            "Calcium Signaling",
+            "Calmodulin",
+            "Ion Channel Gating",
+            "Membrane Potentials",
+            "Models, Structural",
+            "Molecular Sequence Data",
+            "Point Mutation",
+            "Protein Conformation",
+            "Rats",
+            "Signal Transduction",
+            "Structural Homology, Protein",
+            "Structure-Activity Relationship"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael R",
+                "Last Name": "Tadross",
+                "Affiliation": "Department of Biomedical Engineering, The Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA. mtadross@gmail.com"
+            },
+            {
+                "First Name": "Manu",
+                "Last Name": "Ben Johny",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David T",
+                "Last Name": "Yue",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of general physiology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "17543898",
+        "Title": "Analysis of quantal size of voltage responses to retinal stimulation in the accessory optic system.",
+        "Abstract": "In the intact vertebrate central nervous system, the quantal nature of synaptic transmission is difficult to measure because the postsynaptic sites may be distributed along a tortuous dendritic tree that cannot be readily clamped spatially to a uniform potential. Titrating the intact brain's extracellular concentration of calcium ions is also challenging because of its strong buffering mechanisms. In this study, using a whole brain with eye attached preparation, quantal neurotransmission was examined in the turtle brainstem in vitro, by recording from accessory optic system neurons that receive direct input from visually responsive retinal ganglion cells. Unitary EPSPs, evoked by microstimulation of a single ganglion cell, were measured during whole cell current-clamp recordings. In this preparation, the neurons exhibit direction-selectivity, despite the hypoxic conditions. Bath application of cadmium to reduce calcium influx also reduced evoked EPSP amplitudes to that of the spontaneous synaptic events. Statistical analyses indicated that these evoked response amplitudes could be well fitted to a Poisson distribution for most brainstem neurons. Therefore, the spontaneous miniature excitatory synaptic events of approximately 1 mV, as also observed during spike blockade of the retina [Kogo, N., Ariel, M., 1997. Membrane properties and monosynaptic retinal excitation of neurons in the turtle accessory optic system. Journal of Neurophysiology 78, 614-627], are likely responses to the neurotransmitter of single vesicles release by retinal axon terminals.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Calcium Channel Blockers",
+            "Calcium Channels",
+            "Calcium Signaling",
+            "Cell Membrane",
+            "Excitatory Postsynaptic Potentials",
+            "Mesencephalon",
+            "Neurotransmitter Agents",
+            "Organ Culture Techniques",
+            "Patch-Clamp Techniques",
+            "Poisson Distribution",
+            "Presynaptic Terminals",
+            "Retina",
+            "Retinal Ganglion Cells",
+            "Synaptic Transmission",
+            "Synaptic Vesicles",
+            "Turtles",
+            "Visual Pathways"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael",
+                "Last Name": "Ariel",
+                "Affiliation": "Department of Pharmacological and Physiological Science, Saint Louis University, School of Medicine, Saint Louis, MO 63104, USA. arielm@slu.edu"
+            },
+            {
+                "First Name": "Manu Ben",
+                "Last Name": "Johny",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Brain research",
+        "PubDate": "2007"
+    }
+]

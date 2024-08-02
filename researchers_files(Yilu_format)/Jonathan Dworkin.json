@@ -1,0 +1,2846 @@
+[
+    {
+        "PMID": "37620344",
+        "Title": "Structural basis of peptidoglycan synthesis by E. coli RodA-PBP2 complex.",
+        "Abstract": "Peptidoglycan (PG) is an essential structural component of the bacterial cell wall that is synthetized during cell division and elongation. PG forms an extracellular polymer crucial for cellular viability, the synthesis of which is the target of many antibiotics. PG assembly requires a glycosyltransferase (GT) to generate a glycan polymer using a Lipid II substrate, which is then crosslinked to the existing PG via a transpeptidase (TP) reaction. A Shape, Elongation, Division and Sporulation (SEDS) GT enzyme and a Class B Penicillin Binding Protein (PBP) form the core of the multi-protein complex required for PG assembly. Here we used single particle cryo-electron microscopy to determine the structure of a cell elongation-specific E. coli RodA-PBP2 complex. We combine this information with biochemical, genetic, spectroscopic, and computational analyses to identify the Lipid II binding sites and propose a mechanism for Lipid II polymerization. Our data suggest a hypothesis for the movement of the glycan strand from the Lipid II polymerization site of RodA towards the TP site of PBP2, functionally linking these two central enzymatic activities required for cell wall peptidoglycan biosynthesis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cryoelectron Microscopy",
+            "Escherichia coli",
+            "Peptidoglycan",
+            "Molecular Biology",
+            "Anti-Bacterial Agents",
+            "Glycosyltransferases",
+            "Peptidyl Transferases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Rie",
+                "Last Name": "Nygaard",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Chris L B",
+                "Last Name": "Graham",
+                "Affiliation": "School of Life Sciences, University of Warwick, Coventry, CV4 7AL, UK."
+            },
+            {
+                "First Name": "Meagan",
+                "Last Name": "Belcher Dufrisne",
+                "Affiliation": "Department of Chemistry and Department of Molecular Physiology and Biological Physics, University of Virginia, Charlottesville, VA, 22904, USA."
+            },
+            {
+                "First Name": "Jonathan D",
+                "Last Name": "Colburn",
+                "Affiliation": "School of Life Sciences, University of Warwick, Coventry, CV4 7AL, UK."
+            },
+            {
+                "First Name": "Joseph",
+                "Last Name": "Pepe",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Molly A",
+                "Last Name": "Hydorn",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Silvia",
+                "Last Name": "Corradi",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Chelsea M",
+                "Last Name": "Brown",
+                "Affiliation": "School of Life Sciences, University of Warwick, Coventry, CV4 7AL, UK."
+            },
+            {
+                "First Name": "Khuram U",
+                "Last Name": "Ashraf",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Owen N",
+                "Last Name": "Vickery",
+                "Affiliation": "School of Life Sciences, University of Warwick, Coventry, CV4 7AL, UK."
+            },
+            {
+                "First Name": "Nicholas S",
+                "Last Name": "Briggs",
+                "Affiliation": "School of Life Sciences, University of Warwick, Coventry, CV4 7AL, UK."
+            },
+            {
+                "First Name": "John J",
+                "Last Name": "Deering",
+                "Affiliation": "School of Life Sciences, University of Warwick, Coventry, CV4 7AL, UK."
+            },
+            {
+                "First Name": "Brian",
+                "Last Name": "Kloss",
+                "Affiliation": "New York Consortium on Membrane Protein Structure, New York Structural Biology Center, 89 Convent Avenue, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Bruno",
+                "Last Name": "Botta",
+                "Affiliation": "Faculty of Pharmacy and Medicine, Sapienza University of Rome, Rome, Italy."
+            },
+            {
+                "First Name": "Oliver B",
+                "Last Name": "Clarke",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Linda",
+                "Last Name": "Columbus",
+                "Affiliation": "Department of Chemistry and Department of Molecular Physiology and Biological Physics, University of Virginia, Charlottesville, VA, 22904, USA. columbus@virginia.edu."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New York, NY, 10032, USA. jonathan.dworkin@columbia.edu."
+            },
+            {
+                "First Name": "Phillip J",
+                "Last Name": "Stansfeld",
+                "Affiliation": "School of Life Sciences, University of Warwick, Coventry, CV4 7AL, UK. phillip.stansfeld@warwick.ac.uk."
+            },
+            {
+                "First Name": "David I",
+                "Last Name": "Roper",
+                "Affiliation": "School of Life Sciences, University of Warwick, Coventry, CV4 7AL, UK. David.roper@warwick.ac.uk."
+            },
+            {
+                "First Name": "Filippo",
+                "Last Name": "Mancia",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University Irving Medical Center, New York, NY, 10032, USA. fm123@columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37286609",
+        "Title": "Hydration solids.",
+        "Abstract": "Hygroscopic biological matter in plants, fungi and bacteria make up a large fraction of Earth's biomass",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biological Transport",
+            "Fungi",
+            "Microscopy, Atomic Force",
+            "Water",
+            "Wettability",
+            "Plants",
+            "Bacteria",
+            "Spores, Bacterial",
+            "Humidity",
+            "Elasticity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Steven G",
+                "Last Name": "Harrellson",
+                "Affiliation": "Department of Physics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Michael S",
+                "Last Name": "DeLay",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Xi",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Ahmet-Hamdi",
+                "Last Name": "Cavusoglu",
+                "Affiliation": "Department of Chemical Engineering, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Howard A",
+                "Last Name": "Stone",
+                "Affiliation": "Department of Mechanical and Aerospace Engineering, Princeton University, Princeton, NJ, USA."
+            },
+            {
+                "First Name": "Ozgur",
+                "Last Name": "Sahin",
+                "Affiliation": "Department of Physics, Columbia University, New York, NY, USA. os2246@columbia.edu."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36651772",
+        "Title": "Elongation Factor P Is Important for Sporulation Initiation.",
+        "Abstract": "The universally conserved protein elongation factor P (EF-P) facilitates translation at amino acids that form peptide bonds with low efficiency, particularly polyproline tracts. Despite its wide conservation, it is not essential in most bacteria and its physiological role remains unclear. Here, we show that EF-P affects the process of sporulation initiation in the bacterium Bacillus subtilis. We observe that the lack of EF-P delays expression of sporulation-specific genes. Using ribosome profiling, we observe that expression of ",
+        "Keywords": [
+            "EF-P",
+            "elongation factor P",
+            "protein synthesis",
+            "ribosome quality control",
+            "sporulation",
+            "translation"
+        ],
+        "MeSH terms": [
+            "Bacterial Proteins",
+            "Transcription Factors",
+            "Peptide Elongation Factors",
+            "Amino Acids",
+            "Spores, Bacterial",
+            "Bacillus subtilis",
+            "Gene Expression Regulation, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Heather A",
+                "Last Name": "Feaga",
+                "Affiliation": "Department of Microbiology, Cornell University, Ithaca, New York, USA."
+            },
+            {
+                "First Name": "Hye-Rim",
+                "Last Name": "Hong",
+                "Affiliation": "Department of Microbiology, Cornell University, Ithaca, New York, USA."
+            },
+            {
+                "First Name": "Cassidy R",
+                "Last Name": "Prince",
+                "Affiliation": "Department of Microbiology, Cornell University, Ithaca, New York, USA."
+            },
+            {
+                "First Name": "Ananda",
+                "Last Name": "Rankin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Allen R",
+                "Last Name": "Buskirk",
+                "Affiliation": "Department of Molecular Biology and Genetics, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of bacteriology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36625599",
+        "Title": "Understanding the Stringent Response: Experimental Context Matters.",
+        "Abstract": "As rapidly growing bacteria begin to exhaust essential nutrients, they enter a state of reduced growth, ultimately leading to stasis or quiescence. Investigation of the response to nutrient limitation has focused largely on the consequences of amino acid starvation, known as the \"stringent response.\" Here, an uncharged tRNA in the A-site of the ribosome stimulates the ribosome-associated protein RelA to synthesize the hyperphosphorylated guanosine nucleotides (p)ppGpp that mediate a global slowdown of growth and biosynthesis. Investigations of the stringent response typically employ experimental methodologies that rapidly stimulate (p)ppGpp synthesis by abruptly increasing the fraction of uncharged tRNAs, either by explicit amino starvation or by inhibition of tRNA charging. Consequently, these methodologies inhibit protein translation, thereby interfering with the cellular pathways that respond to nutrient limitation. Thus, complete and/or rapid starvation is a problematic experimental paradigm for investigating bacterial responses to physiologically relevant nutrient-limited states.",
+        "Keywords": [
+            "(p)ppGpp",
+            "growth arrest",
+            "nutrient limitation",
+            "quiescence",
+            "starvation"
+        ],
+        "MeSH terms": [
+            "Guanosine Pentaphosphate",
+            "RNA, Transfer",
+            "Ribosomes",
+            "Amino Acids",
+            "Protein Biosynthesis",
+            "Ribosomal Proteins",
+            "Guanosine Tetraphosphate"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "mBio",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36595572",
+        "Title": "Serine-threonine phosphoregulation by PknB and Stp contributes to quiescence and antibiotic tolerance in ",
+        "Abstract": "",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Mice",
+            "Humans",
+            "Staphylococcus aureus",
+            "Anti-Bacterial Agents",
+            "Protein Serine-Threonine Kinases",
+            "Phosphorylation",
+            "Phosphoprotein Phosphatases",
+            "Bacterial Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Markus",
+                "Last Name": "Huemer",
+                "Affiliation": "Department of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+            },
+            {
+                "First Name": "Srikanth",
+                "Last Name": "Mairpady Shambat",
+                "Affiliation": "Department of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+            },
+            {
+                "First Name": "Sanne",
+                "Last Name": "Hertegonne",
+                "Affiliation": "Department of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+            },
+            {
+                "First Name": "Judith",
+                "Last Name": "Bergada-Pijuan",
+                "Affiliation": "Department of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+            },
+            {
+                "First Name": "Chun-Chi",
+                "Last Name": "Chang",
+                "Affiliation": "Department of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+            },
+            {
+                "First Name": "Sandro",
+                "Last Name": "Pereira",
+                "Affiliation": "Department of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+            },
+            {
+                "First Name": "Alejandro",
+                "Last Name": "G\u00f3mez-Mejia",
+                "Affiliation": "Department of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+            },
+            {
+                "First Name": "Lies",
+                "Last Name": "Van Gestel",
+                "Affiliation": "Department of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+            },
+            {
+                "First Name": "Julian",
+                "Last Name": "B\u00e4r",
+                "Affiliation": "Department of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+            },
+            {
+                "First Name": "Cl\u00e9ment",
+                "Last Name": "Vulin",
+                "Affiliation": "Department of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+            },
+            {
+                "First Name": "Sibylle",
+                "Last Name": "Pfammatter",
+                "Affiliation": "Functional Genomics Center Zurich, ETH/University of Zurich, Zurich, Switzerland."
+            },
+            {
+                "First Name": "Timothy P",
+                "Last Name": "Stinear",
+                "Affiliation": "Department of Microbiology and Immunology, Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia."
+            },
+            {
+                "First Name": "Ian R",
+                "Last Name": "Monk",
+                "Affiliation": "Department of Microbiology and Immunology, Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New\u00a0York, NY, USA."
+            },
+            {
+                "First Name": "Annelies S",
+                "Last Name": "Zinkernagel",
+                "Affiliation": "Department of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+            }
+        ],
+        "Journal": "Science signaling",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35594298",
+        "Title": "Crosstalk between guanosine nucleotides regulates cellular heterogeneity in protein synthesis during nutrient limitation.",
+        "Abstract": "Phenotypic heterogeneity of microbial populations can facilitate survival in dynamic environments by generating sub-populations of cells that may have differential fitness in a future environment. Bacillus subtilis cultures experiencing nutrient limitation contain distinct sub-populations of cells exhibiting either comparatively high or low protein synthesis activity. This heterogeneity requires the production of phosphorylated guanosine nucleotides (pp)pGpp by three synthases: SasA, SasB, and RelA. Here we show that these enzymes differentially affect this bimodality: RelA and SasB are necessary to generate the sub-population of cells exhibiting low protein synthesis whereas SasA is necessary to generate cells exhibiting comparatively higher protein synthesis. Previously, it was reported that a RelA product allosterically activates SasB and we find that a SasA product competitively inhibits this activation. Finally, we provide in vivo evidence that this antagonistic interaction mediates the observed heterogeneity in protein synthesis. This work therefore identifies the mechanism underlying phenotypic heterogeneity in protein synthesis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Gene Expression Regulation, Bacterial",
+            "Guanosine",
+            "Nucleotides",
+            "Nutrients"
+        ],
+        "Authors": [
+            {
+                "First Name": "Simon",
+                "Last Name": "Diez",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Molly",
+                "Last Name": "Hydorn",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Abigail",
+                "Last Name": "Whalen",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PLoS genetics",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35417196",
+        "Title": "Metabolic Reprogramming and Longevity in Quiescence.",
+        "Abstract": "Since Jacques Monod's foundational work in the 1940s, investigators studying bacterial physiology have largely (but not exclusively) focused on the exponential phase of bacterial cultures, which is characterized by rapid growth and high biosynthesis activity in the presence of excess nutrients. However, this is not the predominant state of bacterial life. In nature, most bacteria experience nutrient limitation most of the time. In fact, investigators even prior to Monod had identified other aspects of bacterial growth, including what is now known as the stationary phase, when nutrients become limiting. This review will discuss how bacteria transition to growth arrest in response to nutrient limitation through changes in transcription, translation, and metabolism. We will then examine how these changes facilitate survival during potentially extended periods of nutrient limitation, with particular attention to the metabolic strategies that underpin bacterial longevity in this state.",
+        "Keywords": [
+            "(p)ppGpp",
+            "nutrient limitation",
+            "starvation",
+            "stationary phase",
+            "stringent response"
+        ],
+        "MeSH terms": [
+            "Bacteria",
+            "Bacterial Physiological Phenomena",
+            "Cell Division",
+            "Gene Expression Regulation, Bacterial",
+            "Longevity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY, USA; email: jonathan.dworkin@columbia.edu."
+            },
+            {
+                "First Name": "Caroline S",
+                "Last Name": "Harwood",
+                "Affiliation": "Department of Microbiology, University of Washington, Seattle, Washington, USA; email: csh5@uw.edu."
+            }
+        ],
+        "Journal": "Annual review of microbiology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34152658",
+        "Title": "Transcription regulates ribosome hibernation.",
+        "Abstract": "Most bacteria are quiescent, typically as a result of nutrient limitation. In order to minimize energy consumption during this potentially prolonged state, quiescent bacteria substantially attenuate protein synthesis, the most energetically costly cellular process. Ribosomes in quiescent bacteria are present as dimers of two 70S ribosomes. Dimerization is dependent on a single protein, hibernation promoting factor (HPF), that binds the ribosome in the mRNA channel. This interaction indicates that dimers are inactive, suggesting that HPF inhibits translation. However, we observe that HPF does not significantly affect protein synthesis in vivo suggesting that dimerization is a consequence of inactivity, not the cause. The HPF-dimer interaction further implies that re-initiation of translation when the bacteria exit quiescence requires dimer resolution. We show that ribosome dimers quickly resolve in the presence of nutrients, and this resolution is dependent on transcription, indicating that mRNA synthesis is required for dimer resolution. Finally, we observe that ectopic HPF expression in growing cells where mRNA is abundant does not significantly affect protein synthesis despite stimulating dimer formation, suggesting that dimerization is dynamic. Thus, the extensive transcription that occurs in response to nutrient availability rapidly re-activates the translational apparatus of a quiescent cell and induces dimer resolution.",
+        "Keywords": [
+            "protein synthesis",
+            "ribosome hibernation",
+            "stationary phase",
+            "translation"
+        ],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Dimerization",
+            "Escherichia coli",
+            "Escherichia coli Proteins",
+            "Protein Biosynthesis",
+            "RNA, Messenger",
+            "Ribosomal Proteins",
+            "Ribosomes",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Heather A",
+                "Last Name": "Feaga",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Molecular microbiology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "32900305",
+        "Title": "Bioluminescence dynamics in single germinating bacterial spores reveal metabolic heterogeneity.",
+        "Abstract": "Spore-forming bacteria modulate their metabolic rate by over five orders of magnitude as they transition between dormant spores and vegetative cells and thus represent an extreme case of phenotypic variation. During environmental changes in nutrient availability, clonal populations of spore-forming bacteria exhibit individual differences in cell fate, the timing of phenotypic transitions and gene expression. One potential source of this variability is metabolic heterogeneity, but this has not yet been measured, as existing single-cell methods are not easily applicable to spores due to their small size and strong autofluorescence. Here, we use the bacterial bioluminescence system and a highly sensitive microscope to measure metabolic dynamics in thousands of ",
+        "Keywords": [
+            "cellular energetics",
+            "dormancy",
+            "phenotypic variation"
+        ],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Spores",
+            "Spores, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zak",
+                "Last Name": "Frentz",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Journal of the Royal Society, Interface",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32888201",
+        "Title": "Escherichia coli YegI is a novel Ser/Thr kinase lacking conserved motifs that localizes to the inner membrane.",
+        "Abstract": "In bacteria, signaling phosphorylation is thought to occur primarily on His and Asp residues. However, phosphoproteomic surveys in phylogenetically diverse bacteria over the past decade have identified numerous proteins that are phosphorylated on Ser and/or Thr residues. Consistently, genes encoding Ser/Thr kinases are present in many bacterial genomes such as in the Escherichia coli genome, which encodes at least three Ser/Thr kinases. Here, we identify a previously uncharacterized ORF, yegI, and demonstrate that it encodes a novel Ser/Thr kinase. YegI lacks several conserved motifs including residues important for Mg",
+        "Keywords": [
+            "Ser/Thr phosphorylation",
+            "YegI",
+            "eSTK",
+            "eukaryotic-like Ser/Thr kinase"
+        ],
+        "MeSH terms": [
+            "Amino Acid Motifs",
+            "Amino Acid Sequence",
+            "Conserved Sequence",
+            "Enzyme Activation",
+            "Escherichia coli",
+            "Eukaryotic Cells",
+            "Intracellular Membranes",
+            "Manganese",
+            "Membrane Proteins",
+            "Phosphorylation",
+            "Protein Serine-Threonine Kinases",
+            "Staurosporine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Krithika",
+                "Last Name": "Rajagopalan",
+                "Affiliation": "Department of Microbiology & Immunology, College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology & Immunology, College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "FEBS letters",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32576694",
+        "Title": "The alarmones (p)ppGpp directly regulate translation initiation during entry into quiescence.",
+        "Abstract": "Many bacteria exist in a state of metabolic quiescence where energy consumption must be minimized so as to maximize available resources over a potentially extended period of time. As protein synthesis is the most energy intensive metabolic process in a bacterial cell, it would be an appropriate target for down-regulation during the transition from growth to quiescence. We observe that when ",
+        "Keywords": [
+            "IF2",
+            "dormancy",
+            "protein synthesis",
+            "translational regulation"
+        ],
+        "MeSH terms": [
+            "Allosteric Regulation",
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Cell Division",
+            "Guanosine Pentaphosphate",
+            "Guanosine Tetraphosphate",
+            "Peptide Chain Initiation, Translational",
+            "Prokaryotic Initiation Factor-2"
+        ],
+        "Authors": [
+            {
+                "First Name": "Simon",
+                "Last Name": "Diez",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Jaewook",
+                "Last Name": "Ryu",
+                "Affiliation": "Department of Chemistry, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "Kelvin",
+                "Last Name": "Caban",
+                "Affiliation": "Department of Chemistry, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "Ruben L",
+                "Last Name": "Gonzalez",
+                "Affiliation": "Department of Chemistry, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032; jonathan.dworkin@columbia.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32520865",
+        "Title": "Epidemiology of infective endocarditis in transcatheter aortic valve replacement: systemic review and meta-analysis.",
+        "Abstract": "Infective endocarditis following transcatheter aortic valve replacement (TAVR) is an emerging problem, with a high rate of morbidity and mortality. However, little is known about the burden of disease, and data on infective endocarditis incidence are scarce. This study aimed to evaluate the incidence of infective endocarditis in TAVR by performing a systematic review and meta-analysis of the literature.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aged",
+            "Aged, 80 and over",
+            "Endocarditis",
+            "Female",
+            "Heart Valve Prosthesis",
+            "Humans",
+            "Incidence",
+            "Male",
+            "Observational Studies as Topic",
+            "Prosthesis-Related Infections",
+            "Risk Assessment",
+            "Risk Factors",
+            "Time Factors",
+            "Transcatheter Aortic Valve Replacement",
+            "Treatment Outcome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Narut",
+                "Last Name": "Prasitlumkum",
+                "Affiliation": "Department of Internal Medicine, University of Hawaii Internal Medicine Residency Program, Honolulu, Hawaii."
+            },
+            {
+                "First Name": "Wasawat",
+                "Last Name": "Vutthikraivit",
+                "Affiliation": "Department of Internal Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas, USA."
+            },
+            {
+                "First Name": "Sittinun",
+                "Last Name": "Thangjui",
+                "Affiliation": "Department of Internal Medicine, Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand."
+            },
+            {
+                "First Name": "Thiratest",
+                "Last Name": "Leesutipornchai",
+                "Affiliation": "Department of Internal Medicine, Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand."
+            },
+            {
+                "First Name": "Jakrin",
+                "Last Name": "Kewcharoen",
+                "Affiliation": "Department of Internal Medicine, University of Hawaii Internal Medicine Residency Program, Honolulu, Hawaii."
+            },
+            {
+                "First Name": "Tanawan",
+                "Last Name": "Riangwiwat",
+                "Affiliation": "Cardiology Department, Geisinger Medical Center, Danville, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Internal Medicine, University of Hawaii Internal Medicine Residency Program, Honolulu, Hawaii."
+            }
+        ],
+        "Journal": "Journal of cardiovascular medicine (Hagerstown, Md.)",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32208155",
+        "Title": "Anaerobiosis: A Surfactant Helps Bacteria Breathe a\u00a0Sigh of Relief.",
+        "Abstract": "Oxygen is essential for many organisms who have therefore evolved mechanisms to enable survival during hypoxia. A new study describes how a well-known bacterial surfactant, called surfactin, facilitates bacterial viability when oxygen becomes limiting by reducing oxygen consumption.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Anaerobiosis",
+            "Bacillus subtilis",
+            "Microbial Viability",
+            "Oxygen",
+            "Surface-Active Agents"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA. Electronic address: jed2113@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Current biology : CB",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32123037",
+        "Title": "Ribosome Dimerization Protects the Small Subunit.",
+        "Abstract": "When nutrients become scarce, bacteria can enter an extended state of quiescence. A major challenge of this state is how to preserve ribosomes for the return to favorable conditions. Here, we show that the ribosome dimerization protein hibernation-promoting factor (HPF) functions to protect essential ribosomal proteins. Ribosomes isolated from strains lacking HPF (\u0394",
+        "Keywords": [
+            "stationary phase",
+            "translation"
+        ],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Cryoelectron Microscopy",
+            "Dimerization",
+            "Ribosome Subunits, Small",
+            "Ribosomes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Heather A",
+                "Last Name": "Feaga",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Mykhailo",
+                "Last Name": "Kopylov",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Jenny Kim",
+                "Last Name": "Kim",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Marko",
+                "Last Name": "Jovanovic",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, USA jonathan.dworkin@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of bacteriology",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31862457",
+        "Title": "Clickable methionine as a universal probe for labelling intracellular bacteria.",
+        "Abstract": "Despite their clinical and biological importance, the cell biology of obligate intracellular bacteria is less well understood than that of many free-living model organisms. One reason for this is that they are mostly genetically intractable. As a consequence, it is not possible to engineer strains expressing fluorescent proteins and therefore fluorescence light microscopy - a key tool in host-pathogen cell biology studies - is difficult. Strain diversity also limits the universality of antibody-based immunofluorescence approaches. Here, we have developed a universal labelling protocol for intracellular bacteria based on a clickable methionine analog. Whilst we have applied this to obligate intracellular bacteria, we expect it to be useful for labelling free living bacteria as well as other intracellular pathogens.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alkynes",
+            "Bacteria",
+            "Click Chemistry",
+            "Glycine",
+            "Host-Pathogen Interactions",
+            "Intracellular Space",
+            "Methionine",
+            "Staining and Labeling"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sharanjeet",
+                "Last Name": "Atwal",
+                "Affiliation": "Public Health Research Institute, Rutgers University of New Jersey, USA."
+            },
+            {
+                "First Name": "Suparat",
+                "Last Name": "Giengkam",
+                "Affiliation": "Mahidol Oxford Tropical Research Unit, Bangkok, Thailand."
+            },
+            {
+                "First Name": "Yanin",
+                "Last Name": "Jaiyen",
+                "Affiliation": "Mahidol Oxford Tropical Research Unit, Bangkok, Thailand."
+            },
+            {
+                "First Name": "Heather A",
+                "Last Name": "Feaga",
+                "Affiliation": "Department of Microbiology & Immunology, College of Physicians and Surgeons, Columbia University, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology & Immunology, College of Physicians and Surgeons, Columbia University, USA."
+            },
+            {
+                "First Name": "Jeanne",
+                "Last Name": "Salje",
+                "Affiliation": "Public Health Research Institute, Rutgers University of New Jersey, USA; Mahidol Oxford Tropical Research Unit, Bangkok, Thailand; University of Oxford, UK. Electronic address: jeanne.salje@ndm.ox.ac.uk."
+            }
+        ],
+        "Journal": "Journal of microbiological methods",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31748408",
+        "Title": "Correction for Rajagopalan et al., \"Identification and Biochemical Characterization of a Novel Protein Phosphatase 2C-Like Ser/Thr Phosphatase in Escherichia coli\".",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Krithika",
+                "Last Name": "Rajagopalan",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Elizabeth",
+                "Last Name": "Nagle",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, USA jonathan.dworkin@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of bacteriology",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31723135",
+        "Title": "Multisite phosphorylation drives phenotypic variation in (p)ppGpp synthetase-dependent antibiotic tolerance.",
+        "Abstract": "Isogenic populations of cells exhibit phenotypic variability that has specific physiological consequences. Individual bacteria within a population can differ in antibiotic tolerance, but whether this variability can be regulated or is generally an unavoidable consequence of stochastic fluctuations is unclear. Here we report that a gene encoding a bacterial (p)ppGpp synthetase in Bacillus subtilis, sasA, exhibits high levels of extrinsic noise in expression. We find that sasA is regulated by multisite phosphorylation of the transcription factor WalR, mediated by a Ser/Thr kinase-phosphatase pair PrkC/PrpC, and a Histidine kinase WalK of a two-component system. This regulatory intersection is crucial for controlling the appearance of outliers; rare cells with unusually high levels of sasA expression, having\u00a0increased antibiotic tolerance. We create a predictive model demonstrating that the probability of a given cell surviving antibiotic treatment increases with sasA expression. Therefore, multisite phosphorylation can be used to strongly regulate variability in antibiotic tolerance.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Anti-Bacterial Agents",
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Drug Resistance, Microbial",
+            "Gene Expression Regulation, Bacterial",
+            "Ligases",
+            "Phenotype",
+            "Phosphorylation",
+            "Phosphothreonine",
+            "Protein Kinase C"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elizabeth A",
+                "Last Name": "Libby",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Shlomi",
+                "Last Name": "Reuveni",
+                "Affiliation": "Department of Systems Biology, Harvard Medical School, Boston, MA, 02115, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY, 10032, USA. jonathan.dworkin@columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31491424",
+        "Title": "A Wolf in Sheep's Clothing: Chromosomal Pathogenicity Islands Co-opt Phage Capsids to Facilitate Horizontal Spread.",
+        "Abstract": "Fillol-Salom et\u00a0al. describe a mechanism by which an Escherichia coli pathogenicity island is preferentially packaged into a phage particle, thus promoting the spread of pathogenic traits among Gram-negative bacteria while protecting them from lytic infection.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacteriophages",
+            "Capsid",
+            "Escherichia coli",
+            "Genomic Islands",
+            "Gram-Negative Bacteria"
+        ],
+        "Authors": [
+            {
+                "First Name": "Heather A",
+                "Last Name": "Feaga",
+                "Affiliation": "Department of Microbiology & Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology & Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA. Electronic address: jonathan.dworkin@columbia.edu."
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30938929",
+        "Title": "Device infections in implantable cardioverter defibrillators versus permanent pacemakers: A systematic review and meta-analysis.",
+        "Abstract": "Recent studies suggest that implantable cardioverter defibrillators (ICDs) are associated with increased risk of cardiac implantable electronic device (CIED) infections when compared with permanent pacemakers (PPMs). However, there were controversies among studies. In this study we performed a systematic review and meta-analysis to explore the risk of device infection in ICD versus PPM.",
+        "Keywords": [
+            "implantable cardioverter defibrillator",
+            "infection",
+            "permanent pacemaker"
+        ],
+        "MeSH terms": [
+            "Aged",
+            "Aged, 80 and over",
+            "Defibrillators, Implantable",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Pacemaker, Artificial",
+            "Prosthesis-Related Infections",
+            "Risk Assessment",
+            "Risk Factors",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pattara",
+                "Last Name": "Rattanawong",
+                "Affiliation": "Department of Internal Medicine, University of Hawaii Internal Medicine Residency Program, Honolulu, Hawaii."
+            },
+            {
+                "First Name": "Jakrin",
+                "Last Name": "Kewcharoen",
+                "Affiliation": "Department of Internal Medicine, Faculty of Medicine, Ramathibodi Hospital, Mahidol University, Bangkok, Thailand."
+            },
+            {
+                "First Name": "Poemlarp",
+                "Last Name": "Mekraksakit",
+                "Affiliation": "Department of Medicine, Phramongkutklao College of Medicine, Bangkok, Thailand."
+            },
+            {
+                "First Name": "Raktham",
+                "Last Name": "Mekritthikrai",
+                "Affiliation": "Department of Internal Medicine, University of Hawaii Internal Medicine Residency Program, Honolulu, Hawaii."
+            },
+            {
+                "First Name": "Narut",
+                "Last Name": "Prasitlumkum",
+                "Affiliation": "Department of Internal Medicine, University of Hawaii Internal Medicine Residency Program, Honolulu, Hawaii."
+            },
+            {
+                "First Name": "Wasawat",
+                "Last Name": "Vutthikraivit",
+                "Affiliation": "Department of Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas."
+            },
+            {
+                "First Name": "Prapaipan",
+                "Last Name": "Putthapiban",
+                "Affiliation": "Department of Medicine, Einstein Medical Center, Philadelphia, Pennsylvania."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Internal Medicine, University of Hawaii, Honolulu, Hawaii."
+            }
+        ],
+        "Journal": "Journal of cardiovascular electrophysiology",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30854255",
+        "Title": "Tricuspid Valve Infective Endocarditis Due to ",
+        "Abstract": "Infective endocarditis is a high morbidity-mortality condition despite advancements in supportive care and medical therapy. One of the strongest risk factors is intravenous drug use, which has high prevalence in the Hawai'i population. ",
+        "Keywords": [
+            "Klebsiella pneumoniae",
+            "intravenous drug use",
+            "tricuspid valve infective endocarditis"
+        ],
+        "MeSH terms": [
+            "Endocarditis, Bacterial",
+            "Female",
+            "Humans",
+            "Klebsiella Infections",
+            "Klebsiella pneumoniae",
+            "Middle Aged",
+            "Substance Abuse, Intravenous",
+            "Tricuspid Valve"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tanawan",
+                "Last Name": "Riangwiwat",
+                "Affiliation": "The Queen's Medical Center, Honolulu, HI; and John A. Burns School of Medicine, University of Hawai'i, Honolulu, HI."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "The Queen's Medical Center, Honolulu, HI; and John A. Burns School of Medicine, University of Hawai'i, Honolulu, HI."
+            }
+        ],
+        "Journal": "Hawai'i journal of medicine & public health : a journal of Asia Pacific Medicine & Public Health",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30308080",
+        "Title": "Detection of fungal and bacterial carbohydrates: Do the similar structures of chitin and peptidoglycan play a role in immune dysfunction?",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacteria",
+            "Cell Wall",
+            "Chitin",
+            "Fungi",
+            "Humans",
+            "Immune System Diseases",
+            "Peptidoglycan"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PLoS pathogens",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29967116",
+        "Title": "Identification and Biochemical Characterization of a Novel Protein Phosphatase 2C-Like Ser/Thr Phosphatase in Escherichia coli.",
+        "Abstract": "In bacteria, signaling phosphorylation is thought to occur primarily on His and Asp residues. However, phosphoproteomic surveys over the past decade in phylogenetically diverse bacteria have identified numerous proteins that are phosphorylated on Ser and/or Thr residues. Consistently, genes encoding Ser/Thr kinases are present in many bacterial genomes, such as that of ",
+        "Keywords": [
+            "Ser/Thr phosphorylation",
+            "metal-dependent phosphatase"
+        ],
+        "MeSH terms": [
+            "Escherichia coli",
+            "Escherichia coli Proteins",
+            "Genome, Bacterial",
+            "Open Reading Frames",
+            "Operon",
+            "Phosphorylation",
+            "Protein Phosphatase 2C",
+            "Protein Serine-Threonine Kinases",
+            "Signal Transduction",
+            "Substrate Specificity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Krithika",
+                "Last Name": "Rajagopalan",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, USA jonathan.dworkin@columbia.edu."
+            },
+            {
+                "First Name": "Elizabeth",
+                "Last Name": "Nagle",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of bacteriology",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29496999",
+        "Title": "LysMD3 is a type II membrane protein without an ",
+        "Abstract": "Germline-encoded receptors recognizing common pathogen-associated molecular patterns are a central element of the innate immune system and play an important role in shaping the host response to infection. Many of the innate immune molecules central to these signaling pathways are evolutionarily conserved. LysMD3 is a novel molecule containing a putative peptidoglycan-binding domain that has orthologs in humans, mice, zebrafish, flies, and worms. We found that the lysin motif (LysM) of LysMD3 is likely related to a previously described peptidoglycan-binding LysM found in bacteria. Mouse LysMD3 is a type II integral membrane protein that co-localizes with GM130+ structures, consistent with localization to the Golgi apparatus. We describe here two lines of mLysMD3-deficient mice for ",
+        "Keywords": [
+            "animal model",
+            "immunology",
+            "infection",
+            "inflammation",
+            "membrane protein",
+            "mouse",
+            "mouse genetics",
+            "protein motif"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Autoantigens",
+            "Bacterial Infections",
+            "CRISPR-Cas Systems",
+            "Female",
+            "Gene Deletion",
+            "Immunity, Innate",
+            "Inflammation",
+            "Male",
+            "Membrane Proteins",
+            "Mice",
+            "Mycoses",
+            "Phylogeny",
+            "Virus Diseases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christine C",
+                "Last Name": "Yokoyama",
+                "Affiliation": "From the Departments of Pathology and Immunology and."
+            },
+            {
+                "First Name": "Megan T",
+                "Last Name": "Baldridge",
+                "Affiliation": "Medicine, Division of Infectious Diseases, and."
+            },
+            {
+                "First Name": "Daisy W",
+                "Last Name": "Leung",
+                "Affiliation": "From the Departments of Pathology and Immunology and."
+            },
+            {
+                "First Name": "Guoyan",
+                "Last Name": "Zhao",
+                "Affiliation": "From the Departments of Pathology and Immunology and."
+            },
+            {
+                "First Name": "Chandni",
+                "Last Name": "Desai",
+                "Affiliation": "From the Departments of Pathology and Immunology and."
+            },
+            {
+                "First Name": "Ta-Chiang",
+                "Last Name": "Liu",
+                "Affiliation": "From the Departments of Pathology and Immunology and."
+            },
+            {
+                "First Name": "Vladimir E",
+                "Last Name": "Diaz-Ochoa",
+                "Affiliation": "the Department of Medical Microbiology and Immunology, University of California, Davis, California 95161."
+            },
+            {
+                "First Name": "Jeremy P",
+                "Last Name": "Huynh",
+                "Affiliation": "Departments of Molecular Microbiology."
+            },
+            {
+                "First Name": "Jacqueline M",
+                "Last Name": "Kimmey",
+                "Affiliation": "Departments of Molecular Microbiology."
+            },
+            {
+                "First Name": "Erica L",
+                "Last Name": "Sennott",
+                "Affiliation": "the Department of Microbiology and Immunobiology, Harvard Medical School, Boston, Massachusetts 02115."
+            },
+            {
+                "First Name": "Camaron R",
+                "Last Name": "Hole",
+                "Affiliation": "Departments of Molecular Microbiology."
+            },
+            {
+                "First Name": "Rachel A",
+                "Last Name": "Idol",
+                "Affiliation": "Pediatrics."
+            },
+            {
+                "First Name": "Sunmin",
+                "Last Name": "Park",
+                "Affiliation": "From the Departments of Pathology and Immunology and."
+            },
+            {
+                "First Name": "Kelly M",
+                "Last Name": "Storek",
+                "Affiliation": "Genentech, Inc., South San Francisco, California 95688."
+            },
+            {
+                "First Name": "Caihong",
+                "Last Name": "Wang",
+                "Affiliation": "Obstetrics and Gynecology, and."
+            },
+            {
+                "First Name": "Seungmin",
+                "Last Name": "Hwang",
+                "Affiliation": "the Department of Pathology, University of Chicago, Chicago, Illinois 60637."
+            },
+            {
+                "First Name": "Ashley",
+                "Last Name": "Viehmann Milam",
+                "Affiliation": "From the Departments of Pathology and Immunology and."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Chen",
+                "Affiliation": "the Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, California 94720."
+            },
+            {
+                "First Name": "Tobias",
+                "Last Name": "Kerrinnes",
+                "Affiliation": "the Department of Medical Microbiology and Immunology, University of California, Davis, California 95161."
+            },
+            {
+                "First Name": "Michael N",
+                "Last Name": "Starnbach",
+                "Affiliation": "the Department of Microbiology and Immunobiology, Harvard Medical School, Boston, Massachusetts 02115."
+            },
+            {
+                "First Name": "Scott A",
+                "Last Name": "Handley",
+                "Affiliation": "From the Departments of Pathology and Immunology and."
+            },
+            {
+                "First Name": "Indira U",
+                "Last Name": "Mysorekar",
+                "Affiliation": "From the Departments of Pathology and Immunology and."
+            },
+            {
+                "First Name": "Paul M",
+                "Last Name": "Allen",
+                "Affiliation": "From the Departments of Pathology and Immunology and."
+            },
+            {
+                "First Name": "Denise M",
+                "Last Name": "Monack",
+                "Affiliation": "the Department of Microbiology and Immunology, Stanford University, Stanford, California 94305."
+            },
+            {
+                "First Name": "Mary C",
+                "Last Name": "Dinauer",
+                "Affiliation": "Pediatrics."
+            },
+            {
+                "First Name": "Tamara L",
+                "Last Name": "Doering",
+                "Affiliation": "Departments of Molecular Microbiology."
+            },
+            {
+                "First Name": "Renee M",
+                "Last Name": "Tsolis",
+                "Affiliation": "the Department of Medical Microbiology and Immunology, University of California, Davis, California 95161."
+            },
+            {
+                "First Name": "Jonathan E",
+                "Last Name": "Dworkin",
+                "Affiliation": "the Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York 10032, and."
+            },
+            {
+                "First Name": "Christina L",
+                "Last Name": "Stallings",
+                "Affiliation": "Departments of Molecular Microbiology."
+            },
+            {
+                "First Name": "Gaya K",
+                "Last Name": "Amarasinghe",
+                "Affiliation": "From the Departments of Pathology and Immunology and."
+            },
+            {
+                "First Name": "Craig A",
+                "Last Name": "Micchelli",
+                "Affiliation": "Developmental Biology, Washington University School of Medicine, Saint Louis, Missouri 63110."
+            },
+            {
+                "First Name": "Herbert W",
+                "Last Name": "Virgin",
+                "Affiliation": "From the Departments of Pathology and Immunology and virgin@wustl.edu."
+            }
+        ],
+        "Journal": "The Journal of biological chemistry",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28622518",
+        "Title": "Habits of Highly Effective Biofilms: Ion Signaling.",
+        "Abstract": "How do neighboring bacterial biofilms sense and communicate with each other? In a recent paper, Liu et\u00a0al. (2017) demonstrate how electrical signaling allows communication of metabolic states between adjacent B.\u00a0subtilis biofilms, providing a possible generalizable mechanism for communication in multispecies biofilms with interdependent metabolism.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biofilms",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elizabeth A",
+                "Last Name": "Libby",
+                "Affiliation": "Department of Systems Biology, Harvard Medical School, Boston, MA 02115, USA; Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology & Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA. Electronic address: jonathan.dworkin@columbia.edu."
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27225706",
+        "Title": "In Vivo Probe of Lipid\u2005II-Interacting Proteins.",
+        "Abstract": "\u03b2-Lactams represent one of the most important classes of antibiotics discovered to date. These agents block Lipid\u2005II processing and cell wall biosynthesis through inactivation of penicillin-binding proteins (PBPs). PBPs enzymatically load cell wall building blocks from Lipid\u2005II carrier molecules onto the growing cell wall scaffold during growth and division. Lipid\u2005II, a bottleneck in cell wall biosynthesis, is the target of some of the most potent antibiotics in clinical use. Despite the immense therapeutic value of this biosynthetic pathway, the PBP-Lipid\u2005II association has not been established in live cells. To determine this key interaction, we designed an unnatural d-amino acid dipeptide that is metabolically incorporated into Lipid\u2005II molecules. By hijacking the peptidoglycan biosynthetic machinery, photoaffinity probes were installed in combination with click partners within Lipid\u2005II, thereby allowing, for the first time, demonstration of PBP interactions in\u2005vivo with Lipid\u2005II.",
+        "Keywords": [
+            "amino acids",
+            "cell walls",
+            "lipid II",
+            "peptides",
+            "proteomics"
+        ],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Cell Wall",
+            "Molecular Structure",
+            "Penicillin-Binding Proteins",
+            "Uridine Diphosphate N-Acetylmuramic Acid"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sourav",
+                "Last Name": "Sarkar",
+                "Affiliation": "Department of Chemistry, Lehigh University, Bethlehem, PA, 18015, USA."
+            },
+            {
+                "First Name": "Elizabeth A",
+                "Last Name": "Libby",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Sean E",
+                "Last Name": "Pidgeon",
+                "Affiliation": "Department of Chemistry, Lehigh University, Bethlehem, PA, 18015, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Marcos M",
+                "Last Name": "Pires",
+                "Affiliation": "Department of Chemistry, Lehigh University, Bethlehem, PA, 18015, USA. map311@lehigh.edu."
+            }
+        ],
+        "Journal": "Angewandte Chemie (International ed. in English)",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26279233",
+        "Title": "Phenotypic Diversity as a Mechanism to Exit Cellular Dormancy.",
+        "Abstract": "Microorganisms can facilitate their survival in stressful environments by entering a state of metabolic inactivity or dormancy. However, this state impairs the function of the very sensory systems necessary to detect favorable growth conditions. Thus, how can a metabolically quiescent cell accurately monitor environmental conditions in order to best decide when to exit dormancy? One strategy employed by microbes to deal with changing environments is the generation of phenotypes that may be less well adapted to a current condition but might confer an advantage in the future. This bet-hedging depends on phenotypic diversity in the population, which itself can derive from naturally occurring stochastic differences in gene expression. In the case of metabolic dormancy, a bet-hedging strategy that has been proposed is the \"scout model\" where cells comprising a fraction of the dormant population reinitiate growth stochastically, independent of environmental cues. Here, we provide experimental evidence that such a mechanism exists in dormant spores produced by the ubiquitous soil bacterium Bacillus subtilis. We observe that these spores reinitiate growth at a low but measureable frequency even in the absence of an inducing signal. This phenomenon is the result of phenotypic variation in the propensity of individual spores to reinitiate growth spontaneously. Since this bet-hedging mechanism produces individuals that will either grow under favorable conditions or die under unfavorable conditions, a population can properly respond to environmental changes despite the impaired sensory ability of individual cells.",
+        "Keywords": [
+            "B.\u00a0subtilis",
+            "cellular variability",
+            "germination",
+            "noise",
+            "quiescence",
+            "spore"
+        ],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Genetic Variation",
+            "Phenotype",
+            "Spores, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alexander",
+                "Last Name": "Sturm",
+                "Affiliation": "Department of Microbiology & Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology & Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA. Electronic address: jonathan.dworkin@columbia.edu."
+            }
+        ],
+        "Journal": "Current biology : CB",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26102633",
+        "Title": "The Eukaryotic-Like Ser/Thr Kinase PrkC Regulates the Essential WalRK Two-Component System in Bacillus subtilis.",
+        "Abstract": "Most bacteria contain both eukaryotic-like Ser/Thr kinases (eSTKs) and eukaryotic-like Ser/Thr phosphatases (eSTPs). Their role in bacterial physiology is not currently well understood in large part because the conditions where the eSTKs are active are generally not known. However, all sequenced Gram-positive bacteria have a highly conserved eSTK with extracellular PASTA repeats that bind cell wall derived muropeptides. Here, we report that in the Gram-positive bacterium Bacillus subtilis, the PASTA-containing eSTK PrkC and its cognate eSTP PrpC converge with the essential WalRK two-component system to regulate WalR regulon genes involved in cell wall metabolism. By continuously monitoring gene expression throughout growth, we consistently find a large PrkC-dependent effect on expression of several different WalR regulon genes in early stationary phase, including both those that are activated by WalR (yocH) as well as those that are repressed (iseA, pdaC). We demonstrate that PrkC phosphorylates WalR in vitro and in vivo on a single Thr residue located in the receiver domain. Although the phosphorylated region of the receiver domain is highly conserved among several B. subtilis response regulators, PrkC displays specificity for WalR in vitro. Consistently, strains expressing a nonphosphorylatable WalR point mutant strongly reduce both PrkC dependent activation and repression of yocH, iseA, and pdaC. This suggests a model where the eSTK PrkC regulates the essential WalRK two-component signaling system by direct phosphorylation of WalR Thr101, resulting in the regulation of WalR regulon genes involved in cell wall metabolism in stationary phase. As both the eSTK PrkC and the essential WalRK two-component system are highly conserved in Gram-positive bacteria, these results may be applicable to further understanding the role of eSTKs in Gram-positive physiology and cell wall metabolism.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Molecular Sequence Data",
+            "Protein Serine-Threonine Kinases",
+            "Substrate Specificity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elizabeth A",
+                "Last Name": "Libby",
+                "Affiliation": "Department of Microbiology & Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Lindsie A",
+                "Last Name": "Goss",
+                "Affiliation": "Department of Microbiology & Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology & Immunology, College of Physicians and Surgeons, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PLoS genetics",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26056311",
+        "Title": "Protein synthesis during cellular quiescence is inhibited by phosphorylation of a translational elongation factor.",
+        "Abstract": "In nature, most organisms experience conditions that are suboptimal for growth. To survive, cells must fine-tune energy-demanding metabolic processes in response to nutrient availability. Here, we describe a novel mechanism by which protein synthesis in starved cells is down-regulated by phosphorylation of the universally conserved elongation factor Tu (EF-Tu). Phosphorylation impairs the essential GTPase activity of EF-Tu, thereby preventing its release from the ribosome. As a consequence, phosphorylated EF-Tu has a dominant-negative effect in elongation, resulting in the overall inhibition of protein synthesis. Importantly, this mechanism allows a quick and robust regulation of one of the most abundant cellular proteins. Given that the threonine that serves as the primary site of phosphorylation is conserved in all translational GTPases from bacteria to humans, this mechanism may have important implications for growth-rate control in phylogenetically diverse organisms.",
+        "Keywords": [
+            "EF-Tu",
+            "GTPase",
+            "Ser/Thr kinase",
+            "dormancy",
+            "sporulation"
+        ],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Guanosine Triphosphate",
+            "Hydrolysis",
+            "Peptide Chain Elongation, Translational",
+            "Peptide Elongation Factor Tu",
+            "Phosphorylation",
+            "Protein Biosynthesis",
+            "Protein Serine-Threonine Kinases",
+            "Ribosomes",
+            "Spores, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sandro F F",
+                "Last Name": "Pereira",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032;"
+            },
+            {
+                "First Name": "Ruben L",
+                "Last Name": "Gonzalez",
+                "Affiliation": "Department of Chemistry, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032; jonathan.dworkin@columbia.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25625314",
+        "Title": "Ser/Thr phosphorylation as a regulatory mechanism in bacteria.",
+        "Abstract": "This review will discuss some recent work describing the role of Ser/Thr phosphorylation as a post-translational mechanism of regulation in bacteria. I will discuss the interaction between bacterial eukaryotic-like Ser/Thr kinases (eSTKs) and two-component systems as well as hints as to physiological function of eSTKs and their cognate eukaryotic-like phosphatases (eSTPs). In particular, I will highlight the role of eSTKs and eSTPs in the regulation of peptidoglycan metabolism and protein synthesis. In addition, I will discuss how data from phosphoproteomic surveys suggest that Ser/Thr phosphorylation plays a much more significant physiological role than would be predicted simply based on in vivo and in vitro analyses of individual kinases.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacteria",
+            "Bacterial Proteins",
+            "Cell Wall",
+            "Gene Expression Regulation, Bacterial",
+            "Phosphoric Monoester Hydrolases",
+            "Phosphorylation",
+            "Protein Serine-Threonine Kinases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology & Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA. Electronic address: jed2113@columbia.edu."
+            }
+        ],
+        "Journal": "Current opinion in microbiology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25285250",
+        "Title": "Mycobacterium avium complex empyema in a patient with interferon gamma autoantibodies.",
+        "Abstract": "Interferon gamma (IFN-\u03b3) autoantibodies are a relatively recently discovered clinical entity, which have been shown to be associated with disseminated non-tuberculous mycobacterial (NTM) infections and other opportunistic infections. Interestingly, isolated NTM infections (without disseminated NTM infection) have not been shown to be a good predictor of the presence of IFN-\u03b3 autoantibodies. This case describes an isolated NTM empyema in a patient with IFN-\u03b3 autoantibodies and makes the argument that the development of an NTM empyema in a patient with no known immunodeficiency should prompt consideration for IFN-\u03b3 testing. Additionally, this case underscores the importance for clinicians to recognize that an unusual infection without the typical cause of impairment in immunity should prompt a more thorough investigation of the patient's immune system.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aged",
+            "Autoantibodies",
+            "Empyema",
+            "Humans",
+            "Interferon-gamma",
+            "Male",
+            "Mycobacterium avium-intracellulare Infection"
+        ],
+        "Authors": [
+            {
+                "First Name": "Thomas T",
+                "Last Name": "DeLeon",
+                "Affiliation": "Internal Medicine Residency Program, John A. Burns School of Medicine, University of Hawai'i, Honolulu, HI (TTD)."
+            },
+            {
+                "First Name": "Heath H",
+                "Last Name": "Chung",
+                "Affiliation": "Internal Medicine Residency Program, John A. Burns School of Medicine, University of Hawai'i, Honolulu, HI (TTD)."
+            },
+            {
+                "First Name": "Steven M",
+                "Last Name": "Opal",
+                "Affiliation": "Internal Medicine Residency Program, John A. Burns School of Medicine, University of Hawai'i, Honolulu, HI (TTD)."
+            },
+            {
+                "First Name": "Jonathan D",
+                "Last Name": "Dworkin",
+                "Affiliation": "Internal Medicine Residency Program, John A. Burns School of Medicine, University of Hawai'i, Honolulu, HI (TTD)."
+            }
+        ],
+        "Journal": "Hawai'i journal of medicine & public health : a journal of Asia Pacific Medicine & Public Health",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25173426",
+        "Title": "Burden of typhoid fever in Sulaimania, Iraqi Kurdistan.",
+        "Abstract": "Typhoid fever imposes a high disease burden worldwide, but resource limitations mean that the burden of typhoid fever in many countries is poorly understood.",
+        "Keywords": [
+            "Brucella",
+            "Burden of Disease",
+            "Incidence",
+            "Iraq",
+            "Kurdistan",
+            "Typhoid"
+        ],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Brucellosis",
+            "Child",
+            "Child, Preschool",
+            "Cost of Illness",
+            "Female",
+            "Humans",
+            "Incidence",
+            "Infant",
+            "Infant, Newborn",
+            "Iraq",
+            "Male",
+            "Middle Aged",
+            "Population Surveillance",
+            "Prospective Studies",
+            "Typhoid Fever",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "John A. Burns School of Medicine, University of Hawaii, 1380 Lusitania St, Suite 904, Honolulu, HI 96813, USA. Electronic address: jdworkin@hotmail.com."
+            },
+            {
+                "First Name": "Rebeen",
+                "Last Name": "Saeed",
+                "Affiliation": "General University Teaching Hospital of Sulaimania, Sulaimania, Kurdistan."
+            },
+            {
+                "First Name": "Hawar",
+                "Last Name": "Mykhan",
+                "Affiliation": "General University Teaching Hospital of Sulaimania, Sulaimania, Kurdistan."
+            },
+            {
+                "First Name": "Shwan",
+                "Last Name": "Kanan",
+                "Affiliation": "General Pediatric Teaching Hospital of Sulaimania, Sulaimania, Kurdistan."
+            },
+            {
+                "First Name": "Dlawer",
+                "Last Name": "Farhad",
+                "Affiliation": "General University Teaching Hospital of Sulaimania, Sulaimania, Kurdistan."
+            },
+            {
+                "First Name": "Kocher Omer",
+                "Last Name": "Ali",
+                "Affiliation": "General Pediatric Teaching Hospital of Sulaimania, Sulaimania, Kurdistan."
+            },
+            {
+                "First Name": "Runak Hama Kareem",
+                "Last Name": "Abdulwahab",
+                "Affiliation": "Central Laboratory of Sulaimania, Sulaimania, Kurdistan."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Palardy",
+                "Affiliation": "Memorial Hospital of Rhode Island, Pawtucket, Rhode Island, USA."
+            },
+            {
+                "First Name": "Marguerite A",
+                "Last Name": "Neill",
+                "Affiliation": "Memorial Hospital of Rhode Island, Pawtucket, Rhode Island, USA; Warren Alpert Medical School of Brown University, Providence, Rhode Island, USA."
+            }
+        ],
+        "Journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24847956",
+        "Title": "The medium is the message: interspecies and interkingdom signaling by peptidoglycan and related bacterial glycans.",
+        "Abstract": "Peptidoglycan serves as a key structure of the bacterial cell by determining cell shape and providing resistance to internal turgor pressure. However, in addition to these essential and well-studied functions, bacterial signaling by peptidoglycan fragments, or muropeptides, has been demonstrated by recent work. Actively growing bacteria release muropeptides as a consequence of cell wall remodeling during elongation and division. Therefore, the presence of muropeptide synthesis is indicative of growth-promoting conditions and may serve as a broadly conserved signal for nongrowing cells to reinitiate growth. In addition, muropeptides serve as signals between bacteria and eukaryotic organisms during both pathogenic and symbiotic interactions. The increasingly appreciated role of the microbiota in metazoan organisms suggests that muropeptide signaling likely has important implications for homeostatic mammalian physiology.",
+        "Keywords": [
+            "LysM domains",
+            "PASTA domains",
+            "metabolic quiescence",
+            "quorum sensing"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Bacteria",
+            "Bacterial Infections",
+            "Humans",
+            "Peptidoglycan",
+            "Polysaccharides, Bacterial",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032; email: jonathan.dworkin@columbia.edu."
+            }
+        ],
+        "Journal": "Annual review of microbiology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "26082125",
+        "Title": "Protein Targeting during Bacillus subtilis Sporulation.",
+        "Abstract": "The Gram-positive bacterium Bacillus subtilis initiates the formation of an endospore in response to conditions of nutrient limitation. The morphological differentiation that spores undergo initiates with the formation of an asymmetric septum near to one pole of the cell, forming a smaller compartment, the forespore, and a larger compartment, the mother cell. This process continues with the complex morphogenesis of the spore as governed by an intricate series of interactions between forespore and mother cell proteins across the inner and outer forespore membranes. Given that these interactions occur at a particular place in the cell, a critical question is how the proteins involved in these processes get properly targeted, and we discuss recent progress in identifying mechanisms responsible for this targeting.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Protein Transport",
+            "Spores, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology & Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032."
+            }
+        ],
+        "Journal": "Microbiology spectrum",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24068052",
+        "Title": "Jules Bordet (1870-1961): pioneer of immunology.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Allergy and Immunology",
+            "Belgium",
+            "Biomedical Research",
+            "History, 19th Century",
+            "History, 20th Century",
+            "Humans",
+            "Immunity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "2230 Liliha Street, Suite 104, Honolulu, HI 96817, USA. siang@hawaii.edu."
+            },
+            {
+                "First Name": "Siang Yong",
+                "Last Name": "Tan",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Singapore medical journal",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23641463",
+        "Title": "Trouble from the tropics: challenges in managing malaria in Rhode Island.",
+        "Abstract": "The authors present a case of severe falciparum malaria diagnosed in a traveler after he returned to Rhode Island from a visit to the Dominican Republic. They then review aspects of the case pertinent to our local practice environment that make diagnosis and management especially challenging.",
+        "Keywords": [
+            "Severe falciparum malaria"
+        ],
+        "MeSH terms": [
+            "Amodiaquine",
+            "Antimalarials",
+            "Artemether, Lumefantrine Drug Combination",
+            "Artemisinins",
+            "Diagnosis, Differential",
+            "Dominican Republic",
+            "Drug Combinations",
+            "Ethanolamines",
+            "Fluorenes",
+            "Humans",
+            "Malaria, Falciparum",
+            "Male",
+            "Middle Aged",
+            "Plasmodium falciparum",
+            "Practice Guidelines as Topic",
+            "Quinidine",
+            "Rhode Island",
+            "Travel",
+            "Treatment Outcome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Former Brown fellow in infectious diseases, and is now assistant professor of medicine at the University of Hawaii, John A. Burns School of Medicine."
+            },
+            {
+                "First Name": "Marjorie",
+                "Last Name": "Janvier",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Diana",
+                "Last Name": "Treaba",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adrian",
+                "Last Name": "Gardner",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Rhode Island medical journal (2013)",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23243307",
+        "Title": "Bacillus anthracis acetyltransferases PatA1 and PatA2 modify the secondary cell wall polysaccharide and affect the assembly of S-layer proteins.",
+        "Abstract": "The envelope of Bacillus anthracis encompasses a proteinaceous S-layer with two S-layer proteins (Sap and EA1). Protein assembly in the envelope of B. anthracis requires S-layer homology domains (SLH) within S-layer proteins and S-layer-associated proteins (BSLs), which associate with the secondary cell wall polysaccharide (SCWP), an acetylated carbohydrate that is tethered to peptidoglycan. Here, we investigated the contributions of two putative acetyltransferases, PatA1 and PatA2, on SCWP acetylation and S-layer assembly. We show that mutations in patA1 and patA2 affect the chain lengths of B. anthracis vegetative forms and perturb the deposition of the BslO murein hydrolase at cell division septa. The patA1 and patA2 mutants are defective for the assembly of EA1 in the envelope but retain the ability of S-layer formation with Sap. SCWP isolated from the patA1 patA2 mutant lacked acetyl moieties identified in wild-type polysaccharide and failed to associate with the SLH domains of EA1. A model is discussed whereby patA1- and patA2-mediated acetylation of SCWP enables the deposition of EA1 as well as BslO near the septal region of the B. anthracis envelope.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acetylation",
+            "Acetyltransferases",
+            "Bacillus anthracis",
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Cell Wall",
+            "Membrane Glycoproteins",
+            "Mutation",
+            "N-Acetylmuramoyl-L-alanine Amidase",
+            "Polysaccharides, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "J Mark",
+                "Last Name": "Lunderberg",
+                "Affiliation": "Howard Taylor Ricketts Laboratory, Argonne National Laboratory, Argonne, Illinois, USA."
+            },
+            {
+                "First Name": "Sao-Mai",
+                "Last Name": "Nguyen-Mau",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "G Stefan",
+                "Last Name": "Richter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ya-Ting",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dominique M",
+                "Last Name": "Missiakas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Olaf",
+                "Last Name": "Schneewind",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of bacteriology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23192506",
+        "Title": "Charles Nicolle (1866-1936): bacteriologist and conqueror of typhus.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacteriology",
+            "France",
+            "History, 19th Century",
+            "History, 20th Century",
+            "Humans",
+            "Male",
+            "Philately",
+            "Typhus, Epidemic Louse-Borne"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "University of Hawaii, Honolulu, HI 96817, USA. siang@hawaii.edu"
+            },
+            {
+                "First Name": "Siang Yong",
+                "Last Name": "Tan",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Singapore medical journal",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22303282",
+        "Title": "Pulsed feedback defers cellular differentiation.",
+        "Abstract": "Environmental signals induce diverse cellular differentiation programs. In certain systems, cells defer differentiation for extended time periods after the signal appears, proliferating through multiple rounds of cell division before committing to a new fate. How can cells set a deferral time much longer than the cell cycle? Here we study Bacillus subtilis cells that respond to sudden nutrient limitation with multiple rounds of growth and division before differentiating into spores. A well-characterized genetic circuit controls the concentration and phosphorylation of the master regulator Spo0A, which rises to a critical concentration to initiate sporulation. However, it remains unclear how this circuit enables cells to defer sporulation for multiple cell cycles. Using quantitative time-lapse fluorescence microscopy of Spo0A dynamics in individual cells, we observed pulses of Spo0A phosphorylation at a characteristic cell cycle phase. Pulse amplitudes grew systematically and cell-autonomously over multiple cell cycles leading up to sporulation. This pulse growth required a key positive feedback loop involving the sporulation kinases, without which the deferral of sporulation became ultrasensitive to kinase expression. Thus, deferral is controlled by a pulsed positive feedback loop in which kinase expression is activated by pulses of Spo0A phosphorylation. This pulsed positive feedback architecture provides a more robust mechanism for setting deferral times than constitutive kinase expression. Finally, using mathematical modeling, we show how pulsing and time delays together enable \"polyphasic\" positive feedback, in which different parts of a feedback loop are active at different times. Polyphasic feedback can enable more accurate tuning of long deferral times. Together, these results suggest that Bacillus subtilis uses a pulsed positive feedback loop to implement a \"timer\" that operates over timescales much longer than a cell cycle.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Cell Cycle",
+            "Cell Proliferation",
+            "Chronobiology Phenomena",
+            "Computer Simulation",
+            "Feedback, Physiological",
+            "Gene Expression Regulation, Bacterial",
+            "Genes, Reporter",
+            "Luminescent Proteins",
+            "Microscopy, Fluorescence",
+            "Models, Biological",
+            "Promoter Regions, Genetic",
+            "Protein Kinases",
+            "Spores, Bacterial",
+            "Time-Lapse Imaging"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joe H",
+                "Last Name": "Levine",
+                "Affiliation": "Howard Hughes Medical Institute and Division of Biology and Department of Applied Physics, California Institute of Technology, Pasadena, California, United States of America."
+            },
+            {
+                "First Name": "Michelle E",
+                "Last Name": "Fontes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael B",
+                "Last Name": "Elowitz",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PLoS biology",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22111897",
+        "Title": "Chemical basis of peptidoglycan discrimination by PrkC, a key kinase involved in bacterial resuscitation from dormancy.",
+        "Abstract": "Bacterial Ser/Thr kinases modulate a wide number of cellular processes. In Bacillus subtilis , the Ser/Thr kinase PrkC has been shown to induce germination of bacterial spores in response to DAP-type but not Lys-type cell wall muropeptides. Muropeptides are a clear molecular signal that growing conditions are promising, since they are produced during cell wall peptidoglycan remodeling associated with cell growth and division of neighboring bacteria. However, whether muropeptides are able to bind the protein physically and how the extracellular region is able to distinguish the two types of muropeptides remains unclear. Here we tackled the important question of how the extracellular region of PrkC (EC-PrkC) senses muropeptides. By coupling NMR techniques and protein mutagenesis, we exploited the structural requirements necessary for recognition and binding and proved that muropeptides physically bind to EC-PrkC through DAP-moiety-mediated interactions with an arginine residue, Arg500, belonging to the protein C-terminal PASTA domain. Notably, mutation of this arginine completely suppresses muropeptide binding. Our data provide the first molecular clues into the mechanism of sensing of muropeptides by PrkC.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Models, Molecular",
+            "Mutation",
+            "Nuclear Magnetic Resonance, Biomolecular",
+            "Peptidoglycan",
+            "Protein Binding",
+            "Protein Conformation",
+            "Protein Serine-Threonine Kinases",
+            "Protein Structure, Tertiary",
+            "Substrate Specificity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Flavia",
+                "Last Name": "Squeglia",
+                "Affiliation": "Institute of Biostructures and Bioimaging, Consiglio Nazionale delle Ricerche (CNR), Via Mezzocannone 16, I-80134 Napoli, Italy."
+            },
+            {
+                "First Name": "Roberta",
+                "Last Name": "Marchetti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alessia",
+                "Last Name": "Ruggiero",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rosa",
+                "Last Name": "Lanzetta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Daniela",
+                "Last Name": "Marasco",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maxim",
+                "Last Name": "Petoukhov",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Antonio",
+                "Last Name": "Molinaro",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rita",
+                "Last Name": "Berisio",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alba",
+                "Last Name": "Silipo",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Chemical Society",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "22091839",
+        "Title": "Recent progress in Bacillus subtilis sporulation.",
+        "Abstract": "The Gram-positive bacterium Bacillus subtilis can initiate the process of sporulation under conditions of nutrient limitation. Here, we review some of the last 5\u00a0years of work in this area, with a particular focus on the decision to initiate sporulation, DNA translocation, cell-cell communication, protein localization and spore morphogenesis. The progress we describe has implications not only just for the study of sporulation but also for other biological systems where homologs of sporulation-specific proteins are involved in vegetative growth.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Gene Expression Regulation, Bacterial",
+            "Models, Biological",
+            "Protein Transport",
+            "Signal Transduction",
+            "Spores, Bacterial",
+            "Stress, Physiological"
+        ],
+        "Authors": [
+            {
+                "First Name": "Douglas",
+                "Last Name": "Higgins",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "FEMS microbiology reviews",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21372323",
+        "Title": "Eukaryote-like serine/threonine kinases and phosphatases in bacteria.",
+        "Abstract": "Genomic studies have revealed the presence of Ser/Thr kinases and phosphatases in many bacterial species, although their physiological roles have largely been unclear. Here we review bacterial Ser/Thr kinases (eSTKs) that show homology in their catalytic domains to eukaryotic Ser/Thr kinases and their partner phosphatases (eSTPs) that are homologous to eukaryotic phosphatases. We first discuss insights into the enzymatic mechanism of eSTK activation derived from structural studies on both the ligand-binding and catalytic domains. We then turn our attention to the identified substrates of eSTKs and eSTPs for a number of species and to the implications of these findings for understanding their physiological roles in these organisms.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Bacteria",
+            "Bacterial Proteins",
+            "Catalytic Domain",
+            "Eukaryota",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Phosphoric Monoester Hydrolases",
+            "Phosphorylation",
+            "Protein Serine-Threonine Kinases",
+            "Sequence Homology, Amino Acid",
+            "Structure-Activity Relationship"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sandro F F",
+                "Last Name": "Pereira",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Lindsie",
+                "Last Name": "Goss",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Microbiology and molecular biology reviews : MMBR",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21135105",
+        "Title": "O-Acetylation of peptidoglycan is required for proper cell separation and S-layer anchoring in Bacillus anthracis.",
+        "Abstract": "O-Acetylation of the MurNAc moiety of peptidoglycan is typically associated with bacterial resistance to lysozyme, a muramidase that serves as a central component of innate immunity. Here, we report that the peptidoglycan of Bacillus anthracis, the etiological agent of anthrax, is O-acetylated and that, unusually, this modification is produced by two unrelated families of O-acetyltransferases. Also, in contrast to other bacteria, O-acetylation of B. anthracis peptidoglycan is combined with N-deacetylation to confer resistance of cells to lysozyme. Activity of the Pat O-acetyltransferases is required for the separation of the daughter cells following bacterial division and for anchoring of one of the major S-layer proteins. Our results indicate that peptidoglycan O-acetylation modulates endogenous muramidase activity affecting the cell-surface properties and morphology of this important pathogen.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acetylation",
+            "Acetyltransferases",
+            "Bacillus anthracis",
+            "Bacterial Proteins",
+            "Cell Division",
+            "Drug Resistance, Bacterial",
+            "Membrane Glycoproteins",
+            "Muramidase",
+            "Peptidoglycan"
+        ],
+        "Authors": [
+            {
+                "First Name": "Maria-Halima",
+                "Last Name": "Laaberki",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Pfeffer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anthony J",
+                "Last Name": "Clarke",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of biological chemistry",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21117279",
+        "Title": "Form equals function? Bacterial shape and its consequences for pathogenesis.",
+        "Abstract": "Bacteria exhibit a wide variety of morphologies. This could simply be a consequence of an elaboration of bacterial cellular architecture akin to the famous decorative but not structurally essential Spandrels in the Basilica di San Marco in Venice that are a side-effect of an adaptation, rather than a direct product of natural selection. However, it is more likely that particular morphologies facilitate a specific function in cellular physiology. Two recent publications including one in this issue of Molecular Microbiology and another in Cell provide new insights into the molecular basis for the helical shape of the bacterium Helicobacter pylori and the role of this shape in pathogenesis. They identify a novel endopeptidase that is necessary to generate the helical shape by processing the peptidoglycan and report that catalytically inactive mutants lead to defects in colonization that appear to be independent of an effect on cellular motility. Here, we put these findings in the context of some of what is known about peptidoglycan and cell shape and suggest that the role of this endopeptidase in forming coccoid morphology may be critical for pathogenesis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacterial Proteins",
+            "Cell Wall",
+            "Endopeptidases",
+            "Helicobacter pylori",
+            "Peptidoglycan",
+            "Virulence Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, NewYork, NY 10032, USA. jonathan.dworkin@columbia.edu"
+            }
+        ],
+        "Journal": "Molecular microbiology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "21117117",
+        "Title": "Synthetic peptidoglycan motifs for germination of bacterial spores.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Molecular Structure",
+            "Peptidoglycan",
+            "Spores, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mijoon",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Chemistry and Biochemistry, University of Notre Dame, Notre Dame, IN 46556, USA."
+            },
+            {
+                "First Name": "Dusan",
+                "Last Name": "Hesek",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ishita M",
+                "Last Name": "Shah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Allen G",
+                "Last Name": "Oliver",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shahriar",
+                "Last Name": "Mobashery",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Chembiochem : a European journal of chemical biology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20972452",
+        "Title": "Exit from dormancy in microbial organisms.",
+        "Abstract": "Bacteria can exist in metabolically inactive states that allow them to survive conditions that are not conducive for growth. Such dormant cells may sense when conditions have improved and re-initiate growth, lest they be outcompeted by their neighbours. Growing bacteria turn over and release large quantities of their cell walls into the environment. Drawing from recent work on the germination of Bacillus subtilis spores, we propose that many microorganisms exit dormancy in response to cell wall muropeptides.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Cell Wall",
+            "Peptides",
+            "Peptidoglycan",
+            "Spores, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Jonathan Dworkin and Ishita M. Shah are at the Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, New York 10032, USA. jonathan.dworkin@columbia.edu"
+            },
+            {
+                "First Name": "Ishita M",
+                "Last Name": "Shah",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature reviews. Microbiology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20457568",
+        "Title": "Cellular polarity in prokaryotic organisms.",
+        "Abstract": "Simple visual inspection of bacteria indicated that, at least in some otherwise symmetric cells, structures such as flagella were often seen at a single pole. Because these structures are composed of proteins, it was not clear how to reconcile these observations of morphological asymmetry with the widely held view of bacteria as unstructured \"bags of enzymes.\" However, over the last decade, numerous GFP tagged proteins have been found at specific intracellular locations such as the poles of the cells, indicating that bacteria have a high degree of intracellular organization. Here we will explore the role of chromosomal asymmetry and the presence of \"new\" and \"old\" poles that result from the cytokinesis of rod-shaped cells in establishing bipolar and monopolar protein localization patterns. This article is intended to be illustrative, not exhaustive, so we have focused on examples drawn largely from Caulobacter crescentus and Bacillus subtilis, two bacteria that undergo dramatic morphological transformation. We will highlight how breaking monopolar symmetry is essential for the correct development of these organisms.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacteria",
+            "Bacterial Adhesion",
+            "Bacterial Proteins",
+            "Cell Polarity",
+            "Gene Expression Regulation, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Microbiology, College of Physicians and Surgeons, Columbia University, New York 10032, USA. jonathan.dworkin@columbia.edu"
+            }
+        ],
+        "Journal": "Cold Spring Harbor perspectives in biology",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "20444098",
+        "Title": "Cell wall synthesis is necessary for membrane dynamics during sporulation of Bacillus subtilis.",
+        "Abstract": "During Bacillus subtilis sporulation, an endocytic-like process called engulfment results in one cell being entirely encased in the cytoplasm of another cell. The driving force underlying this process of membrane movement has remained unclear, although components of the machinery have been characterized. Here we provide evidence that synthesis of peptidoglycan, the rigid, strength bearing extracellular polymer of bacteria, is a key part of the missing force-generating mechanism for engulfment. We observed that sites of peptidoglycan synthesis initially coincide with the engulfing membrane and later with the site of engulfment membrane fission. Furthermore, compounds that block muropeptide synthesis or polymerization prevented membrane migration in cells lacking a component of the engulfment machinery (SpoIIQ), and blocked the membrane fission event at the completion of engulfment in all cells. In addition, these compounds inhibited bulge and vesicle formation that occur in spoIID mutant cells unable to initiate engulfment, as did genetic ablation of a protein that polymerizes muropeptides. This is the first report to our knowledge that peptidoglycan synthesis is necessary for membrane movements in bacterial cells and has implications for the mechanism of force generation during cytokinesis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Cell Membrane",
+            "Cell Wall",
+            "Peptidoglycan",
+            "Spores, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pablo",
+                "Last Name": "Meyer",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Gutierrez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kit",
+                "Last Name": "Pogliano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular microbiology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20417640",
+        "Title": "Interactions between late-acting proteins required for peptidoglycan synthesis during sporulation.",
+        "Abstract": "The requirement of peptidoglycan synthesis for growth complicates the analysis of interactions between proteins involved in this pathway. In particular, the latter steps that involve membrane-linked substrates have proven largely recalcitrant to in vivo analysis. Here, we have taken advantage of the peptidoglycan synthesis that occurs during sporulation in Bacillus subtilis to examine the interactions between SpoVE, a nonessential, sporulation-specific homolog of the well-conserved and essential SEDS (shape elongation, division, and sporulation) proteins, and SpoVD, a nonessential class B penicillin binding protein. We found that localization of SpoVD is dependent on SpoVE and that SpoVD protects SpoVE from in vivo proteolysis. Co-immunoprecipitations and fluorescence resonance energy transfer experiments indicated that SpoVE and SpoVD interact, and co-affinity purification in Escherichia coli demonstrated that this interaction is direct. Finally, we generated a functional protein consisting of an SpoVE-SpoVD fusion and found that a loss-of-function point mutation in either part of the fusion resulted in loss of function of the entire fusion that was not complemented by a wild-type protein. Thus, SpoVE has a direct and functional interaction with SpoVD, and this conclusion will facilitate understanding the essential function that SpoVE and related SEDS proteins, such as FtsW and RodA, play in bacterial growth and division.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Substitution",
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Escherichia coli",
+            "Fluorescence Resonance Energy Transfer",
+            "Genes, Bacterial",
+            "Genetic Complementation Test",
+            "Green Fluorescent Proteins",
+            "Membrane Proteins",
+            "Membrane Transport Proteins",
+            "Mutagenesis, Site-Directed",
+            "Mutation",
+            "Penicillin-Binding Proteins",
+            "Peptidoglycan",
+            "Protein Stability",
+            "Recombinant Fusion Proteins",
+            "Spores, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Allison",
+                "Last Name": "Fay",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Pablo",
+                "Last Name": "Meyer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of molecular biology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20397505",
+        "Title": "A case of septic arthritis from rat-bite fever in Hawai'i.",
+        "Abstract": "Infection associated with a rat bite has been known for centuries. Streptobacillus moniliformis is a zoonotic organism identified in the 20th century as the causative agent of most cases of rat bite fever outside of mainland Asia. There are no previously published cases of this pathogen in Hawai'i.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Anti-Bacterial Agents",
+            "Arthritis, Infectious",
+            "DNA, Bacterial",
+            "DNA, Ribosomal",
+            "Doxycycline",
+            "Gentamicins",
+            "Hawaii",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Penicillins",
+            "RNA, Ribosomal, 16S",
+            "Rat-Bite Fever",
+            "Rats",
+            "Sequence Analysis, DNA",
+            "Streptobacillus",
+            "Synovial Fluid",
+            "Virulence"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "University of Hawai'i John A Burns School of Medicine, Honolulu, HI, USA. Jdworkin@hotmail.com"
+            },
+            {
+                "First Name": "Matthew J",
+                "Last Name": "Bankowski",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stella M",
+                "Last Name": "Wenceslao",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Royden",
+                "Last Name": "Young",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Hawaii medical journal",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20070526",
+        "Title": "Induction and regulation of a secreted peptidoglycan hydrolase by a membrane Ser/Thr kinase that detects muropeptides.",
+        "Abstract": "Here, we report that the model Gram-positive organism, Bacillus subtilis, expresses and secretes a muralytic enzyme, YocH, in response to cell wall-derived muropeptides derived from growing cells but not lysed cells. This induction is dependent on PrkC, a membrane Ser/Thr kinase that binds to peptidoglycan and that belongs to a broadly conserved family including the essential PknB kinase of M. tuberculosis. YocH stimulates its own expression in a PrkC-dependent manner demonstrating the presence of an autoregulatory loop during growth. Cells lacking YocH display a survival defect in stationary phase but enzymes secreted by other cells in the culture rescue this defect. The essential translation factor EF-G is an in vivo substrate of PrkC and this phosphorylation occurs in response to muropeptides. Therefore, we hypothesize that YocH is used by the bacterium to digest peptidoglycan released by other bacteria in the milieu and that the presence of these fragments is detected by a membrane kinase that modifies a key regulator of translation as well as to stimulate its own expression.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Gene Deletion",
+            "Gene Expression Regulation, Bacterial",
+            "Gene Expression Regulation, Enzymologic",
+            "Models, Biological",
+            "N-Acetylmuramoyl-L-alanine Amidase",
+            "Peptides",
+            "Peptidoglycan",
+            "Protein Serine-Threonine Kinases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ishita M",
+                "Last Name": "Shah",
+                "Affiliation": "Department of Microbiology and Immunology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular microbiology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20047906",
+        "Title": "Superdormant spores of bacillus species germinate normally with high pressure, peptidoglycan fragments, and bryostatin.",
+        "Abstract": "Superdormant spores of Bacillus cereus and Bacillus subtilis germinated just as well as dormant spores with pressures of 150 or 500 MPa and with or without heat activation. Superdormant B. subtilis spores also germinated as well as dormant spores with peptidoglycan fragments or bryostatin, a Ser/Thr protein kinase activator.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus cereus",
+            "Bacillus subtilis",
+            "Bryostatins",
+            "Hot Temperature",
+            "Hydrostatic Pressure",
+            "Peptidoglycan",
+            "Spores, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jie",
+                "Last Name": "Wei",
+                "Affiliation": "Molecular, Microbial and Structural Biology, University of Connecticut Health Center, Farmington, CT 06030-3305, USA."
+            },
+            {
+                "First Name": "Ishita M",
+                "Last Name": "Shah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sonali",
+                "Last Name": "Ghosh",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dallas G",
+                "Last Name": "Hoover",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Setlow",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of bacteriology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19706277",
+        "Title": "Microbial interactions: bacteria talk to (some of) their neighbors.",
+        "Abstract": "A recent study reports that Bacillus subtilis biofilm formation depends upon paracrine signaling where the signal-producing and target-responsive cells are different.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Biofilms",
+            "Escherichia coli",
+            "Extracellular Matrix",
+            "Lipopeptides",
+            "Membrane Proteins",
+            "Myxococcus xanthus",
+            "Paracrine Communication",
+            "Peptides, Cyclic",
+            "Quorum Sensing",
+            "Spores, Bacterial",
+            "Transferases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ishita M",
+                "Last Name": "Shah",
+                "Affiliation": "Department of Microbiology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current biology : CB",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19666716",
+        "Title": "Bacillus subtilis homologs of MviN (MurJ), the putative Escherichia coli lipid II flippase, are not essential for growth.",
+        "Abstract": "Although peptidoglycan synthesis is one of the best-studied metabolic pathways in bacteria, the mechanism underlying the membrane translocation of lipid II, the undecaprenyl-disaccharide pentapeptide peptidoglycan precursor, remains mysterious. Recently, it was proposed that the essential Escherichia coli mviN gene encodes the lipid II flippase. Bacillus subtilis contains four proteins that are putatively homologous to MviN, including SpoVB, previously reported to be necessary for spore cortex peptidoglycan synthesis during sporulation. MviN complemented the sporulation defect of a DeltaspoVB mutation, and SpoVB and another of the B. subtilis homologs, YtgP, complemented the growth defect of an E. coli strain depleted for MviN. Thus, these B. subtilis proteins are likely to be MviN homologs. However, B. subtilis strains lacking these four proteins have no defects in growth, indicating that they likely do not serve as lipid II flippases in this organism.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Computational Biology",
+            "Escherichia coli Proteins",
+            "Genetic Complementation Test",
+            "Membrane Proteins",
+            "Microscopy, Fluorescence",
+            "Molecular Sequence Data",
+            "Peptidoglycan",
+            "Sequence Homology, Amino Acid",
+            "Uridine Diphosphate N-Acetylmuramic Acid"
+        ],
+        "Authors": [
+            {
+                "First Name": "Allison",
+                "Last Name": "Fay",
+                "Affiliation": "Department of Microbiology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of bacteriology",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19578359",
+        "Title": "Partial penetrance facilitates developmental evolution in bacteria.",
+        "Abstract": "Development normally occurs similarly in all individuals within an isogenic population, but mutations often affect the fates of individual organisms differently. This phenomenon, known as partial penetrance, has been observed in diverse developmental systems. However, it remains unclear how the underlying genetic network specifies the set of possible alternative fates and how the relative frequencies of these fates evolve. Here we identify a stochastic cell fate determination process that operates in Bacillus subtilis sporulation mutants and show how it allows genetic control of the penetrance of multiple fates. Mutations in an intercompartmental signalling process generate a set of discrete alternative fates not observed in wild-type cells, including rare formation of two viable 'twin' spores, rather than one within a single cell. By genetically modulating chromosome replication and septation, we can systematically tune the penetrance of each mutant fate. Furthermore, signalling and replication perturbations synergize to significantly increase the penetrance of twin sporulation. These results suggest a potential pathway for developmental evolution between monosporulation and twin sporulation through states of intermediate twin penetrance. Furthermore, time-lapse microscopy of twin sporulation in wild-type Clostridium oceanicum shows a strong resemblance to twin sporulation in these B. subtilis mutants. Together the results suggest that noise can facilitate developmental evolution by enabling the initial expression of discrete morphological traits at low penetrance, and allowing their stabilization by gradual adjustment of genetic parameters.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Biological Evolution",
+            "DNA Replication",
+            "Gene Expression Regulation, Bacterial",
+            "Spores, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Avigdor",
+                "Last Name": "Eldar",
+                "Affiliation": "Howard Hughes Medical Institute and Division of Biology and Department of Applied Physics, California Institute of Technology, Pasadena, California 91125, USA."
+            },
+            {
+                "First Name": "Vasant K",
+                "Last Name": "Chary",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Panagiotis",
+                "Last Name": "Xenopoulos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michelle E",
+                "Last Name": "Fontes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Oliver C",
+                "Last Name": "Los\u00f3n",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Patrick J",
+                "Last Name": "Piggot",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael B",
+                "Last Name": "Elowitz",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19043544",
+        "Title": "PSICIC: noise and asymmetry in bacterial division revealed by computational image analysis at sub-pixel resolution.",
+        "Abstract": "Live-cell imaging by light microscopy has demonstrated that all cells are spatially and temporally organized. Quantitative, computational image analysis is an important part of cellular imaging, providing both enriched information about individual cell properties and the ability to analyze large datasets. However, such studies are often limited by the small size and variable shape of objects of interest. Here, we address two outstanding problems in bacterial cell division by developing a generally applicable, standardized, and modular software suite termed Projected System of Internal Coordinates from Interpolated Contours (PSICIC) that solves common problems in image quantitation. PSICIC implements interpolated-contour analysis for accurate and precise determination of cell borders and automatically generates internal coordinate systems that are superimposable regardless of cell geometry. We have used PSICIC to establish that the cell-fate determinant, SpoIIE, is asymmetrically localized during Bacillus subtilis sporulation, thereby demonstrating the ability of PSICIC to discern protein localization features at sub-pixel scales. We also used PSICIC to examine the accuracy of cell division in Esherichia coli and found a new role for the Min system in regulating division-site placement throughout the cell length, but only prior to the initiation of cell constriction. These results extend our understanding of the regulation of both asymmetry and accuracy in bacterial division while demonstrating the general applicability of PSICIC as a computational approach for quantitative, high-throughput analysis of cellular images.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Bacillus subtilis",
+            "Bacteria",
+            "Cell Division",
+            "Escherichia coli",
+            "Image Processing, Computer-Assisted",
+            "Microscopy",
+            "Molecular Sequence Data",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan M",
+                "Last Name": "Guberman",
+                "Affiliation": "Department of Molecular Biology, Princeton University, Princeton, New Jersey, United States of America."
+            },
+            {
+                "First Name": "Allison",
+                "Last Name": "Fay",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ned S",
+                "Last Name": "Wingreen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zemer",
+                "Last Name": "Gitai",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18984160",
+        "Title": "A eukaryotic-like Ser/Thr kinase signals bacteria to exit dormancy in response to peptidoglycan fragments.",
+        "Abstract": "Bacteria can respond to adverse environmental conditions by drastically reducing or even ceasing metabolic activity. They must then determine that conditions have improved before exiting dormancy, and one indication of such a change is the growth of other bacteria in the local environment. Growing bacteria release muropeptide fragments of the cell wall into the extracellular milieu, and we report here that these muropeptides are potent germinants of dormant Bacillus subtilis spores. The ability of a muropeptide to act as a germinant is determined by the identity of a single amino acid. A well-conserved, eukaryotic-like Ser/Thr membrane kinase containing an extracellular domain capable of binding peptidoglycan is necessary for this response, and a small molecule that stimulates related eukaryotic kinases is sufficient to induce germination. Another small molecule, staurosporine, that inhibits related eukaryotic kinases blocks muropeptide-dependent germination. Thus, in contrast to traditional antimicrobials that inhibit metabolically active cells, staurosporine acts by blocking germination of dormant spores.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acetylmuramyl-Alanyl-Isoglutamine",
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Cell Membrane",
+            "Oligopeptides",
+            "Peptidoglycan",
+            "Phosphorylation",
+            "Protein Serine-Threonine Kinases",
+            "Protein Structure, Tertiary",
+            "Spores, Bacterial",
+            "Staurosporine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ishita M",
+                "Last Name": "Shah",
+                "Affiliation": "Department of Microbiology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Maria-Halima",
+                "Last Name": "Laaberki",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David L",
+                "Last Name": "Popham",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18852622",
+        "Title": "The long-term psychosocial impact of a surprise chemical weapons attack on civilians in Halabja, Iraqi Kurdistan.",
+        "Abstract": "War and human rights abuses contribute to increased prevalence of posttraumatic stress (PTS) disorder and low social functioning among populations affected. There is relatively little evidence, however about the long-term mental health impact of war on general populations. We examined the prevalence of PTS symptoms and poor social functioning in Halabja, Iraqi Kurdistan, 18 years after a chemical attack on civilians in that town. We systematically sampled 291 persons representative of the population of Halabja from the city emergency department and 4 outpatient clinical sites. PTS symptoms and poor social functioning were common. After adjustment for covariates, female gender, older age, and cumulative exposure to multiple traumas, all were associated with higher PTS scores and worse social functioning. Exposure to human rights abuses and warlike conditions seem to continue to be risks for psychiatric and social dysfunction even decades after the initial incident.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Chemical Warfare",
+            "Female",
+            "Humans",
+            "Iraq",
+            "Iraq War, 2003-2011",
+            "Male",
+            "Middle Aged",
+            "Social Behavior",
+            "Stress Disorders, Post-Traumatic",
+            "Time"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Internal Medicine Residency Program, University of Hawaii, Honolulu, Hawaii, USA."
+            },
+            {
+                "First Name": "Marta",
+                "Last Name": "Prescott",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rawan",
+                "Last Name": "Jamal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Soran Ali",
+                "Last Name": "Hardawan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aras",
+                "Last Name": "Abdullah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sandro",
+                "Last Name": "Galea",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of nervous and mental disease",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18586932",
+        "Title": "Role of spore coat proteins in the resistance of Bacillus subtilis spores to Caenorhabditis elegans predation.",
+        "Abstract": "Bacterial spores are resistant to a wide range of chemical and physical insults that are normally lethal for the vegetative form of the bacterium. While the integrity of the protein coat of the spore is crucial for spore survival in vitro, far less is known about how the coat provides protection in vivo against predation by ecologically relevant hosts. In particular, assays had characterized the in vitro resistance of spores to peptidoglycan-hydrolyzing enzymes like lysozyme that are also important effectors of innate immunity in a wide variety of hosts. Here, we use the bacteriovorous nematode Caenorhabditis elegans, a likely predator of Bacillus spores in the wild, to characterize the role of the spore coat in an ecologically relevant spore-host interaction. We found that ingested wild-type Bacillus subtilis spores were resistant to worm digestion, whereas vegetative forms of the bacterium were efficiently digested by the nematode. Using B. subtilis strains carrying mutations in spore coat genes, we observed a correlation between the degree of alteration of the spore coat assembly and the susceptibility to the worm degradation. Surprisingly, we found that the spores that were resistant to lysozyme in vitro can be sensitive to C. elegans digestion depending on the extent of the spore coat structure modifications.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Caenorhabditis elegans",
+            "Digestion",
+            "Eating",
+            "Spores, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Maria-Halima",
+                "Last Name": "Laaberki",
+                "Affiliation": "Department of Microbiology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of bacteriology",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17981970",
+        "Title": "Determinants for the subcellular localization and function of a nonessential SEDS protein.",
+        "Abstract": "The Bacillus subtilis SpoVE integral membrane protein is essential for the heat resistance of spores, probably because of its involvement in spore peptidoglycan synthesis. We found that an SpoVE-yellow fluorescent protein (YFP) fusion protein becomes localized to the forespore during the earliest stages of engulfment, and this pattern is maintained throughout sporulation. SpoVE belongs to a well-conserved family of proteins that includes the FtsW and RodA proteins of B. subtilis. These proteins are involved in bacterial shape determination, although their function is not known. FtsW is necessary for the formation of the asymmetric septum in sporulation, and we found that an FtsW-YFP fusion localized to this structure prior to the initiation of engulfment in a nonoverlapping pattern with SpoVE-cyan fluorescent protein. Since FtsW and RodA are essential for normal growth, it has not been possible to identify loss-of-function mutations that would greatly facilitate analysis of their function. We took advantage of the fact that SpoVE is not required for growth to obtain point mutations in SpoVE that block the development of spore heat resistance but that allow normal protein expression and targeting to the forespore. These mutant proteins will be invaluable tools for future experiments aimed at elucidating the function of members of the SEDS (\"shape, elongation, division, and sporulation\") family of proteins.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Escherichia coli",
+            "Genotype",
+            "Membrane Proteins",
+            "Microscopy, Fluorescence",
+            "Mutation",
+            "Plasmids",
+            "Point Mutation",
+            "Porins",
+            "Recombinant Fusion Proteins",
+            "Spores, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gon\u00e7alo",
+                "Last Name": "Real",
+                "Affiliation": "Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica, Universidade Nova de Lisboa, Av. da Rep\u00fablica, Apartado 127, 2781-901 Oeiras, Portugal."
+            },
+            {
+                "First Name": "Allison",
+                "Last Name": "Fay",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Avigdor",
+                "Last Name": "Eldar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "S\u00e9rgio M",
+                "Last Name": "Pinto",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adriano O",
+                "Last Name": "Henriques",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of bacteriology",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17379809",
+        "Title": "Tunability and noise dependence in differentiation dynamics.",
+        "Abstract": "The dynamic process of differentiation depends on the architecture, quantitative parameters, and noise of underlying genetic circuits. However, it remains unclear how these elements combine to control cellular behavior. We analyzed the probabilistic and transient differentiation of Bacillus subtilis cells into the state of competence. A few key parameters independently tuned the frequency of initiation and the duration of competence episodes and allowed the circuit to access different dynamic regimes, including oscillation. Altering circuit architecture showed that the duration of competence events can be made more precise. We used an experimental method to reduce global cellular noise and showed that noise levels are correlated with frequency of differentiation events. Together, the data reveal a noise-dependent circuit that is remarkably resilient and tunable in terms of its dynamic behavior.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Gene Expression",
+            "Genes, Bacterial",
+            "Isopropyl Thiogalactoside",
+            "Luminescent Proteins",
+            "Mathematics",
+            "Models, Genetic",
+            "Models, Statistical",
+            "Mutation",
+            "Probability",
+            "Promoter Regions, Genetic",
+            "Transcription Factors",
+            "Transformation, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "G\u00fcrol M",
+                "Last Name": "S\u00fcel",
+                "Affiliation": "Green Center Division for Systems Biology and Department of Pharmacology, University of Texas Southwestern Medical Center, Dallas, TX 75390, USA."
+            },
+            {
+                "First Name": "Rajan P",
+                "Last Name": "Kulkarni",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jordi",
+                "Last Name": "Garcia-Ojalvo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael B",
+                "Last Name": "Elowitz",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17349779",
+        "Title": "Applications of fluorescence microscopy to single bacterial cells.",
+        "Abstract": "Fluorescence-imaging techniques are now being applied to single bacterial cells for the determination of in vivo kinase and transcription activity, protein-protein interactions, protein localization and protein mobility. Time-lapse imaging is being used at a population level to study heterogeneities, colony morphologies and the genetic networks underlying these phenomena. We will discuss here the possibilities, advantages and limitations of such techniques, focusing on the use of green fluorescent protein and its spectral variants.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacteria",
+            "Bacterial Proteins",
+            "Fluorescence Resonance Energy Transfer",
+            "Luminescent Proteins",
+            "Microscopy, Fluorescence",
+            "Recombinant Fusion Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pablo",
+                "Last Name": "Meyer",
+                "Affiliation": "Department of Microbiology, College of Physicians and Surgeons, Columbia University, 701 West 168th Street, Room 1218, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Research in microbiology",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "15882622",
+        "Title": "Developmental commitment in a bacterium.",
+        "Abstract": "We investigated developmental commitment during sporulation in Bacillus subtilis. Sporulation is initiated by nutrient limitation and involves division of the developing cell into two progeny, the forespore and the mother cell, with different fates. Differentiation becomes irreversible following division when neither the forespore nor the mother cell can resume growth when provided with nutrients. We show that commitment is governed by the transcription factors sigma(F) and sigma(E), which are activated in the forespore and the mother cell, respectively. We further show that commitment involves spoIIQ, which is under the control of sigma(F), and spoIIP, which is under the control of both sigma(F) and sigma(E). In the presence of nutrients, the forespore can exhibit rodlike, longitudinal growth when SpoIIQ and SpoIIP are absent, whereas the mother cell can do so when SpoIIP alone is absent. Thus, developmental commitment of this single-celled organism, like that of the cells of complex, multicellular organisms, ensures that differentiation is maintained despite changes in the extracellular milieu.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus anthracis",
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Cell Division",
+            "Gene Expression",
+            "Green Fluorescent Proteins",
+            "Mutation",
+            "Sigma Factor",
+            "Spores, Bacterial",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA. dworkin@microbiology.columbia.edu"
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Losick",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "12547520",
+        "Title": "Transient genetic asymmetry and cell fate in a bacterium.",
+        "Abstract": "Certain species of Gram-positive bacteria can initiate a developmental program that results in the formation of two daughter cells with different fates. One cell develops into a spore and the other cell undergoes programmed lysis, with each process being mediated by a cascade of cell-type-specific transcription factors. An early and critical step in this developmental pathway is the formation of a division septum near one pole, creating two compartments of different sizes. But how is this morphological asymmetry translated into the transcriptional asymmetry of the two compartments? Recent results suggest that the chromosomal position of the genes encoding several key components of the transcriptional regulatory network has an important role in this process.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Cell Compartmentation",
+            "Cell Polarity",
+            "Chromosomes, Bacterial",
+            "Gene Expression Regulation, Bacterial",
+            "Genes, Bacterial",
+            "Kinetics",
+            "Sigma Factor",
+            "Spores, Bacterial",
+            "Transcription Factors",
+            "Transcriptional Activation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Molecular and Cellular Biology, The Biological Laboratories, 16 Divinity Avenue, Harvard University, Cambridge, MA 02138, USA. dworkin@mcb.harvard.edu"
+            }
+        ],
+        "Journal": "Trends in genetics : TIG",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12384568",
+        "Title": "Does RNA polymerase help drive chromosome segregation in bacteria?",
+        "Abstract": "In contrast to eukaryotic cells, bacteria segregate their chromosomes without a conspicuous mitotic apparatus. Replication of bacterial chromosomes initiates bidirectionally from a single site (oriC), and visualization of the region of the chromosome containing oriC in living cells reveals that origins rapidly move apart toward opposite poles of the cell during the cell cycle. The motor that drives this poleward movement is unknown. An attractive candidate is RNA polymerase, which is a powerful and abundant molecular motor. If, as has been suggested for other macromolecular complexes, the movement of RNA polymerase is restricted in the cell, then transcription would translocate the DNA template, thereby providing the motive force to separate replicating chromosomes. A coordinated effect of many transcribing RNA polymerases could result from the widely conserved global bias of gene orientation away from oriC. By using fluorescence microscopy of living Bacillus subtilis cells, we demonstrate that an inhibitor of RNA polymerase acts to inhibit separation of newly duplicated DNAs near the origin of replication. We propose that the force exerted by RNA polymerase contributes to chromosome movement in bacteria, and that this force, coupled with the biased orientation of transcription units, helps to drive chromosome segregation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aminoglycosides",
+            "Anti-Bacterial Agents",
+            "Bacillus subtilis",
+            "Chromosome Segregation",
+            "Chromosomes, Bacterial",
+            "DNA Replication",
+            "DNA-Directed RNA Polymerases",
+            "RNA, Bacterial",
+            "Replication Origin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dworkin",
+                "Affiliation": "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Losick",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2002"
+    }
+]
