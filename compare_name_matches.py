@@ -48,21 +48,22 @@ def find_matches(file_names, comparison_names):
     return matches
 
 # Traverse the folder and compare names
-file_names = set()
-for filename in os.listdir(folder_path):
-    if filename.endswith('.json'):
-        name = extract_name_from_filename(filename)
-        file_names.add(name)
+def main():
+    file_names = set()
+    for filename in os.listdir(folder_path):
+        if filename.endswith('.json'):
+            name = extract_name_from_filename(filename)
+            file_names.add(name)
 
-matches = find_matches(file_names, comparison_names)
+    matches = find_matches(file_names, comparison_names)
 
-# Print out the matches
-for match in matches:
-    print(f"Match found: {match}")
+    # Print out the matches
+    for match in matches:
+        print(f"Match found: {match}")
 
-# Save matches to a new JSON file
-output_path = 'matches.json'
-with open(output_path, 'w', encoding='utf-8') as output_file:
-    json.dump(list(matches), output_file, indent=4)
+    # Save matches to a new JSON file
+    output_path = 'matches.json'
+    with open(output_path, 'w', encoding='utf-8') as output_file:
+        json.dump(list(matches), output_file, indent=4)
 
-print(f"Matches saved to {output_path}")
+    print(f"Matches saved to {output_path}")

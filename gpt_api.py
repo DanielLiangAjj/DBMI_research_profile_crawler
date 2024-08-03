@@ -6,7 +6,7 @@ from compare_name_matches import *
 
 from openai import OpenAI
 import json
-api_key = ''
+api_key = 'sk-proj-kEQgFwG1Hxo6y206H3T1T3BlbkFJ21Yw7b5uNwVNm2Adb9OG'
 client = OpenAI(api_key=api_key)
 
 def get_chatgpt_response(research_articles):
@@ -96,6 +96,7 @@ def prompt_research_interest_based_on_MeSH():
             continue
         json_file_path = os.path.join(folder_path,filename)
         keywords, mesh_terms = parse_MeSh_keyword(json_file_path)
+
         response = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
@@ -103,7 +104,9 @@ def prompt_research_interest_based_on_MeSH():
                "content": "You are a helpful Researcher profile summarizing assistant."},
               {"role": "user", "content": f"Based on the Keywords and MeSH Terms extracted from mulitple research papers from the researcher, summarize them and generate me 10 research interests that conclude the researcher's research. Return the result as a python list."
                                           f"Keywords: {keywords}"
-                                          f"MeSH Terms: {mesh_terms}"}
+                                          f"MeSH Terms: {mesh_terms}"},
+
+
             ]
         )
         content = response.choices[0].message.content
@@ -118,7 +121,51 @@ def prompt_research_interest_based_on_MeSH():
 
         print(f"Research interests saved to {txt_file_path}")
 
+def prompt_research_overview_based_on_MeSH():
+    folder_path = 'researchers_files(Yilu_format)'
+    # folder_path = 'output'
+    research_txt = []
+    for filename in os.listdir("Research Overview"):
+        if filename.endswith('.txt'):
+            name, _ = os.path.splitext(filename)
 
+            research_txt.append(name)
+
+    for filename in os.listdir(folder_path):
+        print(f"Reading {filename}")
+        if filename.endswith('.json'):
+            name, _ = os.path.splitext(filename)
+            # name = compare_name_matches.extract_name_from_filename(filename)
+            if name in research_txt:
+                continue
+        else:
+            continue
+        json_file_path = os.path.join(folder_path,filename)
+        keywords, mesh_terms = parse_MeSh_keyword(json_file_path)
+
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+              {"role": "system",
+               "content": "You are a helpful Researcher profile summarizing assistant."},
+              {"role": "user", "content": f"Based on the Keywords and MeSH Terms extracted from mulitple research papers from the researcher, summarize them and generate me a paragraph that conclude the researcher's research."
+                                          f"Name: {name}"
+                                          f"Keywords: {keywords}"
+                                          f"MeSH Terms: {mesh_terms}"}
+
+
+            ]
+        )
+        content = response.choices[0].message.content
+        print(content)
+
+        txt_file_path = os.path.join("Research Overview", f"{name}.txt")
+        with open(txt_file_path, 'w', encoding='utf-8') as txt_file:
+            txt_file.write(f"Researcher: {name}\n")
+            txt_file.write("Research Overview:\n")
+            txt_file.write(content)
+
+        print(f"Research interests saved to {txt_file_path}")
 
 if __name__ == "__main__":
-    prompt_research_interest_based_on_MeSH()
+    prompt_research_overview_based_on_MeSH()
