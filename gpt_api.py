@@ -6,7 +6,7 @@ from compare_name_matches import *
 
 from openai import OpenAI
 import json
-api_key = 'sk-proj-kEQgFwG1Hxo6y206H3T1T3BlbkFJ21Yw7b5uNwVNm2Adb9OG'
+api_key = ''
 client = OpenAI(api_key=api_key)
 
 def get_chatgpt_response(research_articles):
