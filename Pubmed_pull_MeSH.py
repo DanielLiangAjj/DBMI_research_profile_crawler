@@ -7,7 +7,7 @@ from xml.etree import ElementTree as ET
 # Define the PubMed API endpoints
 PUBMED_SEARCH_API_ENDPOINT = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 PUBMED_FETCH_API_ENDPOINT = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
-PUBMED_API_KEY = ""  # Replace with your actual PubMed API key
+PUBMED_API_KEY = ""  
 
 
 def search_pubmed_by_author(author_name):
