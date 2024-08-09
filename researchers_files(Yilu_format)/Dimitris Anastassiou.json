@@ -1,0 +1,3328 @@
+[
+    {
+        "PMID": "38862616",
+        "Title": "Crowd-sourced benchmarking of single-sample tumor subclonal reconstruction.",
+        "Abstract": "Subclonal reconstruction algorithms use bulk DNA sequencing data to quantify parameters of tumor evolution, allowing an assessment of how cancers initiate, progress and respond to selective pressures. We launched the ICGC-TCGA (International Cancer Genome Consortium-The Cancer Genome Atlas) DREAM Somatic Mutation Calling Tumor Heterogeneity and Evolution Challenge to benchmark existing subclonal reconstruction algorithms. This 7-year community effort used cloud computing to benchmark 31 subclonal reconstruction algorithms on 51 simulated tumors. Algorithms were scored on seven independent tasks, leading to 12,061 total runs. Algorithm choice influenced performance substantially more than tumor features but purity-adjusted read depth, copy-number state and read mappability were associated with the performance of most algorithms on most tasks. No single algorithm was a top performer for all seven tasks and existing ensemble strategies were unable to outperform the best individual methods, highlighting a key research need. All containerized methods, evaluation code and datasets are available to support further assessment of the determinants of subclonal reconstruction accuracy and development of improved methods to understand tumor evolution.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Adriana",
+                "Last Name": "Salcedo",
+                "Affiliation": "Department of Human Genetics, University of California, Los Angeles, CA, USA. ASalcedo@mednet.ucla.edu."
+            },
+            {
+                "First Name": "Maxime",
+                "Last Name": "Tarabichi",
+                "Affiliation": "The Francis Crick Institute, London, UK. maxime.tarabichi@ulb.be."
+            },
+            {
+                "First Name": "Alex",
+                "Last Name": "Buchanan",
+                "Affiliation": "Oregon Health and Sciences University, Portland, OR, USA."
+            },
+            {
+                "First Name": "Shadrielle M G",
+                "Last Name": "Espiritu",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Hongjiu",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI, USA."
+            },
+            {
+                "First Name": "Kaiyi",
+                "Last Name": "Zhu",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Tai-Hsien",
+                "Last Name": "Ou Yang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Ignaty",
+                "Last Name": "Leshchiner",
+                "Affiliation": "Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Yuanfang",
+                "Last Name": "Guan",
+                "Affiliation": "Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI, USA."
+            },
+            {
+                "First Name": "Gun Ho",
+                "Last Name": "Jang",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Mohammed F E",
+                "Last Name": "Mootor",
+                "Affiliation": "Department of Human Genetics, University of California, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Kerstin",
+                "Last Name": "Haase",
+                "Affiliation": "The Francis Crick Institute, London, UK."
+            },
+            {
+                "First Name": "Amit G",
+                "Last Name": "Deshwar",
+                "Affiliation": "Department of Computer Science, University of Toronto, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "William",
+                "Last Name": "Zou",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Imaad",
+                "Last Name": "Umar",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Stefan",
+                "Last Name": "Dentro",
+                "Affiliation": "The Francis Crick Institute, London, UK."
+            },
+            {
+                "First Name": "Jeff A",
+                "Last Name": "Wintersinger",
+                "Affiliation": "Department of Computer Science, University of Toronto, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Kami",
+                "Last Name": "Chiotti",
+                "Affiliation": "Oregon Health and Sciences University, Portland, OR, USA."
+            },
+            {
+                "First Name": "Jonas",
+                "Last Name": "Demeulemeester",
+                "Affiliation": "The Francis Crick Institute, London, UK."
+            },
+            {
+                "First Name": "Clemency",
+                "Last Name": "Jolly",
+                "Affiliation": "The Francis Crick Institute, London, UK."
+            },
+            {
+                "First Name": "Lesia",
+                "Last Name": "Sycza",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Minjeong",
+                "Last Name": "Ko",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David C",
+                "Last Name": "Wedge",
+                "Affiliation": "Big Data Institute, University of Oxford, Oxford, UK."
+            },
+            {
+                "First Name": "Quaid D",
+                "Last Name": "Morris",
+                "Affiliation": "Department of Computer Science, University of Toronto, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Kyle",
+                "Last Name": "Ellrott",
+                "Affiliation": "Oregon Health and Sciences University, Portland, OR, USA. ellrott@ohsu.edu."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Van Loo",
+                "Affiliation": "The Francis Crick Institute, London, UK. pvanloo@mdanderson.org."
+            },
+            {
+                "First Name": "Paul C",
+                "Last Name": "Boutros",
+                "Affiliation": "Department of Human Genetics, University of California, Los Angeles, CA, USA. pboutros@mednet.ucla.edu."
+            }
+        ],
+        "Journal": "Nature biotechnology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38662553",
+        "Title": "CASCC: a co-expression-assisted single-cell RNA-seq data clustering method.",
+        "Abstract": "Existing clustering methods for characterizing cell populations from single-cell RNA sequencing are constrained by several limitations stemming from the fact that clusters often cannot be homogeneous, particularly for transitioning populations. On the other hand, dominant cell populations within samples can be identified independently by their strong gene co-expression signatures using methods unrelated to partitioning. Here, we introduce a clustering method, CASCC (co-expression-assisted single-cell clustering), designed to improve biological accuracy using gene co-expression features identified using an unsupervised adaptive attractor algorithm. CASCC outperformed other methods as evidenced by multiple evaluation metrics, and our results suggest that CASCC can improve the analysis of single-cell transcriptomics, enabling potential new discoveries related to underlying biological mechanisms.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Single-Cell Analysis",
+            "Algorithms",
+            "Cluster Analysis",
+            "Software",
+            "RNA-Seq",
+            "Humans",
+            "Gene Expression Profiling",
+            "Sequence Analysis, RNA",
+            "Single-Cell Gene Expression Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lingyi",
+                "Last Name": "Cai",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, United States."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, United States."
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38466528",
+        "Title": "The fibro-adipogenic progenitor APOD+DCN+LUM+ cell population in aggressive carcinomas.",
+        "Abstract": "We identified a progenitor cell population highly enriched in samples from invasive and chemo-resistant carcinomas, characterized by a well-defined multigene signature including APOD, DCN, and LUM. This cell population has previously been labeled as consisting of inflammatory cancer-associated fibroblasts (iCAFs). The same signature characterizes naturally occurring fibro-adipogenic progenitors (FAPs) as well as stromal cells abundant in normal adipose tissue. Our analysis of human gene expression databases provides evidence that adipose stromal cells (ASCs) are recruited by tumors and undergo differentiation into CAFs during cancer progression to invasive and chemotherapy-resistant stages.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Animals",
+            "Adipogenesis",
+            "Carcinoma",
+            "Stem Cells",
+            "Cancer-Associated Fibroblasts",
+            "Adipose Tissue",
+            "Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lingyi",
+                "Last Name": "Cai",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Mikhail G",
+                "Last Name": "Kolonin",
+                "Affiliation": "The Brown Foundation Institute of Molecular Medicine for the Prevention of Human Diseases, The University of Texas Health Sciences Center at Houston, Houston, TX, USA. Mikhail.G.Kolonin@uth.tmc.edu."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA. d.anastassiou@columbia.edu."
+            }
+        ],
+        "Journal": "Cancer metastasis reviews",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38437636",
+        "Title": "Adipose Stromal Cell-Derived Cancer-Associated Fibroblasts Suppress FGFR Inhibitor Efficacy.",
+        "Abstract": "Cancer aggressiveness has been linked with obesity, and studies have shown that adipose tissue can enhance cancer progression. In this issue of Cancer Research, Hosni and colleagues discover a paracrine mechanism mediated by adipocyte precursor cells through which urothelial carcinomas become resistant to erdafitinib, a recently approved therapy inhibiting fibroblast growth factor receptors (FGFR). They identified neuregulin 1 (NRG1) secreted by adipocyte precursor cells as an activator of HER3 signaling that enables resistance. The NRG1-mediated FGFR inhibitor resistance was amenable to intervention with pertuzumab, an antibody blocking the NRG1/HER3 axis. To investigate the nature of the resistance-associated NRG1-expressing cells in human patients, the authors analyzed published single-cell RNA sequencing data and observed that such cells appear in a cluster assigned as inflammatory cancer-associated fibroblasts (iCAF). Notably, the gene signature corresponding to these CAFs is highly similar to that shared by adipose stromal cells (ASC) in fat tissue and fibro-adipogenic progenitors (FAP) in skeletal muscle of cancer-free individuals. Because fibroblasts with the ASC/FAP signature are enriched in various carcinomas, it is possible that the paracrine signaling conferred by NRG1 is a pan-cancer mechanism of FGFR inhibitor resistance and tumor aggressiveness. See related article by Hosni et al., p. 725.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Cancer-Associated Fibroblasts",
+            "Adipocytes",
+            "Adipose Tissue",
+            "Carcinoma, Transitional Cell",
+            "Stromal Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mikhail G",
+                "Last Name": "Kolonin",
+                "Affiliation": "The Brown Foundation Institute of Molecular Medicine, University of Texas Health Science Center, Houston, Texas."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Systems Biology, Department of Electrical Engineering and Center for Cancer Systems Therapeutics, Columbia University, New York, New York."
+            }
+        ],
+        "Journal": "Cancer research",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "34283835",
+        "Title": "Single-cell analysis reveals the pan-cancer invasiveness-associated transition of adipose-derived stromal cells into COL11A1-expressing cancer-associated fibroblasts.",
+        "Abstract": "During the last ten years, many research results have been referring to a particular type of cancer-associated fibroblasts associated with poor prognosis, invasiveness, metastasis and resistance to therapy in multiple cancer types, characterized by a gene expression signature with prominent presence of genes COL11A1, THBS2 and INHBA. Identifying the underlying biological mechanisms responsible for their creation may facilitate the discovery of targets for potential pan-cancer therapeutics. Using a novel computational approach for single-cell gene expression data analysis identifying the dominant cell populations in a sequence of samples from patients at various stages, we conclude that these fibroblasts are produced by a pan-cancer cellular transition originating from a particular type of adipose-derived stromal cells naturally present in the stromal vascular fraction of normal adipose tissue, having a characteristic gene expression signature. Focusing on a rich pancreatic cancer dataset, we provide a detailed description of the continuous modification of the gene expression profiles of cells as they transition from APOD-expressing adipose-derived stromal cells to COL11A1-expressing cancer-associated fibroblasts, identifying the key genes that participate in this transition. These results also provide an explanation to the well-known fact that the adipose microenvironment contributes to cancer progression.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adipose Tissue",
+            "Biomarkers, Tumor",
+            "Breast Neoplasms",
+            "Cancer-Associated Fibroblasts",
+            "Carcinoma, Pancreatic Ductal",
+            "Collagen Type XI",
+            "Computational Biology",
+            "Databases, Factual",
+            "Databases, Genetic",
+            "Disease Progression",
+            "Female",
+            "Gene Expression Regulation, Neoplastic",
+            "Head and Neck Neoplasms",
+            "Humans",
+            "Lung Neoplasms",
+            "Mesenchymal Stem Cells",
+            "Neoplasm Invasiveness",
+            "Ovarian Neoplasms",
+            "Pancreatic Neoplasms",
+            "Single-Cell Analysis",
+            "Stromal Cells",
+            "Transcriptome",
+            "Tumor Microenvironment"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kaiyi",
+                "Last Name": "Zhu",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Lingyi",
+                "Last Name": "Cai",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Chenqian",
+                "Last Name": "Cui",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Juan R",
+                "Last Name": "de Los Toyos",
+                "Affiliation": "Immunology Department, School of Medicine and Health Sciences, University of Oviedo, Oviedo, Spain."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33057153",
+        "Title": "Pan-cancer driver copy number alterations identified by joint expression/CNA data analysis.",
+        "Abstract": "Analysis of large gene expression datasets from biopsies of cancer patients can identify co-expression signatures representing particular biomolecular events in cancer. Some of these signatures involve genomically co-localized genes resulting from the presence of copy number alterations (CNAs), for which analysis of the expression of the underlying genes provides valuable information about their combined role as oncogenes or tumor suppressor genes. Here we focus on the discovery and interpretation of such signatures that are present in multiple cancer types due to driver amplifications and deletions in particular regions of the genome after doing a comprehensive analysis combining both gene expression and CNA data from The Cancer Genome Atlas.",
+        "Keywords": [],
+        "MeSH terms": [
+            "DNA Copy Number Variations",
+            "Data Analysis",
+            "Gene Dosage",
+            "Gene Expression",
+            "Genomics",
+            "Humans",
+            "Neoplasms",
+            "Oncogenes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gaojianyong",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, NY, 10027, USA. d.anastassiou@columbia.edu."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32108864",
+        "Title": "2DImpute: imputation in single-cell RNA-seq data from correlations in two dimensions.",
+        "Abstract": "We developed 2DImpute, an imputation method for correcting false zeros (known as dropouts) in single-cell RNA-sequencing (scRNA-seq) data. It features preventing excessive correction by predicting the false zeros and imputing their values by making use of the interrelationships between both genes and cells in the expression matrix. We showed that 2DImpute outperforms several leading imputation methods by applying it on datasets from various scRNA-seq protocols.",
+        "Keywords": [],
+        "MeSH terms": [
+            "RNA-Seq",
+            "Sequence Analysis, RNA",
+            "Single-Cell Analysis",
+            "Software",
+            "Exome Sequencing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kaiyi",
+                "Last Name": "Zhu",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32070995",
+        "Title": "Characterizing Intra-Tumor Heterogeneity From Somatic Mutations Without Copy-Neutral Assumption.",
+        "Abstract": "Bulk samples of the same patient are heterogeneous in nature, comprising of different subpopulations (subclones) of cancer cells. Cells in a tumor subclone are characterized by unique mutational genotype profile. Resolving tumor heterogeneity by estimating the genotypes, cellular proportions and the number of subclones present in the tumor can help in understanding cancer progression and treatment. We present a novel method, ChaClone2, to efficiently deconvolve the observed variant allele fractions (VAFs), with consideration for possible effects from copy number aberrations at the mutation loci. Our method describes a state-space formulation of the feature allocation model, deconvolving the observed VAFs from samples of the same patient into three matrices: subclonal total and variant copy numbers for mutated genes, and proportions of subclones in each sample. We describe an efficient sequential Monte Carlo (SMC) algorithm to estimate these matrices. Extensive simulation shows that the ChaClone2 yields better accuracy when compared with other state-of-the-art methods for addressing similar problem and it offers scalability to large datasets. Also, ChaClone2 features that the model parameter estimates can be refined whenever new mutation data of freshly sequenced genomic locations are available. MATLAB code and datasets are available to download at: https://github.com/moyanre/method2.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Bayes Theorem",
+            "Computational Biology",
+            "DNA Copy Number Variations",
+            "Genetic Heterogeneity",
+            "Humans",
+            "Monte Carlo Method",
+            "Mutation",
+            "Neoplasms",
+            "Stochastic Processes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Oyetunji E",
+                "Last Name": "Ogundijo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kaiyi",
+                "Last Name": "Zhu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiaodong",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "IEEE/ACM transactions on computational biology and bioinformatics",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "31919445",
+        "Title": "A community effort to create standards for evaluating tumor subclonal reconstruction.",
+        "Abstract": "Tumor DNA sequencing data can be interpreted by computational methods that analyze genomic heterogeneity to infer evolutionary dynamics. A growing number of studies have used these approaches to link cancer evolution with clinical progression and response to therapy. Although the inference of tumor phylogenies is rapidly becoming standard practice in cancer genome analyses, standards for evaluating them are lacking. To address this need, we systematically assess methods for reconstructing tumor subclonality. First, we elucidate the main algorithmic problems in subclonal reconstruction and develop quantitative metrics for evaluating them. Then we simulate realistic tumor genomes that harbor all known clonal and subclonal mutation types and processes. Finally, we benchmark 580 tumor reconstructions, varying tumor read depth, tumor type and somatic variant detection. Our analysis provides a baseline for the establishment of gold-standard methods to analyze tumor heterogeneity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Clone Cells",
+            "Computer Simulation",
+            "DNA Copy Number Variations",
+            "Gene Dosage",
+            "Genome",
+            "Humans",
+            "Mutation",
+            "Neoplasms",
+            "Polymorphism, Single Nucleotide",
+            "Reference Standards"
+        ],
+        "Authors": [
+            {
+                "First Name": "Adriana",
+                "Last Name": "Salcedo",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "Maxime",
+                "Last Name": "Tarabichi",
+                "Affiliation": "The Francis Crick Institute, London, UK."
+            },
+            {
+                "First Name": "Shadrielle Melijah G",
+                "Last Name": "Espiritu",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "Amit G",
+                "Last Name": "Deshwar",
+                "Affiliation": "The Edward S. Rogers Senior Department of Electrical & Computer Engineering, Toronto, Canada."
+            },
+            {
+                "First Name": "Matei",
+                "Last Name": "David",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "Nathan M",
+                "Last Name": "Wilson",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "Stefan",
+                "Last Name": "Dentro",
+                "Affiliation": "The Francis Crick Institute, London, UK."
+            },
+            {
+                "First Name": "Jeff A",
+                "Last Name": "Wintersinger",
+                "Affiliation": "Donnelly Centre, University of Toronto, Toronto, Canada."
+            },
+            {
+                "First Name": "Lydia Y",
+                "Last Name": "Liu",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "Minjeong",
+                "Last Name": "Ko",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "Srinivasan",
+                "Last Name": "Sivanandan",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "Hongjiu",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI, USA."
+            },
+            {
+                "First Name": "Kaiyi",
+                "Last Name": "Zhu",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Tai-Hsien",
+                "Last Name": "Ou Yang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "John M",
+                "Last Name": "Chilton",
+                "Affiliation": "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, PA, USA."
+            },
+            {
+                "First Name": "Alex",
+                "Last Name": "Buchanan",
+                "Affiliation": "Oregon Health & Sciences University, Portland, OR, USA."
+            },
+            {
+                "First Name": "Christopher M",
+                "Last Name": "Lalansingh",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "Christine",
+                "Last Name": "P'ng",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "Catalina V",
+                "Last Name": "Anghel",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "Imaad",
+                "Last Name": "Umar",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "Bryan",
+                "Last Name": "Lo",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "William",
+                "Last Name": "Zou",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jared T",
+                "Last Name": "Simpson",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "Joshua M",
+                "Last Name": "Stuart",
+                "Affiliation": "Department of Biomolecular Engineering, Center for Biomolecular Sciences and Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Yuanfang",
+                "Last Name": "Guan",
+                "Affiliation": "Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI, USA."
+            },
+            {
+                "First Name": "Adam D",
+                "Last Name": "Ewing",
+                "Affiliation": "Mater Research Institute, University of Queensland, Woolloongabba, Queensland, Australia."
+            },
+            {
+                "First Name": "Kyle",
+                "Last Name": "Ellrott",
+                "Affiliation": "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, PA, USA."
+            },
+            {
+                "First Name": "David C",
+                "Last Name": "Wedge",
+                "Affiliation": "Big Data Institute, University of Oxford, Oxford, UK."
+            },
+            {
+                "First Name": "Quaid",
+                "Last Name": "Morris",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Canada."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Van Loo",
+                "Affiliation": "The Francis Crick Institute, London, UK."
+            },
+            {
+                "First Name": "Paul C",
+                "Last Name": "Boutros",
+                "Affiliation": "Department of Medical Biophysics, University of Toronto, Toronto, Canada. pboutros@mednet.ucla.edu."
+            }
+        ],
+        "Journal": "Nature biotechnology",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31433971",
+        "Title": "The Immune Landscape of Cancer.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "V\u00e9steinn",
+                "Last Name": "Thorsson",
+                "Affiliation": "Institute for Systems Biology, 401 Terry Ave N, Seattle, WA 98109, USA. Electronic address: vesteinn.thorsson@systemsbiology.org."
+            },
+            {
+                "First Name": "David L",
+                "Last Name": "Gibbs",
+                "Affiliation": "Institute for Systems Biology, 401 Terry Ave N, Seattle, WA 98109, USA."
+            },
+            {
+                "First Name": "Scott D",
+                "Last Name": "Brown",
+                "Affiliation": "Canada's Michael Smith Genome Sciences Centre, BC Cancer Agency, Vancouver, BC V5Z 4S6, Canada."
+            },
+            {
+                "First Name": "Denise",
+                "Last Name": "Wolf",
+                "Affiliation": "University of California, San Francisco, Box 0808, 2340 Sutter Street, S433, San Francisco, CA 94115, USA."
+            },
+            {
+                "First Name": "Dante S",
+                "Last Name": "Bortone",
+                "Affiliation": "Lineberger Comprehensive Cancer Center, Curriculum in Bioinformatics and Computational Biology, University of North Carolina, 125 Mason Farm Road, Chapel Hill, NC 27599-7295, USA."
+            },
+            {
+                "First Name": "Tai-Hsien",
+                "Last Name": "Ou Yang",
+                "Affiliation": "Department of Systems Biology and Department of Electrical Engineering, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Eduard",
+                "Last Name": "Porta-Pardo",
+                "Affiliation": "Barcelona Supercomputing Centre, c/Jordi Girona, 29, 08034 Barcelona, Spain; SBP Medical Discovery Institute, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Galen F",
+                "Last Name": "Gao",
+                "Affiliation": "The Eli and Edythe L. Broad Institute of Massachusetts Institute of Technology and Harvard University, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Christopher L",
+                "Last Name": "Plaisier",
+                "Affiliation": "Institute for Systems Biology, 401 Terry Ave N, Seattle, WA 98109, USA; School of Biological and Health Systems Engineering, Arizona State University, Tempe, AZ 85281, USA."
+            },
+            {
+                "First Name": "James A",
+                "Last Name": "Eddy",
+                "Affiliation": "Sage Bionetworks, 2901 Third Ave, Suite 330, Seattle, WA 98121, USA."
+            },
+            {
+                "First Name": "Elad",
+                "Last Name": "Ziv",
+                "Affiliation": "Department of Medicine, Institute for Human Genetics, Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, 1450 3rd St, San Francisco, CA 94143, USA."
+            },
+            {
+                "First Name": "Aedin C",
+                "Last Name": "Culhane",
+                "Affiliation": "Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute, Boston, MA 02215, USA."
+            },
+            {
+                "First Name": "Evan O",
+                "Last Name": "Paull",
+                "Affiliation": "Irving Cancer Research Center, Room 913,1130 St. Nicholas Avenue, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "I K Ashok",
+                "Last Name": "Sivakumar",
+                "Affiliation": "Department of Computer Science, Institute for Computational Medicine; Johns Hopkins University, Baltimore, MD 21218, USA."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Gentles",
+                "Affiliation": "Departments of Medicine and Biomedical Data Science, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Raunaq",
+                "Last Name": "Malhotra",
+                "Affiliation": "Seven Bridges Genomics, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Farshad",
+                "Last Name": "Farshidfar",
+                "Affiliation": "Department of Oncology, University of Calgary, Calgary, AB T2N 4N1, Canada."
+            },
+            {
+                "First Name": "Antonio",
+                "Last Name": "Colaprico",
+                "Affiliation": "Universite libre de Bruxelles (ULB), Computer Science Department, Faculty of Sciences, Boulevard du Triomphe - CP212, 1050 Bruxelles, Belgium."
+            },
+            {
+                "First Name": "Joel S",
+                "Last Name": "Parker",
+                "Affiliation": "Lineberger Comprehensive Cancer Center, Curriculum in Bioinformatics and Computational Biology, University of North Carolina, 125 Mason Farm Road, Chapel Hill, NC 27599-7295, USA."
+            },
+            {
+                "First Name": "Lisle E",
+                "Last Name": "Mose",
+                "Affiliation": "Lineberger Comprehensive Cancer Center, Curriculum in Bioinformatics and Computational Biology, University of North Carolina, 125 Mason Farm Road, Chapel Hill, NC 27599-7295, USA."
+            },
+            {
+                "First Name": "Nam Sy",
+                "Last Name": "Vo",
+                "Affiliation": "Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Jianfang",
+                "Last Name": "Liu",
+                "Affiliation": "Chan Soon-Shiong Institute of Molecular Medicine at Windber, Windber, PA 15963, USA."
+            },
+            {
+                "First Name": "Yuexin",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Janet",
+                "Last Name": "Rader",
+                "Affiliation": "Medical College of Wisconsin, 9200 Wisconsin Avenue, Milwaukee, WI 53226 USA."
+            },
+            {
+                "First Name": "Varsha",
+                "Last Name": "Dhankani",
+                "Affiliation": "Institute for Systems Biology, 401 Terry Ave N, Seattle, WA 98109, USA."
+            },
+            {
+                "First Name": "Sheila M",
+                "Last Name": "Reynolds",
+                "Affiliation": "Institute for Systems Biology, 401 Terry Ave N, Seattle, WA 98109, USA."
+            },
+            {
+                "First Name": "Reanne",
+                "Last Name": "Bowlby",
+                "Affiliation": "Canada's Michael Smith Genome Sciences Centre, BC Cancer Agency, Vancouver, BC V5Z 4S6, Canada."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Irving Cancer Research Center, Room 913,1130 St. Nicholas Avenue, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Andrew D",
+                "Last Name": "Cherniack",
+                "Affiliation": "The Eli and Edythe L. Broad Institute of Massachusetts Institute of Technology and Harvard University, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Systems Biology and Department of Electrical Engineering, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Davide",
+                "Last Name": "Bedognetti",
+                "Affiliation": "Division of Translational Medicine, Research Branch, Sidra Medical and Research Center, PO Box 26999, Doha, Qatar."
+            },
+            {
+                "First Name": "Younes",
+                "Last Name": "Mokrab",
+                "Affiliation": "Division of Translational Medicine, Research Branch, Sidra Medical and Research Center, PO Box 26999, Doha, Qatar."
+            },
+            {
+                "First Name": "Aaron M",
+                "Last Name": "Newman",
+                "Affiliation": "Institute for Stem Cell Biology and Regenerative Medicine and Department of Biomedical Data Science, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Arvind",
+                "Last Name": "Rao",
+                "Affiliation": "Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Ken",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Krasnitz",
+                "Affiliation": "Simons Center for Quantitative Biology, Cold Spring Harbor Laboratory, 1 Bungtown Road, Cold Spring Harbor, NY 11724, USA."
+            },
+            {
+                "First Name": "Hai",
+                "Last Name": "Hu",
+                "Affiliation": "Chan Soon-Shiong Institute of Molecular Medicine at Windber, Windber, PA 15963, USA."
+            },
+            {
+                "First Name": "Tathiane M",
+                "Last Name": "Malta",
+                "Affiliation": "Department of Neurosurgery, Henry Ford Hospital, Detroit, MI 48202, USA; Department of Genetics, Ribeirao Preto Medical School, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil."
+            },
+            {
+                "First Name": "Houtan",
+                "Last Name": "Noushmehr",
+                "Affiliation": "Department of Neurosurgery, Henry Ford Hospital, Detroit, MI 48202, USA; Department of Genetics, Ribeirao Preto Medical School, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil."
+            },
+            {
+                "First Name": "Chandra Sekhar",
+                "Last Name": "Pedamallu",
+                "Affiliation": "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA 02215, USA."
+            },
+            {
+                "First Name": "Susan",
+                "Last Name": "Bullman",
+                "Affiliation": "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA 02215, USA."
+            },
+            {
+                "First Name": "Akinyemi I",
+                "Last Name": "Ojesina",
+                "Affiliation": "University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Lamb",
+                "Affiliation": "Sage Bionetworks, 2901 Third Ave, Suite 330, Seattle, WA 98121, USA."
+            },
+            {
+                "First Name": "Wanding",
+                "Last Name": "Zhou",
+                "Affiliation": "Center for Epigenetics, Van Andel Research Institute, Grand Rapids, MI 49503, USA."
+            },
+            {
+                "First Name": "Hui",
+                "Last Name": "Shen",
+                "Affiliation": "Center for Epigenetics, Van Andel Research Institute, Grand Rapids, MI 49503, USA."
+            },
+            {
+                "First Name": "Toni K",
+                "Last Name": "Choueiri",
+                "Affiliation": "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA 02215, USA."
+            },
+            {
+                "First Name": "John N",
+                "Last Name": "Weinstein",
+                "Affiliation": "Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Guinney",
+                "Affiliation": "Sage Bionetworks, 2901 Third Ave, Suite 330, Seattle, WA 98121, USA."
+            },
+            {
+                "First Name": "Joel",
+                "Last Name": "Saltz",
+                "Affiliation": "Department of Biomedical Informatics, Stony Brook Medicine, 100 Nicolls Rd, Stony Brook, NY 11794, USA."
+            },
+            {
+                "First Name": "Robert A",
+                "Last Name": "Holt",
+                "Affiliation": "Canada's Michael Smith Genome Sciences Centre, BC Cancer Agency, Vancouver, BC V5Z 4S6, Canada."
+            },
+            {
+                "First Name": "Charles S",
+                "Last Name": "Rabkin",
+                "Affiliation": "Division of Cancer Epidemiology and Genetics, National Cancer Institute, 9609 Medical Center Dr., Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alexander J",
+                "Last Name": "Lazar",
+                "Affiliation": "Departments of Pathology, Genomics Medicine and Translational Molecular Pathology, The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd-Unit 85, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Jonathan S",
+                "Last Name": "Serody",
+                "Affiliation": "Department of Medicine and Microbiology and Lineberger Comprehensive Cancer Center, 125 Mason Farm Road, Chapel Hill, NC 27599-7295, USA."
+            },
+            {
+                "First Name": "Elizabeth G",
+                "Last Name": "Demicco",
+                "Affiliation": "Mount Sinai Hospital, Department of Pathology and Laboratory Medicine, 600\u00a0University Ave., Toronto, ON M5G 1X5, Canada."
+            },
+            {
+                "First Name": "Mary L",
+                "Last Name": "Disis",
+                "Affiliation": "UW Medicine Cancer Vaccine Institute, 850 Republican Street, Brotman Building, 2nd Floor, Room 221, Box 358050, University of Washington, Seattle, WA 98109-4714, USA."
+            },
+            {
+                "First Name": "Benjamin G",
+                "Last Name": "Vincent",
+                "Affiliation": "Lineberger Comprehensive Cancer Center, Curriculum in Bioinformatics and Computational Biology, University of North Carolina, 125 Mason Farm Road, Chapel Hill, NC 27599-7295, USA. Electronic address: benjamin.vincent@unchealth.unc.edu."
+            },
+            {
+                "First Name": "Ilya",
+                "Last Name": "Shmulevich",
+                "Affiliation": "Institute for Systems Biology, 401 Terry Ave N, Seattle, WA 98109, USA. Electronic address: ilya.shmulevich@systemsbiology.org."
+            }
+        ],
+        "Journal": "Immunity",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30682127",
+        "Title": "A sequential Monte Carlo algorithm for inference of subclonal structure in cancer.",
+        "Abstract": "Tumors are heterogeneous in the sense that they consist of multiple subpopulations of cells, referred to as subclones, each of which is characterized by a distinct profile of genomic variations such as somatic mutations. Inferring the underlying clonal landscape has become an important topic in that it can help in understanding cancer development and progression, and thereby help in improving treatment. We describe a novel state-space model, based on the feature allocation framework and an efficient sequential Monte Carlo (SMC) algorithm, using the somatic mutation data obtained from tumor samples to estimate the number of subclones, as well as their characterization. Our approach, by design, is capable of handling any number of mutations. Via extensive simulations, our method exhibits high accuracy, in most cases, and compares favorably with existing methods. Moreover, we demonstrated the validity of our method through analyzing real tumor samples from patients from multiple cancer types (breast, prostate, and lung). Our results reveal driver mutation events specific to cancer types, and indicate clonal expansion by manual phylogenetic analysis. MATLAB code and datasets are available to download at: https://github.com/moyanre/tumor_clones.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Cell Count",
+            "Clone Cells",
+            "Disease Progression",
+            "Genotype",
+            "Humans",
+            "Models, Theoretical",
+            "Monte Carlo Method",
+            "Mutation",
+            "Neoplasms",
+            "Phylogeny"
+        ],
+        "Authors": [
+            {
+                "First Name": "Oyetunji E",
+                "Last Name": "Ogundijo",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Kaiyi",
+                "Last Name": "Zhu",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Xiaodong",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, NY, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30670680",
+        "Title": "Meta-analysis of expression and methylation signatures indicates a stress-related epigenetic mechanism in multiple neuropsychiatric disorders.",
+        "Abstract": "Similar environmental risk factors have been implicated in different neuropsychiatric disorders (including major psychiatric and neurodegenerative diseases), indicating the existence of common epigenetic mechanisms underlying the pathogenesis shared by different illnesses. To investigate such commonality, we applied an unsupervised computational approach identifying several consensus co-expression and co-methylation signatures from a data cohort of postmortem prefrontal cortex (PFC) samples from individuals with six different neuropsychiatric disorders-schizophrenia, bipolar disorder, major depression, alcoholism, Alzheimer's and Parkinson's-as well as healthy controls. Among our results, we identified a pair of strongly interrelated co-expression and co-methylation (E-M) signatures showing consistent and significant disease association in multiple types of disorders. This E-M signature was enriched for interneuron markers, and we further demonstrated that it is unlikely for this enrichment to be due to varying subpopulation abundance of normal interneurons across samples. Moreover, gene set enrichment analysis revealed overrepresentation of stress-related biological processes in this E-M signature. Our integrative analysis of expression and methylation profiles, therefore, suggests a stress-related epigenetic mechanism in the brain, which could be associated with the pathogenesis of multiple neuropsychiatric diseases.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alcoholism",
+            "Alzheimer Disease",
+            "Bipolar Disorder",
+            "DNA Methylation",
+            "Depressive Disorder, Major",
+            "Epigenesis, Genetic",
+            "Gene Regulatory Networks",
+            "Humans",
+            "Parkinson Disease",
+            "Schizophrenia"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kaiyi",
+                "Last Name": "Zhu",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Tai-Hsien",
+                "Last Name": "Ou Yang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Vincent",
+                "Last Name": "Dorie",
+                "Affiliation": "Data Science Institute, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Tian",
+                "Last Name": "Zheng",
+                "Affiliation": "Data Science Institute, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, 10032, USA. d.anastassiou@columbia.edu."
+            }
+        ],
+        "Journal": "Translational psychiatry",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "29628290",
+        "Title": "The Immune Landscape of Cancer.",
+        "Abstract": "We performed an extensive immunogenomic analysis of more than 10,000 tumors comprising 33 diverse cancer types by utilizing data compiled by TCGA. Across cancer types, we identified six immune subtypes-wound healing, IFN-\u03b3 dominant, inflammatory, lymphocyte depleted, immunologically quiet, and TGF-\u03b2 dominant-characterized by differences in macrophage or lymphocyte signatures, Th1:Th2 cell ratio, extent of intratumoral heterogeneity, aneuploidy, extent of neoantigen load, overall cell proliferation, expression of immunomodulatory genes, and prognosis. Specific driver mutations correlated with lower (CTNNB1, NRAS, or IDH1) or higher (BRAF, TP53, or CASP8) leukocyte levels across all cancers. Multiple control modalities of the intracellular and extracellular networks (transcription, microRNAs, copy number, and epigenetic processes) were involved in tumor-immune cell interactions, both across and within immune subtypes. Our immunogenomics pipeline to characterize these heterogeneous tumors and the resulting data are intended to serve as a resource for future targeted studies to further advance the field.",
+        "Keywords": [
+            "cancer genomics",
+            "immune subtypes",
+            "immuno-oncology",
+            "immunomodulatory",
+            "immunotherapy",
+            "integrative network analysis",
+            "tumor immunology",
+            "tumor microenvironment"
+        ],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Child",
+            "Female",
+            "Genomics",
+            "Humans",
+            "Interferon-gamma",
+            "Macrophages",
+            "Male",
+            "Middle Aged",
+            "Neoplasms",
+            "Prognosis",
+            "Th1-Th2 Balance",
+            "Transforming Growth Factor beta",
+            "Wound Healing",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "V\u00e9steinn",
+                "Last Name": "Thorsson",
+                "Affiliation": "Institute for Systems Biology, 401 Terry Ave N, Seattle, WA 98109, USA. Electronic address: vesteinn.thorsson@systemsbiology.org."
+            },
+            {
+                "First Name": "David L",
+                "Last Name": "Gibbs",
+                "Affiliation": "Institute for Systems Biology, 401 Terry Ave N, Seattle, WA 98109, USA."
+            },
+            {
+                "First Name": "Scott D",
+                "Last Name": "Brown",
+                "Affiliation": "Canada's Michael Smith Genome Sciences Centre, BC Cancer Agency, Vancouver, BC V5Z 4S6, Canada."
+            },
+            {
+                "First Name": "Denise",
+                "Last Name": "Wolf",
+                "Affiliation": "University of California, San Francisco, Box 0808, 2340 Sutter Street, S433, San Francisco, CA 94115, USA."
+            },
+            {
+                "First Name": "Dante S",
+                "Last Name": "Bortone",
+                "Affiliation": "Lineberger Comprehensive Cancer Center, Curriculum in Bioinformatics and Computational Biology, University of North Carolina, 125 Mason Farm Road, Chapel Hill, NC 27599-7295, USA."
+            },
+            {
+                "First Name": "Tai-Hsien",
+                "Last Name": "Ou Yang",
+                "Affiliation": "Department of Systems Biology and Department of Electrical Engineering, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Eduard",
+                "Last Name": "Porta-Pardo",
+                "Affiliation": "Barcelona Supercomputing Centre, c/Jordi Girona, 29, 08034 Barcelona, Spain; SBP Medical Discovery Institute, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Galen F",
+                "Last Name": "Gao",
+                "Affiliation": "The Eli and Edythe L. Broad Institute of Massachusetts Institute of Technology and Harvard University, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Christopher L",
+                "Last Name": "Plaisier",
+                "Affiliation": "Institute for Systems Biology, 401 Terry Ave N, Seattle, WA 98109, USA; School of Biological and Health Systems Engineering, Arizona State University, Tempe, AZ 85281, USA."
+            },
+            {
+                "First Name": "James A",
+                "Last Name": "Eddy",
+                "Affiliation": "Sage Bionetworks, 2901 Third Ave, Suite 330, Seattle, WA 98121, USA."
+            },
+            {
+                "First Name": "Elad",
+                "Last Name": "Ziv",
+                "Affiliation": "Department of Medicine, Institute for Human Genetics, Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, 1450 3rd St, San Francisco, CA 94143, USA."
+            },
+            {
+                "First Name": "Aedin C",
+                "Last Name": "Culhane",
+                "Affiliation": "Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute, Boston, MA 02215, USA."
+            },
+            {
+                "First Name": "Evan O",
+                "Last Name": "Paull",
+                "Affiliation": "Irving Cancer Research Center, Room 913,1130 St. Nicholas Avenue, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "I K Ashok",
+                "Last Name": "Sivakumar",
+                "Affiliation": "Department of Computer Science, Institute for Computational Medicine; Johns Hopkins University, Baltimore, MD 21218, USA."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Gentles",
+                "Affiliation": "Departments of Medicine and Biomedical Data Science, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Raunaq",
+                "Last Name": "Malhotra",
+                "Affiliation": "Seven Bridges Genomics, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Farshad",
+                "Last Name": "Farshidfar",
+                "Affiliation": "Department of Oncology, University of Calgary, Calgary, AB T2N 4N1, Canada."
+            },
+            {
+                "First Name": "Antonio",
+                "Last Name": "Colaprico",
+                "Affiliation": "Universite libre de Bruxelles (ULB), Computer Science Department, Faculty of Sciences, Boulevard du Triomphe - CP212, 1050 Bruxelles, Belgium."
+            },
+            {
+                "First Name": "Joel S",
+                "Last Name": "Parker",
+                "Affiliation": "Lineberger Comprehensive Cancer Center, Curriculum in Bioinformatics and Computational Biology, University of North Carolina, 125 Mason Farm Road, Chapel Hill, NC 27599-7295, USA."
+            },
+            {
+                "First Name": "Lisle E",
+                "Last Name": "Mose",
+                "Affiliation": "Lineberger Comprehensive Cancer Center, Curriculum in Bioinformatics and Computational Biology, University of North Carolina, 125 Mason Farm Road, Chapel Hill, NC 27599-7295, USA."
+            },
+            {
+                "First Name": "Nam Sy",
+                "Last Name": "Vo",
+                "Affiliation": "Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Jianfang",
+                "Last Name": "Liu",
+                "Affiliation": "Chan Soon-Shiong Institute of Molecular Medicine at Windber, Windber, PA 15963, USA."
+            },
+            {
+                "First Name": "Yuexin",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Janet",
+                "Last Name": "Rader",
+                "Affiliation": "Medical College of Wisconsin, 9200 Wisconsin Avenue, Milwaukee, WI 53226 USA."
+            },
+            {
+                "First Name": "Varsha",
+                "Last Name": "Dhankani",
+                "Affiliation": "Institute for Systems Biology, 401 Terry Ave N, Seattle, WA 98109, USA."
+            },
+            {
+                "First Name": "Sheila M",
+                "Last Name": "Reynolds",
+                "Affiliation": "Institute for Systems Biology, 401 Terry Ave N, Seattle, WA 98109, USA."
+            },
+            {
+                "First Name": "Reanne",
+                "Last Name": "Bowlby",
+                "Affiliation": "Canada's Michael Smith Genome Sciences Centre, BC Cancer Agency, Vancouver, BC V5Z 4S6, Canada."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Irving Cancer Research Center, Room 913,1130 St. Nicholas Avenue, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Andrew D",
+                "Last Name": "Cherniack",
+                "Affiliation": "The Eli and Edythe L. Broad Institute of Massachusetts Institute of Technology and Harvard University, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Systems Biology and Department of Electrical Engineering, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Davide",
+                "Last Name": "Bedognetti",
+                "Affiliation": "Division of Translational Medicine, Research Branch, Sidra Medical and Research Center, PO Box 26999, Doha, Qatar."
+            },
+            {
+                "First Name": "Younes",
+                "Last Name": "Mokrab",
+                "Affiliation": "Division of Translational Medicine, Research Branch, Sidra Medical and Research Center, PO Box 26999, Doha, Qatar."
+            },
+            {
+                "First Name": "Aaron M",
+                "Last Name": "Newman",
+                "Affiliation": "Institute for Stem Cell Biology and Regenerative Medicine and Department of Biomedical Data Science, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Arvind",
+                "Last Name": "Rao",
+                "Affiliation": "Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Ken",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Krasnitz",
+                "Affiliation": "Simons Center for Quantitative Biology, Cold Spring Harbor Laboratory, 1 Bungtown Road, Cold Spring Harbor, NY 11724, USA."
+            },
+            {
+                "First Name": "Hai",
+                "Last Name": "Hu",
+                "Affiliation": "Chan Soon-Shiong Institute of Molecular Medicine at Windber, Windber, PA 15963, USA."
+            },
+            {
+                "First Name": "Tathiane M",
+                "Last Name": "Malta",
+                "Affiliation": "Department of Neurosurgery, Henry Ford Hospital, Detroit, MI 48202, USA; Department of Genetics, Ribeirao Preto Medical School, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil."
+            },
+            {
+                "First Name": "Houtan",
+                "Last Name": "Noushmehr",
+                "Affiliation": "Department of Neurosurgery, Henry Ford Hospital, Detroit, MI 48202, USA; Department of Genetics, Ribeirao Preto Medical School, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil."
+            },
+            {
+                "First Name": "Chandra Sekhar",
+                "Last Name": "Pedamallu",
+                "Affiliation": "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA 02215, USA."
+            },
+            {
+                "First Name": "Susan",
+                "Last Name": "Bullman",
+                "Affiliation": "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA 02215, USA."
+            },
+            {
+                "First Name": "Akinyemi I",
+                "Last Name": "Ojesina",
+                "Affiliation": "University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Lamb",
+                "Affiliation": "Sage Bionetworks, 2901 Third Ave, Suite 330, Seattle, WA 98121, USA."
+            },
+            {
+                "First Name": "Wanding",
+                "Last Name": "Zhou",
+                "Affiliation": "Center for Epigenetics, Van Andel Research Institute, Grand Rapids, MI 49503, USA."
+            },
+            {
+                "First Name": "Hui",
+                "Last Name": "Shen",
+                "Affiliation": "Center for Epigenetics, Van Andel Research Institute, Grand Rapids, MI 49503, USA."
+            },
+            {
+                "First Name": "Toni K",
+                "Last Name": "Choueiri",
+                "Affiliation": "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA 02215, USA."
+            },
+            {
+                "First Name": "John N",
+                "Last Name": "Weinstein",
+                "Affiliation": "Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Guinney",
+                "Affiliation": "Sage Bionetworks, 2901 Third Ave, Suite 330, Seattle, WA 98121, USA."
+            },
+            {
+                "First Name": "Joel",
+                "Last Name": "Saltz",
+                "Affiliation": "Department of Biomedical Informatics, Stony Brook Medicine, 100 Nicolls Rd, Stony Brook, NY 11794, USA."
+            },
+            {
+                "First Name": "Robert A",
+                "Last Name": "Holt",
+                "Affiliation": "Canada's Michael Smith Genome Sciences Centre, BC Cancer Agency, Vancouver, BC V5Z 4S6, Canada."
+            },
+            {
+                "First Name": "Charles S",
+                "Last Name": "Rabkin",
+                "Affiliation": "Division of Cancer Epidemiology and Genetics, National Cancer Institute, 9609 Medical Center Dr., Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alexander J",
+                "Last Name": "Lazar",
+                "Affiliation": "Departments of Pathology, Genomics Medicine and Translational Molecular Pathology, The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd-Unit 85, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Jonathan S",
+                "Last Name": "Serody",
+                "Affiliation": "Department of Medicine and Microbiology and Lineberger Comprehensive Cancer Center, 125 Mason Farm Road, Chapel Hill, NC 27599-7295, USA."
+            },
+            {
+                "First Name": "Elizabeth G",
+                "Last Name": "Demicco",
+                "Affiliation": "Mount Sinai Hospital, Department of Pathology and Laboratory Medicine, 600\u00a0University Ave., Toronto, ON M5G 1X5, Canada."
+            },
+            {
+                "First Name": "Mary L",
+                "Last Name": "Disis",
+                "Affiliation": "UW Medicine Cancer Vaccine Institute, 850 Republican Street, Brotman Building, 2nd Floor, Room 221, Box 358050, University of Washington, Seattle, WA 98109-4714, USA."
+            },
+            {
+                "First Name": "Benjamin G",
+                "Last Name": "Vincent",
+                "Affiliation": "Lineberger Comprehensive Cancer Center, Curriculum in Bioinformatics and Computational Biology, University of North Carolina, 125 Mason Farm Road, Chapel Hill, NC 27599-7295, USA. Electronic address: benjamin.vincent@unchealth.unc.edu."
+            },
+            {
+                "First Name": "Ilya",
+                "Last Name": "Shmulevich",
+                "Affiliation": "Institute for Systems Biology, 401 Terry Ave N, Seattle, WA 98109, USA. Electronic address: ilya.shmulevich@systemsbiology.org."
+            }
+        ],
+        "Journal": "Immunity",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28192213",
+        "Title": "Comment on \"A COL11A1-correlated pan-cancer gene signature of activated fibroblasts for the prioritization of therapeutic targets,\" Cancer Lett. 2016 Nov 28; 382 (2): 203-214.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Fibroblasts",
+            "Humans",
+            "Neoplasms",
+            "Oncogenes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA; Center for Cancer Systems Therapeutics, Columbia University Medical Center, New York, NY, USA; Department of Electrical Engineering, Columbia University, New York, NY, USA. Electronic address: d.anastassiou@columbia.edu."
+            }
+        ],
+        "Journal": "Cancer letters",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27992465",
+        "Title": "Discovering Genome-Wide Tag SNPs Based on the Mutual Information of the Variants.",
+        "Abstract": "Exploring linkage disequilibrium (LD) patterns among the single nucleotide polymorphism (SNP) sites can improve the accuracy and cost-effectiveness of genomic association studies, whereby representative (tag) SNPs are identified to sufficiently represent the genomic diversity in populations. There has been considerable amount of effort in developing efficient algorithms to select tag SNPs from the growing large-scale data sets. Methods using the classical pairwise-LD and multi-locus LD measures have been proposed that aim to reduce the computational complexity and to increase the accuracy, respectively. The present work solves the tag SNP selection problem by efficiently balancing the computational complexity and accuracy, and improves the coverage in genomic diversity in a cost-effective manner. The employed algorithm makes use of mutual information to explore the multi-locus association between SNPs and can handle different data types and conditions. Experiments with benchmark HapMap data sets show comparable or better performance against the state-of-the-art algorithms. In particular, as a novel application, the genome-wide SNP tagging is performed in the 1000 Genomes Project data sets, and produced a well-annotated database of tagging variants that capture the common genotype diversity in 2,504 samples from 26 human populations. Compared to conventional methods, the algorithm requires as input only the genotype (or haplotype) sequences, can scale up to genome-wide analyses, and produces accurate solutions with more information-rich output, providing an improved platform for researchers towards the subsequent association studies.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Base Sequence",
+            "Chromosome Mapping",
+            "Cluster Analysis",
+            "Databases, Genetic",
+            "Epistasis, Genetic",
+            "Expressed Sequence Tags",
+            "Genetic Association Studies",
+            "Genome-Wide Association Study",
+            "Haplotypes",
+            "Humans",
+            "Linkage Disequilibrium",
+            "Polymorphism, Single Nucleotide",
+            "Sequence Homology, Nucleic Acid"
+        ],
+        "Authors": [
+            {
+                "First Name": "Abdulkadir",
+                "Last Name": "Elmas",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Tai-Hsien",
+                "Last Name": "Ou Yang",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Xiaodong",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27351836",
+        "Title": "A Crowdsourcing Approach to Developing and Assessing Prediction Algorithms for AML Prognosis.",
+        "Abstract": "Acute Myeloid Leukemia (AML) is a fatal hematological cancer. The genetic abnormalities underlying AML are extremely heterogeneous among patients, making prognosis and treatment selection very difficult. While clinical proteomics data has the potential to improve prognosis accuracy, thus far, the quantitative means to do so have yet to be developed. Here we report the results and insights gained from the DREAM 9 Acute Myeloid Prediction Outcome Prediction Challenge (AML-OPC), a crowdsourcing effort designed to promote the development of quantitative methods for AML prognosis prediction. We identify the most accurate and robust models in predicting patient response to therapy, remission duration, and overall survival. We further investigate patient response to therapy, a clinically actionable prediction, and find that patients that are classified as resistant to therapy are harder to predict than responsive patients across the 31 models submitted to the challenge. The top two performing models, which held a high sensitivity to these patients, substantially utilized the proteomics data to make predictions. Using these models, we also identify which signaling proteins were useful in predicting patient therapeutic response.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Amyotrophic Lateral Sclerosis",
+            "Biomarkers",
+            "Crowdsourcing",
+            "Humans",
+            "Outcome and Process Assessment, Health Care",
+            "Proteome",
+            "Reproducibility of Results",
+            "Risk Assessment",
+            "Sensitivity and Specificity",
+            "Treatment Outcome"
+        ],
+        "Authors": [
+            {
+                "First Name": "David P",
+                "Last Name": "Noren",
+                "Affiliation": "Rice University, Houston, Texas, United States of America."
+            },
+            {
+                "First Name": "Byron L",
+                "Last Name": "Long",
+                "Affiliation": "Rice University, Houston, Texas, United States of America."
+            },
+            {
+                "First Name": "Raquel",
+                "Last Name": "Norel",
+                "Affiliation": "IBM Computational Biology Center, Yorktown Heights, New York, United States of America."
+            },
+            {
+                "First Name": "Kahn",
+                "Last Name": "Rrhissorrakrai",
+                "Affiliation": "IBM Computational Biology Center, Yorktown Heights, New York, United States of America."
+            },
+            {
+                "First Name": "Kenneth",
+                "Last Name": "Hess",
+                "Affiliation": "The University of Texas MD Anderson Cancer Center, Houston, Texas, United States of America."
+            },
+            {
+                "First Name": "Chenyue Wendy",
+                "Last Name": "Hu",
+                "Affiliation": "Rice University, Houston, Texas, United States of America."
+            },
+            {
+                "First Name": "Alex J",
+                "Last Name": "Bisberg",
+                "Affiliation": "Rice University, Houston, Texas, United States of America."
+            },
+            {
+                "First Name": "Andre",
+                "Last Name": "Schultz",
+                "Affiliation": "Rice University, Houston, Texas, United States of America."
+            },
+            {
+                "First Name": "Erik",
+                "Last Name": "Engquist",
+                "Affiliation": "Rice University, Houston, Texas, United States of America."
+            },
+            {
+                "First Name": "Li",
+                "Last Name": "Liu",
+                "Affiliation": "Arizona State University, Tempe, Arizona, United States of America."
+            },
+            {
+                "First Name": "Xihui",
+                "Last Name": "Lin",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Gregory M",
+                "Last Name": "Chen",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Honglei",
+                "Last Name": "Xie",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Geoffrey A M",
+                "Last Name": "Hunter",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Paul C",
+                "Last Name": "Boutros",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Oleg",
+                "Last Name": "Stepanov",
+                "Affiliation": "Institute for Systems Biology, Moscow, Russia."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Thea",
+                "Last Name": "Norman",
+                "Affiliation": "Sage Bionetworks, Seattle, Washington, United States of America."
+            },
+            {
+                "First Name": "Stephen H",
+                "Last Name": "Friend",
+                "Affiliation": "Sage Bionetworks, Seattle, Washington, United States of America."
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "IBM Computational Biology Center, Yorktown Heights, New York, United States of America."
+            },
+            {
+                "First Name": "Steven",
+                "Last Name": "Kornblau",
+                "Affiliation": "The University of Texas MD Anderson Cancer Center, Houston, Texas, United States of America."
+            },
+            {
+                "First Name": "Amina A",
+                "Last Name": "Qutub",
+                "Affiliation": "Rice University, Houston, Texas, United States of America."
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "25751624",
+        "Title": "Fine mapping of type 1 diabetes susceptibility loci and evidence for colocalization of causal variants with lymphoid gene enhancers.",
+        "Abstract": "Genetic studies of type 1 diabetes (T1D) have identified 50 susceptibility regions, finding major pathways contributing to risk, with some loci shared across immune disorders. To make genetic comparisons across autoimmune disorders as informative as possible, a dense genotyping array, the Immunochip, was developed, from which we identified four new T1D-associated regions (P < 5 \u00d7 10(-8)). A comparative analysis with 15 immune diseases showed that T1D is more similar genetically to other autoantibody-positive diseases, significantly most similar to juvenile idiopathic arthritis and significantly least similar to ulcerative colitis, and provided support for three additional new T1D risk loci. Using a Bayesian approach, we defined credible sets for the T1D-associated SNPs. The associated SNPs localized to enhancer sequences active in thymus, T and B cells, and CD34(+) stem cells. Enhancer-promoter interactions can now be analyzed in these cell types to identify which particular genes and regulatory sequences are causal.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Autoantibodies",
+            "Autoimmunity",
+            "Case-Control Studies",
+            "Chromosome Mapping",
+            "DNA Mutational Analysis",
+            "Diabetes Mellitus, Type 1",
+            "Enhancer Elements, Genetic",
+            "Female",
+            "Genetic Association Studies",
+            "Genetic Loci",
+            "Genetic Predisposition to Disease",
+            "Humans",
+            "Lymphocytes",
+            "Male",
+            "Polymorphism, Single Nucleotide"
+        ],
+        "Authors": [
+            {
+                "First Name": "Suna",
+                "Last Name": "Onengut-Gumuscu",
+                "Affiliation": "1] Center for Public Health Genomics, University of Virginia, Charlottesville, Virginia, USA. [2] Department of Medicine, Division of Endocrinology, University of Virginia, Charlottesville, Virginia, USA."
+            },
+            {
+                "First Name": "Wei-Min",
+                "Last Name": "Chen",
+                "Affiliation": "1] Center for Public Health Genomics, University of Virginia, Charlottesville, Virginia, USA. [2] Department of Public Health Sciences, Division of Biostatistics and Epidemiology, University of Virginia, Charlottesville, Virginia, USA."
+            },
+            {
+                "First Name": "Oliver",
+                "Last Name": "Burren",
+                "Affiliation": "Juvenile Diabetes Research Foundation (JDRF)/Wellcome Trust Diabetes and Inflammation Laboratory, Department of Medical Genetics, Cambridge Institute for Medical Research, National Institute for Health Research (NIHR) Biomedical Research Centre, University of Cambridge, Addenbrooke's Hospital, Cambridge, UK."
+            },
+            {
+                "First Name": "Nick J",
+                "Last Name": "Cooper",
+                "Affiliation": "Juvenile Diabetes Research Foundation (JDRF)/Wellcome Trust Diabetes and Inflammation Laboratory, Department of Medical Genetics, Cambridge Institute for Medical Research, National Institute for Health Research (NIHR) Biomedical Research Centre, University of Cambridge, Addenbrooke's Hospital, Cambridge, UK."
+            },
+            {
+                "First Name": "Aaron R",
+                "Last Name": "Quinlan",
+                "Affiliation": "1] Center for Public Health Genomics, University of Virginia, Charlottesville, Virginia, USA. [2] Department of Public Health Sciences, Division of Biostatistics and Epidemiology, University of Virginia, Charlottesville, Virginia, USA."
+            },
+            {
+                "First Name": "Josyf C",
+                "Last Name": "Mychaleckyj",
+                "Affiliation": "1] Center for Public Health Genomics, University of Virginia, Charlottesville, Virginia, USA. [2] Department of Public Health Sciences, Division of Biostatistics and Epidemiology, University of Virginia, Charlottesville, Virginia, USA."
+            },
+            {
+                "First Name": "Emily",
+                "Last Name": "Farber",
+                "Affiliation": "Center for Public Health Genomics, University of Virginia, Charlottesville, Virginia, USA."
+            },
+            {
+                "First Name": "Jessica K",
+                "Last Name": "Bonnie",
+                "Affiliation": "Center for Public Health Genomics, University of Virginia, Charlottesville, Virginia, USA."
+            },
+            {
+                "First Name": "Michal",
+                "Last Name": "Szpak",
+                "Affiliation": "Center for Public Health Genomics, University of Virginia, Charlottesville, Virginia, USA."
+            },
+            {
+                "First Name": "Ellen",
+                "Last Name": "Schofield",
+                "Affiliation": "Juvenile Diabetes Research Foundation (JDRF)/Wellcome Trust Diabetes and Inflammation Laboratory, Department of Medical Genetics, Cambridge Institute for Medical Research, National Institute for Health Research (NIHR) Biomedical Research Centre, University of Cambridge, Addenbrooke's Hospital, Cambridge, UK."
+            },
+            {
+                "First Name": "Premanand",
+                "Last Name": "Achuthan",
+                "Affiliation": "Juvenile Diabetes Research Foundation (JDRF)/Wellcome Trust Diabetes and Inflammation Laboratory, Department of Medical Genetics, Cambridge Institute for Medical Research, National Institute for Health Research (NIHR) Biomedical Research Centre, University of Cambridge, Addenbrooke's Hospital, Cambridge, UK."
+            },
+            {
+                "First Name": "Hui",
+                "Last Name": "Guo",
+                "Affiliation": "Juvenile Diabetes Research Foundation (JDRF)/Wellcome Trust Diabetes and Inflammation Laboratory, Department of Medical Genetics, Cambridge Institute for Medical Research, National Institute for Health Research (NIHR) Biomedical Research Centre, University of Cambridge, Addenbrooke's Hospital, Cambridge, UK."
+            },
+            {
+                "First Name": "Mary D",
+                "Last Name": "Fortune",
+                "Affiliation": "Juvenile Diabetes Research Foundation (JDRF)/Wellcome Trust Diabetes and Inflammation Laboratory, Department of Medical Genetics, Cambridge Institute for Medical Research, National Institute for Health Research (NIHR) Biomedical Research Centre, University of Cambridge, Addenbrooke's Hospital, Cambridge, UK."
+            },
+            {
+                "First Name": "Helen",
+                "Last Name": "Stevens",
+                "Affiliation": "Juvenile Diabetes Research Foundation (JDRF)/Wellcome Trust Diabetes and Inflammation Laboratory, Department of Medical Genetics, Cambridge Institute for Medical Research, National Institute for Health Research (NIHR) Biomedical Research Centre, University of Cambridge, Addenbrooke's Hospital, Cambridge, UK."
+            },
+            {
+                "First Name": "Neil M",
+                "Last Name": "Walker",
+                "Affiliation": "Juvenile Diabetes Research Foundation (JDRF)/Wellcome Trust Diabetes and Inflammation Laboratory, Department of Medical Genetics, Cambridge Institute for Medical Research, National Institute for Health Research (NIHR) Biomedical Research Centre, University of Cambridge, Addenbrooke's Hospital, Cambridge, UK."
+            },
+            {
+                "First Name": "Lucas D",
+                "Last Name": "Ward",
+                "Affiliation": "1] Department of Computer Science, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts, USA. [2] Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA."
+            },
+            {
+                "First Name": "Anshul",
+                "Last Name": "Kundaje",
+                "Affiliation": "1] Department of Computer Science, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts, USA. [2] Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA. [3] Department of Genetics, Stanford University, Stanford, California, USA. [4] Center for Human Genetic Research, Massachusetts General Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Manolis",
+                "Last Name": "Kellis",
+                "Affiliation": "1] Department of Computer Science, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts, USA. [2] Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA."
+            },
+            {
+                "First Name": "Mark J",
+                "Last Name": "Daly",
+                "Affiliation": "1] Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA. [2] Center for Human Genetic Research, Massachusetts General Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Jeffrey C",
+                "Last Name": "Barrett",
+                "Affiliation": "Wellcome Trust Sanger Institute, Hinxton, UK."
+            },
+            {
+                "First Name": "Jason D",
+                "Last Name": "Cooper",
+                "Affiliation": "Juvenile Diabetes Research Foundation (JDRF)/Wellcome Trust Diabetes and Inflammation Laboratory, Department of Medical Genetics, Cambridge Institute for Medical Research, National Institute for Health Research (NIHR) Biomedical Research Centre, University of Cambridge, Addenbrooke's Hospital, Cambridge, UK."
+            },
+            {
+                "First Name": "Panos",
+                "Last Name": "Deloukas",
+                "Affiliation": "Wellcome Trust Sanger Institute, Hinxton, UK."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John A",
+                "Last Name": "Todd",
+                "Affiliation": "Juvenile Diabetes Research Foundation (JDRF)/Wellcome Trust Diabetes and Inflammation Laboratory, Department of Medical Genetics, Cambridge Institute for Medical Research, National Institute for Health Research (NIHR) Biomedical Research Centre, University of Cambridge, Addenbrooke's Hospital, Cambridge, UK."
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Wallace",
+                "Affiliation": "1] Juvenile Diabetes Research Foundation (JDRF)/Wellcome Trust Diabetes and Inflammation Laboratory, Department of Medical Genetics, Cambridge Institute for Medical Research, National Institute for Health Research (NIHR) Biomedical Research Centre, University of Cambridge, Addenbrooke's Hospital, Cambridge, UK. [2] Medical Research Council (MRC) Biostatistics Unit, Institute of Public Health, University Forvie Site, Cambridge, UK."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Concannon",
+                "Affiliation": "Center for Public Health Genomics, University of Virginia, Charlottesville, Virginia, USA."
+            },
+            {
+                "First Name": "Stephen S",
+                "Last Name": "Rich",
+                "Affiliation": "1] Center for Public Health Genomics, University of Virginia, Charlottesville, Virginia, USA. [2] Department of Public Health Sciences, Division of Biostatistics and Epidemiology, University of Virginia, Charlottesville, Virginia, USA."
+            }
+        ],
+        "Journal": "Nature genetics",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25249324",
+        "Title": "Breast cancer prognostic biomarker using attractor metagenes and the FGD3-SUSD3 metagene.",
+        "Abstract": "The winning model of the Sage Bionetworks/DREAM Breast Cancer Prognosis Challenge made use of several molecular features, called attractor metagenes, as well as another metagene defined by the average expression level of the two genes FGD3 and SUSD3. This is a follow-up study toward developing a breast cancer prognostic test derived from and improving upon that model.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biomarkers, Tumor",
+            "Breast Neoplasms",
+            "Female",
+            "Gene Expression Profiling",
+            "Humans",
+            "Metagenomics",
+            "Prognosis",
+            "Survival Rate"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tai-Hsien",
+                "Last Name": "Ou Yang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York. Department of Electrical Engineering, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Wei-Yi",
+                "Last Name": "Cheng",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York. Department of Electrical Engineering, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Tian",
+                "Last Name": "Zheng",
+                "Affiliation": "Department of Statistics, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Matthew A",
+                "Last Name": "Maurer",
+                "Affiliation": "Division of Hematology/Oncology of the Department of Medicine, Columbia University, New York, New York. mm2058@columbia.edu da8@columbia.edu."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York. Department of Electrical Engineering, Columbia University, New York, New York. mm2058@columbia.edu da8@columbia.edu."
+            }
+        ],
+        "Journal": "Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24868199",
+        "Title": "A sequential Monte Carlo framework for haplotype inference in CNV/SNP genotype data.",
+        "Abstract": "Copy number variations (CNVs) are abundant in the human genome. They have been associated with complex traits in genome-wide association studies (GWAS) and expected to continue playing an important role in identifying the etiology of disease phenotypes. As a result of current high throughput whole-genome single-nucleotide polymorphism (SNP) arrays, we currently have datasets that simultaneously have integer copy numbers in CNV regions as well as SNP genotypes. At the same time, haplotypes that have been shown to offer advantages over genotypes in identifying disease traits even though available for SNP genotypes are largely not available for CNV/SNP data due to insufficient computational tools. We introduce a new framework for inferring haplotypes in CNV/SNP data using a sequential Monte Carlo sampling scheme 'Tree-Based Deterministic Sampling CNV' (TDSCNV). We compare our method with polyHap(v2.0), the only currently available software able to perform inference in CNV/SNP genotypes, on datasets of varying number of markers. We have found that both algorithms show similar accuracy but TDSCNV is an order of magnitude faster while scaling linearly with the number of markers and number of individuals and thus could be the method of choice for haplotype inference in such datasets. Our method is implemented in the TDSCNV package which is available for download at http://www.ee.columbia.edu/~anastas/tdscnv.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Alexandros",
+                "Last Name": "Iliadis",
+                "Affiliation": "Department of Electrical Engineering, Center for Computational Biology Bioinformatics and Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Electrical Engineering, Center for Computational Biology Bioinformatics and Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Xiaodong",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Electrical Engineering, Center for Computational Biology Bioinformatics and Columbia University, New York, NY 10027, USA."
+            }
+        ],
+        "Journal": "EURASIP journal on bioinformatics & systems biology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24764577",
+        "Title": "JAK2 expression is associated with tumor-infiltrating lymphocytes and improved breast cancer outcomes: implications for evaluating JAK2 inhibitors.",
+        "Abstract": "Janus kinase-2 (JAK2) supports breast cancer growth, and clinical trials testing JAK2 inhibitors are under way. In addition to the tumor epithelium, JAK2 is also expressed in other tissues including immune cells; whether the JAK2 mRNA levels in breast tumors correlate with outcomes has not been evaluated. Using a case-control design, JAK2 mRNA was measured in 223 archived breast tumors and associations with distant recurrence were evaluated by logistic regression. The frequency of correct pairwise comparisons of patient rankings based on JAK2 levels versus survival outcomes, the concordance index (CI), was evaluated using data from 2,460 patients in three cohorts. In the case-control study, increased JAK2 was associated with a decreasing risk of recurrence (multivariate P = 0.003, n = 223). Similarly, JAK2 was associated with a protective CI (<0.5) in the public cohorts: NETHERLANDS CI = 0.376, n = 295; METABRIC CI = 0.462, n = 1,981; OSLOVAL CI = 0.452, n = 184. Furthermore, JAK2 was strongly correlated with the favorable prognosis LYM metagene signature for infiltrating T cells (r = 0.5; P < 2 \u00d7 10(-16); n = 1,981) and with severe lymphocyte infiltration (P = 0.00003, n = 156). Moreover, the JAK1/2 inhibitor ruxolitinib potently inhibited the anti-CD3-dependent production of IFN-\u03b3, a marker of the differentiation of Th cells along the tumor-inhibitory Th1 pathway. The potential for JAK2 inhibitors to interfere with the antitumor capacities of T cells should be evaluated.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Breast Neoplasms",
+            "Case-Control Studies",
+            "Female",
+            "Gene Expression",
+            "Humans",
+            "Janus Kinase 2",
+            "Lymphocytes, Tumor-Infiltrating",
+            "Protein Kinase Inhibitors",
+            "RNA, Messenger",
+            "Recurrence",
+            "Treatment Outcome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chris P",
+                "Last Name": "Miller",
+                "Affiliation": "Authors' Affiliations: Center for Computational Biology and Bioinformatics, Department of Electrical Engineering, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Jason D",
+                "Last Name": "Thorpe",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Amanda N",
+                "Last Name": "Kortum",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Catherine M",
+                "Last Name": "Coy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wei-Yi",
+                "Last Name": "Cheng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tai-Hsien",
+                "Last Name": "Ou Yang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "J David",
+                "Last Name": "Beatty",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicole D",
+                "Last Name": "Urban",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "C Anthony",
+                "Last Name": "Blau",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cancer immunology research",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24071849",
+        "Title": "The Cancer Genome Atlas Pan-Cancer analysis project.",
+        "Abstract": "The Cancer Genome Atlas (TCGA) Research Network has profiled and analyzed large numbers of human tumors to discover molecular aberrations at the DNA, RNA, protein and epigenetic levels. The resulting rich data provide a major opportunity to develop an integrated picture of commonalities, differences and emergent themes across tumor lineages. The Pan-Cancer initiative compares the first 12 tumor types profiled by TCGA. Analysis of the molecular aberrations and their functional roles across tumor types will teach us how to extend therapies effective in one cancer type to others with a similar genomic profile.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Gene Expression Profiling",
+            "Genome",
+            "Humans",
+            "Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas, USA."
+            },
+            {
+                "First Name": "John N",
+                "Last Name": "Weinstein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric A",
+                "Last Name": "Collisson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gordon B",
+                "Last Name": "Mills",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kenna R Mills",
+                "Last Name": "Shaw",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brad A",
+                "Last Name": "Ozenberger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kyle",
+                "Last Name": "Ellrott",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ilya",
+                "Last Name": "Shmulevich",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Sander",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joshua M",
+                "Last Name": "Stuart",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature genetics",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "24066611",
+        "Title": "Notch and VEGF pathways play distinct but complementary roles in tumor angiogenesis.",
+        "Abstract": "Anti-angiogenesis is a validated strategy to treat cancer, with efficacy in controlling both primary tumor growth and metastasis. The role of the Notch family of proteins in tumor angiogenesis is still emerging, but recent data suggest that Notch signaling may function in the physiologic response to loss of VEGF signaling, and thus participate in tumor adaptation to VEGF inhibitors.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Sonia L",
+                "Last Name": "Hernandez",
+                "Affiliation": "Department of Pediatrics, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Debarshi",
+                "Last Name": "Banerjee",
+                "Affiliation": "Department of Pediatrics, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Alejandro",
+                "Last Name": "Garcia",
+                "Affiliation": "Department of Surgery, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Thaned",
+                "Last Name": "Kangsamaksin",
+                "Affiliation": "Department of Obstetrics and Gynecology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Wei-Yi",
+                "Last Name": "Cheng",
+                "Affiliation": "Center for Computational Biology and Bioinformatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Center for Computational Biology and Bioinformatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Yasuhiro",
+                "Last Name": "Funahashi",
+                "Affiliation": "Department of Obstetrics and Gynecology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Angela",
+                "Last Name": "Kadenhe-Chiweshe",
+                "Affiliation": "Department of Surgery, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Carrie J",
+                "Last Name": "Shawber",
+                "Affiliation": "Department of Obstetrics and Gynecology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jan K",
+                "Last Name": "Kitajewski",
+                "Affiliation": "Department of Obstetrics and Gynecology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jessica J",
+                "Last Name": "Kandel",
+                "Affiliation": "Department of Surgery, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Darrell J",
+                "Last Name": "Yamashiro",
+                "Affiliation": "Department of Pediatrics, Columbia University Medical Center, New York, NY, USA."
+            }
+        ],
+        "Journal": "Vascular cell",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "24010487",
+        "Title": "Maximum-parsimony haplotype frequencies inference based on a joint constrained sparse representation of pooled DNA.",
+        "Abstract": "DNA pooling constitutes a cost effective alternative in genome wide association studies. In DNA pooling, equimolar amounts of DNA from different individuals are mixed into one sample and the frequency of each allele in each position is observed in a single genotype experiment. The identification of haplotype frequencies from pooled data in addition to single locus analysis is of separate interest within these studies as haplotypes could increase statistical power and provide additional insight.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "DNA",
+            "Databases, Genetic",
+            "Gene Frequency",
+            "Genomics",
+            "HapMap Project",
+            "Haplotypes",
+            "Humans",
+            "Polymorphism, Single Nucleotide"
+        ],
+        "Authors": [
+            {
+                "First Name": "Guido H",
+                "Last Name": "Jajamovich",
+                "Affiliation": "Electrical Engineering Department, Columbia University, New York NY 10027, USA. wangx@ee.columbia.edu."
+            },
+            {
+                "First Name": "Alexandros",
+                "Last Name": "Iliadis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiaodong",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC bioinformatics",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23596202",
+        "Title": "Development of a prognostic model for breast cancer survival in an open challenge environment.",
+        "Abstract": "The accuracy with which cancer phenotypes can be predicted by selecting and combining molecular features is compromised by the large number of potential features available. In an effort to design a robust prognostic model to predict breast cancer survival, we hypothesized that signatures consisting of genes that are coexpressed in multiple cancer types should correspond to molecular events that are prognostic in all cancers, including breast cancer. We previously identified several such signatures--called attractor metagenes--in an analysis of multiple tumor types. We then tested our attractor metagene hypothesis as participants in the Sage Bionetworks-DREAM Breast Cancer Prognosis Challenge. Using a rich training data set that included gene expression and clinical features for breast cancer patients, we developed a prognostic model that was independently validated in a newly generated patient data set. We describe our model, which was based on three attractor metagenes associated with mitotic chromosomal instability, mesenchymal transition, or lymphocyte-based immune recruitment.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Breast Neoplasms",
+            "Chromosomal Instability",
+            "Databases, Genetic",
+            "Epithelial-Mesenchymal Transition",
+            "Female",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Neoplastic",
+            "Genes, Neoplasm",
+            "Humans",
+            "Lymphocytes",
+            "Mitosis",
+            "Models, Biological",
+            "Prognosis",
+            "Survival Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wei-Yi",
+                "Last Name": "Cheng",
+                "Affiliation": "Center for Computational Biology and Bioinformatics and Department of Electrical Engineering, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Tai-Hsien",
+                "Last Name": "Ou Yang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Science translational medicine",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23468608",
+        "Title": "Biomolecular events in cancer revealed by attractor metagenes.",
+        "Abstract": "Mining gene expression profiles has proven valuable for identifying signatures serving as surrogates of cancer phenotypes. However, the similarities of such signatures across different cancer types have not been strong enough to conclude that they represent a universal biological mechanism shared among multiple cancer types. Here we present a computational method for generating signatures using an iterative process that converges to one of several precise attractors defining signatures representing biomolecular events, such as cell transdifferentiation or the presence of an amplicon. By analyzing rich gene expression datasets from different cancer types, we identified several such biomolecular events, some of which are universally present in all tested cancer types in nearly identical form. Although the method is unsupervised, we show that it often leads to attractors with strong phenotypic associations. We present several such multi-cancer attractors, focusing on three that are prominent and sharply defined in all cases: a mesenchymal transition attractor strongly associated with tumor stage, a mitotic chromosomal instability attractor strongly associated with tumor grade, and a lymphocyte-specific attractor.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Computational Biology",
+            "Data Mining",
+            "Databases, Genetic",
+            "Epithelial-Mesenchymal Transition",
+            "Gene Expression Profiling",
+            "Genome",
+            "Humans",
+            "Kaplan-Meier Estimate",
+            "Kinetochores",
+            "Mitosis",
+            "Models, Biological",
+            "Neoplasms",
+            "Oncogenes",
+            "Phenotype",
+            "Prognosis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wei-Yi",
+                "Last Name": "Cheng",
+                "Affiliation": "Center for Computational Biology and Bioinformatics and Department of Electrical Engineering, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Tai-Hsien",
+                "Last Name": "Ou Yang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23110720",
+        "Title": "Fast and accurate haplotype frequency estimation for large haplotype vectors from pooled DNA data.",
+        "Abstract": "Typically, the first phase of a genome wide association study (GWAS) includes genotyping across hundreds of individuals and validation of the most significant SNPs. Allelotyping of pooled genomic DNA is a common approach to reduce the overall cost of the study. Knowledge of haplotype structure can provide additional information to single locus analyses. Several methods have been proposed for estimating haplotype frequencies in a population from pooled DNA data.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "DNA",
+            "Databases, Genetic",
+            "Gene Frequency",
+            "Gene Pool",
+            "Genetic Markers",
+            "Genome-Wide Association Study",
+            "Haplotypes",
+            "Humans",
+            "Models, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alexandros",
+                "Last Name": "Iliadis",
+                "Affiliation": "Center for Computational Biology and Bioinformatics and Department of Electrical Engineering, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiaodong",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC genetics",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22607042",
+        "Title": "A unified framework for haplotype inference in nuclear families.",
+        "Abstract": "Many large genome-wide association studies include nuclear families with more than one child (trio families), allowing for analysis of differences between siblings (sib pair analysis). Statistical power can be increased when haplotypes are used instead of genotypes. Currently, haplotype inference in families with more than one child can be performed either using the familial information or statistical information derived from the population samples but not both. Building on our recently proposed tree-based deterministic framework (TDS) for trio families, we augment its applicability to general nuclear families. We impose a minimum recombinant approach locally and independently on each multiple children family, while resorting to the population-derived information to solve the remaining ambiguities. Thus our framework incorporates all available information (familial and population) in a given study. We demonstrate that using all the constraints in our approach we can have gains in the accuracy as opposed to breaking the multiple children families to separate trios and resorting to a trio inference algorithm or phasing each family in isolation. We believe that our proposed framework could be the method of choice for haplotype inference in studies that include nuclear families with multiple children. Our software (tds2.0) is downloadable from www.ee.columbia.edu/\u223canastas/tds.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Haplotypes",
+            "Humans",
+            "Models, Genetic",
+            "Monte Carlo Method",
+            "Nuclear Family",
+            "Pedigree",
+            "Siblings"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alexandros",
+                "Last Name": "Iliadis",
+                "Affiliation": "Department of Electrical Engineering, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiaodong",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annals of human genetics",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22570537",
+        "Title": "Integrated Analysis Reveals hsa-miR-142 as a Representative of a Lymphocyte-Specific Gene Expression and Methylation Signature.",
+        "Abstract": "Gene expression profiling has provided insights into different cancer types and revealed tissue-specific expression signatures. Alterations in microRNA expression contribute to the pathogenesis of many types of human diseases. Few studies have integrated all levels of gene expression, miRNA and methylation to uncover correlations between these data types. We performed an integrated profiling to discover instances of miRNAs associated with a gene expression and DNA methylation signature across multiple cancer types. Using data from The Cancer Genome Atlas (TCGA), we revealed a concordant gene expression and methylation signature associated with the microRNA hsa-miR-142 across the same samples. In all cancer types examined, we found a signature of co-expression of a gene set R and methylated sites M, which correlate positively (M+) or negatively (M-) with the expression of hsa-miR-142. The set R consistently contains many genes, such as TRAF3IP3, NCKAP1L, CD53, LAPTM5, PTPRC, EVI2B, DOCK2, LCP2, CYBB and FYB. The signature is preserved across glioblastoma, ovarian, breast, colon, kidney, lung, uterine and rectum cancer. There is 28% overlap of methylation sites in M between glioblastoma (GBM) and ovarian cancer. There is 60% overlap of genes in R between GBM and ovarian (P = 1.3e(-11)). Most of the genes in R are known to be expressed in lymphocytes and haematopoietic stem cells, while M reflects membrane proteins involved in cell-cell adhesion functions. We speculate that the hsa-miR-142 associated signature may signal haematopoietic-specific processes and an accumulation of methylation events triggering a progressive loss of cell-cell adhesion. We also observed that GBM samples belonging to the proneural subtype tend to have underexpressed hsa-miR-142 and R genes, hypomethylated M+ and hypermethylated M-, while the mesenchymal samples have the opposite profile.",
+        "Keywords": [
+            "cancer",
+            "correlation",
+            "gene expression",
+            "integrated analysis",
+            "methylation",
+            "microRNA"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Bill",
+                "Last Name": "Andreopoulos",
+                "Affiliation": "Center for Computational Biology and Bioinformatics, Department of Electrical Engineering, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cancer informatics",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22493711",
+        "Title": "A multi-cancer mesenchymal transition gene expression signature is associated with prolonged time to recurrence in glioblastoma.",
+        "Abstract": "A stage-associated gene expression signature of coordinately expressed genes, including the transcription factor Slug (SNAI2) and other epithelial-mesenchymal transition (EMT) markers has been found present in samples from publicly available gene expression datasets in multiple cancer types, including nonepithelial cancers. The expression levels of the co-expressed genes vary in a continuous and coordinate manner across the samples, ranging from absence of expression to strong co-expression of all genes. These data suggest that tumor cells may pass through an EMT-like process of mesenchymal transition to varying degrees. Here we show that, in glioblastoma multiforme (GBM), this signature is associated with time to recurrence following initial treatment. By analyzing data from The Cancer Genome Atlas (TCGA), we found that GBM patients who responded to therapy and had long time to recurrence had low levels of the signature in their tumor samples (P\u200a=\u200a3\u00d710(-7)). We also found that the signature is strongly correlated in gliomas with the putative stem cell marker CD44, and is highly enriched among the differentially expressed genes in glioblastomas vs. lower grade gliomas. Our results suggest that long delay before tumor recurrence is associated with absence of the mesenchymal transition signature, raising the possibility that inhibiting this transition might improve the durability of therapy in glioma patients.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biomarkers, Tumor",
+            "Brain Neoplasms",
+            "Cell Line, Tumor",
+            "Cell Transformation, Neoplastic",
+            "Databases, Genetic",
+            "Epithelial-Mesenchymal Transition",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Neoplastic",
+            "Genes, Regulator",
+            "Glioblastoma",
+            "Humans",
+            "Hyaluronan Receptors",
+            "Recurrence",
+            "Snail Family Transcription Factors",
+            "Survival Analysis",
+            "Time Factors",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wei-Yi",
+                "Last Name": "Cheng",
+                "Affiliation": "Center for Computational Biology and Bioinformatics, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Jessica J",
+                "Last Name": "Kandel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Darrell J",
+                "Last Name": "Yamashiro",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Canoll",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22208948",
+        "Title": "Human cancer cells express Slug-based epithelial-mesenchymal transition gene expression signature obtained in vivo.",
+        "Abstract": "The biological mechanisms underlying cancer cell motility and invasiveness remain unclear, although it has been hypothesized that they involve some type of epithelial-mesenchymal transition (EMT).",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Line, Tumor",
+            "Collagen Type XI",
+            "Epithelial-Mesenchymal Transition",
+            "Gene Expression Profiling",
+            "Humans",
+            "Mice",
+            "Microarray Analysis",
+            "Neoplasm Invasiveness",
+            "Neoplasms",
+            "Reverse Transcriptase Polymerase Chain Reaction",
+            "Snail Family Transcription Factors",
+            "Species Specificity",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Center for Computational Biology and Bioinformatics, Columbia University, New York, NY, USA. da8@columbia.edu"
+            },
+            {
+                "First Name": "Viktoria",
+                "Last Name": "Rumjantseva",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Weiyi",
+                "Last Name": "Cheng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jianzhong",
+                "Last Name": "Huang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Canoll",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Darrell J",
+                "Last Name": "Yamashiro",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jessica J",
+                "Last Name": "Kandel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC cancer",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "22200769",
+        "Title": "Rare and functional SIAE variants are not associated with autoimmune disease risk in up to 66,924 individuals of European ancestry.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Acetylesterase",
+            "Autoimmune Diseases",
+            "Gene Frequency",
+            "Genetic Association Studies",
+            "Genetic Predisposition to Disease",
+            "Genetic Variation",
+            "Humans",
+            "Risk Factors",
+            "White People"
+        ],
+        "Authors": [
+            {
+                "First Name": "Karen A",
+                "Last Name": "Hunt",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Deborah J",
+                "Last Name": "Smyth",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tobias",
+                "Last Name": "Balschun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maria",
+                "Last Name": "Ban",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vanisha",
+                "Last Name": "Mistry",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tariq",
+                "Last Name": "Ahmad",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vidya",
+                "Last Name": "Anand",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jeffrey C",
+                "Last Name": "Barrett",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Leena",
+                "Last Name": "Bhaw-Rosun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicholas A",
+                "Last Name": "Bockett",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Oliver J",
+                "Last Name": "Brand",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Elisabeth",
+                "Last Name": "Brouwer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Concannon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jason D",
+                "Last Name": "Cooper",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kerith-Rae M",
+                "Last Name": "Dias",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cleo C",
+                "Last Name": "van Diemen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Patrick C",
+                "Last Name": "Dubois",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Edkins",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Regina",
+                "Last Name": "F\u00f6lster-Holst",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Karin",
+                "Last Name": "Fransen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David N",
+                "Last Name": "Glass",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Graham A R",
+                "Last Name": "Heap",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sylvia",
+                "Last Name": "Hofmann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tom W J",
+                "Last Name": "Huizinga",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Hunt",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cordelia",
+                "Last Name": "Langford",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Lee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Mansfield",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maria Giovanna",
+                "Last Name": "Marrosu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher G",
+                "Last Name": "Mathew",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Charles A",
+                "Last Name": "Mein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joachim",
+                "Last Name": "M\u00fcller-Quernheim",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Nutland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Suna",
+                "Last Name": "Onengut-Gumuscu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Willem",
+                "Last Name": "Ouwehand",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kerra",
+                "Last Name": "Pearce",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Natalie J",
+                "Last Name": "Prescott",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marcel D",
+                "Last Name": "Posthumus",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Simon",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Giulio",
+                "Last Name": "Rosati",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Sambrook",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jack",
+                "Last Name": "Satsangi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stefan",
+                "Last Name": "Schreiber",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Corina",
+                "Last Name": "Shtir",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew J",
+                "Last Name": "Simmonds",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marc",
+                "Last Name": "Sudman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Susan D",
+                "Last Name": "Thompson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rene",
+                "Last Name": "Toes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gosia",
+                "Last Name": "Trynka",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Vyse",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Neil M",
+                "Last Name": "Walker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephan",
+                "Last Name": "Weidinger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alexandra",
+                "Last Name": "Zhernakova",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Magdalena",
+                "Last Name": "Zoledziewska",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rinse K",
+                "Last Name": "Weersma",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen C L",
+                "Last Name": "Gough",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen",
+                "Last Name": "Sawcer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cisca",
+                "Last Name": "Wijmenga",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Miles",
+                "Last Name": "Parkes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Francesco",
+                "Last Name": "Cucca",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andre",
+                "Last Name": "Franke",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Panos",
+                "Last Name": "Deloukas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen S",
+                "Last Name": "Rich",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John A",
+                "Last Name": "Todd",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "van Heel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature genetics",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21457009",
+        "Title": "Biomarker discovery using statistically significant gene sets.",
+        "Abstract": "Analysis of large gene expression data sets in the presence and absence of a phenotype can lead to the selection of a group of genes serving as biomarkers jointly predicting the phenotype. Among gene selection methods, filter methods derived from ranked individual genes have been widely used in existing products for diagnosis and prognosis. Univariate filter approaches selecting genes individually, although computationally efficient, often ignore gene interactions inherent in the biological data. On the other hand, multivariate approaches selecting gene subsets are known to have a higher risk of selecting spurious gene subsets due to the overfitting of the vast number of gene subsets evaluated. Here we propose a framework of statistical significance tests for multivariate feature selection that can reduce the risk of selecting spurious gene subsets. Using three existing data sets, we show that our proposed approach is an essential step to identify such a gene set that is generated by a significant interaction of its members, even improving classification performance when compared to established approaches. This technique can be applied for the discovery of robust biomarkers for medical diagnosis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Biomarkers, Tumor",
+            "Computational Biology",
+            "Computer Simulation",
+            "Data Interpretation, Statistical",
+            "Databases, Genetic",
+            "Gene Expression",
+            "Humans",
+            "Models, Statistical",
+            "Multivariate Analysis",
+            "Oligonucleotide Array Sequence Analysis",
+            "Phenotype"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hoon",
+                "Last Name": "Kim",
+                "Affiliation": "Center for Computational Biology and Bioinformatics, Department of Electrical Engineering, Columbia University, New York,New York 10027, USA."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Watkinson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of computational biology : a journal of computational molecular cell biology",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21076979",
+        "Title": "Conditional meta-analysis stratifying on detailed HLA genotypes identifies a novel type 1 diabetes locus around TCF19 in the MHC.",
+        "Abstract": "The human leukocyte antigen (HLA) class II genes HLA-DRB1, -DQA1 and -DQB1 are the strongest genetic factors for type 1 diabetes (T1D). Additional loci in the major histocompatibility complex (MHC) are difficult to identify due to the region's high gene density and complex linkage disequilibrium (LD). To facilitate the association analysis, two novel algorithms were implemented in this study: one for phasing the multi-allelic HLA genotypes in trio families, and one for partitioning the HLA strata in conditional testing. Screening and replication were performed on two large and independent datasets: the Wellcome Trust Case-Control Consortium (WTCCC) dataset of 2,000 cases and 1,504 controls, and the T1D Genetics Consortium (T1DGC) dataset of 2,300 nuclear families. After imputation, the two datasets have 1,941 common SNPs in the MHC, of which 22 were successfully tested and replicated based on the statistical testing stratifying on the detailed DRB1 and DQB1 genotypes. Further conditional tests using the combined dataset confirmed eight novel SNP associations around 31.3 Mb on chromosome 6 (rs3094663, p = 1.66 \u00d7 10(-11) and rs2523619, p = 2.77 \u00d7 10(-10) conditional on the DR/DQ genotypes). A subsequent LD analysis established TCF19, POU5F1, CCHCR1 and PSORS1C1 as potential causal genes for the observed association.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Case-Control Studies",
+            "Diabetes Mellitus, Type 1",
+            "Female",
+            "Humans",
+            "Intracellular Signaling Peptides and Proteins",
+            "Male",
+            "Octamer Transcription Factor-3",
+            "Polymorphism, Single Nucleotide",
+            "Proteins",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yee Him",
+                "Last Name": "Cheung",
+                "Affiliation": "Department of Electrical Engineering, Center for Computational Biology and Bioinformatics, Columbia University, 1300 S.W. Mudd, 500 West 120th Street, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Watkinson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Human genetics",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21047417",
+        "Title": "Multi-cancer computational analysis reveals invasion-associated variant of desmoplastic reaction involving INHBA, THBS2 and COL11A1.",
+        "Abstract": "Despite extensive research, the details of the biological mechanisms by which cancer cells acquire motility and invasiveness are largely unknown. This study identifies an invasion associated gene signature shedding light on these mechanisms.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Collagen Type XI",
+            "Computational Biology",
+            "Fibroblasts",
+            "Humans",
+            "Inhibin-beta Subunits",
+            "Methylation",
+            "MicroRNAs",
+            "Neoplasm Invasiveness",
+            "Neoplasm Metastasis",
+            "Neoplasm Staging",
+            "Neoplasms",
+            "Thrombospondins",
+            "Treatment Outcome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hoon",
+                "Last Name": "Kim",
+                "Affiliation": "Center for Computational Biology and Bioinformatics and Department of Electrical Engineering, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Watkinson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vinay",
+                "Last Name": "Varadan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC medical genomics",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20727218",
+        "Title": "A haplotype inference algorithm for trios based on deterministic sampling.",
+        "Abstract": "In genome-wide association studies, thousands of individuals are genotyped in hundreds of thousands of single nucleotide polymorphisms (SNPs). Statistical power can be increased when haplotypes, rather than three-valued genotypes, are used in analysis, so the problem of haplotype phase inference (phasing) is particularly relevant. Several phasing algorithms have been developed for data from unrelated individuals, based on different models, some of which have been extended to father-mother-child \"trio\" data.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Genome-Wide Association Study",
+            "Haplotypes",
+            "Humans",
+            "Models, Genetic",
+            "Polymorphism, Single Nucleotide"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alexandros",
+                "Last Name": "Iliadis",
+                "Affiliation": "Department of Electrical Engineering, Center for Computational Biology and Bioinformatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Watkinson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiaodong",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC genetics",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20603248",
+        "Title": "Designing and implementing sample and data collection for an international genetics study: the Type 1 Diabetes Genetics Consortium (T1DGC).",
+        "Abstract": "The Type 1 Diabetes Genetics Consortium (T1DGC) is an international project whose primary aims are to: (a) discover genes that modify type 1 diabetes risk; and (b) expand upon the existing genetic resources for type 1 diabetes research. The initial goal was to collect 2500 affected sibling pair (ASP) families worldwide.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Child",
+            "Data Collection",
+            "Diabetes Mellitus, Type 1",
+            "Female",
+            "Genotype",
+            "Government Regulation",
+            "Humans",
+            "Internationality",
+            "Male",
+            "Program Development",
+            "Quality Control",
+            "Research Design",
+            "Risk Factors",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joan E",
+                "Last Name": "Hilner",
+                "Affiliation": "Department of Biostatistics, School of Public Health, University of Alabama at Birmingham, Birmingham, AL 35294-0022, USA. jhilner@ms.soph.uab.edu"
+            },
+            {
+                "First Name": "Letitia H",
+                "Last Name": "Perdue",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Elizabeth G",
+                "Last Name": "Sides",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "June J",
+                "Last Name": "Pierce",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ana M",
+                "Last Name": "W\u00e4gner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alan",
+                "Last Name": "Aldrich",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Amanda",
+                "Last Name": "Loth",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lotte",
+                "Last Name": "Albret",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lynne E",
+                "Last Name": "Wagenknecht",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Concepcion",
+                "Last Name": "Nierras",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Beena",
+                "Last Name": "Akolkar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Clinical trials (London, England)",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19348651",
+        "Title": "Inference of regulatory gene interactions from expression data using three-way mutual information.",
+        "Abstract": "This paper describes the technique designated best performer in the 2nd conference on Dialogue for Reverse Engineering Assessments and Methods (DREAM2) Challenge 5 (unsigned genome-scale network prediction from blinded microarray data). Existing algorithms use the pairwise correlations of the expression levels of genes, which provide valuable but insufficient information for the inference of regulatory interactions. Here we present a computational approach based on the recently developed context likelihood of related (CLR) algorithm, extracting additional complementary information using the information theoretic measure of synergy and assigning a score to each ordered pair of genes measuring the degree of confidence that the first gene regulates the second. When tested on a set of publicly available Escherichia coli gene-expression data with known assumed ground truth, the synergy augmented CLR (SA-CLR) algorithm had significantly improved prediction performance when compared to CLR. There is also enhanced potential for biological discovery as a result of the identification of the most likely synergistic partner genes involved in the interactions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Escherichia coli",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation",
+            "Gene Regulatory Networks",
+            "Models, Genetic",
+            "Oligonucleotide Array Sequence Analysis",
+            "Reproducibility of Results"
+        ],
+        "Authors": [
+            {
+                "First Name": "John",
+                "Last Name": "Watkinson",
+                "Affiliation": "Department of Electrical Engineering."
+            },
+            {
+                "First Name": "Kuo-Ching",
+                "Last Name": "Liang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiadong",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tian",
+                "Last Name": "Zheng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annals of the New York Academy of Sciences",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19297347",
+        "Title": "Synergy Disequilibrium Plots: graphical visualization of pairwise synergies and redundancies of SNPs with respect to a phenotype.",
+        "Abstract": "We present a visualization tool applied on genome-wide association data, revealing disease-associated haplotypes, epistatically interacting loci, as well as providing visual signatures of multivariate correlations of genetic markers with respect to a phenotype.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Computational Biology",
+            "Computer Graphics",
+            "Genome-Wide Association Study",
+            "Haplotypes",
+            "Phenotype",
+            "Polymorphism, Single Nucleotide",
+            "Software",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "John",
+                "Last Name": "Watkinson",
+                "Affiliation": "Center for Computational Biology and Bioinformatics, Department of Electrical Engineering, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18234101",
+        "Title": "Identification of gene interactions associated with disease from gene expression data using synergy networks.",
+        "Abstract": "Analysis of microarray data has been used for the inference of gene-gene interactions. If, however, the aim is the discovery of disease-related biological mechanisms, then the criterion for defining such interactions must be specifically linked to disease.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cluster Analysis",
+            "Computational Biology",
+            "Gene Expression Profiling",
+            "Gene Regulatory Networks",
+            "Genetic Predisposition to Disease",
+            "Humans",
+            "Male",
+            "Models, Genetic",
+            "Oligonucleotide Array Sequence Analysis",
+            "Prostatic Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "John",
+                "Last Name": "Watkinson",
+                "Affiliation": "Center for Computational Biology and Bioinformatics and Department of Electrical Engineering, Columbia University, 500 West 120th Street, New York, NY 10027, USA. jw2322@columbia.edu"
+            },
+            {
+                "First Name": "Xiaodong",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tian",
+                "Last Name": "Zheng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC systems biology",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18024972",
+        "Title": "A profile-based deterministic sequential Monte Carlo algorithm for motif discovery.",
+        "Abstract": "Conserved motifs often represent biological significance, providing insight on biological aspects such as gene transcription regulation, biomolecular secondary structure, presence of non-coding RNAs and evolution history. With the increasing number of sequenced genomic data, faster and more accurate tools are needed to automate the process of motif discovery.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Base Sequence",
+            "Computer Simulation",
+            "DNA",
+            "Models, Genetic",
+            "Models, Statistical",
+            "Molecular Sequence Data",
+            "Monte Carlo Method",
+            "Pattern Recognition, Automated",
+            "Sequence Alignment",
+            "Sequence Analysis, DNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kuo-Ching",
+                "Last Name": "Liang",
+                "Affiliation": "Columbia University, Department of Electrical Engineering, New York, NY 10025, USA."
+            },
+            {
+                "First Name": "Xiaodong",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17666762",
+        "Title": "Bayesian basecalling for DNA sequence analysis using hidden Markov models.",
+        "Abstract": "It has been shown that electropherograms of DNA sequences can be modeled with hidden Markov models. Basecalling, the procedure that determines the sequence of bases from the given eletropherogram, can then be performed using the Viterbi algorithm. A training step is required prior to basecalling in order to estimate the HMM parameters. In this paper, we propose a Bayesian approach which employs the Markov chain Monte Carlo (MCMC) method to perform basecalling. Such an approach not only allows one to naturally encode the prior biological knowledge into the basecalling algorithm, it also exploits both the training data and the basecalling data in estimating the HMM parameters, leading to more accurate estimates. Using the recently sequenced genome of the organism Legionella pneumophila we show that the MCMC basecaller outperforms the state-of-the-art basecalling algorithm in terms of total errors while requiring much less training than other proposed statistical basecallers.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Artificial Intelligence",
+            "Base Pairing",
+            "Base Sequence",
+            "Bayes Theorem",
+            "DNA",
+            "Electrophoresis",
+            "Markov Chains",
+            "Molecular Sequence Data",
+            "Pattern Recognition, Automated",
+            "Sequence Analysis, DNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kuo-Ching",
+                "Last Name": "Liang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiaodong",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "IEEE/ACM transactions on computational biology and bioinformatics",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17299419",
+        "Title": "Computational analysis of the synergy among multiple interacting genes.",
+        "Abstract": "Diseases such as cancer are often related to collaborative effects involving interactions of multiple genes within complex pathways, or to combinations of multiple SNPs. To understand the structure of such mechanisms, it is helpful to analyze genes in terms of the purely cooperative, as opposed to independent, nature of their contributions towards a phenotype. Here, we present an information-theoretic analysis that provides a quantitative measure of the multivariate synergy and decomposes sets of genes into submodules each of which contains synergistically interacting genes. When the resulting computational tools are used for the analysis of gene expression or SNP data, this systems-based methodology provides insight into the biological mechanisms responsible for disease.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Computational Biology",
+            "Gene Expression Profiling",
+            "Gene Regulatory Networks",
+            "Genetic Predisposition to Disease",
+            "Humans",
+            "Polymorphism, Single Nucleotide"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Department of Electrical Engineering, Center for Computational Biology and Bioinformatics, Columbia University, New York, NY 10027, USA. anastas@ee.columbia.edu"
+            }
+        ],
+        "Journal": "Molecular systems biology",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "16873513",
+        "Title": "Computational inference of the molecular logic for synaptic connectivity in C. elegans.",
+        "Abstract": "The nematode C. elegans is an ideal model organism in which to investigate the biomolecular mechanisms underlying the connectivity of neurons, because synaptic connections are described in a comprehensive wiring diagram and methods for defining gene expression profiles of individual neurons are now available.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "Caenorhabditis elegans",
+            "Caenorhabditis elegans Proteins",
+            "Computer Simulation",
+            "Gene Expression Profiling",
+            "Logistic Models",
+            "Models, Neurological",
+            "Nerve Net",
+            "Nerve Tissue Proteins",
+            "Neural Pathways",
+            "Synapses",
+            "Synaptic Transmission"
+        ],
+        "Authors": [
+            {
+                "First Name": "Vinay",
+                "Last Name": "Varadan",
+                "Affiliation": "Center for Computational Biology and Bioinformatics (C2B2), and Department of Electrical Engineering, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "David M",
+                "Last Name": "Miller",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16789819",
+        "Title": "Inference of disease-related molecular logic from systems-based microarray analysis.",
+        "Abstract": "Computational analysis of gene expression data from microarrays has been useful for medical diagnosis and prognosis. The ability to analyze such data at the level of biological modules, rather than individual genes, has been recognized as important for improving our understanding of disease-related pathways. It has proved difficult, however, to infer pathways from microarray data by deriving modules of multiple synergistically interrelated genes, rather than individual genes. Here we propose a systems-based approach called Entropy Minimization and Boolean Parsimony (EMBP) that identifies, directly from gene expression data, modules of genes that are jointly associated with disease. Furthermore, the technique provides insight into the underlying biomolecular logic by inferring a logic function connecting the joint expression levels in a gene module with the outcome of disease. Coupled with biological knowledge, this information can be useful for identifying disease-related pathways, suggesting potential therapeutic approaches for interfering with the functions of such pathways. We present an example providing such gene modules associated with prostate cancer from publicly available gene expression data, and we successfully validate the results on additional independently derived data. Our results indicate a link between prostate cancer and cellular damage from oxidative stress combined with inhibition of apoptotic mechanisms normally triggered by such damage.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Biomarkers, Tumor",
+            "Computer Simulation",
+            "Diagnosis, Computer-Assisted",
+            "Gene Expression Profiling",
+            "Humans",
+            "Logistic Models",
+            "Male",
+            "Models, Biological",
+            "Neoplasm Proteins",
+            "Oligonucleotide Array Sequence Analysis",
+            "Prostatic Neoplasms",
+            "Systems Theory"
+        ],
+        "Authors": [
+            {
+                "First Name": "Vinay",
+                "Last Name": "Varadan",
+                "Affiliation": "Department of Electrical Engineering and Center for Computational Biology and Bioinformatics (C2B2), Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16507134",
+        "Title": "Variable window binding for mutually exclusive alternative splicing.",
+        "Abstract": "Genes of advanced organisms undergo alternative splicing, which can be mutually exclusive, in the sense that only one exon is included in the mature mRNA out of a cluster of alternative choices, often arranged in a tandem array. In many cases, however, the details of the underlying biologic mechanisms are unknown.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Alternative Splicing",
+            "Animals",
+            "Base Sequence",
+            "Binding Sites",
+            "Cell Adhesion Molecules",
+            "Conserved Sequence",
+            "Drosophila",
+            "Drosophila Proteins",
+            "Exons",
+            "Introns",
+            "Molecular Sequence Data",
+            "Sequence Analysis, DNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": "Center for Computational Biology and Bioinformatics, and Department of Electrical Engineering, Columbia University, New York, NY 07670, USA. anastas@ee.columbia.edu"
+            },
+            {
+                "First Name": "Hairuo",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vinay",
+                "Last Name": "Varadan",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genome biology",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "15971229",
+        "Title": "Phenotype analysis using network motifs derived from changes in regulatory network dynamics.",
+        "Abstract": "The intrinsic dynamic response of a transcriptional regulatory network depends directly on molecular interactions in the cellular transcription, translation, and degradation machineries. These interactions can be incorporated into dynamic mathematical models of the biochemical system using the biophysical relationship with the model parameters. Modifications of such interactions bring changes to the biological behavior of the cells, and therefore, many normal and pathological cellular states depend on them. It is important for analysis, prediction, diagnosis, and treatment of cellular function to have an experimentally derived model with parameters that adequately represent the molecular interactions of interest. Finding the model and parameters of a transcriptional regulatory network is a difficult task that has been approached at different levels and with different techniques. We develop here a new analysis method (based on previous work on network inference, modeling, and parameter identification) that finds the most changed parameters from yeast oligonucleotide microarray expression patterns in cases where a phenotype difference exists between two samples. We then relate and examine the changed parameters with their associated genes, corresponding genetic functional categories, and particular subnetworks and connectivities. The biophysical bases for these changes are also identified by studying the relationship of the changed parameters with the transcription, translation, and degradation mechanisms. The method is improved to cases where there are two or more transcription factors influencing transcription, and a statistical analysis is performed to give a measurement of the uniqueness and robustness of the parameter fit.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Amino Acid Motifs",
+            "Animals",
+            "Biophysics",
+            "Computational Biology",
+            "DNA-Directed RNA Polymerases",
+            "Fungal Proteins",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation",
+            "Genome",
+            "Green Fluorescent Proteins",
+            "Kinetics",
+            "Models, Biological",
+            "Models, Genetic",
+            "Models, Statistical",
+            "Phenotype",
+            "Protein Binding",
+            "Protein Biosynthesis",
+            "Proteomics",
+            "Saccharomyces cerevisiae",
+            "Time Factors",
+            "Transcription Factors",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "German",
+                "Last Name": "Cavelier",
+                "Affiliation": "Genomic Information Systems Laboratory, Department of Electrical Engineering, Columbia University, New York, New York 10027, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proteins",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15048826",
+        "Title": "Data-based model and parameter evaluation in dynamic transcriptional regulatory networks.",
+        "Abstract": "Finding the causality and strength of connectivity in transcriptional regulatory networks from time-series data will provide a powerful tool for the analysis of cellular states. Presented here is the design of tools for the evaluation of the network's model structure and parameters. The most effective tools are found to be based on evolution strategies. We evaluate models of increasing complexity, from lumped, algebraic phenomenological models to Hill functions and thermodynamically derived functions. These last functions provide the free energies of binding of transcription factors to their operators, as well as cooperativity energies. Optimization results based on published experimental data from a synthetic network in Escherichia coli are presented. The free energies of binding and cooperativity found by our tools are in the same physiological ranges as those experimentally derived in the bacteriophage lambda system. We also use time-series data from high-density oligonucleotide microarrays of yeast meiotic expression patterns. The algorithm appropriately finds the parameters of pairs of regulated regulatory yeast genes, showing that for related genes an overall reasonable computation effort is sufficient to find the strength and causality of the connectivity of large numbers of them.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Bacteriophage lambda",
+            "Biological Evolution",
+            "Computer Simulation",
+            "Escherichia coli",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation",
+            "Meiosis",
+            "Models, Genetic",
+            "Mutation",
+            "RNA, Messenger",
+            "Saccharomyces cerevisiae",
+            "Selection, Genetic",
+            "Thermodynamics",
+            "Transcription Factors",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "German",
+                "Last Name": "Cavelier",
+                "Affiliation": "Genomic Information Systems Laboratory, Department of Electrical Engineering, Columbia University, New York, New York 10027, USA."
+            },
+            {
+                "First Name": "Dimitris",
+                "Last Name": "Anastassiou",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proteins",
+        "PubDate": "2004"
+    }
+]

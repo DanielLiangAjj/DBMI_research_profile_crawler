@@ -2,49 +2,49 @@
     {
         "PMID": "39060028",
         "Title": "Reference-informed prediction of alternative splicing and splicing-altering mutations from sequences.",
-        "Abstract": "Alternative splicing plays a crucial role in protein diversity and gene expression regulation in higher eukaryotes and mutations causing dysregulated splicing underlie a range of genetic diseases. Computational prediction of alternative splicing from genomic sequences not only provides insight into gene-regulatory mechanisms but also helps identify disease-causing mutations and drug targets. However, the current methods for the quantitative prediction of splice site usage still have limited accuracy. Here, we present DeltaSplice, a deep neural network model optimized to learn the impact of mutations on quantitative changes in alternative splicing from the comparative analysis of homologous genes. The model architecture enables DeltaSplice to perform \"reference-informed prediction\" by incorporating the known splice site usage of a reference gene sequence to improve its prediction on splicing-altering mutations. We benchmarked DeltaSplice and several other state-of-the-art methods on various prediction tasks, including evolutionary sequence divergence on lineage-specific splicing and splicing-altering mutations in human populations and neurodevelopmental disorders, and demonstrated that DeltaSplice outperformed consistently. DeltaSplice predicted ~15% of splicing quantitative trait loci (sQTLs) in the human brain as causal splicing-altering variants. It also predicted splicing-altering de novo mutations outside the splice sites in a subset of patients affected by autism and other neurodevelopmental disorders (NDD), including 19 genes with recurrent splicing-altering mutations. Integration of splicing-altering mutations with other types of denovo mutation burdens allowed prediction of eight novel NDD-risk genes. Our work expanded the capacity of in silico splicing models with potential applications in genetic diagnosis and the development of splicing-based precision medicine.",
+        "Abstract": "Alternative splicing plays a crucial role in protein diversity and gene expression regulation in higher eukaryotes, and mutations causing dysregulated splicing underlie a range of genetic diseases. Computational prediction of alternative splicing from genomic sequences not only provides insight into gene-regulatory mechanisms but also helps identify disease-causing mutations and drug targets. However, the current methods for the quantitative prediction of splice site usage still have limited accuracy. Here, we present DeltaSplice, a deep neural network model optimized to learn the impact of mutations on quantitative changes in alternative splicing from the comparative analysis of homologous genes. The model architecture enables DeltaSplice to perform \"reference-informed prediction\" by incorporating the known splice site usage of a reference gene sequence to improve its prediction on splicing-altering mutations. We benchmarked DeltaSplice and several other state-of-the-art methods on various prediction tasks, including evolutionary sequence divergence on lineage-specific splicing and splicing-altering mutations in human populations and neurodevelopmental disorders, and demonstrated that DeltaSplice outperformed consistently. DeltaSplice predicted \u223c15% of splicing quantitative trait loci (sQTLs) in the human brain as causal splicing-altering variants. It also predicted splicing-altering de novo mutations outside the splice sites in a subset of patients affected by autism and other neurodevelopmental disorders (NDDs), including 19 genes with recurrent splicing-altering mutations. Integration of splicing-altering mutations with other types of de novo mutation burdens allowed the prediction of eight novel NDD-risk genes. Our work expanded the capacity of in silico splicing models with potential applications in genetic diagnosis and the development of splicing-based precision medicine.",
         "Keywords": [],
         "MeSH terms": [],
         "Authors": [
             {
                 "First Name": "Chencheng",
                 "Last Name": "Xu",
-                "Affiliation": "Tsinghua University."
+                "Affiliation": "Bioinformatics Division, BNRIST, Department of Computer Science and Technology, Tsinghua University, Beijing 100084, China."
             },
             {
                 "First Name": "Suying",
                 "Last Name": "Bao",
-                "Affiliation": "Columbia University."
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York 10032, USA."
             },
             {
                 "First Name": "Ye",
                 "Last Name": "Wang",
-                "Affiliation": "Columbia University."
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York 10032, USA."
             },
             {
                 "First Name": "Wenxing",
                 "Last Name": "Li",
-                "Affiliation": "Columbia University."
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York 10032, USA."
             },
             {
                 "First Name": "Hao",
                 "Last Name": "Chen",
-                "Affiliation": "Carnegie Mellon University."
+                "Affiliation": "Department of Computer Science and Engineering, University of California, Riverside, California 92521, USA."
             },
             {
                 "First Name": "Yufeng",
                 "Last Name": "Shen",
-                "Affiliation": "Columbia University."
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York 10032, USA."
             },
             {
                 "First Name": "Tao",
                 "Last Name": "Jiang",
-                "Affiliation": "UC Riverside."
+                "Affiliation": "Bioinformatics Division, BNRIST, Department of Computer Science and Technology, Tsinghua University, Beijing 100084, China; jiang@cs.ucr.edu cz2294@columbia.edu."
             },
             {
                 "First Name": "Chaolin",
                 "Last Name": "Zhang",
-                "Affiliation": "Columbia University; cz2294@columbia.edu."
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York 10032, USA; jiang@cs.ucr.edu cz2294@columbia.edu."
             }
         ],
         "Journal": "Genome research",

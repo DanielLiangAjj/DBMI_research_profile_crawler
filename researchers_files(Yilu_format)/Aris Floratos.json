@@ -1,0 +1,2446 @@
+[
+    {
+        "PMID": "36347894",
+        "Title": "A\ufeff curated collection of human vaccination response signatures.",
+        "Abstract": "Recent advances in high-throughput experiments and systems biology approaches have resulted in hundreds of publications identifying \"immune signatures\". Unfortunately, these are often described within text, figures, or tables in a format not amenable to computational processing, thus severely hampering our ability to fully exploit this information. Here we present a data model to represent immune signatures, along with the Human Immunology Project Consortium (HIPC) Dashboard ( www.hipc-dashboard.org ), a web-enabled application to facilitate signature access and querying. The data model captures the biological response components (e.g., genes, proteins, cell types or metabolites) and metadata describing the context under which the signature was identified using standardized terms from established resources (e.g., HGNC, Protein Ontology, Cell Ontology). We have manually curated a collection of &gt;600 immune signatures from &gt;60 published studies profiling human vaccination responses for the current release. The system will aid in building a broader understanding of the human immune response to stimuli by enabling researchers to easily access and interrogate published immune signatures.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Metadata",
+            "Software",
+            "Systems Biology",
+            "Vaccination"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kenneth C",
+                "Last Name": "Smith",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Daniel G",
+                "Last Name": "Chawla",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Bhavjinder K",
+                "Last Name": "Dhillon",
+                "Affiliation": "Department of Microbiology &amp; Immunology, University of British Columbia, Vancouver, Canada."
+            },
+            {
+                "First Name": "Zhou",
+                "Last Name": "Ji",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Randi",
+                "Last Name": "Vita",
+                "Affiliation": "Center for Infectious Disease and Vaccine Research, La Jolla Institute for Immunology, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Eva C",
+                "Last Name": "van der Leest",
+                "Affiliation": "Department of Microbiology &amp; Immunology, University of British Columbia, Vancouver, Canada."
+            },
+            {
+                "First Name": "Jing Yi Jessica",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Microbiology &amp; Immunology, University of British Columbia, Vancouver, Canada."
+            },
+            {
+                "First Name": "Ernest",
+                "Last Name": "Tang",
+                "Affiliation": "Department of Microbiology &amp; Immunology, University of British Columbia, Vancouver, Canada."
+            },
+            {
+                "First Name": "Amani",
+                "Last Name": "Abid",
+                "Affiliation": "Department of Microbiology &amp; Immunology, University of British Columbia, Vancouver, Canada."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bjoern",
+                "Last Name": "Peters",
+                "Affiliation": "Center for Infectious Disease and Vaccine Research, La Jolla Institute for Immunology, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Robert E W",
+                "Last Name": "Hancock",
+                "Affiliation": "Department of Microbiology &amp; Immunology, University of British Columbia, Vancouver, Canada."
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, USA. af2202@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Steven H",
+                "Last Name": "Kleinstein",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT, USA. steven.kleinstein@yale.edu."
+            }
+        ],
+        "Journal": "Scientific data",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "36266291",
+        "Title": "The Immune Signatures data resource, a compendium of systems vaccinology datasets.",
+        "Abstract": "Vaccines are among the most cost-effective public health interventions for preventing infection-induced morbidity and mortality, yet much remains to be learned regarding the mechanisms by which vaccines protect. Systems immunology combines traditional immunology with modern 'omic profiling techniques and computational modeling to promote rapid and transformative advances in vaccinology and vaccine discovery. The NIH/NIAID Human Immunology Project Consortium (HIPC) has leveraged systems immunology approaches to identify molecular signatures associated with the immunogenicity of many vaccines. However, comparative analyses have been limited by the distributed nature of some data, potential batch effects across studies, and the absence of multiple relevant studies from non-HIPC groups in ImmPort. To support comparative analyses across different vaccines, we have created the Immune Signatures Data Resource, a compendium of standardized systems vaccinology datasets. This data resource is available through ImmuneSpace, along with code to reproduce the processing and batch normalization starting from the underlying study data in ImmPort and the Gene Expression Omnibus (GEO). The current release comprises 1405 participants from 53 cohorts profiling the response to 24 different vaccines. This novel systems vaccinology data release represents a valuable resource for comparative and meta-analyses that will accelerate our understanding of mechanisms underlying vaccine responses.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Systems Biology",
+            "Vaccines",
+            "Vaccinology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joann",
+                "Last Name": "Diray-Arce",
+                "Affiliation": "Precision Vaccines Program, Boston Children's Hospital, Boston, MA, USA. joann.arce@childrens.harvard.edu."
+            },
+            {
+                "First Name": "Helen E R",
+                "Last Name": "Miller",
+                "Affiliation": "Harvard Medical School, Boston, MA, USA."
+            },
+            {
+                "First Name": "Evan",
+                "Last Name": "Henrich",
+                "Affiliation": "Harvard Medical School, Boston, MA, USA."
+            },
+            {
+                "First Name": "Bram",
+                "Last Name": "Gerritsen",
+                "Affiliation": "Yale School of Medicine, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Matthew P",
+                "Last Name": "Mul\u00e8",
+                "Affiliation": "Multiscale Systems Biology Section, Laboratory of Immune System Biology, NIAID NIH Center for Human Immunology, NIH, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Slim",
+                "Last Name": "Fourati",
+                "Affiliation": "Emory University School of Medicine, Atlanta, GA, USA."
+            },
+            {
+                "First Name": "Jeremy",
+                "Last Name": "Gygi",
+                "Affiliation": "Interdepartmental Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Hagan",
+                "Affiliation": "Stanford University School of Medicine, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Lewis",
+                "Last Name": "Tomalin",
+                "Affiliation": "Department of Population Health Sciences and Policy, Icahn School of Medicine at Mount Sinai, New York, New York, USA."
+            },
+            {
+                "First Name": "Dmitry",
+                "Last Name": "Rychkov",
+                "Affiliation": "University of California, San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Dmitri",
+                "Last Name": "Kazmin",
+                "Affiliation": "The Jackson Laboratory for Genomic Medicine, Farmington CT, Rockville, MD, USA."
+            },
+            {
+                "First Name": "Daniel G",
+                "Last Name": "Chawla",
+                "Affiliation": "Interdepartmental Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Hailong",
+                "Last Name": "Meng",
+                "Affiliation": "Yale School of Medicine, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Dunn",
+                "Affiliation": "ImmPort Curation Team, NG Health Solutions, Rockville, MD, USA."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Campbell",
+                "Affiliation": "ImmPort Curation Team, NG Health Solutions, Rockville, MD, USA."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Minnie",
+                "Last Name": "Sarwal",
+                "Affiliation": "University of California, San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "John S",
+                "Last Name": "Tsang",
+                "Affiliation": "Multiscale Systems Biology Section, Laboratory of Immune System Biology, NIAID NIH Center for Human Immunology, NIH, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Ofer",
+                "Last Name": "Levy",
+                "Affiliation": "Precision Vaccines Program, Boston Children's Hospital, Boston, MA, USA."
+            },
+            {
+                "First Name": "Bali",
+                "Last Name": "Pulendran",
+                "Affiliation": "Stanford University School of Medicine, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Rafick",
+                "Last Name": "Sekaly",
+                "Affiliation": "Emory University School of Medicine, Atlanta, GA, USA."
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Raphael",
+                "Last Name": "Gottardo",
+                "Affiliation": "Harvard Medical School, Boston, MA, USA."
+            },
+            {
+                "First Name": "Steven H",
+                "Last Name": "Kleinstein",
+                "Affiliation": "Yale School of Medicine, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Mayte",
+                "Last Name": "Su\u00e1rez-Fari\u00f1as",
+                "Affiliation": "Department of Population Health Sciences and Policy, Icahn School of Medicine at Mount Sinai, New York, New York, USA. mayte.suarezfarinas@mssm.edu."
+            }
+        ],
+        "Journal": "Scientific data",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35711675",
+        "Title": "Master Transcription Regulators and Transcription Factors Regulate Immune-Associated Differences Between Patients of African and European Ancestry With Colorectal Cancer.",
+        "Abstract": "Individuals of African (AFR) ancestry have a higher incidence of colorectal cancer (CRC) than those of European (EUR) ancestry and exhibit significant health disparities. Previous studies have noted differences in the tumor microenvironment between AFR and EUR patients with CRC. However, the molecular regulatory processes that underpin these immune differences remain largely unknown.",
+        "Keywords": [
+            "AFR, African",
+            "African Americans.",
+            "CMA, Composite Module Analyst",
+            "CRC, colorectal cancer",
+            "ChAMP, Chip Analysis Methylation Pipeline",
+            "Colorectal Cancer",
+            "DEGs, differentially expressed genes",
+            "DMPs, differentially methylated CpG positions",
+            "EUR, European",
+            "FDR, false discovery rate",
+            "Genomic Profiling",
+            "Health Disparities",
+            "MCP, microenvironment cell population",
+            "MSI-H, microsatellite high",
+            "MSI-L, microsatellite low",
+            "MSS, microsatellite stable",
+            "MTRs, master transcriptional regulators",
+            "TCGA, The Cancer Genome Atlas",
+            "TFBS, TF binding site",
+            "TFs, transcription factors",
+            "TMB, tumor mutation burden",
+            "TSS, transcription start site"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Parvathi A",
+                "Last Name": "Myer",
+                "Affiliation": "Montefiore Medical Center, Albert Einstein Cancer Center, Bronx, NY."
+            },
+            {
+                "First Name": "Hyunjin",
+                "Last Name": "Kim",
+                "Affiliation": "St. Jude's Children's Research Hospital, Memphis, Tennessee TN."
+            },
+            {
+                "First Name": "Anna M",
+                "Last Name": "Bl\u00fcmel",
+                "Affiliation": "School of Pharmacy and Biomolecular Sciences, Royal College of Surgeons, Dublin, Ireland."
+            },
+            {
+                "First Name": "Ellen",
+                "Last Name": "Finnegan",
+                "Affiliation": "School of Pharmacy and Biomolecular Sciences, Royal College of Surgeons, Dublin, Ireland."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Kel",
+                "Affiliation": "GeneXplain GmbH, Wolfenbuettel, Germany."
+            },
+            {
+                "First Name": "Taylor V",
+                "Last Name": "Thompson",
+                "Affiliation": "Albert Einstein College of Medicine, Bronx, NY."
+            },
+            {
+                "First Name": "John M",
+                "Last Name": "Greally",
+                "Affiliation": "Albert Einstein College of Medicine, Bronx, NY."
+            },
+            {
+                "First Name": "Jochen Hm",
+                "Last Name": "Prehn",
+                "Affiliation": "Department of Physiology and Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland."
+            },
+            {
+                "First Name": "Darran P",
+                "Last Name": "O'Connor",
+                "Affiliation": "School of Pharmacy and Biomolecular Sciences, Royal College of Surgeons, Dublin, Ireland."
+            },
+            {
+                "First Name": "Richard A",
+                "Last Name": "Friedman",
+                "Affiliation": "Biomedical Informatics Shared Resource, Herbert Irving Comprehensive Cancer Center, and Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Sudipto",
+                "Last Name": "Das",
+                "Affiliation": "School of Pharmacy and Biomolecular Sciences, Royal College of Surgeons, Dublin, Ireland."
+            }
+        ],
+        "Journal": "Gastro hep advances",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "33058932",
+        "Title": "Beta-lactam-induced immediate hypersensitivity reactions: A\u00a0genome-wide association study of a deeply phenotyped cohort.",
+        "Abstract": "\u03b2-lactam antibiotics are associated with a variety of immune-mediated or hypersensitivity reactions, including immediate (type I) reactions mediated by antigen-specific IgE.",
+        "Keywords": [
+            "Type I hypersensitivity",
+            "allergy",
+            "anaphylaxis",
+            "cephalosporins",
+            "penicillins",
+            "pharmacogenomics",
+            "\u03b2-lactams"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Anti-Bacterial Agents",
+            "Cephalosporins",
+            "Cohort Studies",
+            "Drug Hypersensitivity",
+            "Female",
+            "Genetic Predisposition to Disease",
+            "Genome-Wide Association Study",
+            "HLA-DQ alpha-Chains",
+            "HLA-DRB1 Chains",
+            "Humans",
+            "Hypersensitivity, Immediate",
+            "Male",
+            "Middle Aged",
+            "Penicillins",
+            "Phenotype",
+            "Polymorphism, Single Nucleotide"
+        ],
+        "Authors": [
+            {
+                "First Name": "Paola",
+                "Last Name": "Nicoletti",
+                "Affiliation": "Icahn School of Medicine at Mount Sinai, New York, NY; Sema4, Stamford, Conn."
+            },
+            {
+                "First Name": "Daniel F",
+                "Last Name": "Carr",
+                "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, United Kingdom."
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Barrett",
+                "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, United Kingdom."
+            },
+            {
+                "First Name": "Laurence",
+                "Last Name": "McEvoy",
+                "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, United Kingdom."
+            },
+            {
+                "First Name": "Peter S",
+                "Last Name": "Friedmann",
+                "Affiliation": "Dermatology Unit, Sir Henry Wellcome Research Laboratories, School of Medicine, University of Southampton, Southampton, United Kingdom."
+            },
+            {
+                "First Name": "Neil H",
+                "Last Name": "Shear",
+                "Affiliation": "Division of Dermatology, Department of Medicine, University of Toronto, Toronto, Ontario, Canada; Division of Dermatology, Department of Medicine, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Nelson",
+                "Affiliation": "Deerfield, New York, NY."
+            },
+            {
+                "First Name": "Anca M",
+                "Last Name": "Chiriac",
+                "Affiliation": "Division of Allergy, H\u00f4pital Arnaud de Villeneuve, University Hospital of Montpellier, Montpellier, France."
+            },
+            {
+                "First Name": "Natalia",
+                "Last Name": "Blanca-L\u00f3pez",
+                "Affiliation": "Infanta Leonor University Hospital, Madrid, Spain."
+            },
+            {
+                "First Name": "Jos\u00e9 A",
+                "Last Name": "Cornejo-Garc\u00eda",
+                "Affiliation": "Allergy Research Group, Allergy Research Group, Instituto de Investigaci\u00f3n Biom\u00e9dica de M\u00e1laga-IBIMA, ARADyAL, Malaga, Spain."
+            },
+            {
+                "First Name": "Francesco",
+                "Last Name": "Gaeta",
+                "Affiliation": "Allergy Unit, Columbus Hospital, Fondazione Policlinico Universitario Agostino Gemelli, Istituto di Ricovero e Cura a Carattere Scientifico, Rome, Italy."
+            },
+            {
+                "First Name": "Alla",
+                "Last Name": "Nakonechna",
+                "Affiliation": "Liverpool University Hospitals Foundation National Health Service Trust, Liverpool, United Kingdom."
+            },
+            {
+                "First Name": "Maria J",
+                "Last Name": "Torres",
+                "Affiliation": "Allergy Research Group, Allergy Research Group, Instituto de Investigaci\u00f3n Biom\u00e9dica de M\u00e1laga-IBIMA, ARADyAL, Malaga, Spain; Allergy Unit, Hospital Regional Universitario de M\u00e1laga, Malaga, Spain."
+            },
+            {
+                "First Name": "Cristiano",
+                "Last Name": "Caruso",
+                "Affiliation": "Allergy Unit, Columbus Hospital, Fondazione Policlinico Universitario Agostino Gemelli, Istituto di Ricovero e Cura a Carattere Scientifico, Rome, Italy."
+            },
+            {
+                "First Name": "Rocco L",
+                "Last Name": "Valluzzi",
+                "Affiliation": "Division of Allergy, University Department of Pediatrics, Pediatric Hospital Bambino Ges\u00f9, Rome, Italy."
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "Department of Systems Biology, New York, NY; Department of Biomedical Informatics, Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Systems Biology, New York, NY."
+            },
+            {
+                "First Name": "Rebecca K",
+                "Last Name": "Pavlos",
+                "Affiliation": "Wesfarmers Centre for Vaccines and Infectious Diseases, Telethon Kids Institute, University of Western Australia, Nedlands, Australia."
+            },
+            {
+                "First Name": "Elizabeth J",
+                "Last Name": "Phillips",
+                "Affiliation": "Department of Medicine, Vanderbilt University Medical Center, Nashville, Tenn; Centre for Clinical Pharmacology and Infectious Diseases, Institute for Immunology and Infectious Diseases, Murdoch University, Murdoch, Australia."
+            },
+            {
+                "First Name": "Pascal",
+                "Last Name": "Demoly",
+                "Affiliation": "Division of Allergy, H\u00f4pital Arnaud de Villeneuve, University Hospital of Montpellier, Montpellier, France; Unit\u00e9 Mixte de Recherche en Sant\u00e9 (UMR-S) 1136 Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale-Sorbonne Universit\u00e9, Equipe Epidemiology of allergic and respiratory diseases (EPAR)- Louis d'Epid\u00e9miologie et de Sant\u00e9 Publique (IPLESP), Paris, France."
+            },
+            {
+                "First Name": "Antonino",
+                "Last Name": "Romano",
+                "Affiliation": "Istituto di Ricovero e Cura a Carattere Scientifico Oasi Maria SS, Troina, Italy; Fondazione Mediterranea GB Morgagni, Catania, Italy."
+            },
+            {
+                "First Name": "Miguel",
+                "Last Name": "Blanca",
+                "Affiliation": "Allergy Unit, Hospital Regional Universitario de M\u00e1laga, Malaga, Spain."
+            },
+            {
+                "First Name": "Munir",
+                "Last Name": "Pirmohamed",
+                "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, United Kingdom; Liverpool University Hospitals Foundation National Health Service Trust, Liverpool, United Kingdom. Electronic address: munirp@liverpool.ac.uk."
+            }
+        ],
+        "Journal": "The Journal of allergy and clinical immunology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "31066027",
+        "Title": "Shared Genetic Risk Factors Across Carbamazepine-Induced Hypersensitivity Reactions.",
+        "Abstract": "Carbamazepine (CBZ) causes life-threating T-cell-mediated hypersensitivity reactions, including serious cutaneous adverse reactions (SCARs) and drug-induced liver injury (CBZ-DILI). In order to evaluate shared or phenotype-specific genetic predisposing factors for CBZ hypersensitivity reactions, we performed a meta-analysis of two genomewide association studies (GWAS) on a total of 43 well-phenotyped Northern and Southern European CBZ-SCAR cases and 10,701 population controls and a GWAS on 12 CBZ-DILI cases and 8,438 ethnically matched population controls. HLA-A*31:01 was identified as the strongest genetic predisposing factor for both CBZ-SCAR (odds ratio (OR)\u00a0=\u00a08.0; 95% CI 4.10-15.80; P\u00a0=\u00a01.2\u00a0\u00d7\u00a010",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Anaplastic Lymphoma Kinase",
+            "Carbamazepine",
+            "Chemical and Drug Induced Liver Injury",
+            "Drug Hypersensitivity",
+            "Drug Hypersensitivity Syndrome",
+            "Europe",
+            "Female",
+            "Genetic Predisposition to Disease",
+            "Genome-Wide Association Study",
+            "HLA-A Antigens",
+            "HLA-B Antigens",
+            "Humans",
+            "Male",
+            "Phenotype",
+            "Risk Factors",
+            "Stevens-Johnson Syndrome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Paola",
+                "Last Name": "Nicoletti",
+                "Affiliation": "Icahn School of Medicine at Mount Sinai, New York, New York, USA."
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Barrett",
+                "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+            },
+            {
+                "First Name": "Laurence",
+                "Last Name": "McEvoy",
+                "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+            },
+            {
+                "First Name": "Ann K",
+                "Last Name": "Daly",
+                "Affiliation": "Institute of Cellular Medicine, Newcastle University, Newcastle upon Tyne, UK."
+            },
+            {
+                "First Name": "Guruprasad",
+                "Last Name": "Aithal",
+                "Affiliation": "National Institute for Health Research (NIHR) Nottingham Biomedical Research Unit, Center at the Nottingham University Hospital NHS Trust and University of Nottingham, Nottingham, UK."
+            },
+            {
+                "First Name": "M Isabel",
+                "Last Name": "Lucena",
+                "Affiliation": "UGC Digestivo, Clinical Pharmacology Service, Instituto de Investigaci\u00f3n Biom\u00e9dica de M\u00e1laga (IBIMA), Hospital Universitario Virgen de la Victoria, Universidad de M\u00e1laga, M\u00e1laga, Spain."
+            },
+            {
+                "First Name": "Raul J",
+                "Last Name": "Andrade",
+                "Affiliation": "UGC Digestivo, Clinical Pharmacology Service, Instituto de Investigaci\u00f3n Biom\u00e9dica de M\u00e1laga (IBIMA), Hospital Universitario Virgen de la Victoria, Universidad de M\u00e1laga, M\u00e1laga, Spain."
+            },
+            {
+                "First Name": "Mia",
+                "Last Name": "Wadelius",
+                "Affiliation": "Department of Medical Sciences, Science for Life Laboratory, Uppsala University, Uppsala, Sweden."
+            },
+            {
+                "First Name": "P\u00e4r",
+                "Last Name": "Hallberg",
+                "Affiliation": "Department of Medical Sciences, Science for Life Laboratory, Uppsala University, Uppsala, Sweden."
+            },
+            {
+                "First Name": "Camilla",
+                "Last Name": "Stephens",
+                "Affiliation": "UGC Digestivo, Clinical Pharmacology Service, Instituto de Investigaci\u00f3n Biom\u00e9dica de M\u00e1laga (IBIMA), Hospital Universitario Virgen de la Victoria, Universidad de M\u00e1laga, M\u00e1laga, Spain."
+            },
+            {
+                "First Name": "Einar S",
+                "Last Name": "Bjornsson",
+                "Affiliation": "Department of Internal Medicine, Landspitali University Hospital, Reykjavik, Iceland."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Friedmann",
+                "Affiliation": "Dermatology Unit, School of Medicine, University of Southampton, Southampton, UK."
+            },
+            {
+                "First Name": "Kati",
+                "Last Name": "Kainu",
+                "Affiliation": "Clinical Research Unit for Pulmonary Diseases, Helsinki University Central Hospital, Helsinki, Finland."
+            },
+            {
+                "First Name": "Tarja",
+                "Last Name": "Laitinen",
+                "Affiliation": "Clinical Research Unit for Pulmonary Diseases, Helsinki University Central Hospital, Helsinki, Finland."
+            },
+            {
+                "First Name": "Anthony",
+                "Last Name": "Marson",
+                "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+            },
+            {
+                "First Name": "Mariam",
+                "Last Name": "Molokhia",
+                "Affiliation": "School of Population Sciences and Health Services Research, King's College, London, UK."
+            },
+            {
+                "First Name": "Elizabeth",
+                "Last Name": "Phillips",
+                "Affiliation": "Departiment of Medicine, Vanderbilt University Medical Center, Nashville, Tennessee, USA."
+            },
+            {
+                "First Name": "Werner",
+                "Last Name": "Pichler",
+                "Affiliation": "ADR-AC GmbH, Bern, Switzerland."
+            },
+            {
+                "First Name": "Antonino",
+                "Last Name": "Romano",
+                "Affiliation": "Allergy Unit, Complesso Integrato Columbus, Rome, Italy."
+            },
+            {
+                "First Name": "Neil",
+                "Last Name": "Shear",
+                "Affiliation": "Sunnybrook Health Sciences Centre, University of Toronto, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Graeme",
+                "Last Name": "Sills",
+                "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+            },
+            {
+                "First Name": "Luciana K",
+                "Last Name": "Tanno",
+                "Affiliation": "Hospital S\u00edrio Liban\u00eas, S\u00e3o Paulo, Brazil."
+            },
+            {
+                "First Name": "Ashley",
+                "Last Name": "Swale",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Nelson",
+                "Affiliation": "Target Sciences, GSK, King of Prussia, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Paul B",
+                "Last Name": "Watkins",
+                "Affiliation": "Eshelman School of Pharmacy, University of North Carolina Institute for Drug Safety Sciences, Chapel Hill, North Carolina, USA."
+            },
+            {
+                "First Name": "Mark J",
+                "Last Name": "Daly",
+                "Affiliation": "Analytic and Translational Genetics Unit, Department of Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Andrew P",
+                "Last Name": "Morris",
+                "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+            },
+            {
+                "First Name": "Ana",
+                "Last Name": "Alfirevic",
+                "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+            },
+            {
+                "First Name": "Munir",
+                "Last Name": "Pirmohamed",
+                "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+            }
+        ],
+        "Journal": "Clinical pharmacology and therapeutics",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "29220450",
+        "Title": "CTD2 Dashboard: a searchable web interface to connect validated results from the Cancer Target Discovery and Development Network.",
+        "Abstract": "https://ctd2-dashboard.nci.nih.gov/.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Computational Biology",
+            "Databases, Factual",
+            "Humans",
+            "Internet",
+            "Neoplasms",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "B\u00fclent Arman",
+                "Last Name": "Aksoy",
+                "Affiliation": "Computational Biology Center, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Vlado",
+                "Last Name": "Danc\u00edk",
+                "Affiliation": "Chemical Biology and Therapeutics Science Program, Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Kenneth",
+                "Last Name": "Smith",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jessica N",
+                "Last Name": "Mazerik",
+                "Affiliation": "Office of Cancer Genomics, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Zhou",
+                "Last Name": "Ji",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Benjamin",
+                "Last Name": "Gross",
+                "Affiliation": "Computational Biology Center, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Olga",
+                "Last Name": "Nikolova",
+                "Affiliation": "Computational Biology Program, School of Medicine, Oregon Health and Science University, Portland, OR 97239, USA."
+            },
+            {
+                "First Name": "Nadia",
+                "Last Name": "Jaber",
+                "Affiliation": "Office of Cancer Genomics, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Stuart L",
+                "Last Name": "Schreiber",
+                "Affiliation": "Chemical Biology and Therapeutics Science Program, Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Daniela S",
+                "Last Name": "Gerhard",
+                "Affiliation": "Office of Cancer Genomics, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Leandro C",
+                "Last Name": "Hermida",
+                "Affiliation": "Office of Cancer Genomics, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Subhashini",
+                "Last Name": "Jagu",
+                "Affiliation": "Office of Cancer Genomics, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Sander",
+                "Affiliation": "Computational Biology Center, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Paul A",
+                "Last Name": "Clemons",
+                "Affiliation": "Chemical Biology and Therapeutics Science Program, Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA."
+            }
+        ],
+        "Journal": "Database : the journal of biological databases and curation",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28043905",
+        "Title": "Association of Liver Injury From Specific Drugs, or Groups of\u00a0Drugs, With Polymorphisms in HLA and Other Genes in a\u00a0Genome-Wide Association Study.",
+        "Abstract": "We performed a genome-wide association study (GWAS) to identify genetic risk factors for drug-induced liver injury (DILI) from licensed drugs without previously reported genetic risk factors.",
+        "Keywords": [
+            "Anti-Fungal Agent",
+            "Liver Damage",
+            "Medication",
+            "Side Effect"
+        ],
+        "MeSH terms": [
+            "Alleles",
+            "Antidepressive Agents",
+            "Antifungal Agents",
+            "Chemical and Drug Induced Liver Injury",
+            "Chromosomes, Human, Pair 2",
+            "Female",
+            "Fenofibrate",
+            "Genes, MHC Class I",
+            "Genetic Predisposition to Disease",
+            "Genome-Wide Association Study",
+            "HLA-A Antigens",
+            "Humans",
+            "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+            "Hypolipidemic Agents",
+            "Male",
+            "Middle Aged",
+            "Naphthalenes",
+            "Odds Ratio",
+            "Phenotype",
+            "Platelet Aggregation Inhibitors",
+            "Polymorphism, Single Nucleotide",
+            "Sertraline",
+            "Terbinafine",
+            "Ticlopidine",
+            "White People"
+        ],
+        "Authors": [
+            {
+                "First Name": "Paola",
+                "Last Name": "Nicoletti",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Guruprasad P",
+                "Last Name": "Aithal",
+                "Affiliation": "National Institute for Health Research, Nottingham Digestive Diseases Biomedical Research Unit, Nottingham University Hospital, National Health Service Trust, and University of Nottingham, Nottingham, United Kingdom."
+            },
+            {
+                "First Name": "Einar S",
+                "Last Name": "Bjornsson",
+                "Affiliation": "Department of Internal Medicine, Landspitali University Hospital, Reykjavik, Iceland."
+            },
+            {
+                "First Name": "Raul J",
+                "Last Name": "Andrade",
+                "Affiliation": "Unidad de Gesti\u00f3n Cl\u00ednica Digestivo, Instituto de Investigaci\u00f3n Biom\u00e9dica de M\u00e1laga, Hospital Universitario Virgen de la Victoria, Universidad de M\u00e1laga, Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Enfermedades Hep\u00e1ticas y Digestivas, M\u00e1laga, Spain."
+            },
+            {
+                "First Name": "Ashley",
+                "Last Name": "Sawle",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Marco",
+                "Last Name": "Arrese",
+                "Affiliation": "Departmento de Gastroenterolog\u00eda, Escuela de Medicina, Pontificia Universidad Cat\u00f3lica de Chile, Santiago, Chile."
+            },
+            {
+                "First Name": "Huiman X",
+                "Last Name": "Barnhart",
+                "Affiliation": "Duke University, Durham, North Carolina."
+            },
+            {
+                "First Name": "Emmanuelle",
+                "Last Name": "Bondon-Guitton",
+                "Affiliation": "Universite de Toulouse, Toulouse, France."
+            },
+            {
+                "First Name": "Paul H",
+                "Last Name": "Hayashi",
+                "Affiliation": "Department of Internal Medicine, University of North Carolina-Chapel Hill, Chapel Hill, North Carolina."
+            },
+            {
+                "First Name": "Fernando",
+                "Last Name": "Bessone",
+                "Affiliation": "Servicio de Gastroenterolog\u00eda y Hepatolog\u00eda, Universidad Nacional de Rosario, Rosario, Argentina."
+            },
+            {
+                "First Name": "Alfonso",
+                "Last Name": "Carvajal",
+                "Affiliation": "Universidad de Valladolid, Valladolid, Spain."
+            },
+            {
+                "First Name": "Ingolf",
+                "Last Name": "Cascorbi",
+                "Affiliation": "Institute of Experimental and Clinical Pharmacology, University Hospital Schleswig-Holstein, Kiel, Germany."
+            },
+            {
+                "First Name": "Elizabeth T",
+                "Last Name": "Cirulli",
+                "Affiliation": "Duke University, Durham, North Carolina."
+            },
+            {
+                "First Name": "Naga",
+                "Last Name": "Chalasani",
+                "Affiliation": "Division of Gastroenterology and Hepatology, Indiana University School of Medicine, Indianapolis, Indiana."
+            },
+            {
+                "First Name": "Anita",
+                "Last Name": "Conforti",
+                "Affiliation": "University Hospital, Verona, Italy."
+            },
+            {
+                "First Name": "Sally A",
+                "Last Name": "Coulthard",
+                "Affiliation": "Institute of Cellular Medicine, Newcastle University, Newcastle Upon Tyne, United Kingdom."
+            },
+            {
+                "First Name": "Mark J",
+                "Last Name": "Daly",
+                "Affiliation": "Broad Institute of Harvard and Massachusetts Institute of Technology, Boston, Massachusetts."
+            },
+            {
+                "First Name": "Christopher P",
+                "Last Name": "Day",
+                "Affiliation": "Institute of Cellular Medicine, Newcastle University, Newcastle Upon Tyne, United Kingdom."
+            },
+            {
+                "First Name": "John F",
+                "Last Name": "Dillon",
+                "Affiliation": "Medical Research Institute, University of Dundee, Ninewells Hospital, Dundee, United Kingdom."
+            },
+            {
+                "First Name": "Robert J",
+                "Last Name": "Fontana",
+                "Affiliation": "University of Michigan, Ann Arbor, Michigan."
+            },
+            {
+                "First Name": "Jane I",
+                "Last Name": "Grove",
+                "Affiliation": "National Institute for Health Research, Nottingham Digestive Diseases Biomedical Research Unit, Nottingham University Hospital, National Health Service Trust, and University of Nottingham, Nottingham, United Kingdom."
+            },
+            {
+                "First Name": "P\u00e4r",
+                "Last Name": "Hallberg",
+                "Affiliation": "Department of Medical Sciences and Science for Life Laboratory, Uppsala University, Uppsala, Sweden."
+            },
+            {
+                "First Name": "Nelia",
+                "Last Name": "Hern\u00e1ndez",
+                "Affiliation": "Facultad de Medicina, Universidad de la Republica, Montevideo, Uruguay."
+            },
+            {
+                "First Name": "Luisa",
+                "Last Name": "Ib\u00e1\u00f1ez",
+                "Affiliation": "Fundaci\u00f3 Institut Catal\u00e0 de Farmacologia, Hospital Universitari Vall d'Hebron, Universitat Aut\u00f2noma de Barcelona, Barcelona, Spain."
+            },
+            {
+                "First Name": "Gerd A",
+                "Last Name": "Kullak-Ublick",
+                "Affiliation": "Department of Clinical Pharmacology and Toxicology, University Hospital and University of Zurich, Zurich, Switzerland."
+            },
+            {
+                "First Name": "Tarja",
+                "Last Name": "Laitinen",
+                "Affiliation": "Clinical Research Unit for Pulmonary Diseases, Helsinki University Central Hospital, Helsinki, Finland."
+            },
+            {
+                "First Name": "Dominique",
+                "Last Name": "Larrey",
+                "Affiliation": "Liver Unit, Centre Hospitalier Universitaire, St Eloi Hospital, Montpellier, France."
+            },
+            {
+                "First Name": "M Isabel",
+                "Last Name": "Lucena",
+                "Affiliation": "Unidad de Gesti\u00f3n Cl\u00ednica Digestivo, Instituto de Investigaci\u00f3n Biom\u00e9dica de M\u00e1laga, Hospital Universitario Virgen de la Victoria, Universidad de M\u00e1laga, Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Enfermedades Hep\u00e1ticas y Digestivas, M\u00e1laga, Spain."
+            },
+            {
+                "First Name": "Anke H",
+                "Last Name": "Maitland-van der Zee",
+                "Affiliation": "Division of Pharmacoepidemiology and Clinical Pharmacology, Utrecht University, Utrecht, Netherlands."
+            },
+            {
+                "First Name": "Jennifer H",
+                "Last Name": "Martin",
+                "Affiliation": "School of Medicine and Public Health, University of Newcastle, New South Wales, Australia."
+            },
+            {
+                "First Name": "Mariam",
+                "Last Name": "Molokhia",
+                "Affiliation": "Department of Primary Care and Public Health Sciences, King's College, London, United Kingdom."
+            },
+            {
+                "First Name": "Munir",
+                "Last Name": "Pirmohamed",
+                "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, United Kingdom."
+            },
+            {
+                "First Name": "Elizabeth E",
+                "Last Name": "Powell",
+                "Affiliation": "Centre for Liver Disease Research, School of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
+            },
+            {
+                "First Name": "Shengying",
+                "Last Name": "Qin",
+                "Affiliation": "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders, Shanghai Jiao Tong University, Shanghai, China."
+            },
+            {
+                "First Name": "Jose",
+                "Last Name": "Serrano",
+                "Affiliation": "National Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, Maryland."
+            },
+            {
+                "First Name": "Camilla",
+                "Last Name": "Stephens",
+                "Affiliation": "Unidad de Gesti\u00f3n Cl\u00ednica Digestivo, Instituto de Investigaci\u00f3n Biom\u00e9dica de M\u00e1laga, Hospital Universitario Virgen de la Victoria, Universidad de M\u00e1laga, Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Enfermedades Hep\u00e1ticas y Digestivas, M\u00e1laga, Spain."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Stolz",
+                "Affiliation": "University of Southern California, Los Angeles, California."
+            },
+            {
+                "First Name": "Mia",
+                "Last Name": "Wadelius",
+                "Affiliation": "Department of Medical Sciences and Science for Life Laboratory, Uppsala University, Uppsala, Sweden."
+            },
+            {
+                "First Name": "Paul B",
+                "Last Name": "Watkins",
+                "Affiliation": "University of North Carolina Institute for Drug Safety Sciences, Eshelman School of Pharmacy, Chapel Hill, North Carolina."
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Nelson",
+                "Affiliation": "Target Sciences, GlaxoSmithKlein, King of Prussia, Pennsylvania."
+            },
+            {
+                "First Name": "Thomas J",
+                "Last Name": "Urban",
+                "Affiliation": "UNC Eshelman School of Pharmacy, University of North Carolina, Chapel Hill, North Carolina."
+            },
+            {
+                "First Name": "Ann K",
+                "Last Name": "Daly",
+                "Affiliation": "Institute of Cellular Medicine, Newcastle University, Newcastle Upon Tyne, United Kingdom. Electronic address: a.k.daly@ncl.ac.uk."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Gastroenterology",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "26959717",
+        "Title": "HLA-DRB1*16: 01-DQB1*05: 02 is a novel genetic risk factor for flupirtine-induced liver injury.",
+        "Abstract": "Flupirtine is a nonopioid analgesic with regulatory approval in a number of European countries. Because of the risk of serious liver injury, its use is now limited to short-term pain management. We aimed to identify genetic risk factors for flupirtine-related drug-induced liver injury (DILI) as these are unknown.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Aged",
+            "Aminopyridines",
+            "Chemical and Drug Induced Liver Injury",
+            "Female",
+            "Genome-Wide Association Study",
+            "HLA-DQ beta-Chains",
+            "HLA-DRB1 Chains",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Polymorphism, Single Nucleotide"
+        ],
+        "Authors": [
+            {
+                "First Name": "Paola",
+                "Last Name": "Nicoletti",
+                "Affiliation": "Departments of aSystems Biology bBiomedical Informatics cThe Herbert Irving Comprehensive Cancer Center, Columbia University, New York, New York dUNC Eshelman School of Pharmacy, Chapel Hill, North Carolina eTarget Sciences, GSK, King of Prussia, Pennsylvania, USA fInstitute for Experimental and Clinical Pharmacology, University Hospital Schleswig-Holstein, Kiel gDrug Commission of the German Medical Association (DCGMA), Berlin, Germany hInstitute of Cellular Medicine, Newcastle University, Newcastle upon Tyne iNational Institute for Health Research (NIHR), Nottingham Digestive Diseases Biomedical Research Unit, Nottingham University Hospital NHS Trust and University of Nottingham, Nottingham, UK jDivision of Gastroenterology and Hepatology, Department of Internal Medicine, The National University Hospital of Iceland, Faculty of Medicine, University of Iceland, Reykjavik, Iceland."
+            },
+            {
+                "First Name": "Anneke N",
+                "Last Name": "Werk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ashley",
+                "Last Name": "Sawle",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Thomas J",
+                "Last Name": "Urban",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sally A",
+                "Last Name": "Coulthard",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Einar S",
+                "Last Name": "Bjornsson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ingolf",
+                "Last Name": "Cascorbi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Stammschulte",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ursula",
+                "Last Name": "Gundert-Remy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Nelson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Guruprasad P",
+                "Last Name": "Aithal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ann K",
+                "Last Name": "Daly",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Pharmacogenetics and genomics",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26508575",
+        "Title": "Identification of candidate genes for familial early-onset essential tremor.",
+        "Abstract": "Essential tremor (ET) is one of the most common causes of tremor in humans. Despite its high heritability and prevalence, few susceptibility genes for ET have been identified. To identify ET genes, whole-exome sequencing was performed in 37 early-onset ET families with an autosomal-dominant inheritance pattern. We identified candidate genes for follow-up functional studies in five ET families. In two independent families, we identified variants predicted to affect function in the nitric oxide (NO) synthase 3 gene (NOS3) that cosegregated with disease. NOS3 is highly expressed in the central nervous system (including cerebellum), neurons and endothelial cells, and is one of three enzymes that converts l-arginine to the neurotransmitter NO. In one family, a heterozygous variant, c.46G>A (p.(Gly16Ser)), in NOS3, was identified in three affected ET cases and was absent in an unaffected family member; and in a second family, a heterozygous variant, c.164C>T (p.(Pro55Leu)), was identified in three affected ET cases (dizygotic twins and their mother). Both variants result in amino-acid substitutions of highly conserved amino-acid residues that are predicted to be deleterious and damaging by in silico analysis. In three independent families, variants predicted to affect function were also identified in other genes, including KCNS2 (KV9.2), HAPLN4 (BRAL2) and USP46. These genes are highly expressed in the cerebellum and Purkinje cells, and influence function of the gamma-amino butyric acid (GABA)-ergic system. This is in concordance with recent evidence that the pathophysiological process in ET involves cerebellar dysfunction and possibly cerebellar degeneration with a reduction in Purkinje cells, and a decrease in GABA-ergic tone.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Age of Onset",
+            "Endopeptidases",
+            "Essential Tremor",
+            "Extracellular Matrix Proteins",
+            "Female",
+            "Heterozygote",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Mutation, Missense",
+            "Nerve Tissue Proteins",
+            "Nitric Oxide Synthase Type III",
+            "Pedigree",
+            "Potassium Channels, Voltage-Gated"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xinmin",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Pathology and Cell Biology, College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nora",
+                "Last Name": "Hernandez",
+                "Affiliation": "Department of Neurology, Yale School of Medicine, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Sergey",
+                "Last Name": "Kisselev",
+                "Affiliation": "Department of Pathology and Cell Biology, College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Ashley",
+                "Last Name": "Sawle",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Iuliana",
+                "Last Name": "Ionita-Laza",
+                "Affiliation": "Department of Biostatistics, Mailman School of Public Health, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Ruth",
+                "Last Name": "Ottman",
+                "Affiliation": "G.H Sergievsky Center, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Elan D",
+                "Last Name": "Louis",
+                "Affiliation": "Department of Neurology, Yale School of Medicine, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Lorraine N",
+                "Last Name": "Clark",
+                "Affiliation": "Department of Pathology and Cell Biology, College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "European journal of human genetics : EJHG",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26121088",
+        "Title": "The support of human genetic evidence for approved drug indications.",
+        "Abstract": "Over a quarter of drugs that enter clinical development fail because they are ineffective. Growing insight into genes that influence human disease may affect how drug targets and indications are selected. However, there is little guidance about how much weight should be given to genetic evidence in making these key decisions. To answer this question, we investigated how well the current archive of genetic evidence predicts drug mechanisms. We found that, among well-studied indications, the proportion of drug mechanisms with direct genetic support increases significantly across the drug development pipeline, from 2.0% at the preclinical stage to 8.2% among mechanisms for approved drugs, and varies dramatically among disease areas. We estimate that selecting genetically supported targets could double the success rate in clinical development. Therefore, using the growing wealth of human genetic data to select the best targets and indications should have a measurable impact on the successful development of new drugs.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Chromosome Mapping",
+            "Databases, Genetic",
+            "Drug Approval",
+            "Genetic Association Studies",
+            "Genetic Predisposition to Disease",
+            "Genetics, Medical",
+            "Genome-Wide Association Study",
+            "Humans",
+            "Linkage Disequilibrium",
+            "Medical Subject Headings",
+            "Molecular Targeted Therapy",
+            "Polymorphism, Single Nucleotide"
+        ],
+        "Authors": [
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Nelson",
+                "Affiliation": "Quantitative Sciences, GlaxoSmithKline, Research Triangle Park, North Carolina, USA."
+            },
+            {
+                "First Name": "Hannah",
+                "Last Name": "Tipney",
+                "Affiliation": "Quantitative Sciences, GlaxoSmithKline, Stevenage, UK."
+            },
+            {
+                "First Name": "Jeffery L",
+                "Last Name": "Painter",
+                "Affiliation": "Quantitative Sciences, GlaxoSmithKline, Research Triangle Park, North Carolina, USA."
+            },
+            {
+                "First Name": "Judong",
+                "Last Name": "Shen",
+                "Affiliation": "Quantitative Sciences, GlaxoSmithKline, Research Triangle Park, North Carolina, USA."
+            },
+            {
+                "First Name": "Paola",
+                "Last Name": "Nicoletti",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": "1] Department of Systems Biology, Columbia University, New York, New York, USA. [2] Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "1] Department of Systems Biology, Columbia University, New York, New York, USA. [2] Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Pak Chung",
+                "Last Name": "Sham",
+                "Affiliation": "1] State Key Laboratory of Brain and Cognitive Sciences, University of Hong Kong, Hong Kong, SAR, China. [2] Centre for Genomics Sciences, Li Ka Shing (LKS) Faculty of Medicine, University of Hong Kong, Hong Kong SAR, China."
+            },
+            {
+                "First Name": "Mulin Jun",
+                "Last Name": "Li",
+                "Affiliation": "1] Centre for Genomics Sciences, Li Ka Shing (LKS) Faculty of Medicine, University of Hong Kong, Hong Kong SAR, China. [2] Department of Biochemistry, LKS Faculty of Medicine, University of Hong Kong, Hong Kong SAR, China."
+            },
+            {
+                "First Name": "Junwen",
+                "Last Name": "Wang",
+                "Affiliation": "1] Centre for Genomics Sciences, Li Ka Shing (LKS) Faculty of Medicine, University of Hong Kong, Hong Kong SAR, China. [2] Department of Biochemistry, LKS Faculty of Medicine, University of Hong Kong, Hong Kong SAR, China."
+            },
+            {
+                "First Name": "Lon R",
+                "Last Name": "Cardon",
+                "Affiliation": "Alternative Discovery and Development, GlaxoSmithKline, Upper Merion, Pennsylvania, USA."
+            },
+            {
+                "First Name": "John C",
+                "Last Name": "Whittaker",
+                "Affiliation": "Quantitative Sciences, GlaxoSmithKline, Stevenage, UK."
+            },
+            {
+                "First Name": "Philippe",
+                "Last Name": "Sanseau",
+                "Affiliation": "Quantitative Sciences, GlaxoSmithKline, Stevenage, UK."
+            }
+        ],
+        "Journal": "Nature genetics",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26110827",
+        "Title": "ABC transporters and the proteasome complex are implicated in susceptibility to Stevens-Johnson syndrome and toxic epidermal necrolysis across multiple drugs.",
+        "Abstract": "Stevens-Johnson syndrome (SJS) and Toxic Epidermal Necrolysis (TEN) represent rare but serious adverse drug reactions (ADRs). Both are characterized by distinctive blistering lesions and significant mortality rates. While there is evidence for strong drug-specific genetic predisposition related to HLA alleles, recent genome wide association studies (GWAS) on European and Asian populations have failed to identify genetic susceptibility alleles that are common across multiple drugs. We hypothesize that this is a consequence of the low to moderate effect size of individual genetic risk factors. To test this hypothesis we developed Pointer, a new algorithm that assesses the aggregate effect of multiple low risk variants on a pathway using a gene set enrichment approach. A key advantage of our method is the capability to associate SNPs with genes by exploiting physical proximity as well as by using expression quantitative trait loci (eQTLs) that capture information about both cis- and trans-acting regulatory effects. We control for known bias-inducing aspects of enrichment based analyses, such as: 1) gene length, 2) gene set size, 3) presence of biologically related genes within the same linkage disequilibrium (LD) region, and, 4) genes shared among multiple gene sets. We applied this approach to publicly available SJS/TEN genome-wide genotype data and identified the ABC transporter and Proteasome pathways as potentially implicated in the genetic susceptibility of non-drug-specific SJS/TEN. We demonstrated that the innovative SNP-to-gene mapping phase of the method was essential in detecting the significant enrichment for those pathways. Analysis of an independent gene expression dataset provides supportive functional evidence for the involvement of Proteasome pathways in SJS/TEN cutaneous lesions. These results suggest that Pointer provides a useful framework for the integrative analysis of pharmacogenetic GWAS data, by increasing the power to detect aggregate effects of multiple low risk variants. The software is available for download at https://sourceforge.net/projects/pointergsa/.",
+        "Keywords": [],
+        "MeSH terms": [
+            "ATP-Binding Cassette Transporters",
+            "Algorithms",
+            "Alleles",
+            "Databases, Genetic",
+            "Gene Frequency",
+            "Genetic Predisposition to Disease",
+            "Genome-Wide Association Study",
+            "Genotype",
+            "Humans",
+            "Polymorphism, Single Nucleotide",
+            "Proteasome Endopeptidase Complex",
+            "Stevens-Johnson Syndrome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Paola",
+                "Last Name": "Nicoletti",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Mukesh",
+                "Last Name": "Bansal",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Celine",
+                "Last Name": "Lefebvre",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America; INSERM U981, Institut Gustave Roussy, Villejuif, France."
+            },
+            {
+                "First Name": "Paolo",
+                "Last Name": "Guarnieri",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America; Herbert Irving Comprehensive Cancer Center, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America; Department of Biomedical Informatics, Columbia University, New York, New York, United States of America; JP Sulzberger Columbia Genome Center, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Itsik",
+                "Last Name": "Pe'er",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America; Department of Computer Science, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America; Herbert Irving Comprehensive Cancer Center, Columbia University, New York, New York, United States of America; Department of Biomedical Informatics, Columbia University, New York, New York, United States of America; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, United States of America; Institute for Cancer Genetics, Columbia University, New York, NY 10032, United States of America."
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America; Department of Biomedical Informatics, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "24223155",
+        "Title": "Genome wide analysis of drug-induced torsades de pointes: lack of common variants with large effect sizes.",
+        "Abstract": "Marked prolongation of the QT interval on the electrocardiogram associated with the polymorphic ventricular tachycardia Torsades de Pointes is a serious adverse event during treatment with antiarrhythmic drugs and other culprit medications, and is a common cause for drug relabeling and withdrawal. Although clinical risk factors have been identified, the syndrome remains unpredictable in an individual patient. Here we used genome-wide association analysis to search for common predisposing genetic variants. Cases of drug-induced Torsades de Pointes (diTdP), treatment tolerant controls, and general population controls were ascertained across multiple sites using common definitions, and genotyped on the Illumina 610k or 1M-Duo BeadChips. Principal Components Analysis was used to select 216 Northwestern European diTdP cases and 771 ancestry-matched controls, including treatment-tolerant and general population subjects. With these sample sizes, there is 80% power to detect a variant at genome-wide significance with minor allele frequency of 10% and conferring an odds ratio of \u22652.7. Tests of association were carried out for each single nucleotide polymorphism (SNP) by logistic regression adjusting for gender and population structure. No SNP reached genome wide-significance; the variant with the lowest P value was rs2276314, a non-synonymous coding variant in C18orf21 (p \u200a=\u200a 3\u00d710(-7), odds ratio\u200a=\u200a2, 95% confidence intervals: 1.5-2.6). The haplotype formed by rs2276314 and a second SNP, rs767531, was significantly more frequent in controls than cases (p \u200a=\u200a 3\u00d710(-9)). Expanding the number of controls and a gene-based analysis did not yield significant associations. This study argues that common genomic variants do not contribute importantly to risk for drug-induced Torsades de Pointes across multiple drugs.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Alleles",
+            "Anti-Arrhythmia Agents",
+            "Arrhythmias, Cardiac",
+            "Child",
+            "Female",
+            "Gene Frequency",
+            "Genetic Loci",
+            "Genetic Predisposition to Disease",
+            "Genome, Human",
+            "Genome-Wide Association Study",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Odds Ratio",
+            "Polymorphism, Single Nucleotide",
+            "Torsades de Pointes",
+            "White People"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elijah R",
+                "Last Name": "Behr",
+                "Affiliation": "Cardiovascular Sciences and Genetics Research Centers, St George's University of London, London, United Kingdom."
+            },
+            {
+                "First Name": "Marylyn D",
+                "Last Name": "Ritchie",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Toshihiro",
+                "Last Name": "Tanaka",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stefan",
+                "Last Name": "K\u00e4\u00e4b",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dana C",
+                "Last Name": "Crawford",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paola",
+                "Last Name": "Nicoletti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Moritz F",
+                "Last Name": "Sinner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Prince J",
+                "Last Name": "Kannankeril",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arthur A M",
+                "Last Name": "Wilde",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Connie R",
+                "Last Name": "Bezzina",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Schulze-Bahr",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sven",
+                "Last Name": "Zumhagen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pascale",
+                "Last Name": "Guicheney",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nanette H",
+                "Last Name": "Bishopric",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vanessa",
+                "Last Name": "Marshall",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Saad",
+                "Last Name": "Shakir",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chrysoula",
+                "Last Name": "Dalageorgou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steve",
+                "Last Name": "Bevan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yalda",
+                "Last Name": "Jamshidi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rachel",
+                "Last Name": "Bastiaenen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert J",
+                "Last Name": "Myerburg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jean-Jacques",
+                "Last Name": "Schott",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "A John",
+                "Last Name": "Camm",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gerhard",
+                "Last Name": "Steinbeck",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kris",
+                "Last Name": "Norris",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Russ B",
+                "Last Name": "Altman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steve",
+                "Last Name": "Jeffery",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michiaki",
+                "Last Name": "Kubo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yusuke",
+                "Last Name": "Nakamura",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alfred L",
+                "Last Name": "George",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dan M",
+                "Last Name": "Roden",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23302924",
+        "Title": "The International Serious Adverse Events Consortium's data sharing model.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Adverse Drug Reaction Reporting Systems",
+            "Genome-Wide Association Study",
+            "International Cooperation",
+            "Models, Organizational"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jorge L",
+                "Last Name": "Contreras",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arthur L",
+                "Last Name": "Holden",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature biotechnology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "22968431",
+        "Title": "Limited contribution of common genetic variants to risk for liver injury due to a variety of drugs.",
+        "Abstract": "Drug-induced liver injury (DILI) is a serious adverse drug event that is suspected to have a heritable component. We carried out a genome-wide association study of 783 individuals of European ancestry who experienced DILI due to more than 200 implicated drugs.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Aged",
+            "Alleles",
+            "Chemical and Drug Induced Liver Injury",
+            "Cohort Studies",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Female",
+            "Genetic Variation",
+            "Genome, Human",
+            "Genome-Wide Association Study",
+            "Genotype",
+            "Humans",
+            "Liver",
+            "Male",
+            "Middle Aged",
+            "Phenotype",
+            "Polymorphism, Single Nucleotide",
+            "Registries",
+            "Risk Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Thomas J",
+                "Last Name": "Urban",
+                "Affiliation": "Center for Human Genome Variation, Duke University, Durham, NC, USA."
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Stolz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Naga",
+                "Last Name": "Chalasani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert J",
+                "Last Name": "Fontana",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Rochon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dongliang",
+                "Last Name": "Ge",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kevin V",
+                "Last Name": "Shianna",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ann K",
+                "Last Name": "Daly",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "M Isabel",
+                "Last Name": "Lucena",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Nelson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mariam",
+                "Last Name": "Molokhia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Guruprasad P",
+                "Last Name": "Aithal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Itsik",
+                "Last Name": "Pe'er",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jose",
+                "Last Name": "Serrano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Bonkovsky",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Davern",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "William M",
+                "Last Name": "Lee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Victor J",
+                "Last Name": "Navarro",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jayant A",
+                "Last Name": "Talwalkar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David B",
+                "Last Name": "Goldstein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paul B",
+                "Last Name": "Watkins",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Pharmacogenetics and genomics",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22267851",
+        "Title": "Genomewide pharmacogenetics of bisphosphonate-induced osteonecrosis of the jaw: the role of RBMS3.",
+        "Abstract": "Bisphosphonate-related osteonecrosis of the jaw (BRONJ) is a serious adverse drug reaction. We conducted a genomewide association study to search for genetic variants with a large effect size that increase the risk for BRONJ.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bisphosphonate-Associated Osteonecrosis of the Jaw",
+            "Case-Control Studies",
+            "Female",
+            "Genetic Predisposition to Disease",
+            "Genome-Wide Association Study",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Polymorphism, Single Nucleotide",
+            "Principal Component Analysis",
+            "RNA-Binding Proteins",
+            "Trans-Activators"
+        ],
+        "Authors": [
+            {
+                "First Name": "Paola",
+                "Last Name": "Nicoletti",
+                "Affiliation": "Center for Computational Biology and Bioinformatics, Columbia University Medical Center, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Vassiliki M",
+                "Last Name": "Cartsos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Penelope K",
+                "Last Name": "Palaska",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Athanasios I",
+                "Last Name": "Zavras",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The oncologist",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22081223",
+        "Title": "Using systems and structure biology tools to dissect cellular phenotypes.",
+        "Abstract": "The Center for the Multiscale Analysis of Genetic Networks (MAGNet, http://magnet.c2b2.columbia.edu) was established in 2005, with the mission of providing the biomedical research community with Structural and Systems Biology algorithms and software tools for the dissection of molecular interactions and for the interaction-based elucidation of cellular phenotypes. Over the last 7 years, MAGNet investigators have developed many novel analysis methodologies, which have led to important biological discoveries, including understanding the role of the DNA shape in protein-DNA binding specificity and the discovery of genes causally related to the presentation of malignant phenotypes, including lymphoma, glioma, and melanoma. Software tools implementing these methodologies have been broadly adopted by the research community and are made freely available through geWorkbench, the Center's integrated analysis platform. Additionally, MAGNet has been instrumental in organizing and developing key conferences and meetings focused on the emerging field of systems biology and regulatory genomics, with special focus on cancer-related research.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Biomedical Research",
+            "Cells",
+            "Computational Biology",
+            "Forecasting",
+            "Goals",
+            "Models, Molecular",
+            "Molecular Biology",
+            "Phenotype",
+            "Software",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Barry",
+                "Last Name": "Honig",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dana",
+                "Last Name": "Pe'er",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21570397",
+        "Title": "Susceptibility to amoxicillin-clavulanate-induced liver injury is influenced by multiple HLA class I and II alleles.",
+        "Abstract": "Drug-induced liver injury (DILI), especially from antimicrobial agents, is an important cause of serious liver disease. Amoxicillin-clavulanate (AC) is a leading cause of idiosyncratic DILI, but little is understood about genetic susceptibility to this adverse reaction.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adaptive Immunity",
+            "Aged",
+            "Aged, 80 and over",
+            "Amoxicillin-Potassium Clavulanate Combination",
+            "Anti-Bacterial Agents",
+            "Case-Control Studies",
+            "Chemical and Drug Induced Liver Injury",
+            "Chi-Square Distribution",
+            "Europe",
+            "Female",
+            "Gene Frequency",
+            "Genes, MHC Class I",
+            "Genes, MHC Class II",
+            "Genetic Predisposition to Disease",
+            "Genome-Wide Association Study",
+            "HLA-A Antigens",
+            "HLA-DQ Antigens",
+            "HLA-DQ beta-Chains",
+            "HLA-DR Antigens",
+            "HLA-DRB1 Chains",
+            "Haplotypes",
+            "Humans",
+            "Logistic Models",
+            "Male",
+            "Middle Aged",
+            "Odds Ratio",
+            "Phenotype",
+            "Polymorphism, Single Nucleotide",
+            "Registries",
+            "Risk Assessment",
+            "Risk Factors",
+            "United States",
+            "White People"
+        ],
+        "Authors": [
+            {
+                "First Name": "M Isabel",
+                "Last Name": "Lucena",
+                "Affiliation": "Facultad de Medicina, Hospital Universitario Virgen de la Victoria, Campus Universitario s/n, M\u00e1laga and Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Enfermedades Hep\u00e1ticas y Digestivas (CIBERehd), Barcelona, Spain."
+            },
+            {
+                "First Name": "Mariam",
+                "Last Name": "Molokhia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Thomas J",
+                "Last Name": "Urban",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Guruprasad P",
+                "Last Name": "Aithal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ra\u00fal J",
+                "Last Name": "Andrade",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher P",
+                "Last Name": "Day",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Francisco",
+                "Last Name": "Ruiz-Cabello",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter T",
+                "Last Name": "Donaldson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Camilla",
+                "Last Name": "Stephens",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Munir",
+                "Last Name": "Pirmohamed",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Manuel",
+                "Last Name": "Romero-Gomez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jose Maria",
+                "Last Name": "Navarro",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert J",
+                "Last Name": "Fontana",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Miller",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Max",
+                "Last Name": "Groome",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Emmanuelle",
+                "Last Name": "Bondon-Guitton",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anita",
+                "Last Name": "Conforti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bruno H C",
+                "Last Name": "Stricker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alfonso",
+                "Last Name": "Carvajal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Luisa",
+                "Last Name": "Ibanez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Qun-Ying",
+                "Last Name": "Yue",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michel",
+                "Last Name": "Eichelbaum",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Itsik",
+                "Last Name": "Pe'er",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark J",
+                "Last Name": "Daly",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David B",
+                "Last Name": "Goldstein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John F",
+                "Last Name": "Dillon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Nelson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paul B",
+                "Last Name": "Watkins",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ann K",
+                "Last Name": "Daly",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Gastroenterology",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "20511363",
+        "Title": "geWorkbench: an open source platform for integrative genomics.",
+        "Abstract": "geWorkbench (genomics Workbench) is an open source Java desktop application that provides access to an integrated suite of tools for the analysis and visualization of data from a wide range of genomics domains (gene expression, sequence, protein structure and systems biology). More than 70 distinct plug-in modules are currently available implementing both classical analyses (several variants of clustering, classification, homology detection, etc.) as well as state of the art algorithms for the reverse engineering of regulatory networks and for protein structure prediction, among many others. geWorkbench leverages standards-based middleware technologies to provide seamless access to remote data, annotation and computational servers, thus, enabling researchers with limited local resources to benefit from available public infrastructure.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Genomics",
+            "Protein Conformation",
+            "Proteins",
+            "Software",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "Center for Computational Biology and Bioinformatics, Columbia University, 1130 St. Nicholas Ave, New York, NY 10032, USA. geworkbench@c2b2.columbia.edu"
+            },
+            {
+                "First Name": "Kenneth",
+                "Last Name": "Smith",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zhou",
+                "Last Name": "Ji",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Watkinson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19483685",
+        "Title": "HLA-B*5701 genotype is a major determinant of drug-induced liver injury due to flucloxacillin.",
+        "Abstract": "Drug-induced liver injury (DILI) is an important cause of serious liver disease. The antimicrobial agent flucloxacillin is a common cause of DILI, but the genetic basis for susceptibility remains unclear. We conducted a genome-wide association (GWA) study using 866,399 markers in 51 cases of flucloxacillin DILI and 282 controls matched for sex and ancestry. The GWA showed an association peak in the major histocompatibility complex (MHC) region with the strongest association (P = 8.7 x 10(-33)) seen for rs2395029[G], a marker in complete linkage disequilibrium (LD) with HLA-B*5701. Further MHC genotyping, which included 64 flucloxacillin-tolerant controls, confirmed the association with HLA-B*5701 (OR = 80.6, P = 9.0 x 10(-19)). The association was replicated in a second cohort of 23 cases. In HLA-B*5701 carrier cases, rs10937275 in ST6GAL1 on chromosome 3 also showed genome-wide significance (OR = 4.1, P = 1.4 x 10(-8)). These findings provide new insights into the mechanism of flucloxacillin DILI and have the potential to substantially improve diagnosis of this serious disease.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Case-Control Studies",
+            "Chemical and Drug Induced Liver Injury",
+            "Female",
+            "Floxacillin",
+            "Genome-Wide Association Study",
+            "HLA-B Antigens",
+            "Humans",
+            "Male"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ann K",
+                "Last Name": "Daly",
+                "Affiliation": "Institute of Cellular Medicine and Institute of Human Genetics, Newcastle University, Newcastle upon Tyne, UK. a.k.daly@ncl.ac.uk"
+            },
+            {
+                "First Name": "Peter T",
+                "Last Name": "Donaldson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pallav",
+                "Last Name": "Bhatnagar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Itsik",
+                "Last Name": "Pe'er",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark J",
+                "Last Name": "Daly",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David B",
+                "Last Name": "Goldstein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sally",
+                "Last Name": "John",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Nelson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Graham",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "B Kevin",
+                "Last Name": "Park",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John F",
+                "Last Name": "Dillon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "William",
+                "Last Name": "Bernal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Heather J",
+                "Last Name": "Cordell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Munir",
+                "Last Name": "Pirmohamed",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Guruprasad P",
+                "Last Name": "Aithal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher P",
+                "Last Name": "Day",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature genetics",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18509477",
+        "Title": "iTools: a framework for classification, categorization and integration of computational biology resources.",
+        "Abstract": "The advancement of the computational biology field hinges on progress in three fundamental directions--the development of new computational algorithms, the availability of informatics resource management infrastructures and the capability of tools to interoperate and synergize. There is an explosion in algorithms and tools for computational biology, which makes it difficult for biologists to find, compare and integrate such resources. We describe a new infrastructure, iTools, for managing the query, traversal and comparison of diverse computational biology resources. Specifically, iTools stores information about three types of resources--data, software tools and web-services. The iTools design, implementation and resource meta-data content reflect the broad research, computational, applied and scientific expertise available at the seven National Centers for Biomedical Computing. iTools provides a system for classification, categorization and integration of different computational biology resources across space-and-time scales, biomedical problems, computational infrastructures and mathematical foundations. A large number of resources are already iTools-accessible to the community and this infrastructure is rapidly growing. iTools includes human and machine interfaces to its resource meta-data repository. Investigators or computer programs may utilize these interfaces to search, compare, expand, revise and mine meta-data descriptions of existent computational biology resources. We propose two ways to browse and display the iTools dynamic collection of resources. The first one is based on an ontology of computational biology resources, and the second one is derived from hyperbolic projections of manifolds or complex structures onto planar discs. iTools is an open source project both in terms of the source code development as well as its meta-data content. iTools employs a decentralized, portable, scalable and lightweight framework for long-term resource management. We demonstrate several applications of iTools as a framework for integrated bioinformatics. iTools and the complete details about its specifications, usage and interfaces are available at the iTools web page http://iTools.ccb.ucla.edu.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Computational Biology",
+            "Databases, Factual",
+            "Internet",
+            "Systems Integration"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ivo D",
+                "Last Name": "Dinov",
+                "Affiliation": "Center for Computational Biology, University of California Los Angeles, Los Angeles, California, United States of America."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Rubin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "William",
+                "Last Name": "Lorensen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Dugan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jeff",
+                "Last Name": "Ma",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shawn",
+                "Last Name": "Murphy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Beth",
+                "Last Name": "Kirschner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "William",
+                "Last Name": "Bug",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Sherman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Kennedy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "H V",
+                "Last Name": "Jagadish",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jeanette",
+                "Last Name": "Schmidt",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brian",
+                "Last Name": "Athey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Musen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Russ",
+                "Last Name": "Altman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ron",
+                "Last Name": "Kikinis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Isaac",
+                "Last Name": "Kohane",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Scott",
+                "Last Name": "Delp",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "D Stott",
+                "Last Name": "Parker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arthur W",
+                "Last Name": "Toga",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18466505",
+        "Title": "Pattern-based mining strategy to detect multi-locus association and gene x environment interaction.",
+        "Abstract": "As genome-wide association studies grow in popularity for the identification of genetic factors for common and rare diseases, analytical methods to comb through large numbers of genetic variants efficiently to identify disease association are increasingly in demand. We have developed a pattern-based data-mining approach to discover unlinked multilocus genetic effects for complex disease and to detect genotype x phenotype/genotype x environment interactions. On a densely mapped chromosome 18 data set for rheumatoid arthritis that was made available by Genetic Analysis Workshop 15, this method detected two potential two-locus associations as well as a putative two-locus gene x gender interaction.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Zhong",
+                "Last Name": "Li",
+                "Affiliation": "Department of Computational Genetics, High Throughput Biology Inc, 513 West Mount Pleasant Avenue, Livingston, New Jersey 07039, USA. zli@htbiology.com"
+            },
+            {
+                "First Name": "Tian",
+                "Last Name": "Zheng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC proceedings",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "12202776",
+        "Title": "Dictionary-driven protein annotation.",
+        "Abstract": "Computational methods seeking to automatically determine the properties (functional, structural, physicochemical, etc.) of a protein directly from the sequence have long been the focus of numerous research groups. With the advent of advanced sequencing methods and systems, the number of amino acid sequences that are being deposited in the public databases has been increasing steadily. This has in turn generated a renewed demand for automated approaches that can annotate individual sequences and complete genomes quickly, exhaustively and objectively. In this paper, we present one such approach that is centered around and exploits the Bio-Dictionary, a collection of amino acid patterns that completely covers the natural sequence space and can capture functional and structural signals that have been reused during evolution, within and across protein families. Our annotation approach also makes use of a weighted, position-specific scoring scheme that is unaffected by the over-representation of well-conserved proteins and protein fragments in the databases used. For a given query sequence, the method permits one to determine, in a single pass, the following: local and global similarities between the query and any protein already present in a public database; the likeness of the query to all available archaeal/ bacterial/eukaryotic/viral sequences in the database as a function of amino acid position within the query; the character of secondary structure of the query as a function of amino acid position within the query; the cytoplasmic, transmembrane or extracellular behavior of the query; the nature and position of binding domains, active sites, post-translationally modified sites, signal peptides, etc. In terms of performance, the proposed method is exhaustive, objective and allows for the rapid annotation of individual sequences and full genomes. Annotation examples are presented and discussed in Results, including individual queries and complete genomes that were released publicly after we built the Bio-Dictionary that is used in our experiments. Finally, we have computed the annotations of more than 70 complete genomes and made them available on the World Wide Web at http://cbcsrv.watson.ibm.com/Annotations/.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Amino Acid Sequence",
+            "Computational Biology",
+            "Databases, Protein",
+            "Dictionaries, Chemical as Topic",
+            "Genomics",
+            "Humans",
+            "Internet",
+            "Molecular Sequence Data",
+            "Proteins",
+            "Proteome",
+            "Sequence Alignment",
+            "Sequence Homology, Amino Acid",
+            "Ubiquitin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Isidore",
+                "Last Name": "Rigoutsos",
+                "Affiliation": "Bioinformatics and Pattern Discovery Group, IBM TJ Watson Research Center, Yorktown Heights, NY 10598, USA. rigoutso@us.ibm.com"
+            },
+            {
+                "First Name": "Tien",
+                "Last Name": "Huynh",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Laxmi",
+                "Last Name": "Parida",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Platt",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2002"
+    }
+]

@@ -1,5 +1,117 @@
 [
     {
+        "PMID": "39108295",
+        "Title": "Towards a \"universal translator\" for neural dynamics at single-cell, single-spike resolution.",
+        "Abstract": "Neuroscience research has made immense progress over the last decade, but our understanding of the brain remains fragmented and piecemeal: the dream of probing an arbitrary brain region and automatically reading out the information encoded in its neural activity remains out of reach. In this work, we build towards a first foundation model for neural spiking data that can solve a diverse set of tasks across multiple brain areas. We introduce a novel self-supervised modeling approach for population activity in which the model alternates between masking out and reconstructing neural activity across different time steps, neurons, and brain regions. To evaluate our approach, we design unsupervised and supervised prediction tasks using the International Brain Laboratory repeated site dataset, which is comprised of Neuropixels recordings targeting the same brain locations across 48 animals and experimental sessions. The prediction tasks include single-neuron and region-level activity prediction, forward prediction, and behavior decoding. We demonstrate that our multi-task-masking (MtM) approach significantly improves the performance of current state-of-the-art population models and enables multi-task learning. We also show that by training on multiple animals, we can improve the generalization ability of the model to unseen animals, paving the way for a foundation model of the brain at single-cell, single-spike resolution.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Yizi",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yanchen",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Donato",
+                "Last Name": "Jimenez-Beneto",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zixuan",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mehdi",
+                "Last Name": "Azabou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Blake",
+                "Last Name": "Richards",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Olivier",
+                "Last Name": "Winter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "International Brain",
+                "Last Name": "Laboratory",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eva",
+                "Last Name": "Dyer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Liam",
+                "Last Name": "Paninski",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cole",
+                "Last Name": "Hurwitz",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "ArXiv",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39108294",
+        "Title": "A study of animal action segmentation algorithms across supervised, unsupervised, and semi-supervised learning paradigms.",
+        "Abstract": "Action segmentation of behavioral videos is the process of labeling each frame as belonging to one or more discrete classes, and is a crucial component of many studies that investigate animal behavior. A wide range of algorithms exist to automatically parse discrete animal behavior, encompassing supervised, unsupervised, and semi-supervised learning paradigms. These algorithms -- which include tree-based models, deep neural networks, and graphical models -- differ widely in their structure and assumptions on the data. Using four datasets spanning multiple species -- fly, mouse, and human -- we systematically study how the outputs of these various algorithms align with manually annotated behaviors of interest. Along the way, we introduce a semi-supervised action segmentation model that bridges the gap between supervised deep neural networks and unsupervised graphical models. We find that fully supervised temporal convolutional networks with the addition of temporal information in the observations perform the best on our supervised metrics across all datasets.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Ari",
+                "Last Name": "Blau",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Evan S",
+                "Last Name": "Schaffer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Neeli",
+                "Last Name": "Mishra",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nathaniel J",
+                "Last Name": "Miska",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "The International Brain",
+                "Last Name": "Laboratory",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Liam",
+                "Last Name": "Paninski",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Whiteway",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "ArXiv",
+        "PubDate": "2024"
+    },
+    {
         "PMID": "38918605",
         "Title": "Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling and cloud-native open-source tools.",
         "Abstract": "Contemporary pose estimation methods enable precise measurements of behavior via supervised deep learning with hand-labeled video frames. Although effective in many cases, the supervised approach requires extensive labeling and often produces outputs that are unreliable for downstream analyses. Here, we introduce 'Lightning Pose', an efficient pose estimation package with three algorithmic contributions. First, in addition to training on a few labeled video frames, we use many unlabeled videos and penalize the network whenever its predictions violate motion continuity, multiple-view geometry and posture plausibility (semi-supervised learning). Second, we introduce a network architecture that resolves occlusions by predicting pose on any given frame using surrounding unlabeled frames. Third, we refine the pose predictions post hoc by combining ensembling and Kalman smoothing. Together, these components render pose trajectories more accurate and scientifically usable. We released a cloud application that allows users to label data, train networks and process new videos directly from the browser.",

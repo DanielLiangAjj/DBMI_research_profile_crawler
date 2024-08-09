@@ -1,5 +1,58 @@
 [
     {
+        "PMID": "39090091",
+        "Title": "Neural representational geometries reflect behavioral differences in monkeys and recurrent neural networks.",
+        "Abstract": "Animals likely use a variety of strategies to solve laboratory tasks. Traditionally, combined analysis of behavioral and neural recording data across subjects employing different strategies may obscure important signals and give confusing results. Hence, it is essential to develop techniques that can infer strategy at the single-subject level. We analyzed an experiment in which two male monkeys performed a visually cued rule-based task. The analysis of their performance shows no indication that they used a different strategy. However, when we examined the geometry of stimulus representations in the state space of the neural activities recorded in dorsolateral prefrontal cortex, we found striking differences between the two monkeys. Our purely neural results induced us to reanalyze the behavior. The new analysis showed that the differences in representational geometry are associated with differences in the reaction times, revealing behavioral differences we were unaware of. All these analyses suggest that the monkeys are using different strategies. Finally, using recurrent neural network models trained to perform the same task, we show that these strategies correlate with the amount of training, suggesting a possible explanation for the observed neural and behavioral differences.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Male",
+            "Behavior, Animal",
+            "Prefrontal Cortex",
+            "Macaca mulatta",
+            "Reaction Time",
+            "Neural Networks, Computer",
+            "Nerve Net",
+            "Cues",
+            "Neurons",
+            "Models, Neurological"
+        ],
+        "Authors": [
+            {
+                "First Name": "Valeria",
+                "Last Name": "Fascianelli",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, New York, NY, USA. vf2266@columbia.edu."
+            },
+            {
+                "First Name": "Aldo",
+                "Last Name": "Battista",
+                "Affiliation": "Center for Neural Science, New York University, New York, NY, USA."
+            },
+            {
+                "First Name": "Fabio",
+                "Last Name": "Stefanini",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Satoshi",
+                "Last Name": "Tsujimoto",
+                "Affiliation": "SixthFactor Pte. Ltd, Singapore, Singapore."
+            },
+            {
+                "First Name": "Aldo",
+                "Last Name": "Genovesio",
+                "Affiliation": "Department of Physiology and Pharmacology, Sapienza University of Rome, Rome, Italy. aldo.genovesio@uniroma1.it."
+            },
+            {
+                "First Name": "Stefano",
+                "Last Name": "Fusi",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, New York, NY, USA. sf2237@columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2024"
+    },
+    {
         "PMID": "39019928",
         "Title": "Author Correction: Perirhinal cortex learns a predictive map of the task environment.",
         "Abstract": null,
