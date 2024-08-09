@@ -1,13 +1,16 @@
 import requests
 import json
 import csv
+from dotenv import load_dotenv
 import os
+import re
 from xml.etree import ElementTree as ET
 
 # Define the PubMed API endpoints
 PUBMED_SEARCH_API_ENDPOINT = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 PUBMED_FETCH_API_ENDPOINT = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
-PUBMED_API_KEY = ""  # Replace with your actual PubMed API key
+load_dotenv()
+PUBMED_API_KEY = os.getenv("PubMed_API_KEY")
 
 
 def search_pubmed_by_author(author_name):
@@ -81,24 +84,44 @@ def parse_article_details(xml_data):
     return articles
 
 
+def normalize_name(name):
+    if "," in name:
+        comma_index = name.find(",")
+        return name[:comma_index]
+    return name
+
+
+def drop_middle_name(name):
+    if "." in name and name[-1] != '.' and name[name.index('.')-2] == " " and name[name.index('.')+1] == ' ':
+        res = name[:name.index('.')-1] + name[name.index('.')+2:]
+        return res
+    else:
+        return ""
 def names_to_search(set):
     res = []
-    json_file_path = 'matches.json'
-    with open(json_file_path, 'r') as file:
-        data = json.load(file)
-    names_list = data
-    for i in range(len(set)):
-        if set[i] not in names_list:
-            if ',' in set[i]:
-                res.append(set[i][:set[i].index(',')])
+    folder_path = 'researchers_files(Yilu_format)'
+    name_list = []
+    for filename in os.listdir(folder_path):
+        if filename.endswith('.json'):
+            name_list.append(os.path.splitext(filename)[0])
+    for i in set:
+        if i not in name_list and i != "N/A":
+            normalized_name = normalize_name(i)
+            dropped_middle_name = drop_middle_name(normalized_name)
+            if dropped_middle_name != "":
+                res.append([normalized_name,dropped_middle_name])
             else:
-                res.append(set[i])
+                res.append([normalized_name])
+    return res
+
+
 
     return res
 
 
 def main():
     comparison_csv_path = "columbia_research_faculty_extracted.csv"
+    non_existing_name = []
 
     # Load the names from the comparison CSV file
     comparison_names = []
@@ -109,17 +132,23 @@ def main():
 
     names = names_to_search(comparison_names)
 
-    for author_name in names:
-        print(f"Pulling articles of {author_name}")
-        if author_name == "N/A":
-            continue
-        # Search PubMed by author name
-        search_results = search_pubmed_by_author(author_name)
-        pmids = search_results['esearchresult']['idlist']
-        print(f"{len(pmids)} articles found")
+    for name_variants in names:
+        print(f"Trying names: {name_variants}")
+
+        pmids = []
+        for author_name in name_variants:
+            print(f"Searching articles for {author_name}")
+            # Search PubMed by author name
+            search_results = search_pubmed_by_author(author_name)
+            pmids = search_results['esearchresult']['idlist']
+
+            if pmids:
+                print(f"{len(pmids)} articles found for {author_name}")
+                break  # Exit the loop if we found any articles
 
         if not pmids:
-            print(f"No articles found for author: {author_name}")
+            print(f"No articles found for any variants of name: {name_variants}")
+            non_existing_name.append(name_variants)
             print("=======================================================")
             continue
 
@@ -132,12 +161,13 @@ def main():
         # Output the results
         output_dir = 'researchers_files(Yilu_format)'
         os.makedirs(output_dir, exist_ok=True)
-        output_path = os.path.join(output_dir, f'{author_name}.json')
+        output_path = os.path.join(output_dir, f'{name_variants[0]}.json')
 
         with open(output_path, 'w', encoding='utf-8') as output_file:
             json.dump(articles, output_file, indent=4)
 
         print(f"Data saved to {output_path}")
+        print(f"Failed to search for: {non_existing_name}")
         print("=======================================================")
 
 
