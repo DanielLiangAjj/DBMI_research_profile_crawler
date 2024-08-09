@@ -13,6 +13,7 @@ load_dotenv()
 PUBMED_API_KEY = os.getenv("PubMed_API_KEY")
 
 
+
 def search_pubmed_by_author(author_name):
     params = {
         "db": "pubmed",
