@@ -6,8 +6,11 @@ from compare_name_matches import *
 
 from openai import OpenAI
 import json
-api_key = ''
-client = OpenAI(api_key=api_key)
+from dotenv import load_dotenv
+import os
+load_dotenv()
+GPT_API_KEY = os.getenv("GPT_API_KEY")
+client = OpenAI(api_key=GPT_API_KEY)
 
 def get_chatgpt_response(research_articles):
     response = client.chat.completions.create(model="gpt-4o-mini",
@@ -76,8 +79,8 @@ def prompt_research_summary_based_on_abstract():
     print("ChatGPT Responses saved to", output_file)
 
 def prompt_research_interest_based_on_MeSH():
-    # folder_path = 'researchers_files(Yilu_format)'
-    folder_path = 'output'
+    folder_path = 'researchers_files(Yilu_format)'
+    # folder_path = 'output'
     research_txt = []
     for filename in os.listdir("Research Interests"):
         if filename.endswith('.txt'):
@@ -88,8 +91,8 @@ def prompt_research_interest_based_on_MeSH():
     for filename in os.listdir(folder_path):
         print(f"Reading {filename}")
         if filename.endswith('.json'):
-            # name, _ = os.path.splitext(filename)
-            name = compare_name_matches.extract_name_from_filename(filename)
+            name, _ = os.path.splitext(filename)
+            # name = compare_name_matches.extract_name_from_filename(filename)
             if name in research_txt:
                 continue
         else:
@@ -168,4 +171,5 @@ def prompt_research_overview_based_on_MeSH():
         print(f"Research interests saved to {txt_file_path}")
 
 if __name__ == "__main__":
-    prompt_research_overview_based_on_MeSH()
+    # prompt_research_overview_based_on_MeSH()
+    prompt_research_interest_based_on_MeSH()
