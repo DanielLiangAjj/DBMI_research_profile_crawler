@@ -1,0 +1,1640 @@
+[
+    {
+        "PMID": "38711781",
+        "Title": "Current status of artificial intelligence methods for skin cancer survival analysis: a scoping review.",
+        "Abstract": "Skin cancer mortality rates continue to rise, and survival analysis is increasingly needed to understand who is at risk and what interventions improve outcomes. However, current statistical methods are limited by inability to synthesize multiple data types, such as patient genetics, clinical history, demographics, and pathology and reveal significant multimodal relationships through predictive algorithms. Advances in computing power and data science enabled the rise of artificial intelligence (AI), which synthesizes vast amounts of data and applies algorithms that enable personalized diagnostic approaches. Here, we analyze AI methods used in skin cancer survival analysis, focusing on supervised learning, unsupervised learning, deep learning, and natural language processing. We illustrate strengths and weaknesses of these approaches with examples. Our PubMed search yielded 14 publications meeting inclusion criteria for this scoping review. Most publications focused on melanoma, particularly histopathologic interpretation with deep learning. Such concentration on a single type of skin cancer amid increasing focus on deep learning highlight growing areas for innovation; however, it also demonstrates opportunity for additional analysis that addresses other types of cutaneous malignancies and expands the scope of prognostication to combine both genetic, histopathologic, and clinical data. Moreover, researchers may leverage multiple AI methods for enhanced benefit in analyses. Expanding AI to this arena may enable improved survival analysis, targeted treatments, and outcomes.",
+        "Keywords": [
+            "artificial intelligence",
+            "deep learning",
+            "machine learning",
+            "natural language processing",
+            "oncology",
+            "skin cancer",
+            "supervised learning",
+            "unsupervised learning"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Celine M",
+                "Last Name": "Schreidah",
+                "Affiliation": "Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Emily R",
+                "Last Name": "Gordon",
+                "Affiliation": "Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Oluwaseyi",
+                "Last Name": "Adeuyan",
+                "Affiliation": "Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Caroline",
+                "Last Name": "Chen",
+                "Affiliation": "Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Brigit A",
+                "Last Name": "Lapolla",
+                "Affiliation": "Department of Dermatology, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Joshua A",
+                "Last Name": "Kent",
+                "Affiliation": "Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo, NY, United States."
+            },
+            {
+                "First Name": "George Bingham",
+                "Last Name": "Reynolds",
+                "Affiliation": "The Data Science Institute, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Lauren M",
+                "Last Name": "Fahmy",
+                "Affiliation": "Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "The Data Science Institute, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "The Data Science Institute, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Itsik",
+                "Last Name": "Pe'er",
+                "Affiliation": "The Data Science Institute, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Larisa J",
+                "Last Name": "Geskin",
+                "Affiliation": "Department of Dermatology, Columbia University Irving Medical Center, New York, NY, United States."
+            }
+        ],
+        "Journal": "Frontiers in medicine",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37482644",
+        "Title": "Using Machine Learning (ML) Models to Predict Risk of Venous Thromboembolism (VTE) Following Spine Surgery.",
+        "Abstract": "A retrospective cohort study.",
+        "Keywords": [],
+        "MeSH terms": [
+            "United States",
+            "Humans",
+            "Aged",
+            "Venous Thromboembolism",
+            "Retrospective Studies",
+            "Medicare",
+            "Risk Factors",
+            "Comorbidity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Prerana",
+                "Last Name": "Katiyar",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons."
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": "Columbia University Irving Medical Center."
+            },
+            {
+                "First Name": "Lawrence G",
+                "Last Name": "Lenke",
+                "Affiliation": "Columbia University Irving Medical Center."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Weidenbaum",
+                "Affiliation": "Columbia University Irving Medical Center."
+            },
+            {
+                "First Name": "Zeeshan M",
+                "Last Name": "Sardar",
+                "Affiliation": "Columbia University Irving Medical Center."
+            }
+        ],
+        "Journal": "Clinical spine surgery",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36302158",
+        "Title": "Predicting Bone Health Using Machine Learning in Patients undergoing Spinal Reconstruction Surgery.",
+        "Abstract": "Retrospective study of data collected prospectively.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Humans",
+            "Bone Density",
+            "Retrospective Studies",
+            "Absorptiometry, Photon",
+            "Bone Diseases, Metabolic",
+            "Machine Learning"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yong",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Orthopedic Surgery, Columbia University Medical Center, The Spine Hospital at New York Presbyterian."
+            },
+            {
+                "First Name": "Zeeshan M",
+                "Last Name": "Sardar",
+                "Affiliation": "Department of Orthopedic Surgery, Columbia University Medical Center, The Spine Hospital at New York Presbyterian."
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York City, NY."
+            },
+            {
+                "First Name": "Josephine R",
+                "Last Name": "Coury",
+                "Affiliation": "Department of Orthopedic Surgery, Columbia University Medical Center, The Spine Hospital at New York Presbyterian."
+            },
+            {
+                "First Name": "Meghan",
+                "Last Name": "Cerpa",
+                "Affiliation": "Department of Orthopedic Surgery, Columbia University Medical Center, The Spine Hospital at New York Presbyterian."
+            },
+            {
+                "First Name": "Lawrence G",
+                "Last Name": "Lenke",
+                "Affiliation": "Department of Orthopedic Surgery, Columbia University Medical Center, The Spine Hospital at New York Presbyterian."
+            }
+        ],
+        "Journal": "Spine",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "34798832",
+        "Title": "Prevalence of potentially harmful multidrug interactions on medication lists of elderly ambulatory patients.",
+        "Abstract": "It has been hypothesized that polypharmacy may increase the frequency of multidrug interactions (MDIs) where one drug interacts with two or more other drugs, amplifying the risk of associated adverse drug events (ADEs). The main objective of this study was to determine the prevalence of MDIs in medication lists of elderly ambulatory patients and to identify the medications most commonly involved in MDIs that amplify the risk of ADEs.",
+        "Keywords": [
+            "ADEs",
+            "Adverse drug events",
+            "DDIs",
+            "Drug-drug interactions",
+            "Multidrug interactions",
+            "Polypharmacy"
+        ],
+        "MeSH terms": [
+            "Aged",
+            "Drug Interactions",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Humans",
+            "Outpatients",
+            "Polypharmacy",
+            "Prevalence"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tara V",
+                "Last Name": "Anand",
+                "Affiliation": "Department of Biomedical informatics, Columbia University Medical Center, 622 West 168th Street, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Brendan K",
+                "Last Name": "Wallace",
+                "Affiliation": "Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": "Department of Biomedical informatics, Columbia University Medical Center, 622 West 168th Street, New York, NY, 10032, USA. hc15@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "BMC geriatrics",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33749656",
+        "Title": "Clinical Features and Outcomes of Patients with Dementia Compared to an Aging Cohort Hospitalized During the Initial New York City COVID-19 Wave.",
+        "Abstract": "Patients with dementia are vulnerable during the coronavirus disease 2019 (COVID-19) pandemic, yet few studies describe their hospital course and outcomes.",
+        "Keywords": [
+            "Advance directives",
+            "COVID-19",
+            "delirium",
+            "dementia",
+            "geriatrics",
+            "neurology"
+        ],
+        "MeSH terms": [
+            "Aged",
+            "Aged, 80 and over",
+            "COVID-19",
+            "Comorbidity",
+            "Delirium",
+            "Dementia",
+            "Female",
+            "Hospital Mortality",
+            "Hospitalization",
+            "Humans",
+            "Male",
+            "New York City",
+            "Pandemics",
+            "Retrospective Studies"
+        ],
+        "Authors": [
+            {
+                "First Name": "Amro A",
+                "Last Name": "Harb",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "RuiJun",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "James M",
+                "Last Name": "Noble",
+                "Affiliation": "Columbia University Irving Medical Center, New York, NY, USA."
+            }
+        ],
+        "Journal": "Journal of Alzheimer's disease : JAD",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "29974501",
+        "Title": "Management of afebrile neonates with pustules and vesicles in a pediatric emergency department.",
+        "Abstract": "To assess the management and outcomes of vesicles and pustules in afebrile neonates presenting to the pediatric emergency department.",
+        "Keywords": [
+            "infection-bacterial",
+            "infection-viral",
+            "neonatal",
+            "skin signs of systemic disease"
+        ],
+        "MeSH terms": [
+            "Emergency Service, Hospital",
+            "Exanthema",
+            "Female",
+            "Fever",
+            "Hospitalization",
+            "Humans",
+            "Infant",
+            "Infant, Newborn",
+            "Male",
+            "Practice Patterns, Physicians'",
+            "Retrospective Studies"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christina S",
+                "Last Name": "Manice",
+                "Affiliation": "Department of Pediatrics, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Paul J",
+                "Last Name": "Planet",
+                "Affiliation": "Department of Pediatrics, Children's Hospital of Philadelphia, Philadelphia, PA, USA."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Christine T",
+                "Last Name": "Lauren",
+                "Affiliation": "Department of Pediatrics, Columbia University Medical Center, New York, NY, USA."
+            }
+        ],
+        "Journal": "Pediatric dermatology",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29258594",
+        "Title": "Monitoring prescribing patterns using regression and electronic health records.",
+        "Abstract": "It is beneficial for health care institutions to monitor physician prescribing patterns to ensure that high-quality and cost-effective care is being provided to patients. However, detecting treatment patterns within an institution is challenging, given that medications and conditions are often not explicitly linked in the health record. Here we demonstrate the use of statistical methods together with data from the electronic health care record (EHR) to analyze prescribing patterns at an institution.",
+        "Keywords": [
+            "Electronic health records",
+            "Health care quality control",
+            "Prescribing patterns"
+        ],
+        "MeSH terms": [
+            "Case-Control Studies",
+            "Drug Prescriptions",
+            "Electronic Health Records",
+            "Humans",
+            "Practice Patterns, Physicians'",
+            "Quality of Health Care",
+            "Regression Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Daniel",
+                "Last Name": "Backenroth",
+                "Affiliation": "Columbia University Mailman School of Public Health, 722 West 168th Street, #633, New York, NY, 10032, USA. db2175@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, 622 West 168th Street, PH-20, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Ying",
+                "Last Name": "Wei",
+                "Affiliation": "Columbia University Mailman School of Public Health, 722 West 168th Street, #633, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, 622 West 168th Street, PH-20, New York, NY, 10032, USA."
+            }
+        ],
+        "Journal": "BMC medical informatics and decision making",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28241760",
+        "Title": "Early recognition of multiple sclerosis using natural language processing of the electronic health record.",
+        "Abstract": "Diagnostic accuracy might be improved by algorithms that searched patients' clinical notes in the electronic health record (EHR) for signs and symptoms of diseases such as multiple sclerosis (MS). The focus this study was to determine if patients with MS could be identified from their clinical notes prior to the initial recognition by their healthcare providers.",
+        "Keywords": [
+            "Computer-assisted [E01.158]",
+            "Diagnosis",
+            "Diagnostic errors [E01.354]",
+            "Early Diagnosis [E01.390]",
+            "Electronic health records [E05.318.308.940.968.249.500]",
+            "Natural language processing [L01.224.050.375.580]",
+            "multiple sclerosis [C10.114.375.500]"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Aged",
+            "Cohort Studies",
+            "Diagnosis, Computer-Assisted",
+            "Early Diagnosis",
+            "Electronic Health Records",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Multiple Sclerosis",
+            "Natural Language Processing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, PH-20, 622 West 168th street, New York, NY, 10032, USA. hc15@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Lindsey R",
+                "Last Name": "Mitrani",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, PH-20, 622 West 168th street, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Gabriel G",
+                "Last Name": "Lu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, PH-20, 622 West 168th street, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Dominick J",
+                "Last Name": "Fulgieri",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, PH-20, 622 West 168th street, New York, NY, 10032, USA."
+            }
+        ],
+        "Journal": "BMC medical informatics and decision making",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27716785",
+        "Title": "Using Rich Data on Comorbidities in Case-Control Study Design with Electronic Health Record Data Improves Control of Confounding in the Detection of Adverse Drug Reactions.",
+        "Abstract": "Recent research has suggested that the case-control study design, unlike the self-controlled study design, performs poorly in controlling confounding in the detection of adverse drug reactions (ADRs) from administrative claims and electronic health record (EHR) data, resulting in biased estimates of the causal effects of drugs on health outcomes of interest (HOI) and inaccurate confidence intervals. Here we show that using rich data on comorbidities and automatic variable selection strategies for selecting confounders can better control confounding within a case-control study design and provide a more solid basis for inference regarding the causal effects of drugs on HOIs. Four HOIs are examined: acute kidney injury, acute liver injury, acute myocardial infarction and gastrointestinal ulcer hospitalization. For each of these HOIs we use a previously published reference set of positive and negative control drugs to evaluate the performance of our methods. Our methods have AUCs that are often substantially higher than the AUCs of a baseline method that only uses demographic characteristics for confounding control. Our methods also give confidence intervals for causal effect parameters that cover the expected no effect value substantially more often than this baseline method. The case-control study design, unlike the self-controlled study design, can be used in the fairly typical setting of EHR databases without longitudinal information on patients. With our variable selection method, these databases can be more effectively used for the detection of ADRs.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acute Kidney Injury",
+            "Adult",
+            "Adverse Drug Reaction Reporting Systems",
+            "Aged",
+            "Area Under Curve",
+            "Case-Control Studies",
+            "Comorbidity",
+            "Databases, Factual",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Electronic Health Records",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Myocardial Infarction",
+            "Research Design",
+            "Risk Assessment"
+        ],
+        "Authors": [
+            {
+                "First Name": "Daniel",
+                "Last Name": "Backenroth",
+                "Affiliation": "Department of Biostatistics, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Ying",
+                "Last Name": "Wei",
+                "Affiliation": "Department of Biostatistics, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26335981",
+        "Title": "Medication-indication knowledge bases: a systematic review and critical appraisal.",
+        "Abstract": "Medication-indication information is a key part of the information needed for providing decision support for and promoting appropriate use of medications. However, this information is not readily available to end users, and a lot of the resources only contain this information in unstructured form (free text). A number of public knowledge bases (KBs) containing structured medication-indication information have been developed over the years, but a direct comparison of these resources has not yet been conducted.",
+        "Keywords": [
+            "appropriateness",
+            "drug therapy",
+            "electronic health records",
+            "indication",
+            "off-label use"
+        ],
+        "MeSH terms": [
+            "Drug Therapy, Computer-Assisted",
+            "Humans",
+            "Knowledge Bases",
+            "Off-Label Use",
+            "Systematized Nomenclature of Medicine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hojjat",
+                "Last Name": "Salmasian",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA hs2610@columbia.edu."
+            },
+            {
+                "First Name": "Tran H",
+                "Last Name": "Tran",
+                "Affiliation": "New York Presbyterian Hospital, New York, New York, USA College of Pharmacy and Health Sciences, St. John's University."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25431293",
+        "Title": "Presence of early CKD-related metabolic complications predict progression of stage 3 CKD: a case-controlled study.",
+        "Abstract": "Only a subset of patients who enter stage 3 chronic kidney disease (CKD) progress to stage 4. Identifying which patients entering stage 3 are most likely to progress could improve outcomes, by allowing more appropriate referrals for specialist care, and spare those unlikely to progress the adverse effects and costliness of an unnecessarily aggressive approach. We hypothesized that compared to non-progressors, patients who enter stage 3 CKD and ultimately progress have experienced greater loss of renal function, manifested by impairment of metabolic function (anemia, worsening acidosis and mineral abnormalities), than is reflected in the eGFR at entry to stage 3. The purpose of this case-controlled study was to design a prediction model for CKD progression using laboratory values reflecting metabolic status.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acidosis",
+            "Aged",
+            "Aged, 80 and over",
+            "Anemia",
+            "Bicarbonates",
+            "Calcium",
+            "Case-Control Studies",
+            "Creatine",
+            "Diabetes Mellitus",
+            "Disease Progression",
+            "Ethnicity",
+            "Female",
+            "Follow-Up Studies",
+            "Glomerular Filtration Rate",
+            "Humans",
+            "Male",
+            "New York",
+            "Phosphorus",
+            "Prognosis",
+            "Renal Insufficiency, Chronic",
+            "Risk Assessment",
+            "Serum Albumin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": "Division of Nephrology, Columbia University, New York, NY, USA. hc15@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Jamie S",
+                "Last Name": "Hirsch",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sumit",
+                "Last Name": "Mohan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maya K",
+                "Last Name": "Rao",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jai",
+                "Last Name": "Radhakrishnan",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC nephrology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "33981381",
+        "Title": "Survival Analysis with Electronic Health Record Data: Experiments with Chronic Kidney Disease.",
+        "Abstract": "This paper presents a detailed survival analysis for chronic kidney disease (CKD). The analysis is based on the EHR data comprising almost two decades of clinical observations collected at New York-Presbyterian, a large hospital in New York City with one of the oldest electronic health records in the United States. Our survival analysis approach centers around Bayesian multiresolution hazard modeling, with an objective to capture the changing hazard of CKD over time, adjusted for patient clinical covariates and kidney-related laboratory tests. Special attention is paid to statistical issues common to all EHR data, such as cohort definition, missing data and censoring, variable selection, and potential for joint survival and longitudinal modeling, all of which are discussed alone and within the EHR CKD context.",
+        "Keywords": [
+            "EHR",
+            "MRH",
+            "chronic kidney disease",
+            "multiresolution hazard",
+            "survival analysis"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Yolanda",
+                "Last Name": "Hagar",
+                "Affiliation": "Yolanda Hagar is a postdoctoral researcher in applied mathematics at the University of Colorado at Boulder. David Albers is an associate research scientist in biomedical informatics at Columbia University. Rimma Pivovarov is a doctoral candidate in biomedical informatics at Columbia University. Herbert Chase is a professor of clinical medicine in biomedical informatics at Columbia University. Vanja Dukic is an associate professor in applied mathematics at the University of Colorado at Boulder. No\u00e9mie Elhadad is an assistant professor in biomedical informatics at Columbia University."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Albers",
+                "Affiliation": "Yolanda Hagar is a postdoctoral researcher in applied mathematics at the University of Colorado at Boulder. David Albers is an associate research scientist in biomedical informatics at Columbia University. Rimma Pivovarov is a doctoral candidate in biomedical informatics at Columbia University. Herbert Chase is a professor of clinical medicine in biomedical informatics at Columbia University. Vanja Dukic is an associate professor in applied mathematics at the University of Colorado at Boulder. No\u00e9mie Elhadad is an assistant professor in biomedical informatics at Columbia University."
+            },
+            {
+                "First Name": "Rimma",
+                "Last Name": "Pivovarov",
+                "Affiliation": "Yolanda Hagar is a postdoctoral researcher in applied mathematics at the University of Colorado at Boulder. David Albers is an associate research scientist in biomedical informatics at Columbia University. Rimma Pivovarov is a doctoral candidate in biomedical informatics at Columbia University. Herbert Chase is a professor of clinical medicine in biomedical informatics at Columbia University. Vanja Dukic is an associate professor in applied mathematics at the University of Colorado at Boulder. No\u00e9mie Elhadad is an assistant professor in biomedical informatics at Columbia University."
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": "Yolanda Hagar is a postdoctoral researcher in applied mathematics at the University of Colorado at Boulder. David Albers is an associate research scientist in biomedical informatics at Columbia University. Rimma Pivovarov is a doctoral candidate in biomedical informatics at Columbia University. Herbert Chase is a professor of clinical medicine in biomedical informatics at Columbia University. Vanja Dukic is an associate professor in applied mathematics at the University of Colorado at Boulder. No\u00e9mie Elhadad is an assistant professor in biomedical informatics at Columbia University."
+            },
+            {
+                "First Name": "Vanja",
+                "Last Name": "Dukic",
+                "Affiliation": "Yolanda Hagar is a postdoctoral researcher in applied mathematics at the University of Colorado at Boulder. David Albers is an associate research scientist in biomedical informatics at Columbia University. Rimma Pivovarov is a doctoral candidate in biomedical informatics at Columbia University. Herbert Chase is a professor of clinical medicine in biomedical informatics at Columbia University. Vanja Dukic is an associate professor in applied mathematics at the University of Colorado at Boulder. No\u00e9mie Elhadad is an assistant professor in biomedical informatics at Columbia University."
+            },
+            {
+                "First Name": "No\u00e9mie",
+                "Last Name": "Elhadad",
+                "Affiliation": "Yolanda Hagar is a postdoctoral researcher in applied mathematics at the University of Colorado at Boulder. David Albers is an associate research scientist in biomedical informatics at Columbia University. Rimma Pivovarov is a doctoral candidate in biomedical informatics at Columbia University. Herbert Chase is a professor of clinical medicine in biomedical informatics at Columbia University. Vanja Dukic is an associate professor in applied mathematics at the University of Colorado at Boulder. No\u00e9mie Elhadad is an assistant professor in biomedical informatics at Columbia University."
+            }
+        ],
+        "Journal": "Statistical analysis and data mining",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25000896",
+        "Title": "Renal insufficiency is associated with an increased risk of papillary renal cell carcinoma histology.",
+        "Abstract": "End-stage renal disease (ESRD) and acquired renal cystic disease associated with dialysis are known risk factors of papillary renal cell carcinoma (pRCC); however, it is not known whether renal insufficiency alone is a risk factor for pRCC. Our aim was to test whether renal insufficiency is associated with an increased preponderance of pRCC.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Carcinoma, Papillary",
+            "Female",
+            "Follow-Up Studies",
+            "Humans",
+            "Kidney Neoplasms",
+            "Male",
+            "Middle Aged",
+            "Prognosis",
+            "Renal Insufficiency",
+            "Retrospective Studies",
+            "Risk Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Solomon L",
+                "Last Name": "Woldu",
+                "Affiliation": "Department of Urology, Columbia University Medical Center, Herbert Irving Pavilion - 11th Floor 161 Ft. Washington Ave, New York, NY, 10032, USA, solomon.l.woldu@gmail.com."
+            },
+            {
+                "First Name": "Aaron C",
+                "Last Name": "Weinberg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arindam",
+                "Last Name": "RoyChoudhury",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sean D",
+                "Last Name": "Kalloo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James M",
+                "Last Name": "McKiernan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "G Joel",
+                "Last Name": "DeCastro",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "International urology and nephrology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24641586",
+        "Title": "Vitamin D resistance in chronic kidney disease (CKD).",
+        "Abstract": "Previous studies have shown that treatment with ergocalciferol in patients with CKD stage 3 + 4 is not effective with less than 33% of patients achieving a 25-OH vitamin D target of >30 ng/ml. The aim of this study was to test the response to cholecalciferol in CKD. We attempted to replete 25-OH vitamin D to a target level of 40-60 ng/ml using the response to treatment and PTH suppression as an outcome measure.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aged",
+            "Drug Resistance",
+            "Female",
+            "Humans",
+            "Hyperparathyroidism, Secondary",
+            "Male",
+            "Middle Aged",
+            "Renal Insufficiency, Chronic",
+            "Treatment Outcome",
+            "Vitamin D",
+            "Vitamin D Deficiency",
+            "Vitamins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Amay",
+                "Last Name": "Parikh",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Linda",
+                "Last Name": "Vernocchi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Leonard",
+                "Last Name": "Stern",
+                "Affiliation": "Nephrology, Columbia University, New York, NY, USA. ls38@columbia.edu."
+            }
+        ],
+        "Journal": "BMC nephrology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25954398",
+        "Title": "Development and validation of an electronic phenotyping algorithm for chronic kidney disease.",
+        "Abstract": "Twenty-six million Americans are estimated to have chronic kidney disease (CKD) with increased risk for cardiovascular disease and end stage renal disease. CKD is frequently undiagnosed and patients are unaware, hampering intervention. A tool for accurate and timely identification of CKD from electronic medical records (EMR) could improve healthcare quality and identify patients for research. As members of eMERGE (electronic medical records and genomics) Network, we developed an automated phenotyping algorithm that can be deployed to identify rapidly diabetic and/or hypertensive CKD cases and controls in health systems with EMRs It uses diagnostic codes, laboratory results, medication and blood pressure records, and textual information culled from notes. Validation statistics demonstrated positive predictive values of 96% and negative predictive values of 93.3. Similar results were obtained on implementation by two independent eMERGE member institutions. The algorithm dramatically outperformed identification by ICD-9-CM codes with 63% positive and 54% negative predictive values, respectively.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Diabetes Complications",
+            "Electronic Health Records",
+            "Humans",
+            "Hypertension",
+            "Phenotype",
+            "Predictive Value of Tests",
+            "Renal Insufficiency, Chronic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Girish N",
+                "Last Name": "Nadkarni",
+                "Affiliation": "Icahn School Of Medicine at Mount Sinai, New York, NY."
+            },
+            {
+                "First Name": "Omri",
+                "Last Name": "Gottesman",
+                "Affiliation": "Icahn School Of Medicine at Mount Sinai, New York, NY."
+            },
+            {
+                "First Name": "James G",
+                "Last Name": "Linneman",
+                "Affiliation": "Marshfield Clinic Research Foundation, Marshfield, WI."
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": "Marshfield Clinic Research Foundation, Marshfield, WI."
+            },
+            {
+                "First Name": "Richard L",
+                "Last Name": "Berg",
+                "Affiliation": "Marshfield Clinic Research Foundation, Marshfield, WI."
+            },
+            {
+                "First Name": "Samira",
+                "Last Name": "Farouk",
+                "Affiliation": "Icahn School Of Medicine at Mount Sinai, New York, NY."
+            },
+            {
+                "First Name": "Rajiv",
+                "Last Name": "Nadukuru",
+                "Affiliation": "Icahn School Of Medicine at Mount Sinai, New York, NY."
+            },
+            {
+                "First Name": "Vaneet",
+                "Last Name": "Lotay",
+                "Affiliation": "Icahn School Of Medicine at Mount Sinai, New York, NY."
+            },
+            {
+                "First Name": "Steve",
+                "Last Name": "Ellis",
+                "Affiliation": "Icahn School Of Medicine at Mount Sinai, New York, NY."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Columbia University Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Peggy",
+                "Last Name": "Peissig",
+                "Affiliation": "Marshfield Clinic Research Foundation, Marshfield, WI."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Columbia University Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Erwin P",
+                "Last Name": "Bottinger",
+                "Affiliation": "Icahn School Of Medicine at Mount Sinai, New York, NY."
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "23907285",
+        "Title": "A method for controlling complex confounding effects in the detection of adverse drug reactions using electronic health records.",
+        "Abstract": "Electronic health records (EHRs) contain information to detect adverse drug reactions (ADRs), as they contain comprehensive clinical information. A major challenge of using comprehensive information involves confounding. We propose a novel data-driven method to identify ADR signals accurately by adjusting for confounders.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Adverse Drug Reaction Reporting Systems",
+            "Aged",
+            "Confounding Factors, Epidemiologic",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Electronic Health Records",
+            "Female",
+            "Humans",
+            "Knowledge Bases",
+            "Male",
+            "Middle Aged",
+            "Pancreatitis",
+            "Rhabdomyolysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ying",
+                "Last Name": "Li",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Hojjat",
+                "Last Name": "Salmasian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Santiago",
+                "Last Name": "Vilar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ying",
+                "Last Name": "Wei",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "23118093",
+        "Title": "Combing signals from spontaneous reports and electronic health records for detection of adverse drug reactions.",
+        "Abstract": "Data-mining algorithms that can produce accurate signals of potentially novel adverse drug reactions (ADRs) are a central component of pharmacovigilance. We propose a signal-detection strategy that combines the adverse event reporting system (AERS) of the Food and Drug Administration and electronic health records (EHRs) by requiring signaling in both sources. We claim that this approach leads to improved accuracy of signal detection when the goal is to produce a highly selective ranked set of candidate ADRs.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adverse Drug Reaction Reporting Systems",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Electronic Health Records",
+            "Humans",
+            "Pharmacovigilance"
+        ],
+        "Authors": [
+            {
+                "First Name": "Rave",
+                "Last Name": "Harpaz",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, New York, USA. rharpaz@stanford.edu"
+            },
+            {
+                "First Name": "Santiago",
+                "Last Name": "Vilar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "William",
+                "Last Name": "Dumouchel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hojjat",
+                "Last Name": "Salmasian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krystl",
+                "Last Name": "Haerian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nigam H",
+                "Last Name": "Shah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "22700885",
+        "Title": "FGF-23 levels in patients with AKI and risk of adverse outcomes.",
+        "Abstract": "Fibroblast growth factor 23 plays an important role in regulating phosphate and vitamin D homeostasis. Elevated levels of fibroblast growth factor 23 are independently associated with mortality in patients with CKD and ESRD. Whether fibroblast growth factor 23 levels are elevated and associated with adverse outcomes in patients with AKI has not been studied.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acute Kidney Injury",
+            "Biomarkers",
+            "Case-Control Studies",
+            "Creatinine",
+            "Female",
+            "Fibroblast Growth Factor-23",
+            "Fibroblast Growth Factors",
+            "Hospital Mortality",
+            "Humans",
+            "Logistic Models",
+            "Male",
+            "Middle Aged",
+            "Multivariate Analysis",
+            "New York City",
+            "Odds Ratio",
+            "Parathyroid Hormone",
+            "Phosphates",
+            "Pilot Projects",
+            "Prognosis",
+            "Prospective Studies",
+            "Renal Replacement Therapy",
+            "Risk Assessment",
+            "Risk Factors",
+            "Time Factors",
+            "Up-Regulation",
+            "Vitamin D"
+        ],
+        "Authors": [
+            {
+                "First Name": "David E",
+                "Last Name": "Leaf",
+                "Affiliation": "Division of Nephrology, Columbia University, New York, New York, USA. DELEAF@partners.org"
+            },
+            {
+                "First Name": "Myles",
+                "Last Name": "Wolf",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sushrut S",
+                "Last Name": "Waikar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marta",
+                "Last Name": "Christov",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Serge",
+                "Last Name": "Cremers",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Leonard",
+                "Last Name": "Stern",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Clinical journal of the American Society of Nephrology : CJASN",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22195210",
+        "Title": "A drug-adverse event extraction algorithm to support pharmacovigilance knowledge mining from PubMed citations.",
+        "Abstract": "Adverse drug events (ADEs) create a serious problem causing substantial harm to patients. An executable standardized knowledgebase of drug-ADE relations which is publicly available would be valuable so that it could be used for ADE detection. The literature is an important source that could be used to generate a knowledgebase of drug-ADE pairs. In this paper, we report on a method that automatically determines whether a specific adverse event (AE) is caused by a specific drug based on the content of PubMed citations. A drug-ADE classification method was initially developed to detect neutropenia based on a pre-selected set of drugs. This method was then applied to a different set of 76 drugs to determine if they caused neutropenia. For further proof of concept this method was applied to 48 drugs to determine whether they caused another AE, myocardial infarction. Results showed that AUROC was 0.93 and 0.86 respectively.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Data Mining",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Humans",
+            "Knowledge Bases",
+            "Myocardial Infarction",
+            "Neutropenia",
+            "Pharmacovigilance",
+            "PubMed"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wei",
+                "Last Name": "Wang",
+                "Affiliation": "Dept of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Krystl",
+                "Last Name": "Haerian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hojjat",
+                "Last Name": "Salmasian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rave",
+                "Last Name": "Harpaz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "22195134",
+        "Title": "Determining the reasons for medication prescriptions in the EHR using knowledge and natural language processing.",
+        "Abstract": "Knowledge of medication indications is significant for automatic applications aimed at improving patient safety, such as computerized physician order entry and clinical decision support systems. The Electronic Health Record (EHR) contains pertinent information related to patient safety such as information related to appropriate prescribing. However, the reasons for medication prescriptions are usually not explicitly documented in the patient record. This paper describes a method that determines the reasons for medication uses based on information occurring in outpatient notes. The method utilizes drug-indication knowledge that we acquired, and natural language processing. Evaluation showed the method obtained a sensitivity of 62.8%, specificity of 93.9%, precision of 90% and F-measure of 73.9%. This pilot study demonstrated that linking external drug indication knowledge to the EHR for determining the reasons for medication use was promising, but also revealed some challenges. Future work will focus on increasing the accuracy and coverage of the indication knowledge and evaluating its performance using a much larger set of drugs frequently used in the outpatient population.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Artificial Intelligence",
+            "Drug Prescriptions",
+            "Electronic Health Records",
+            "Humans",
+            "Knowledge Bases",
+            "Natural Language Processing",
+            "Patient Safety",
+            "Pilot Projects",
+            "Practice Patterns, Physicians'"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ying",
+                "Last Name": "Li",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Hojjat",
+                "Last Name": "Salmasian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rave",
+                "Last Name": "Harpaz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "22195056",
+        "Title": "Developing an online and in-person HIT workforce training program using a team-based learning approach.",
+        "Abstract": "Workforce training in health information technology (HIT) is in demand as electronic health record adoption becomes a nationwide priority. Columbia University and Weill Cornell Medical College worked together to develop a 6-month ONC-supported certificate course. To identify relevant skills and knowledge, we conducted a needs assessment that included: interviews and focus groups with potential employers and current HIT employees; an analysis of both published literature on competencies and actual job listings; and the development of a diverse operations-oriented curriculum advisory committee, which help to synthesize the findings into 6 core curriculum modules. We selected a team-based learning approach, allowing us to train a diverse student body and providing opportunities to build collaboration skills. Our novel hybrid adaptation of team-based learning combines online and in-person activities. Lessons learned from the development of this program are likely to have widespread applicability as training programs in the field become more prevalent.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cooperative Behavior",
+            "Curriculum",
+            "Electronic Health Records",
+            "Focus Groups",
+            "Interviews as Topic",
+            "Learning",
+            "Medical Informatics",
+            "Needs Assessment",
+            "New York City",
+            "Professional Competence",
+            "Schools, Medical",
+            "Teaching"
+        ],
+        "Authors": [
+            {
+                "First Name": "Frances",
+                "Last Name": "Morrison",
+                "Affiliation": "Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Zimmerman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michelle",
+                "Last Name": "Hall",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rainu",
+                "Last Name": "Kaushal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jessica S",
+                "Last Name": "Ancker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21946238",
+        "Title": "Facilitating adverse drug event detection in pharmacovigilance databases using molecular structure similarity: application to rhabdomyolysis.",
+        "Abstract": "Adverse drug events (ADE) cause considerable harm to patients, and consequently their detection is critical for patient safety. The US Food and Drug Administration maintains an adverse event reporting system (AERS) to facilitate the detection of ADE in drugs. Various data mining approaches have been developed that use AERS to detect signals identifying associations between drugs and ADE. The signals must then be monitored further by domain experts, which is a time-consuming task.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Data Mining",
+            "Databases, Factual",
+            "Decision Support Techniques",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Humans",
+            "Molecular Structure",
+            "Pharmacovigilance",
+            "Rhabdomyolysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Santiago",
+                "Last Name": "Vilar",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Rave",
+                "Last Name": "Harpaz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stefano",
+                "Last Name": "Costanzi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Raul",
+                "Last Name": "Rabadan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21347099",
+        "Title": "Integrating heterogeneous knowledge sources to acquire executable drug-related knowledge.",
+        "Abstract": "Knowledge of medical entities, such as drug-related information is critical for many automated biomedical applications, such as decision support and pharmacovigilance. In this work, heterogeneous information sources were integrated automatically to obtain drug-related knowledge. We focus on one type of knowledge, drug-treats-condition, in the study and propose a framework for integrating disparate knowledge sources. Evaluation based on a random sample of drug-condition pairs indicated an overall coverage of 96%, recall of 98% and a precision of 87%. In conclusion, the preliminary study demonstrated that the knowledge generated from this study was comparable to the manually curated gold standard and that this method of automatically integrating knowledge sources is effective. The automated method should also be applicable to integrate other clinical knowledge, such as drug-related knowledge with omics information.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Pharmacovigilance"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xiaoyan",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jianhua",
+                "Last Name": "Li",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "21347062",
+        "Title": "Cognitive analysis of the summarization of longitudinal patient records.",
+        "Abstract": "Electronic health records contain an abundance of valuable information that can be used to guide patient care. However, the large volume of information embodied in these records also renders access to relevant information a time-consuming and inefficient process. Our ultimate objective is to develop an automated summarizer that succinctly captures all relevant information in the patient record. In this paper, we present a cognitive study of 8 clinicians who were asked to create summaries based on data contained in the patients' electronic health record. The study characterized the primary sources of information that were prioritized by clinicians, the temporal strategies used to develop a summary and the cognitive operations used to guide the summarization process. Although we would not expect the automated summarizer to emulate human performance, we anticipate that this study will inform its development in instrumental ways.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cognition",
+            "Electronic Health Records",
+            "Humans",
+            "Medical Records Systems, Computerized"
+        ],
+        "Authors": [
+            {
+                "First Name": "Daniel",
+                "Last Name": "Reichert",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Kaufman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Benjamin",
+                "Last Name": "Bloxham",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "No\u00e9mie",
+                "Last Name": "Elhadad",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "21346985",
+        "Title": "Statistical Mining of Potential Drug Interaction Adverse Effects in FDA's Spontaneous Reporting System.",
+        "Abstract": "Many adverse drug effects (ADEs) can be attributed to drug interactions. Spontaneous reporting systems (SRS) provide a rich opportunity to detect novel post-marketed drug interaction adverse effects (DIAEs), as they include populations not well represented in clinical trials. However, their identification in SRS is nontrivial. Most existing research have addressed the statistical issues used to test or verify DIAEs, but not their identification as part of a systematic large scale database-wide mining process as discussed in this work. This paper examines the application of a highly optimized and tailored implementation of the Apriori algorithm, as well as methods addressing data quality issues, to the identification of DIAEs in FDAs SRS.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adverse Drug Reaction Reporting Systems",
+            "Databases, Factual",
+            "Drug Interactions",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Humans",
+            "United States Food and Drug Administration"
+        ],
+        "Authors": [
+            {
+                "First Name": "Rave",
+                "Last Name": "Harpaz",
+                "Affiliation": "Dept of Biomedical Informatics, Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Krystl",
+                "Last Name": "Haerian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "21346947",
+        "Title": "Aligning Structured and Unstructured Medical Problems Using UMLS.",
+        "Abstract": "This paper reports a pilot study to align medical problems in structured and unstructured EHR data using UMLS. A total of 120 medical problems in discharge summaries were extracted using NLP software (MedLEE) and aligned with 87 ICD-9 diagnoses for 19 non-overlapping hospital visits of 4 patients. The alignment accuracy was evaluated by a medical doctor. The average overlap of medical problems between the two data sources obtained by our automatic alignment method was 23.8%, which was about half of the manual review result, 43.56%. We discuss the implications for related research in integrating structured and unstructured EHR data.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Information Storage and Retrieval",
+            "Natural Language Processing",
+            "Pilot Projects",
+            "Software",
+            "Unified Medical Language System"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lorena",
+                "Last Name": "Carlo",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, 10032."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "21044365",
+        "Title": "Mining multi-item drug adverse effect associations in spontaneous reporting systems.",
+        "Abstract": "Multi-item adverse drug event (ADE) associations are associations relating multiple drugs to possibly multiple adverse events. The current standard in pharmacovigilance is bivariate association analysis, where each single drug-adverse effect combination is studied separately. The importance and difficulty in the detection of multi-item ADE associations was noted in several prominent pharmacovigilance studies. In this paper we examine the application of a well established data mining method known as association rule mining, which we tailored to the above problem, and demonstrate its value. The method was applied to the FDAs spontaneous adverse event reporting system (AERS) with minimal restrictions and expectations on its output, an experiment that has not been previously done on the scale and generality proposed in this work.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adverse Drug Reaction Reporting Systems",
+            "Algorithms",
+            "Data Mining",
+            "Databases, Factual",
+            "Drug Synergism",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "United States",
+            "United States Food and Drug Administration"
+        ],
+        "Authors": [
+            {
+                "First Name": "Rave",
+                "Last Name": "Harpaz",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, 622 West 168th St, VC5, New York, NY 10032, USA. rave.harpaz@dbmi.columbia.edu"
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC bioinformatics",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20819869",
+        "Title": "Under-documentation of chronic kidney disease in the electronic health record in outpatients.",
+        "Abstract": "To ascertain if outpatients with moderate chronic kidney disease (CKD) had their condition documented in their notes in the electronic health record (EHR).",
+        "Keywords": [],
+        "MeSH terms": [
+            "Documentation",
+            "Electronic Health Records",
+            "Glomerular Filtration Rate",
+            "Humans",
+            "Outpatients",
+            "Renal Insufficiency, Chronic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA. herbert.chase@dbmi.columbia.edu"
+            },
+            {
+                "First Name": "Jai",
+                "Last Name": "Radhakrishnan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shayan",
+                "Last Name": "Shirazian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maya K",
+                "Last Name": "Rao",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David K",
+                "Last Name": "Vawdrey",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20362071",
+        "Title": "Selecting information in electronic health records for knowledge acquisition.",
+        "Abstract": "Knowledge acquisition of relations between biomedical entities is critical for many automated biomedical applications, including pharmacovigilance and decision support. Automated acquisition of statistical associations from biomedical and clinical documents has shown some promise. However, acquisition of clinically meaningful relations (i.e. specific associations) remains challenging because textual information is noisy and co-occurrence does not typically determine specific relations. In this work, we focus on acquisition of two types of relations from clinical reports: disease-manifestation related symptom (MRS) and drug-adverse drug event (ADE), and explore the use of filtering by sections of the reports to improve performance. Evaluation indicated that applying the filters improved recall (disease-MRS: from 0.85 to 0.90; drug-ADE: from 0.43 to 0.75) and precision (disease-MRS: from 0.82 to 0.92; drug-ADE: from 0.16 to 0.31). This preliminary study demonstrates that selecting information in narrative electronic reports based on the sections improves the detection of disease-MRS and drug-ADE types of relations. Further investigation of complementary methods, such as more sophisticated statistical methods, more complex temporal models and use of information from other knowledge sources, is needed.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Electronic Health Records",
+            "Information Storage and Retrieval",
+            "Models, Statistical",
+            "Natural Language Processing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xiaoyan",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, United States. xiaoyan.wang@dbmi.columbia.edu"
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marianthi",
+                "Last Name": "Markatou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19380912",
+        "Title": "Modeling knowledge resource selection in expert librarian search.",
+        "Abstract": "Providing knowledge at the point of care offers the possibility for reducing error and improving patient outcomes. However, the vast majority of the physician's information needs are not met in a timely fashion. The research presented in this paper characterizes an expert librarian's search strategies as it pertains to the selection and use of various electronic information resources. The 10 searches conducted by the librarian to address the physician's information needs varied in terms of complexity and question type. The librarian employed a total of 10 resources and used as many as 7 in a single search. The longer term objective is to model the sequential process in sufficient detail as to be able to contribute to the development of intelligent automated search agents.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Information Storage and Retrieval",
+            "Medical Record Administrators",
+            "Models, Organizational",
+            "Point-of-Care Systems",
+            "United States"
+        ],
+        "Authors": [
+            {
+                "First Name": "David R",
+                "Last Name": "Kaufman",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Maryam",
+                "Last Name": "Mehryar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Hung",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marina",
+                "Last Name": "Chilov",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen B",
+                "Last Name": "Johnson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eneida",
+                "Last Name": "Mendonca",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Studies in health technology and informatics",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19261939",
+        "Title": "Voice capture of medical residents' clinical information needs during an inpatient rotation.",
+        "Abstract": "To identify some of the challenges that medical residents face in addressing their information needs in an inpatient setting, by examining how voice capture in natural language of clinical questions fits into workflow, and by characterizing the focus, format, and semantic content and complexity of their questions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Electronic Data Processing",
+            "Hospitalization",
+            "Humans",
+            "Information Storage and Retrieval",
+            "Information Systems",
+            "Internship and Residency",
+            "Interviews as Topic",
+            "Natural Language Processing",
+            "Speech Recognition Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": "Herbert Chase, Department of Biomedical Informatics, CUMC, VC-5, 622 West 168 Street, New York, NY 10032, USA. herbert.chase@dbmi.columbia.edu"
+            },
+            {
+                "First Name": "David R",
+                "Last Name": "Kaufman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen B",
+                "Last Name": "Johnson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eneida A",
+                "Last Name": "Mendonca",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18999285",
+        "Title": "Comparing ICD9-encoded diagnoses and NLP-processed discharge summaries for clinical trials pre-screening: a case study.",
+        "Abstract": "The prevalence of electronic medical record (EMR) systems has made mass-screening for clinical trials viable through secondary uses of clinical data, which often exist in both structured and free text formats. The tradeoffs of using information in either data format for clinical trials screening are understudied. This paper compares the results of clinical trial eligibility queries over ICD9-encoded diagnoses and NLP-processed textual discharge summaries. The strengths and weaknesses of both data sources are summarized along the following dimensions: information completeness, expressiveness, code granularity, and accuracy of temporal information. We conclude that NLP-processed patient reports supplement important information for eligibility screening and should be used in combination with structured data.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Artificial Intelligence",
+            "Clinical Trials as Topic",
+            "Diagnosis",
+            "Medical Records Systems, Computerized",
+            "Natural Language Processing",
+            "New York",
+            "Patient Discharge",
+            "Patient Selection",
+            "Pattern Recognition, Automated"
+        ],
+        "Authors": [
+            {
+                "First Name": "Li",
+                "Last Name": "Li",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Herbert S",
+                "Last Name": "Chase",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chintan O",
+                "Last Name": "Patel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18998946",
+        "Title": "Capturing clinical questions during medical residents' workflow.",
+        "Abstract": "We studied the feasibility of capturing clinical questions in an inpatient setting during workflow by providing five internal medicine residents with digital recorders. We found that most of questions collected were recorded during chart documentation, that possessing the recorder prompted residents to ask more questions than they might have otherwise, and that questions were often asked only after consultation with readily available information sources such as Epocrates. Our results suggest that capturing questions during workflow on a busy hospital ward is feasible and may unmask latent information needs.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Health Knowledge, Attitudes, Practice",
+            "Illinois",
+            "Internship and Residency",
+            "Knowledge",
+            "Learning",
+            "Students, Medical",
+            "Workflow"
+        ],
+        "Authors": [
+            {
+                "First Name": "Herbert",
+                "Last Name": "Chase",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, Department of Pediatrics/Computational Institute, University of Chicago, Chicago, IL, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Kaufman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eneida A",
+                "Last Name": "Mendon\u00e7a",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2008"
+    }
+]

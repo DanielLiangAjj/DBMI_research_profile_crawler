@@ -1,0 +1,1262 @@
+[
+    {
+        "PMID": "38782170",
+        "Title": "Causal fairness assessment of treatment allocation with electronic health records.",
+        "Abstract": "Healthcare continues to grapple with the persistent issue of treatment disparities, sparking concerns regarding the equitable allocation of treatments in clinical practice. While various fairness metrics have emerged to assess fairness in decision-making processes, a growing focus has been on causality-based fairness concepts due to their capacity to mitigate confounding effects and reason about bias. However, the application of causal fairness notions in evaluating the fairness of clinical decision-making with electronic health record (EHR) data remains an understudied domain. This study aims to address the methodological gap in assessing causal fairness of treatment allocation with electronic health records data. In addition, we investigate the impact of social determinants of health on the assessment of causal fairness of treatment allocation.",
+        "Keywords": [
+            "Causal fairness",
+            "Electronic health record",
+            "Health equity",
+            "Machine learning",
+            "Principal fairness"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Electronic Health Records",
+            "Algorithms",
+            "Male",
+            "Female",
+            "Clinical Decision-Making",
+            "Coronary Artery Disease",
+            "Healthcare Disparities",
+            "Middle Aged",
+            "Social Determinants of Health",
+            "Causality"
+        ],
+        "Authors": [
+            {
+                "First Name": "Linying",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Lauren R",
+                "Last Name": "Richter",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Yixin",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Statistics, University of Michigan, Ann Arbor, MI, USA."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Ostropolets",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "No\u00e9mie",
+                "Last Name": "Elhadad",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA; Department of Computer Science, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "David M",
+                "Last Name": "Blei",
+                "Affiliation": "Department of Statistics, Columbia University, New York, NY, USA; Department of Computer Science, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA. Electronic address: hripcsak@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38370787",
+        "Title": "Comparative Effectiveness of Second-line Antihyperglycemic Agents for Cardiovascular Outcomes: A Large-scale, Multinational, Federated Analysis of the LEGEND-T2DM Study.",
+        "Abstract": "SGLT2 inhibitors (SGLT2is) and GLP-1 receptor agonists (GLP1-RAs) reduce major adverse cardiovascular events (MACE) in patients with type 2 diabetes mellitus (T2DM). However, their effectiveness relative to each other and other second-line antihyperglycemic agents is unknown, without any major ongoing head-to-head trials.",
+        "Keywords": [
+            "Cardiovascular Diseases",
+            "Comparative Effectiveness Research",
+            "Diabetes Mellitus",
+            "Glucagon-Like Peptide-1 Receptor Agonists",
+            "Hypoglycemic Agents",
+            "Sodium-Glucose Transporter 2 Inhibitors",
+            "Type 2"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Rohan",
+                "Last Name": "Khera",
+                "Affiliation": "Section of Cardiovascular Medicine, Department of Internal Medicine, Yale University, New Haven, CT, 06510, USA."
+            },
+            {
+                "First Name": "Arya",
+                "Last Name": "Aminorroaya",
+                "Affiliation": "Section of Cardiovascular Medicine, Department of Internal Medicine, Yale University, New Haven, CT, 06510, USA."
+            },
+            {
+                "First Name": "Lovedeep Singh",
+                "Last Name": "Dhingra",
+                "Affiliation": "Section of Cardiovascular Medicine, Department of Internal Medicine, Yale University, New Haven, CT, 06510, USA."
+            },
+            {
+                "First Name": "Phyllis M",
+                "Last Name": "Thangaraj",
+                "Affiliation": "Section of Cardiovascular Medicine, Department of Internal Medicine, Yale University, New Haven, CT, 06510, USA."
+            },
+            {
+                "First Name": "Aline Pedroso",
+                "Last Name": "Camargos",
+                "Affiliation": "Section of Cardiovascular Medicine, Department of Internal Medicine, Yale University, New Haven, CT, 06510, USA."
+            },
+            {
+                "First Name": "Fan",
+                "Last Name": "Bu",
+                "Affiliation": "Department of Biostatistics, University of Michigan - Ann Arbor, Ann Arbor, MI, 48105, USA."
+            },
+            {
+                "First Name": "Xiyu",
+                "Last Name": "Ding",
+                "Affiliation": "Department of Biostatistics, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD, 21205, USA."
+            },
+            {
+                "First Name": "Akihiko",
+                "Last Name": "Nishimura",
+                "Affiliation": "Department of Biostatistics, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD, 21205, USA."
+            },
+            {
+                "First Name": "Tara V",
+                "Last Name": "Anand",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Faaizah",
+                "Last Name": "Arshad",
+                "Affiliation": "Department of Biostatistics, Fielding School of Public Health, University of California, Los Angeles, Los Angeles, CA, 90095, USA."
+            },
+            {
+                "First Name": "Clair",
+                "Last Name": "Blacketer",
+                "Affiliation": "Observational Health Data Analytics, Janssen Research and Development, LLC, Titusville, NJ, 8560, USA."
+            },
+            {
+                "First Name": "Yi",
+                "Last Name": "Chai",
+                "Affiliation": "Department of Pharmacology and Pharmacy, LKS Faculty of Medicine, The University of Hong Kong."
+            },
+            {
+                "First Name": "Shounak",
+                "Last Name": "Chattopadhyay",
+                "Affiliation": "Department of Biostatistics, Fielding School of Public Health, University of California, Los Angeles, Los Angeles, CA, 90095, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Cook",
+                "Affiliation": "Department of Biostatistics, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD, 21205, USA."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Dorr",
+                "Affiliation": "Department of Medical Informatics and Clinical Epidemiology, Oregon Health & Science University, Portland, OR, USA."
+            },
+            {
+                "First Name": "Talita",
+                "Last Name": "Duarte-Salles",
+                "Affiliation": "Fundaci\u00f3 Institut Universitari per a la recerca a l'Atenci\u00f3 Prim\u00e0ria de Salut Jordi Gol i Gurina (IDIAPJGol), Barcelona, 8007, Spain."
+            },
+            {
+                "First Name": "Scott L",
+                "Last Name": "DuVall",
+                "Affiliation": "Veterans Affairs Informatics and Computing Infrastructure, United States Department of Veterans Affairs, Salt Lake City, UT, USA."
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Falconer",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Tina E",
+                "Last Name": "French",
+                "Affiliation": "Tennessee Valley Healthcare System, Veterans Affairs Medical Center, Nashville, TN, USA."
+            },
+            {
+                "First Name": "Elizabeth E",
+                "Last Name": "Hanchrow",
+                "Affiliation": "Tennessee Valley Healthcare System, Veterans Affairs Medical Center, Nashville, TN, USA."
+            },
+            {
+                "First Name": "Guneet",
+                "Last Name": "Kaur",
+                "Affiliation": "Division of Population Health and Genomics, School of Medicine, University of Dundee, Dundee, DD1 9SY, United Kingdom."
+            },
+            {
+                "First Name": "Wallis Cy",
+                "Last Name": "Lau",
+                "Affiliation": "Research Department of Practice and Policy, School of Pharmacy, University College London, London, WC1H 9JP, United Kingdom."
+            },
+            {
+                "First Name": "Jing",
+                "Last Name": "Li",
+                "Affiliation": "Data Transformation, Analytics, and Artificial Intelligence, Real World Solutions, IQVIA, Durham, NC, USA."
+            },
+            {
+                "First Name": "Kelly",
+                "Last Name": "Li",
+                "Affiliation": "Department of Biostatistics, Fielding School of Public Health, University of California, Los Angeles, Los Angeles, CA, 90095, USA."
+            },
+            {
+                "First Name": "Yuntian",
+                "Last Name": "Liu",
+                "Affiliation": "Section of Cardiovascular Medicine, Department of Internal Medicine, Yale University, New Haven, CT, 06510, USA."
+            },
+            {
+                "First Name": "Yuan",
+                "Last Name": "Lu",
+                "Affiliation": "Section of Cardiovascular Medicine, Department of Internal Medicine, Yale University, New Haven, CT, 06510, USA."
+            },
+            {
+                "First Name": "Kenneth Kc",
+                "Last Name": "Man",
+                "Affiliation": "Research Department of Practice and Policy, School of Pharmacy, University College London, London, WC1H 9JP, United Kingdom."
+            },
+            {
+                "First Name": "Michael E",
+                "Last Name": "Matheny",
+                "Affiliation": "Tennessee Valley Healthcare System, Veterans Affairs Medical Center, Nashville, TN, USA."
+            },
+            {
+                "First Name": "Nestoras",
+                "Last Name": "Mathioudakis",
+                "Affiliation": "Division of Endocrinology, Diabetes, and Metabolism, Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Jody-Ann",
+                "Last Name": "McLeggon",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Michael F",
+                "Last Name": "McLemore",
+                "Affiliation": "Tennessee Valley Healthcare System, Veterans Affairs Medical Center, Nashville, TN, USA."
+            },
+            {
+                "First Name": "Evan",
+                "Last Name": "Minty",
+                "Affiliation": "Faculty of Medicine, O'Brien Institute for Public Health, University of Calgary, Calgary, AB, T2N4N1, Canada."
+            },
+            {
+                "First Name": "Daniel R",
+                "Last Name": "Morales",
+                "Affiliation": "Division of Population Health and Genomics, School of Medicine, University of Dundee, Dundee, DD1 9SY, United Kingdom."
+            },
+            {
+                "First Name": "Paul",
+                "Last Name": "Nagy",
+                "Affiliation": "Division of Endocrinology, Diabetes, and Metabolism, Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Ostropolets",
+                "Affiliation": "Observational Health Data Analytics, Janssen Research and Development, LLC, Titusville, NJ, 8560, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Pistillo",
+                "Affiliation": "Fundaci\u00f3 Institut Universitari per a la recerca a l'Atenci\u00f3 Prim\u00e0ria de Salut Jordi Gol i Gurina (IDIAPJGol), Barcelona, 8007, Spain."
+            },
+            {
+                "First Name": "Thanh-Phuc",
+                "Last Name": "Phan",
+                "Affiliation": "School of Pharmacy, Taipei Medical University."
+            },
+            {
+                "First Name": "Nicole",
+                "Last Name": "Pratt",
+                "Affiliation": "Quality Use of Medicines and Pharmacy Research Centre, UniSA Clinical and Health Sciences, University of South Australia, Adelaide, Australia."
+            },
+            {
+                "First Name": "Carlen",
+                "Last Name": "Reyes",
+                "Affiliation": "Fundaci\u00f3 Institut Universitari per a la recerca a l'Atenci\u00f3 Prim\u00e0ria de Salut Jordi Gol i Gurina (IDIAPJGol), Barcelona, 8007, Spain."
+            },
+            {
+                "First Name": "Lauren",
+                "Last Name": "Richter",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Joseph",
+                "Last Name": "Ross",
+                "Affiliation": "Section of General Medicine and National Clinician Scholars Program, Department of Internal Medicine, Yale School of Medicine, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Elise",
+                "Last Name": "Ruan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Sarah L",
+                "Last Name": "Seager",
+                "Affiliation": "Data Transformation, Analytics, and Artificial Intelligence, Real World Solutions, IQVIA, London, UK."
+            },
+            {
+                "First Name": "Katherine R",
+                "Last Name": "Simon",
+                "Affiliation": "Tennessee Valley Healthcare System, Veterans Affairs Medical Center, Nashville, TN, USA."
+            },
+            {
+                "First Name": "Benjamin",
+                "Last Name": "Viernes",
+                "Affiliation": "Veterans Affairs Informatics and Computing Infrastructure, United States Department of Veterans Affairs, Salt Lake City, UT, USA."
+            },
+            {
+                "First Name": "Jianxiao",
+                "Last Name": "Yang",
+                "Affiliation": "Department of Computational Medicine, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA, 90095, USA."
+            },
+            {
+                "First Name": "Can",
+                "Last Name": "Yin",
+                "Affiliation": "Data Transformation, Analytics, and Artificial Intelligence, Real World Solutions, IQVIA, Shanghai, China."
+            },
+            {
+                "First Name": "Seng Chan",
+                "Last Name": "You",
+                "Affiliation": "Department of Biomedical Systems Informatics, Yonsei University College of Medicine, Seoul, South Korea."
+            },
+            {
+                "First Name": "Jin J",
+                "Last Name": "Zhou",
+                "Affiliation": "Department of Biostatistics, Fielding School of Public Health, University of California, Los Angeles, Los Angeles, CA, 90095, USA."
+            },
+            {
+                "First Name": "Patrick B",
+                "Last Name": "Ryan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Martijn J",
+                "Last Name": "Schuemie",
+                "Affiliation": "Epidemiology, Office of the Chief Medical Officer, Johnson & Johnson, Titusville, NJ, 8560, USA."
+            },
+            {
+                "First Name": "Harlan M",
+                "Last Name": "Krumholz",
+                "Affiliation": "Center for Outcomes Research and Evaluation (CORE), Yale New Haven Hospital, New Haven, CT, 06510, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Marc A",
+                "Last Name": "Suchard",
+                "Affiliation": "Department of Biostatistics, Fielding School of Public Health, University of California, Los Angeles, Los Angeles, CA, 90095, USA."
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38260285",
+        "Title": "Evaluating and Improving the Performance and Racial Fairness of Algorithms for GFR Estimation.",
+        "Abstract": "Data-driven clinical prediction algorithms are used widely by clinicians. Understanding what factors can impact the performance and fairness of data-driven algorithms is an important step towards achieving equitable healthcare. To investigate the impact of modeling choices on the algorithmic performance and fairness, we make use of a case study to build a prediction algorithm for estimating glomerular filtration rate (GFR) based on the patient's electronic health record (EHR). We compare three distinct approaches for estimating GFR: CKD-EPI equations, epidemiological models, and EHR-based models. For epidemiological models and EHR-based models, four machine learning models of varying computational complexity (i.e., linear regression, support vector machine, random forest regression, and neural network) were compared. Performance metrics included root mean squared error (RMSE), median difference, and the proportion of GFR estimates within 30% of the measured GFR value (P30). Differential performance between non-African American and African American group was used to assess algorithmic fairness with respect to race. Our study showed that the variable race had a negligible effect on error, accuracy, and differential performance. Furthermore, including more relevant clinical features (e.g., common comorbidities of chronic kidney disease) and using more complex machine learning models, namely random forest regression, significantly lowered the estimation error of GFR. However, the difference in performance between African American and non-African American patients did not decrease, where the estimation error for African American patients remained consistently higher than non-African American patients, indicating that more objective patient characteristics should be discovered and included to improve algorithm performance.",
+        "Keywords": [
+            "algorithmic fairness",
+            "electronic health record",
+            "glomerular filtration rate",
+            "machine learning",
+            "predictive modeling"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Linying",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Biomedical Informatics Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Lauren R",
+                "Last Name": "Richter",
+                "Affiliation": "Department of Biomedical Informatics Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Tevin",
+                "Last Name": "Kim",
+                "Affiliation": "Department of Biomedical Informatics Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37847668",
+        "Title": "Scalable and interpretable alternative to chart review for phenotype evaluation using standardized structured data from electronic health records.",
+        "Abstract": "Chart review as the current gold standard for phenotype evaluation cannot support observational research on electronic health records and claims data sources at scale. We aimed to evaluate the ability of structured data to support efficient and interpretable phenotype evaluation as an alternative to chart review.",
+        "Keywords": [
+            "case adjudication",
+            "case ascertainment",
+            "chart review",
+            "observational studies",
+            "phenotyping"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Electronic Health Records",
+            "Phenotype"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anna",
+                "Last Name": "Ostropolets",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, United States."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, United States."
+            },
+            {
+                "First Name": "Syed A",
+                "Last Name": "Husain",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032, United States."
+            },
+            {
+                "First Name": "Lauren R",
+                "Last Name": "Richter",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, United States."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Spotnitz",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, United States."
+            },
+            {
+                "First Name": "Ahmed",
+                "Last Name": "Elhussein",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, United States."
+            },
+            {
+                "First Name": "Patrick B",
+                "Last Name": "Ryan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, United States."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37181728",
+        "Title": "A metadata framework for computational phenotypes.",
+        "Abstract": "With the burgeoning development of computational phenotypes, it is increasingly difficult to identify the right phenotype for the right tasks. This study uses a mixed-methods approach to develop and evaluate a novel metadata framework for retrieval of and reusing computational phenotypes. Twenty active phenotyping researchers from 2 large research networks, Electronic Medical Records and Genomics and Observational Health Data Sciences and Informatics, were recruited to suggest metadata elements. Once consensus was reached on 39 metadata elements, 47 new researchers were surveyed to evaluate the utility of the metadata framework. The survey consisted of 5-Likert multiple-choice questions and open-ended questions. Two more researchers were asked to use the metadata framework to annotate 8 type-2 diabetes mellitus phenotypes. More than 90% of the survey respondents rated metadata elements regarding phenotype definition and validation methods and metrics positively with a score of 4 or 5. Both researchers completed annotation of each phenotype within 60\u2009min. Our thematic analysis of the narrative feedback indicates that the metadata framework was effective in capturing rich and explicit descriptions and enabling the search for phenotypes, compliance with data standards, and comprehensive validation metrics. Current limitations were its complexity for data collection and the entailed human costs.",
+        "Keywords": [
+            "electronic health records",
+            "metadata",
+            "phenotype"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Matthew",
+                "Last Name": "Spotnitz",
+                "Affiliation": "Department of Biomedical Informatics, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Nripendra",
+                "Last Name": "Acharya",
+                "Affiliation": "Department of Biomedical Informatics, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "Cimino",
+                "Affiliation": "Informatics Institute, Heersink School of Medicine, University of Alabama at Birmingham, Birmingham, Alabama, USA."
+            },
+            {
+                "First Name": "Shawn",
+                "Last Name": "Murphy",
+                "Affiliation": "Laboratory of Computer Science, Mass General Brigham, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Bahram",
+                "Last Name": "Namjou",
+                "Affiliation": "Department of Pediatrics, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, USA."
+            },
+            {
+                "First Name": "Nancy",
+                "Last Name": "Crimmins",
+                "Affiliation": "Department of Pediatrics, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, USA."
+            },
+            {
+                "First Name": "Theresa",
+                "Last Name": "Walunas",
+                "Affiliation": "Department of Medicine, Feinberg School of Medicine, Northwestern University, Chicago, Illinois, USA."
+            },
+            {
+                "First Name": "Cong",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Crosslin",
+                "Affiliation": "Division of Biomedical Informatics and Genomics, Tulane University School of Medicine, New Orleans, Louisiana, USA."
+            },
+            {
+                "First Name": "Barbara",
+                "Last Name": "Benoit",
+                "Affiliation": "Department of Research Information Science & Computing, Mass General Brigham, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Elisabeth",
+                "Last Name": "Rosenthal",
+                "Affiliation": "Division of Genetics, University of Washington, Seattle, Washington, USA."
+            },
+            {
+                "First Name": "Jennifer A",
+                "Last Name": "Pacheco",
+                "Affiliation": "Center for Genetic Medicine, Northwestern University, Chicago, Illinois, USA."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Ostropolets",
+                "Affiliation": "Department of Biomedical Informatics, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Harry",
+                "Last Name": "Reyes Nieva",
+                "Affiliation": "Department of Biomedical Informatics, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Jason S",
+                "Last Name": "Patterson",
+                "Affiliation": "Department of Biomedical Informatics, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Lauren R",
+                "Last Name": "Richter",
+                "Affiliation": "Department of Biomedical Informatics, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Tiffany J",
+                "Last Name": "Callahan",
+                "Affiliation": "Department of Biomedical Informatics, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Ahmed",
+                "Last Name": "Elhussein",
+                "Affiliation": "Department of Biomedical Informatics, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Chao",
+                "Last Name": "Pang",
+                "Affiliation": "Department of Biomedical Informatics, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Krzysztof",
+                "Last Name": "Kiryluk",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Jordan",
+                "Last Name": "Nestor",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Atlas",
+                "Last Name": "Khan",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Sumit",
+                "Last Name": "Mohan",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Evan",
+                "Last Name": "Minty",
+                "Affiliation": "Department of Medicine, University of Calgary, Calgary, Alberta, Canada."
+            },
+            {
+                "First Name": "Wendy",
+                "Last Name": "Chung",
+                "Affiliation": "Department of Pediatrics, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Wei-Qi",
+                "Last Name": "Wei",
+                "Affiliation": "Department of Biomedical Informatics, Vanderbilt University, Nashville, Tennessee, USA."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Vagelos College of Physicians & Surgeons, Columbia University Irving Medical Center, New York, New York, USA."
+            }
+        ],
+        "Journal": "JAMIA open",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36656107",
+        "Title": "Optimizing Chemicals Management in the United States and Canada through the Essential-Use Approach.",
+        "Abstract": "Chemicals have improved the functionality and convenience of industrial and consumer products, but sometimes at the expense of human or ecological health. Existing regulatory systems have proven to be inadequate for assessing and managing the tens of thousands of chemicals in commerce. A different approach is urgently needed to minimize ongoing production, use, and exposures to hazardous chemicals. The premise of the essential-use approach is that chemicals of concern should be used only in cases in which their function in specific products is necessary for health, safety, or the functioning of society and when feasible alternatives are unavailable. To optimize the essential-use approach for broader implementation in the United States and Canada, we recommend that governments and businesses (1) identify chemicals of concern for essentiality assessments based on a broad range of hazard traits, going beyond toxicity; (2) expedite decision-making by avoiding unnecessary assessments and strategically asking up to three questions to determine whether the use of the chemical in the product is essential; (3) apply the essential-use approach as early as possible in the process of developing and assessing chemicals; and (4) engage diverse experts in identifying chemical uses and functions, assessing alternatives, and making essentiality determinations and share such information broadly. If optimized and expanded into regulatory systems in the United States and Canada, other policymaking bodies, and businesses, the essential-use approach can improve chemicals management and shift the market toward safer chemistries that benefit human and ecological health.",
+        "Keywords": [
+            "PFAS",
+            "alternatives assessment",
+            "chemical regulation",
+            "chemicals management",
+            "chemicals of concern",
+            "environmental social and corporate governance",
+            "risk assessment"
+        ],
+        "MeSH terms": [
+            "United States",
+            "Humans",
+            "Risk Assessment",
+            "Hazardous Substances",
+            "Canada"
+        ],
+        "Authors": [
+            {
+                "First Name": "Simona A",
+                "Last Name": "B\u01celan",
+                "Affiliation": "California Department of Toxic Substances Control, Sacramento, California 95814, United States."
+            },
+            {
+                "First Name": "David Q",
+                "Last Name": "Andrews",
+                "Affiliation": "Environmental Working Group, Washington, D.C. 20005, United States."
+            },
+            {
+                "First Name": "Arlene",
+                "Last Name": "Blum",
+                "Affiliation": "University of California, Berkeley, California 94720, United States."
+            },
+            {
+                "First Name": "Miriam L",
+                "Last Name": "Diamond",
+                "Affiliation": "University of Toronto, Toronto, Ontario M5S 3B1, Canada."
+            },
+            {
+                "First Name": "Seth Rojello",
+                "Last Name": "Fern\u00e1ndez",
+                "Affiliation": "Green Science Policy Institute, Berkeley, California 94709, United States."
+            },
+            {
+                "First Name": "Elizabeth",
+                "Last Name": "Harriman",
+                "Affiliation": "University of Massachusetts Lowell, Lowell, Massachusetts 01852, United States."
+            },
+            {
+                "First Name": "Andrew B",
+                "Last Name": "Lindstrom",
+                "Affiliation": "Independent consultant, Chapel Hill, North Carolina 27516, United States."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Reade",
+                "Affiliation": "Natural Resources Defense Council, San Francisco, California 94104, United States."
+            },
+            {
+                "First Name": "Lauren",
+                "Last Name": "Richter",
+                "Affiliation": "University of Toronto, Toronto, Ontario M5S 3B1, Canada."
+            },
+            {
+                "First Name": "Rebecca",
+                "Last Name": "Sutton",
+                "Affiliation": "San Francisco Estuary Institute, Richmond, California 94804, United States."
+            },
+            {
+                "First Name": "Zhanyun",
+                "Last Name": "Wang",
+                "Affiliation": "Empa-Swiss Federal Laboratories for Materials Science and Technology, Technology and Society Laboratory, 9014 St. Gallen, Switzerland."
+            },
+            {
+                "First Name": "Carol F",
+                "Last Name": "Kwiatkowski",
+                "Affiliation": "Green Science Policy Institute, Berkeley, California 94709, United States."
+            }
+        ],
+        "Journal": "Environmental science & technology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36518108",
+        "Title": "Data assimilation on mechanistic models of glucose metabolism predicts glycemic states in adolescents following bariatric surgery.",
+        "Abstract": "Type 2 diabetes mellitus is a complex and under-treated disorder closely intertwined with obesity. Adolescents with severe obesity and type 2 diabetes have a more aggressive disease compared to adults, with a rapid decline in pancreatic \u03b2 cell function and increased incidence of comorbidities. Given the relative paucity of pharmacotherapies, bariatric surgery has become increasingly used as a therapeutic option. However, subsets of this population have sub-optimal outcomes with either inadequate weight loss or little improvement in disease. Predicting which patients will benefit from surgery is a difficult task and detailed physiological characteristics of patients who do not respond to treatment are generally unknown. Identifying physiological predictors of surgical response therefore has the potential to reveal both novel phenotypes of disease as well as therapeutic targets. We leverage data assimilation paired with mechanistic models of glucose metabolism to estimate pre-operative physiological states of bariatric surgery patients, thereby identifying latent phenotypes of impaired glucose metabolism. Specifically, maximal insulin secretion capacity, \u03c3, and insulin sensitivity, S",
+        "Keywords": [
+            "bariatric surgery",
+            "data assimilation",
+            "machine learning",
+            "mechanistic models of glucose metabolism",
+            "obesity",
+            "pediatrics",
+            "type 2 diabetes"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Lauren R",
+                "Last Name": "Richter",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Benjamin I",
+                "Last Name": "Albert",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Linying",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Ostropolets",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Jeffrey L",
+                "Last Name": "Zitsman",
+                "Affiliation": "Division of Pediatric Surgery, Department of Surgery, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Ilene",
+                "Last Name": "Fennoy",
+                "Affiliation": "Division of Pediatric Endocrinology, Metabolism, and Diabetes, Department of Pediatrics, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "David J",
+                "Last Name": "Albers",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, United States."
+            }
+        ],
+        "Journal": "Frontiers in physiology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "32441510",
+        "Title": "Targeted Delivery of Notch Inhibitor Attenuates Obesity-Induced Glucose Intolerance and Liver Fibrosis.",
+        "Abstract": "As the prevalence of obesity-induced type 2 diabetes mellitus (T2DM) and nonalcoholic steatohepatitis (NASH) continue to increase, the need for pharmacologic therapies becomes urgent. However, endeavors to identify and develop novel therapeutic strategies for these chronic conditions are balanced by the need for safety, impeding clinical translation. One shared pathology of these two diseases is a maladaptive reactivation of the Notch signaling pathway in liver. Notch antagonism with \u03b3-secretase inhibitors effectively suppresses hepatic glucose production and reduces liver fibrosis in NASH, but its extrahepatic side effects, particularly goblet cell metaplasia, limit therapeutic utility. To overcome this barrier, we developed a nanoparticle-mediated delivery system to target \u03b3-secretase inhibitor to liver (GSI NPs). GSI NP application reduced hepatic glucose production in diet-induced obese mice and reduced hepatic fibrosis and inflammation in mice fed a NASH-provoking diet, without apparent gastrointestinal toxicity. By changing the delivery method, these results provide proof-of-concept for the repurposing of a previously intolerable medication to address unmet needs in the clinical landscape for obesity-induced T2DM and NASH.",
+        "Keywords": [
+            "Notch inhibitor",
+            "drug delivery",
+            "liver fibrosis",
+            "nanomedicine",
+            "nonalcoholic steatohepatitis",
+            "obesity"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Diabetes Mellitus, Type 2",
+            "Disease Models, Animal",
+            "Glucose Intolerance",
+            "Liver",
+            "Liver Cirrhosis",
+            "Mice",
+            "Obesity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lauren R",
+                "Last Name": "Richter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Qianfen",
+                "Last Name": "Wan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Di",
+                "Last Name": "Wen",
+                "Affiliation": "Department of Bioengineering, University of California, Los Angeles, California 90095, United States."
+            },
+            {
+                "First Name": "Yuqi",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Bioengineering, University of California, Los Angeles, California 90095, United States."
+            },
+            {
+                "First Name": "Junjie",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jin Ku",
+                "Last Name": "Kang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Changyu",
+                "Last Name": "Zhu",
+                "Affiliation": "Department of Medicine, Columbia University, New York, New York 10032, United States."
+            },
+            {
+                "First Name": "Elizabeth L",
+                "Last Name": "McKinnon",
+                "Affiliation": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, British Columbia V6T 2B5, Canada."
+            },
+            {
+                "First Name": "Zhen",
+                "Last Name": "Gu",
+                "Affiliation": "Department of Bioengineering, University of California, Los Angeles, California 90095, United States."
+            },
+            {
+                "First Name": "Li",
+                "Last Name": "Qiang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Utpal B",
+                "Last Name": "Pajvani",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "ACS nano",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32029887",
+        "Title": "Correction: Guideline levels for PFOA and PFOS in drinking water: the role of scientific uncertainty, risk assessment decisions, and social factors.",
+        "Abstract": "An amendment to this paper has been published and can be accessed via a link at the top of the paper.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Alissa",
+                "Last Name": "Cordner",
+                "Affiliation": "Department of Sociology, Whitman College, Walla Walla, WA, USA. cordneaa@whitman.edu."
+            },
+            {
+                "First Name": "Vanessa Y",
+                "Last Name": "De La Rosa",
+                "Affiliation": "Silent Spring Institute, Newton, MA, USA."
+            },
+            {
+                "First Name": "Laurel A",
+                "Last Name": "Schaider",
+                "Affiliation": "Silent Spring Institute, Newton, MA, USA."
+            },
+            {
+                "First Name": "Ruthann A",
+                "Last Name": "Rudel",
+                "Affiliation": "Silent Spring Institute, Newton, MA, USA."
+            },
+            {
+                "First Name": "Lauren",
+                "Last Name": "Richter",
+                "Affiliation": "Department of Sociology and Anthropology, Northeastern University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Phil",
+                "Last Name": "Brown",
+                "Affiliation": "Department of Sociology and Anthropology, Northeastern University, Boston, MA, USA."
+            }
+        ],
+        "Journal": "Journal of exposure science & environmental epidemiology",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31126215",
+        "Title": "Risky Business? Manufacturer and Retailer Action to Remove Per- and Polyfluorinated Chemicals From Consumer Products.",
+        "Abstract": "In the absence of comprehensive environmental regulation, under what conditions can social movement pressure on the private sector generate substantive change? We explore this question in relation to per- and poly-fluoroalkyl substances (PFAS), a class of persistent, bioaccumulative, and toxic chemicals that are widely used in consumer products and industrial processes yet remain largely understudied and weakly regulated. This paper focuses on the strengths and limitations of one high-profile shame campaign by Greenpeace that has called for clothing and outdoor brands to eliminate PFAS from their products. We find that while the campaign appears to have spurred widespread awareness of PFAS in the apparel industry, corporate action remains fragmented and leaves broader environmental and social justice concerns unaddressed. We highlight the urgent need for comprehensive federal regulation for toxic chemicals, increased funding for green chemistry, and collaborative governance of global production networks.",
+        "Keywords": [
+            "consumer products",
+            "environmental health",
+            "perfluorinated chemicals",
+            "social movements"
+        ],
+        "MeSH terms": [
+            "Chemical Industry",
+            "Commerce",
+            "Consumer Product Safety",
+            "Environmental Health",
+            "Fluorocarbons",
+            "Hazardous Substances",
+            "Humans",
+            "Private Sector",
+            "Social Justice",
+            "United States"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elicia Mayuri",
+                "Last Name": "Cousins",
+                "Affiliation": "1 Northeastern University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Lauren",
+                "Last Name": "Richter",
+                "Affiliation": "1 Northeastern University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Alissa",
+                "Last Name": "Cordner",
+                "Affiliation": "2 Department of Sociology, Whitman College, Walla Walla, WA, USA."
+            },
+            {
+                "First Name": "Phil",
+                "Last Name": "Brown",
+                "Affiliation": "1 Northeastern University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Sokona",
+                "Last Name": "Diallo",
+                "Affiliation": "1 Northeastern University, Boston, MA, USA."
+            }
+        ],
+        "Journal": "New solutions : a journal of environmental and occupational health policy : NS",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31060560",
+        "Title": "Challenging dominant breast cancer research agendas: perspectives on the outcomes of the interagency breast cancer and environment research coordinating committee.",
+        "Abstract": "As breast cancer rates increase globally, there is growing scientific consensus that greater understanding of the causes of breast cancer is needed to better prevent its occurrence. Genetics accounts for a small percentage of cases, thus environmental factors and epigenetics are increasingly suspect in breast cancer etiology. Within the breast cancer and environmental breast cancer social movements, there are longstanding calls for research and policy aimed toward the prevention of breast cancer. To better understand the opportunities and barriers to addressing environmental contributors to breast cancer, this article investigates both outcomes and perceptions of stakeholders involved in the Interagency Breast Cancer and Environment Research Coordinating Committee (IBCERCC). The IBCERCC was mandated by the 2008 U.S. Breast Cancer and Environmental Research Act, a law representing years of advocate and researcher efforts to produce national strategies and federal funding for breast cancer prevention research.",
+        "Keywords": [
+            "Breast Cancer",
+            "Cancer Prevention",
+            "Environmental Contributors to Cancer",
+            "Social Movements"
+        ],
+        "MeSH terms": [
+            "Biomedical Research",
+            "Breast Neoplasms",
+            "Female",
+            "Humans",
+            "Interinstitutional Relations",
+            "Mass Media",
+            "United States"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lauren",
+                "Last Name": "Richter",
+                "Affiliation": "Social Science Environmental Health Research Institute, Northeastern University, Boston, 360 Huntington Avenue, 318 INV, Boston, Massachusetts, 02115, USA. Richter.L@husky.neu.edu."
+            }
+        ],
+        "Journal": "Environmental health : a global access science source",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30926894",
+        "Title": "Correction: Guideline levels for PFOA and PFOS in drinking water: the role of scientific uncertainty, risk assessment decisions, and social factors.",
+        "Abstract": "This paper was originally published under a standard licence. This has now been amended to a CC BY licence in the PDF and HTML.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Alissa",
+                "Last Name": "Cordner",
+                "Affiliation": "Department of Sociology, Whitman College, Walla Walla, WA, USA. cordneaa@whitman.edu."
+            },
+            {
+                "First Name": "Vanessa Y",
+                "Last Name": "De La Rosa",
+                "Affiliation": "Silent Spring Institute, Newton, MA, USA."
+            },
+            {
+                "First Name": "Laurel A",
+                "Last Name": "Schaider",
+                "Affiliation": "Silent Spring Institute, Newton, MA, USA."
+            },
+            {
+                "First Name": "Ruthann A",
+                "Last Name": "Rudel",
+                "Affiliation": "Silent Spring Institute, Newton, MA, USA."
+            },
+            {
+                "First Name": "Lauren",
+                "Last Name": "Richter",
+                "Affiliation": "Department of Sociology and Anthropology, Northeastern University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Phil",
+                "Last Name": "Brown",
+                "Affiliation": "Department of Sociology and Anthropology, Northeastern University, Boston, MA, USA."
+            }
+        ],
+        "Journal": "Journal of exposure science & environmental epidemiology",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30622333",
+        "Title": "Guideline levels for PFOA and PFOS in drinking water: the role of scientific uncertainty, risk assessment decisions, and social factors.",
+        "Abstract": "Communities across the U.S. are discovering drinking water contaminated by perfluoroalkyl and polyfluoroalkyl substances (PFAS) and determining appropriate actions. There are currently no federal PFAS drinking water standards despite widespread drinking water contamination, ubiquitous population-level exposure, and toxicological and epidemiological evidence of adverse health effects. Absent federal PFAS standards, multiple U.S. states have developed their own health-based water guideline levels to guide decisions about contaminated site cleanup and drinking water surveillance and treatment. We examined perfluorooctanoic acid (PFOA) and perfluorooctane sulfonate (PFOS) water guideline levels developed by the U.S. Environmental Protection Agency (EPA) and state agencies to protect people drinking the water, and summarized how and why these levels differ. We referenced documents and tables released in June 2018 by the Interstate Technology and Regulatory Council (ITRC) to identify states that have drinking water and groundwater guideline levels for PFOA and/or PFOS that differ from EPA's health advisories (HAs). We also gathered assessment documents from state websites and contacted state environmental and health agencies to identify and confirm current guidelines. Seven states have developed their own water guideline levels for PFOA and/or PFOS ranging from 13 to 1000\u2009ng/L, compared to EPA's HA of 70\u2009ng/L for both compounds individually or combined. We find that the development of PFAS guideline levels via exposure and hazard assessment decisions is influenced by multiple scientific, technical, and social factors, including managing scientific uncertainty, technical decisions and capacity, and social, political, and economic influences from involved stakeholders. Assessments by multiple states and academic scientists suggest that EPA's HA is not sufficiently protective. The ability of states to develop their own guideline levels and standards provides diverse risk assessment approaches as models for other state and federal regulators, while a sufficiently protective, scientifically sound, and enforceable federal standard would provide more consistent protection.",
+        "Keywords": [
+            "Drinking water",
+            "Emerging contaminants",
+            "Exposure assessment",
+            "PFAS",
+            "Perfluorinated chemicals",
+            "Risk assessment"
+        ],
+        "MeSH terms": [
+            "Alkanesulfonic Acids",
+            "Caprylates",
+            "Drinking Water",
+            "Fluorocarbons",
+            "Groundwater",
+            "Humans",
+            "Risk Assessment",
+            "United States",
+            "United States Environmental Protection Agency",
+            "Water Pollutants, Chemical"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alissa",
+                "Last Name": "Cordner",
+                "Affiliation": "Department of Sociology, Whitman College, Walla Walla, WA, USA. cordneaa@whitman.edu."
+            },
+            {
+                "First Name": "Vanessa Y",
+                "Last Name": "De La Rosa",
+                "Affiliation": "Silent Spring Institute, Newton, MA, USA."
+            },
+            {
+                "First Name": "Laurel A",
+                "Last Name": "Schaider",
+                "Affiliation": "Silent Spring Institute, Newton, MA, USA."
+            },
+            {
+                "First Name": "Ruthann A",
+                "Last Name": "Rudel",
+                "Affiliation": "Silent Spring Institute, Newton, MA, USA."
+            },
+            {
+                "First Name": "Lauren",
+                "Last Name": "Richter",
+                "Affiliation": "Department of Sociology and Anthropology, Northeastern University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Phil",
+                "Last Name": "Brown",
+                "Affiliation": "Department of Sociology and Anthropology, Northeastern University, Boston, MA, USA."
+            }
+        ],
+        "Journal": "Journal of exposure science & environmental epidemiology",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "32566692",
+        "Title": "Environmental Chemicals and Public Sociology: Engaged Scholarship on Highly Fluorinated Compounds.",
+        "Abstract": "We report here on a multifaceted body of research on per- and polyfluoroalkyl substances (PFAS), chemicals that have become a well-known group of 'emerging contaminants' in recent years. Our PFAS Project team of over 10 researchers - faculty, postdocs, graduate students, and undergraduates - has been working since 2015 to study the extent and health effects of PFAS contamination through a broad model of engaged public sociology. Our model of research combines organic public sociology with elements of community-based participatory research, a related but distinct research form most widely used in the environmental health sciences. Based on long-term, place-based relationships, our engaged public sociology has led to numerous academic, regulatory, and social movement effects. We argue that this form of engaged, intervention-oriented public sociology is appropriate and beneficial for research in many areas of environmental sociology given the social and ecological stakes in the current moment. Engaged public sociology involves collaborative, reflexive research with broadly-conceived communities or publics. It facilitates the creation of previously undone science by addressing research topics of interest to community members, and allows researchers to directly contribute to environmental and social justice movements by acting as reflexive, observant participants.",
+        "Keywords": [
+            "community based participatory research (CBPR)",
+            "engagement",
+            "environmental health",
+            "environmental policy",
+            "environmental social movements",
+            "per- and polyfluoroalkyl substances (PFAS)",
+            "public sociology",
+            "research ethics"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Alissa",
+                "Last Name": "Cordner",
+                "Affiliation": "Department of Sociology, Whitman College, 345 Boyer Ave, Walla Walla, WA, USA."
+            },
+            {
+                "First Name": "Lauren",
+                "Last Name": "Richter",
+                "Affiliation": "Department of Sociology and Anthropology, Northeastern University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Phil",
+                "Last Name": "Brown",
+                "Affiliation": "Department of Sociology and Anthropology, Northeastern University, Boston, MA, USA."
+            }
+        ],
+        "Journal": "Environmental sociology",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30235980",
+        "Title": "Non-stick science: Sixty years of research and (in)action on fluorinated compounds.",
+        "Abstract": "Understandings of environmental governance both assume and challenge the relationship between expert knowledge and corresponding action. We explore this interplay by examining the context of knowledge production pertaining to a contested class of chemicals. Per-and polyfluorinated alkyl substances (PFASs) are widely used industrial compounds containing chemical chains of carbon and fluorine that are persistent, bioaccumulative and toxic. Although industry and regulatory scientists have studied the exposure and toxicity concerns of these compounds for decades, and several contaminated communities have documented health concerns as a result of their high levels of exposure, PFAS use remains ubiquitous in a large range of consumer and industrial products. Despite this significant history of industry knowledge production documenting exposure and toxicity concerns, the regulatory approach to PFASs has been limited. This is largely due to a regulatory framework that privileges industry incentives for rapid market entry and trade secret protection over substantive public health protection, creating areas of unseen science, research that is conducted but never shared outside of institutional boundaries. In particular, the risks of PFASs have been both structurally hidden and unexamined by existing regulatory and industry practice. This reveals the uneven pathways that construct issues of social and scientific concern.",
+        "Keywords": [
+            "emerging contaminants",
+            "fluorinated compounds",
+            "ignorance",
+            "lay discovery",
+            "unseen science"
+        ],
+        "MeSH terms": [
+            "Government Regulation",
+            "History, 20th Century",
+            "Hydrocarbons, Fluorinated",
+            "Public Health",
+            "Research"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lauren",
+                "Last Name": "Richter",
+                "Affiliation": "Social Science Environmental Health Research Institute, Northeastern University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Alissa",
+                "Last Name": "Cordner",
+                "Affiliation": "Department of Sociology, Whitman College, Walla Walla, WA, USA."
+            },
+            {
+                "First Name": "Phil",
+                "Last Name": "Brown",
+                "Affiliation": "Departments of Sociology and Anthropology and Health Sciences, Northeastern University, Boston, MA, USA."
+            }
+        ],
+        "Journal": "Social studies of science",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29698097",
+        "Title": "History of US Presidential Assaults on Modern Environmental Health Protection.",
+        "Abstract": "The Trump administration has undertaken an assault on the Environmental Protection Agency (EPA), an agency critical to environmental health. This assault has precedents in the administrations of Ronald Reagan and George W. Bush. The early Reagan administration (1981-1983) launched an overt attack on the EPA, combining deregulation with budget and staff cuts, whereas the George W. Bush administration (2001-2008) adopted a subtler approach, undermining science-based policy. The current administration combines both these strategies and operates in a political context more favorable to its designs on the EPA. The Republican Party has shifted right and now controls the executive branch and both chambers of Congress. Wealthy donors, think tanks, and fossil fuel and chemical industries have become more influential in pushing deregulation. Among the public, political polarization has increased, the environment has become a partisan issue, and science and the mainstream media are distrusted. For these reasons, the effects of today's ongoing regulatory delays, rollbacks, and staff cuts may well surpass those of the administrations of Reagan and Bush, whose impacts on environmental health were considerable.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Conservation of Natural Resources",
+            "Environmental Health",
+            "History, 20th Century",
+            "History, 21st Century",
+            "Humans",
+            "Politics",
+            "Public Policy",
+            "United States",
+            "United States Environmental Protection Agency"
+        ],
+        "Authors": [
+            {
+                "First Name": "Leif",
+                "Last Name": "Fredrickson",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Sellers",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Lindsey",
+                "Last Name": "Dillon",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Jennifer Liss",
+                "Last Name": "Ohayon",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Shapiro",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Marianne",
+                "Last Name": "Sullivan",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Stephen",
+                "Last Name": "Bocking",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Phil",
+                "Last Name": "Brown",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Vanessa",
+                "Last Name": "de la Rosa",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Jill",
+                "Last Name": "Harrison",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Sara",
+                "Last Name": "Johns",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Katherine",
+                "Last Name": "Kulik",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Rebecca",
+                "Last Name": "Lave",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Michelle",
+                "Last Name": "Murphy",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Liza",
+                "Last Name": "Piper",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Lauren",
+                "Last Name": "Richter",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            },
+            {
+                "First Name": "Sara",
+                "Last Name": "Wylie",
+                "Affiliation": "Leif Fredrickson is an independent researcher. Christopher Sellers is with the Department of History, Stony Brook University, Stony Brook, NY. Phil Brown, Lauren Richter, and Sara Wylie are with the Department of Sociology and Anthropology, Northeastern University, Boston, MA. Jennifer Liss Ohayon is with Northeastern University, Newton, MA. Nicholas Shapiro is with the Science History Institute, Philadelphia, PA. Marianne Sullivan is with Public Health, William Paterson University of New Jersey, Wayne. Stephen Bocking is with the School of the Environment, Trent University, Peterborough, ON, Canada. Vanessa De La Rosa is with Silent Spring Institute, Newton, MA. Lindsey Dillon is with the Department of Sociology, University of California, Santa Cruz. Jill Harrison is with the Department of Sociology, University of Colorado, Boulder. Sara Johns is with the Graduate School of Business, Stanford University, Stanford, CA. Katherine Kulik is with Harvard College, Cambridge, MA. Rebecca Lave is with the Department of Geography, University of Indiana, Bloomington. Michelle Murphy is with the Department of History, University of Toronto, Toronto, Canada. Liza Piper is with the Department of History and Classics, University of Alberta, Alberta, Canada."
+            }
+        ],
+        "Journal": "American journal of public health",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "27934269",
+        "Title": "Can Chemical Class Approaches Replace Chemical-by-Chemical Strategies? Lessons from Recent U.S. FDA Regulatory Action on Per- And Polyfluoroalkyl Substances.",
+        "Abstract": "Concern about the toxicity and exposure of per- and polyfluoroalkyl substances (PFASs) is growing among scientists, regulators, and residents of contaminated communities. In 2016, the United States Food and Drug Administration (FDA) removed three food contact substances (FCSs) containing perfluorinated chemicals from the list of approved FCSs due to concerns regarding chemical safety. To investigate the significance and limitations of the FDA's regulatory action for environmental health research, advocacy, and regulation, we conducted a media analysis and qualitative interviews with a range of involved stakeholders. We find that the FDA's regulatory action represents a potential shift from chemical-by-chemical regulation toward class-based regulation, where groups of chemicals can be identified as sharing properties and risks, and are thus evaluated and regulated together. The FDA decision sets an important precedent of using a petition process to delist chemicals based on a safety standard. However, the narrow reach of this action also highlights the need for more comprehensive, precautionary chemical regulation capable of thoroughly evaluating classes of chemicals, and raises important questions about how classes of chemicals are delimited in environmental health science and regulation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Environmental Health",
+            "Food",
+            "Food Contamination",
+            "United States",
+            "United States Food and Drug Administration"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alissa",
+                "Last Name": "Cordner",
+                "Affiliation": "Whitman College , Department of Sociology, 345 Boyer Ave., Walla Walla, Washington 99362, United States."
+            },
+            {
+                "First Name": "Lauren",
+                "Last Name": "Richter",
+                "Affiliation": "Northeastern University , Department of Sociology and Anthropology, Boston, Massachusetts 02115, United States."
+            },
+            {
+                "First Name": "Phil",
+                "Last Name": "Brown",
+                "Affiliation": "Northeastern University , Department of Sociology and Anthropology, and Department of Health Sciences, Boston, Massachusetts 02115, United States."
+            }
+        ],
+        "Journal": "Environmental science & technology",
+        "PubDate": "2016"
+    }
+]

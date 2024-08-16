@@ -1,0 +1,2625 @@
+[
+    {
+        "PMID": "39137903",
+        "Title": "Defining documentation burden (DocBurden) and excess DocBurden for all health professionals: A scoping review.",
+        "Abstract": "Efforts to reduce documentation burden (DocBurden) for all health professionals (HP) are aligned with national initiatives to improve clinician wellness and patient safety. Yet DocBurden has not been precisely defined, limiting national conversations and rigorous, reproducible, and meaningful measures. Increasing attention to DocBurden motivated this work to establish a standard definition of DocBurden, with the emergence of excessive DocBurden as a term.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Deborah R",
+                "Last Name": "Levy",
+                "Affiliation": "PRIME Center, VA Connecticut Healthcare System PRIME Center, West Haven, United States."
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Withall",
+                "Affiliation": "Columbia University School of Nursing, New York, United States."
+            },
+            {
+                "First Name": "Rebecca Grochow",
+                "Last Name": "Mishuris",
+                "Affiliation": "Digital, Mass General Brigham Inc, Somerville, United States."
+            },
+            {
+                "First Name": "Vicky",
+                "Last Name": "Tiase",
+                "Affiliation": "The University of Utah School of Medicine, Salt Lake City, United States."
+            },
+            {
+                "First Name": "Courtney J",
+                "Last Name": "Diamond",
+                "Affiliation": "Biomedical Informatics, Columbia University Irving Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Brian",
+                "Last Name": "Douthit",
+                "Affiliation": "Biomedical Informatics, Vanderbilt University, Nashville, United States."
+            },
+            {
+                "First Name": "Monika",
+                "Last Name": "Grabowska",
+                "Affiliation": "Vanderbilt University School of Medicine, Nashville, United States."
+            },
+            {
+                "First Name": "Rachel",
+                "Last Name": "Lee",
+                "Affiliation": "School of Nursing, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Amanda",
+                "Last Name": "Moy",
+                "Affiliation": "Biomedical Informatics, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Patricia",
+                "Last Name": "Sengstack",
+                "Affiliation": "Vanderbilt University School of Nursing, Nashville, United States."
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Adler-Milstein",
+                "Affiliation": "University of California San Francisco, San Francisco, United States."
+            },
+            {
+                "First Name": "Don E",
+                "Last Name": "Detmer",
+                "Affiliation": "Public Health Sciences, University of Virginia, Charlottesville, United States."
+            },
+            {
+                "First Name": "Kevin B",
+                "Last Name": "Johnson",
+                "Affiliation": "University of Pennsylvania, Philadelphia, United States."
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "Cimino",
+                "Affiliation": "Informatics Institute, University of Alabama at Birmingham, Birmingham, United States."
+            },
+            {
+                "First Name": "Sarah T",
+                "Last Name": "Corley",
+                "Affiliation": "Chief Medical Advisor, CGEM, The MITRE Corporation, Mclean, United States."
+            },
+            {
+                "First Name": "Judy",
+                "Last Name": "Murphy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Trent",
+                "Last Name": "Rosenbloom",
+                "Affiliation": "Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, United States."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "University of Pennsylvania School of Nursing, Philadelphia, United States."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "Applied clinical informatics",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37433577",
+        "Title": "Predicting emergency department visits and hospitalizations for patients with heart failure in home healthcare using a time series risk model.",
+        "Abstract": "Little is known about proactive risk assessment concerning emergency department (ED) visits and hospitalizations in patients with heart failure (HF) who receive home healthcare (HHC) services. This study developed a time series risk model for predicting ED visits and hospitalizations in patients with HF using longitudinal electronic health record data. We also explored which data sources yield the best-performing models over various time windows.",
+        "Keywords": [
+            "electronic health records",
+            "heart failure",
+            "home care services",
+            "machine learning",
+            "natural language processing",
+            "nursing informatics"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Time Factors",
+            "Hospitalization",
+            "Heart Failure",
+            "Emergency Service, Hospital",
+            "Delivery of Health Care"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sena",
+                "Last Name": "Chae",
+                "Affiliation": "College of Nursing, The University of Iowa, Iowa City, Iowa, USA."
+            },
+            {
+                "First Name": "Anahita",
+                "Last Name": "Davoudi",
+                "Affiliation": "Center for Home Care Policy & Research, VNS Health, New York, New York, USA."
+            },
+            {
+                "First Name": "Jiyoun",
+                "Last Name": "Song",
+                "Affiliation": "Columbia University School of Nursing, New York City, New York, USA."
+            },
+            {
+                "First Name": "Lauren",
+                "Last Name": "Evans",
+                "Affiliation": "Center for Home Care Policy & Research, VNS Health, New York, New York, USA."
+            },
+            {
+                "First Name": "Mollie",
+                "Last Name": "Hobensack",
+                "Affiliation": "Columbia University School of Nursing, New York City, New York, USA."
+            },
+            {
+                "First Name": "Kathryn H",
+                "Last Name": "Bowles",
+                "Affiliation": "Center for Home Care Policy & Research, VNS Health, New York, New York, USA."
+            },
+            {
+                "First Name": "Margaret V",
+                "Last Name": "McDonald",
+                "Affiliation": "Center for Home Care Policy & Research, VNS Health, New York, New York, USA."
+            },
+            {
+                "First Name": "Yolanda",
+                "Last Name": "Barr\u00f3n",
+                "Affiliation": "Center for Home Care Policy & Research, VNS Health, New York, New York, USA."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Columbia University School of Nursing, New York City, New York, USA."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "Department of Family and Community Health, University of Pennsylvania School of Nursing, Philadelphia, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Sridevi",
+                "Last Name": "Sridharan",
+                "Affiliation": "Center for Home Care Policy & Research, VNS Health, New York, New York, USA."
+            },
+            {
+                "First Name": "Maxim",
+                "Last Name": "Topaz",
+                "Affiliation": "Center for Home Care Policy & Research, VNS Health, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36414419",
+        "Title": "The identification of clusters of risk factors and their association with hospitalizations or emergency department visits in home health care.",
+        "Abstract": "To identify clusters of risk factors in home health care and determine if the clusters are associated with hospitalizations or emergency department visits.",
+        "Keywords": [
+            "Omaha system",
+            "clinical deterioration",
+            "cluster analysis",
+            "home health care",
+            "natural language processing",
+            "nursing informatics",
+            "risk assessment"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "United States",
+            "Retrospective Studies",
+            "Hospitalization",
+            "Risk Factors",
+            "Home Care Services",
+            "Emergency Service, Hospital"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jiyoun",
+                "Last Name": "Song",
+                "Affiliation": "Columbia University School of Nursing, New York City, New York, USA."
+            },
+            {
+                "First Name": "Sena",
+                "Last Name": "Chae",
+                "Affiliation": "College of Nursing, The University of Iowa, Iowa City, Iowa, USA."
+            },
+            {
+                "First Name": "Kathryn H",
+                "Last Name": "Bowles",
+                "Affiliation": "Department of Biobehavioral Health Sciences, University of Pennsylvania School of Nursing, Philadelphia, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Margaret V",
+                "Last Name": "McDonald",
+                "Affiliation": "Center for Home Care Policy & Research, VNS Health, New York, New York City, USA."
+            },
+            {
+                "First Name": "Yolanda",
+                "Last Name": "Barr\u00f3n",
+                "Affiliation": "Center for Home Care Policy & Research, VNS Health, New York, New York City, USA."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "Columbia University School of Nursing, New York City, New York, USA."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Columbia University School of Nursing, New York City, New York, USA."
+            },
+            {
+                "First Name": "Mollie",
+                "Last Name": "Hobensack",
+                "Affiliation": "Columbia University School of Nursing, New York City, New York, USA."
+            },
+            {
+                "First Name": "Sridevi",
+                "Last Name": "Sridharan",
+                "Affiliation": "Center for Home Care Policy & Research, VNS Health, New York, New York City, USA."
+            },
+            {
+                "First Name": "Lauren",
+                "Last Name": "Evans",
+                "Affiliation": "Center for Home Care Policy & Research, VNS Health, New York, New York City, USA."
+            },
+            {
+                "First Name": "Anahita",
+                "Last Name": "Davoudi",
+                "Affiliation": "Center for Home Care Policy & Research, VNS Health, New York, New York City, USA."
+            },
+            {
+                "First Name": "Maxim",
+                "Last Name": "Topaz",
+                "Affiliation": "Columbia University School of Nursing, New York City, New York, USA."
+            }
+        ],
+        "Journal": "Journal of advanced nursing",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35858480",
+        "Title": "Comparison of a Voluntary Safety Reporting System to a Global Trigger Tool for Identifying Adverse Events in an Oncology Population.",
+        "Abstract": "There is a lack of research on adverse event (AE) detection in oncology patients, despite the propensity for iatrogenic harm. Two common methods include voluntary safety reporting (VSR) and chart review tools, such as the Institute for Healthcare Improvement's Global Trigger Tool (GTT). Our objective was to compare frequency and type of AEs detected by a modified GTT compared with VSR for identifying AEs in oncology patients in a larger clinical trial.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Medical Errors",
+            "Neoplasms",
+            "Patient Safety",
+            "Quality Indicators, Health Care",
+            "Retrospective Studies"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lipika",
+                "Last Name": "Samal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Srijesa",
+                "Last Name": "Khasnabish",
+                "Affiliation": "From the Department of Medicine, Brigham and Women's Hospital."
+            },
+            {
+                "First Name": "Cathy",
+                "Last Name": "Foskett",
+                "Affiliation": "From the Department of Medicine, Brigham and Women's Hospital."
+            },
+            {
+                "First Name": "Katherine",
+                "Last Name": "Zigmont",
+                "Affiliation": "Academic Medical Center, Patient Safety Organization, Boston, Massachusetts."
+            },
+            {
+                "First Name": "Arild",
+                "Last Name": "Faxvaag",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Frank",
+                "Last Name": "Chang",
+                "Affiliation": "Information Systems/Clinical, Partners Healthcare, Somerville."
+            },
+            {
+                "First Name": "Marsha",
+                "Last Name": "Clements",
+                "Affiliation": "Dana-Farber Cancer Institute, Boston, Massachusetts."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anuj K",
+                "Last Name": "Dalal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kathleen",
+                "Last Name": "Leone",
+                "Affiliation": "Department of Nursing, Brigham and Women's Faulkner Hospital, Boston, Massachusetts."
+            },
+            {
+                "First Name": "Stuart",
+                "Last Name": "Lipsitz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anthony",
+                "Last Name": "Massaro",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ronen",
+                "Last Name": "Rozenblum",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kumiko O",
+                "Last Name": "Schnock",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Catherine",
+                "Last Name": "Yoon",
+                "Affiliation": "From the Department of Medicine, Brigham and Women's Hospital."
+            },
+            {
+                "First Name": "David W",
+                "Last Name": "Bates",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Dykes",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of patient safety",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35550304",
+        "Title": "Factors Influencing Clinician Trust in Predictive Clinical Decision Support Systems for In-Hospital Deterioration: Qualitative Descriptive Study.",
+        "Abstract": "Clinician trust in machine learning-based clinical decision support systems (CDSSs) for predicting in-hospital deterioration (a type of predictive CDSS) is essential for adoption. Evidence shows that clinician trust in predictive CDSSs is influenced by perceived understandability and perceived accuracy.",
+        "Keywords": [
+            "clinical decision support systems",
+            "inpatient",
+            "machine learning",
+            "nurses",
+            "physicians",
+            "qualitative research"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jessica M",
+                "Last Name": "Schwartz",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Maureen",
+                "Last Name": "George",
+                "Affiliation": "School of Nursing, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Dykes",
+                "Affiliation": "Brigham and Women's Hospital, Boston, MA, United States."
+            },
+            {
+                "First Name": "Simon R",
+                "Last Name": "Minshall",
+                "Affiliation": "School of Health Information Science, University of Victoria, Victoria, BC, Canada."
+            },
+            {
+                "First Name": "Eugene",
+                "Last Name": "Lucas",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Kenrick D",
+                "Last Name": "Cato",
+                "Affiliation": "School of Nursing, Columbia University, New York, NY, United States."
+            }
+        ],
+        "Journal": "JMIR human factors",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35545125",
+        "Title": "25\u2009\u00d7\u20095 Symposium to Reduce Documentation Burden: Report-out and Call for Action.",
+        "Abstract": "The widespread adoption of electronic health records and a simultaneous increase in regulatory demands have led to an acceleration of documentation requirements among clinicians. The corresponding burden from documentation requirements is a central contributor to clinician burnout and can lead to an increased risk of suboptimal patient care.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Burnout, Professional",
+            "Burnout, Psychological",
+            "Documentation",
+            "Electronic Health Records",
+            "Humans",
+            "Research Report",
+            "United States"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mollie",
+                "Last Name": "Hobensack",
+                "Affiliation": "Columbia University School of Nursing, New York, New York, United States."
+            },
+            {
+                "First Name": "Deborah R",
+                "Last Name": "Levy",
+                "Affiliation": "Oregon Health and Science University, Portland, Oregon, United States."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "Columbia University School of Nursing, New York, New York, United States."
+            },
+            {
+                "First Name": "Don E",
+                "Last Name": "Detmer",
+                "Affiliation": "Department of Public Health Sciences, University of Virginia School of Medicine, Charlottesville, Virginia, United States."
+            },
+            {
+                "First Name": "Kevin B",
+                "Last Name": "Johnson",
+                "Affiliation": "University of Pennsylvania, Philadelphia, Pennsylvania, United States."
+            },
+            {
+                "First Name": "Jeffrey",
+                "Last Name": "Williamson",
+                "Affiliation": "American Medical Informatics Association, Bethesda, Maryland, United States."
+            },
+            {
+                "First Name": "Judy",
+                "Last Name": "Murphy",
+                "Affiliation": "Minneapolis, Minnesota, United States."
+            },
+            {
+                "First Name": "Amanda",
+                "Last Name": "Moy",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, United States."
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Withall",
+                "Affiliation": "Columbia University School of Nursing, New York, New York, United States."
+            },
+            {
+                "First Name": "Rachel",
+                "Last Name": "Lee",
+                "Affiliation": "Columbia University School of Nursing, New York, New York, United States."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Columbia University School of Nursing, New York, New York, United States."
+            },
+            {
+                "First Name": "Samuel Trent",
+                "Last Name": "Rosenbloom",
+                "Affiliation": "Departments of Biomedical Informatics Internal Medicine and Pediatrics, Vanderbilt University, Nashville, Tennessee, United States."
+            }
+        ],
+        "Journal": "Applied clinical informatics",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35231649",
+        "Title": "Clinical notes: An untapped opportunity for improving risk prediction for hospitalization and emergency department visit during home health care.",
+        "Abstract": "Between 10 and 25% patients are hospitalized or visit emergency department (ED) during home healthcare (HHC). Given that up to 40% of these negative clinical outcomes are preventable, early and accurate prediction of hospitalization risk can be one strategy to prevent them. In recent years, machine learning-based predictive modeling has become widely used for building risk models. This study aimed to compare the predictive performance of four risk models built with various data sources for hospitalization and ED visits in HHC.",
+        "Keywords": [
+            "Clinical deterioration",
+            "Home health care",
+            "Natural language processing",
+            "Nursing informatics",
+            "Predictive modeling",
+            "Risk assessment"
+        ],
+        "MeSH terms": [
+            "Bayes Theorem",
+            "Emergency Service, Hospital",
+            "Home Care Services",
+            "Hospitalization",
+            "Humans",
+            "Machine Learning"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jiyoun",
+                "Last Name": "Song",
+                "Affiliation": "Columbia University School of Nursing, New York City, NY, USA; Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York City, NY, USA. Electronic address: js4753@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Mollie",
+                "Last Name": "Hobensack",
+                "Affiliation": "Columbia University School of Nursing, New York City, NY, USA. Electronic address: mxh2000@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Kathryn H",
+                "Last Name": "Bowles",
+                "Affiliation": "Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York City, NY, USA; University of Pennsylvania School of Nursing, Department of Biobehavioral Health Sciences, Philadelphia, PA, USA. Electronic address: bowles@nursing.upenn.edu."
+            },
+            {
+                "First Name": "Margaret V",
+                "Last Name": "McDonald",
+                "Affiliation": "Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York City, NY, USA. Electronic address: margaret.mcdonald@vnsny.org."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "Columbia University School of Nursing, New York City, NY, USA; Emergency Medicine, Columbia University Irving Medical Center, New York, NY, USA. Electronic address: kdc2110@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Columbia University School of Nursing, New York City, NY, USA; Columbia University, Department of Biomedical Informatics, New York City, NY, USA. Electronic address: sac2125@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Sena",
+                "Last Name": "Chae",
+                "Affiliation": "College of Nursing, University of Iowa, Iowa City, IA, USA. Electronic address: sena-chae@uiowa.edu."
+            },
+            {
+                "First Name": "Erin",
+                "Last Name": "Kennedy",
+                "Affiliation": "University of Pennsylvania School of Nursing, Department of Biobehavioral Health Sciences, Philadelphia, PA, USA. Electronic address: erinken@nursing.upenn.edu."
+            },
+            {
+                "First Name": "Yolanda",
+                "Last Name": "Barr\u00f3n",
+                "Affiliation": "Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York City, NY, USA. Electronic address: yolanda.barron@vnsny.org."
+            },
+            {
+                "First Name": "Sridevi",
+                "Last Name": "Sridharan",
+                "Affiliation": "Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York City, NY, USA. Electronic address: sridevi.sridharan@vnsny.org."
+            },
+            {
+                "First Name": "Maxim",
+                "Last Name": "Topaz",
+                "Affiliation": "Columbia University School of Nursing, New York City, NY, USA; Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York City, NY, USA; Data Science Institute, Columbia University, New York City, NY, USA. Electronic address: mt3315@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35196369",
+        "Title": "Documentation of hospitalization risk factors in electronic health records (EHRs): a qualitative study with home healthcare clinicians.",
+        "Abstract": "To identify the risk factors home healthcare (HHC) clinicians associate with patient deterioration and understand how clinicians respond to and document these risk factors.",
+        "Keywords": [
+            "Omaha System",
+            "electronic health record",
+            "home health",
+            "natural language processing",
+            "nursing informatics",
+            "qualitative"
+        ],
+        "MeSH terms": [
+            "Delivery of Health Care",
+            "Documentation",
+            "Electronic Health Records",
+            "Home Care Services",
+            "Hospitalization",
+            "Humans",
+            "Risk Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mollie",
+                "Last Name": "Hobensack",
+                "Affiliation": "Columbia University School of Nursing, New York City, New York, USA."
+            },
+            {
+                "First Name": "Marietta",
+                "Last Name": "Ojo",
+                "Affiliation": "Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York City, New York, USA."
+            },
+            {
+                "First Name": "Yolanda",
+                "Last Name": "Barr\u00f3n",
+                "Affiliation": "Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York City, New York, USA."
+            },
+            {
+                "First Name": "Kathryn H",
+                "Last Name": "Bowles",
+                "Affiliation": "Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York City, New York, USA."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "Columbia University School of Nursing, New York City, New York, USA."
+            },
+            {
+                "First Name": "Sena",
+                "Last Name": "Chae",
+                "Affiliation": "College of Nursing, University of Iowa, Iowa City, Iowa, USA."
+            },
+            {
+                "First Name": "Erin",
+                "Last Name": "Kennedy",
+                "Affiliation": "Department of Biobehavioral Health Sciences, University of Pennsylvania School of Nursing, Philadelphia, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Margaret V",
+                "Last Name": "McDonald",
+                "Affiliation": "Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York City, New York, USA."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Columbia University School of Nursing, New York City, New York, USA."
+            },
+            {
+                "First Name": "Jiyoun",
+                "Last Name": "Song",
+                "Affiliation": "Columbia University School of Nursing, New York City, New York, USA."
+            },
+            {
+                "First Name": "Sridevi",
+                "Last Name": "Sridharan",
+                "Affiliation": "Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York City, New York, USA."
+            },
+            {
+                "First Name": "Maxim",
+                "Last Name": "Topaz",
+                "Affiliation": "Columbia University School of Nursing, New York City, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35171126",
+        "Title": "Detecting Language Associated With Home Healthcare Patient's Risk for Hospitalization and Emergency Department Visit.",
+        "Abstract": "About one in five patients receiving home healthcare (HHC) services are hospitalized or visit an emergency department (ED) during a home care episode. Early identification of at-risk patients can prevent these negative outcomes. However, risk indicators, including language in clinical notes that indicate a concern about a patient, are often hidden in narrative documentation throughout their HHC episode.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Delivery of Health Care",
+            "Emergency Service, Hospital",
+            "Home Care Services",
+            "Hospitalization",
+            "Humans",
+            "Natural Language Processing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jiyoun",
+                "Last Name": "Song",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marietta",
+                "Last Name": "Ojo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kathryn H",
+                "Last Name": "Bowles",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Margaret V",
+                "Last Name": "McDonald",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Victoria",
+                "Last Name": "Adams",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sena",
+                "Last Name": "Chae",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mollie",
+                "Last Name": "Hobensack",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Erin",
+                "Last Name": "Kennedy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aluem",
+                "Last Name": "Tark",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Min-Jeoung",
+                "Last Name": "Kang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kyungmi",
+                "Last Name": "Woo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yolanda",
+                "Last Name": "Barr\u00f3n",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sridevi",
+                "Last Name": "Sridharan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maxim",
+                "Last Name": "Topaz",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nursing research",
+        "PubDate": null
+    },
+    {
+        "PMID": "34889766",
+        "Title": "The Communicating Narrative Concerns Entered by Registered Nurses (CONCERN) Clinical Decision Support Early Warning System: Protocol for a Cluster Randomized Pragmatic Clinical Trial.",
+        "Abstract": "Every year, hundreds of thousands of inpatients die from cardiac arrest and sepsis, which could be avoided if those patients' risk for deterioration were detected and timely interventions were initiated. Thus, a system is needed to convert real-time, raw patient data into consumable information that clinicians can utilize to identify patients at risk of deterioration and thus prevent mortality and improve patient health outcomes. The overarching goal of the COmmunicating Narrative Concerns Entered by Registered Nurses (CONCERN) study is to implement and evaluate an early warning score system that provides clinical decision support (CDS) in electronic health record systems. With a combination of machine learning and natural language processing, the CONCERN CDS utilizes nursing documentation patterns as indicators of nurses' increased surveillance to predict when patients are at the risk of clinical deterioration.",
+        "Keywords": [
+            "clinical decision support system",
+            "clinical trial",
+            "deterioration",
+            "early warning system",
+            "natural language processing",
+            "nursing documentation",
+            "prediction"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Dykes",
+                "Affiliation": "Brigham and Women's Hospital, Boston, MA, United States."
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Knaplund",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Min-Jeoung",
+                "Last Name": "Kang",
+                "Affiliation": "Brigham and Women's Hospital, Boston, MA, United States."
+            },
+            {
+                "First Name": "Kumiko",
+                "Last Name": "Schnock",
+                "Affiliation": "Brigham and Women's Hospital, Boston, MA, United States."
+            },
+            {
+                "First Name": "Jose Pedro",
+                "Last Name": "Garcia",
+                "Affiliation": "Brigham and Women's Hospital, Boston, MA, United States."
+            },
+            {
+                "First Name": "Li-Heng",
+                "Last Name": "Fu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Frank",
+                "Last Name": "Chang",
+                "Affiliation": "Brigham and Women's Hospital, Boston, MA, United States."
+            },
+            {
+                "First Name": "Tien",
+                "Last Name": "Thai",
+                "Affiliation": "Brigham and Women's Hospital, Boston, MA, United States."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Fred",
+                "Affiliation": "Working Diagnosis, Haddonfield, NJ, United States."
+            },
+            {
+                "First Name": "Tom Z",
+                "Last Name": "Korach",
+                "Affiliation": "Brigham and Women's Hospital, Boston, MA, United States."
+            },
+            {
+                "First Name": "Li",
+                "Last Name": "Zhou",
+                "Affiliation": "Brigham and Women's Hospital, Boston, MA, United States."
+            },
+            {
+                "First Name": "Jeffrey G",
+                "Last Name": "Klann",
+                "Affiliation": "Harvard Medical School, Boston, MA, United States."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Albers",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Jessica",
+                "Last Name": "Schwartz",
+                "Affiliation": "School of Nursing, Columbia University Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Graham",
+                "Last Name": "Lowenthal",
+                "Affiliation": "Brigham and Women's Hospital, Boston, MA, United States."
+            },
+            {
+                "First Name": "Haomiao",
+                "Last Name": "Jia",
+                "Affiliation": "School of Nursing, Columbia University Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Fang",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "School of Nursing, Columbia University Medical Center, New York, NY, United States."
+            }
+        ],
+        "Journal": "JMIR research protocols",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34820789",
+        "Title": "Clinician and Health Care Leaders' Experiences with-and Perceptions of-COVID-19 Documentation Reduction Policies and Practices.",
+        "Abstract": "Substantial strategies to reduce clinical documentation were implemented by health care systems throughout the coronavirus disease-2019 (COVID-19) pandemic at national and local levels. This natural experiment provides an opportunity to study the impact of documentation reduction strategies on documentation burden among clinicians and other health professionals in the United States.",
+        "Keywords": [],
+        "MeSH terms": [
+            "COVID-19",
+            "Delivery of Health Care",
+            "Documentation",
+            "Humans",
+            "Policy",
+            "SARS-CoV-2",
+            "United States"
+        ],
+        "Authors": [
+            {
+                "First Name": "Amanda J",
+                "Last Name": "Moy",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, United States."
+            },
+            {
+                "First Name": "Jessica M",
+                "Last Name": "Schwartz",
+                "Affiliation": "Columbia University School of Nursing, New York, New York, United States."
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Withall",
+                "Affiliation": "Columbia University School of Nursing, New York, New York, United States."
+            },
+            {
+                "First Name": "Eugene",
+                "Last Name": "Lucas",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, United States."
+            },
+            {
+                "First Name": "Kenrick D",
+                "Last Name": "Cato",
+                "Affiliation": "Columbia University School of Nursing, New York, New York, United States."
+            },
+            {
+                "First Name": "S Trent",
+                "Last Name": "Rosenbloom",
+                "Affiliation": "Department of Biomedical Informatics, Vanderbilt University, Nashville, Tennessee, United States."
+            },
+            {
+                "First Name": "Kevin",
+                "Last Name": "Johnson",
+                "Affiliation": "Department of Biomedical Informatics, Vanderbilt University, Nashville, Tennessee, United States."
+            },
+            {
+                "First Name": "Judy",
+                "Last Name": "Murphy",
+                "Affiliation": "Twin Cities, Minnesota, United States."
+            },
+            {
+                "First Name": "Don E",
+                "Last Name": "Detmer",
+                "Affiliation": "Department of Public Health Sciences, University of Virginia, Charlottesville, Virginia, United States."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, United States."
+            }
+        ],
+        "Journal": "Applied clinical informatics",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34706395",
+        "Title": "Characterizing Multitasking and Workflow Fragmentation in Electronic Health Records among Emergency Department Clinicians: Using Time-Motion Data to Understand Documentation Burden.",
+        "Abstract": "The impact of electronic health records (EHRs) in the emergency department (ED) remains mixed. Dynamic and unpredictable, the ED is highly vulnerable to workflow interruptions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Documentation",
+            "Electronic Health Records",
+            "Emergency Service, Hospital",
+            "Humans",
+            "Time and Motion Studies",
+            "Workflow"
+        ],
+        "Authors": [
+            {
+                "First Name": "Amanda J",
+                "Last Name": "Moy",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, United States."
+            },
+            {
+                "First Name": "Lucy",
+                "Last Name": "Aaron",
+                "Affiliation": "Department of Emergency Medicine, Columbia University Irving Medical Center, New York, New York, United States."
+            },
+            {
+                "First Name": "Kenrick D",
+                "Last Name": "Cato",
+                "Affiliation": "Department of Emergency Medicine, Columbia University Irving Medical Center, New York, New York, United States."
+            },
+            {
+                "First Name": "Jessica M",
+                "Last Name": "Schwartz",
+                "Affiliation": "Columbia University School of Nursing, New York, New York, United States."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Elias",
+                "Affiliation": "Department of Population Health Sciences, Weill Cornell Medicine, New York, New York, United States."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Trepp",
+                "Affiliation": "Department of Emergency Medicine, Columbia University Irving Medical Center, New York, New York, United States."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, United States."
+            }
+        ],
+        "Journal": "Applied clinical informatics",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34270710",
+        "Title": "Utilizing timestamps of longitudinal electronic health record data to classify clinical deterioration events.",
+        "Abstract": "To propose an algorithm that utilizes only timestamps of longitudinal electronic health record data to classify clinical deterioration events.",
+        "Keywords": [
+            "clinical informatics",
+            "early warning scores, machine learning",
+            "electronic health records",
+            "predictive modeling"
+        ],
+        "MeSH terms": [
+            "Clinical Deterioration",
+            "Electronic Health Records",
+            "Humans",
+            "Machine Learning",
+            "Retrospective Studies",
+            "Vital Signs"
+        ],
+        "Authors": [
+            {
+                "First Name": "Li-Heng",
+                "Last Name": "Fu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Knaplund",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "School of Nursing, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Min-Jeoung",
+                "Last Name": "Kang",
+                "Affiliation": "The Catholic University of Korea, College of Nursing, Seoul, Republic of Korea."
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Dykes",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Albers",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Collins Rossetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34171662",
+        "Title": "Identifying nursing documentation patterns associated with patient deterioration and recovery from deterioration in critical and acute care settings.",
+        "Abstract": "Nursing documentation behavior within electronic health records may reflect a nurse's concern about a patient and can be used to predict patient deterioration. Our study objectives were to quantify variations in nursing documentation patterns, confirm those patterns and variations with clinicians, and identify which patterns indicate patient deterioration and recovery from clinical deterioration events in the critical and acute care settings.",
+        "Keywords": [
+            "Health information technology",
+            "Patient safety",
+            "Quality improvement"
+        ],
+        "MeSH terms": [
+            "Critical Care",
+            "Documentation",
+            "Electronic Health Records",
+            "Humans",
+            "Intensive Care Units",
+            "Vital Signs"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kumiko O",
+                "Last Name": "Schnock",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, USA; Harvard Medical School, Boston, MA, USA. Electronic address: kschnock@bwh.harvard.edu."
+            },
+            {
+                "First Name": "Min-Jeoung",
+                "Last Name": "Kang",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, USA; Harvard Medical School, Boston, MA, USA."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, NY, USA; Columbia University, School of Nursing, New York, NY, USA."
+            },
+            {
+                "First Name": "Jose",
+                "Last Name": "Garcia",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, USA."
+            },
+            {
+                "First Name": "Graham",
+                "Last Name": "Lowenthal",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, USA."
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Knaplund",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Frank",
+                "Last Name": "Chang",
+                "Affiliation": "Mass General Brigham, Boston, MA, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Albers",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Tom Z",
+                "Last Name": "Korach",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, USA; Harvard Medical School, Boston, MA, USA."
+            },
+            {
+                "First Name": "Li",
+                "Last Name": "Zhou",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, USA; Harvard Medical School, Boston, MA, USA."
+            },
+            {
+                "First Name": "Jeffrey G",
+                "Last Name": "Klann",
+                "Affiliation": "Harvard Medical School, Boston, MA, USA; Mass General Brigham, Boston, MA, USA."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "Columbia University, School of Nursing, New York, NY, USA."
+            },
+            {
+                "First Name": "David W",
+                "Last Name": "Bates",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, USA; Harvard Medical School, Boston, MA, USA."
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Dykes",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, USA; Harvard Medical School, Boston, MA, USA."
+            }
+        ],
+        "Journal": "International journal of medical informatics",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33936464",
+        "Title": "Time-motion examination of electronic health record utilization and clinician workflows indicate frequent task switching and documentation burden.",
+        "Abstract": "Clinical documentation burden has been broadly acknowledged, yet few interprofessional measures of burden exist. Using interprofessional time-motion study (TMS) data, we evaluated clinical workflows with a focus on electronic health record (EHR) utilization and fragmentation among 47 clinicians: 34 advanced practice providers (APPs) and 13 registered nurses (RNs) from: an acute care unit (n=15 observations [obs]), intensive care unit (n",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Critical Care",
+            "Documentation",
+            "Electronic Health Records",
+            "Emergency Service, Hospital",
+            "Female",
+            "Humans",
+            "Intensive Care Units",
+            "Male",
+            "Middle Aged",
+            "Time and Motion Studies",
+            "Workflow",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Amanda J",
+                "Last Name": "Moy",
+                "Affiliation": "Columbia University Department of Biomedical Informatics, NY, NY."
+            },
+            {
+                "First Name": "Jessica M",
+                "Last Name": "Schwartz",
+                "Affiliation": "Columbia University School of Nursing, NY, NY."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Elias",
+                "Affiliation": "Columbia University Department of Biomedical Informatics, NY, NY."
+            },
+            {
+                "First Name": "Seemab",
+                "Last Name": "Imran",
+                "Affiliation": "NewYork-Presbyterian Hospital, NY, NY."
+            },
+            {
+                "First Name": "Eugene",
+                "Last Name": "Lucas",
+                "Affiliation": "Columbia University Department of Biomedical Informatics, NY, NY."
+            },
+            {
+                "First Name": "Kenrick D",
+                "Last Name": "Cato",
+                "Affiliation": "Columbia University School of Nursing, NY, NY."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Columbia University Department of Biomedical Informatics, NY, NY."
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33935196",
+        "Title": "Nursing Documentation Variation Across Different Medical Facilities Within an Integrated Healthcare System.",
+        "Abstract": "The purpose of this study was to demonstrate nursing documentation variation based on electronic health record design and its relationship with different levels of care by reviewing how various flowsheet measures, within the same electronic health record across an integrated healthcare system, are documented in different types of medical facilities. Flowsheet data with information on patients who were admitted to academic medical centers, community hospitals, and rehabilitation centers were used to calculate the frequency of flowsheet entries documented. We then compared the distinct flowsheet measures documented in five flowsheet templates across the different facilities. We observed that each type of healthcare facility appeared to have distinct clinical care foci and flowsheet measures documented differed within the same template based on facility type. Designing flowsheets tailored to study settings can meet the needs of end users and increase documentation efficiency by reducing time spent on unrelated flowsheet measures. Furthermore, this process can save nurses time for direct patient care.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Delivery of Health Care, Integrated",
+            "Documentation",
+            "Electronic Health Records",
+            "Humans",
+            "Nursing Care",
+            "Nursing Records"
+        ],
+        "Authors": [
+            {
+                "First Name": "Min-Jeoung",
+                "Last Name": "Kang",
+                "Affiliation": "Author Affiliations: College of Nursing, The Catholic University of Korea, Seoul, Republic of Korea (Dr Kang); Division of General Internal Medicine and Primary Care, Brigham & Women's Hospital, Boston, MA (Mr Chang, Dr Schnock, Mr Garcia, and Dr Dykes); Harvard Medical School, Boston, MA (Dr Schnock, and Dr Dykes); School of Nursing (Dr Rossetti, Mr Knaplund, and Dr Cato) and Department of Biomedical Informatics (Dr Rossetti), Columbia University, New York, NY; Massachusetts General Hospital, Boston, MA (Ms Whalen); University of Massachusetts-Dartmouth, College of Nursing and Health Sciences, Department of Community Nursing, North Dartmouth, MA (Dr Gesner)."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Knaplund",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Frank Y",
+                "Last Name": "Chang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kumiko O",
+                "Last Name": "Schnock",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kimberly",
+                "Last Name": "Whalen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Emily J",
+                "Last Name": "Gesner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jose P",
+                "Last Name": "Garcia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kenrick D",
+                "Last Name": "Cato",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Dykes",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Computers, informatics, nursing : CIN",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33624765",
+        "Title": "Healthcare Process Modeling to Phenotype Clinician Behaviors for Exploiting the Signal Gain of Clinical Expertise (HPM-ExpertSignals): Development and evaluation of a conceptual framework.",
+        "Abstract": "There are signals of clinicians' expert and knowledge-driven behaviors within clinical information systems (CIS) that can be exploited to support clinical prediction. Describe development of the Healthcare Process Modeling Framework to Phenotype Clinician Behaviors for Exploiting the Signal Gain of Clinical Expertise (HPM-ExpertSignals).",
+        "Keywords": [
+            "clinical informatics",
+            "conceptual framework",
+            "electronic health records",
+            "predictive modeling"
+        ],
+        "MeSH terms": [
+            "Computer Simulation",
+            "Data Science",
+            "Delivery of Health Care",
+            "Humans",
+            "Models, Theoretical",
+            "Phenotype"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Knaplund",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Dave",
+                "Last Name": "Albers",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Dykes",
+                "Affiliation": "Department of Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Min Jeoung",
+                "Last Name": "Kang",
+                "Affiliation": "Department of Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Tom Z",
+                "Last Name": "Korach",
+                "Affiliation": "Department of Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Li",
+                "Last Name": "Zhou",
+                "Affiliation": "Department of Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Kumiko",
+                "Last Name": "Schnock",
+                "Affiliation": "Department of Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Jose",
+                "Last Name": "Garcia",
+                "Affiliation": "Department of Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Jessica",
+                "Last Name": "Schwartz",
+                "Affiliation": "School of Nursing, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Li-Heng",
+                "Last Name": "Fu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Jeffrey G",
+                "Last Name": "Klann",
+                "Affiliation": "Department of Biomedical Informatics, Harvard Medical School, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Graham",
+                "Last Name": "Lowenthal",
+                "Affiliation": "Department of Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "School of Nursing, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33434568",
+        "Title": "Identifying Urinary Tract Infection-Related Information in Home Care Nursing Notes.",
+        "Abstract": "Urinary tract infection (UTI) is common in home care but not easily captured with standard assessment. This study aimed to examine the value of nursing notes in detecting UTI signs and symptoms in home care.",
+        "Keywords": [
+            "Urinary tract infection",
+            "home care",
+            "hospitalization",
+            "natural language processing",
+            "nursing"
+        ],
+        "MeSH terms": [
+            "Emergency Service, Hospital",
+            "Home Care Services",
+            "Hospitalization",
+            "Humans",
+            "Risk Assessment",
+            "United States",
+            "Urinary Tract Infections"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kyungmi",
+                "Last Name": "Woo",
+                "Affiliation": "College of Nursing, Seoul National University, Seoul, Republic of Korea. Electronic address: woo2020@snu.ac.kr."
+            },
+            {
+                "First Name": "Victoria",
+                "Last Name": "Adams",
+                "Affiliation": "Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York, NY, USA."
+            },
+            {
+                "First Name": "Paula",
+                "Last Name": "Wilson",
+                "Affiliation": "Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York, NY, USA."
+            },
+            {
+                "First Name": "Li-Heng",
+                "Last Name": "Fu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "College of Nursing, Seoul National University, Seoul, Republic of Korea."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA; School of Nursing, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Margaret",
+                "Last Name": "McDonald",
+                "Affiliation": "Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York, NY, USA."
+            },
+            {
+                "First Name": "Jingjing",
+                "Last Name": "Shang",
+                "Affiliation": "School of Nursing, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Maxim",
+                "Last Name": "Topaz",
+                "Affiliation": "Center for Home Care Policy & Research, Visiting Nurse Service of New York, New York, NY, USA; School of Nursing, Columbia University, New York, NY, USA; Data Science Institute, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Directors Association",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33434273",
+        "Title": "Measurement of clinical documentation burden among physicians and nurses using electronic health records: a scoping review.",
+        "Abstract": "Electronic health records (EHRs) are linked with documentation burden resulting in clinician burnout. While clear classifications and validated measures of burnout exist, documentation burden remains ill-defined and inconsistently measured. We aim to conduct a scoping review focused on identifying approaches to documentation burden measurement and their characteristics.",
+        "Keywords": [
+            "burden",
+            "documentation",
+            "electronic health records",
+            "health policy",
+            "nurses",
+            "physicians",
+            "workflow"
+        ],
+        "MeSH terms": [
+            "Documentation",
+            "Electronic Health Records",
+            "Humans",
+            "Nurses",
+            "Physicians",
+            "Task Performance and Analysis",
+            "Workflow",
+            "Workload"
+        ],
+        "Authors": [
+            {
+                "First Name": "Amanda J",
+                "Last Name": "Moy",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Jessica M",
+                "Last Name": "Schwartz",
+                "Affiliation": "School of Nursing, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "RuiJun",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Shirin",
+                "Last Name": "Sadri",
+                "Affiliation": "Vagelos School of Physicians and Surgeons, Columbia University New York, New York, USA."
+            },
+            {
+                "First Name": "Eugene",
+                "Last Name": "Lucas",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Kenrick D",
+                "Last Name": "Cato",
+                "Affiliation": "School of Nursing, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33136611",
+        "Title": "Information Needs and the Use of Documentation to Support Collaborative Decision-Making: Implications for the Reduction of Central Line-Associated Blood Stream Infections.",
+        "Abstract": "It is clear that interdisciplinary communication and collaboration have the potential to mitigate healthcare-associated harm, yet there is limited research on how communication through documentation in the patient record can support collaborative decision making. Understanding what information is needed to support collaborative decision making is necessary to design electronic health information systems that facilitate effective communication and, ultimately, safe care. To explore this issue, we focused on information needs related to central venous catheter management and the prevention of central line-associated blood stream infections. Semistructured interviews were conducted with nurses working in an intensive care unit. Interview transcripts were analyzed using inductive thematic analysis. Three themes were identified: (1) challenges managing documentation in multiple places in the absence of formal documentation processes for central venous catheter management; (2) lack of standardized decision-making processes for managing central venous catheters; and (3) oral communication holds it together. Our findings provide a foundation for the development of EHR functional requirements that enhance communication regarding the management of central venous catheters and facilitate the prompt removal of unnecessary lines.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Catheter-Related Infections",
+            "Catheterization, Central Venous",
+            "Cooperative Behavior",
+            "Critical Care Nursing",
+            "Decision Making",
+            "Documentation",
+            "Electronic Health Records",
+            "Humans",
+            "Intensive Care Units",
+            "Interdisciplinary Communication",
+            "Interviews as Topic",
+            "Qualitative Research"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jennifer A",
+                "Last Name": "Thate",
+                "Affiliation": "Author Affiliations: Department of Nursing, Siena College (Dr Thate), Albany, NY; General Internal Medicine and Primary Care, Brigham and Women's Hospital (Ms Couture and Dr Schnock), Boston, MA; Department of Medicine, Harvard Medical School (Dr Schnock), Boston, MA; School of Nursing and Biomedical Informatics and Nursing, Columbia University (Dr Rossetti), New York, NY."
+            },
+            {
+                "First Name": "Brittany",
+                "Last Name": "Couture",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kumiko O",
+                "Last Name": "Schnock",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Computers, informatics, nursing : CIN",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33086364",
+        "Title": "Transforming clinical data into wisdom: Artificial intelligence implications for nurse leaders.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Artificial Intelligence",
+            "Humans",
+            "Nurse Administrators",
+            "Nursing Informatics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kenrick D",
+                "Last Name": "Cato",
+                "Affiliation": "Kenrick D. Cato is an assistant professor at Columbia University School of Nursing in New York, N.Y. Kathleen McGrow is the chief nursing information officer at Microsoft Corporation in Redmond, Wash. Sarah Collins Rossetti is an assistant professor of biomedical informatics and nursing at Columbia University in New York, N.Y."
+            },
+            {
+                "First Name": "Kathleen",
+                "Last Name": "McGrow",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nursing management",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32940673",
+        "Title": "A refined methodology for validation of information models derived from flowsheet data and applied to a genitourinary case.",
+        "Abstract": "Use of electronic health record data is expanding to support quality improvement and research; however, this requires standardization of the data and validation within and across organizations. Information models (IMs) are created to standardize data elements into a logical organization that includes data elements, definitions, data types, values, and relationships. To be generalizable, these models need to be validated across organizations. The purpose of this case report is to describe a refined methodology for validation of flowsheet IMs and apply the revised process to a genitourinary IM created in one organization. The refined IM process, adding evidence and input from experts, produced a clinically relevant and evidence-based model of genitourinary care. The refined IM process provides a foundation for optimizing electronic health records with comparable nurse sensitive data that can add to common data models for continuity of care and ongoing use for quality improvement and research.",
+        "Keywords": [
+            "data standards",
+            "electronic health records",
+            "information modeling",
+            "nursing informatics",
+            "nursing records"
+        ],
+        "MeSH terms": [
+            "Electronic Health Records",
+            "Humans",
+            "Models, Theoretical",
+            "Nursing Records",
+            "Organizational Case Studies",
+            "Quality Improvement",
+            "Reproducibility of Results",
+            "Software Design",
+            "Urologic Diseases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Bonnie L",
+                "Last Name": "Westra",
+                "Affiliation": "School of Nursing, University of Minnesota, Minneapolis, Minnesota, USA."
+            },
+            {
+                "First Name": "Kay S",
+                "Last Name": "Lytle",
+                "Affiliation": "Health System Nursing and Duke Health Technology Solutions, Duke University Health System, Durham, North Carolina, USA."
+            },
+            {
+                "First Name": "Luann",
+                "Last Name": "Whittenburg",
+                "Affiliation": "Health Informatics, Washington, DC, USA."
+            },
+            {
+                "First Name": "Mischa",
+                "Last Name": "Adams",
+                "Affiliation": "HealthCatalyst, Salt Lake City, Utah, USA."
+            },
+            {
+                "First Name": "Samira",
+                "Last Name": "Ali",
+                "Affiliation": "School of Nursing, Wilkes University, Wilkes-Barre, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Meg",
+                "Last Name": "Furukawa",
+                "Affiliation": "Department of Information Services and Solutions, UCLA Health, Los Angeles, California, USA."
+            },
+            {
+                "First Name": "Stephanie",
+                "Last Name": "Hartleben",
+                "Affiliation": "Elsevier Clinical Solutions, Bismarck, North Dakota, USA."
+            },
+            {
+                "First Name": "Mary",
+                "Last Name": "Hook",
+                "Affiliation": "Center for Nursing Practice and Research, Advocate Aurora Health Care, Milwaukee, Wisconsin, USA."
+            },
+            {
+                "First Name": "Steve",
+                "Last Name": "Johnson",
+                "Affiliation": "Institute of Health Informatics and School of Nursing, University of Minnesota, Minneapolis, Minnesota, USA."
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Collins Rossetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Tess Theresa",
+                "Last Name": "Settergren",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32883579",
+        "Title": "Development and Validation of WeCares, a Survey Instrument to Assess Hospitalized Patients' and Family Members' \"Willingness to Engage in Your Care and Safety\".",
+        "Abstract": "Patient engagement is recognized as a method to improve care quality and safety. A research team developed WeCares (Willingness to Engage in Your Care and Safety), a survey instrument assessing patients' and families' engagement in the safety of their care during their hospital stay. The objective of this study is to establish the preliminary construct validity and internal consistency of WeCares.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Communication",
+            "Factor Analysis, Statistical",
+            "Family",
+            "Humans",
+            "Patients",
+            "Psychometrics",
+            "Reproducibility of Results",
+            "Surveys and Questionnaires"
+        ],
+        "Authors": [
+            {
+                "First Name": "Po-Yin",
+                "Last Name": "Yen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lisa Soleymani",
+                "Last Name": "Lehmann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Snyder",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kumiko",
+                "Last Name": "Schnock",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brittany",
+                "Last Name": "Couture",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ann",
+                "Last Name": "Smith",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicole",
+                "Last Name": "Pearl",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Esteban",
+                "Last Name": "Gershanik",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "William",
+                "Last Name": "Martinez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Dykes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David W",
+                "Last Name": "Bates",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Joint Commission journal on quality and patient safety",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32477591",
+        "Title": "Identifying best approaches for engaging patients and family members in health informatics initiatives: a case study of the Group Priority Sort technique.",
+        "Abstract": "Patient engagement strategies in health service delivery have become more common in recent years. However, many healthcare organizations are challenged in identifying the best methods to engage patients in health information technology (IT) initiatives. Engaging with important stakeholders to identify effective opportunities can inform the development of a resource that addresses this issue and supports organizations in their endeavors. The purpose of this paper is to share our experience and lessons learned from applying a novel consensus-building technique in order to identify key elements for effective patient engagement in health IT initiatives. This will be done through a case study approach.",
+        "Keywords": [
+            "Group priority sort",
+            "Health informatics",
+            "Health information technology",
+            "Nursing informatics",
+            "Participatory research",
+            "Patient engagement"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Brian",
+                "Last Name": "Lo",
+                "Affiliation": "1Centre for Addiction and Mental Health, 1001 Queen Street West, Toronto, M6J 1H4 ON Canada."
+            },
+            {
+                "First Name": "Timothy",
+                "Last Name": "Zhang",
+                "Affiliation": "1Centre for Addiction and Mental Health, 1001 Queen Street West, Toronto, M6J 1H4 ON Canada."
+            },
+            {
+                "First Name": "Kevin",
+                "Last Name": "Leung",
+                "Affiliation": "1Centre for Addiction and Mental Health, 1001 Queen Street West, Toronto, M6J 1H4 ON Canada."
+            },
+            {
+                "First Name": "Rohan",
+                "Last Name": "Mehta",
+                "Affiliation": "1Centre for Addiction and Mental Health, 1001 Queen Street West, Toronto, M6J 1H4 ON Canada."
+            },
+            {
+                "First Name": "Craig",
+                "Last Name": "Kuziemsky",
+                "Affiliation": "4Telfer School of Management, University of Ottawa, 55 Laurier Avenue East, Ottawa, K1N 6N5 ON Canada."
+            },
+            {
+                "First Name": "Richard G",
+                "Last Name": "Booth",
+                "Affiliation": "5Arthur Labatt Family School of Nursing, Western University, 1151 Richmond Street, London, N6A 3K7 ON Canada."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Chyjek",
+                "Affiliation": "1Centre for Addiction and Mental Health, 1001 Queen Street West, Toronto, M6J 1H4 ON Canada."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "6Department of Biomedical Informatics and School of Nursing, Columbia University, 622 W. 168th Street, Presbyterian Building 20th Floor, New York, 10032 NY USA."
+            },
+            {
+                "First Name": "Drew",
+                "Last Name": "McLean",
+                "Affiliation": "7McMaster University, 1280 Main Street West, Hamilton, L8S 4L8 ON Canada."
+            },
+            {
+                "First Name": "Elizabeth",
+                "Last Name": "Borycki",
+                "Affiliation": "8School of Health Information Science, University of Victoria, Human & Social Development Building A202, 3800 Finnerty Road (Ring Road), Victoria, V8P 5C2 BC Canada."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "McLay",
+                "Affiliation": "2Institute of Health Policy, Management and Evaluation, University of Toronto, 155 College Street, Toronto, M5T 1P8 ON Canada."
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Noble",
+                "Affiliation": "Canada Health Infoway, 150 King Street West Suite 1300, Toronto, M5H 1J9 ON Canada."
+            },
+            {
+                "First Name": "Shawn",
+                "Last Name": "Carter",
+                "Affiliation": "10Ontario Shores Centre for Mental Health Sciences, 700 Gordon Street West, Whitby, L1N 5S9 ON Canada."
+            },
+            {
+                "First Name": "Gillian",
+                "Last Name": "Strudwick",
+                "Affiliation": "1Centre for Addiction and Mental Health, 1001 Queen Street West, Toronto, M6J 1H4 ON Canada."
+            }
+        ],
+        "Journal": "Research involvement and engagement",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32308916",
+        "Title": "An Interprofessional Approach to Clinical Workflow Evaluation Focused on the Electronic Health Record Using Time motion Study Methods.",
+        "Abstract": "Documentation burden has become an increasing concern as the prevalence of electronic health records (EHRs) has grown. The implementation of a new EHR is an opportunity to measure and improve documentation burden, as well as assess the role of the EHR in clinician workflow. Time-motion observation is the preferred method for evaluating workflow. In this study, we developed and tested the reliability of an interprofessional taxonomy for use in time-motion observation of nursing and physician workflow before and after a new EHR is implemented at a large academic medical center. Inter-observer reliability assessment sessions were conducted while observing both nurses and physicians. Four out of five observers achieved reliability in an average of 5.75 sessions. Our developed taxonomy demonstrated to be reliable for conducting workflow evaluation of both nurses and physicians, with a focus on time and tasks in the EHR.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Academic Medical Centers",
+            "Communication",
+            "Documentation",
+            "Electronic Health Records",
+            "Humans",
+            "Medical Staff, Hospital",
+            "Nursing Staff, Hospital",
+            "Observer Variation",
+            "Reproducibility of Results",
+            "Time and Motion Studies",
+            "Workflow"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jessica",
+                "Last Name": "Schwartz",
+                "Affiliation": "Columbia University School of Nursing, New York, NY."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Elias",
+                "Affiliation": "Columbia University Department of Biomedical Informatics, New York, NY."
+            },
+            {
+                "First Name": "Cody",
+                "Last Name": "Slater",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "Columbia University School of Nursing, New York, NY."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Columbia University School of Nursing, New York, NY."
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "32308825",
+        "Title": "Leveraging Clinical Expertise as a Feature - not an Outcome - of Predictive Models: Evaluation of an Early Warning System Use Case.",
+        "Abstract": "Identifying patients at risk of deterioration in the hospital and intervening more quickly to prevent adverse events is a top patient safety priority. Early warning scores (EWS) identify at risk patients, but there is much opportunity for improvement particularly related to increasing lead time - the time from an alert trigger to adverse event (e.g., cardiac arrest, death). Our team develops healthcare process models of clinical concern (HPM-CC) and in this work has identified documentation signals that are proxies of nurses concern and can be used to predict patient risk earlier than current EWS systems that rely only on physiological data. We compared the performance of a validated EWS - the MEWS - to our novel model (MEWS-CC) comprised of MEWS criteria plus 3 proxy variables of nursing concern. MEWS-CC performed similarly to MEWS, with the added benefit of increased the time from EWS trigger to event by 5-26 hours.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Clinical Competence",
+            "Documentation",
+            "Early Diagnosis",
+            "Electronic Health Records",
+            "False Positive Reactions",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Models, Biological",
+            "Monitoring, Physiologic",
+            "Nursing Staff, Hospital",
+            "Prognosis",
+            "ROC Curve",
+            "Risk Assessment",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Columbia University, Department of Biomedical Informatics, New York, NY."
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Knaplund",
+                "Affiliation": "Columbia University, Department of Biomedical Informatics, New York, NY."
+            },
+            {
+                "First Name": "Dave",
+                "Last Name": "Albers",
+                "Affiliation": "Columbia University, Department of Biomedical Informatics, New York, NY."
+            },
+            {
+                "First Name": "Abdul",
+                "Last Name": "Tariq",
+                "Affiliation": "New York Presbyterian Hospital, New York, NY."
+            },
+            {
+                "First Name": "Kui",
+                "Last Name": "Tang",
+                "Affiliation": "New York Presbyterian Hospital, New York, NY."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Vawdrey",
+                "Affiliation": "Columbia University, Department of Biomedical Informatics, New York, NY."
+            },
+            {
+                "First Name": "Natalie H",
+                "Last Name": "Yip",
+                "Affiliation": "Columbia University Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Dykes",
+                "Affiliation": "Brigham and Women's Hospital, Boston, MA."
+            },
+            {
+                "First Name": "Jeffrey G",
+                "Last Name": "Klann",
+                "Affiliation": "Harvard Medical School, Boston, MA."
+            },
+            {
+                "First Name": "Min Jeoung",
+                "Last Name": "Kang",
+                "Affiliation": "Brigham and Women's Hospital, Boston, MA."
+            },
+            {
+                "First Name": "Jose",
+                "Last Name": "Garcia",
+                "Affiliation": "Brigham and Women's Hospital, Boston, MA."
+            },
+            {
+                "First Name": "Li-Heng",
+                "Last Name": "Fu",
+                "Affiliation": "Columbia University, Department of Biomedical Informatics, New York, NY."
+            },
+            {
+                "First Name": "Kumiko",
+                "Last Name": "Schnock",
+                "Affiliation": "Brigham and Women's Hospital, Boston, MA."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "Columbia University, School of Nursing, New York, NY."
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "32278089",
+        "Title": "Development and validation of early warning score system: A systematic literature review.",
+        "Abstract": "This review aims to: 1) evaluate the quality of model reporting, 2) provide an overview of methodology for developing and validating Early Warning Score Systems (EWSs) for adult patients in acute care settings, and 3) highlight the strengths and limitations of the methodologies, as well as identify future directions for EWS derivation and validation studies.",
+        "Keywords": [
+            "Clinical predictive modeling",
+            "Decision support technique",
+            "Early warning scores",
+            "Electronic health records",
+            "Monitoring",
+            "Physiologic",
+            "Prognosis"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Early Warning Score",
+            "Humans",
+            "Intensive Care Units",
+            "Models, Statistical",
+            "Prognosis",
+            "Vital Signs"
+        ],
+        "Authors": [
+            {
+                "First Name": "Li-Heng",
+                "Last Name": "Fu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States. Electronic address: lf2608@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Jessica",
+                "Last Name": "Schwartz",
+                "Affiliation": "School of Nursing, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Amanda",
+                "Last Name": "Moy",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Knaplund",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Min-Jeoung",
+                "Last Name": "Kang",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, United States; Harvard Medical School, Boston, MA, United States."
+            },
+            {
+                "First Name": "Kumiko O",
+                "Last Name": "Schnock",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, United States; Harvard Medical School, Boston, MA, United States."
+            },
+            {
+                "First Name": "Jose P",
+                "Last Name": "Garcia",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, United States."
+            },
+            {
+                "First Name": "Haomiao",
+                "Last Name": "Jia",
+                "Affiliation": "School of Nursing, Columbia University, New York, NY, United States; Department of Biostatistics, Mailman School of Public Health, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Dykes",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, United States; Harvard Medical School, Boston, MA, United States."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "School of Nursing, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Albers",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States; Department of Pediatrics, Section of Informatics and Data Science, University of Colorado, Aurora, CO, United States."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States; School of Nursing, Columbia University, New York, NY, United States."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32175964",
+        "Title": "Unique Patient-Reported Hospital Safety Concerns With Online Tool: MySafeCare.",
+        "Abstract": "Hospitalized patients and their care partners have valuable and unique perspectives of the medical care they receive. Direct and real-time reporting of patients' safety concerns, though limited in the acute care setting, could provide opportunities to improve patient care.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Communication",
+            "Hospitals",
+            "Humans",
+            "Patient Reported Outcome Measures",
+            "Patient Safety"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kumiko O",
+                "Last Name": "Schnock",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Julia E",
+                "Last Name": "Snyder",
+                "Affiliation": "From the Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital."
+            },
+            {
+                "First Name": "Esteban",
+                "Last Name": "Gershanik",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stuart",
+                "Last Name": "Lipsitz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Dykes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David W",
+                "Last Name": "Bates",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of patient safety",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "31884312",
+        "Title": "Mining clinical phrases from nursing notes to discover risk factors of patient deterioration.",
+        "Abstract": "Early identification and treatment of patient deterioration is crucial to improving clinical outcomes. To act, hospital rapid response (RR) teams often rely on nurses' clinical judgement typically documented narratively in the electronic health record (EHR). We developed a data-driven, unsupervised method to discover potential risk factors of RR events from nursing notes.",
+        "Keywords": [
+            "Data mining",
+            "Hospital Rapid response team",
+            "Nursing informatics",
+            "Unsupervised machine learning"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Aged",
+            "Data Mining",
+            "Electronic Health Records",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Natural Language Processing",
+            "Nurses",
+            "Risk Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zfania Tom",
+                "Last Name": "Korach",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, United States; Harvard Medical School, Boston, MA, United States. Electronic address: zkorach@bwh.harvard.edu."
+            },
+            {
+                "First Name": "Jie",
+                "Last Name": "Yang",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, United States; Harvard Medical School, Boston, MA, United States."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New-York, NY, United States; School of Nursing, Columbia University, New-York, NY, United States."
+            },
+            {
+                "First Name": "Kenrick D",
+                "Last Name": "Cato",
+                "Affiliation": "School of Nursing, Columbia University, New-York, NY, United States."
+            },
+            {
+                "First Name": "Min-Jeoung",
+                "Last Name": "Kang",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, United States; Harvard Medical School, Boston, MA, United States."
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Knaplund",
+                "Affiliation": "School of Nursing, Columbia University, New-York, NY, United States."
+            },
+            {
+                "First Name": "Kumiko O",
+                "Last Name": "Schnock",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, United States; Harvard Medical School, Boston, MA, United States."
+            },
+            {
+                "First Name": "Jose P",
+                "Last Name": "Garcia",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, United States."
+            },
+            {
+                "First Name": "Haomiao",
+                "Last Name": "Jia",
+                "Affiliation": "School of Nursing, Columbia University, New-York, NY, United States."
+            },
+            {
+                "First Name": "Jessica M",
+                "Last Name": "Schwartz",
+                "Affiliation": "School of Nursing, Columbia University, New-York, NY, United States."
+            },
+            {
+                "First Name": "Li",
+                "Last Name": "Zhou",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, MA, United States; Harvard Medical School, Boston, MA, United States."
+            }
+        ],
+        "Journal": "International journal of medical informatics",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31794030",
+        "Title": "Lessons learned implementing a complex and innovative patient safety learning laboratory project in a large academic medical center.",
+        "Abstract": "The objective of this paper is to share challenges, recommendations, and lessons learned regarding the development and implementation of a Patient Safety Learning Laboratory (PSLL) project, an innovative and complex intervention comprised of a suite of Health Information Technology (HIT) tools integrated with a newly implemented Electronic Health Record (EHR) vendor system in the acute care setting at a large academic center.",
+        "Keywords": [
+            "consumer health informatics",
+            "health information technology",
+            "patient safety",
+            "patient-centered care",
+            "quality improvement"
+        ],
+        "MeSH terms": [
+            "Academic Medical Centers",
+            "Consumer Health Informatics",
+            "Electronic Health Records",
+            "Humans",
+            "Medical Informatics",
+            "Patient Portals",
+            "Patient Safety",
+            "Systems Integration"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alexandra C",
+                "Last Name": "Businger",
+                "Affiliation": "Division of General Internal Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Theresa E",
+                "Last Name": "Fuller",
+                "Affiliation": "Division of General Internal Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Jeffrey L",
+                "Last Name": "Schnipper",
+                "Affiliation": "Division of General Internal Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Division of General Internal Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Kumiko O",
+                "Last Name": "Schnock",
+                "Affiliation": "Division of General Internal Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Ronen",
+                "Last Name": "Rozenblum",
+                "Affiliation": "Division of General Internal Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Anuj K",
+                "Last Name": "Dalal",
+                "Affiliation": "Division of General Internal Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Benneyan",
+                "Affiliation": "Healthcare Systems Engineering Institute, Northeastern University, Boston, MA, USA."
+            },
+            {
+                "First Name": "David W",
+                "Last Name": "Bates",
+                "Affiliation": "Division of General Internal Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Dykes",
+                "Affiliation": "Division of General Internal Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31707264",
+        "Title": "Identifying nurses' concern concepts about patient deterioration using a standard nursing terminology.",
+        "Abstract": "Nurse concerns documented in nursing notes are important predictors of patient risk of deterioration. Using a standard nursing terminology and inputs from subject-matter experts (SMEs), we aimed to identify and define nurse concern concepts and terms about patient deterioration, which can be used to support subsequent automated tasks, such as natural language processing and risk predication.",
+        "Keywords": [
+            "Expression of concern",
+            "Information storage and retrieval",
+            "Standardized nursing terminology"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Intensive Care Units",
+            "Natural Language Processing",
+            "Nurses",
+            "Standardized Nursing Terminology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Min-Jeoung",
+                "Last Name": "Kang",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham & Women's Hospital, Boston, USA; Harvard Medical School, Boston, USA. Electronic address: mkang6@bwh.harvard.edu."
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Dykes",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham & Women's Hospital, Boston, USA; Harvard Medical School, Boston, USA."
+            },
+            {
+                "First Name": "Tom Z",
+                "Last Name": "Korach",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham & Women's Hospital, Boston, USA; Harvard Medical School, Boston, USA."
+            },
+            {
+                "First Name": "Li",
+                "Last Name": "Zhou",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham & Women's Hospital, Boston, USA; Harvard Medical School, Boston, USA."
+            },
+            {
+                "First Name": "Kumiko O",
+                "Last Name": "Schnock",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham & Women's Hospital, Boston, USA; Harvard Medical School, Boston, USA."
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Thate",
+                "Affiliation": "Siena College, Albany, USA."
+            },
+            {
+                "First Name": "Kimberly",
+                "Last Name": "Whalen",
+                "Affiliation": "Massachusetts General Hospital, Boston, USA."
+            },
+            {
+                "First Name": "Haomiao",
+                "Last Name": "Jia",
+                "Affiliation": "Columbia University, Department of Biostatistics, New York, USA; Columbia University, School of Nursing, New York, USA."
+            },
+            {
+                "First Name": "Jessica",
+                "Last Name": "Schwartz",
+                "Affiliation": "Columbia University, School of Nursing, New York, USA."
+            },
+            {
+                "First Name": "Jose P",
+                "Last Name": "Garcia",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham & Women's Hospital, Boston, USA; Harvard Medical School, Boston, USA."
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Knaplund",
+                "Affiliation": "Columbia University, School of Nursing, New York, USA."
+            },
+            {
+                "First Name": "Kenrick D",
+                "Last Name": "Cato",
+                "Affiliation": "Columbia University, School of Nursing, New York, USA."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "Columbia University, School of Nursing, New York, USA; Columbia University, Department of Biomedical Informatics, New York, USA."
+            }
+        ],
+        "Journal": "International journal of medical informatics",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31651615",
+        "Title": "The Role of Nurse Managers in the Adoption of Health Information Technology: Findings From a Qualitative Study.",
+        "Abstract": "This study aims to investigate the role of nurse managers in supporting point-of-care nurses' health information technology (IT) use and identify strategies employed by nurse managers to improve adoption, while also gathering point-of-care nurses' perceptions of these strategies.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Attitude of Health Personnel",
+            "Female",
+            "Humans",
+            "Leadership",
+            "Medical Informatics",
+            "Nurse Administrators",
+            "Nurse's Role",
+            "Nursing Staff, Hospital",
+            "Ontario",
+            "Professional Role",
+            "Qualitative Research"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gillian",
+                "Last Name": "Strudwick",
+                "Affiliation": "Authors Affiliations: Independent Scientist (Dr Strudwick), Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto; and Associate Professor (Dr Booth), Arthur Labatt Family School of Nursing, Western University, London, Ontario, Canada; Assistant Professor (Dr Bjarnadottir), College of Nursing, University of Florida, Gainesville; Assistant Professor (Dr Rossetti), Department of Biomedical Informatics and School of Nursing, Columbia University, New York; and Student (Ms Friesen), University of British Columbia, Vancouver, Canada; PhD Candidate (Ms Sequeira) and Student (Ms Munnery), Institute of Health Policy, Management and Evaluation, University of Toronto; and Chief Nursing Executive (Dr Srivastava), Professional Practice, Centre for Addiction and Mental Health, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Richard G",
+                "Last Name": "Booth",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ragnhildur I",
+                "Last Name": "Bjarnadottir",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Madison",
+                "Last Name": "Friesen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lydia",
+                "Last Name": "Sequeira",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mikayla",
+                "Last Name": "Munnery",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rani",
+                "Last Name": "Srivastava",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of nursing administration",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31632596",
+        "Title": "Development of a Process and Infrastructure to Outreach Stakeholders for Capturing Healthcare System Stress in Emergency Response Situations.",
+        "Abstract": "Real time data provided by frontline clinicians could be used to direct immediate resources during a public health emergency and inform increased preparedness for future events. The United States Critical Illness and Injury Trials Group Program for Emergency Preparedness (USCIIT-PREP), a group of expert critical care and emergency medicine physicians at various academic medical centers across the US, aims to enhance the national capability of rapid electronic data collection, along with analysis and dissemination of findings. To achieve these aims, USCIIT-PREP created a process for real-time data capture that relies on a curated and engaged network of clinical providers from various geographical regions to respond to short online \"Pulse\" queries about healthcare system stress. During a period of three years, five queries were created and distributed. The first two queries were used to develop and validate the data collection infrastructure. Results are reported for the last three queries between June 2015 and March 2016. Response rates consistently ranged from 39% to 42%. Our team demonstrated that our system and processes were ready for creation and rapid dissemination of episodic queries for rapid data collection, transmittal, and analysis through a curated national network of clinician responders during a public health emergency. USCIIT-PREP aims to further increase the response rate through additional engagement efforts within the network, to continue to grow the clinician responder database, and to optimize additional query content.",
+        "Keywords": [
+            "Emergency preparedness",
+            "Public Health Informatics",
+            "electronic data capture",
+            "real-time data capture"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Taylor",
+                "Last Name": "Read",
+                "Affiliation": "1Northwestern University, Chicago, IL;\u20282Yale School of Public Health, New Haven, CT;\u20283University of Southern California, Los Angeles, CA;\u20284Brigham and Women's Hospital, Boston, MA;\u20285Harvard Medical School, Boston, MA;\u20286Partners Healthcare System, Boston, MA;\u20287Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Elizabeth",
+                "Last Name": "White",
+                "Affiliation": "1Northwestern University, Chicago, IL;\u20282Yale School of Public Health, New Haven, CT;\u20283University of Southern California, Los Angeles, CA;\u20284Brigham and Women's Hospital, Boston, MA;\u20285Harvard Medical School, Boston, MA;\u20286Partners Healthcare System, Boston, MA;\u20287Columbia University, New York, NY."
+            },
+            {
+                "First Name": "J Perren",
+                "Last Name": "Cobb",
+                "Affiliation": "1Northwestern University, Chicago, IL;\u20282Yale School of Public Health, New Haven, CT;\u20283University of Southern California, Los Angeles, CA;\u20284Brigham and Women's Hospital, Boston, MA;\u20285Harvard Medical School, Boston, MA;\u20286Partners Healthcare System, Boston, MA;\u20287Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Perry",
+                "Last Name": "Mar",
+                "Affiliation": "1Northwestern University, Chicago, IL;\u20282Yale School of Public Health, New Haven, CT;\u20283University of Southern California, Los Angeles, CA;\u20284Brigham and Women's Hospital, Boston, MA;\u20285Harvard Medical School, Boston, MA;\u20286Partners Healthcare System, Boston, MA;\u20287Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Mahesh",
+                "Last Name": "Shanmugam",
+                "Affiliation": "1Northwestern University, Chicago, IL;\u20282Yale School of Public Health, New Haven, CT;\u20283University of Southern California, Los Angeles, CA;\u20284Brigham and Women's Hospital, Boston, MA;\u20285Harvard Medical School, Boston, MA;\u20286Partners Healthcare System, Boston, MA;\u20287Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Roberto A",
+                "Last Name": "Rocha",
+                "Affiliation": "1Northwestern University, Chicago, IL;\u20282Yale School of Public Health, New Haven, CT;\u20283University of Southern California, Los Angeles, CA;\u20284Brigham and Women's Hospital, Boston, MA;\u20285Harvard Medical School, Boston, MA;\u20286Partners Healthcare System, Boston, MA;\u20287Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "1Northwestern University, Chicago, IL;\u20282Yale School of Public Health, New Haven, CT;\u20283University of Southern California, Los Angeles, CA;\u20284Brigham and Women's Hospital, Boston, MA;\u20285Harvard Medical School, Boston, MA;\u20286Partners Healthcare System, Boston, MA;\u20287Columbia University, New York, NY."
+            }
+        ],
+        "Journal": "Online journal of public health informatics",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31606258",
+        "Title": "Identifying best practices in electronic health record documentation to support interprofessional communication for the prevention of central line-associated bloodstream infections.",
+        "Abstract": "There is a paucity of research on best practices for communication through the electronic health record (EHR) to support shared decision-making and to prevent adverse events. To explore this issue, this study focused on interprofessional communication around a specific clinical issue, the prevention of central line-associated bloodstream infections.",
+        "Keywords": [
+            "CLABSI",
+            "Delphi technique",
+            "Infection control",
+            "Informatics"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Catheter-Related Infections",
+            "Catheterization, Central Venous",
+            "Central Venous Catheters",
+            "Communication",
+            "Cross Infection",
+            "Electronic Health Records",
+            "Female",
+            "Health Planning Guidelines",
+            "Humans",
+            "Infection Control",
+            "Male",
+            "Middle Aged"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Thate",
+                "Affiliation": "Siena College, Albany, NY. Electronic address: jthate@siena.edu."
+            },
+            {
+                "First Name": "Sarah Collins",
+                "Last Name": "Rossetti",
+                "Affiliation": "School of Nursing, Columbia University, New York, NY; Department of Biomedical Informatics, Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Ruth",
+                "Last Name": "McDermott-Levy",
+                "Affiliation": "M. Louise Fitzpatrick College of Nursing, Villanova University, Villanova, PA."
+            },
+            {
+                "First Name": "Helene",
+                "Last Name": "Moriarty",
+                "Affiliation": "M. Louise Fitzpatrick College of Nursing, Villanova University, Villanova, PA; Corporal Michael J. Crescenz Veterans Affairs Medical Center, Philadelphia, PA."
+            }
+        ],
+        "Journal": "American journal of infection control",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31596241",
+        "Title": "Using Patient and Family Engagement Strategies to Improve Outcomes of Health Information Technology Initiatives: Scoping Review.",
+        "Abstract": "Many health care organizations around the world have implemented health information technologies (ITs) to enhance health service efficiency, effectiveness, and safety. Studies have demonstrated that promising outcomes of health IT initiatives can be obtained when patients and family members participate and engage in the adoption, use, and evaluation of these technologies. Despite knowing this, there is a lack of health care organizations using patient and family engagement strategies to enhance the use and adoption of health ITs, specifically.",
+        "Keywords": [
+            "health information technology",
+            "health services",
+            "informatics",
+            "medical informatics",
+            "patient engagement"
+        ],
+        "MeSH terms": [
+            "Family",
+            "Humans",
+            "Medical Informatics",
+            "Patient Participation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kevin",
+                "Last Name": "Leung",
+                "Affiliation": "Centre for Addiction and Mental Health, Toronto, ON, Canada."
+            },
+            {
+                "First Name": "Drew",
+                "Last Name": "Lu-McLean",
+                "Affiliation": "McMaster University, Hamilton, ON, Canada."
+            },
+            {
+                "First Name": "Craig",
+                "Last Name": "Kuziemsky",
+                "Affiliation": "University of Ottawa, Ottawa, ON, Canada."
+            },
+            {
+                "First Name": "Richard G",
+                "Last Name": "Booth",
+                "Affiliation": "Western University, London, ON, Canada."
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Collins Rossetti",
+                "Affiliation": "Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Elizabeth",
+                "Last Name": "Borycki",
+                "Affiliation": "University of Victoria, Victoria, BC, Canada."
+            },
+            {
+                "First Name": "Gillian",
+                "Last Name": "Strudwick",
+                "Affiliation": "Centre for Addiction and Mental Health, Toronto, ON, Canada."
+            }
+        ],
+        "Journal": "Journal of medical Internet research",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31094912",
+        "Title": "Fellows of AMIA (FAMIA) Applied Informatics Recognition Program.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Fellowships and Scholarships",
+            "Humans",
+            "Nursing Informatics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sarah",
+                "Last Name": "Collins Rossetti",
+                "Affiliation": "Columbia University Department of Biomedical Informatics and School of Nursing, New York, NY."
+            }
+        ],
+        "Journal": "Computers, informatics, nursing : CIN",
+        "PubDate": "2019"
+    }
+]

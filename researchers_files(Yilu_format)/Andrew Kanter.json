@@ -1,0 +1,2074 @@
+[
+    {
+        "PMID": "38575324",
+        "Title": "Development and evaluation of a text analytics algorithm for automated application of national COVID-19 shielding criteria in rheumatology patients.",
+        "Abstract": "At the beginning of the COVID-19 pandemic, the UK's Scientific Committee issued extreme social distancing measures, termed 'shielding', aimed at a subpopulation deemed extremely clinically vulnerable to infection. National guidance for risk stratification was based on patients' age, comorbidities and immunosuppressive therapies, including biologics that are not captured in primary care records. This process required considerable clinician time to manually review outpatient letters. Our aim was to develop and evaluate an automated shielding algorithm by text-mining outpatient letter diagnoses and medications, reducing the need for future manual review.",
+        "Keywords": [
+            "Biological Therapy",
+            "Covid-19",
+            "Epidemiology"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "COVID-19",
+            "Algorithms",
+            "United Kingdom",
+            "Data Mining",
+            "SARS-CoV-2",
+            "Rheumatic Diseases",
+            "Middle Aged",
+            "Male",
+            "Rheumatology",
+            "Female",
+            "Aged",
+            "Risk Assessment",
+            "Pandemics",
+            "Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Meghna",
+                "Last Name": "Jani",
+                "Affiliation": "Centre for Epidemiology Versus Arthritis, Centre for Musculoskeletal Research, The University of Manchester, Manchester, UK meghna.jani@manchester.ac.uk."
+            },
+            {
+                "First Name": "Ghada",
+                "Last Name": "Alfattni",
+                "Affiliation": "Department of Computer Science, The University of Manchester, Manchester, UK."
+            },
+            {
+                "First Name": "Maksim",
+                "Last Name": "Belousov",
+                "Affiliation": "Department of Computer Science, The University of Manchester, Manchester, UK."
+            },
+            {
+                "First Name": "Lynn",
+                "Last Name": "Laidlaw",
+                "Affiliation": "Centre for Epidemiology Versus Arthritis, Centre for Musculoskeletal Research, The University of Manchester, Manchester, UK."
+            },
+            {
+                "First Name": "Yuanyuan",
+                "Last Name": "Zhang",
+                "Affiliation": "Centre for Epidemiology Versus Arthritis, Centre for Musculoskeletal Research, The University of Manchester, Manchester, UK."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Cheng",
+                "Affiliation": "Department of Business Intelligence, Northern Care Alliance NHS Foundation Trust, Salford Care Organisation, Salford, UK."
+            },
+            {
+                "First Name": "Karim",
+                "Last Name": "Webb",
+                "Affiliation": "Department of Business Intelligence, Northern Care Alliance NHS Foundation Trust, Salford Care Organisation, Salford, UK."
+            },
+            {
+                "First Name": "Robyn",
+                "Last Name": "Hamilton",
+                "Affiliation": "Department of Business Intelligence, Northern Care Alliance NHS Foundation Trust, Salford Care Organisation, Salford, UK."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "William G",
+                "Last Name": "Dixon",
+                "Affiliation": "Centre for Epidemiology Versus Arthritis, Centre for Musculoskeletal Research, The University of Manchester, Manchester, UK."
+            },
+            {
+                "First Name": "Goran",
+                "Last Name": "Nenadic",
+                "Affiliation": "Department of Computer Science, The University of Manchester, Manchester, UK."
+            }
+        ],
+        "Journal": "Annals of the rheumatic diseases",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "36826399",
+        "Title": "Reproducible variability: assessing investigator discordance across 9 research teams attempting to reproduce the same observational study.",
+        "Abstract": "Observational studies can impact patient care but must be robust and reproducible. Nonreproducibility is primarily caused by unclear reporting of design choices and analytic procedures. This study aimed to: (1) assess how the study logic described in an observational study could be interpreted by independent researchers and (2) quantify the impact of interpretations' variability on patient characteristics.",
+        "Keywords": [
+            "credibility",
+            "observational data",
+            "open science",
+            "reproducibility"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Research Personnel",
+            "Databases, Factual"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anna",
+                "Last Name": "Ostropolets",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Yasser",
+                "Last Name": "Albogami",
+                "Affiliation": "Department of Clinical Pharmacy, College of Pharmacy, King Saud University, Riyadh, Saudi Arabia."
+            },
+            {
+                "First Name": "Mitchell",
+                "Last Name": "Conover",
+                "Affiliation": "Observational Health Data Analytics, Janssen Research & Development, Titusville, New Jersey, USA."
+            },
+            {
+                "First Name": "Juan M",
+                "Last Name": "Banda",
+                "Affiliation": "Department of Computer Science, Georgia State University, Atlanta, Georgia, USA."
+            },
+            {
+                "First Name": "William A",
+                "Last Name": "Baumgartner",
+                "Affiliation": "Division of General Internal Medicine, Department of Medicine, University of Colorado Anschutz Medical Campus, Aurora, Colorado, USA."
+            },
+            {
+                "First Name": "Clair",
+                "Last Name": "Blacketer",
+                "Affiliation": "Observational Health Data Analytics, Janssen Research & Development, Titusville, New Jersey, USA."
+            },
+            {
+                "First Name": "Priyamvada",
+                "Last Name": "Desai",
+                "Affiliation": "Research IT, Technology and Digital Solutions, Stanford Medicine, Stanford, California, USA."
+            },
+            {
+                "First Name": "Scott L",
+                "Last Name": "DuVall",
+                "Affiliation": "VA Salt Lake City Health Care System, Salt Lake City, Utah, USA."
+            },
+            {
+                "First Name": "Stephen",
+                "Last Name": "Fortin",
+                "Affiliation": "Observational Health Data Analytics, Janssen Research & Development, Titusville, New Jersey, USA."
+            },
+            {
+                "First Name": "James P",
+                "Last Name": "Gilbert",
+                "Affiliation": "Observational Health Data Analytics, Janssen Research & Development, Titusville, New Jersey, USA."
+            },
+            {
+                "First Name": "Asieh",
+                "Last Name": "Golozar",
+                "Affiliation": "Odysseus Data Services, New York, New York, USA."
+            },
+            {
+                "First Name": "Joshua",
+                "Last Name": "Ide",
+                "Affiliation": "Johnson & Johnson, Titusville, New Jersey, USA."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "David M",
+                "Last Name": "Kern",
+                "Affiliation": "Observational Health Data Analytics, Janssen Research & Development, Titusville, New Jersey, USA."
+            },
+            {
+                "First Name": "Chungsoo",
+                "Last Name": "Kim",
+                "Affiliation": "Department of Biomedical Sciences, Ajou University Graduate School of Medicine, Suwon, South Korea."
+            },
+            {
+                "First Name": "Lana Y H",
+                "Last Name": "Lai",
+                "Affiliation": "Department of Informatics, Imaging & Data Sciences, University of Manchester, Manchester, UK."
+            },
+            {
+                "First Name": "Chenyu",
+                "Last Name": "Li",
+                "Affiliation": "Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Feifan",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Population and Quantitative Health Sciences, University of Massachusetts Chan Medical School, Worcester, Massachusetts, USA."
+            },
+            {
+                "First Name": "Kristine E",
+                "Last Name": "Lynch",
+                "Affiliation": "VA Salt Lake City Health Care System, Salt Lake City, Utah, USA."
+            },
+            {
+                "First Name": "Evan",
+                "Last Name": "Minty",
+                "Affiliation": "O'Brien Institute for Public Health, Faculty of Medicine, University of Calgary, Calgary, Canada."
+            },
+            {
+                "First Name": "Maria In\u00eas",
+                "Last Name": "Neves",
+                "Affiliation": "Real World Solutions, IQVIA, Durham, North Carolina, USA."
+            },
+            {
+                "First Name": "Ding Quan",
+                "Last Name": "Ng",
+                "Affiliation": "Department of Pharmaceutical Sciences, School of Pharmacy & Pharmaceutical Sciences, University of California, Irvine, California, USA."
+            },
+            {
+                "First Name": "Tontel",
+                "Last Name": "Obene",
+                "Affiliation": "Mississippi Urban Research Center, Jackson State University, Jackson, Mississippi, USA."
+            },
+            {
+                "First Name": "Victor",
+                "Last Name": "Pera",
+                "Affiliation": "Department of Medical Informatics, Erasmus University Medical Center, Rotterdam, The Netherlands."
+            },
+            {
+                "First Name": "Nicole",
+                "Last Name": "Pratt",
+                "Affiliation": "Quality Use of Medicines and Pharmacy Research Centre, University of South Australia, Adelaide, Australia."
+            },
+            {
+                "First Name": "Gowtham",
+                "Last Name": "Rao",
+                "Affiliation": "Observational Health Data Analytics, Janssen Research & Development, Titusville, New Jersey, USA."
+            },
+            {
+                "First Name": "Nadav",
+                "Last Name": "Rappoport",
+                "Affiliation": "Department of Software and Information Systems Engineering, Ben-Gurion University of the Negev, Israel."
+            },
+            {
+                "First Name": "Ines",
+                "Last Name": "Reinecke",
+                "Affiliation": "Institute for Medical Informatics and Biometry, Carl Gustav Carus Faculty of Medicine, Technische Universit\u00e4t Dresden, Dresden, Germany."
+            },
+            {
+                "First Name": "Paola",
+                "Last Name": "Saroufim",
+                "Affiliation": "Cleveland Institute for Computational Biology, Case Western Reserve University, Cleveland, Ohio, USA."
+            },
+            {
+                "First Name": "Azza",
+                "Last Name": "Shoaibi",
+                "Affiliation": "Observational Health Data Analytics, Janssen Research & Development, Titusville, New Jersey, USA."
+            },
+            {
+                "First Name": "Katherine",
+                "Last Name": "Simon",
+                "Affiliation": "VA Tennessee Valley Health Care System, Vanderbilt University Medical Center, Nashville, Tennessee, USA."
+            },
+            {
+                "First Name": "Marc A",
+                "Last Name": "Suchard",
+                "Affiliation": "Department of Biostatistics, University of California, Los Angeles, California, USA."
+            },
+            {
+                "First Name": "Joel N",
+                "Last Name": "Swerdel",
+                "Affiliation": "Observational Health Data Analytics, Janssen Research & Development, Titusville, New Jersey, USA."
+            },
+            {
+                "First Name": "Erica A",
+                "Last Name": "Voss",
+                "Affiliation": "Observational Health Data Analytics, Janssen Research & Development, Titusville, New Jersey, USA."
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Weaver",
+                "Affiliation": "Observational Health Data Analytics, Janssen Research & Development, Titusville, New Jersey, USA."
+            },
+            {
+                "First Name": "Linying",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Patrick B",
+                "Last Name": "Ryan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36179272",
+        "Title": "Design and Evaluation of a Computational Phenotype to Identify Patients With Metastatic Breast Cancer Within the Electronic Health Record.",
+        "Abstract": "Outcomes for patients with metastatic breast cancer (MBC) are continually improving as more effective treatments become available. Granular data sets of this unique population are lacking, and the standard method for data collection relies largely on chart review. Therefore, using electronic health records (EHR) collected at a tertiary hospital system, we developed and evaluated a computational phenotype designed to identify all patients with MBC, and we compared the effectiveness of this algorithm against the gold standard, clinical chart review.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Electronic Health Records",
+            "Humans",
+            "International Classification of Diseases",
+            "Neoplasms",
+            "Phenotype",
+            "Systematized Nomenclature of Medicine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Benjamin",
+                "Last Name": "Neely",
+                "Affiliation": "Duke Cancer Institute, Durham, NC."
+            },
+            {
+                "First Name": "Mohammad",
+                "Last Name": "Shahsahebi",
+                "Affiliation": "Duke Cancer Institute, Durham, NC."
+            },
+            {
+                "First Name": "Caitlin E",
+                "Last Name": "Marks",
+                "Affiliation": "Department of Surgery, Duke University Medical Center, Durham, NC."
+            },
+            {
+                "First Name": "Steve",
+                "Last Name": "Power",
+                "Affiliation": "Duke Cancer Institute, Durham, NC."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Kanter",
+                "Affiliation": "Intelligent Medical Objects, Rosemont, IL."
+            },
+            {
+                "First Name": "Claire",
+                "Last Name": "Howell",
+                "Affiliation": "Duke Cancer Institute, Durham, NC."
+            },
+            {
+                "First Name": "Terry",
+                "Last Name": "Hyslop",
+                "Affiliation": "Department of Biostatistics and Bioinformatics, Duke University, Durham, NC."
+            },
+            {
+                "First Name": "Jennifer K",
+                "Last Name": "Plichta",
+                "Affiliation": "Duke Cancer Institute, Durham, NC."
+            }
+        ],
+        "Journal": "JCO clinical cancer informatics",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35415451",
+        "Title": "Evaluation of a Concept Mapping Task Using Named Entity Recognition and Normalization in Unstructured Clinical Text.",
+        "Abstract": "In this pilot study, we explore the feasibility and accuracy of using a query in a commercial natural language processing engine in a named entity recognition and normalization task to extract a wide spectrum of clinical concepts from free text clinical letters. Editorial guidance developed by two independent clinicians was used to annotate sixty anonymized clinic letters to create the gold standard. Concepts were categorized by semantic type, and labels were applied to indicate contextual attributes such as negation. The natural language processing (NLP) engine was Linguamatics I2E version 5.3.1, equipped with an algorithm for contextualizing words and phrases and an ontology of terms from Intelligent Medical Objects to which those tokens were mapped. Performance of the engine was assessed on a training set of the documents using precision, recall, and the F1 score, with subset analysis for semantic type, accurate negation, exact versus partial conceptual matching, and discontinuous text. The engine underwent tuning, and the final performance was determined for a test set. The test set showed an F1 score of 0.81 and 0.84 using strict and relaxed criteria respectively when appropriate negation was not required and 0.75 and 0.77 when it was. F1 scores were higher when concepts were derived from continuous text only. This pilot study showed that a commercially available NLP engine delivered good overall results for identifying a wide spectrum of structured clinical concepts. Such a system holds promise for extracting concepts from free text to populate problem lists or for data mining projects.",
+        "Keywords": [
+            "Annotation",
+            "Clinical letters",
+            "Gold standard",
+            "Named entity recognition",
+            "Natural language processing",
+            "Text mining"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Sapna",
+                "Last Name": "Trivedi",
+                "Affiliation": "Cambridge Clinical Informatics, NIHR Cambridge Biomedical Research Centre, Cambridge University Hospitals NHS Foundation Trust, Hills Road, Cambridge, England UK."
+            },
+            {
+                "First Name": "Roger",
+                "Last Name": "Gildersleeve",
+                "Affiliation": "Intelligent Medical Objects (IMO), Rosemont, IL USA."
+            },
+            {
+                "First Name": "Sandra",
+                "Last Name": "Franco",
+                "Affiliation": "Intelligent Medical Objects (IMO), Rosemont, IL USA."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "Intelligent Medical Objects (IMO), Rosemont, IL USA."
+            },
+            {
+                "First Name": "Afzal",
+                "Last Name": "Chaudhry",
+                "Affiliation": "Cambridge Clinical Informatics, NIHR Cambridge Biomedical Research Centre, Cambridge University Hospitals NHS Foundation Trust, Hills Road, Cambridge, England UK."
+            }
+        ],
+        "Journal": "Journal of healthcare informatics research",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32805036",
+        "Title": "The National COVID Cohort Collaborative (N3C): Rationale, design, infrastructure, and deployment.",
+        "Abstract": "Coronavirus disease 2019 (COVID-19) poses societal challenges that require expeditious data and knowledge sharing. Though organizational clinical data are abundant, these are largely inaccessible to outside researchers. Statistical, machine learning, and causal analyses are most successful with large-scale data beyond what is available in any given organization. Here, we introduce the National COVID Cohort Collaborative (N3C), an open science community focused on analyzing patient-level data from many centers.",
+        "Keywords": [
+            "COVID-19",
+            "EHR data",
+            "SARS-CoV-2",
+            "clinical data model harmonization",
+            "collaborative analytics",
+            "open science"
+        ],
+        "MeSH terms": [
+            "COVID-19",
+            "Computer Security",
+            "Data Analysis",
+            "Data Science",
+            "Ethics Committees, Research",
+            "Government Regulation",
+            "Humans",
+            "Information Dissemination",
+            "Intersectoral Collaboration",
+            "National Institutes of Health (U.S.)",
+            "United States"
+        ],
+        "Authors": [
+            {
+                "First Name": "Melissa A",
+                "Last Name": "Haendel",
+                "Affiliation": "Oregon Clinical and Translational Research Institute, Oregon Health and Science University, Portland, Oregon, USA."
+            },
+            {
+                "First Name": "Christopher G",
+                "Last Name": "Chute",
+                "Affiliation": "Schools of Medicine, Public Health, and Nursing, Johns Hopkins University, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Tellen D",
+                "Last Name": "Bennett",
+                "Affiliation": "Section of Informatics and Data Science, Department of Pediatrics, University of Colorado School of Medicine, University of Colorado, Aurora, Colorado, USA."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Eichmann",
+                "Affiliation": "School of Library and Information Science, The University of Iowa, Iowa City, Iowa, USA."
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Guinney",
+                "Affiliation": "Sage Bionetworks, Seattle, Washington, USA."
+            },
+            {
+                "First Name": "Warren A",
+                "Last Name": "Kibbe",
+                "Affiliation": "Duke University, Durham,North Carolina, USA."
+            },
+            {
+                "First Name": "Philip R O",
+                "Last Name": "Payne",
+                "Affiliation": "Institute for Informatics, Washington University in St. Louis, Saint Louis,Missouri, USA."
+            },
+            {
+                "First Name": "Emily R",
+                "Last Name": "Pfaff",
+                "Affiliation": "North Carolina Translational and Clinical Sciences Institute (NC TraCS), University of North Carolina at Chapel Hill, Chapel Hill,North Carolina, USA."
+            },
+            {
+                "First Name": "Peter N",
+                "Last Name": "Robinson",
+                "Affiliation": "Jackson Laboratory, Bar Harbor, Maine, USA."
+            },
+            {
+                "First Name": "Joel H",
+                "Last Name": "Saltz",
+                "Affiliation": "Department of Biomedical Informatics, Stony Brook University, Stony Brook, New York, USA."
+            },
+            {
+                "First Name": "Heidi",
+                "Last Name": "Spratt",
+                "Affiliation": "University of Texas Medical Branch, Galveston, Texas, USA."
+            },
+            {
+                "First Name": "Christine",
+                "Last Name": "Suver",
+                "Affiliation": "Sage Bionetworks, Seattle, Washington, USA."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Wilbanks",
+                "Affiliation": "Sage Bionetworks, Seattle, Washington, USA."
+            },
+            {
+                "First Name": "Adam B",
+                "Last Name": "Wilcox",
+                "Affiliation": "University of Washington, Seattle, Washington, USA."
+            },
+            {
+                "First Name": "Andrew E",
+                "Last Name": "Williams",
+                "Affiliation": "Tufts Medical Center Clinical and Translational Science Institute, Tufts Medical Center, Boston,Massachusetts, USA."
+            },
+            {
+                "First Name": "Chunlei",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, California, USA."
+            },
+            {
+                "First Name": "Clair",
+                "Last Name": "Blacketer",
+                "Affiliation": "Janssen Research and Development, LLC, Raritan, New Jersey, USA."
+            },
+            {
+                "First Name": "Robert L",
+                "Last Name": "Bradford",
+                "Affiliation": "North Carolina Translational and Clinical Sciences Institute (NC TraCS), University of North Carolina at Chapel Hill, Chapel Hill,North Carolina, USA."
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "Cimino",
+                "Affiliation": "University of Alabama-Birmingham, Birmingham, Alabama, USA."
+            },
+            {
+                "First Name": "Marshall",
+                "Last Name": "Clark",
+                "Affiliation": "North Carolina Translational and Clinical Sciences Institute (NC TraCS), University of North Carolina at Chapel Hill, Chapel Hill,North Carolina, USA."
+            },
+            {
+                "First Name": "Evan W",
+                "Last Name": "Colmenares",
+                "Affiliation": "Department of Pharmaceutical Outcomes and Policy, University of North Carolina at Chapel Hill, Chapel Hill,North Carolina, USA."
+            },
+            {
+                "First Name": "Patricia A",
+                "Last Name": "Francis",
+                "Affiliation": "Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Davera",
+                "Last Name": "Gabriel",
+                "Affiliation": "Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Alexis",
+                "Last Name": "Graves",
+                "Affiliation": "University of Iowa Institute for Clinical and Translational Science, The University of Iowa, Iowa City, Iowa, USA."
+            },
+            {
+                "First Name": "Raju",
+                "Last Name": "Hemadri",
+                "Affiliation": "National Center for Advancing Translational Science, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Stephanie S",
+                "Last Name": "Hong",
+                "Affiliation": "Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripscak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Dazhi",
+                "Last Name": "Jiao",
+                "Affiliation": "Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Jeffrey G",
+                "Last Name": "Klann",
+                "Affiliation": "Harvard Medical School, Boston,Massachusetts, USA."
+            },
+            {
+                "First Name": "Kristin",
+                "Last Name": "Kostka",
+                "Affiliation": "IQVIA, Durham, North Carolina, USA."
+            },
+            {
+                "First Name": "Adam M",
+                "Last Name": "Lee",
+                "Affiliation": "University of North Carolina at Chapel Hill, Chapel Hill,North Carolina, USA."
+            },
+            {
+                "First Name": "Harold P",
+                "Last Name": "Lehmann",
+                "Affiliation": "Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Lora",
+                "Last Name": "Lingrey",
+                "Affiliation": "TriNetX, Cambridge,Massachusetts, USA."
+            },
+            {
+                "First Name": "Robert T",
+                "Last Name": "Miller",
+                "Affiliation": "Tufts Clinical and Translational Science Institute, Tufts University, Boston,Massachusetts, USA."
+            },
+            {
+                "First Name": "Michele",
+                "Last Name": "Morris",
+                "Affiliation": "Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh,Pennsylvania, USA."
+            },
+            {
+                "First Name": "Shawn N",
+                "Last Name": "Murphy",
+                "Affiliation": "Mass General Brigham, Boston,Massachusetts, USA."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Irving Medical Center, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Matvey B",
+                "Last Name": "Palchuk",
+                "Affiliation": "TriNetX, Cambridge,Massachusetts, USA."
+            },
+            {
+                "First Name": "Usman",
+                "Last Name": "Sheikh",
+                "Affiliation": "National Center for Advancing Translational Science, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Harold",
+                "Last Name": "Solbrig",
+                "Affiliation": "Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Shyam",
+                "Last Name": "Visweswaran",
+                "Affiliation": "Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh,Pennsylvania, USA."
+            },
+            {
+                "First Name": "Anita",
+                "Last Name": "Walden",
+                "Affiliation": "Oregon Clinical and Translational Research Institute, Oregon Health and Science University, Portland, Oregon, USA."
+            },
+            {
+                "First Name": "Kellie M",
+                "Last Name": "Walters",
+                "Affiliation": "North Carolina Translational and Clinical Sciences Institute (NC TraCS), University of North Carolina at Chapel Hill, Chapel Hill,North Carolina, USA."
+            },
+            {
+                "First Name": "Griffin M",
+                "Last Name": "Weber",
+                "Affiliation": "Department of Biomedical Informatics, Harvard Medical School, Boston,Massachusetts, USA."
+            },
+            {
+                "First Name": "Xiaohan Tanner",
+                "Last Name": "Zhang",
+                "Affiliation": "Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Richard L",
+                "Last Name": "Zhu",
+                "Affiliation": "Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+            },
+            {
+                "First Name": "Benjamin",
+                "Last Name": "Amor",
+                "Affiliation": "Palantir Technologies, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "Andrew T",
+                "Last Name": "Girvin",
+                "Affiliation": "Palantir Technologies, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "Amin",
+                "Last Name": "Manna",
+                "Affiliation": "Palantir Technologies, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "Nabeel",
+                "Last Name": "Qureshi",
+                "Affiliation": "Palantir Technologies, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "Michael G",
+                "Last Name": "Kurilla",
+                "Affiliation": "Division of Clinical Innovation, National Center for Advancing Translational Science, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Sam G",
+                "Last Name": "Michael",
+                "Affiliation": "National Center for Advancing Translational Sciences, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Lili M",
+                "Last Name": "Portilla",
+                "Affiliation": "Office of Strategic Alliances, National Center for Advancing Translational Sciences, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Joni L",
+                "Last Name": "Rutter",
+                "Affiliation": "Office of the Director, National Center for Advancing Translational Science, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Christopher P",
+                "Last Name": "Austin",
+                "Affiliation": "National Center for Advancing Translational Sciences, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Ken R",
+                "Last Name": "Gersing",
+                "Affiliation": "National Center for Advancing Translational Science, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "30815125",
+        "Title": "Validation of the Behavior of a Knowledge Base Implementing Clinical Guidelines for Point-of-Care Antiretroviral Toxicity Monitoring.",
+        "Abstract": "This study investigated the automated detection of antiretroviral toxicities in structured electronic health records data. The evaluation compared responses generated by 5 clinical pharmacists and 1 prototype knowledge-based application for 15 randomly selected test cases. The main outcomes were inter-subject dissimilarity of responses quantified by the Jaccard distance, and the mean proportion of correct responses by each subject. The statistical differences in inter-subject Jaccard distances suggested that the prototype was inferior to clinical pharmacists in the detection of possible antiretroviral toxicity associations from structured data. The reason for dissimilarities was attributable to inadequate domain coverage by the prototype. The differences in the mean proportion of correct responses between the clinical pharmacists and the prototype were statistically indistinguishable. Overall, this study suggests that knowledge-based applications have the potential to support automated detection of antiretroviral toxicities from structured patient records. Furthermore, the study demonstrates a systematic approach for validating such applications quantitatively.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Anti-Retroviral Agents",
+            "Drug Monitoring",
+            "Electronic Health Records",
+            "HIV Infections",
+            "Humans",
+            "Knowledge Bases",
+            "Pharmacists",
+            "Point-of-Care Systems",
+            "Point-of-Care Testing",
+            "Practice Guidelines as Topic"
+        ],
+        "Authors": [
+            {
+                "First Name": "William",
+                "Last Name": "Ogallo",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY."
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "30674041",
+        "Title": "Integration of Postcoordination Content into a Clinical Interface Terminology to Support Administrative Coding.",
+        "Abstract": "Clinical interface terminologies (CITs) consist of terms designed for clinical documentation and, through mappings to standardized vocabularies, to support secondary uses of patient data, including clinical decision support, quality measurement, and billing for health care services. The latter purpose requires maps to administrative coding systems, such as the International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM), for diagnoses in the United States.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Documentation",
+            "Health Personnel",
+            "Humans",
+            "International Classification of Diseases",
+            "Systematized Nomenclature of Medicine",
+            "Workflow"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eric",
+                "Last Name": "Rose",
+                "Affiliation": "Intelligent Medical Objects, Northbrook, Illinois, United States."
+            },
+            {
+                "First Name": "Steven",
+                "Last Name": "Rube",
+                "Affiliation": "Intelligent Medical Objects, Northbrook, Illinois, United States."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "Intelligent Medical Objects, Northbrook, Illinois, United States."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Cardwell",
+                "Affiliation": "Intelligent Medical Objects, Northbrook, Illinois, United States."
+            },
+            {
+                "First Name": "Frank",
+                "Last Name": "Naeymi-Rad",
+                "Affiliation": "Intelligent Medical Objects, Northbrook, Illinois, United States."
+            }
+        ],
+        "Journal": "Applied clinical informatics",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "29959274",
+        "Title": "Effectiveness of SMS Technology on Timely Community Health Worker Follow-Up for Childhood Malnutrition: A Retrospective Cohort Study in sub-Saharan Africa.",
+        "Abstract": "The Millennium Villages Project facilitated technology-based health interventions in rural under-resourced areas of sub-Saharan Africa. Our study examined whether data entry using SMS compared with paper forms by community health workers (CHWs) led to higher proportion of timely follow-up visits for malnutrition screening in under-5 children in Ghana, Rwanda, Senegal, and Uganda.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Africa South of the Sahara",
+            "Child Nutrition Disorders",
+            "Child, Preschool",
+            "Community Health Workers",
+            "Female",
+            "Follow-Up Studies",
+            "Health Services Research",
+            "Humans",
+            "Infant",
+            "Male",
+            "Mass Screening",
+            "Paper",
+            "Retrospective Studies",
+            "Rural Health Services",
+            "Technology",
+            "Text Messaging",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Shohinee",
+                "Last Name": "Sarma",
+                "Affiliation": "Mailman School of Public Health, Columbia University, New York, NY, USA. Now with McMaster University, Hamilton, Canada. shohinee.sarma@gmail.com."
+            },
+            {
+                "First Name": "Bennett",
+                "Last Name": "Nemser",
+                "Affiliation": "Millennium Villages Project, Earth Institute, Columbia University. Now with UNICEF, New York, NY, USA. Now with University of the Western Cape, Cape Town, South Africa."
+            },
+            {
+                "First Name": "Heather",
+                "Last Name": "Cole-Lewis",
+                "Affiliation": "Yale University School of Epidemiology and Public Health, New Haven, CT, USA. Now with Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nadi",
+                "Last Name": "Kaonga",
+                "Affiliation": "Tufts University School of Medicine, Boston, MA, USA."
+            },
+            {
+                "First Name": "Joel",
+                "Last Name": "Negin",
+                "Affiliation": "Sydney School of Public Health, University of Sydney, Sydney, Australia."
+            },
+            {
+                "First Name": "Patricia",
+                "Last Name": "Namakula",
+                "Affiliation": "Millennium Villages Project, Earth Institute, Columbia University. Now with Columbia Global Centers Africa, Nairobi, Kenya."
+            },
+            {
+                "First Name": "Seth",
+                "Last Name": "Ohemeng-Dapaah",
+                "Affiliation": "Millennium Villages Project, Earth Institute, Columbia University. Now with Millennium Promise, Dakar, Senegal."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "Millennium Villages Project, Earth Institute, Columbia University, New York, NY, USA. Now with Departments of Biomedical Informatics and Epidemiology, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Global health, science and practice",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28827211",
+        "Title": "Development and Deployment of the OpenMRS-Ebola Electronic Health Record System for an Ebola Treatment Center in Sierra Leone.",
+        "Abstract": "Stringent infection control requirements at Ebola treatment centers (ETCs), which are specialized facilities for isolating and treating Ebola patients, create substantial challenges for recording and reviewing patient information. During the 2014-2016 West African Ebola epidemic, paper-based data collection systems at ETCs compromised the quality, quantity, and confidentiality of patient data. Electronic health record (EHR) systems have the potential to address such problems, with benefits for patient care, surveillance, and research. However, no suitable software was available for deployment when large-scale ETCs opened as the epidemic escalated in 2014.",
+        "Keywords": [
+            "Ebola virus disease",
+            "Sierra Leone",
+            "West Africa",
+            "disasters",
+            "disease outbreaks",
+            "eHealth",
+            "electronic health records",
+            "health information systems"
+        ],
+        "MeSH terms": [
+            "Electronic Health Records",
+            "Epidemics",
+            "Hemorrhagic Fever, Ebola",
+            "Humans",
+            "Infection Control",
+            "Sierra Leone",
+            "Telemedicine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Shefali",
+                "Last Name": "Oza",
+                "Affiliation": "Faculty of Epidemiology and Population Health, London School of Hygiene and Tropical Medicine, London, United Kingdom."
+            },
+            {
+                "First Name": "Darius",
+                "Last Name": "Jazayeri",
+                "Affiliation": "OpenMRS Inc, Indianapolis, IN, United States."
+            },
+            {
+                "First Name": "Jonathan M",
+                "Last Name": "Teich",
+                "Affiliation": "OpenMRS Inc, Indianapolis, IN, United States."
+            },
+            {
+                "First Name": "Ellen",
+                "Last Name": "Ball",
+                "Affiliation": "OpenMRS Inc, Indianapolis, IN, United States."
+            },
+            {
+                "First Name": "Patricia Alexandra",
+                "Last Name": "Nankubuge",
+                "Affiliation": "ThoughtWorks, Kampala, Uganda."
+            },
+            {
+                "First Name": "Job",
+                "Last Name": "Rwebembera",
+                "Affiliation": "ThoughtWorks, Kampala, Uganda."
+            },
+            {
+                "First Name": "Kevin",
+                "Last Name": "Wing",
+                "Affiliation": "Faculty of Epidemiology and Population Health, London School of Hygiene and Tropical Medicine, London, United Kingdom."
+            },
+            {
+                "First Name": "Alieu Amara",
+                "Last Name": "Sesay",
+                "Affiliation": "Save the Children International, Kerry Town, Sierra Leone."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "OpenMRS Inc, Indianapolis, IN, United States."
+            },
+            {
+                "First Name": "Glauber D",
+                "Last Name": "Ramos",
+                "Affiliation": "ThoughtWorks, Kampala, Uganda."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Walton",
+                "Affiliation": "ThoughtWorks, Kampala, Uganda."
+            },
+            {
+                "First Name": "Rachael",
+                "Last Name": "Cummings",
+                "Affiliation": "Save the Children International, Kerry Town, Sierra Leone."
+            },
+            {
+                "First Name": "Francesco",
+                "Last Name": "Checchi",
+                "Affiliation": "Faculty of Epidemiology and Population Health, London School of Hygiene and Tropical Medicine, London, United Kingdom."
+            },
+            {
+                "First Name": "Hamish S",
+                "Last Name": "Fraser",
+                "Affiliation": "OpenMRS Inc, Indianapolis, IN, United States."
+            }
+        ],
+        "Journal": "Journal of medical Internet research",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28269895",
+        "Title": "Using Natural Language Processing and Network Analysis to Develop a Conceptual Framework for Medication Therapy Management Research.",
+        "Abstract": "This paper describes a theory derivation process used to develop a conceptual framework for medication therapy management (MTM) research. The MTM service model and chronic care model were selected as parent theories. Review article abstracts targeting medication therapy management in chronic disease care were retrieved from Ovid Medline (2000-2016). Unique concepts in each abstract were extracted using MetaMap and their pairwise cooccurrence determined. The information was used to construct a network graph of concept co-occurrence that was analyzed to identify content for the new conceptual model. 142 abstracts were analyzed. Medication adherence is the most studied drug therapy problem and co-occurred with concepts related to patient-centered interventions targeting self-management. The enhanced model consists of 65 concepts clustered into 14 constructs. The framework requires additional refinement and evaluation to determine its relevance and applicability across a broad audience including underserved settings.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biomedical Research",
+            "Chronic Disease",
+            "Humans",
+            "Medication Adherence",
+            "Medication Therapy Management",
+            "Natural Language Processing",
+            "Self Care"
+        ],
+        "Authors": [
+            {
+                "First Name": "William",
+                "Last Name": "Ogallo",
+                "Affiliation": "department of Biomedical Informatics, Columbia University, New York."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "department of Biomedical Informatics, Columbia University, New York."
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26262405",
+        "Title": "Modelling the Medication Management System for Resource Limited Settings: A Formal Representation of the Prescribing and Dispensing Phases.",
+        "Abstract": "We propose a conceptual data model for relational databases targeting the prescribing and dispensing phases of the medication management system. The model was developed using recommendations from existing standards and guidelines, with necessary modifications made to suit adoption in resource-limited settings. We present the model as an entity-relationship diagram with 10 entities, 12 relationships and 48 attributes. It is our hope that this work will help mitigate barriers in the implementation of electronic prescribing and dispensing standards in the developing world.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Clinical Pharmacy Information Systems",
+            "Developing Countries",
+            "Electronic Prescribing",
+            "Medication Systems",
+            "Models, Organizational",
+            "Workflow"
+        ],
+        "Authors": [
+            {
+                "First Name": "William",
+                "Last Name": "Ogallo",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, USA."
+            }
+        ],
+        "Journal": "Studies in health technology and informatics",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26262387",
+        "Title": "Towards a Clinical Decision Support System for Drug Allergy Management: Are Existing Drug Reference Terminologies Sufficient for Identifying Substitutes and Cross-Reactants?",
+        "Abstract": "Drug allergy cross-reactivity checking is an important component of electronic health record systems. Currently, a single, open-source medication dictionary that can provide this function does not exist. In this study, we assessed the feasibility of using RxNorm and NDF-RT (National Drug File--Reference Terminology) for allergy management decision support. We evaluated the performance of using the Pharmacological Class, Mechanism of Action and Chemical Structure NDF-RT classifications in discriminating between safe and cross-reactive alternatives to a sample of common drug allergens. The positive predictive values for the three approaches were 96.3%, 99.3% and 96.2% respectively. The negative predictive values were 94.7%, 56.8% and 92.6%. Our findings suggest that in the absence of an established medication allergy classification system, using the Pharmacologic Class and Chemical Structure classifications in NDF-RT may still be effective for discriminating between safe and cross-reactive alternatives to potential allergens.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Clinical Pharmacy Information Systems",
+            "Cross Reactions",
+            "Decision Support Systems, Clinical",
+            "Drug Hypersensitivity",
+            "Drug Substitution",
+            "Humans",
+            "Natural Language Processing",
+            "Reference Values",
+            "Reproducibility of Results",
+            "RxNorm",
+            "Sensitivity and Specificity",
+            "Terminology as Topic"
+        ],
+        "Authors": [
+            {
+                "First Name": "William",
+                "Last Name": "Ogallo",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, USA."
+            }
+        ],
+        "Journal": "Studies in health technology and informatics",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26262307",
+        "Title": "Towards a Tool for Malaria Supply Chain Management Improvement in Rural Ghana.",
+        "Abstract": "The maintenance of adequate quantities of antimalarial medicines and rapid diagnostic tests (RDTs) at health facilities in rural areas of sub-Saharan Africa is a challenging task because of poor supply chain management. Antimalarial stock-outs in the communities could lead patients (that need to travel long distances to get medications) to remain untreated, develop severe malaria and die. A prototype to improve the management of health commodities in rural Ghana through the visualization of current stock levels and the forecasting of commodities is proposed.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Antimalarials",
+            "Diagnostic Tests, Routine",
+            "Ghana",
+            "Humans",
+            "Malaria",
+            "Models, Organizational",
+            "Point-of-Care Testing",
+            "Resource Allocation",
+            "Rural Health Services",
+            "Software",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lorena",
+                "Last Name": "Carlo",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University."
+            },
+            {
+                "First Name": "Suzanne",
+                "Last Name": "Bakken",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University."
+            },
+            {
+                "First Name": "Lena",
+                "Last Name": "Mamykina",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University."
+            },
+            {
+                "First Name": "Richmond",
+                "Last Name": "Kodie",
+                "Affiliation": "Millennium Villages Project, Bonsaaso, Ghana."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University."
+            }
+        ],
+        "Journal": "Studies in health technology and informatics",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26262218",
+        "Title": "Design and development of an EMR for Ebola Treatment Centers in Sierra Leone using OpenMRS.",
+        "Abstract": "Ebola treatment presents unique challenges for medical records because strict infection control requirements rule out most conventional record-keeping systems. We used the OpenMRS platform to rapidly develop an EMR system for the recently opened Kerry Town, Sierra Leone Ebola Treatment Centre. This system addresses the need for recording patient data and communicating it between the infectious and non-infectious zones, and is specifically designed for maximum usability by staff wearing cumbersome protective equipment. This platform is interoperable with other key eHealth systems in the country, and is extensible to other sites and diseases.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Datasets as Topic",
+            "Electronic Health Records",
+            "Hemorrhagic Fever, Ebola",
+            "Humans",
+            "Information Storage and Retrieval",
+            "Medical Record Linkage",
+            "Sierra Leone",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Darius",
+                "Last Name": "Jazayeri",
+                "Affiliation": "ThoughtWorks Uganda Ltd., Kampala, Uganda."
+            },
+            {
+                "First Name": "Shefali",
+                "Last Name": "Oza",
+                "Affiliation": "London School of Hygiene and Tropical Medicine, London, UK."
+            },
+            {
+                "First Name": "Glauber",
+                "Last Name": "Ramos",
+                "Affiliation": "ThoughtWorks Uganda Ltd., Kampala, Uganda."
+            },
+            {
+                "First Name": "Hamish",
+                "Last Name": "Fraser",
+                "Affiliation": "University of Leeds, Leeds, UK."
+            },
+            {
+                "First Name": "Jonathan M",
+                "Last Name": "Teich",
+                "Affiliation": "Brigham and Women's Hospital, Boston, USA."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "Columbia University, NY, USA."
+            },
+            {
+                "First Name": "Ellen",
+                "Last Name": "Ball",
+                "Affiliation": "Partners In Health, Boston, USA."
+            }
+        ],
+        "Journal": "Studies in health technology and informatics",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25316707",
+        "Title": "Health worker perceptions of integrating mobile phones into community case management of malaria in Saraya, Senegal.",
+        "Abstract": "Although community case management of malaria increases access to life-saving care in isolated settings, it contends with many logistical challenges. Mobile phone health information technology may present an opportunity to address a number of these barriers.",
+        "Keywords": [
+            "Community health workers",
+            "Health information technology",
+            "Lay health workers",
+            "Malaria",
+            "Mobile phones",
+            "Senegal"
+        ],
+        "MeSH terms": [
+            "Attitude of Health Personnel",
+            "Case Management",
+            "Cell Phone",
+            "Female",
+            "Focus Groups",
+            "Health Personnel",
+            "Humans",
+            "Malaria",
+            "Male",
+            "Perception",
+            "Residence Characteristics",
+            "Senegal",
+            "Surveys and Questionnaires"
+        ],
+        "Authors": [
+            {
+                "First Name": "Demetri A",
+                "Last Name": "Blanas",
+                "Affiliation": "Harlem Residency in Family Medicine, Institute for Family Health, New York, New York, 10029, USA dblanas@institute2000.org."
+            },
+            {
+                "First Name": "Youssoupha",
+                "Last Name": "Ndiaye",
+                "Affiliation": "Health District of Saraya, Senegalese Ministry of Health, Saraya, Senegal."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "MacFarlane",
+                "Affiliation": "Center on Child Protection, Jakarta, Indonesia."
+            },
+            {
+                "First Name": "Isaac",
+                "Last Name": "Manga",
+                "Affiliation": "Health District of Saraya, Senegalese Ministry of Health, Saraya, Senegal."
+            },
+            {
+                "First Name": "Ammar",
+                "Last Name": "Siddiqui",
+                "Affiliation": "Mount Sinai Global Health, Icahn School of Medicine at Mount Sinai, New York, New York, 10029, USA."
+            },
+            {
+                "First Name": "Olivia",
+                "Last Name": "Velez",
+                "Affiliation": "ICF International, New York, New York, 10028, USA."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "Earth Institute, Columbia University, New York, New York, 10027, USA."
+            },
+            {
+                "First Name": "Kim",
+                "Last Name": "Nichols",
+                "Affiliation": "African Services Committee, New York, New York, 10027, USA."
+            },
+            {
+                "First Name": "Nils",
+                "Last Name": "Hennig",
+                "Affiliation": "Mount Sinai Global Health, Icahn School of Medicine at Mount Sinai, New York, New York, 10029, USA."
+            }
+        ],
+        "Journal": "International health",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "24400748",
+        "Title": "A usability study of a mobile health application for rural Ghanaian midwives.",
+        "Abstract": "Midwives in rural Ghana work at the frontline of the health care system, where they have access to essential data about the patient population. However, current methods of data capture, primarily pen and paper, make the data neither accessible nor usable for monitoring patient care or program evaluation. Electronic health (eHealth) systems present a potential mechanism for enhancing the roles of midwives by providing tools for collecting, exchanging, and viewing patient data as well as offering midwives the possibility for receiving information and decision support. Introducing such technology in low-resource settings has been challenging because of low levels of user acceptance, software design that does not match the end-user environment, and/or unforeseen challenges such as irregular power availability. These challenges are often attributable to a lack of understanding by the software developers of the end users' needs and work environment.",
+        "Keywords": [
+            "Ghana",
+            "cellular phones",
+            "eHealth",
+            "global health",
+            "international health",
+            "mHealth",
+            "midwifery",
+            "sub-Saharan Africa",
+            "telemedicine",
+            "usability"
+        ],
+        "MeSH terms": [
+            "Cell Phone",
+            "Delivery of Health Care",
+            "Electronic Health Records",
+            "Female",
+            "Ghana",
+            "Humans",
+            "Interviews as Topic",
+            "Midwifery",
+            "Mobile Applications",
+            "Pregnancy",
+            "Surveys and Questionnaires"
+        ],
+        "Authors": [
+            {
+                "First Name": "Olivia",
+                "Last Name": "V\u00e9lez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Portia Boakye",
+                "Last Name": "Okyere",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Suzanne",
+                "Last Name": "Bakken",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of midwifery & women's health",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24007331",
+        "Title": "Mobile phones and social structures: an exploration of a closed user group in rural Ghana.",
+        "Abstract": "In the Millennium Villages Project site of Bonsaaso, Ghana, the Health Team is using a mobile phone closed user group to place calls amongst one another at no cost.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Cell Phone",
+            "Communication",
+            "Community Health Workers",
+            "Ghana",
+            "Humans",
+            "Patient Care Team",
+            "Qualitative Research",
+            "Rural Population",
+            "Social Networking",
+            "Social Support"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nadi Nina",
+                "Last Name": "Kaonga",
+                "Affiliation": "The International Health Department, Johns Hopkins Bloomberg School of Public Health, 615 North Wolfe Street, Baltimore, MD 21205, USA. nkaonga@gmail.com."
+            },
+            {
+                "First Name": "Alain",
+                "Last Name": "Labrique",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Patricia",
+                "Last Name": "Mechael",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Akosah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Seth",
+                "Last Name": "Ohemeng-Dapaah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph Sakyi",
+                "Last Name": "Baah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richmond",
+                "Last Name": "Kodie",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Orin",
+                "Last Name": "Levine",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC medical informatics and decision making",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23920624",
+        "Title": "Informatics lessons from using a novel immunization information system.",
+        "Abstract": "In the 1990s, NewYork-Presbyterian Hospital began developing a comprehensive, standards-based immunization information system. The system, known as EzVac, has been operational since 1998 and now includes information on 2 million immunizations administered to more than 260,000 individuals. The system exchanges data with multiple electronic health records, a public health immunization registry, and a standalone personal health record. EzVac modules have recently been incorporated into the OpenMRS application and are being used to enhance immunization efforts in developing nations. We report on our experience with developing and using the EzVac system for 1) clinical care, both in local and global settings, 2) public health reporting, 3) consumer engagement, and 4) clinical and informatics research. We emphasize the advantages of using health IT standards to facilitate immunization information exchange in each of these domains.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Electronic Health Records",
+            "Health Information Management",
+            "Immunization",
+            "Internet",
+            "Medical Record Linkage",
+            "New York",
+            "Registries",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "David K",
+                "Last Name": "Vawdrey",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gilad J",
+                "Last Name": "Kuperman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Melissa S",
+                "Last Name": "Stockwell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Studies in health technology and informatics",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23552721",
+        "Title": "Using social networking to understand social networks: analysis of a mobile phone closed user group used by a Ghanaian health team.",
+        "Abstract": "The network structure of an organization influences how well or poorly an organization communicates and manages its resources. In the Millennium Villages Project site in Bonsaaso, Ghana, a mobile phone closed user group has been introduced for use by the Bonsaaso Millennium Villages Project Health Team and other key individuals. No assessment on the benefits or barriers of the use of the closed user group had been carried out.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Phone",
+            "Community Health Workers",
+            "Ghana",
+            "Health Personnel",
+            "Humans",
+            "Social Networking",
+            "Social Support",
+            "Telemedicine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nadi Nina",
+                "Last Name": "Kaonga",
+                "Affiliation": "Global Disease Epidemiology and Control, International Health Department, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, United States. nkaonga@gmail.com"
+            },
+            {
+                "First Name": "Alain",
+                "Last Name": "Labrique",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Patricia",
+                "Last Name": "Mechael",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Akosah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Seth",
+                "Last Name": "Ohemeng-Dapaah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph",
+                "Last Name": "Sakyi Baah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richmond",
+                "Last Name": "Kodie",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Orin",
+                "Last Name": "Levine",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of medical Internet research",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "22894051",
+        "Title": "The importance of using open source technologies and common standards for interoperability within eHealth: perspectives from the Millennium Villages Project.",
+        "Abstract": "The purpose of this chapter is to illustrate the importance of using open source technologies and common standards for interoperability when implementing eHealth systems, and to illustrate this through case studies, where possible.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Africa South of the Sahara",
+            "Computer Systems",
+            "Humans",
+            "Information Dissemination",
+            "International Cooperation",
+            "Medical Informatics",
+            "Poverty",
+            "Rural Population",
+            "Telemedicine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "Earth Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Rob",
+                "Last Name": "Borland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mourice",
+                "Last Name": "Barasa",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Casey",
+                "Last Name": "Iiams-Hauser",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Olivia",
+                "Last Name": "Velez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nadi Nina",
+                "Last Name": "Kaonga",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matt",
+                "Last Name": "Berg",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Advances in health care management",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22548600",
+        "Title": "Capitalizing on the characteristics of mHealth to evaluate its impact.",
+        "Abstract": "The field of mHealth has made significant advances in a short period of time, demanding a more thorough and scientific approach to understanding and evaluating its progress. A recent review of mHealth literature identified two primary research needs in order for mHealth to strengthen health systems and promote healthy behaviors, namely health outcomes and cost-benefits (Mechael et al., 2010 ). In direct response to the gaps identified in mHealth research, the aim of this paper is to present the study design and highlight key observations and next steps from an evaluation of the mHealth activities within the electronic health (eHealth) architecture implemented by the Millennium Villages Project (MVP) by leveraging data generated through mobile technology itself alongside complementary qualitative research and costing assessments. The study, funded by the International Development and Research Centre (IDRC) as part of the Open Architecture Standards and Information Systems research project (OASIS II) (Sinha, 2009 ), is being implemented on data generated by 14 MVP sites in 10 Sub-Saharan African countries including more in-depth research in Ghana, Rwanda, Tanzania, and Uganda. Specific components of the study include rigorous quantitative case-control analyses and other epidemiological approaches (such as survival analysis) supplemented by in-depth qualitative interviews spread out over 18 months, as well as a costing study to assess the impact of mHealth on health outcomes, service delivery, and efficiency.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Africa South of the Sahara",
+            "Case-Control Studies",
+            "Community Health Services",
+            "Cost-Benefit Analysis",
+            "Efficiency, Organizational",
+            "Humans",
+            "Outcome Assessment, Health Care",
+            "Program Evaluation",
+            "Qualitative Research",
+            "Research Design",
+            "Telemedicine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Patricia",
+                "Last Name": "Mechael",
+                "Affiliation": "Columbia University, New York, New York, USA. pmechael@mhealthalliance.org"
+            },
+            {
+                "First Name": "Bennett",
+                "Last Name": "Nemser",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roxana",
+                "Last Name": "Cosmaciuc",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Heather",
+                "Last Name": "Cole-Lewis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Seth",
+                "Last Name": "Ohemeng-Dapaah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Schadrack",
+                "Last Name": "Dusabe",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nadi Nina",
+                "Last Name": "Kaonga",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Patricia",
+                "Last Name": "Namakula",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Muhadili",
+                "Last Name": "Shemsanga",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ryan",
+                "Last Name": "Burbach",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of health communication",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21347003",
+        "Title": "Comprehensive yet scalable health information systems for low resource settings: a collaborative effort in sierra leone.",
+        "Abstract": "We address the problem of how to integrate health information systems in low-income African countries in which technical infrastructure and human resources vary wildly within countries. We describe a set of tools to meet the needs of different service areas including managing aggregate indicators, patient level record systems, and mobile tools for community outreach. We present the case of Sierra Leone and use this case to motivate and illustrate an architecture that allows us to provide services at each level of the health system (national, regional, facility and community) and provide different configurations of the tools as appropriate for the individual area. Finally, we present a, collaborative implementation of this approach in Sierra Leone.",
+        "Keywords": [
+            "Africa",
+            "Sierra Leone",
+            "architecture",
+            "capacity building",
+            "electronic health information systems",
+            "mobile devices"
+        ],
+        "MeSH terms": [
+            "Africa",
+            "Developing Countries",
+            "Health Information Systems",
+            "Health Resources",
+            "Health Services Accessibility",
+            "Humans",
+            "Sierra Leone"
+        ],
+        "Authors": [
+            {
+                "First Name": "J\u00f8rn",
+                "Last Name": "Braa",
+                "Affiliation": "Department of Informatics, University of Oslo, Norway."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Neal",
+                "Last Name": "Lesh",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ryan",
+                "Last Name": "Crichton",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bob",
+                "Last Name": "Jolliffe",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Johan",
+                "Last Name": "S\u00e6b\u00f8",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Edem",
+                "Last Name": "Kossi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher J",
+                "Last Name": "Seebregts",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20841720",
+        "Title": "Combining vital events registration, verbal autopsy and electronic medical records in rural Ghana for improved health services delivery.",
+        "Abstract": "This paper describes the process of implementing a low-cost 'real-time' vital registration and verbal autopsy system integrated within an electronic medical record within the Millennium Village cluster in rural Ghana. Using MGV-Net, an open source health information architecture built around the OpenMRS platform, a total of 2378 births were registered between January 2007 and June 2009. The percentage of births registered in the health facility under supervision of a skilled attendant increased substantially over the course of the project from median of 35% in 2007 to 64% in 2008 and 85% midway through 2009. Building additional clinics to reduce distance to facility and using the CHEWs to refer women for delivery in the clinics are possible explanations for the success in the vital registration. The integration of vital registration and verbal autopsies with the MGV-Net information system makes it possible for rapid assessment of effectiveness and provides important feedback to local providers and the Millennium Villages Project.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cause of Death",
+            "Database Management Systems",
+            "Delivery of Health Care",
+            "Electronic Health Records",
+            "Ghana",
+            "Medical Record Linkage",
+            "Quality Assurance, Health Care",
+            "Quality Improvement",
+            "Registries",
+            "Rural Health Services",
+            "Vital Statistics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Seth",
+                "Last Name": "Ohemeng-Dapaah",
+                "Affiliation": "Millennium Villages Project, Bonsasso, Ashanti Region, Ghana."
+            },
+            {
+                "First Name": "Paul",
+                "Last Name": "Pronyk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Akosa",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bennett",
+                "Last Name": "Nemser",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Studies in health technology and informatics",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20348072",
+        "Title": "A toolkit for e-health partnerships in low-income nations.",
+        "Abstract": "Collecting, managing, and communicating information is a critical part of delivering high-quality, efficient health care. Low-income countries often lack the information technology that is taking root in developed countries to manage health data and work toward evidence-based practice and culture. Partnerships between academic and government institutions in high- and low-income countries can help establish health informatics programs. These programs, in turn, can capture and manage data that are useful to all parties. Several partnerships among academic institutions and public and private organizations, in areas such as sub-Saharan Africa, Haiti, and Peru, are leading the way.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Academies and Institutes",
+            "Developed Countries",
+            "Developing Countries",
+            "Humans",
+            "International Cooperation",
+            "Medical Informatics",
+            "Poverty",
+            "Private Sector",
+            "Public Sector",
+            "Telemedicine"
+        ],
+        "Authors": [
+            {
+                "First Name": "William M",
+                "Last Name": "Tierney",
+                "Affiliation": "Indiana University, IN, USA. wtierney@iupui.edu"
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hamish S F",
+                "Last Name": "Fraser",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Bailey",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Health affairs (Project Hope)",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19766532",
+        "Title": "Millennium Global Village-Net: bringing together Millennium Villages throughout sub-Saharan Africa.",
+        "Abstract": "The Millennium Villages Project (MVP), based at The Earth Institute at Columbia University, is a bottom-up, community led approach to show how villages in developing countries can get out of the poverty trap that afflicts more than a billion people worldwide. With well-targeted, practical inputs can help the community invest in a path leading to self-sustaining development. There are 80 Millennium Villages clustered in 10 countries throughout sub-Saharan Africa. MVP is an important development process for empowering communities to invest in a package of integrated interventions aiming to increase food production, improve access to safe water, health care, education and infrastructure. The process benefits from synergies of the integrated approach and relies on community leadership as empowered by proven technological inputs. MVP is committed to a science-based approach to assess and monitor the progress of the communities towards clear objectives; the Millennium Development Goals (MDGs) and to do so with mechanisms that are scalable and sustainable. This approach offers much more than simply collecting and analyzing data since the mechanism used for recording progress would provide a bridge over the divide which separates the haves and the have-nots (by facilitating the sharing of solutions from one community to another bidirectionally). By so doing, it allows people to enhance their own futures in a sustainable manner. Solutions found in one community are transferable to similar communities in other MVP villages. To achieve this goal, the MVP requires an information and communication system which can provide both necessary infrastructure for monitoring and evaluation, and tools for communicating among the villages, cities and countries. This system is called the Millennium Global Village-Net (MGV-Net). It takes advantage of the latest in open source software (OpenMRS), databases (MySQL), interface terminology, a centralized concept dictionary, and uses appropriate technology locally for data entry.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Africa South of the Sahara",
+            "Community Health Services",
+            "Developing Countries",
+            "Healthy People Programs",
+            "Humans",
+            "Poverty"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "International Partnership for Health, NFP, Chicago, IL, USA. andy kanter@yahoo.com"
+            },
+            {
+                "First Name": "Joel",
+                "Last Name": "Negin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bernard",
+                "Last Name": "Olayo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Frederick",
+                "Last Name": "Bukachi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Edward",
+                "Last Name": "Johnson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sonia Ehrlich",
+                "Last Name": "Sachs",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "International journal of medical informatics",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19157968",
+        "Title": "The OpenMRS Implementers Network.",
+        "Abstract": "OpenMRS (www.openmrs.org) is a configurable open source electronic medical record application developed and maintained by a large network of open source developers coordinated by the Regenstrief Institute and Partners in Health and mainly used for HIV patient and treatment information management in Africa. Our objective is to develop an open Implementers Network for OpenMRS to provide regional support for the growing number of OpenMRS implementations in Africa and to include African developers and implementers in the future growth of OpenMRS.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Africa",
+            "Databases, Factual",
+            "HIV Infections",
+            "Humans",
+            "Information Dissemination",
+            "Internet",
+            "Medical Informatics",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christopher J",
+                "Last Name": "Seebregts",
+                "Affiliation": "Biomedical Informatics Research, eHealth Research and Innovation Platform Medical Research Council, Cape Town, South Africa. chris.seebregts@mrc.ac.za"
+            },
+            {
+                "First Name": "Burke W",
+                "Last Name": "Mamlin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paul G",
+                "Last Name": "Biondich",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hamish S F",
+                "Last Name": "Fraser",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Benjamin A",
+                "Last Name": "Wolfe",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Darius",
+                "Last Name": "Jazayeri",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christian",
+                "Last Name": "Allen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Miranda",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Elaine",
+                "Last Name": "Baker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Musinguzi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Kayiwa",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carl",
+                "Last Name": "Fourie",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Neal",
+                "Last Name": "Lesh",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Kanter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Constantin T",
+                "Last Name": "Yiannoutsos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Bailey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "International journal of medical informatics",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18487703",
+        "Title": "Interface terminologies: bridging the gap between theory and reality for Africa.",
+        "Abstract": "In the United States and Europe, electronic health records (EHRs) allow information technology and decision-support to facilitate the activities of clinicians and are considered an important component of health care improvement. However, actual adoption of EHRs by physicians has been slow and the use of decision support has been minimal. Part of the difficulty lies in the challenges that users face in capturing structured clinical information. Reference and administrative terminologies have been in use for many years and provide a critical infrastructure to support reimbursement, decision-support and data analysis. The problem is that physicians do not think and work using reference terminologies. Interface terminologies bridge the gap between information that is in the physician's mind and information that can be interpreted by computer applications. The maps from interface terminologies to appropriate reference terminologies enable advanced functionality in clinical information systems. The conflict between the need for timely adoption of health information technology and the need for standardization is also relevant to the problems faced by health information technology in Africa. The problem of clinicians having to communicate and/or record information in a format that is acceptable to someone else, somewhere else, leaves the true benefits of these systems beyond the reach of most in Africa. There is a growing effort in the United States to produce clinically-relevant interface terminologies mapped to standards. These interface terminologies can be expanded to incorporate the languages and clinical requirements of clinicians in Africa. The adoption of interface terminologies will help bring the value of standard terminology and the resulting benefits of decision-support, data analysis and information retrieval to parts of the world where they are needed most.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Africa",
+            "Decision Support Systems, Clinical",
+            "Developing Countries",
+            "Diffusion of Innovation",
+            "Empirical Research",
+            "Health Services Needs and Demand",
+            "Hospital Information Systems",
+            "Humans",
+            "Information Theory",
+            "Medical Records Systems, Computerized",
+            "Natural Language Processing",
+            "Public Health Informatics",
+            "Systematized Nomenclature of Medicine",
+            "Terminology as Topic",
+            "User-Computer Interface",
+            "Vocabulary, Controlled"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "International Partnership for Health, NFP, Chicago, USA."
+            },
+            {
+                "First Name": "Amy Y",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Fred E",
+                "Last Name": "Masarie",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Frank",
+                "Last Name": "Naeymi-Rad",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Charles",
+                "Last Name": "Safran",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Studies in health technology and informatics",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "15360990",
+        "Title": "A mediated health search portal for trusted medical content.",
+        "Abstract": "The Internet has become an important source of medical information for both patients and providers. However, it is increasingly difficult to properly access and evaluate the information obtained on the Internet. Search engines are frequently used to find information but suffer either from lack of specificity, or cumbersome requirements for use. Mediated search services have been suggested as a possible alternative. This paper describes one such mediated medical information search service called IMO Health Search.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Information Storage and Retrieval",
+            "Internet",
+            "Patient Education as Topic",
+            "User-Computer Interface",
+            "Vocabulary, Controlled"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": "Intelligent Medical Objects, Inc., Chicago, IL 60062, USA."
+            },
+            {
+                "First Name": "Jose",
+                "Last Name": "Maldonado",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anuj",
+                "Last Name": "Varshney",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Frank",
+                "Last Name": "Naeymi-Rad",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Studies in health technology and informatics",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "15360861",
+        "Title": "Using a terminology server and consumer search phrases to help patients find physicians with particular expertise.",
+        "Abstract": "To design and implement a real world application using a terminology server to assist patients and physicians who use common language search terms to find specialist physicians with a particular clinical expertise.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Abstracting and Indexing",
+            "Community Participation",
+            "Databases, Factual",
+            "Humans",
+            "Information Services",
+            "Information Storage and Retrieval",
+            "Internet",
+            "Medicine",
+            "Natural Language Processing",
+            "Pilot Projects",
+            "Specialization",
+            "Systematized Nomenclature of Medicine",
+            "Vocabulary, Controlled"
+        ],
+        "Authors": [
+            {
+                "First Name": "Curtis L",
+                "Last Name": "Cole",
+                "Affiliation": "Weill Medical College of Cornell University, 1300 York Avenue A123, New York, NY 10021, USA."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Kanter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Cummens",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sean",
+                "Last Name": "Vostinar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Frank",
+                "Last Name": "Naeymi-Rad",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Studies in health technology and informatics",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "12830764",
+        "Title": "Expenditure for contemporary evaluations.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Dental Pulp Diseases",
+            "Humans",
+            "Radiography, Dental",
+            "Tomography, X-Ray Computed"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrew L",
+                "Last Name": "Kanter",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Practical procedures & aesthetic dentistry : PPAD",
+        "PubDate": "2003"
+    }
+]

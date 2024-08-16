@@ -1,0 +1,3484 @@
+[
+    {
+        "PMID": "38503537",
+        "Title": "Deep learning to detect left ventricular structural abnormalities in chest X-rays.",
+        "Abstract": "Early identification of cardiac structural abnormalities indicative of heart failure is crucial to improving patient outcomes. Chest X-rays (CXRs) are routinely conducted on a broad population of patients, presenting an opportunity to build scalable screening tools for structural abnormalities indicative of Stage B or worse heart failure with deep learning methods. In this study, a model was developed to identify severe left ventricular hypertrophy (SLVH) and dilated left ventricle (DLV) using CXRs.",
+        "Keywords": [
+            "Chest X-rays",
+            "Deep learning",
+            "Dilated left ventricle",
+            "Early detection",
+            "Heart failure",
+            "Left ventricular hypertrophy"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Deep Learning",
+            "Hypertrophy, Left Ventricular",
+            "Radiography, Thoracic",
+            "Female",
+            "Male",
+            "Middle Aged",
+            "Echocardiography",
+            "Aged",
+            "Heart Failure",
+            "Heart Ventricles",
+            "ROC Curve"
+        ],
+        "Authors": [
+            {
+                "First Name": "Shreyas",
+                "Last Name": "Bhave",
+                "Affiliation": "Division of Cardiology and Department of Biomedical Informatics, Columbia University Irving Medical Center, 622 West 168th Street, PH20, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Victor",
+                "Last Name": "Rodriguez",
+                "Affiliation": "Division of Cardiology and Department of Biomedical Informatics, Columbia University Irving Medical Center, 622 West 168th Street, PH20, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Timothy",
+                "Last Name": "Poterucha",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Simukayi",
+                "Last Name": "Mutasa",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Dwight",
+                "Last Name": "Aberle",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Kathleen M",
+                "Last Name": "Capaccione",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Yibo",
+                "Last Name": "Chen",
+                "Affiliation": "Inova Fairfax Hospital Imaging Center, Inova Fairfax Medical Campus, Falls Church, VA, USA."
+            },
+            {
+                "First Name": "Belinda",
+                "Last Name": "Dsouza",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Shifali",
+                "Last Name": "Dumeer",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Goldstein",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Aaron",
+                "Last Name": "Hodes",
+                "Affiliation": "Hackensack Radiology Group, Hackensack Meridian School of Medicine, Nutley, NJ, USA."
+            },
+            {
+                "First Name": "Jay",
+                "Last Name": "Leb",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Lungren",
+                "Affiliation": "Department of Radiology, University of California, SanFrancisco, CA, USA."
+            },
+            {
+                "First Name": "Mitchell",
+                "Last Name": "Miller",
+                "Affiliation": "Hackensack Radiology Group, Hackensack Meridian School of Medicine, Nutley, NJ, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Monoky",
+                "Affiliation": "Hackensack Radiology Group, Hackensack Meridian School of Medicine, Nutley, NJ, USA."
+            },
+            {
+                "First Name": "Benjamin",
+                "Last Name": "Navot",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Kapil",
+                "Last Name": "Wattamwar",
+                "Affiliation": "Division of Vascular and Interventional Radiology, Department of Radiology, Montefiore Medical Center, Bronx, NY, USA."
+            },
+            {
+                "First Name": "Anoop",
+                "Last Name": "Wattamwar",
+                "Affiliation": "Hackensack Radiology Group, Hackensack Meridian School of Medicine, Nutley, NJ, USA."
+            },
+            {
+                "First Name": "Kevin",
+                "Last Name": "Clerkin",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Ouyang",
+                "Affiliation": "Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Euan",
+                "Last Name": "Ashley",
+                "Affiliation": "Stanford Center for Inherited Cardiovascular Disease, Stanford University School of Medicine, Palo Alto, CA, USA."
+            },
+            {
+                "First Name": "Veli K",
+                "Last Name": "Topkara",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Mathew",
+                "Last Name": "Maurer",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Einstein",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Nir",
+                "Last Name": "Uriel",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Shunichi",
+                "Last Name": "Homma",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Allan",
+                "Last Name": "Schwartz",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Diego",
+                "Last Name": "Jaramillo",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": "Division of Cardiology and Department of Biomedical Informatics, Columbia University Irving Medical Center, 622 West 168th Street, PH20, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Division of Cardiology and Department of Biomedical Informatics, Columbia University Irving Medical Center, 622 West 168th Street, PH20, NewYork, NY 10032, USA."
+            }
+        ],
+        "Journal": "European heart journal",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38222422",
+        "Title": "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text.",
+        "Abstract": "Complete and accurate race and ethnicity (RE) patient information is important for many areas of biomedical informatics research, such as defining and characterizing cohorts, performing quality assessments, and identifying health inequities. Patient-level RE data is often inaccurate or missing in structured sources, but can be supplemented through clinical notes and natural language processing (NLP). While NLP has made many improvements in recent years with large language models, bias remains an often-unaddressed concern, with research showing that harmful and negative language is more often used for certain racial/ethnic groups than others. We present an approach to audit the learned associations of models trained to identify RE information in clinical text by measuring the concordance between model-derived salient features and manually identified RE-related spans of text. We show that while models perform well on the surface, there exist concerning learned associations and potential for future harms from RE-identification models if left unaddressed.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Ethnicity",
+            "Deep Learning",
+            "Language",
+            "Natural Language Processing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Oliver J",
+                "Last Name": "Bear Don't Walk Iv",
+                "Affiliation": "University of Washington, Seattle, WA."
+            },
+            {
+                "First Name": "Adrienne",
+                "Last Name": "Pichon",
+                "Affiliation": "2 Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Harry Reyes",
+                "Last Name": "Nieva",
+                "Affiliation": "2 Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Tony",
+                "Last Name": "Sun",
+                "Affiliation": "2 Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Jaan",
+                "Last Name": "Altosaar",
+                "Affiliation": "One Fact Foundation, Claymont, DE."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "2 Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "2 Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Tarczy-Hornoch",
+                "Affiliation": "University of Washington, Seattle, WA."
+            },
+            {
+                "First Name": "Dina",
+                "Last Name": "Demner-Fushman",
+                "Affiliation": "US National Library of Medicine, Bethesda, Maryland."
+            },
+            {
+                "First Name": "No\u00e9mie",
+                "Last Name": "Elhadad",
+                "Affiliation": "2 Columbia University, New York, New York."
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "38065778",
+        "Title": "Electrocardiographic deep learning for predicting post-procedural mortality: a model development and validation study.",
+        "Abstract": "Preoperative risk assessments used in clinical practice are insufficient in their ability to identify risk for postoperative mortality. Deep-learning analysis of electrocardiography can identify hidden risk markers that can help to prognosticate postoperative mortality. We aimed to develop a prognostic model that accurately predicts postoperative mortality in patients undergoing medical procedures and who had received preoperative electrocardiographic diagnostic testing.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Deep Learning",
+            "Risk Assessment",
+            "Algorithms",
+            "Prognosis",
+            "Electrocardiography"
+        ],
+        "Authors": [
+            {
+                "First Name": "David",
+                "Last Name": "Ouyang",
+                "Affiliation": "Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA; Division of Artificial Intelligence in Medicine, Department of Medicine, Cedars-Sinai Medical Center, Los Angeles, CA, USA. Electronic address: david.ouyang@cshs.org."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Theurer",
+                "Affiliation": "Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Nathan R",
+                "Last Name": "Stein",
+                "Affiliation": "Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "J Weston",
+                "Last Name": "Hughes",
+                "Affiliation": "Department of Computer Science, Stanford University, Palo Alto, CA, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA; Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Bryan",
+                "Last Name": "He",
+                "Affiliation": "Department of Computer Science, Stanford University, Palo Alto, CA, USA."
+            },
+            {
+                "First Name": "Neal",
+                "Last Name": "Yuan",
+                "Affiliation": "Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Grant",
+                "Last Name": "Duffy",
+                "Affiliation": "Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Roopinder K",
+                "Last Name": "Sandhu",
+                "Affiliation": "Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Joseph",
+                "Last Name": "Ebinger",
+                "Affiliation": "Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Botting",
+                "Affiliation": "Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Melvin",
+                "Last Name": "Jujjavarapu",
+                "Affiliation": "Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Brian",
+                "Last Name": "Claggett",
+                "Affiliation": "Division of Cardiovascular Medicine, Department of Medicine, Brigham and Women's Hospital, Boston, MA, USA."
+            },
+            {
+                "First Name": "James E",
+                "Last Name": "Tooley",
+                "Affiliation": "Division of Cardiology, Stanford University, Palo Alto, CA, USA."
+            },
+            {
+                "First Name": "Tim",
+                "Last Name": "Poterucha",
+                "Affiliation": "Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jonathan H",
+                "Last Name": "Chen",
+                "Affiliation": "Division of Bioinformatics Research, Stanford University, Palo Alto, CA, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Nurok",
+                "Affiliation": "Division of Anesthesia, Department of Surgery, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Marco",
+                "Last Name": "Perez",
+                "Affiliation": "Division of Cardiology, Stanford University, Palo Alto, CA, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "James Y",
+                "Last Name": "Zou",
+                "Affiliation": "Department of Computer Science, Stanford University, Palo Alto, CA, USA; Department of Medicine, and Department of Biomedical Data Science, Stanford University, Palo Alto, CA, USA."
+            },
+            {
+                "First Name": "Nancy R",
+                "Last Name": "Cook",
+                "Affiliation": "Division of Preventive Medicine, Department of Medicine, Brigham and Women's Hospital, Boston, MA, USA."
+            },
+            {
+                "First Name": "Sumeet S",
+                "Last Name": "Chugh",
+                "Affiliation": "Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA; Division of Artificial Intelligence in Medicine, Department of Medicine, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Susan",
+                "Last Name": "Cheng",
+                "Affiliation": "Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Christine M",
+                "Last Name": "Albert",
+                "Affiliation": "Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            }
+        ],
+        "Journal": "The Lancet. Digital health",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37966346",
+        "Title": "Delay Between Actual Occurrence of Patient Vital Sign and the Nominal Appearance in the Electronic Health Record: Single-Center, Retrospective Study of PICU Data, 2014-2018.",
+        "Abstract": "Patient vital sign data charted in the electronic health record (EHR) are used for time-sensitive decisions, yet little is known about when these data become nominally available compared with when the vital sign was actually measured. The objective of this study was to determine the magnitude of any delay between when a vital sign was actually measured in a patient and when it nominally appears in the EHR.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Child",
+            "Humans",
+            "Retrospective Studies",
+            "Electronic Health Records",
+            "Vital Signs",
+            "Time Factors",
+            "Intensive Care Units, Pediatric"
+        ],
+        "Authors": [
+            {
+                "First Name": "Katherine R",
+                "Last Name": "Schlosser Metitiri",
+                "Affiliation": "Division of Critical Care and Hospital Medicine, Department of Pediatrics, Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY."
+            }
+        ],
+        "Journal": "Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "36921288",
+        "Title": "EvidenceMap: a three-level knowledge representation for medical evidence computation and comprehension.",
+        "Abstract": "To develop a computable representation for medical evidence and to contribute a gold standard dataset of annotated randomized controlled trial (RCT) abstracts, along with a natural language processing (NLP) pipeline for transforming free-text RCT evidence in PubMed into the structured representation.",
+        "Keywords": [
+            "corpus annotation",
+            "evidence-based medicine",
+            "knowledge representation",
+            "medical literature analysis and retrieval system",
+            "natural language processing",
+            "randomized controlled trial"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Comprehension",
+            "COVID-19",
+            "Natural Language Processing",
+            "PubMed"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tian",
+                "Last Name": "Kang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Yingcheng",
+                "Last Name": "Sun",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Jae Hyun",
+                "Last Name": "Kim",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Casey",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Kayla",
+                "Last Name": "Schiffer",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Mutong",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Statistics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Yang",
+                "Last Name": "Zhao",
+                "Affiliation": "Department of Statistics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Nour",
+                "Last Name": "Moustafa-Fahmy",
+                "Affiliation": "Department of Statistics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Yifan",
+                "Last Name": "Peng",
+                "Affiliation": "Department of Population Health Sciences, Weill Cornell Medicine, New York, New York, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35926935",
+        "Title": "Deep Learning Electrocardiographic Analysis for Detection of Left-Sided Valvular Heart Disease.",
+        "Abstract": "Valvular heart disease is an important contributor to cardiovascular morbidity and mortality and remains underdiagnosed. Deep learning analysis of electrocardiography (ECG) may be useful in detecting aortic stenosis (AS), aortic regurgitation (AR), and mitral regurgitation (MR).",
+        "Keywords": [
+            "aortic regurgitation",
+            "aortic stenosis",
+            "artificial intelligence",
+            "deep learning",
+            "mitral regurgitation",
+            "valvular heart disease"
+        ],
+        "MeSH terms": [
+            "Aortic Valve Insufficiency",
+            "Aortic Valve Stenosis",
+            "Deep Learning",
+            "Electrocardiography",
+            "Heart Valve Diseases",
+            "Humans",
+            "Mitral Valve Insufficiency"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Poterucha",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Vijay",
+                "Last Name": "Rajaram",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Luca Matos",
+                "Last Name": "Moller",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Victor",
+                "Last Name": "Rodriguez",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Shreyas",
+                "Last Name": "Bhave",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Rebecca T",
+                "Last Name": "Hahn",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Geoffrey",
+                "Last Name": "Tison",
+                "Affiliation": "Division of Cardiology, University of California-San Francisco, San Francisco, California, USA."
+            },
+            {
+                "First Name": "Sean A",
+                "Last Name": "Abreau",
+                "Affiliation": "Division of Cardiology, University of California-San Francisco, San Francisco, California, USA."
+            },
+            {
+                "First Name": "Joshua",
+                "Last Name": "Barrios",
+                "Affiliation": "Division of Cardiology, University of California-San Francisco, San Francisco, California, USA."
+            },
+            {
+                "First Name": "Jessica Nicole",
+                "Last Name": "Torres",
+                "Affiliation": "Division of Cardiology, Stanford University, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "J Weston",
+                "Last Name": "Hughes",
+                "Affiliation": "Division of Cardiology, Stanford University, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "Marco V",
+                "Last Name": "Perez",
+                "Affiliation": "Division of Cardiology, Stanford University, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "Joshua",
+                "Last Name": "Finer",
+                "Affiliation": "NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Susheel",
+                "Last Name": "Kodali",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Omar",
+                "Last Name": "Khalique",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Nadira",
+                "Last Name": "Hamid",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Allan",
+                "Last Name": "Schwartz",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Shunichi",
+                "Last Name": "Homma",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Deepa",
+                "Last Name": "Kumaraiah",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "David J",
+                "Last Name": "Cohen",
+                "Affiliation": "Cardiovascular Research Foundation, New York, New York, USA; Department of Cardiology, St. Francis Hospital, Roslyn, New York, USA."
+            },
+            {
+                "First Name": "Mathew S",
+                "Last Name": "Maurer",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Einstein",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Tamim",
+                "Last Name": "Nazif",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Martin B",
+                "Last Name": "Leon",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA; Cardiovascular Research Foundation, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA. Electronic address: adler.perotte@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of the American College of Cardiology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35859987",
+        "Title": "Inverse-Weighted Survival Games.",
+        "Abstract": "Deep models trained through maximum likelihood have achieved state-of-the-art results for survival analysis. Despite this training scheme, practitioners evaluate models under other criteria, such as binary classification losses at a chosen set of time horizons, e.g. Brier score (BS) and Bernoulli log likelihood (BLL). Models trained with maximum likelihood may have poor BS or BLL since maximum likelihood does not directly optimize these criteria. Directly optimizing criteria like BS requires inverse-weighting by the censoring distribution. However, estimating the censoring model under these metrics requires inverse-weighting by the failure distribution. The objective for each model requires the other, but neither are known. To resolve this dilemma, we introduce ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Xintian",
+                "Last Name": "Han",
+                "Affiliation": "NYU."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Goldstein",
+                "Affiliation": "NYU."
+            },
+            {
+                "First Name": "Aahlad",
+                "Last Name": "Puli",
+                "Affiliation": "NYU."
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Wies",
+                "Affiliation": "NYU."
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": "Columbia University."
+            },
+            {
+                "First Name": "Rajesh",
+                "Last Name": "Ranganath",
+                "Affiliation": "NYU."
+            }
+        ],
+        "Journal": "Advances in neural information processing systems",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "35000284",
+        "Title": "Deceased donor kidneys allocated out of sequence by organ procurement organizations.",
+        "Abstract": "Deceased donor kidney allocation follows a ranked match-run of potential recipients. Organ procurement organizations (OPOs) are permitted to deviate from the mandated match-run in exceptional circumstances. Using match-run data for all deceased donor kidney transplants (Ktx) in the US between 2015 and 2019, we identified 1544\u00a0kidneys transplanted from 933 donors with an OPO-initiated allocation exception. Most OPOs (55/58) used this process at least once, but 3 OPOs performed 64% of the exceptions and just 2 transplant centers received 25% of allocation exception Ktx. At 2 of 3 outlier OPOs these transplants increased 136% and 141% between 2015 and 2019 compared to only a 35% increase in all Ktx. Allocation exception donors had less favorable characteristics (median KDPI 70, 41% with history of hypertension), but only 29% had KDPI\u00a0\u2265\u00a085% and the majority did not meet the traditional threshold for marginal kidneys. Allocation exception kidneys went to larger centers with higher offer acceptance ratios and to recipients with 2 fewer priority points-equivalent to 2\u00a0less years of waiting time. OPO-initiated exceptions for kidney allocation are growing increasingly frequent and more concentrated at a few outlier centers. Increasing pressure to improve organ utilization risks increasing out-of-sequence allocations, potentially exacerbating disparities in access to transplantation.",
+        "Keywords": [
+            "health services and outcomes research",
+            "kidney transplantation/nephrology",
+            "organ allocation",
+            "organ procurement and allocation",
+            "organ procurement organization"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Kidney",
+            "Kidney Transplantation",
+            "Tissue Donors",
+            "Tissue and Organ Procurement",
+            "Transplants"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kristen L",
+                "Last Name": "King",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Vagelos College of Physicians & Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "S Ali",
+                "Last Name": "Husain",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Vagelos College of Physicians & Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Joel T",
+                "Last Name": "Adler",
+                "Affiliation": "Department of Surgery and Perioperative Care, Dell Medical School, University of Texas at Austin, Austin, Texas, USA."
+            },
+            {
+                "First Name": "Jesse D",
+                "Last Name": "Schold",
+                "Affiliation": "Department of Quantitative Health Sciences, Cleveland Clinic, Cleveland, Ohio, USA."
+            },
+            {
+                "First Name": "Sumit",
+                "Last Name": "Mohan",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Vagelos College of Physicians & Surgeons, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34790898",
+        "Title": "Zero-Shot Clinical Acronym Expansion via Latent Meaning Cells.",
+        "Abstract": "We introduce Latent Meaning Cells, a deep latent variable model which learns contextualized representations of words by combining local lexical context and metadata. Metadata can refer to granular context, such as section type, or to more global context, such as unique document ids. Reliance on metadata for contextualized representation learning is apropos in the clinical domain where text is semi-structured and expresses high variation in topics. We evaluate the LMC model on the task of zero-shot clinical acronym expansion across three datasets. The LMC significantly outperforms a diverse set of baselines at a fraction of the pre-training cost and learns clinically coherent representations. We demonstrate that not only is metadata itself very helpful for the task, but that the LMC inference algorithm provides an additional large benefit.",
+        "Keywords": [
+            "clinical acronyms",
+            "representation learning",
+            "variational inference"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Griffin",
+                "Last Name": "Adams",
+                "Affiliation": "Columbia University, New York, NY, US."
+            },
+            {
+                "First Name": "Mert",
+                "Last Name": "Ketenci",
+                "Affiliation": "Columbia University, New York, NY, US."
+            },
+            {
+                "First Name": "Shreyas",
+                "Last Name": "Bhave",
+                "Affiliation": "Columbia University, New York, NY, US."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Columbia University, New York, NY, US."
+            },
+            {
+                "First Name": "No\u00e9mie",
+                "Last Name": "Elhadad",
+                "Affiliation": "Columbia University, New York, NY, US."
+            }
+        ],
+        "Journal": "Proceedings of machine learning research",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "34302957",
+        "Title": "A conceptual framework for external validity.",
+        "Abstract": "Evidence-Based Medicine (EBM) encourages clinicians to seek the most reputable evidence. The quality of evidence is organized in a hierarchy in which randomized controlled trials (RCTs) are regarded as least biased. However, RCTs are plagued by poor generalizability, impeding the translation of clinical research to practice. Though the presence of poor external validity is known, the factors that contribute to poor generalizability have not been summarized and placed in a framework. We propose a new population-oriented conceptual framework to facilitate consistent and comprehensive evaluation of generalizability, replicability, and assessment of RCT study quality.",
+        "Keywords": [
+            "Epidemiology",
+            "Evidence Based Medicine",
+            "External",
+            "Generalizability",
+            "Reproducibility",
+            "Validity"
+        ],
+        "MeSH terms": [
+            "Evidence-Based Medicine",
+            "Randomized Controlled Trials as Topic",
+            "Research Design"
+        ],
+        "Authors": [
+            {
+                "First Name": "Amelia J",
+                "Last Name": "Averitt",
+                "Affiliation": "Regeneron Genetics Center. Tarrytown, NY, USA; Department of Biomedical Informatics, Columbia University. New York, NY, USA. Electronic address: aja2149@caa.columbia.edu."
+            },
+            {
+                "First Name": "Patrick B",
+                "Last Name": "Ryan",
+                "Affiliation": "Janssen Research & Development. Raritan, NJ, USA; Department of Biomedical Informatics, Columbia University. New York, NY, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University. New York, NY, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University. New York, NY, USA."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34270710",
+        "Title": "Utilizing timestamps of longitudinal electronic health record data to classify clinical deterioration events.",
+        "Abstract": "To propose an algorithm that utilizes only timestamps of longitudinal electronic health record data to classify clinical deterioration events.",
+        "Keywords": [
+            "clinical informatics",
+            "early warning scores, machine learning",
+            "electronic health records",
+            "predictive modeling"
+        ],
+        "MeSH terms": [
+            "Clinical Deterioration",
+            "Electronic Health Records",
+            "Humans",
+            "Machine Learning",
+            "Retrospective Studies",
+            "Vital Signs"
+        ],
+        "Authors": [
+            {
+                "First Name": "Li-Heng",
+                "Last Name": "Fu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Knaplund",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Kenrick",
+                "Last Name": "Cato",
+                "Affiliation": "School of Nursing, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Min-Jeoung",
+                "Last Name": "Kang",
+                "Affiliation": "The Catholic University of Korea, College of Nursing, Seoul, Republic of Korea."
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Dykes",
+                "Affiliation": "Division of General Internal Medicine and Primary Care, Brigham and Women's Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Albers",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Collins Rossetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34151966",
+        "Title": "Clinically relevant pretraining is all you need.",
+        "Abstract": "Clinical notes present a wealth of information for applications in the clinical domain, but heterogeneity across clinical institutions and settings presents challenges for their processing. The clinical natural language processing field has made strides in overcoming domain heterogeneity, while pretrained deep learning models present opportunities to transfer knowledge from one task to another. Pretrained models have performed well when transferred to new tasks; however, it is not well understood if these models generalize across differences in institutions and settings within the clinical domain. We explore if institution or setting specific pretraining is necessary for pretrained models to perform well when transferred to new tasks. We find no significant performance difference between models pretrained across institutions and settings, indicating that clinically pretrained models transfer well across such boundaries. Given a clinically pretrained model, clinical natural language processing researchers may forgo the time-consuming pretraining step without a significant performance drop.",
+        "Keywords": [
+            "deep learning",
+            "international classification of disease",
+            "natural language processing",
+            "social determinants of health",
+            "transfer learning"
+        ],
+        "MeSH terms": [
+            "Deep Learning",
+            "Humans",
+            "Natural Language Processing",
+            "Research Personnel"
+        ],
+        "Authors": [
+            {
+                "First Name": "Oliver J",
+                "Last Name": "Bear Don't Walk Iv",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Tony",
+                "Last Name": "Sun",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "No\u00e9mie",
+                "Last Name": "Elhadad",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34017160",
+        "Title": "X-CAL: Explicit Calibration for Survival Analysis.",
+        "Abstract": "Survival analysis models the distribution of time until an event of interest, such as discharge from the hospital or admission to the ICU. When a model's predicted number of events within any time interval is similar to the observed number, it is called ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Mark",
+                "Last Name": "Goldstein",
+                "Affiliation": "New York University."
+            },
+            {
+                "First Name": "Xintian",
+                "Last Name": "Han",
+                "Affiliation": "New York University."
+            },
+            {
+                "First Name": "Aahlad",
+                "Last Name": "Puli",
+                "Affiliation": "New York University."
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": "Columbia University."
+            },
+            {
+                "First Name": "Rajesh",
+                "Last Name": "Ranganath",
+                "Affiliation": "New York University."
+            }
+        ],
+        "Journal": "Advances in neural information processing systems",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33964036",
+        "Title": "Association between procurement biopsy findings and deceased donor kidney outcomes: a paired kidney analysis.",
+        "Abstract": "Unfavourable procurement biopsy findings are the most common reason for deceased donor kidney discard in the United States. We sought to assess the association between biopsy findings and post-transplant outcomes when donor characteristics are accounted for. We used registry data to identify 1566 deceased donors of 3132 transplanted kidneys (2015-2020) with discordant right/left procurement biopsy classification and performed time-to-event analyses to determine the association between optimal histology and hazard of death-censored graft failure or death. We then repeated all analyses using a local cohort of 147 donors of kidney pairs with detailed procurement histology data available (2006-2016). Among transplanted kidney pairs in the national cohort, there were no significant differences in incidence of delayed graft function or primary nonfunction. Time to death-censored graft failure was not significantly different between recipients of optimal versus suboptimal kidneys. Results were similar in analyses using the local cohort. Regarding recipient survival, analysis of the national, but not local, cohort showed optimal kidneys were associated with a lower hazard of death (adjusted HR 0.68, 95% CI 0.52-0.90, P\u00a0=\u00a00.006). In conclusion, in a large national cohort of deceased donor kidney pairs with discordant right/left procurement biopsy findings, we found no association between histology and death-censored graft survival.",
+        "Keywords": [
+            "deceased donor kidney transplant",
+            "organ donor procurement kidney biopsy",
+            "transplant outcomes"
+        ],
+        "MeSH terms": [
+            "Biopsy",
+            "Donor Selection",
+            "Graft Survival",
+            "Humans",
+            "Kidney",
+            "Kidney Transplantation",
+            "Tissue Donors",
+            "Tissue and Organ Procurement",
+            "Treatment Outcome",
+            "United States"
+        ],
+        "Authors": [
+            {
+                "First Name": "Syed Ali",
+                "Last Name": "Husain",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University College of Physicians & Surgeons and New York Presbyterian Hospital, New York, NY, USA."
+            },
+            {
+                "First Name": "Kristen L",
+                "Last Name": "King",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University College of Physicians & Surgeons and New York Presbyterian Hospital, New York, NY, USA."
+            },
+            {
+                "First Name": "Shana",
+                "Last Name": "Coley",
+                "Affiliation": "Department of Pathology, Columbia University College of Physicians & Surgeons and New York Presbyterian Hospital, New York, NY, USA."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Sumit",
+                "Last Name": "Mohan",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University College of Physicians & Surgeons and New York Presbyterian Hospital, New York, NY, USA."
+            }
+        ],
+        "Journal": "Transplant international : official journal of the European Society for Organ Transplantation",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33956981",
+        "Title": "A neuro-symbolic method for understanding free-text medical evidence.",
+        "Abstract": "We introduce Medical evidence Dependency (MD)-informed attention, a novel neuro-symbolic model for understanding free-text clinical trial publications with generalizability and interpretability.",
+        "Keywords": [
+            "machine reading comprehension",
+            "medical evidence computing",
+            "natural language understanding",
+            "transformer"
+        ],
+        "MeSH terms": [
+            "Artificial Intelligence",
+            "COVID-19",
+            "Clinical Trials as Topic",
+            "Computer Simulation",
+            "Data Mining",
+            "Humans",
+            "Information Storage and Retrieval",
+            "Models, Neurological",
+            "Natural Language Processing",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tian",
+                "Last Name": "Kang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Ali",
+                "Last Name": "Turfah",
+                "Affiliation": "Department of Statistics, Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Jaehyun",
+                "Last Name": "Kim",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33953524",
+        "Title": "Causal Estimation with Functional Confounders.",
+        "Abstract": "Causal inference relies on two fundamental assumptions: ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Aahlad",
+                "Last Name": "Puli",
+                "Affiliation": "Computer Science, New York University, New York, NY 10011."
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": "Biomedical Informatics, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Rajesh",
+                "Last Name": "Ranganath",
+                "Affiliation": "Computer Science, New York University, New York, NY 10011."
+            }
+        ],
+        "Journal": "Advances in neural information processing systems",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33706377",
+        "Title": "Development and validation of prediction models for mechanical ventilation, renal replacement therapy, and readmission in COVID-19 patients.",
+        "Abstract": "Coronavirus disease 2019 (COVID-19) patients are at risk for resource-intensive outcomes including mechanical ventilation (MV), renal replacement therapy (RRT), and readmission. Accurate outcome prognostication could facilitate hospital resource allocation. We develop and validate predictive models for each outcome using retrospective electronic health record data for COVID-19 patients treated between March 2 and May 6, 2020.",
+        "Keywords": [
+            "COVID-19",
+            "artificial",
+            "patient readmission",
+            "renal replacement therapy",
+            "respiration",
+            "supervised machine learning"
+        ],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Area Under Curve",
+            "COVID-19",
+            "Electronic Health Records",
+            "Female",
+            "Humans",
+            "Logistic Models",
+            "Male",
+            "Middle Aged",
+            "Models, Statistical",
+            "Patient Readmission",
+            "Prognosis",
+            "ROC Curve",
+            "Renal Replacement Therapy",
+            "Respiration, Artificial",
+            "Retrospective Studies",
+            "Statistics, Nonparametric",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Victor Alfonso",
+                "Last Name": "Rodriguez",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Shreyas",
+                "Last Name": "Bhave",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Ruijun",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chao",
+                "Last Name": "Pang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Soumitra",
+                "Last Name": "Sengupta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Noemie",
+                "Last Name": "Elhadad",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Green",
+                "Affiliation": "Department of Emergency Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Jason",
+                "Last Name": "Adelman",
+                "Affiliation": "Division of General Medicine, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Katherine Schlosser",
+                "Last Name": "Metitiri",
+                "Affiliation": "Department of Pediatrics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Holden",
+                "Last Name": "Groves",
+                "Affiliation": "Department of Anesthesiology, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Sumit",
+                "Last Name": "Mohan",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33370368",
+        "Title": "High rate of renal recovery in survivors of COVID-19 associated acute renal failure requiring renal replacement therapy.",
+        "Abstract": "A large proportion of patients with COVID-19 develop acute kidney injury (AKI). While the most severe of these cases require renal replacement therapy (RRT), little is known about their clinical course.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acute Kidney Injury",
+            "Aged",
+            "COVID-19",
+            "Critical Illness",
+            "Female",
+            "Humans",
+            "Intensive Care Units",
+            "Kidney",
+            "Male",
+            "Middle Aged",
+            "New York City",
+            "Proportional Hazards Models",
+            "Renal Replacement Therapy",
+            "Retrospective Studies",
+            "SARS-CoV-2",
+            "Survivors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jacob S",
+                "Last Name": "Stevens",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Kristen L",
+                "Last Name": "King",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Shelief Y",
+                "Last Name": "Robbins-Juarez",
+                "Affiliation": "Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Pascale",
+                "Last Name": "Khairallah",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Katherine",
+                "Last Name": "Toma",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Hector",
+                "Last Name": "Alvarado Verduzco",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Emily",
+                "Last Name": "Daniel",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Denzil",
+                "Last Name": "Douglas",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Andrew A",
+                "Last Name": "Moses",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Yonatan",
+                "Last Name": "Peleg",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Piotr",
+                "Last Name": "Starakiewicz",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Miah T",
+                "Last Name": "Li",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Daniel W",
+                "Last Name": "Kim",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Kathleen",
+                "Last Name": "Yu",
+                "Affiliation": "Columbia University Renal Epidemiology Group, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Long",
+                "Last Name": "Qian",
+                "Affiliation": "Columbia University Renal Epidemiology Group, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Vaqar H",
+                "Last Name": "Shah",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Max R",
+                "Last Name": "O'Donnell",
+                "Affiliation": "Division of Pulmonary, Allergy & Critical Care Medicine, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Matthew J",
+                "Last Name": "Cummings",
+                "Affiliation": "Division of Pulmonary, Allergy & Critical Care Medicine, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Jason",
+                "Last Name": "Zucker",
+                "Affiliation": "Division of Infectious Diseases, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Demetra",
+                "Last Name": "Tsapepas",
+                "Affiliation": "Department of Pharmacy, New-York Presbyterian Hospital, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Kiryluk",
+                "Last Name": "Krzysztof",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Geoffrey",
+                "Last Name": "Dube",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Siddall",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Shayan",
+                "Last Name": "Shirazian",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Thomas L",
+                "Last Name": "Nickolas",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Maya K",
+                "Last Name": "Rao",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Jonathan M",
+                "Last Name": "Barasch",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Anthony M",
+                "Last Name": "Valeri",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Jai",
+                "Last Name": "Radhakrishnan",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Ali G",
+                "Last Name": "Gharavi",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "S Ali",
+                "Last Name": "Husain",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Sumit",
+                "Last Name": "Mohan",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33367705",
+        "Title": "UMLS-based data augmentation for natural language processing of clinical research literature.",
+        "Abstract": "The study sought to develop and evaluate a knowledge-based data augmentation method to improve the performance of deep learning models for biomedical natural language processing by overcoming training data scarcity.",
+        "Keywords": [
+            "NLP",
+            "UMLS",
+            "Unified Medical Language System",
+            "data augmentation",
+            "evidence based medicine",
+            "machine learning",
+            "named entity recognition",
+            "natural language processing"
+        ],
+        "MeSH terms": [
+            "Biomedical Research",
+            "Data Management",
+            "Information Storage and Retrieval",
+            "Natural Language Processing",
+            "Unified Medical Language System"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tian",
+                "Last Name": "Kang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Youlan",
+                "Last Name": "Tang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Casey",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33221204",
+        "Title": "Diagnosing Transthyretin Cardiac Amyloidosis by Technetium Tc 99m Pyrophosphate: A Test in Evolution.",
+        "Abstract": "This study aimed to characterize trends in technetium Tc 99m pyrophosphate (",
+        "Keywords": [
+            "cardiac amyloidosis",
+            "cardiac scintigraphy",
+            "heart failure with preserved ejection fraction",
+            "transthyretin amyloidosis"
+        ],
+        "MeSH terms": [
+            "Aged",
+            "Amyloidosis",
+            "Female",
+            "Humans",
+            "Male",
+            "Prealbumin",
+            "Predictive Value of Tests",
+            "Technetium Tc 99m Pyrophosphate"
+        ],
+        "Authors": [
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Poterucha",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Sabahat",
+                "Last Name": "Bokhari",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Einstein",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA; Department of Radiology, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Albert",
+                "Last Name": "DeLuca",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Mona",
+                "Last Name": "Kinkhabwala",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Lynne L",
+                "Last Name": "Johnson",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Kathleen R",
+                "Last Name": "Flaherty",
+                "Affiliation": "Department of Psychiatry and Behavioral Sciences, Memorial Sloan Kettering Cancer Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Sunil E",
+                "Last Name": "Saith",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Jan M",
+                "Last Name": "Griffin",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Mathew S",
+                "Last Name": "Maurer",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA. Electronic address: msm10@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "JACC. Cardiovascular imaging",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33175177",
+        "Title": "Trends in Poor Health Indicators Among Black and Hispanic Middle-aged and Older Adults in the United States, 1999-2018.",
+        "Abstract": "Adults who belong to racial/ethnic minority groups are more likely than White adults to receive a diagnosis of chronic disease in the United States.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Black or African American",
+            "Aged",
+            "Arthritis",
+            "Asthma",
+            "Coronary Disease",
+            "Cross-Sectional Studies",
+            "Depression",
+            "Diabetes Mellitus",
+            "Female",
+            "Health Status Disparities",
+            "Health Status Indicators",
+            "Hispanic or Latino",
+            "Humans",
+            "Hypertension",
+            "Insurance, Health",
+            "Kidney Diseases",
+            "Male",
+            "Medically Uninsured",
+            "Middle Aged",
+            "Minority Health",
+            "Sedentary Behavior",
+            "Stroke",
+            "United States",
+            "White People"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michelle",
+                "Last Name": "Odlum",
+                "Affiliation": "Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Nathalie",
+                "Last Name": "Moise",
+                "Affiliation": "Division of General Medicine, Department of Medicine, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Ian M",
+                "Last Name": "Kronish",
+                "Affiliation": "Division of General Medicine, Department of Medicine, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Broadwell",
+                "Affiliation": "Center for Interdisciplinary Digital Research, Stanford University, Stanford, California."
+            },
+            {
+                "First Name": "Carmela",
+                "Last Name": "Alc\u00e1ntara",
+                "Affiliation": "Columbia University School of Social Work, New York, New York."
+            },
+            {
+                "First Name": "Nicole J",
+                "Last Name": "Davis",
+                "Affiliation": "Clemson University School of Nursing, Clemson, South Carolina."
+            },
+            {
+                "First Name": "Ying Kuen K",
+                "Last Name": "Cheung",
+                "Affiliation": "Department of Biostatistics, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Sunmoo",
+                "Last Name": "Yoon",
+                "Affiliation": "Division of General Medicine, Department of Medicine, Columbia University Irving Medical Center, New York, New York."
+            }
+        ],
+        "Journal": "JAMA network open",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33169643",
+        "Title": "Admission Cardiac Diagnostic Testing with Electrocardiography and Troponin Measurement Prognosticates Increased 30-Day Mortality in COVID-19.",
+        "Abstract": "Background Cardiovascular involvement in coronavirus disease 2019 (COVID-19) is common and leads to worsened mortality. Diagnostic cardiovascular studies may be helpful for resource appropriation and identifying patients at increased risk for death. Methods and Results We analyzed 887 patients (aged 64\u00b117 years) admitted with COVID-19 from March 1 to April 3, 2020 in New York City with 12 lead electrocardiography within 2 days of diagnosis. Demographics, comorbidities, and laboratory testing, including high sensitivity cardiac troponin T (hs-cTnT), were abstracted. At 30 days follow-up, 556 patients (63%) were living without requiring mechanical ventilation, 123 (14%) were living and required mechanical ventilation, and 203 (23%) had expired. Electrocardiography findings included atrial fibrillation or atrial flutter (AF/AFL) in 46 (5%) and ST-T wave changes in 306 (38%). 27 (59%) patients with AF/AFL expired as compared to 181 (21%) of 841 with other non-life-threatening rhythms (",
+        "Keywords": [
+            "COVID\u201019",
+            "arrhythmia",
+            "atrial fibrillation",
+            "troponin"
+        ],
+        "MeSH terms": [
+            "Atrial Fibrillation",
+            "Biomarkers",
+            "COVID-19",
+            "Comorbidity",
+            "Electrocardiography",
+            "Female",
+            "Follow-Up Studies",
+            "Heart Rate",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "New York City",
+            "Prognosis",
+            "Retrospective Studies",
+            "Risk Assessment",
+            "Risk Factors",
+            "SARS-CoV-2",
+            "Troponin T"
+        ],
+        "Authors": [
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Poterucha",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Sneha S",
+                "Last Name": "Jain",
+                "Affiliation": "Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Gabriel",
+                "Last Name": "Sayer",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Bjorn",
+                "Last Name": "Redfors",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Burkhoff",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Hannah",
+                "Last Name": "Rosenblum",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Ersilia M",
+                "Last Name": "DeFilippis",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Aakriti",
+                "Last Name": "Gupta",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Lawlor",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Mahesh V",
+                "Last Name": "Madhavan",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Jan",
+                "Last Name": "Griffin",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Jayant",
+                "Last Name": "Raikhelkar",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Fried",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Kevin J",
+                "Last Name": "Clerkin",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Kim",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Mathew S",
+                "Last Name": "Maurer",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Deepak",
+                "Last Name": "Saluja",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Jos\u00e9",
+                "Last Name": "Dizon",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Frederick A",
+                "Last Name": "Ehlert",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Morrow",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Hirad",
+                "Last Name": "Yarmohammadi",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Angelo B",
+                "Last Name": "Biviano",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Hasan",
+                "Last Name": "Garan",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "LeRoy",
+                "Last Name": "Rabbani",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Martin B",
+                "Last Name": "Leon",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Allan",
+                "Last Name": "Schwartz",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Nir",
+                "Last Name": "Uriel",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Elaine Y",
+                "Last Name": "Wan",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            }
+        ],
+        "Journal": "Journal of the American Heart Association",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33163711",
+        "Title": "Impact of Deceased Donor Kidney Procurement Biopsy Technique on Histologic Accuracy.",
+        "Abstract": "The factors that influence deceased donor kidney procurement biopsy reliability are not well established. We examined the impact of biopsy technique and pathologist training on procurement biopsy accuracy.",
+        "Keywords": [
+            "deceased donor kidney transplant",
+            "epidemiology",
+            "kidney procurement biopsy",
+            "kidney transplant outcomes",
+            "organ quality",
+            "organ utilization"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "S Ali",
+                "Last Name": "Husain",
+                "Affiliation": "Department of Medicine, Division of Nephrology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Vaqar",
+                "Last Name": "Shah",
+                "Affiliation": "Department of Medicine, Division of Nephrology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Hector",
+                "Last Name": "Alvarado Verduzco",
+                "Affiliation": "Department of Medicine, Division of Nephrology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Kristen L",
+                "Last Name": "King",
+                "Affiliation": "Department of Medicine, Division of Nephrology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Corey",
+                "Last Name": "Brennan",
+                "Affiliation": "Department of Medicine, Division of Nephrology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Ibrahim",
+                "Last Name": "Batal",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Shana M",
+                "Last Name": "Coley",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Isaac E",
+                "Last Name": "Hall",
+                "Affiliation": "Department of Medicine, Division of Nephrology and Hypertension, University of Utah School of Medicine, Salt Lake City, Utah, USA."
+            },
+            {
+                "First Name": "M Barry",
+                "Last Name": "Stokes",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Geoffrey K",
+                "Last Name": "Dube",
+                "Affiliation": "Department of Medicine, Division of Nephrology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "R John",
+                "Last Name": "Crew",
+                "Affiliation": "Department of Medicine, Division of Nephrology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Dustin",
+                "Last Name": "Carpenter",
+                "Affiliation": "Department of Surgery, Columbia University College of Physicians & Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "P Rodrigo",
+                "Last Name": "Sandoval",
+                "Affiliation": "Department of Surgery, Columbia University College of Physicians & Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Dominick",
+                "Last Name": "Santoriello",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Vivette",
+                "Last Name": "D'Agati",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "David J",
+                "Last Name": "Cohen",
+                "Affiliation": "Department of Medicine, Division of Nephrology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Lloyd",
+                "Last Name": "Ratner",
+                "Affiliation": "Department of Surgery, Columbia University College of Physicians & Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Glen",
+                "Last Name": "Markowitz",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Sumit",
+                "Last Name": "Mohan",
+                "Affiliation": "Department of Medicine, Division of Nephrology, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York, USA."
+            }
+        ],
+        "Journal": "Kidney international reports",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33012341",
+        "Title": "The Prognostic Value of Electrocardiogram at Presentation to Emergency Department in Patients With COVID-19.",
+        "Abstract": "To study whether combining vital signs and electrocardiogram (ECG) analysis can improve early prognostication.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Arrhythmias, Cardiac",
+            "Betacoronavirus",
+            "COVID-19",
+            "Coronavirus Infections",
+            "Electrocardiography",
+            "Emergency Service, Hospital",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Pandemics",
+            "Pneumonia, Viral",
+            "Prognosis",
+            "SARS-CoV-2",
+            "Time-to-Treatment"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Poterucha",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Sneha S",
+                "Last Name": "Jain",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Gabriel",
+                "Last Name": "Sayer",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Jayant",
+                "Last Name": "Raikhelkar",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Fried",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Kevin",
+                "Last Name": "Clerkin",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Jan",
+                "Last Name": "Griffin",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Ersilia M",
+                "Last Name": "DeFilippis",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Aakriti",
+                "Last Name": "Gupta",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY; Cardiovascular Research Foundation, New York, NY."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Lawlor",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Mahesh",
+                "Last Name": "Madhavan",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Hannah",
+                "Last Name": "Rosenblum",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Zachary B",
+                "Last Name": "Roth",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Elaine Y",
+                "Last Name": "Wan",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Amardeep",
+                "Last Name": "Saluja",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Jose",
+                "Last Name": "Dizon",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Frederick",
+                "Last Name": "Ehlert",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Morrow",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Hirad",
+                "Last Name": "Yarmohammadi",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Deepa",
+                "Last Name": "Kumaraiah",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Bjorn",
+                "Last Name": "Redfors",
+                "Affiliation": "Cardiovascular Research Foundation, New York, NY."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Gavin",
+                "Affiliation": "Department of Emergency Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Ajay",
+                "Last Name": "Kirtane",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Cardiovascular Research Foundation, New York, NY."
+            },
+            {
+                "First Name": "Leroy",
+                "Last Name": "Rabbani",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Dan",
+                "Last Name": "Burkhoff",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Jeffrey",
+                "Last Name": "Moses",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Allan",
+                "Last Name": "Schwartz",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Martin",
+                "Last Name": "Leon",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY; Cardiovascular Research Foundation, New York, NY."
+            },
+            {
+                "First Name": "Nir",
+                "Last Name": "Uriel",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY; Division of Cardiology, Department of Medicine, Weill Cornell University Medical Center, New York, NY. Electronic address: nu2126@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Mayo Clinic proceedings",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32771540",
+        "Title": "The Counterfactual \u03c7-GAN: Finding comparable cohorts in observational health data.",
+        "Abstract": "Causal inference often relies on the counterfactual framework, which requires that treatment assignment is independent of the outcome, known as strong ignorability. Approaches to enforcing strong ignorability in causal analyses of observational data include weighting and matching methods. Effect estimates, such as the average treatment effect (ATE), are then estimated as expectations under the re-weighted or matched distribution, P. The choice of P is important and can impact the interpretation of the effect estimate and the variance of effect estimates. In this work, instead of specifying P, we learn a distribution that simultaneously maximizes coverage and minimizes variance of ATE estimates. In order to learn this distribution, this research proposes a generative adversarial network (GAN)-based model called the Counterfactual \u03c7-GAN (cGAN), which also learns feature-balancing weights and supports unbiased causal estimation in the absence of unobserved confounding. Our model minimizes the Pearson \u03c7",
+        "Keywords": [
+            "Causal inference",
+            "Deep learning",
+            "GANs",
+            "Health",
+            "Machine learning",
+            "Observational studies"
+        ],
+        "MeSH terms": [
+            "Causality",
+            "Computer Simulation",
+            "Humans"
+        ],
+        "Authors": [
+            {
+                "First Name": "Amelia J",
+                "Last Name": "Averitt",
+                "Affiliation": "Biomedical Informatics, Columbia University, New York, NY, United States. Electronic address: amelia.averitt@gmail.com."
+            },
+            {
+                "First Name": "Natnicha",
+                "Last Name": "Vanitchanant",
+                "Affiliation": "Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Rajesh",
+                "Last Name": "Ranganath",
+                "Affiliation": "Courant Institute, Center for Data Science, New York University, New York, NY, United States."
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": "Biomedical Informatics, Columbia University, New York, NY, United States."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32607490",
+        "Title": "Characterizing non-heroin opioid overdoses using electronic health records.",
+        "Abstract": "The opioid epidemic is a modern public health emergency. Common interventions to alleviate the opioid epidemic aim to discourage excessive prescription of opioids. However, these methods often take place over large municipal areas (",
+        "Keywords": [
+            "clinical informatics",
+            "electronic health records",
+            "epidemiology",
+            "opioid-related disorder",
+            "substance-related disorders"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Amelia J",
+                "Last Name": "Averitt",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Benjamin H",
+                "Last Name": "Slovis",
+                "Affiliation": "Department of Emergency Medicine, Thomas Jefferson University, Philadelphia, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Abdul A",
+                "Last Name": "Tariq",
+                "Affiliation": "NewYork-Presbyterian Hospital, The Value Institute, New York, New York, USA."
+            },
+            {
+                "First Name": "David K",
+                "Last Name": "Vawdrey",
+                "Affiliation": "Geisinger, Steele Institute for Health Innovation, Danville, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "JAMIA open",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32490377",
+        "Title": "Phenotype Inference with Semi-Supervised Mixed Membership Models.",
+        "Abstract": "Disease phenotyping algorithms are designed to sift through clinical data stores to identify patients with specific diseases. Supervised phenotyping methods require significant quantities of expert-labeled data, while unsupervised methods may learn spurious or non-disease phenotypes. To address these limitations, we propose the Semi-Supervised Mixed Membership Model (SS3M) - a probabilistic graphical model for learning disease phenotypes from partially labeled clinical data. We show SS3M can generate interpretable, disease-specific phenotypes which capture the clinical features of the disease concepts specified by the labels provided to the model. Furthermore, SS3M phenotypes demonstrate competitive predictive performance relative to commonly used baselines.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Victor A",
+                "Last Name": "Rodriguez",
+                "Affiliation": "Columbia University, Department of Biomedical Informatics, New York City, NY, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Columbia University, Department of Biomedical Informatics, New York City, NY, USA."
+            }
+        ],
+        "Journal": "Proceedings of machine learning research",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "32411828",
+        "Title": "Translating evidence into practice: eligibility criteria fail to eliminate clinically significant differences between real-world and study populations.",
+        "Abstract": "Randomized controlled trials (RCTs) are regarded as the most reputable source of evidence. In some studies, factors beyond the intervention itself may contribute to the measured effect, an occurrence known as heterogeneity of treatment effect (HTE). If the RCT population differs from the real-world population on factors that induce HTE, the trials effect will not replicate. The RCTs eligibility criteria should identify the sub-population in which its evidence will replicate. However, the extent to which the eligibility criteria identify the appropriate population is unknown, which raises concerns for generalizability. We compared reported data from RCTs with real-world data from the electronic health records of a large, academic medical center that was curated according to RCT eligibility criteria. Our results show fundamental differences between the RCT population and our observational cohorts, which suggests that eligibility criteria may be insufficient for identifying the applicable real-world population in which RCT evidence will replicate.",
+        "Keywords": [
+            "Communication and replication",
+            "Epidemiology",
+            "Outcomes research",
+            "Randomized controlled trials"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Amelia J",
+                "Last Name": "Averitt",
+                "Affiliation": "1Department of Biomedical Informatics, Columbia University, New York, NY USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "1Department of Biomedical Informatics, Columbia University, New York, NY USA."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Ryan",
+                "Affiliation": "1Department of Biomedical Informatics, Columbia University, New York, NY USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "1Department of Biomedical Informatics, Columbia University, New York, NY USA."
+            }
+        ],
+        "Journal": "NPJ digital medicine",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31974289",
+        "Title": "Reproducibility of Deceased Donor Kidney Procurement Biopsies.",
+        "Abstract": "Unfavorable histology on procurement biopsies is the most common reason for deceased donor kidney discard. We sought to assess the reproducibility of procurement biopsy findings.",
+        "Keywords": [
+            "allografts",
+            "atrophy",
+            "biopsy",
+            "cohort studies",
+            "confidence intervals",
+            "deceased donor kidney",
+            "humans",
+            "kidney",
+            "kidney biopsy",
+            "kidney transplantation",
+            "probability",
+            "procurement",
+            "reproducibility of results",
+            "sclerosis",
+            "tissue and organ procurement",
+            "tissue donors",
+            "transplant pathology",
+            "vascular diseases"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Biopsy",
+            "Donor Selection",
+            "Female",
+            "Graft Survival",
+            "Humans",
+            "Kidney",
+            "Kidney Transplantation",
+            "Male",
+            "Middle Aged",
+            "Predictive Value of Tests",
+            "Reproducibility of Results",
+            "Retrospective Studies",
+            "Time Factors",
+            "Tissue Donors",
+            "Tissue and Organ Procurement",
+            "Treatment Outcome"
+        ],
+        "Authors": [
+            {
+                "First Name": "S Ali",
+                "Last Name": "Husain",
+                "Affiliation": "Division of Nephrology, Department of Medicine and."
+            },
+            {
+                "First Name": "Kristen L",
+                "Last Name": "King",
+                "Affiliation": "Division of Nephrology, Department of Medicine and."
+            },
+            {
+                "First Name": "Ibrahim",
+                "Last Name": "Batal",
+                "Affiliation": "Departments of Pathology and."
+            },
+            {
+                "First Name": "Geoffrey K",
+                "Last Name": "Dube",
+                "Affiliation": "Division of Nephrology, Department of Medicine and."
+            },
+            {
+                "First Name": "Isaac E",
+                "Last Name": "Hall",
+                "Affiliation": "Division of Nephrology and Hypertension, Department of Medicine, University of Utah School of Medicine, Salt Lake City, Utah."
+            },
+            {
+                "First Name": "Corey",
+                "Last Name": "Brennan",
+                "Affiliation": "The Columbia University Renal Epidemiology Group, New York, New York."
+            },
+            {
+                "First Name": "M Barry",
+                "Last Name": "Stokes",
+                "Affiliation": "Departments of Pathology and."
+            },
+            {
+                "First Name": "R John",
+                "Last Name": "Crew",
+                "Affiliation": "Division of Nephrology, Department of Medicine and."
+            },
+            {
+                "First Name": "Dustin",
+                "Last Name": "Carpenter",
+                "Affiliation": "Surgery, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York."
+            },
+            {
+                "First Name": "Hector",
+                "Last Name": "Alvarado Verduzco",
+                "Affiliation": "Division of Nephrology, Department of Medicine and."
+            },
+            {
+                "First Name": "Raphael",
+                "Last Name": "Rosen",
+                "Affiliation": "Division of Nephrology, Department of Medicine and."
+            },
+            {
+                "First Name": "Shana",
+                "Last Name": "Coley",
+                "Affiliation": "Departments of Pathology and."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Campenot",
+                "Affiliation": "Departments of Pathology and."
+            },
+            {
+                "First Name": "Dominick",
+                "Last Name": "Santoriello",
+                "Affiliation": "Departments of Pathology and."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York; and."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York; and."
+            },
+            {
+                "First Name": "Vivette D",
+                "Last Name": "D'Agati",
+                "Affiliation": "Departments of Pathology and."
+            },
+            {
+                "First Name": "David J",
+                "Last Name": "Cohen",
+                "Affiliation": "Division of Nephrology, Department of Medicine and."
+            },
+            {
+                "First Name": "Lloyd E",
+                "Last Name": "Ratner",
+                "Affiliation": "Surgery, Columbia University College of Physicians and Surgeons and New York Presbyterian Hospital, New York, New York."
+            },
+            {
+                "First Name": "Glen",
+                "Last Name": "Markowitz",
+                "Affiliation": "Departments of Pathology and."
+            },
+            {
+                "First Name": "Sumit",
+                "Last Name": "Mohan",
+                "Affiliation": "Division of Nephrology, Department of Medicine and."
+            }
+        ],
+        "Journal": "Clinical journal of the American Society of Nephrology : CJASN",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31365089",
+        "Title": "Challenges with quality of race and ethnicity data in observational databases.",
+        "Abstract": "We sought to assess the quality of race and ethnicity information in observational health databases, including electronic health records (EHRs), and to propose patient self-recording as an improvement strategy.",
+        "Keywords": [
+            "data quality",
+            "electronic health records",
+            "ethnic groups",
+            "patient-facing tools"
+        ],
+        "MeSH terms": [
+            "Databases, Factual",
+            "Datasets as Topic",
+            "Electronic Health Records",
+            "Ethnicity",
+            "Health Care Surveys",
+            "Healthcare Disparities",
+            "Hospital Information Systems",
+            "Humans",
+            "New York City",
+            "Nutrition Surveys",
+            "Racial Groups",
+            "Retrospective Studies",
+            "Self Report",
+            "United States"
+        ],
+        "Authors": [
+            {
+                "First Name": "Fernanda C G",
+                "Last Name": "Polubriaginof",
+                "Affiliation": "Value Institute, NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Ryan",
+                "Affiliation": "Steele Institute for Health Innovation, Geisinger, Danville, Pennsylvania and Department of Biomedical Informatics, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Hojjat",
+                "Last Name": "Salmasian",
+                "Affiliation": "Division of General Internal Medicine, Harvard Medical School, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Andrea Wells",
+                "Last Name": "Shapiro",
+                "Affiliation": "Value Institute, NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Steele Institute for Health Innovation, Geisinger, Danville, Pennsylvania and Department of Biomedical Informatics, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Monika M",
+                "Last Name": "Safford",
+                "Affiliation": "Division of General Internal Medicine, Department of Medicine, Weill Cornell Medical College, New York, New York, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Steele Institute for Health Innovation, Geisinger, Danville, Pennsylvania and Department of Biomedical Informatics, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Shaun",
+                "Last Name": "Smith",
+                "Affiliation": "NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Steele Institute for Health Innovation, Geisinger, Danville, Pennsylvania and Department of Biomedical Informatics, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "David K",
+                "Last Name": "Vawdrey",
+                "Affiliation": "Value Institute, NewYork-Presbyterian Hospital, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31317112",
+        "Title": "Deep Vision: Learning to\u00a0Identify Renal Disease With Neural Networks.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Nishanth P",
+                "Last Name": "Pavinkurve",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Kidney international reports",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "28212433",
+        "Title": "Elevated GM3 plasma concentration in idiopathic Parkinson's disease: A lipidomic analysis.",
+        "Abstract": "Parkinson's disease (PD) is a common neurodegenerative disease whose pathological hallmark is the accumulation of intracellular \u03b1-synuclein aggregates in Lewy bodies. Lipid metabolism dysregulation may play a significant role in PD pathogenesis; however, large plasma lipidomic studies in PD are lacking. In the current study, we analyzed the lipidomic profile of plasma obtained from 150 idiopathic PD patients and 100 controls, taken from the 'Spot' study at Columbia University Medical Center in New York. Our mass spectrometry based analytical panel consisted of 520 lipid species from 39 lipid subclasses including all major classes of glycerophospholipids, sphingolipids, glycerolipids and sterols. Each lipid species was analyzed using a logistic regression model. The plasma concentrations of two lipid subclasses, triglycerides and monosialodihexosylganglioside (GM3), were different between PD and control participants. GM3 ganglioside concentration had the most significant difference between PD and controls (1.531\u00b10.037 pmol/\u03bcl versus 1.337\u00b10.040 pmol/\u03bcl respectively; p-value = 5.96E-04; q-value = 0.048; when normalized to total lipid: p-value = 2.890E-05; q-value = 2.933E-03). Next, we used a collection of 20 GM3 and glucosylceramide (GlcCer) species concentrations normalized to total lipid to perform a ROC curve analysis, and found that these lipids compare favorably with biomarkers reported in previous studies (AUC = 0.742 for males, AUC = 0.644 for females). Our results suggest that higher plasma GM3 levels are associated with PD. GM3 lies in the same glycosphingolipid metabolic pathway as GlcCer, a substrate of the enzyme glucocerebrosidase, which has been associated with PD. These findings are consistent with previous reports implicating lower glucocerebrosidase activity with PD risk.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aged",
+            "Aged, 80 and over",
+            "Biomarkers",
+            "Case-Control Studies",
+            "Female",
+            "G(M3) Ganglioside",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Parkinson Disease",
+            "Sex Characteristics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Robin B",
+                "Last Name": "Chan",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Bowen",
+                "Last Name": "Zhou",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Liong",
+                "Affiliation": "Department of Neurology, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Evan J",
+                "Last Name": "Shorr",
+                "Affiliation": "Department of Neurology, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Karen S",
+                "Last Name": "Marder",
+                "Affiliation": "Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Un J",
+                "Last Name": "Kang",
+                "Affiliation": "Department of Neurology, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Cheryl H",
+                "Last Name": "Waters",
+                "Affiliation": "Department of Neurology, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Oren A",
+                "Last Name": "Levy",
+                "Affiliation": "Department of Neurology, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Yimeng",
+                "Last Name": "Xu",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Hong Bin",
+                "Last Name": "Shim",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Itsik",
+                "Last Name": "Pe'er",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Gilbert",
+                "Last Name": "Di Paolo",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Roy N",
+                "Last Name": "Alcalay",
+                "Affiliation": "Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Columbia University Medical Center, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27999865",
+        "Title": "Vulnerable atherosclerotic plaque detection by resonance Raman spectroscopy.",
+        "Abstract": "A clear correlation has been observed between the resonance Raman (RR) spectra of plaques in the aortic tunica intimal wall of a human corpse and three states of plaque evolution: fibrolipid plaques, calcified and ossified plaques, and vulnerable atherosclerotic plaques (VPs). These three states of atherosclerotic plaque lesions demonstrated unique RR molecular fingerprints from key molecules, rendering their spectra unique with respect to one another. The vibrational modes of lipids, cholesterol, carotenoids, tryptophan and heme proteins, the amide I, II, III bands, and methyl/methylene groups from the intrinsic atherosclerotic VPs in tissues were studied. The salient outcome of the investigation was demonstrating the correlation between RR measurements of VPs and the thickness measurements of fibrous caps on VPs using standard histopathology methods, an important metric in evaluating the stability of a VP. The RR results show that VPs undergo a structural change when their caps thin to 66 ?? ? m , very close to the 65 - ? m empirical medical definition of a thin cap fibroatheroma plaque, the most unstable type of VP.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aged, 80 and over",
+            "Aorta",
+            "Carotenoids",
+            "Cholesterol",
+            "Diagnosis, Computer-Assisted",
+            "Female",
+            "Humans",
+            "Lipids",
+            "Molecular Imaging",
+            "Plaque, Atherosclerotic",
+            "Spectrum Analysis, Raman",
+            "Tryptophan"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cheng-Hui",
+                "Last Name": "Liu",
+                "Affiliation": "The City College of the City University of New York, Institute of Ultrafast Spectroscopy and Lasers, Departments of Physics and Electrical Engineering, 160 Convent Avenue, Room MR 201, New York, New York 10031-9101, United States."
+            },
+            {
+                "First Name": "Susie",
+                "Last Name": "Boydston-White",
+                "Affiliation": "The City University of New York, Borough of Manhattan Community College, 199 Chambers Street, N682, New York, New York 10007-1097, United States."
+            },
+            {
+                "First Name": "Arel",
+                "Last Name": "Weisberg",
+                "Affiliation": "Energy Research Company, 1250 South Avenue, Plainfield, New Jersey 07062, United States."
+            },
+            {
+                "First Name": "Wubao",
+                "Last Name": "Wang",
+                "Affiliation": "The City College of the City University of New York, Institute of Ultrafast Spectroscopy and Lasers, Departments of Physics and Electrical Engineering, 160 Convent Avenue, Room MR 201, New York, New York 10031-9101, United States."
+            },
+            {
+                "First Name": "Laura A",
+                "Last Name": "Sordillo",
+                "Affiliation": "The City College of the City University of New York, Institute of Ultrafast Spectroscopy and Lasers, Departments of Physics and Electrical Engineering, 160 Convent Avenue, Room MR 201, New York, New York 10031-9101, United States."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Columbia University Medical Center, Department of Biomedical Informatics, 622 West 168th Street, PH20, New York, New York 10032, United States."
+            },
+            {
+                "First Name": "Vincent P",
+                "Last Name": "Tomaselli",
+                "Affiliation": "Columbia University Medical Center, Department of Biomedical Informatics, 622 West 168th Street, PH20, New York, New York 10032, United States."
+            },
+            {
+                "First Name": "Peter P",
+                "Last Name": "Sordillo",
+                "Affiliation": "The City College of the City University of New York, Institute of Ultrafast Spectroscopy and Lasers, Departments of Physics and Electrical Engineering, 160 Convent Avenue, Room MR 201, New York, New York 10031-9101, United States."
+            },
+            {
+                "First Name": "Zhe",
+                "Last Name": "Pei",
+                "Affiliation": "The City College of the City University of New York, Institute of Ultrafast Spectroscopy and Lasers, Departments of Physics and Electrical Engineering, 160 Convent Avenue, Room MR 201, New York, New York 10031-9101, United States."
+            },
+            {
+                "First Name": "Lingyan",
+                "Last Name": "Shi",
+                "Affiliation": "The City College of the City University of New York, Institute of Ultrafast Spectroscopy and Lasers, Departments of Physics and Electrical Engineering, 160 Convent Avenue, Room MR 201, New York, New York 10031-9101, United StateseColumbia University, Department of Chemistry, 3000 Broadway MC 3139, New York, New York 10027, United States."
+            },
+            {
+                "First Name": "Robert R",
+                "Last Name": "Alfano",
+                "Affiliation": "The City College of the City University of New York, Institute of Ultrafast Spectroscopy and Lasers, Departments of Physics and Electrical Engineering, 160 Convent Avenue, Room MR 201, New York, New York 10031-9101, United States."
+            }
+        ],
+        "Journal": "Journal of biomedical optics",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27485315",
+        "Title": "Social Network Behavior and Engagement Within a Smoking Cessation Facebook Page.",
+        "Abstract": "Social media platforms are increasingly being used to support individuals in behavior change attempts, including smoking cessation. Examining the interactions of participants in health-related social media groups can help inform our understanding of how these groups can best be leveraged to facilitate behavior change.",
+        "Keywords": [
+            "Facebook",
+            "Web-based communities",
+            "communication",
+            "smoking cessation",
+            "social media",
+            "social network analysis",
+            "social support"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Data Collection",
+            "Female",
+            "Humans",
+            "Smoking Cessation",
+            "Social Behavior",
+            "Social Media",
+            "Social Networking",
+            "Social Support"
+        ],
+        "Authors": [
+            {
+                "First Name": "Heather",
+                "Last Name": "Cole-Lewis",
+                "Affiliation": "ICF International, Rockville, MD, United States."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kasia",
+                "Last Name": "Galica",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lindy",
+                "Last Name": "Dreyer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Griffith",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mary",
+                "Last Name": "Schwarz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Yun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Heather",
+                "Last Name": "Patrick",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kisha",
+                "Last Name": "Coa",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Erik",
+                "Last Name": "Augustson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of medical Internet research",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27274072",
+        "Title": "Characterizing treatment pathways at scale using the OHDSI network.",
+        "Abstract": "Observational research promises to complement experimental research by providing large, diverse populations that would be infeasible for an experiment. Observational research can test its own clinical hypotheses, and observational studies also can contribute to the design of experiments and inform the generalizability of experimental research. Understanding the diversity of populations and the variance in care is one component. In this study, the Observational Health Data Sciences and Informatics (OHDSI) collaboration created an international data network with 11 data sources from four countries, including electronic health records and administrative claims data on 250 million patients. All data were mapped to common data standards, patient privacy was maintained by using a distributed model, and results were aggregated centrally. Treatment pathways were elucidated for type 2 diabetes mellitus, hypertension, and depression. The pathways revealed that the world is moving toward more consistent therapy over time across diseases and across locations, but significant heterogeneity remains among sources, pointing to challenges in generalizing clinical trial results. Diabetes favored a single first-line medication, metformin, to a much greater extent than hypertension or depression. About 10% of diabetes and depression patients and almost 25% of hypertension patients followed a treatment pathway that was unique within the cohort. Aside from factors such as sample size and underlying population (academic medical center versus general population), electronic health records data and administrative claims data revealed similar results. Large-scale international observational research is feasible.",
+        "Keywords": [
+            "data network",
+            "observational research",
+            "treatment pathways"
+        ],
+        "MeSH terms": [
+            "Antidepressive Agents",
+            "Antihypertensive Agents",
+            "Databases, Factual",
+            "Depression",
+            "Diabetes Mellitus, Type 2",
+            "Electronic Health Records",
+            "Humans",
+            "Hypertension",
+            "Hypoglycemic Agents",
+            "Internationality",
+            "Medical Informatics",
+            "Practice Patterns, Physicians'"
+        ],
+        "Authors": [
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, NY 10032; Medical Informatics Services, NewYork-Presbyterian Hospital, New York, NY 10032; Observational Health Data Sciences and Informatics, New York, NY 10032; hripcsak@columbia.edu."
+            },
+            {
+                "First Name": "Patrick B",
+                "Last Name": "Ryan",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Epidemiology Analytics, Janssen Research and Development, Titusville, NJ 08560;"
+            },
+            {
+                "First Name": "Jon D",
+                "Last Name": "Duke",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, IN 46205;"
+            },
+            {
+                "First Name": "Nigam H",
+                "Last Name": "Shah",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Center for Biomedical Informatics Research, Stanford University, CA 94305;"
+            },
+            {
+                "First Name": "Rae Woong",
+                "Last Name": "Park",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Department of Biomedical Informatics, Ajou University School of Medicine, Suwon, South Korea, 443-380;"
+            },
+            {
+                "First Name": "Vojtech",
+                "Last Name": "Huser",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Lister Hill National Center for Biomedical Communications (National Library of Medicine), National Institutes of Health, Bethesda, MD 20894;"
+            },
+            {
+                "First Name": "Marc A",
+                "Last Name": "Suchard",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Department of Biomathematics, University of California, Los Angeles, CA 90095; Department of Biostatistics, University of California, Los Angeles, CA 90095; Department of Human Genetics, University of California, Los Angeles, CA 90095;"
+            },
+            {
+                "First Name": "Martijn J",
+                "Last Name": "Schuemie",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Epidemiology Analytics, Janssen Research and Development, Titusville, NJ 08560;"
+            },
+            {
+                "First Name": "Frank J",
+                "Last Name": "DeFalco",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Epidemiology Analytics, Janssen Research and Development, Titusville, NJ 08560;"
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, NY 10032; Observational Health Data Sciences and Informatics, New York, NY 10032;"
+            },
+            {
+                "First Name": "Juan M",
+                "Last Name": "Banda",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Center for Biomedical Informatics Research, Stanford University, CA 94305;"
+            },
+            {
+                "First Name": "Christian G",
+                "Last Name": "Reich",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Real World Evidence Solutions, IMS Health, Burlington, MA 01809;"
+            },
+            {
+                "First Name": "Lisa M",
+                "Last Name": "Schilling",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Department of Medicine, University of Colorado School of Medicine, Aurora, CO 80045;"
+            },
+            {
+                "First Name": "Michael E",
+                "Last Name": "Matheny",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN 37212; Geriatric Research, Education and Clinical Center, VA Tennessee Valley Healthcare System, Nashville, TN 37212;"
+            },
+            {
+                "First Name": "Daniella",
+                "Last Name": "Meeker",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Department of Preventive Medicine, University of Southern California, Los Angeles, CA 90089; Department of Pediatrics, University of Southern California, Los Angeles, CA 90089;"
+            },
+            {
+                "First Name": "Nicole",
+                "Last Name": "Pratt",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Division of Health Sciences, University of South Australia, Adelaide, SA, Australia 5001;"
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Madigan",
+                "Affiliation": "Observational Health Data Sciences and Informatics, New York, NY 10032; Department of Statistics, Columbia University, New York, NY 10027."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26464024",
+        "Title": "Learning probabilistic phenotypes from heterogeneous EHR data.",
+        "Abstract": "We present the Unsupervised Phenome Model (UPhenome), a probabilistic graphical model for large-scale discovery of computational models of disease, or phenotypes. We tackle this challenge through the joint modeling of a large set of diseases and a large set of clinical observations. The observations are drawn directly from heterogeneous patient record data (notes, laboratory tests, medications, and diagnosis codes), and the diseases are modeled in an unsupervised fashion. We apply UPhenome to two qualitatively different mixtures of patients and diseases: records of extremely sick patients in the intensive care unit with constant monitoring, and records of outpatients regularly followed by care providers over multiple years. We demonstrate that the UPhenome model can learn from these different care settings, without any additional adaptation. Our experiments show that (i) the learned phenotypes combine the heterogeneous data types more coherently than baseline LDA-based phenotypes; (ii) they each represent single diseases rather than a mix of diseases more often than the baseline ones; and (iii) when applied to unseen patient records, they are correlated with the patients' ground-truth disorders. Code for training, inference, and quantitative evaluation is made available to the research community.",
+        "Keywords": [
+            "Clinical phenotype modeling",
+            "Computational disease models",
+            "Electronic health record",
+            "Medical information systems",
+            "Phenotyping",
+            "Probabilistic modeling"
+        ],
+        "MeSH terms": [
+            "Electronic Health Records",
+            "Humans",
+            "Learning",
+            "Phenotype",
+            "Probability"
+        ],
+        "Authors": [
+            {
+                "First Name": "Rimma",
+                "Last Name": "Pivovarov",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, 622 W. 168th Street, New York, NY, USA. Electronic address: rip7002@nyp.org."
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, 622 W. 168th Street, New York, NY, USA. Electronic address: ajp2120@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Edouard",
+                "Last Name": "Grave",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, 622 W. 168th Street, New York, NY, USA. Electronic address: eg2795@cumc.columbia.edu."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Angiolillo",
+                "Affiliation": "College of Physicians and Surgeons, Columbia University, New York, NY, USA. Electronic address: ja2686@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Chris H",
+                "Last Name": "Wiggins",
+                "Affiliation": "Department of Applied Physics and Applied Mathematics, Columbia University, New York, NY, USA. Electronic address: chw2@columbia.edu."
+            },
+            {
+                "First Name": "No\u00e9mie",
+                "Last Name": "Elhadad",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, 622 W. 168th Street, New York, NY, USA. Electronic address: noemie.elhadad@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25896647",
+        "Title": "Risk prediction for chronic kidney disease progression using heterogeneous electronic health record data and time series analysis.",
+        "Abstract": "As adoption of electronic health records continues to increase, there is an opportunity to incorporate clinical documentation as well as laboratory values and demographics into risk prediction modeling.",
+        "Keywords": [
+            "electronic health records",
+            "risk prediction",
+            "survival analysis",
+            "topic modeling"
+        ],
+        "MeSH terms": [
+            "Aged",
+            "Cohort Studies",
+            "Disease Progression",
+            "Electronic Health Records",
+            "Female",
+            "Glomerular Filtration Rate",
+            "Humans",
+            "Longitudinal Studies",
+            "Male",
+            "Middle Aged",
+            "Models, Theoretical",
+            "Primary Health Care",
+            "Proportional Hazards Models",
+            "Renal Insufficiency, Chronic",
+            "Risk Assessment",
+            "Survival Analysis",
+            "Time"
+        ],
+        "Authors": [
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Biomedical Informatics Department, Columbia University, New York, NY, USA ajp2120@columbia.edu."
+            },
+            {
+                "First Name": "Rajesh",
+                "Last Name": "Ranganath",
+                "Affiliation": "Computer Science Department, Princeton University, Princeton, NJ, USA."
+            },
+            {
+                "First Name": "Jamie S",
+                "Last Name": "Hirsch",
+                "Affiliation": "Biomedical Informatics Department, Columbia University, New York, NY, USA Division of Nephrology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Blei",
+                "Affiliation": "Statistics Department, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "No\u00e9mie",
+                "Last Name": "Elhadad",
+                "Affiliation": "Biomedical Informatics Department, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25725004",
+        "Title": "Parameterizing time in electronic health record studies.",
+        "Abstract": "Fields like nonlinear physics offer methods for analyzing time series, but many methods require that the time series be stationary-no change in properties over time.Objective Medicine is far from stationary, but the challenge may be able to be ameliorated by reparameterizing time because clinicians tend to measure patients more frequently when they are ill and are more likely to vary.",
+        "Keywords": [
+            "data mining",
+            "electronic health record",
+            "parameterization",
+            "phenotype",
+            "time",
+            "time series"
+        ],
+        "MeSH terms": [
+            "Data Mining",
+            "Electronic Health Records",
+            "Humans",
+            "Models, Theoretical",
+            "Time"
+        ],
+        "Authors": [
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, USA Medical Informatics Services, NewYork-Presbyterian Hospital, New York, USA hripcsak@columbia.edu."
+            },
+            {
+                "First Name": "David J",
+                "Last Name": "Albers",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25364047",
+        "Title": "Public health entrepreneurs: training the next generation of public health innovators.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Creativity",
+            "Curriculum",
+            "Entrepreneurship",
+            "Humans",
+            "Industry",
+            "Organizational Innovation",
+            "Program Development",
+            "Public Health"
+        ],
+        "Authors": [
+            {
+                "First Name": "Diana",
+                "Last Name": "Hern\u00e1ndez",
+                "Affiliation": "Columbia University, Mailman School of Public Health, Department of Sociomedical Sciences, New York, NY."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Carri\u00f3n",
+                "Affiliation": "Columbia University Medical Center, College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Columbia University, Department of Biomedical Informatics and Center for Advanced Information Management, Columbia University Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Fullilove",
+                "Affiliation": "Columbia University, Mailman School of Public Health, Department of Sociomedical Sciences, New York, NY."
+            }
+        ],
+        "Journal": "Public health reports (Washington, D.C. : 1974)",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24303321",
+        "Title": "Evaluation considerations for EHR-based phenotyping algorithms: A case study for drug-induced liver injury.",
+        "Abstract": "Developing electronic health record (EHR) phenotyping algorithms involves generating queries that run across the EHR data repository. Algorithms are commonly assessed within demonstration studies. There remains, however, little emphasis on assessing the precision and accuracy of measurement methods during the evaluation process. Depending on the complexity of an algorithm, interim refinements may be required to improve measurement methods. Therefore, we develop an evaluation framework that incorporates both measurement and demonstration studies. We evaluate a baseline EHR phenotyping algorithm for drug induced liver injury (DILI) developed in collaboration with electronic Medical Records Genomics (eMERGE) network participants. We conduct a measurement study and report qualitative (i.e., perceptions of evaluation approach effectiveness) and quantitative (i.e., inter-rater reliability) measures. We also conduct a demonstration study and report qualitative (i.e., appropriateness of results) and quantitative (i.e., positive predictive value) measures. Given results from the measurement study, our evaluation approach underwent multiple changes including the addition of laboratory value visualization and an expanded review of clinical notes. Results from the demonstration study informed changes to our algorithm. For example, given the goal of eMERGE to identify patients who may have a genetic susceptibility to DILI, we excluded overdose patients.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Casey Lynnette",
+                "Last Name": "Overby",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krystl",
+                "Last Name": "Haerian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "24296907",
+        "Title": "Diagnosis code assignment: models and evaluation metrics.",
+        "Abstract": "The volume of healthcare data is growing rapidly with the adoption of health information technology. We focus on automated ICD9 code assignment from discharge summary content and methods for evaluating such assignments.",
+        "Keywords": [
+            "Clinical Coding",
+            "Electronic Health Records",
+            "ICD Codes",
+            "Machine Learning",
+            "Medical Informatics"
+        ],
+        "MeSH terms": [
+            "Brain Ischemia",
+            "Clinical Coding",
+            "Evaluation Studies as Topic",
+            "Humans",
+            "International Classification of Diseases",
+            "Patient Discharge",
+            "Support Vector Machine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Rimma",
+                "Last Name": "Pivovarov",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicole",
+                "Last Name": "Weiskopf",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Frank",
+                "Last Name": "Wood",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "No\u00e9mie",
+                "Last Name": "Elhadad",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24235118",
+        "Title": "Temporal properties of diagnosis code time series in aggregate.",
+        "Abstract": "Time series are essential to health data research and data mining. We aim to study the properties of one of the more commonly available but historically unreliable types of data: administrative diagnoses in the form of the International Classification of Diseases, Ninth Revision (ICD9) codes. We use differential entropy of ICD9 code time series as a surrogate measure for disease time course and also explore Gaussian kernel smoothing to characterize the time course of diseases in a more fine-grained way. Compared to a gold standard created by a panel of clinicians, the first model classified diseases into acute and chronic groups with a receiver operating characteristic area under curve of 0.83. In the second model, several characteristic temporal profiles were observed including permanent, chronic, and acute. In addition, condition dynamics such as the refractory period for giving birth following childbirth were observed. These models demonstrate that ICD9 codes, despite well-documented concerns, contain valid and potentially valuable temporal information.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Data Mining",
+            "Electronic Health Records",
+            "Entropy",
+            "Female",
+            "Humans",
+            "International Classification of Diseases",
+            "Male",
+            "Medical Informatics Applications",
+            "ROC Curve",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "IEEE journal of biomedical and health informatics",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23837993",
+        "Title": "A collaborative approach to developing an electronic health record phenotyping algorithm for drug-induced liver injury.",
+        "Abstract": "To describe a collaborative approach for developing an electronic health record (EHR) phenotyping algorithm for drug-induced liver injury (DILI).",
+        "Keywords": [
+            "Drug-induced liver injury",
+            "Electronic health records",
+            "Pharmacovigilance",
+            "Phenotyping",
+            "Rare diseases"
+        ],
+        "MeSH terms": [
+            "Algorithms",
+            "Chemical and Drug Induced Liver Injury",
+            "Electronic Health Records",
+            "Humans",
+            "Phenotype"
+        ],
+        "Authors": [
+            {
+                "First Name": "Casey Lynnette",
+                "Last Name": "Overby",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Jyotishman",
+                "Last Name": "Pathak",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Omri",
+                "Last Name": "Gottesman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Krystl",
+                "Last Name": "Haerian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sean",
+                "Last Name": "Murphy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kevin",
+                "Last Name": "Bruce",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephanie",
+                "Last Name": "Johnson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jayant",
+                "Last Name": "Talwalkar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steve",
+                "Last Name": "Ellis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Iftikhar",
+                "Last Name": "Kullo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Chute",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Erwin",
+                "Last Name": "Bottinger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23813945",
+        "Title": "Nonconvulsive seizures after subarachnoid hemorrhage: Multimodal detection and outcomes.",
+        "Abstract": "Seizures have been implicated as a cause of secondary brain injury, but the systemic and cerebral physiologic effects of seizures after acute brain injury are poorly understood.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aged",
+            "Electroencephalography",
+            "Epilepsy, Generalized",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Outcome Assessment, Health Care",
+            "Retrospective Studies",
+            "Subarachnoid Hemorrhage"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jan",
+                "Last Name": "Claassen",
+                "Affiliation": "Division of Critical Care Neurology, Department of Neurology, College of Physicians and Surgeons, Columbia University, New York, NY; Comprehensive Epilepsy Center, Department of Neurology, College of Physicians and Surgeons, Columbia University, New York, NY; Department of Neurosurgery, College of Physicians and Surgeons, Columbia University, New York, NY."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Albers",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Samantha",
+                "Last Name": "Kleinberg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "J Michael",
+                "Last Name": "Schmidt",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bin",
+                "Last Name": "Tu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Neeraj",
+                "Last Name": "Badjatia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hector",
+                "Last Name": "Lantigua",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lawrence J",
+                "Last Name": "Hirsch",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephan A",
+                "Last Name": "Mayer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "E Sander",
+                "Last Name": "Connolly",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annals of neurology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "22116643",
+        "Title": "Exploiting time in electronic health record correlations.",
+        "Abstract": "To demonstrate that a large, heterogeneous clinical database can reveal fine temporal patterns in clinical associations; to illustrate several types of associations; and to ascertain the value of exploiting time.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Data Mining",
+            "Databases as Topic",
+            "Electronic Health Records",
+            "Humans",
+            "Time"
+        ],
+        "Authors": [
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York 10032, USA. hripcsak@columbia.edu"
+            },
+            {
+                "First Name": "David J",
+                "Last Name": "Albers",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "16260116",
+        "Title": "Methods for reducing interference in the Complementary Learning Systems model: oscillating inhibition and autonomous memory rehearsal.",
+        "Abstract": "The stability-plasticity problem (i.e. how the brain incorporates new information into its model of the world, while at the same time preserving existing knowledge) has been at the forefront of computational memory research for several decades. In this paper, we critically evaluate how well the Complementary Learning Systems theory of hippocampo-cortical interactions addresses the stability-plasticity problem. We identify two major challenges for the model: Finding a learning algorithm for cortex and hippocampus that enacts selective strengthening of weak memories, and selective punishment of competing memories; and preventing catastrophic forgetting in the case of non-stationary environments (i.e. when items are temporarily removed from the training set). We then discuss potential solutions to these problems: First, we describe a recently developed learning algorithm that leverages neural oscillations to find weak parts of memories (so they can be strengthened) and strong competitors (so they can be punished), and we show how this algorithm outperforms other learning algorithms (CPCA Hebbian learning and Leabra at memorizing overlapping patterns. Second, we describe how autonomous re-activation of memories (separately in cortex and hippocampus) during REM sleep, coupled with the oscillating learning algorithm, can reduce the rate of forgetting of input patterns that are no longer present in the environment. We then present a simple demonstration of how this process can prevent catastrophic interference in an AB-AC learning paradigm.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Hippocampus",
+            "Humans",
+            "Learning",
+            "Memory",
+            "Models, Neurological",
+            "Models, Psychological",
+            "Neocortex",
+            "Nerve Net",
+            "Neural Networks, Computer",
+            "Neuronal Plasticity",
+            "Recognition, Psychology",
+            "Sleep, REM",
+            "Theta Rhythm"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kenneth A",
+                "Last Name": "Norman",
+                "Affiliation": "Department of Psychology Princeton University, Green Hall, Princeton, NJ 08544, USA. knorman@princeton.edu"
+            },
+            {
+                "First Name": "Ehren L",
+                "Last Name": "Newman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neural networks : the official journal of the International Neural Network Society",
+        "PubDate": "2005"
+    }
+]

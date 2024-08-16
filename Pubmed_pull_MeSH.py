@@ -1,5 +1,8 @@
+from urllib.error import HTTPError
+
 import requests
 import json
+import time
 import csv
 from dotenv import load_dotenv
 import os
@@ -12,9 +15,7 @@ PUBMED_FETCH_API_ENDPOINT = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetc
 load_dotenv()
 PUBMED_API_KEY = os.getenv("PubMed_API_KEY")
 
-
-
-def search_pubmed_by_author(author_name):
+def search_pubmed_by_author(author_name, max_retries=5):
     params = {
         "db": "pubmed",
         "term": author_name,
@@ -22,9 +23,21 @@ def search_pubmed_by_author(author_name):
         "retmode": "json",
         "api_key": PUBMED_API_KEY
     }
-    response = requests.get(PUBMED_SEARCH_API_ENDPOINT, params=params)
-    response.raise_for_status()  # Raise an exception for HTTP errors
-    return response.json()
+
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(PUBMED_SEARCH_API_ENDPOINT, params=params)
+            response.raise_for_status()  # Raise an exception for HTTP errors
+            return response.json()
+        except requests.exceptions.HTTPError as e:
+            if response.status_code == 429:
+                retry_after = int(response.headers.get("Retry-After", 2))  # Wait time in seconds
+                print(f"Rate limit hit for author '{author_name}'. Retrying after {retry_after} seconds...")
+                time.sleep(retry_after)
+            else:
+                raise e  # Re-raise for other HTTP errors
+    else:
+        raise HTTPError(f"Failed to fetch after {max_retries} attempts. Status code: {response.status_code}")
 
 
 def fetch_pubmed_article_details(pmids):
@@ -39,12 +52,26 @@ def fetch_pubmed_article_details(pmids):
             "retmode": "xml",
             "api_key": PUBMED_API_KEY
         }
-        response = requests.get(PUBMED_FETCH_API_ENDPOINT, params=params)
-        response.raise_for_status()  # Raise an exception for HTTP errors
-        all_details.append(response.text)
+
+        # Retry logic for handling HTTP 429 errors
+        max_retries = 5
+        for attempt in range(max_retries):
+            try:
+                response = requests.get(PUBMED_FETCH_API_ENDPOINT, params=params)
+                response.raise_for_status()  # Raise an exception for HTTP errors
+                all_details.append(response.text)
+                break  # Exit retry loop on success
+            except requests.exceptions.HTTPError as e:
+                if response.status_code == 429:
+                    retry_after = int(response.headers.get("Retry-After", 2))  # Wait time in seconds
+                    print(f"Rate limit hit. Retrying after {retry_after} seconds...")
+                    time.sleep(retry_after)
+                else:
+                    raise e  # Re-raise for other HTTP errors
+        else:
+            raise HTTPError(f"Failed to fetch after {max_retries} attempts. Status code: {response.status_code}")
 
     return all_details
-
 
 def parse_article_details(xml_data):
     articles = []
@@ -84,13 +111,11 @@ def parse_article_details(xml_data):
 
     return articles
 
-
 def normalize_name(name):
     if "," in name:
         comma_index = name.find(",")
         return name[:comma_index]
     return name
-
 
 def drop_middle_name(name):
     if "." in name and name[-1] != '.' and name[name.index('.')-2] == " " and name[name.index('.')+1] == ' ':
@@ -98,6 +123,7 @@ def drop_middle_name(name):
         return res
     else:
         return ""
+
 def names_to_search(set):
     res = []
     folder_path = 'researchers_files(Yilu_format)'
@@ -115,21 +141,29 @@ def names_to_search(set):
                 res.append([normalized_name])
     return res
 
-
-
-    return res
-
-
 def main():
     comparison_csv_path = "columbia_research_faculty_extracted.csv"
     non_existing_name = []
+    comparison_json_path = "results_scraper_ed.json"
 
     # Load the names from the comparison CSV file
     comparison_names = []
-    with open(comparison_csv_path, mode='r', newline='', encoding='utf-8') as csv_file:
-        csv_reader = csv.DictReader(csv_file)
-        for row in csv_reader:
-            comparison_names.append(row['Name'])
+    # with open(comparison_csv_path, mode='r', newline='', encoding='utf-8') as csv_file:
+    #     csv_reader = csv.DictReader(csv_file)
+    #     for row in csv_reader:
+    #         comparison_names.append(row['Name'])
+    with open(comparison_json_path, 'r') as scraper_file:
+        scraper_data = json.load(scraper_file)
+    for name in scraper_data:
+        capitalized_name = ""
+        for i in range(len(name)):
+            if i != 0 and name[i - 1] == " ":
+                capitalized_name += name[i].upper()
+            elif i == 0:
+                capitalized_name += name[i].upper()
+            else:
+                capitalized_name += name[i]
+        comparison_names.append(capitalized_name)
 
     names = names_to_search(comparison_names)
 
@@ -153,11 +187,39 @@ def main():
             print("=======================================================")
             continue
 
-        # Get details for the found PMIDs
-        pubmed_data = fetch_pubmed_article_details(pmids)
+        # Get details for the found PMIDs with error handling
+        chunk_size = 200  # Number of PMIDs per request
+        all_details = []
+
+        for i in range(0, len(pmids), chunk_size):
+            chunk = pmids[i:i + chunk_size]
+            params = {
+                "db": "pubmed",
+                "id": ",".join(chunk),
+                "retmode": "xml",
+                "api_key": PUBMED_API_KEY
+            }
+
+            # Retry logic for handling HTTP 429 errors
+            max_retries = 5
+            for attempt in range(max_retries):
+                try:
+                    response = requests.get(PUBMED_FETCH_API_ENDPOINT, params=params)
+                    response.raise_for_status()  # Raise an exception for HTTP errors
+                    all_details.append(response.text)
+                    break  # Exit retry loop on success
+                except requests.exceptions.HTTPError as e:
+                    if response.status_code == 429:
+                        retry_after = int(response.headers.get("Retry-After", 2))  # Wait time in seconds
+                        print(f"Rate limit hit. Retrying after {retry_after} seconds...")
+                        time.sleep(retry_after)
+                    else:
+                        raise e  # Re-raise for other HTTP errors
+            else:
+                raise HTTPError(f"Failed to fetch after {max_retries} attempts. Status code: {response.status_code}")
 
         # Process the data into the required format
-        articles = parse_article_details(pubmed_data)
+        articles = parse_article_details(all_details)
 
         # Output the results
         output_dir = 'researchers_files(Yilu_format)'

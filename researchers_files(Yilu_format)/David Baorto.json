@@ -1,0 +1,371 @@
+[
+    {
+        "PMID": "38577801",
+        "Title": "Navigating data standards in public health: A brief report from a data-standards meeting.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Public Health"
+        ],
+        "Authors": [
+            {
+                "First Name": "Heather",
+                "Last Name": "Hufstedler",
+                "Affiliation": "Heidelberg Institute of Global Health (HIGH), Heidelberg University Hospital, Heidelberg, Germany."
+            },
+            {
+                "First Name": "Yannik",
+                "Last Name": "Roell",
+                "Affiliation": "Center for Global Health, Colorado School of Public Health, Aurora, Colorado, USA."
+            },
+            {
+                "First Name": "Andressa",
+                "Last Name": "Pe\u00f1a",
+                "Affiliation": "Starlz Transplant Institute, School of Medicine, University of Pittsburgh, Pittsburgh, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Ankur",
+                "Last Name": "Krishnan",
+                "Affiliation": "Heidelberg Institute of Global Health (HIGH), Heidelberg University Hospital, Heidelberg, Germany."
+            },
+            {
+                "First Name": "Ian",
+                "Last Name": "Green",
+                "Affiliation": "SNOMED, SNOMED International, One Kingdom Street, Paddington Central, London, England, UK."
+            },
+            {
+                "First Name": "Adriano",
+                "Last Name": "Barbosa-Silva",
+                "Affiliation": "ITTM, i2b2 tranSMART, ITTM S.A. (Information Technology for Translational Medicine), Luxembourg."
+            },
+            {
+                "First Name": "Andreas",
+                "Last Name": "Kremer",
+                "Affiliation": "ITTM, i2b2 tranSMART, ITTM S.A. (Information Technology for Translational Medicine), Luxembourg."
+            },
+            {
+                "First Name": "Clair",
+                "Last Name": "Blacketer",
+                "Affiliation": "Janssen Research and Development, Janssen Research & Development, Raritan, New Jersey, USA."
+            },
+            {
+                "First Name": "Isabel",
+                "Last Name": "Fortier",
+                "Affiliation": "Maelstrom, Research Institute of the McGill University Health Centre, Montreal, Quebec, Canada."
+            },
+            {
+                "First Name": "Kit",
+                "Last Name": "Howard",
+                "Affiliation": "CDISC, Austin, Texas, USA."
+            },
+            {
+                "First Name": "Bess",
+                "Last Name": "LeRoy",
+                "Affiliation": "CDISC, Austin, Texas, USA."
+            },
+            {
+                "First Name": "Eza",
+                "Last Name": "Hafeza",
+                "Affiliation": "LOINC, Regenstrief Institute, Indianapolis, Indiana, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Baorto",
+                "Affiliation": "LOINC, Regenstrief Institute, Indianapolis, Indiana, USA."
+            },
+            {
+                "First Name": "M",
+                "Last Name": "Swertz",
+                "Affiliation": "EU-CAN-CONNECT, Faculty of Medical Sciences, University of Groningen, Antonius Deusinglaan, the Netherlands."
+            },
+            {
+                "First Name": "Lauren",
+                "Last Name": "Maxwell",
+                "Affiliation": "Heidelberg Institute of Global Health (HIGH), Heidelberg University Hospital, Heidelberg, Germany."
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Jaenisch",
+                "Affiliation": "Heidelberg Institute of Global Health (HIGH), Heidelberg University Hospital, Heidelberg, Germany."
+            }
+        ],
+        "Journal": "Journal of global health",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "22195135",
+        "Title": "Cross-mapping clinical notes between hospitals: an application of the LOINC Document Ontology.",
+        "Abstract": "Standardization of document titles is essential for management as the volume of electronic clinical notes increases. The two campuses of the New York Presbyterian Hospital have over 2,700 distinct document titles. The LOINC Document Ontology (DO) provides a standard for the naming of clinical documents in a multi-axis structure. We have represented the latest LOINC DO structure in the MED, and developed an automated process mapping the clinical documents from both the West (Columbia) and East (Cornell) campuses to the LOINC DO. We find that the LOINC DO can represent the majority of our documents, and about half of the documents map between campuses using the LOINC DO as a reference. We evaluated the possibility of using current LOINC codes in document exchange between different institutions. While there is clear success in the ability of the LOINC DO to represent documents and facilitate exchange we find there are granularity issues.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Hospital Information Systems",
+            "Hospitals, University",
+            "Humans",
+            "Logical Observation Identifiers Names and Codes",
+            "Medical Records Systems, Computerized",
+            "New York City",
+            "Systems Integration"
+        ],
+        "Authors": [
+            {
+                "First Name": "Li",
+                "Last Name": "Li",
+                "Affiliation": "New York Presbyterian Hospital, New York, NY, USA."
+            },
+            {
+                "First Name": "C Paul",
+                "Last Name": "Morrey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Baorto",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "19390093",
+        "Title": "A randomized trial comparing telemedicine case management with usual care in older, ethnically diverse, medically underserved patients with diabetes mellitus: 5 year results of the IDEATel study.",
+        "Abstract": "CONTEXT Telemedicine is a promising but largely unproven technology for providing case management services to patients with chronic conditions and lower access to care. OBJECTIVES To examine the effectiveness of a telemedicine intervention to achieve clinical management goals in older, ethnically diverse, medically underserved patients with diabetes. DESIGN, Setting, and Patients A randomized controlled trial was conducted, comparing telemedicine case management to usual care, with blinded outcome evaluation, in 1,665 Medicare recipients with diabetes, aged >/= 55 years, residing in federally designated medically underserved areas of New York State. Interventions Home telemedicine unit with nurse case management versus usual care. Main Outcome Measures The primary endpoints assessed over 5 years of follow-up were hemoglobin A1c (HgbA1c), low density lipoprotein (LDL) cholesterol, and blood pressure levels. RESULTS Intention-to-treat mixed models showed that telemedicine achieved net overall reductions over five years of follow-up in the primary endpoints (HgbA1c, p = 0.001; LDL, p < 0.001; systolic and diastolic blood pressure, p = 0.024; p < 0.001). Estimated differences (95% CI) in year 5 were 0.29 (0.12, 0.46)% for HgbA1c, 3.84 (-0.08, 7.77) mg/dL for LDL cholesterol, and 4.32 (1.93, 6.72) mm Hg for systolic and 2.64 (1.53, 3.74) mm Hg for diastolic blood pressure. There were 176 deaths in the intervention group and 169 in the usual care group (hazard ratio 1.01 [0.82, 1.24]). CONCLUSIONS Telemedicine case management resulted in net improvements in HgbA1c, LDL-cholesterol and blood pressure levels over 5 years in medically underserved Medicare beneficiaries. Mortality was not different between the groups, although power was limited. Trial Registration http://clinicaltrials.gov Identifier: NCT00271739.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aged",
+            "Blood Pressure",
+            "Case Management",
+            "Cholesterol, LDL",
+            "Diabetes Mellitus",
+            "Female",
+            "Follow-Up Studies",
+            "Glycated Hemoglobin",
+            "Humans",
+            "Male",
+            "Medically Underserved Area",
+            "Middle Aged",
+            "New York",
+            "Single-Blind Method",
+            "Telemedicine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Steven",
+                "Last Name": "Shea",
+                "Affiliation": "Division of General Medicine, New York, NY, USA. ss35@columbia.edu"
+            },
+            {
+                "First Name": "Ruth S",
+                "Last Name": "Weinstock",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jeanne A",
+                "Last Name": "Teresi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Walter",
+                "Last Name": "Palmas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Starren",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "Cimino",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Albert M",
+                "Last Name": "Lai",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lesley",
+                "Last Name": "Field",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Philip C",
+                "Last Name": "Morin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robin",
+                "Last Name": "Goland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roberto E",
+                "Last Name": "Izquierdo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Susana",
+                "Last Name": "Ebner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephanie",
+                "Last Name": "Silver",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eva",
+                "Last Name": "Petkova",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jian",
+                "Last Name": "Kong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph P",
+                "Last Name": "Eimicke",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19285571",
+        "Title": "A review of auditing methods applied to the content of controlled biomedical terminologies.",
+        "Abstract": "Although controlled biomedical terminologies have been with us for centuries, it is only in the last couple of decades that close attention has been paid to the quality of these terminologies. The result of this attention has been the development of auditing methods that apply formal methods to assessing whether terminologies are complete and accurate. We have performed an extensive literature review to identify published descriptions of these methods and have created a framework for characterizing them. The framework considers manual, systematic and heuristic methods that use knowledge (within or external to the terminology) to measure quality factors of different aspects of the terminology content (terms, semantic classification, and semantic relationships). The quality factors examined included concept orientation, consistency, non-redundancy, soundness and comprehensive coverage. We reviewed 130 studies that were retrieved based on keyword search on publications in PubMed, and present our assessment of how they fit into our framework. We also identify which terminologies have been audited with the methods and provide examples to illustrate each part of the framework.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Management Audit",
+            "Medical Informatics",
+            "Terminology as Topic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xinxin",
+                "Last Name": "Zhu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, 622 West 168th Street, VC-5, New York, NY 10032, USA. Katie.Zhu@dbmi.columbia.edu"
+            },
+            {
+                "First Name": "Jung-Wei",
+                "Last Name": "Fan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David M",
+                "Last Name": "Baorto",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "Cimino",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19285569",
+        "Title": "Practical experience with the maintenance and auditing of a large medical ontology.",
+        "Abstract": "The Medical Entities Dictionary (MED) has served as a unified terminology at New York Presbyterian Hospital and Columbia University for more than 20 years. It was initially created to allow the clinical data from the disparate information systems (e.g., radiology, pharmacy, and multiple laboratories, etc.) to be uniquely codified for storage in a single data repository, and functions as a real time terminology server for clinical applications and decision support tools. Being conceived as a knowledge base, the MED incorporates relationships among local terms, between local terms and external standards, and additional knowledge about terms in a semantic network structure. Over the past two decades, we have sought to develop methods to maintain, audit and improve the content of the MED, such that it remains true to its original design goals. This has resulted in a complex, multi-faceted process, with both manual and automated components. In this paper, we describe this process, with examples of its effectiveness. We believe that our process provides lessons for others who seek to maintain complex, concept-oriented controlled terminologies.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Management Audit",
+            "Medical Informatics",
+            "Terminology as Topic"
+        ],
+        "Authors": [
+            {
+                "First Name": "David",
+                "Last Name": "Baorto",
+                "Affiliation": "New York Presbyterian Hospital, 622 West 168th Street, VC-5, New York, NY 10032, USA. baorto@dbmi.columbia.edu"
+            },
+            {
+                "First Name": "Li",
+                "Last Name": "Li",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "Cimino",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18999229",
+        "Title": "Terminological reaction.",
+        "Abstract": "When the terminology services at our institution encountered the installation of a new multi-site laboratory information system (LIS), we pursued obtaining a regular dictionary feed to keep the central terminology up-to-date. What we didn't predict was the value added to the LIS implementation effort by a cooperative vocabulary strategy. In this report, we describe how preexisting terminology services were leveraged to facilitate the integration of 2 previously independent laboratories into a new cross-campus LIS.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Communication",
+            "Dictionaries, Medical as Topic",
+            "Hospital Administration",
+            "Interinstitutional Relations",
+            "Laboratories",
+            "New York",
+            "Vocabulary, Controlled"
+        ],
+        "Authors": [
+            {
+                "First Name": "David",
+                "Last Name": "Baorto",
+                "Affiliation": "New York Presbyterian Hospital, New York, NY, USA."
+            },
+            {
+                "First Name": "Tru V",
+                "Last Name": "Tran",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Virginia",
+                "Last Name": "Lorenzi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Dong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bulent",
+                "Last Name": "Oral",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bruce",
+                "Last Name": "Forman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adam D",
+                "Last Name": "Cheriff",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Curtis L",
+                "Last Name": "Cole",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2008"
+    }
+]

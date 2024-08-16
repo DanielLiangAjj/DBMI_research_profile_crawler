@@ -1,0 +1,2125 @@
+[
+    {
+        "PMID": "38433186",
+        "Title": "Genetic sex validation for sample tracking in next-generation sequencing clinical testing.",
+        "Abstract": "Data from DNA genotyping via a 96-SNP panel in a study of 25,015 clinical samples were utilized for quality control and tracking of sample identity in a clinical sequencing network. The study aimed to demonstrate the value of both the precise SNP tracking and the utility of the panel for predicting the sex-by-genotype of the participants, to identify possible sample mix-ups.",
+        "Keywords": [
+            "Clinical testing",
+            "Next-generation sequencing (NGS)",
+            "SNP genotyping",
+            "Sex concordance"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "High-Throughput Nucleotide Sequencing",
+            "Bone Marrow Transplantation",
+            "Clinical Laboratory Services",
+            "Genotype",
+            "Laboratories"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jianhong",
+                "Last Name": "Hu",
+                "Affiliation": "Baylor College of Medicine, Human Genome Sequencing Center (HGSC), Houston, TX, USA."
+            },
+            {
+                "First Name": "Viktoriya",
+                "Last Name": "Korchina",
+                "Affiliation": "Baylor College of Medicine, Human Genome Sequencing Center (HGSC), Houston, TX, USA."
+            },
+            {
+                "First Name": "Hana",
+                "Last Name": "Zouk",
+                "Affiliation": "Laboratory for Molecular Medicine (LMM), Mass General Brigham, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Maegan V",
+                "Last Name": "Harden",
+                "Affiliation": "Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Murdock",
+                "Affiliation": "Baylor College of Medicine, Human Genome Sequencing Center (HGSC), Houston, TX, USA."
+            },
+            {
+                "First Name": "Alyssa",
+                "Last Name": "Macbeth",
+                "Affiliation": "Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Steven M",
+                "Last Name": "Harrison",
+                "Affiliation": "Laboratory for Molecular Medicine (LMM), Mass General Brigham, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Niall",
+                "Last Name": "Lennon",
+                "Affiliation": "Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Christie",
+                "Last Name": "Kovar",
+                "Affiliation": "Baylor College of Medicine, Human Genome Sequencing Center (HGSC), Houston, TX, USA."
+            },
+            {
+                "First Name": "Adithya",
+                "Last Name": "Balasubramanian",
+                "Affiliation": "Baylor College of Medicine, Human Genome Sequencing Center (HGSC), Houston, TX, USA."
+            },
+            {
+                "First Name": "Lan",
+                "Last Name": "Zhang",
+                "Affiliation": "Baylor College of Medicine, Human Genome Sequencing Center (HGSC), Houston, TX, USA."
+            },
+            {
+                "First Name": "Gauthami",
+                "Last Name": "Chandanavelli",
+                "Affiliation": "Baylor College of Medicine, Human Genome Sequencing Center (HGSC), Houston, TX, USA."
+            },
+            {
+                "First Name": "Divya",
+                "Last Name": "Pasham",
+                "Affiliation": "Baylor College of Medicine, Human Genome Sequencing Center (HGSC), Houston, TX, USA."
+            },
+            {
+                "First Name": "Robb",
+                "Last Name": "Rowley",
+                "Affiliation": "Division of Genomic Medicine, National Human Genome Research Institute, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Ken",
+                "Last Name": "Wiley",
+                "Affiliation": "Division of Genomic Medicine, National Human Genome Research Institute, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Maureen E",
+                "Last Name": "Smith",
+                "Affiliation": "Center for Genetic Medicine, Northwestern University Feinberg School of Medicine, Chicago, IL, USA."
+            },
+            {
+                "First Name": "Adam",
+                "Last Name": "Gordon",
+                "Affiliation": "Center for Genetic Medicine, Northwestern University Feinberg School of Medicine, Chicago, IL, USA."
+            },
+            {
+                "First Name": "Gail P",
+                "Last Name": "Jarvik",
+                "Affiliation": "Division of Medical Genetics, Department of Medicine, University of Washington Medical Center, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Sleiman",
+                "Affiliation": "Center for Applied Genomics, Children's Hospital of Philadelphia, Philadelphia, PA, USA."
+            },
+            {
+                "First Name": "Melissa A",
+                "Last Name": "Kelly",
+                "Affiliation": "Genomic Medicine Institute, Geisinger, Danville, PA, USA."
+            },
+            {
+                "First Name": "Harris T",
+                "Last Name": "Bland",
+                "Affiliation": "Vanderbilt University Medical Center, Nashville, TN, USA."
+            },
+            {
+                "First Name": "Mullai",
+                "Last Name": "Murugan",
+                "Affiliation": "Baylor College of Medicine, Human Genome Sequencing Center (HGSC), Houston, TX, USA."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Venner",
+                "Affiliation": "Baylor College of Medicine, Human Genome Sequencing Center (HGSC), Houston, TX, USA."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Boerwinkle",
+                "Affiliation": "Baylor College of Medicine, Human Genome Sequencing Center (HGSC), Houston, TX, USA."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cynthia",
+                "Last Name": "Prows",
+                "Affiliation": "Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA."
+            },
+            {
+                "First Name": "Lisa",
+                "Last Name": "Mahanta",
+                "Affiliation": "Laboratory for Molecular Medicine (LMM), Mass General Brigham, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Heidi L",
+                "Last Name": "Rehm",
+                "Affiliation": "Laboratory for Molecular Medicine (LMM), Mass General Brigham, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Richard A",
+                "Last Name": "Gibbs",
+                "Affiliation": "Baylor College of Medicine, Human Genome Sequencing Center (HGSC), Houston, TX, USA."
+            },
+            {
+                "First Name": "Donna M",
+                "Last Name": "Muzny",
+                "Affiliation": "Baylor College of Medicine, Human Genome Sequencing Center (HGSC), Houston, TX, USA. donnam@bcm.edu."
+            }
+        ],
+        "Journal": "BMC research notes",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37203669",
+        "Title": "A Model for Multi-Institutional Clinical Data Repository.",
+        "Abstract": "Creating a sustainable model for clinical data infrastructure requires the inclusion of key stakeholders, harmonization of their needs and constraints, integration with data governance considerations, conforming to FAIR principles while maintaining data safety and data quality, and maintaining financial health for contributing organizations and partners. This paper reflects on Columbia University's 30+ years of experiences in designing and developing clinical data infrastructure that synergizes both patient care and clinical research missions. We define the desiderata for a sustainable model and make recommendations of best practices to achieve a sustainable model.",
+        "Keywords": [
+            "clinical data warehouse",
+            "data governance",
+            "data modeling"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Health Facilities",
+            "Organizations"
+        ],
+        "Authors": [
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Soumitra",
+                "Last Name": "Sengupta",
+                "Affiliation": "Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Studies in health technology and informatics",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "34597274",
+        "Title": "Age-dependent impact of the major common genetic risk factor for COVID-19 on severity and mortality.",
+        "Abstract": "BackgroundThere is considerable variability in COVID-19 outcomes among younger adults, and some of this variation may be due to genetic predisposition.MethodsWe combined individual level data from 13,888 COVID-19 patients (n = 7185 hospitalized) from 17 cohorts in 9 countries to assess the association of the major common COVID-19 genetic risk factor (chromosome 3 locus tagged by rs10490770) with mortality, COVID-19-related complications, and laboratory values. We next performed metaanalyses using FinnGen and the Columbia University COVID-19 Biobank.ResultsWe found that rs10490770 risk allele carriers experienced an increased risk of all-cause mortality (HR, 1.4; 95% CI, 1.2-1.7). Risk allele carriers had increased odds of several COVID-19 complications: severe respiratory failure (OR, 2.1; 95% CI, 1.6-2.6), venous thromboembolism (OR, 1.7; 95% CI, 1.2-2.4), and hepatic injury (OR, 1.5; 95% CI, 1.2-2.0). Risk allele carriers age 60 years and younger had higher odds of death or severe respiratory failure (OR, 2.7; 95% CI, 1.8-3.9) compared with those of more than 60 years (OR, 1.5; 95% CI, 1.2-1.8; interaction, P = 0.038). Among individuals 60 years and younger who died or experienced severe respiratory failure, 32.3% were risk-variant carriers compared with 13.9% of those not experiencing these outcomes. This risk variant improved the prediction of death or severe respiratory failure similarly to, or better than, most established clinical risk factors.ConclusionsThe major common COVID-19 genetic risk factor is associated with increased risks of morbidity and mortality, which are more pronounced among individuals 60 years or younger. The effect was similar in magnitude and more common than most established clinical risk factors, suggesting potential implications for future clinical risk management.",
+        "Keywords": [
+            "COVID-19",
+            "Genetic variation",
+            "Genetics"
+        ],
+        "MeSH terms": [
+            "Age Factors",
+            "Aged",
+            "Aged, 80 and over",
+            "Alleles",
+            "COVID-19",
+            "Chromosomes, Human, Pair 3",
+            "Female",
+            "Gene Frequency",
+            "Genetic Loci",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Patient Acuity",
+            "Polymorphism, Genetic",
+            "Risk Factors",
+            "SARS-CoV-2"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tomoko",
+                "Last Name": "Nakanishi",
+                "Affiliation": "Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Sara",
+                "Last Name": "Pigazzini",
+                "Affiliation": "Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Frauke",
+                "Last Name": "Degenhardt",
+                "Affiliation": "Institute of Clinical Molecular Biology, Christian-Albrechts-University, Kiel, Germany."
+            },
+            {
+                "First Name": "Mattia",
+                "Last Name": "Cordioli",
+                "Affiliation": "Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Guillaume",
+                "Last Name": "Butler-Laporte",
+                "Affiliation": "Centre for Clinical Epidemiology, Department of Medicine, Lady Davis Institute, Jewish General Hospital, McGill University, Montr\u00e9al, Quebec, Canada."
+            },
+            {
+                "First Name": "Douglas",
+                "Last Name": "Maya-Miles",
+                "Affiliation": "Digestive Diseases Unit, Virgen del Rocio University Hospital, Institute of Biomedicine of Seville, University of Seville, Seville, Spain."
+            },
+            {
+                "First Name": "Luis",
+                "Last Name": "Bujanda",
+                "Affiliation": "Department of Liver and Gastrointestinal Diseases, Biodonostia Health Research Institute, Donostia University Hospital, University of the Basque Country (UPV/EHU), CIBERehd, Ikerbasque, San Sebastian, Spain."
+            },
+            {
+                "First Name": "Youssef",
+                "Last Name": "Bouysran",
+                "Affiliation": "Centre de G\u00e9n\u00e9tique Humaine, H\u00f4pital Erasme, Universit\u00e9 Libre de Bruxelles (ULB), Brussels, Belgium."
+            },
+            {
+                "First Name": "Mari Ek",
+                "Last Name": "Niemi",
+                "Affiliation": "Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Adriana",
+                "Last Name": "Palom",
+                "Affiliation": "Liver Unit, Department of Internal Medicine, Hospital Universitari Vall d'Hebron, Vall d'Hebron Barcelona Hospital Campus, Barcelona, Spain."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Ellinghaus",
+                "Affiliation": "Institute of Clinical Molecular Biology, Christian-Albrechts-University, Kiel, Germany."
+            },
+            {
+                "First Name": "Atlas",
+                "Last Name": "Khan",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Manuel",
+                "Last Name": "Mart\u00ednez-Bueno",
+                "Affiliation": "GENYO, Centre for Genomics and Oncological Research: Pfizer/University of Granada/Andalusian Regional Government, Granada, Spain."
+            },
+            {
+                "First Name": "Selina",
+                "Last Name": "Rolker",
+                "Affiliation": "nstitute of Human Genetics, University Hospital Bonn, Medical Faculty University of Bonn, Bonn, Germany."
+            },
+            {
+                "First Name": "Sara",
+                "Last Name": "Amitrano",
+                "Affiliation": "Genetica Medica, Azienda Ospedaliero-Universitaria Senese, Siena, Italy."
+            },
+            {
+                "First Name": "Luisa",
+                "Last Name": "Roade Tato",
+                "Affiliation": "Centro de Investigaci\u00f3n Biom\u00e9dica en Red en Enfermedades Hep\u00e1ticas y Digestivas (CIBERehd), Instituto de Salud Carlos III (ISCIII), Madrid, Spain."
+            },
+            {
+                "First Name": "Francesca",
+                "Last Name": "Fava",
+                "Affiliation": "Genetica Medica, Azienda Ospedaliero-Universitaria Senese, Siena, Italy."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christoph D",
+                "Last Name": "Spinner",
+                "Affiliation": "Technical University of Munich, School of Medicine, University Hospital Rechts der Isar, Department of Internal Medicine II, Munich, Germany."
+            },
+            {
+                "First Name": "Daniele",
+                "Last Name": "Prati",
+                "Affiliation": "Department of Transfusion Medicine and Hematology, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, Universit\u00e0 degli Studi di Milano, Milano, Italy."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Bernardo",
+                "Affiliation": "Centro de Investigaci\u00f3n Biom\u00e9dica en Red en Enfermedades Hep\u00e1ticas y Digestivas (CIBERehd), Instituto de Salud Carlos III (ISCIII), Madrid, Spain."
+            },
+            {
+                "First Name": "Federico",
+                "Last Name": "Garcia",
+                "Affiliation": "Hospital Universitario Clinico San Cecilio, Granada, Spain."
+            },
+            {
+                "First Name": "Gilles",
+                "Last Name": "Darcis",
+                "Affiliation": "University of Liege, GIGA-Insitute, Liege, Belgium."
+            },
+            {
+                "First Name": "Israel",
+                "Last Name": "Fern\u00e1ndez-Cadenas",
+                "Affiliation": "Stroke Pharmacogenomics and Genetics Group, Biomedical Research Institute Sant Pau (IIB Sant Pau), Barcelona, Spain."
+            },
+            {
+                "First Name": "Jan Cato",
+                "Last Name": "Holter",
+                "Affiliation": "Department of Microbiology, Oslo University Hospital, Oslo, Norway."
+            },
+            {
+                "First Name": "Jesus M",
+                "Last Name": "Banales",
+                "Affiliation": "Department of Liver and Gastrointestinal Diseases, Biodonostia Health Research Institute, Donostia University Hospital, University of the Basque Country (UPV/EHU), CIBERehd, Ikerbasque, San Sebastian, Spain."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Frithiof",
+                "Affiliation": "Department of Surgical Sciences, Anaesthesiology and Intensive Care Medicine, Uppsala University, Uppsala, Sweden."
+            },
+            {
+                "First Name": "Krzysztof",
+                "Last Name": "Kiryluk",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Stefano",
+                "Last Name": "Duga",
+                "Affiliation": "Department of Biomedical Sciences, Humanitas University, Pieve Emanuele, Milan, Italy."
+            },
+            {
+                "First Name": "Rosanna",
+                "Last Name": "Asselta",
+                "Affiliation": "Department of Biomedical Sciences, Humanitas University, Pieve Emanuele, Milan, Italy."
+            },
+            {
+                "First Name": "Alexandre C",
+                "Last Name": "Pereira",
+                "Affiliation": "Heart Institute (InCor)/University S\u00e3o Paulo Medical School, S\u00e3o Paulo, Brazil."
+            },
+            {
+                "First Name": "Manuel",
+                "Last Name": "Romero-G\u00f3mez",
+                "Affiliation": "Digestive Diseases Unit, Virgen del Rocio University Hospital, Institute of Biomedicine of Seville, University of Seville, Seville, Spain."
+            },
+            {
+                "First Name": "Beatriz",
+                "Last Name": "Nafr\u00eda-Jim\u00e9nez",
+                "Affiliation": "Osakidetza Basque Health Service, Donostialdea Integrated Health Organisation, Clinical Biochemistry Department, Sebastian, Spain."
+            },
+            {
+                "First Name": "Johannes R",
+                "Last Name": "Hov",
+                "Affiliation": "Department of Microbiology, Oslo University Hospital, Oslo, Norway."
+            },
+            {
+                "First Name": "Isabelle",
+                "Last Name": "Migeotte",
+                "Affiliation": "Centre de G\u00e9n\u00e9tique Humaine, H\u00f4pital Erasme, Universit\u00e9 Libre de Bruxelles (ULB), Brussels, Belgium."
+            },
+            {
+                "First Name": "Alessandra",
+                "Last Name": "Renieri",
+                "Affiliation": "Genetica Medica, Azienda Ospedaliero-Universitaria Senese, Siena, Italy."
+            },
+            {
+                "First Name": "Anna M",
+                "Last Name": "Planas",
+                "Affiliation": "Institute for Biomedical Research of Barcelona (IIBB), National Spanish Research Council (CSIC), Barcelona, Spain."
+            },
+            {
+                "First Name": "Kerstin U",
+                "Last Name": "Ludwig",
+                "Affiliation": "nstitute of Human Genetics, University Hospital Bonn, Medical Faculty University of Bonn, Bonn, Germany."
+            },
+            {
+                "First Name": "Maria",
+                "Last Name": "Buti",
+                "Affiliation": "Centro de Investigaci\u00f3n Biom\u00e9dica en Red en Enfermedades Hep\u00e1ticas y Digestivas (CIBERehd), Instituto de Salud Carlos III (ISCIII), Madrid, Spain."
+            },
+            {
+                "First Name": "Souad",
+                "Last Name": "Rahmouni",
+                "Affiliation": "Instituto de Investigaci\u00f3n Ibs.Granada, Granada, Spain."
+            },
+            {
+                "First Name": "Marta E",
+                "Last Name": "Alarc\u00f3n-Riquelme",
+                "Affiliation": "GENYO, Centre for Genomics and Oncological Research: Pfizer/University of Granada/Andalusian Regional Government, Granada, Spain."
+            },
+            {
+                "First Name": "Eva C",
+                "Last Name": "Schulte",
+                "Affiliation": "Institute of Virology, Technical University of Munich/Helmholtz Zentrum M\u00fcnchen, Munich, Germany."
+            },
+            {
+                "First Name": "Andre",
+                "Last Name": "Franke",
+                "Affiliation": "Institute of Clinical Molecular Biology, Christian-Albrechts-University, Kiel, Germany."
+            },
+            {
+                "First Name": "Tom H",
+                "Last Name": "Karlsen",
+                "Affiliation": "Institute of Clinical Medicine, University of Oslo, Oslo, Norway."
+            },
+            {
+                "First Name": "Luca",
+                "Last Name": "Valenti",
+                "Affiliation": "Department of Pathophysiology and Transplantation, Universit\u00e0 degli Studi di Milano, Milano, Italy."
+            },
+            {
+                "First Name": "Hugo",
+                "Last Name": "Zeberg",
+                "Affiliation": "Department of Neuroscience, Karolinska Institutet, Sweden."
+            },
+            {
+                "First Name": "J Brent",
+                "Last Name": "Richards",
+                "Affiliation": "Department of Human Genetics and."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Ganna",
+                "Affiliation": "Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland."
+            }
+        ],
+        "Journal": "The Journal of clinical investigation",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34257418",
+        "Title": "Neptune: an environment for the delivery of genomic medicine.",
+        "Abstract": "Genomic medicine holds great promise for improving health care, but integrating searchable and actionable genetic data into electronic health records (EHRs) remains a challenge. Here we describe Neptune, a system for managing the interaction between a clinical laboratory and an EHR system during the clinical reporting process.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Electronic Health Records",
+            "Genomics",
+            "High-Throughput Nucleotide Sequencing",
+            "Humans",
+            "Neptune",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Venner",
+                "Last Name": "Eric",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA. venner@bcm.edu."
+            },
+            {
+                "First Name": "Victoria",
+                "Last Name": "Yi",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Murdock",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA."
+            },
+            {
+                "First Name": "Sara E",
+                "Last Name": "Kalla",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA."
+            },
+            {
+                "First Name": "Tsung-Jung",
+                "Last Name": "Wu",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA."
+            },
+            {
+                "First Name": "Aniko",
+                "Last Name": "Sabo",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA."
+            },
+            {
+                "First Name": "Shoudong",
+                "Last Name": "Li",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA."
+            },
+            {
+                "First Name": "Qingchang",
+                "Last Name": "Meng",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA."
+            },
+            {
+                "First Name": "Xia",
+                "Last Name": "Tian",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA."
+            },
+            {
+                "First Name": "Mullai",
+                "Last Name": "Murugan",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA."
+            },
+            {
+                "First Name": "Michelle",
+                "Last Name": "Cohen",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA."
+            },
+            {
+                "First Name": "Christie",
+                "Last Name": "Kovar",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA."
+            },
+            {
+                "First Name": "Wei-Qi",
+                "Last Name": "Wei",
+                "Affiliation": "Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN, USA."
+            },
+            {
+                "First Name": "Wendy K",
+                "Last Name": "Chung",
+                "Affiliation": "Departments of Pediatrics and Medicine, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, NY, USA."
+            },
+            {
+                "First Name": "Georgia L",
+                "Last Name": "Wiesner",
+                "Affiliation": "Division of Genetic Medicine, Department of Internal Medicine, Vanderbilt University Medical Center, Nashville, TN, USA."
+            },
+            {
+                "First Name": "Gail P",
+                "Last Name": "Jarvik",
+                "Affiliation": "Department of Medicine (Medical Genetics), University of Washington School of Medicine, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Donna",
+                "Last Name": "Muzny",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA."
+            },
+            {
+                "First Name": "Richard A",
+                "Last Name": "Gibbs",
+                "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34237774",
+        "Title": "Mapping the human genetic architecture of COVID-19.",
+        "Abstract": "The genetic make-up of an individual contributes to the susceptibility and response to viral infection. Although environmental, clinical and social factors have a role in the chance of exposure to SARS-CoV-2 and the severity of COVID-19",
+        "Keywords": [],
+        "MeSH terms": [
+            "Female",
+            "Humans",
+            "Male",
+            "Autoimmunity",
+            "Body Mass Index",
+            "COVID-19",
+            "Critical Illness",
+            "Genetic Loci",
+            "Genetic Predisposition to Disease",
+            "Genome-Wide Association Study",
+            "Geographic Mapping",
+            "Hospitalization",
+            "Host-Pathogen Interactions",
+            "Inflammation",
+            "Information Dissemination",
+            "Multifactorial Inheritance",
+            "Racial Groups",
+            "SARS-CoV-2",
+            "Smoking"
+        ],
+        "Authors": [
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33709066",
+        "Title": "An electronic health record (EHR) log analysis shows limited clinician engagement with unsolicited genetic test results.",
+        "Abstract": "How clinicians utilize medically actionable genomic information, displayed in the electronic health record (EHR), in medical decision-making remains unknown. Participating sites of the Electronic Medical Records and Genomics (eMERGE) Network have invested resources into EHR integration efforts to enable the display of genetic testing data across heterogeneous EHR systems. To assess clinicians' engagement with unsolicited EHR-integrated genetic test results of eMERGE participants within a large tertiary care academic medical center, we analyzed automatically generated EHR access log data. We found that clinicians viewed only 1% of all the eMERGE genetic test results integrated in the EHR. Using a cluster analysis, we also identified different user traits associated with varying degrees of engagement with the EHR-integrated genomic data. These data contribute important empirical knowledge about clinicians limited and brief engagements with unsolicited EHR-integrated genetic test results of eMERGE participants. Appreciation for user-specific roles provide additional context for why certain users were more or less engaged with the unsolicited results. This study highlights opportunities to use EHR log data as a performance metric to more precisely inform ongoing EHR-integration efforts and decisions about the allocation of informatics resources in genomic research.",
+        "Keywords": [
+            "clinical engagement with genomic results",
+            "electronic health records",
+            "log analysis"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jordan G",
+                "Last Name": "Nestor",
+                "Affiliation": "Department of Medicine, Division of Nephrology, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Fedotov",
+                "Affiliation": "The Irving Institute for Clinical and Translational Research, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Fasel",
+                "Affiliation": "Department of Medicine, Center for Precision Medicine and Genomics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Maddalena",
+                "Last Name": "Marasa",
+                "Affiliation": "Department of Medicine, Division of Nephrology, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Hila",
+                "Last Name": "Milo-Rasouly",
+                "Affiliation": "Department of Medicine, Division of Nephrology, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Wynn",
+                "Affiliation": "Department of Pediatrics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Wendy K",
+                "Last Name": "Chung",
+                "Affiliation": "Departments of Pediatric and Medicine, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Ali",
+                "Last Name": "Gharavi",
+                "Affiliation": "Department of Medicine, Division of Nephrology, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Suzanne",
+                "Last Name": "Bakken",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Soumitra",
+                "Last Name": "Sengupta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "JAMIA open",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33706377",
+        "Title": "Development and validation of prediction models for mechanical ventilation, renal replacement therapy, and readmission in COVID-19 patients.",
+        "Abstract": "Coronavirus disease 2019 (COVID-19) patients are at risk for resource-intensive outcomes including mechanical ventilation (MV), renal replacement therapy (RRT), and readmission. Accurate outcome prognostication could facilitate hospital resource allocation. We develop and validate predictive models for each outcome using retrospective electronic health record data for COVID-19 patients treated between March 2 and May 6, 2020.",
+        "Keywords": [
+            "COVID-19",
+            "artificial",
+            "patient readmission",
+            "renal replacement therapy",
+            "respiration",
+            "supervised machine learning"
+        ],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Area Under Curve",
+            "COVID-19",
+            "Electronic Health Records",
+            "Female",
+            "Humans",
+            "Logistic Models",
+            "Male",
+            "Middle Aged",
+            "Models, Statistical",
+            "Patient Readmission",
+            "Prognosis",
+            "ROC Curve",
+            "Renal Replacement Therapy",
+            "Respiration, Artificial",
+            "Retrospective Studies",
+            "Statistics, Nonparametric",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Victor Alfonso",
+                "Last Name": "Rodriguez",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Shreyas",
+                "Last Name": "Bhave",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Ruijun",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chao",
+                "Last Name": "Pang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Soumitra",
+                "Last Name": "Sengupta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Noemie",
+                "Last Name": "Elhadad",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Green",
+                "Affiliation": "Department of Emergency Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Jason",
+                "Last Name": "Adelman",
+                "Affiliation": "Division of General Medicine, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Katherine Schlosser",
+                "Last Name": "Metitiri",
+                "Affiliation": "Department of Pediatrics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Holden",
+                "Last Name": "Groves",
+                "Affiliation": "Department of Anesthesiology, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Sumit",
+                "Last Name": "Mohan",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33186458",
+        "Title": "Ten principles for data sharing and commercialization.",
+        "Abstract": "Digital medical records have enabled us to employ clinical data in many new and innovative ways. However, these advances have brought with them a complex set of demands for healthcare institutions regarding data sharing with topics such as data ownership, the loss of privacy, and the protection of the intellectual property. The lack of clear guidance from government entities often creates conflicting messages about data policy, leaving institutions to develop guidelines themselves. Through discussions with multiple stakeholders at various institutions, we have generated a set of guidelines with 10 key principles to guide the responsible and appropriate use and sharing of clinical data for the purposes of care and discovery. Industry, universities, and healthcare institutions can build upon these guidelines toward creating a responsible, ethical, and practical response to data sharing.",
+        "Keywords": [
+            "data sharing",
+            "electronic medical records",
+            "intellectual property",
+            "policy",
+            "privacy"
+        ],
+        "MeSH terms": [
+            "Academic Medical Centers",
+            "Biomedical Research",
+            "Electronic Health Records",
+            "Health Facilities",
+            "Information Dissemination",
+            "Ownership",
+            "Schools, Health Occupations"
+        ],
+        "Authors": [
+            {
+                "First Name": "Curtis L",
+                "Last Name": "Cole",
+                "Affiliation": "Healthcare Policy and Research, Cornell University, New York, New York, USA."
+            },
+            {
+                "First Name": "Soumitra",
+                "Last Name": "Sengupta",
+                "Affiliation": "Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Rossetti N\u00e9e Collins",
+                "Affiliation": "Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "David K",
+                "Last Name": "Vawdrey",
+                "Affiliation": "Geisinger Health System, Danville, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Halaas",
+                "Affiliation": "Stanford University School of Medicine, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "Thomas M",
+                "Last Name": "Maddox",
+                "Affiliation": "Healthcare Innovation Lab, BJC HealthCare/Washington University School of Medicine, St. Louis, Missouri, USA."
+            },
+            {
+                "First Name": "Geoff",
+                "Last Name": "Gordon",
+                "Affiliation": "Informatics Institute, University of Alabama-Birmingham, Birmingham, Alabama, USA."
+            },
+            {
+                "First Name": "Trushna",
+                "Last Name": "Dave",
+                "Affiliation": "IT Business Solutions, NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Philip R O",
+                "Last Name": "Payne",
+                "Affiliation": "Institute for Informatics (I2), Washington University School of Medicine, St. Louis, Missouri, USA."
+            },
+            {
+                "First Name": "Andrew E",
+                "Last Name": "Williams",
+                "Affiliation": "Tufts Medical Center, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Deborah",
+                "Last Name": "Estrin",
+                "Affiliation": "Cornell Tech, Cornell University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "32511507",
+        "Title": "Characterization and clinical course of 1000 patients with COVID-19 in New York: retrospective case series.",
+        "Abstract": "To characterize patients with coronavirus disease 2019 (COVID-19) in a large New York City (NYC) medical center and describe their clinical course across the emergency department (ED), inpatient wards, and intensive care units (ICUs).",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Michael G",
+                "Last Name": "Argenziano",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Samuel L",
+                "Last Name": "Bruce",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Cody L",
+                "Last Name": "Slater",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Jonathan R",
+                "Last Name": "Tiao",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Baldwin",
+                "Affiliation": "Division of Pulmonary, Allergy and Critical Care Medicine, Department of Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "R Graham",
+                "Last Name": "Barr",
+                "Affiliation": "Division of General Medicine, Department of Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Bernard P",
+                "Last Name": "Chang",
+                "Affiliation": "Department of Emergency Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Katherine H",
+                "Last Name": "Chau",
+                "Affiliation": "Division of Cardiology, Department of Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Justin J",
+                "Last Name": "Choi",
+                "Affiliation": "Department of Medicine, Weill Cornell Medicine, New York, NY."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Gavin",
+                "Affiliation": "Department of Emergency Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Parag",
+                "Last Name": "Goyal",
+                "Affiliation": "Department of Medicine, Weill Cornell Medicine, New York, NY."
+            },
+            {
+                "First Name": "Angela M",
+                "Last Name": "Mills",
+                "Affiliation": "Department of Emergency Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Ashmi A",
+                "Last Name": "Patel",
+                "Affiliation": "Division of General Medicine, Department of Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Marie-Laure S",
+                "Last Name": "Romney",
+                "Affiliation": "Department of Emergency Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Monika M",
+                "Last Name": "Safford",
+                "Affiliation": "Department of Medicine, Weill Cornell Medicine, New York, NY."
+            },
+            {
+                "First Name": "Neil W",
+                "Last Name": "Schluger",
+                "Affiliation": "Division of Pulmonary, Allergy and Critical Care Medicine, Department of Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Soumitra",
+                "Last Name": "Sengupta",
+                "Affiliation": "Department of Biomedical Informatics at Columbia University Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Magdalena E",
+                "Last Name": "Sobieszczyk",
+                "Affiliation": "Division of Infectious Diseases, Department of Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Jason E",
+                "Last Name": "Zucker",
+                "Affiliation": "Division of Infectious Diseases, Department of Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Paul A",
+                "Last Name": "Asadourian",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Fletcher M",
+                "Last Name": "Bell",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Rebekah",
+                "Last Name": "Boyd",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Matthew F",
+                "Last Name": "Cohen",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "MacAlistair I",
+                "Last Name": "Colquhoun",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Lucy A",
+                "Last Name": "Colville",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Joseph H",
+                "Last Name": "de Jonge",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Lyle B",
+                "Last Name": "Dershowitz",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Shirin A",
+                "Last Name": "Dey",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Katherine A",
+                "Last Name": "Eiseman",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Zachary P",
+                "Last Name": "Girvin",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Daniella T",
+                "Last Name": "Goni",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Amro A",
+                "Last Name": "Harb",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Herzik",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Householder",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Lara E",
+                "Last Name": "Karaaslan",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Heather",
+                "Last Name": "Lee",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Evan",
+                "Last Name": "Lieberman",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Ling",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Ree",
+                "Last Name": "Lu",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Arthur Y",
+                "Last Name": "Shou",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Alexander C",
+                "Last Name": "Sisti",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Zachary E",
+                "Last Name": "Snow",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Colin P",
+                "Last Name": "Sperring",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Yuqing",
+                "Last Name": "Xiong",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Henry W",
+                "Last Name": "Zhou",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics at Columbia University Medical Center, New York, NY."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics at Columbia University Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Ruijun",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Biomedical Informatics at Columbia University Medical Center, New York, NY."
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32471884",
+        "Title": "Characterization and clinical course of 1000 patients with coronavirus disease 2019 in New York: retrospective case series.",
+        "Abstract": "To characterize patients with coronavirus disease 2019 (covid-19) in a large New York City medical center and describe their clinical course across the emergency department, hospital wards, and intensive care units.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Academic Medical Centers",
+            "Acute Kidney Injury",
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Betacoronavirus",
+            "COVID-19",
+            "Comorbidity",
+            "Coronavirus Infections",
+            "Cough",
+            "Dyspnea",
+            "Emergency Service, Hospital",
+            "Female",
+            "Fever",
+            "Hospitalization",
+            "Humans",
+            "Intensive Care Units",
+            "Intubation",
+            "Length of Stay",
+            "Male",
+            "Middle Aged",
+            "New York City",
+            "Pandemics",
+            "Pneumonia, Viral",
+            "Respiration, Artificial",
+            "Retrospective Studies",
+            "SARS-CoV-2",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael G",
+                "Last Name": "Argenziano",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Samuel L",
+                "Last Name": "Bruce",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Cody L",
+                "Last Name": "Slater",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Jonathan R",
+                "Last Name": "Tiao",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Baldwin",
+                "Affiliation": "Division of Pulmonary, Allergy and Critical Care Medicine, Department of Medicine, New York-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "R Graham",
+                "Last Name": "Barr",
+                "Affiliation": "Division of General Medicine, Department of Medicine, New York-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Bernard P",
+                "Last Name": "Chang",
+                "Affiliation": "Department of Emergency Medicine, New York-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Katherine H",
+                "Last Name": "Chau",
+                "Affiliation": "Division of Cardiology, Department of Medicine, New York-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Justin J",
+                "Last Name": "Choi",
+                "Affiliation": "Department of Medicine, Weill Cornell Medicine, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Gavin",
+                "Affiliation": "Department of Emergency Medicine, New York-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Parag",
+                "Last Name": "Goyal",
+                "Affiliation": "Department of Medicine, Weill Cornell Medicine, New York, NY, USA."
+            },
+            {
+                "First Name": "Angela M",
+                "Last Name": "Mills",
+                "Affiliation": "Department of Emergency Medicine, New York-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Ashmi A",
+                "Last Name": "Patel",
+                "Affiliation": "Division of General Medicine, Department of Medicine, New York-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Marie-Laure S",
+                "Last Name": "Romney",
+                "Affiliation": "Department of Emergency Medicine, New York-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Monika M",
+                "Last Name": "Safford",
+                "Affiliation": "Department of Medicine, Weill Cornell Medicine, New York, NY, USA."
+            },
+            {
+                "First Name": "Neil W",
+                "Last Name": "Schluger",
+                "Affiliation": "Division of Pulmonary, Allergy and Critical Care Medicine, Department of Medicine, New York-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Soumitra",
+                "Last Name": "Sengupta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, 622 West 168th Street, PH-20, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Magdalena E",
+                "Last Name": "Sobieszczyk",
+                "Affiliation": "Division of Infectious Diseases, Department of Medicine, New York-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jason E",
+                "Last Name": "Zucker",
+                "Affiliation": "Division of Infectious Diseases, Department of Medicine, New York-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Paul A",
+                "Last Name": "Asadourian",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Fletcher M",
+                "Last Name": "Bell",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Rebekah",
+                "Last Name": "Boyd",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Matthew F",
+                "Last Name": "Cohen",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "MacAlistair I",
+                "Last Name": "Colquhoun",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Lucy A",
+                "Last Name": "Colville",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Joseph H",
+                "Last Name": "de Jonge",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Lyle B",
+                "Last Name": "Dershowitz",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Shirin A",
+                "Last Name": "Dey",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Katherine A",
+                "Last Name": "Eiseman",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Zachary P",
+                "Last Name": "Girvin",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Daniella T",
+                "Last Name": "Goni",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Amro A",
+                "Last Name": "Harb",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Herzik",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Householder",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Lara E",
+                "Last Name": "Karaaslan",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Heather",
+                "Last Name": "Lee",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Evan",
+                "Last Name": "Lieberman",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Ling",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Ree",
+                "Last Name": "Lu",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Arthur Y",
+                "Last Name": "Shou",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Alexander C",
+                "Last Name": "Sisti",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Zachary E",
+                "Last Name": "Snow",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Colin P",
+                "Last Name": "Sperring",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Yuqing",
+                "Last Name": "Xiong",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Henry W",
+                "Last Name": "Zhou",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, 622 West 168th Street, PH-20, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, 622 West 168th Street, PH-20, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Ruijun",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, 622 West 168th Street, PH-20, New York, NY 10032, USA ruijun.chen@columbia.edu."
+            }
+        ],
+        "Journal": "BMJ (Clinical research ed.)",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31694054",
+        "Title": "Neurological Dashboards and Consultation Turnaround Time at an Academic Medical Center.",
+        "Abstract": "Neurologists perform a significant amount of consultative work. Aggregative electronic health record (EHR) dashboards may help to reduce consultation turnaround time (TAT) which may reflect time spent interfacing with the EHR.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Academic Medical Centers",
+            "Documentation",
+            "Electronic Health Records",
+            "Humans",
+            "Neurology",
+            "Referral and Consultation",
+            "Retrospective Studies",
+            "Time Factors",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Benjamin R",
+                "Last Name": "Kummer",
+                "Affiliation": "Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, New York, United States."
+            },
+            {
+                "First Name": "Joshua Z",
+                "Last Name": "Willey",
+                "Affiliation": "Department of Neurology, Columbia University, New York, New York, United States."
+            },
+            {
+                "First Name": "Michael J",
+                "Last Name": "Zelenetz",
+                "Affiliation": "Department of Analytics, New York Presbyterian Hospital, New York, New York, United States."
+            },
+            {
+                "First Name": "Yiping",
+                "Last Name": "Hu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, United States."
+            },
+            {
+                "First Name": "Soumitra",
+                "Last Name": "Sengupta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, United States."
+            },
+            {
+                "First Name": "Mitchell S V",
+                "Last Name": "Elkind",
+                "Affiliation": "Department of Neurology, Columbia University, New York, New York, United States."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, United States."
+            }
+        ],
+        "Journal": "Applied clinical informatics",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31447099",
+        "Title": "Harmonizing Clinical Sequencing and Interpretation for the eMERGE III Network.",
+        "Abstract": "The advancement of precision medicine requires new methods to coordinate and deliver genetic data from heterogeneous sources to physicians and patients. The eMERGE III Network enrolled >25,000 participants from biobank and prospective cohorts of predominantly healthy individuals for clinical genetic testing to determine clinically actionable findings. The network developed protocols linking together the 11 participant collection sites and 2 clinical genetic testing laboratories. DNA capture panels targeting 109 genes were used for testing of DNA and sample collection, data generation, interpretation, reporting, delivery, and storage were each harmonized. A compliant and secure network enabled ongoing review and reconciliation of clinical interpretations, while maintaining communication and data sharing between clinicians and investigators. A total of 202 individuals had positive diagnostic findings relevant to the indication for testing and 1,294 had additional/secondary findings of medical significance deemed to be returnable, establishing data return rates for other testing endeavors. This study accomplished integration of structured genomic results into multiple electronic health record (EHR) systems, setting the stage for clinical decision support to enable genomic medicine. Further, the established processes enable different sequencing sites to harmonize technical and interpretive aspects of sequencing tests, a critical achievement toward global standardization of genomic testing. The eMERGE protocols and tools are available for widespread dissemination.",
+        "Keywords": [
+            "clinical sequencing",
+            "eMERGE",
+            "electronic health record",
+            "harmonization",
+            "next generation sequencing"
+        ],
+        "MeSH terms": [
+            "Genetic Testing",
+            "Humans",
+            "Precision Medicine",
+            "Prospective Studies",
+            "Sequence Analysis, DNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "American journal of human genetics",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "25617209",
+        "Title": "Nitro and dinitroamino N-oxides of octaazaanthracene as high energy materials.",
+        "Abstract": "The present study undertook the design of nitro and dinitroamino compounds from the skeleton of isomeric N-oxides of octaazanaphthalene, using computational methods to predict their degradation and explosive characteristics. The atom equivalent method was employed to evaluate the gas phase heats of formation of the designed species. Condensed phase heats of formation were also determined and found to be in the range of 220-286 kcal mol(-1). Crystal densities of all the designed molecules were calculated and found to be in the range of 1.91-1.98 g cm(-3). Detonation pressure (P) and detonation velocity (D) determined using the Kamlet-Jacobs equation showed that the performance of nitro-substituted compounds was comparable to that of RDX while that of dinitroamino compounds (P\u2009\u2248\u200943.4-43.7 GPa; D\u2009\u2248\u20099.6-9.7 km s(-1)) showed their superiority over HMX (P\u2009\u2248\u200939.3 GPa and D\u2009\u2248\u20099.10 km s(-1)). Impact sensitivity (h 50) of the designed molecules was compared with nitro- and nitramino-based commercial explosives on the basis of the available free space (\u2206V) per molecule in their crystal lattice estimated using wave function analysis. The study showed that dinitroamino compounds were more sensitive compared to their nitro analogs. Reactivity or chemical stability of the designed molecules were measured in terms of charge distribution, molecular electrostatic potential and frontier molecular orbital energy. The nitro compounds of N-oxides of octaazaanthracene were found to be more stable than their dinitroamino analogs.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Explosive Agents",
+            "Models, Chemical",
+            "Models, Molecular",
+            "Nitro Compounds",
+            "Oxides"
+        ],
+        "Authors": [
+            {
+                "First Name": "Manish Kumar",
+                "Last Name": "Upadhyay",
+                "Affiliation": "Department of Chemistry, DDU Gorakhpur University, Gorakhpur, Uttar Pradesh, India."
+            },
+            {
+                "First Name": "Soumitra Kumar",
+                "Last Name": "Sengupta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hari Ji",
+                "Last Name": "Singh",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of molecular modeling",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "24691532",
+        "Title": "Theoretical studies on benzo[1,2,4]triazine-based high-energy materials.",
+        "Abstract": "Density functional theory calculations of 13 aminonitro compounds based on the benzo[1,2,4]triazine fused-ring system were performed. The geometries of all 13 species were optimized at the B3LYP/6-31G(d) level of theory. In order to refine the energy values, single-point energy calculations of the species were made at the B3LYP/6-311++G(2df,2p) level. The gas-phase heats of formation of the species considered were calculated using the atom equivalent method. Condensed-phase heats of formation were calculated utilizing the heats of sublimation of the designed molecules, as evaluated during the present study. With the help of the WFA program, crystal densities of the designed compounds were predicted using the geometry of the molecule optimized at the B3PW91/6-31G(d,p) level. The stabilities and impact sensitivities of all of the compounds are discussed in the present paper in terms of the bond dissociation energy (BDE) of the trigger linkage (the longest C-NO\u2082 bond) and the available free space per molecule (\u2206V) in the unit cell of each compound. A nucleus-independent chemical shift (NICS) study was performed to assess the aromaticities of the designed molecules, and the NICS(1) values determined 1 \u00c5 above and below the plane of the ring were found to be -7.9 to -10.5, respectively, for the benzene ring and -10.7 to -11.4, respectively, for the triazine ring in the designed fused-ring molecules, showing that both rings retain their aromaticities when undergoing substitution by nitro groups. Detonation parameters of the species were calculated, and the results suggest that the designed compounds possess comparable values to those of the commercial explosives TNT and RDX. Furthermore, results suggest that the designed compounds may be less sensitive than many nitroaromatic and nitramine explosives. Thus, the results obtained during the present study imply that the designed compounds may be used as safe explosive materials, and could be potential alternatives to TNT and RDX.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Explosions",
+            "Explosive Agents",
+            "Models, Chemical",
+            "Models, Theoretical",
+            "Thermodynamics",
+            "Triazines"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hari Ji",
+                "Last Name": "Singh",
+                "Affiliation": "Department of Chemistry, DDU Gorakhpur University, Gorakhpur, 273004, India, hjschem50@gmail.com."
+            },
+            {
+                "First Name": "Manish Kumar",
+                "Last Name": "Upadhyay",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Soumitra Kumar",
+                "Last Name": "Sengupta",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of molecular modeling",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "19390093",
+        "Title": "A randomized trial comparing telemedicine case management with usual care in older, ethnically diverse, medically underserved patients with diabetes mellitus: 5 year results of the IDEATel study.",
+        "Abstract": "CONTEXT Telemedicine is a promising but largely unproven technology for providing case management services to patients with chronic conditions and lower access to care. OBJECTIVES To examine the effectiveness of a telemedicine intervention to achieve clinical management goals in older, ethnically diverse, medically underserved patients with diabetes. DESIGN, Setting, and Patients A randomized controlled trial was conducted, comparing telemedicine case management to usual care, with blinded outcome evaluation, in 1,665 Medicare recipients with diabetes, aged >/= 55 years, residing in federally designated medically underserved areas of New York State. Interventions Home telemedicine unit with nurse case management versus usual care. Main Outcome Measures The primary endpoints assessed over 5 years of follow-up were hemoglobin A1c (HgbA1c), low density lipoprotein (LDL) cholesterol, and blood pressure levels. RESULTS Intention-to-treat mixed models showed that telemedicine achieved net overall reductions over five years of follow-up in the primary endpoints (HgbA1c, p = 0.001; LDL, p < 0.001; systolic and diastolic blood pressure, p = 0.024; p < 0.001). Estimated differences (95% CI) in year 5 were 0.29 (0.12, 0.46)% for HgbA1c, 3.84 (-0.08, 7.77) mg/dL for LDL cholesterol, and 4.32 (1.93, 6.72) mm Hg for systolic and 2.64 (1.53, 3.74) mm Hg for diastolic blood pressure. There were 176 deaths in the intervention group and 169 in the usual care group (hazard ratio 1.01 [0.82, 1.24]). CONCLUSIONS Telemedicine case management resulted in net improvements in HgbA1c, LDL-cholesterol and blood pressure levels over 5 years in medically underserved Medicare beneficiaries. Mortality was not different between the groups, although power was limited. Trial Registration http://clinicaltrials.gov Identifier: NCT00271739.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aged",
+            "Blood Pressure",
+            "Case Management",
+            "Cholesterol, LDL",
+            "Diabetes Mellitus",
+            "Female",
+            "Follow-Up Studies",
+            "Glycated Hemoglobin",
+            "Humans",
+            "Male",
+            "Medically Underserved Area",
+            "Middle Aged",
+            "New York",
+            "Single-Blind Method",
+            "Telemedicine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Steven",
+                "Last Name": "Shea",
+                "Affiliation": "Division of General Medicine, New York, NY, USA. ss35@columbia.edu"
+            },
+            {
+                "First Name": "Ruth S",
+                "Last Name": "Weinstock",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jeanne A",
+                "Last Name": "Teresi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Walter",
+                "Last Name": "Palmas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Starren",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "Cimino",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Albert M",
+                "Last Name": "Lai",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lesley",
+                "Last Name": "Field",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Philip C",
+                "Last Name": "Morin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robin",
+                "Last Name": "Goland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roberto E",
+                "Last Name": "Izquierdo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Susana",
+                "Last Name": "Ebner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephanie",
+                "Last Name": "Silver",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eva",
+                "Last Name": "Petkova",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jian",
+                "Last Name": "Kong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph P",
+                "Last Name": "Eimicke",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "20351897",
+        "Title": "Using a pipeline to improve de-identification performance.",
+        "Abstract": "Effective de-identification methods are needed to support reuse of electronic health record data for research and other purposes. We investigated using two different text-processing systems in tandem as a strategy for de-identification of clinical notes. We ran 100 outpatient notes through deid.pl, from MIT's PhysioToolkit, followed by MedLEE, and we manually compared the output with original notes to determine the amount of protected health information (PHI) retained. Pipelining resulted in an overall error rate of 2%, with 2 personal names retained in output: one initial and a commonly used English term used in medicine. All retained PHI was transformed into standardized medical concepts, making re-identification less likely. Pipelining using deid.pl improved performance of MedLEE in excluding PHI from output and may be a useful strategy for de-identifying clinical data while providing computer-readable output.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Confidentiality",
+            "Electronic Health Records",
+            "Humans",
+            "Methods",
+            "Natural Language Processing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Frances P",
+                "Last Name": "Morrison",
+                "Affiliation": "Columbia University Department of Biomedical Informatics."
+            },
+            {
+                "First Name": "Soumitra",
+                "Last Name": "Sengupta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18694057",
+        "Title": "An informatics course on applied clinical information systems.",
+        "Abstract": "In the ongoing evaluation of our informatics curricula, feedback from alumni indicated a need for a more practically oriented course in clinical systems. This poster presents our experience developing and teaching such a course that seeks to provide students with the principles, concepts and skills needed to plan, implement, and maintain clinical systems.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Education, Graduate",
+            "Information Systems",
+            "Medical Informatics",
+            "New York City",
+            "Program Evaluation",
+            "Universities"
+        ],
+        "Authors": [
+            {
+                "First Name": "Bruce",
+                "Last Name": "Forman",
+                "Affiliation": "Department of Biomedical Informatics,Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Soumitra",
+                "Last Name": "Sengupta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Virginia",
+                "Last Name": "Lorenzi",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "18579843",
+        "Title": "A model for expanded public health reporting in the context of HIPAA.",
+        "Abstract": "The advent of electronic medical records and health information exchange raise the possibility of expanding public health reporting to detect a broad range of clinical conditions and of monitoring the health of the public on a broad scale. Expanding public health reporting may require patient anonymity, matching records, re-identifying cases, and recording patient characteristics for localization. The privacy regulations under the Health Insurance Portability and Accountability Act of 1996 (HIPAA) provide several mechanisms for public health surveillance, including using laws and regulations, public health activities, de-identification, research waivers, and limited data sets, and in addition, surveillance may be distributed with aggregate reporting. The appropriateness of these approaches varies with the definition of what data may be included, the requirements of the minimum necessary standard, the accounting of disclosures, and the feasibility of the approach.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Confidentiality",
+            "Disclosure",
+            "Disease Notification",
+            "Health Insurance Portability and Accountability Act",
+            "Humans",
+            "Information Systems",
+            "Medical Record Linkage",
+            "Models, Organizational",
+            "Population Surveillance",
+            "United States"
+        ],
+        "Authors": [
+            {
+                "First Name": "Soumitra",
+                "Last Name": "Sengupta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Neil S",
+                "Last Name": "Calman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18368146",
+        "Title": "Synthesis, spectroscopic, and antimicrobial studies of binuclear metallocene (M = Ti, Zr, or Hf) derivatives of bis(mercaptoazoles).",
+        "Abstract": "The reactions of (eta(5) - C(5)H(5))(2)MCl(2) (M = Ti, Zr, or Hf) with mercaptoazoles (LH(2)), namely, bis(mercaptotriazoles), bis(mercap- tooxadiazoles), and bis(mercaptothiadiazoles) in 2 : 1 molar ratio, respectively, have been studied in dry tetrahydrofuran in the presence of n-butylamine and the binuclear complexes of the type [{(eta - C(5)H(5))(2) M}(2)(L)] (M = Ti/Zr/Hf) are obtained. Tentative structural conclusions are drawn for the reaction products based upon elemental analysis, electrical conductance, magnetic moment, and spectral data (UV-Vis, IR, (1)H NMR, and (13)C NMR). FAB-mass spectra of few complexes of each series were also carried out to confirm the binuclear structures. Studies were conducted to assess the growth-inhibiting potential of the complexes synthesized, and the ligands against various fungal and bacterial strains.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Shilpi",
+                "Last Name": "Sinha",
+                "Affiliation": "Department of Chemistry, DDU Gorakhpur University, Gorakhpur 273009, India."
+            },
+            {
+                "First Name": "Akhilesh Kumar",
+                "Last Name": "Srivastava",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chandra Mohan",
+                "Last Name": "Tripathi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Om Prakash",
+                "Last Name": "Pandey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Soumitra Kumar",
+                "Last Name": "Sengupta",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinorganic chemistry and applications",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "18007335",
+        "Title": "Reactions of Cp2MCl2 (M=Ti or Zr) with imine-oxime ligands. Formation of metallacycles.",
+        "Abstract": "The reactions of bis(cyclopentadienyl)titanium(IV)/zirconium(IV) dichloride with a series of imine-oxime ligands (LH2), derived by condensing benzil-alpha-monoxime and 2-phenylenediamine, 4-phenylenediamine, 4-methyl-2-phenylenediamine, 2,6-diamino-pyridine, have been studied in anhydrous tetrahydrofuran in the presence of base and metallocycles of the [Cp2M(L)] (M=Ti or Zr) type have been isolated. Tentative structures have been proposed for the products based on elemental analysis, electrical conductance and spectral (electronic, IR and (1)H-NMR) data. Proton NMR spectra indicate that on the NMR time scale there is rapid rotation of the cyclopentadienyl ring around the metal-ring axis at 25 degrees C. Studies were conducted to assess the growth inhibiting potential of the complexes synthesized and the ligands against various bacterial strains.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Anti-Bacterial Agents",
+            "Cyclization",
+            "Imines",
+            "Ligands",
+            "Molecular Structure",
+            "Organometallic Compounds",
+            "Oximes",
+            "Spectrum Analysis",
+            "Titanium",
+            "Zirconium"
+        ],
+        "Authors": [
+            {
+                "First Name": "Om Prakash",
+                "Last Name": "Pandey",
+                "Affiliation": "Chemistry Department, D.D.U. Gorakhpur University, Gorakhpur - 273009, India. sengupta2002@yahoo.co.in"
+            },
+            {
+                "First Name": "Soumitra Kumar",
+                "Last Name": "Sengupta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chandra Mohan",
+                "Last Name": "Tripathi",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecules (Basel, Switzerland)",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "17213496",
+        "Title": "Emergency department access to a longitudinal medical record.",
+        "Abstract": "Our goal is to assess how clinical information from previous visits is used in the emergency department. We used detailed user audit logs to measure access to different data types. We found that clinician-authored notes and laboratory and radiology data were used most often (common data types were used up to 5% to 20% of the time). Data were accessed less than half the time (up to 20% to 50%) even when the user was alerted to the presence of data. Our access rate indicates that health information exchange projects should be conservative in estimating how often shared data will be used and the wide breadth of data accessed indicates that although a clinical summary is likely to be useful, an ideal solution will supply a broad variety of data.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Emergency Service, Hospital",
+            "Hospital Information Systems",
+            "Humans",
+            "Medical Audit",
+            "Medical Records",
+            "Medical Records Systems, Computerized",
+            "Practice Patterns, Physicians'"
+        ],
+        "Authors": [
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA. hripcsak@columbia.edu"
+            },
+            {
+                "First Name": "Soumitra",
+                "Last Name": "Sengupta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adam",
+                "Last Name": "Wilcox",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert A",
+                "Last Name": "Green",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "16330242",
+        "Title": "Lanthanum(III) and praseodymium(III) derivatives with dithiocarbamates derived from alpha-amino acids.",
+        "Abstract": "Lanthanum(III) and praseodymium(III) complexes with dithiocarbamates have been synthesized by the reactions of lanthanum(III) and praseodymium(III) chloride with barium dithiocarbamate and complexes of type [LnCl(L)H2O]n have been obtained (where Ln=La(III) or Pr(III); L=barium salt of dithiocarbamate derived from glycine, L-leucine, L-valine, DL-alanine). The complexes have been characterized by elemental analysis, molar conductance, electronic absorption and fluorescence, infrared, far infrared, 1H NMR spectral studies. The presence of coordinated water molecule is inferred from thermogravimetric analysis which indicates the loss of one water molecule at 150-170 degrees C. The oscillator strength, Judd-Ofelt intensity parameter, stimulated emission cross-section, etc. have been obtained for different transitions of Pr3+.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acids",
+            "Lanthanum",
+            "Praseodymium",
+            "Spectrometry, Fluorescence",
+            "Thiocarbamates"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anita",
+                "Last Name": "Rai",
+                "Affiliation": "Department of Chemistry, Jagatpur P.G. College, Varanasi 221005, India. sbrai49@yahoo.co.in"
+            },
+            {
+                "First Name": "Soumitra K",
+                "Last Name": "Sengupta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Om P",
+                "Last Name": "Pandey",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16043075",
+        "Title": "Lanthanum(III) and praseodymium(III) complexes with isatin thiosemicarbazones.",
+        "Abstract": "Ten new lanthanum(III) and praseodymium(III) complexes of the general formula Na[La(L)2H2O] (Ln=La(III) or Pr(III); LH2=thiosemicarbazones) derived from the condensation of isatin with 4-phenyl thiosemicarbazide, 4-(4-chlorophenyl) thiosemicarbazide, 4-(2-nitrophenyl) thiosemicarbazide, 4-(2-bromophenyl) thiosemicarbazide and 4-(2-methylphenyl) thiosemicarbazide, have been synthesized in methanol in presence of sodium hydroxide. The XRD spectra of the complexes were monitored to verify complex formation. The complexes have also been characterized by elemental analysis, molar conductance, electronic absorption and fluorescence, infrared, far infrared, 1H and 13C NMR spectral studies. Thermal studies of these complexes have been carried out in the temperature range 25-800 degrees C using TG, DTG and DTA techniques. All these complexes decompose gradually with the formation of Ln2O3 as the end product. The Judd-ofelt intensity parameter, oscillator strength, transition probability, stimulated emission cross section for different transitions of Pr3+ for 4-phenyl thiosemicarbazones have been calculated.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Electrons",
+            "Isatin",
+            "Lanthanum",
+            "Magnetics",
+            "Molecular Structure",
+            "Praseodymium",
+            "Sodium Hydroxide",
+            "Spectrum Analysis",
+            "Temperature",
+            "Thiosemicarbazones"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anita",
+                "Last Name": "Rai",
+                "Affiliation": "Department of Chemistry, Jagatpur P.G. College, Varanasi, India. sbrai49@yahoo.co.in"
+            },
+            {
+                "First Name": "Soumitra K",
+                "Last Name": "Sengupta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Om P",
+                "Last Name": "Pandey",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "14728314",
+        "Title": "Automated identification of shortcuts to patient data for a wireless handheld clinical information system.",
+        "Abstract": "Inadequate access to patient information at the point of care has been identified as an impediment to the health care process. To create clinical computing tools that are useful to and used by clinicians, developers of clinical information systems must have accurate models of the users for whom their systems are intended. To create these models, the information needs of clinicians must be understood. While the wireless handheld environment offers many advantages such as the ability to provide mobile access to information, there are a number of challenges. Developing for this environment differs from the laptop and desktop environments due to features such as processing power, screen size, input mechanism, and bandwidth. PalmCIS (Palm-based Clinical Information System) is a clinical application being developed at New York Presbyterian Hospital (NYPH) that provides clinicians with access to patient data via a wireless handheld device. We are using an automated technique to uncover patient-specific information needs of clinicians while using a patient record system. With the results, we can enhance PalmCIS.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Computers, Handheld",
+            "Hospital Information Systems",
+            "Humans",
+            "Internet",
+            "Medical Records Systems, Computerized"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elizabeth S",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vimla L",
+                "Last Name": "Patel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Soumitra",
+                "Last Name": "Sengupta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard J",
+                "Last Name": "Gallagher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "Cimino",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12225074",
+        "Title": "Does a randall-sundrum scenario create the illusion of a torsion-free universe?",
+        "Abstract": "We consider spacetime with torsion in a Randall-Sundrum scenario where torsion, identified with the rank-2 Kalb-Ramond field, exists in the bulk together with gravity. While the interactions of both graviton and torsion in the bulk are controlled by the Planck mass, an additional exponential suppression comes for the torsion zero-mode on the visible brane. This may serve as a natural explanation of why the effect of torsion is so much weaker than that of curvature on the brane. The massive torsion modes, on the other hand, are correlated with the corresponding gravitonic modes and may be detectable in TeV-scale experiments.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Biswarup",
+                "Last Name": "Mukhopadhyaya",
+                "Affiliation": "Harish-Chandra Research Institute, Chhatnag Road, Jhusi, Allahabad 211 019, India."
+            },
+            {
+                "First Name": "Somasri",
+                "Last Name": "Sen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Soumitra",
+                "Last Name": "SenGupta",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Physical review letters",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "11751801",
+        "Title": "Columbia University's Informatics for Diabetes Education and Telemedicine (IDEATel) project: technical implementation.",
+        "Abstract": "The Columbia University Informatics for Diabetes Education and Telemedicine IDEATel) project is a four-year demonstration project funded by the Centers for Medicare and Medicaid Services with the overall goal of evaluating the feasibility, acceptability, effectiveness, and cost-effectiveness of telemedicine. The focal point of the intervention is the home telemedicine unit (HTU), which provides four functions: synchronous videoconferencing over standard telephone lines, electronic transmission for fingerstick glucose and blood pressure readings, secure Web-based messaging and clinical data review, and access to Web-based educational materials. The HTU must be usable by elderly patients with no prior computer experience. Providing these functions through the HTU requires tight integration of six components: the HTU itself, case management software, a clinical information system, Web-based educational material, data security, and networking and telecommunications. These six components were integrated through a variety of interfaces, providing a system that works well for patients and providers. With more than 400 HTUs installed, IDEATel has demonstrated the feasibility of large-scale home telemedicine.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Case Management",
+            "Computer Security",
+            "Computer Systems",
+            "Decision Making, Computer-Assisted",
+            "Diabetes Mellitus",
+            "Hospital Information Systems",
+            "Humans",
+            "Internet",
+            "New York City",
+            "Patient Education as Topic",
+            "Software",
+            "Telecommunications",
+            "Telemedicine",
+            "Universities"
+        ],
+        "Authors": [
+            {
+                "First Name": "Justin",
+                "Last Name": "Starren",
+                "Affiliation": "Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Soumitra",
+                "Last Name": "Sengupta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "C R",
+                "Last Name": "Abbruscato",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paul E",
+                "Last Name": "Knudson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ruth S",
+                "Last Name": "Weinstock",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steven",
+                "Last Name": "Shea",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2002"
+    }
+]

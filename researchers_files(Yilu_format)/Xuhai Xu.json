@@ -1,0 +1,470 @@
+[
+    {
+        "PMID": "38835626",
+        "Title": "Rethinking Human-AI Collaboration in Complex Medical Decision Making: A Case Study in Sepsis Diagnosis.",
+        "Abstract": "Today's AI systems for medical decision support often succeed on benchmark datasets in research papers but fail in real-world deployment. This work focuses on the decision making of sepsis, an acute life-threatening systematic infection that requires an early diagnosis with high uncertainty from the clinician. Our aim is to explore the design requirements for AI systems that can support clinical experts in making better decisions for the early diagnosis of sepsis. The study begins with a formative study investigating why clinical experts abandon an existing AI-powered Sepsis predictive module in their electrical health record (EHR) system. We argue that a human-centered AI system needs to support human experts in the intermediate stages of a medical decision-making process (e.g., generating hypotheses or gathering data), instead of focusing only on the final decision. Therefore, we build SepsisLab based on a state-of-the-art AI algorithm and extend it to predict the future projection of sepsis development, visualize the prediction uncertainty, and propose actionable suggestions (i.e., which additional laboratory tests can be collected) to reduce such uncertainty. Through heuristic evaluation with six clinicians using our prototype system, we demonstrate that SepsisLab enables a promising human-AI collaboration paradigm for the future of AI-assisted sepsis diagnosis and other high-stakes medical decision making.",
+        "Keywords": [
+            "Human-AI collaboration",
+            "Medical decision making",
+            "Sepsis diagnosis"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Shao",
+                "Last Name": "Zhang",
+                "Affiliation": "Northeastern University, Boston, Massachusetts, United States."
+            },
+            {
+                "First Name": "Jianing",
+                "Last Name": "Yu",
+                "Affiliation": "Northeastern University, Boston, Massachusetts, United States."
+            },
+            {
+                "First Name": "Xuhai",
+                "Last Name": "Xu",
+                "Affiliation": "Massachusetts Institute of Technology, Cambridge, Massachusetts, United States."
+            },
+            {
+                "First Name": "Changchang",
+                "Last Name": "Yin",
+                "Affiliation": "The Ohio State University, Columbus, Ohio, United States."
+            },
+            {
+                "First Name": "Yuxuan",
+                "Last Name": "Lu",
+                "Affiliation": "Northeastern University, Boston, Massachusetts, United States."
+            },
+            {
+                "First Name": "Bingsheng",
+                "Last Name": "Yao",
+                "Affiliation": "Rensselaer Polytechnic Institute, Troy, New York, United States."
+            },
+            {
+                "First Name": "Melanie",
+                "Last Name": "Tory",
+                "Affiliation": "Northeastern University, Portland, Maine, United States."
+            },
+            {
+                "First Name": "Lace M",
+                "Last Name": "Padilla",
+                "Affiliation": "Northeastern University, Boston, Massachusetts, United States."
+            },
+            {
+                "First Name": "Jeffrey",
+                "Last Name": "Caterino",
+                "Affiliation": "The Ohio State University Wexner Medical Center, Columbus, Ohio, United States."
+            },
+            {
+                "First Name": "Ping",
+                "Last Name": "Zhang",
+                "Affiliation": "The Ohio State University, Columbus, Ohio, United States."
+            },
+            {
+                "First Name": "Dakuo",
+                "Last Name": "Wang",
+                "Affiliation": "Northeastern University, Boston, Massachusetts, United States."
+            }
+        ],
+        "Journal": "Proceedings of the SIGCHI conference on human factors in computing systems. CHI Conference",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37027740",
+        "Title": "ConeSpeech: Exploring Directional Speech Interaction for Multi-Person Remote Communication in Virtual Reality.",
+        "Abstract": "Remote communication is essential for efficient collaboration among people at different locations. We present ConeSpeech, a virtual reality (VR) based multi-user remote communication technique, which enables users to selectively speak to target listeners without distracting bystanders. With ConeSpeech, the user looks at the target listener and only in a cone-shaped area in the direction can the listeners hear the speech. This manner alleviates the disturbance to and avoids overhearing from surrounding irrelevant people. Three featured functions are supported, directional speech delivery, size-adjustable delivery range, and multiple delivery areas, to facilitate speaking to more than one listener and to listeners spatially mixed up with bystanders. We conducted a user study to determine the modality to control the cone-shaped delivery area. Then we implemented the technique and evaluated its performance in three typical multi-user communication tasks by comparing it to two baseline methods. Results show that ConeSpeech balanced the convenience and flexibility of voice communication.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Yukang",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Haohua",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yingtian",
+                "Last Name": "Shi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jingying",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ruici",
+                "Last Name": "Guo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zisu",
+                "Last Name": "Li",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xuhai",
+                "Last Name": "Xu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chun",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuntao",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuanchun",
+                "Last Name": "Shi",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "IEEE transactions on visualization and computer graphics",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36780521",
+        "Title": "Nightly sleep duration predicts grade point average in the first year of college.",
+        "Abstract": "Academic achievement in the first year of college is critical for setting students on a pathway toward long-term academic and life success, yet little is known about the factors that shape early college academic achievement. Given the important role sleep plays in learning and memory, here we extend this work to evaluate whether nightly sleep duration predicts change in end-of-semester grade point average (GPA). First-year college students from three independent universities provided sleep actigraphy for a month early in their winter/spring academic term across five studies. Findings showed that greater early-term total nightly sleep duration predicted higher end-of-term GPA, an effect that persisted even after controlling for previous-term GPA and daytime sleep. Specifically, every additional hour of average nightly sleep duration early in the semester was associated with an 0.07 increase in end-of-term GPA. Sensitivity analyses using sleep thresholds also indicated that sleeping less than 6\u00a0h each night was a period where sleep shifted from helpful to harmful for end-of-term GPA, relative to previous-term GPA. Notably, predictive relationships with GPA were specific to total nightly sleep duration, and not other markers of sleep, such as the midpoint of a student's nightly sleep window or bedtime timing variability. These findings across five studies establish nightly sleep duration as an important factor in academic success and highlight the potential value of testing early academic term total sleep time interventions during the formative first year of college.",
+        "Keywords": [
+            "achievement",
+            "college",
+            "grade point average",
+            "sleep"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Universities",
+            "Sleep Duration",
+            "Sleep",
+            "Students",
+            "Educational Status"
+        ],
+        "Authors": [
+            {
+                "First Name": "J David",
+                "Last Name": "Creswell",
+                "Affiliation": "Department of Psychology, Carnegie Mellon University, Pittsburgh, PA 15213."
+            },
+            {
+                "First Name": "Michael J",
+                "Last Name": "Tumminia",
+                "Affiliation": "School of Education, University of Pittsburgh, Pittsburgh, PA 15260."
+            },
+            {
+                "First Name": "Stephen",
+                "Last Name": "Price",
+                "Affiliation": "Department of Psychology, Carnegie Mellon University, Pittsburgh, PA 15213."
+            },
+            {
+                "First Name": "Yasaman",
+                "Last Name": "Sefidgar",
+                "Affiliation": "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195."
+            },
+            {
+                "First Name": "Sheldon",
+                "Last Name": "Cohen",
+                "Affiliation": "Department of Psychology, Carnegie Mellon University, Pittsburgh, PA 15213."
+            },
+            {
+                "First Name": "Yiyi",
+                "Last Name": "Ren",
+                "Affiliation": "The Information School, University of Washington, Seattle, WA 98105."
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Brown",
+                "Affiliation": "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195."
+            },
+            {
+                "First Name": "Anind K",
+                "Last Name": "Dey",
+                "Affiliation": "The Information School, University of Washington, Seattle, WA 98105."
+            },
+            {
+                "First Name": "Janine M",
+                "Last Name": "Dutcher",
+                "Affiliation": "Department of Psychology, Carnegie Mellon University, Pittsburgh, PA 15213."
+            },
+            {
+                "First Name": "Daniella",
+                "Last Name": "Villalba",
+                "Affiliation": "Department of Psychology, Carnegie Mellon University, Pittsburgh, PA 15213."
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Mankoff",
+                "Affiliation": "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195."
+            },
+            {
+                "First Name": "Xuhai",
+                "Last Name": "Xu",
+                "Affiliation": "The Information School, University of Washington, Seattle, WA 98105."
+            },
+            {
+                "First Name": "Kasey",
+                "Last Name": "Creswell",
+                "Affiliation": "Department of Psychology, Carnegie Mellon University, Pittsburgh, PA 15213."
+            },
+            {
+                "First Name": "Afsaneh",
+                "Last Name": "Doryab",
+                "Affiliation": "School of Engineering and Applied Science, University of Virginia, Charlottesville, VA 22904."
+            },
+            {
+                "First Name": "Stephen",
+                "Last Name": "Mattingly",
+                "Affiliation": "Department of Computer Science and Engineering, University of Notre Dame, Notre Dame, IN 46556."
+            },
+            {
+                "First Name": "Aaron",
+                "Last Name": "Striegel",
+                "Affiliation": "Department of Computer Science and Engineering, University of Notre Dame, Notre Dame, IN 46556."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Hachen",
+                "Affiliation": "Department of Sociology, University of Notre Dame, Notre Dame, IN 46556."
+            },
+            {
+                "First Name": "Gonzalo",
+                "Last Name": "Martinez",
+                "Affiliation": "Department of Computer Science and Engineering, University of Notre Dame, Notre Dame, IN 46556."
+            },
+            {
+                "First Name": "Marsha C",
+                "Last Name": "Lovett",
+                "Affiliation": "Department of Psychology, Carnegie Mellon University, Pittsburgh, PA 15213."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36085850",
+        "Title": "Detecting Physiological Responses Using Multimodal Earbud Sensors.",
+        "Abstract": "Continuous stress exposure negatively impacts mental and physical well-being. Physiological arousal due to stress affects heartbeat frequency, changes breathing pattern and peripheral temperature, among several other bodily responses. Traditionally stress detection is performed by collecting signals such as electrocardiogram (ECG), respiration, and skin conductance response using uncomfortable sensors such as a chestband. In this study, we use earbuds that passively measure photoplethysmography (PPG), core body temperature, and inertial measurements. We have conducted a lab study exposing 18 participants to an evaluated speech task and additional tasks aimed at increasing stress or promoting relaxation. We simultaneously collected PPG, ECG, impedance cardiography (ICG), and blood pressure using laboratory grade equipment as reference measurements. We show that the earbud PPG sensor can reliably capture heart rate and heart rate variability. We further show that earbud signals can be used to classify the physiological responses associated with stress with 91.30% recall, 80.52% precision, and 85.12% F1-score using a random forest classifier with leave-one-subject-out cross-validation. The accuracy can further be improved through multi-modal sensing. These findings demonstrate the feasibility of using earbuds for passively monitoring users' physiological responses.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Blood Pressure",
+            "Cardiography, Impedance",
+            "Electrocardiography",
+            "Heart Rate",
+            "Humans",
+            "Photoplethysmography"
+        ],
+        "Authors": [
+            {
+                "First Name": "Md Mahbubur",
+                "Last Name": "Rahman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xuhai",
+                "Last Name": "Xu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Viswam",
+                "Last Name": "Nathan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tousif",
+                "Last Name": "Ahmed",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mohsin Yusuf",
+                "Last Name": "Ahmed",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dan",
+                "Last Name": "McCaffrey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jilong",
+                "Last Name": "Kuang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Trevor",
+                "Last Name": "Cowell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Moore",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wendy Berry",
+                "Last Name": "Mendes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jun Alex",
+                "Last Name": "Gao",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35569734",
+        "Title": "HearCough: Enabling continuous cough event detection on edge computing hearables.",
+        "Abstract": "Cough event detection is the foundation of any measurement associated with cough, one of the primary symptoms of pulmonary illnesses. This paper proposes HearCough, which enables continuous cough event detection on edge computing hearables, by leveraging always-on active noise cancellation (ANC) microphones in commodity hearables. Specifically, we proposed a lightweight end-to-end neural network model - Tiny-COUNET and its transfer learning based traning method. When evaluated on our acted cough event dataset, Tiny-COUNET achieved equivalent detection performance but required significantly less computational resources and storage space than cutting-edge cough event detection methods. Then we implemented HearCough by quantifying and deploying the pre-trained Tiny-COUNET to a popular micro-controller in consumer hearables. Lastly, we evaluated that HearCough is effective and reliable for continuous cough event detection through a field study with 8 patients. HearCough achieved 2\u00a0Hz cough event detection with an accuracy of 90.0% and an F1-score of 89.5% by consuming an additional 5.2 mW power. We envision HearCough as a low-cost add-on for future hearables to enable continuous cough detection and pulmonary health monitoring.",
+        "Keywords": [
+            "Active noise cancellation hearables",
+            "Continuous cough monitoring",
+            "Deep learning",
+            "Edge computing",
+            "Health monitoring",
+            "On-chip Machine Learning"
+        ],
+        "MeSH terms": [
+            "Cough",
+            "Humans",
+            "Neural Networks, Computer"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuntao",
+                "Last Name": "Wang",
+                "Affiliation": "Key Laboratory of Pervasive Computing, Ministry of Education, Department of Computer Science and Technology, Tsinghua University, Beijing, China. Electronic address: yuntaowang@tsinghua.edu.cn."
+            },
+            {
+                "First Name": "Xiyuxing",
+                "Last Name": "Zhang",
+                "Affiliation": "Key Laboratory of Pervasive Computing, Ministry of Education, Department of Computer Science and Technology, Tsinghua University, Beijing, China."
+            },
+            {
+                "First Name": "Jay M",
+                "Last Name": "Chakalasiya",
+                "Affiliation": "Global Innovation Exchange, Tsinghua Univetsity, Beijing, China."
+            },
+            {
+                "First Name": "Xuhai",
+                "Last Name": "Xu",
+                "Affiliation": "University of Washington, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Yu",
+                "Last Name": "Jiang",
+                "Affiliation": "Key Laboratory of Pervasive Computing, Ministry of Education, Department of Computer Science and Technology, Tsinghua University, Beijing, China."
+            },
+            {
+                "First Name": "Yuang",
+                "Last Name": "Li",
+                "Affiliation": "Beijing University of Posts and Telecommunications, Beijing, China."
+            },
+            {
+                "First Name": "Shwetak",
+                "Last Name": "Patel",
+                "Affiliation": "University of Washington, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Yuanchun",
+                "Last Name": "Shi",
+                "Affiliation": "Key Laboratory of Pervasive Computing, Ministry of Education, Department of Computer Science and Technology, Tsinghua University, Beijing, China. Electronic address: shiyc@tsinghua.edu.cn."
+            }
+        ],
+        "Journal": "Methods (San Diego, Calif.)",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34181650",
+        "Title": "College from home during COVID-19: A mixed-methods study of heterogeneous experiences.",
+        "Abstract": "This mixed-method study examined the experiences of college students during the COVID-19 pandemic through surveys, experience sampling data collected over two academic quarters (Spring 2019 n1 = 253; Spring 2020 n2 = 147), and semi-structured interviews with 27 undergraduate students. There were no marked changes in mean levels of depressive symptoms, anxiety, stress, or loneliness between 2019 and 2020, or over the course of the Spring 2020 term. Students in both the 2019 and 2020 cohort who indicated psychosocial vulnerability at the initial assessment showed worse psychosocial functioning throughout the entire Spring term relative to other students. However, rates of distress increased faster in 2020 than in 2019 for these individuals. Across individuals, homogeneity of variance tests and multi-level models revealed significant heterogeneity, suggesting the need to examine not just means but the variations in individuals' experiences. Thematic analysis of interviews characterizes these varied experiences, describing the contexts for students' challenges and strategies. This analysis highlights the interweaving of psychosocial and academic distress: Challenges such as isolation from peers, lack of interactivity with instructors, and difficulty adjusting to family needs had both an emotional and academic toll. Strategies for adjusting to this new context included initiating remote study and hangout sessions with peers, as well as self-learning. In these and other strategies, students used technologies in different ways and for different purposes than they had previously. Supporting qualitative insight about adaptive responses were quantitative findings that students who used more problem-focused forms of coping reported fewer mental health symptoms over the course of the pandemic, even though they perceived their stress as more severe. These findings underline the need for interventions oriented towards problem-focused coping and suggest opportunities for peer role modeling.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Anxiety",
+            "COVID-19",
+            "Cohort Studies",
+            "Depression",
+            "Education, Distance",
+            "Female",
+            "Housing",
+            "Humans",
+            "Loneliness",
+            "Male",
+            "Psychological Distress",
+            "Students",
+            "Surveys and Questionnaires",
+            "Universities",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Margaret E",
+                "Last Name": "Morris",
+                "Affiliation": "Information School, University of Washington, Seattle, Washington, United States of America."
+            },
+            {
+                "First Name": "Kevin S",
+                "Last Name": "Kuehn",
+                "Affiliation": "Department of Psychology, University of Washington, Seattle, Washington, United States of America."
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Brown",
+                "Affiliation": "School of Public Health, University of Washington, Seattle, Washington, United States of America."
+            },
+            {
+                "First Name": "Paula S",
+                "Last Name": "Nurius",
+                "Affiliation": "School of Social Work, University of Washington, Seattle, Washington, United States of America."
+            },
+            {
+                "First Name": "Han",
+                "Last Name": "Zhang",
+                "Affiliation": "Computer Science & Engineering, University of Washington, Seattle, Washington, United States of America."
+            },
+            {
+                "First Name": "Yasaman S",
+                "Last Name": "Sefidgar",
+                "Affiliation": "Computer Science & Engineering, University of Washington, Seattle, Washington, United States of America."
+            },
+            {
+                "First Name": "Xuhai",
+                "Last Name": "Xu",
+                "Affiliation": "Information School, University of Washington, Seattle, Washington, United States of America."
+            },
+            {
+                "First Name": "Eve A",
+                "Last Name": "Riskin",
+                "Affiliation": "Department of Electrical & Computer Engineering, University of Washington, Seattle, Washington, United States of America."
+            },
+            {
+                "First Name": "Anind K",
+                "Last Name": "Dey",
+                "Affiliation": "Information School, University of Washington, Seattle, Washington, United States of America."
+            },
+            {
+                "First Name": "Sunny",
+                "Last Name": "Consolvo",
+                "Affiliation": "Google, Mountain View, California, United States of America."
+            },
+            {
+                "First Name": "Jennifer C",
+                "Last Name": "Mankoff",
+                "Affiliation": "Computer Science & Engineering, University of Washington, Seattle, Washington, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2021"
+    }
+]
