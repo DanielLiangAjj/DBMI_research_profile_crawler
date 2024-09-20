@@ -1,0 +1,2968 @@
+[
+    {
+        "PMID": "37872145",
+        "Title": "A non-canonical striatopallidal Go pathway that supports motor control.",
+        "Abstract": "In the classical model of the basal ganglia, direct pathway striatal projection neurons (dSPNs) send projections to the substantia nigra (SNr) and entopeduncular nucleus to regulate motor function. Recent studies have re-established that dSPNs also possess axon collaterals within the globus pallidus (GPe) (bridging collaterals), yet the significance of these collaterals for behavior is unknown. Here we use in vivo optical and chemogenetic tools combined with deep learning approaches in mice to dissect the roles of dSPN GPe collaterals in motor function. We find that dSPNs projecting to the SNr send synchronous motor-related information to the GPe via axon collaterals. Inhibition of native activity in dSPN GPe terminals impairs motor activity and function via regulation of Npas1 neurons. We propose a model by which dSPN GPe axon collaterals (striatopallidal Go pathway) act in concert with the canonical terminals in the SNr to support motor control by inhibiting Npas1 neurons.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Mice",
+            "Animals",
+            "Neurons",
+            "Axons",
+            "Globus Pallidus",
+            "Corpus Striatum",
+            "Basal Ganglia",
+            "Nerve Tissue Proteins",
+            "Basic Helix-Loop-Helix Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Marie A",
+                "Last Name": "Labouesse",
+                "Affiliation": "Department of Psychiatry, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY, 10032, USA. marie.labouesse@hest.ethz.ch."
+            },
+            {
+                "First Name": "Arturo",
+                "Last Name": "Torres-Herraez",
+                "Affiliation": "Department of Psychiatry, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Muhammad O",
+                "Last Name": "Chohan",
+                "Affiliation": "Department of Psychiatry, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Joseph M",
+                "Last Name": "Villarin",
+                "Affiliation": "Department of Psychiatry, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Greenwald",
+                "Affiliation": "Department of Psychiatry, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Xiaoxiao",
+                "Last Name": "Sun",
+                "Affiliation": "Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Mysarah",
+                "Last Name": "Zahran",
+                "Affiliation": "Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Alice",
+                "Last Name": "Tang",
+                "Affiliation": "Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Sherry",
+                "Last Name": "Lam",
+                "Affiliation": "Biobehavioral Imaging and Molecular Neuropsychopharmacology Unit, National Institute on Drug Abuse Intramural Research Program, Baltimore, MD, 21224, USA."
+            },
+            {
+                "First Name": "Jeremy",
+                "Last Name": "Veenstra-VanderWeele",
+                "Affiliation": "Department of Psychiatry, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Clay O",
+                "Last Name": "Lacefield",
+                "Affiliation": "Department of Psychiatry, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Jordi",
+                "Last Name": "Bonaventura",
+                "Affiliation": "Biobehavioral Imaging and Molecular Neuropsychopharmacology Unit, National Institute on Drug Abuse Intramural Research Program, Baltimore, MD, 21224, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Michaelides",
+                "Affiliation": "Biobehavioral Imaging and Molecular Neuropsychopharmacology Unit, National Institute on Drug Abuse Intramural Research Program, Baltimore, MD, 21224, USA."
+            },
+            {
+                "First Name": "C Savio",
+                "Last Name": "Chan",
+                "Affiliation": "Department of Neuroscience, Feinberg School of Medicine, Northwestern University, Chicago, IL, 60611, USA."
+            },
+            {
+                "First Name": "Ofer",
+                "Last Name": "Yizhar",
+                "Affiliation": "Departments of Brain Sciences and Molecular Neuroscience, Weizmann Institute of Science, Rehovot, 76100, Israel."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY, 10032, USA. ck491@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37693570",
+        "Title": "Dopaminergic D2 receptor modulation of striatal cholinergic interneurons contributes to sequence learning.",
+        "Abstract": "Learning action sequences is necessary for normal daily activities. Medium spiny neurons (MSNs) in the dorsal striatum (dStr) encode action sequences through changes in firing at the start and/or stop of action sequences or sustained changes in firing throughout the sequence. Acetylcholine (ACh), released from cholinergic interneurons (ChIs), regulates striatal function by modulating MSN and interneuron excitability, dopamine and glutamate release, and synaptic plasticity. Cholinergic neurons in dStr pause their tonic firing during the performance of learned action sequences. Activation of dopamine type-2 receptors (D2Rs) on ChIs is one mechanism of ChI pausing. In this study we show that deleting D2Rs from ChIs by crossing D2-floxed with ChAT-Cre mice (D2Flox-ChATCre), which inhibits dopamine-mediated ChI pausing and leads to deficits in an operant action sequence task and lower breakpoints in a progressive ratio task. These data suggest that D2Flox-ChATCre mice have reduced motivation to work for sucrose reward, but show no generalized motor skill deficits. D2Flox-ChATCre mice perform similarly to controls in a simple reversal learning task, indicating normal behavioral flexibility, a cognitive function associated with ChIs. ",
+        "Keywords": [
+            "D2 receptors",
+            "acetylcholine",
+            "action sequence",
+            "cholinergic interneuron",
+            "medium spiny neuron",
+            "operant conditioning"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jessica Hotard",
+                "Last Name": "Chancey",
+                "Affiliation": "Laboratory for Integrative Neuroscience, National Institute on Alcohol Abuse and Alcoholism, National Institutes of Health, Rockville, Maryland, USA, 20852."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Departments of Psychiatry and Molecular Pharmacology and Therapeutics, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jonathan A",
+                "Last Name": "Javitch",
+                "Affiliation": "Departments of Psychiatry and Molecular Pharmacology and Therapeutics, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "David M",
+                "Last Name": "Lovinger",
+                "Affiliation": "Laboratory for Integrative Neuroscience, National Institute on Alcohol Abuse and Alcoholism, National Institutes of Health, Rockville, Maryland, USA, 20852."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37678166",
+        "Title": "Locus of control: How the brain gives up when failure is taken for granted.",
+        "Abstract": "After repeatedly failing to get out of a stressful, uncontrollable environment, mice switch from escape behavior to inactivity. In this issue of Neuron, Li et al. identify a circuit involving noradrenergic projections from the locus coeruleus to GABAergic projection neurons in the orbitofrontal cortex that participate in this adaptive behavior.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Mice",
+            "Humans",
+            "Brain",
+            "Locus Coeruleus",
+            "Adaptation, Psychological",
+            "Ethnicity",
+            "GABAergic Neurons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joseph M",
+                "Last Name": "Villarin",
+                "Affiliation": "Department of Psychiatry, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032, USA; Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA. Electronic address: joseph.villarin@nyspi.columbia.edu."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Molecular Pharmacology & Therapeutics, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY 10032, USA; Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA. Electronic address: ck491@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36798372",
+        "Title": "A non-canonical striatopallidal \"Go\" pathway that supports motor control.",
+        "Abstract": "In the classical model of the basal ganglia, direct pathway striatal projection neurons (dSPNs) send projections to the substantia nigra (SNr) and entopeduncular nucleus to regulate motor function. Recent studies have re-established that dSPNs also possess \"bridging\" collaterals within the globus pallidus (GPe), yet the significance of these collaterals for behavior is unknown. Here we use in vivo optical and chemogenetic tools combined with deep learning approaches to dissect the roles of bridging collaterals in motor function. We find that dSPNs projecting to the SNr send synchronous motor-related information to the GPe via axon collaterals. Inhibition of native activity in dSPN GPe terminals impairs motor activity and function via regulation of pallidostriatal Npas1 neurons. We propose a model by which dSPN GPe collaterals (\"striatopallidal Go pathway\") act in concert with the canonical terminals in the SNr to support motor control by inhibiting Npas1 signals going back to the striatum.",
+        "Keywords": [
+            "Go pathway",
+            "Npas1",
+            "arkypallidal",
+            "axon collaterals",
+            "axonal copy",
+            "basal ganglia",
+            "bridging collaterals",
+            "direct pathway",
+            "efference copy",
+            "globus pallidus",
+            "medium spiny neurons",
+            "motor control",
+            "striatopallidal",
+            "striatum"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Marie A",
+                "Last Name": "Labouesse",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Arturo",
+                "Last Name": "Torres-Herraez",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Muhammad O",
+                "Last Name": "Chohan",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Joseph",
+                "Last Name": "Villarin",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Greenwald",
+                "Affiliation": "Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Xiaoxiao",
+                "Last Name": "Sun",
+                "Affiliation": "Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Mysarah",
+                "Last Name": "Zahran",
+                "Affiliation": "Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alice",
+                "Last Name": "Tang",
+                "Affiliation": "Columbia College, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Sherry",
+                "Last Name": "Lam",
+                "Affiliation": "Biobehavioral Imaging and Molecular Neuropsychopharmacology Unit, National Institute on Drug Abuse Intramural Research Program, Baltimore, MD 21224, USA."
+            },
+            {
+                "First Name": "Jeremy",
+                "Last Name": "Veenstra-VanderWeele",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Clay",
+                "Last Name": "Lacefield",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jordi",
+                "Last Name": "Bonaventura",
+                "Affiliation": "Biobehavioral Imaging and Molecular Neuropsychopharmacology Unit, National Institute on Drug Abuse Intramural Research Program, Baltimore, MD 21224, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Michaelides",
+                "Affiliation": "Biobehavioral Imaging and Molecular Neuropsychopharmacology Unit, National Institute on Drug Abuse Intramural Research Program, Baltimore, MD 21224, USA."
+            },
+            {
+                "First Name": "C Savio",
+                "Last Name": "Chan",
+                "Affiliation": "Department of Neuroscience, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA."
+            },
+            {
+                "First Name": "Ofer",
+                "Last Name": "Yizhar",
+                "Affiliation": "Departments of Brain Sciences and Molecular Neuroscience, Weizmann Institute of Science, Rehovot 76100, Israel."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Research square",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36576777",
+        "Title": "Mature parvalbumin interneuron function in prefrontal cortex requires activity during a postnatal sensitive period.",
+        "Abstract": "In their seminal findings, Hubel and Wiesel identified sensitive periods in which experience can exert lasting effects on adult visual cortical functioning and behavior via transient changes in neuronal activity during development. Whether comparable sensitive periods exist for non-sensory cortices, such as the prefrontal cortex, in which alterations in activity determine adult circuit function and behavior is still an active area of research. Here, using mice we demonstrate that inhibition of prefrontal parvalbumin (PV)-expressing interneurons during the juvenile and adolescent period, results in ",
+        "Keywords": [
+            "cognitive flexibility",
+            "development",
+            "gamma oscillations",
+            "interneurons",
+            "mouse",
+            "neuroscience",
+            "parvalbumin",
+            "prefrontal cortex"
+        ],
+        "MeSH terms": [
+            "Mice",
+            "Animals",
+            "Parvalbumins",
+            "Interneurons",
+            "Neurons",
+            "Prefrontal Cortex"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sarah E",
+                "Last Name": "Canetta",
+                "Affiliation": "Department of Psychiatry, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Emma S",
+                "Last Name": "Holt",
+                "Affiliation": "Division of Developmental Neuroscience, New York State Psychiatric Institute, New York, United States."
+            },
+            {
+                "First Name": "Laura J",
+                "Last Name": "Benoit",
+                "Affiliation": "Department of Psychiatry, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Teboul",
+                "Affiliation": "Division of Molecular Therapeutics, New York Psychiatric Institute, New York, United States."
+            },
+            {
+                "First Name": "Gabriella M",
+                "Last Name": "Sahyoun",
+                "Affiliation": "Division of Developmental Neuroscience, New York State Psychiatric Institute, New York, United States."
+            },
+            {
+                "First Name": "R Todd",
+                "Last Name": "Ogden",
+                "Affiliation": "Department of Biostatistics, Mailman School of Public Health, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Alexander Z",
+                "Last Name": "Harris",
+                "Affiliation": "Department of Psychiatry, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University Medical Center, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35856493",
+        "Title": "Dopamine D2Rs coordinate cue-evoked changes in striatal acetylcholine levels.",
+        "Abstract": "In the striatum, acetylcholine (ACh) neuron activity is modulated co-incident with dopamine (DA) release in response to unpredicted rewards and reward-predicting cues and both neuromodulators are thought to regulate each other. While this co-regulation has been studied using stimulation studies, the existence of this mutual regulation in vivo during natural behavior is still largely unexplored. One long-standing controversy has been whether striatal DA is responsible for the induction of the cholinergic pause or whether DA D2 receptors (D2Rs) modulate a pause that is induced by other mechanisms. Here, we used genetically encoded sensors in combination with pharmacological and genetic inactivation of D2Rs from cholinergic interneurons (CINs) to simultaneously measure ACh and DA levels after CIN D2R inactivation in mice. We found that CIN D2Rs are not necessary for the initiation of cue-induced decrease in ACh levels. Rather, they prolong the duration of the decrease and inhibit ACh rebound levels. Notably, the change in cue-evoked ACh levels is not associated with altered cue-evoked DA release. Moreover, D2R inactivation strongly decreased the temporal correlation between DA and ACh signals not only at cue presentation but also during the intertrial interval pointing to a general mechanism by which D2Rs coordinate both signals. At the behavioral level D2R antagonism increased the latency to lever press, which was not observed in CIN-selective D2R knock out mice. Press latency correlated with the cue-evoked decrease in ACh levels and artificial inhibition of CINs revealed that longer inhibition shortens the latency to press compared to shorter inhibition. This supports a role of the ACh signal and it's regulation by D2Rs in the motivation to initiate actions.",
+        "Keywords": [
+            "acetylcholine",
+            "circuit",
+            "dopamine",
+            "motivation",
+            "mouse",
+            "neuromodulation",
+            "neuroscience",
+            "striatum"
+        ],
+        "MeSH terms": [
+            "Acetylcholine",
+            "Animals",
+            "Cholinergic Agents",
+            "Corpus Striatum",
+            "Cues",
+            "Dopamine",
+            "Mice",
+            "Receptors, Dopamine D2"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kelly M",
+                "Last Name": "Martyniuk",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Arturo",
+                "Last Name": "Torres-Herraez",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Daniel C",
+                "Last Name": "Lowes",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Marcelo",
+                "Last Name": "Rubinstein",
+                "Affiliation": "Instituto de Investigaciones en Ingeniería Genética y Biología Molecular, Consejo Nacional de Investigaciones Científicas y Técnicas, and Departamento de Fisiología, Biología Molecular y Celular, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina."
+            },
+            {
+                "First Name": "Marie A",
+                "Last Name": "Labouesse",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35590075",
+        "Title": "Adolescent thalamic inhibition leads to long-lasting impairments in prefrontal cortex function.",
+        "Abstract": "Impaired cortical maturation is a postulated mechanism in the etiology of neurodevelopmental disorders, including schizophrenia. In the sensory cortex, activity relayed by the thalamus during a postnatal sensitive period is essential for proper cortical maturation. Whether thalamic activity also shapes prefrontal cortical maturation is unknown. We show that inhibiting the mediodorsal and midline thalamus in mice during adolescence leads to a long-lasting decrease in thalamo-prefrontal projection density and reduced excitatory drive to prefrontal neurons. It also caused prefrontal-dependent cognitive deficits during adulthood associated with disrupted prefrontal cross-correlations and task outcome encoding. Thalamic inhibition during adulthood had no long-lasting consequences. Exciting the thalamus in adulthood during a cognitive task rescued prefrontal cross-correlations, task outcome encoding and cognitive deficits. These data point to adolescence as a sensitive window of thalamocortical circuit maturation. Furthermore, by supporting prefrontal network activity, boosting thalamic activity provides a potential therapeutic strategy for rescuing cognitive deficits in neurodevelopmental disorders.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Inhibition, Psychological",
+            "Mice",
+            "Neural Pathways",
+            "Neurons",
+            "Prefrontal Cortex",
+            "Schizophrenia",
+            "Thalamus"
+        ],
+        "Authors": [
+            {
+                "First Name": "Laura J",
+                "Last Name": "Benoit",
+                "Affiliation": "Graduate Program in Neurobiology and Behavior, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Emma S",
+                "Last Name": "Holt",
+                "Affiliation": "Department of Psychiatry, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Lorenzo",
+                "Last Name": "Posani",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Stefano",
+                "Last Name": "Fusi",
+                "Affiliation": "Center for Theoretical Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Alexander Z",
+                "Last Name": "Harris",
+                "Affiliation": "Department of Psychiatry, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Canetta",
+                "Affiliation": "Department of Psychiatry, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University Irving Medical Center, New York, NY, USA. ck491@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35550792",
+        "Title": "Thalamocortical Development: A Neurodevelopmental Framework for Schizophrenia.",
+        "Abstract": "Adolescence is a period of increased vulnerability for the development of psychiatric disorders, including schizophrenia. The prefrontal cortex (PFC) undergoes substantial maturation during this period, and PFC dysfunction is central to cognitive impairments in schizophrenia. As a result, impaired adolescent maturation of the PFC has been proposed as a mechanism in the etiology of the disorder and its cognitive symptoms. In adulthood, PFC function is tightly linked to its reciprocal connections with the thalamus, and acutely inhibiting thalamic inputs to the PFC produces impairments in PFC function and cognitive deficits. Here, we propose that thalamic activity is equally important during adolescence because it is required for proper PFC circuit development. Because thalamic abnormalities have been observed early in the progression of schizophrenia, we further postulate that adolescent thalamic dysfunction can have long-lasting consequences for PFC function and cognition in patients with schizophrenia.",
+        "Keywords": [
+            "Adolescence",
+            "Development",
+            "Prefrontal cortex",
+            "Schizophrenia",
+            "Thalamocortical",
+            "Thalamus"
+        ],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Cognition Disorders",
+            "Cognitive Dysfunction",
+            "Humans",
+            "Prefrontal Cortex",
+            "Schizophrenia",
+            "Thalamus"
+        ],
+        "Authors": [
+            {
+                "First Name": "Laura J",
+                "Last Name": "Benoit",
+                "Affiliation": "Graduate Program in Neurobiology and Behavior, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Canetta",
+                "Affiliation": "Department of Psychiatry, Columbia University Medical Center, New York, New York; Division of Developmental Neuroscience, New York State Psychiatric Institute, New York, New York."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University Medical Center, New York, New York; Department of Pharmacology, Columbia University Medical Center, New York, New York; Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, New York. Electronic address: ck491@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Biological psychiatry",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34789847",
+        "Title": "Dopamine D2 receptors modulate the cholinergic pause and inhibitory learning.",
+        "Abstract": "Cholinergic interneurons (CINs) in the striatum respond to salient stimuli with a multiphasic response, including a pause, in neuronal activity. Slice-physiology experiments have shown the importance of dopamine D2 receptors (D2Rs) in regulating CIN pausing, yet the behavioral significance of the CIN pause and its regulation by dopamine in vivo is still unclear. Here, we show that D2R upregulation in CINs of the nucleus accumbens (NAc) lengthens the pause in CIN activity ex vivo and enlarges a stimulus-evoked decrease in acetylcholine (ACh) levels during behavior. This enhanced dip in ACh levels is associated with a selective deficit in the learning to inhibit responding in a Go/No-Go task. Our data demonstrate, therefore, the importance of CIN D2Rs in modulating the CIN response induced by salient stimuli and point to a role of this response in inhibitory learning. This work has important implications for brain disorders with altered striatal dopamine and ACh function, including schizophrenia and attention-deficit hyperactivity disorder (ADHD).",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acetylcholine",
+            "Cholinergic Agents",
+            "Corpus Striatum",
+            "Dopamine",
+            "Interneurons",
+            "Nucleus Accumbens",
+            "Receptors, Dopamine D2"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eduardo F",
+                "Last Name": "Gallo",
+                "Affiliation": "Department of Biological Sciences, Fordham University, Bronx, NY, USA. egallo4@fordham.edu."
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Greenwald",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jenna",
+                "Last Name": "Yeisley",
+                "Affiliation": "Department of Biological Sciences, Fordham University, Bronx, NY, USA."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Teboul",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Kelly M",
+                "Last Name": "Martyniuk",
+                "Affiliation": "Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY, USA."
+            },
+            {
+                "First Name": "Joseph M",
+                "Last Name": "Villarin",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Yulong",
+                "Last Name": "Li",
+                "Affiliation": "State Key Laboratory of Membrane Biology, Peking University School of Life Sciences, Beijing, China."
+            },
+            {
+                "First Name": "Jonathan A",
+                "Last Name": "Javitch",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Balsam",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY, USA. ck491@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Molecular psychiatry",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34385603",
+        "Title": "How changes in dopamine D2 receptor levels alter striatal circuit function and motivation.",
+        "Abstract": "It was first posited, more than five decades ago, that the etiology of schizophrenia involves overstimulation of dopamine receptors. Since then, advanced clinical research methods, including brain imaging, have refined our understanding of the relationship between striatal dopamine and clinical phenotypes as well as disease trajectory. These studies point to striatal dopamine D2 receptors, the main target for all current antipsychotic medications, as being involved in both positive and negative symptoms. Simultaneously, animal models have been central to investigating causal relationships between striatal dopamine D2 receptors and behavioral phenotypes relevant to schizophrenia. We begin this article by reviewing the circuit, cell-type and subcellular locations of dopamine D2 receptors and their downstream signaling pathways. We then summarize results from several mouse models in which D2 receptor levels were altered in various brain regions, cell-types and developmental periods. Behavioral, electrophysiological and anatomical consequences of these D2 receptor perturbations are reviewed with a selective focus on striatal circuit function and alterations in motivated behavior, a core negative symptom of schizophrenia. These studies show that D2 receptors serve distinct physiological roles in different cell types and at different developmental time points, regulating motivated behaviors in sometimes opposing ways. We conclude by considering the clinical implications of this complex regulation of striatal circuit function by D2 receptors.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Corpus Striatum",
+            "Mice",
+            "Motivation",
+            "Receptors, Dopamine D1",
+            "Receptors, Dopamine D2",
+            "Schizophrenia"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eleanor H",
+                "Last Name": "Simpson",
+                "Affiliation": "Division of Developmental Neuroscience, New York State Psychiatric Institute, New York, NY, USA. es534@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Eduardo F",
+                "Last Name": "Gallo",
+                "Affiliation": "Department of Biological Sciences, Fordham University, Bronx, NY, USA."
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Balsam",
+                "Affiliation": "Division of Developmental Neuroscience, New York State Psychiatric Institute, New York, NY, USA."
+            },
+            {
+                "First Name": "Jonathan A",
+                "Last Name": "Javitch",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY, USA. ck491@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Molecular psychiatry",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34264690",
+        "Title": "Dopamine D2R upregulation in ventral striatopallidal neurons does not affect Pavlovian or go/no-go learning.",
+        "Abstract": "Ventral striatal dopamine is thought to be important for associative learning. Dopamine exerts its role via activation of dopamine D1 and D2 receptors in the ventral striatum. Upregulation of dopamine D2R in ventral striatopallidal neurons impairs incentive motivation via inhibiting synaptic transmission to the ventral pallidum. Here, we determined whether upregulation of D2Rs and the resulting impairment in ventral striatopallidal pathway function modulates associative learning in an auditory Pavlovian reward learning task as well as Go/No-Go learning in an operant based reward driven Go/No-Go task. We found that upregulation of D2Rs did not affect Pavlovian learning or the extinction of Pavlovian responses, and neither did it alter No-Go learning. We however observed a delay in the Go component of the task which may indicate a deficit in learning though it could also be attributed to the established locomotor hyperactivity of the mice. In combination with previously published findings, our data suggest that D2Rs in ventral striatopallidal neurons play a specific role in regulating motivation by balancing cost/benefit computations but do not necessarily affect associative learning. (PsycInfo Database Record (c) 2021 APA, all rights reserved).",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Corpus Striatum",
+            "Dopamine",
+            "Learning",
+            "Mice",
+            "Neurons",
+            "Receptors, Dopamine D1",
+            "Receptors, Dopamine D2",
+            "Up-Regulation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kelly M",
+                "Last Name": "Martyniuk",
+                "Affiliation": "Department of Neuroscience, Graduate School of Arts and Sciences, Columbia University."
+            },
+            {
+                "First Name": "Michelle",
+                "Last Name": "Dandeneau",
+                "Affiliation": "Department of Psychology, Barnard College."
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Balsam",
+                "Affiliation": "Department of Psychiatry, Columbia University."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University."
+            }
+        ],
+        "Journal": "Behavioral neuroscience",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33381761",
+        "Title": "Differential Synaptic Dynamics and Circuit Connectivity of Hippocampal and Thalamic Inputs to the Prefrontal Cortex.",
+        "Abstract": "The medial prefrontal cortex (mPFC) integrates inputs from multiple subcortical regions including the mediodorsal nucleus of the thalamus (MD) and the ventral hippocampus (vHPC). How the mPFC differentially processes these inputs is not known. One possibility is that these two inputs target discreet populations of mPFC cells. Alternatively, individual prefrontal cells could receive convergent inputs but distinguish between both inputs based on synaptic differences, such as communication frequency. To address this, we utilized a dual wavelength optogenetic approach to stimulate MD and vHPC inputs onto single, genetically defined mPFC neuronal subtypes. Specifically, we compared the convergence and synaptic dynamics of both inputs onto mPFC pyramidal cells, and parvalbumin (PV)- and vasoactive intestinal peptide (VIP)-expressing interneurons. We found that all individual pyramidal neurons in layer 2/3 of the mPFC receive convergent input from both MD and vHPC. In contrast, PV neurons receive input biased from the MD, while VIP cells receive input biased from the vHPC. Independent of the target, MD inputs transferred information more reliably at higher frequencies (20 Hz) than vHPC inputs. Thus, MD and vHPC projections converge functionally onto mPFC pyramidal cells, but both inputs are distinguished by frequency-dependent synaptic dynamics and preferential engagement of discreet interneuron populations.",
+        "Keywords": [
+            "interneurons",
+            "mediodorsal thalamus",
+            "optogenetics",
+            "prefrontal cortex",
+            "ventral hippocampus"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Sarah",
+                "Last Name": "Canetta",
+                "Affiliation": "Department of Psychiatry, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Teboul",
+                "Affiliation": "Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Emma",
+                "Last Name": "Holt",
+                "Affiliation": "Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Scott S",
+                "Last Name": "Bolkan",
+                "Affiliation": "Department of Psychiatry, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Nancy",
+                "Last Name": "Padilla-Coreano",
+                "Affiliation": "Department of Psychiatry, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Joshua A",
+                "Last Name": "Gordon",
+                "Affiliation": "National Institute of Mental Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Neil L",
+                "Last Name": "Harrison",
+                "Affiliation": "Department of Molecular Pharmacology and Therapeutics, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University Medical Center, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Cerebral cortex communications",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32777950",
+        "Title": "A device for stereotaxic viral delivery into the brains of neonatal mice.",
+        "Abstract": "The increasing interest in manipulating neural circuits in developing brains has created a demand for reliable and accurate methods for delivering viruses to newborn mice. Here we describe a novel 3D-printed mouse neonatal stereotaxic adaptor for intracerebral viral injection that provides enhanced precision and reliability. Using this device, we injected ",
+        "Keywords": [
+            "adaptor",
+            "neonatal mouse",
+            "stereotaxic",
+            "viral delivery",
+            "virus"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Animals, Newborn",
+            "Brain",
+            "Gene Transfer Techniques",
+            "Mice",
+            "Neurons",
+            "Printing, Three-Dimensional",
+            "Stereotaxic Techniques",
+            "Viruses"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pedro R",
+                "Last Name": "Olivetti",
+                "Affiliation": "Department of Psychiatry, Columbia University, 1051 Riverside Drive, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Clay O",
+                "Last Name": "Lacefield",
+                "Affiliation": "Department of Neuroscience, New York State Psychiatric Institute, 1051 Riverside Drive, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University, 1051 Riverside Drive, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "BioTechniques",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31474365",
+        "Title": "When Time Matters: An Adolescent Intervention to Prevent Adult Brain Dysfunction.",
+        "Abstract": "Can we one day prevent mental disorders? Mukherjee et al. (2019) use a genetic mouse model of schizophrenia-risk with established abnormalities in adult hippocampal-prefrontal circuit function and cognitive behaviors to identify circuit-specific treatments during adolescence that prevent the onset of the adult deficits.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Animals",
+            "Cognitive Dysfunction",
+            "Disease Models, Animal",
+            "Hippocampus",
+            "Humans",
+            "Mice",
+            "Prefrontal Cortex",
+            "Schizophrenia"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sarah",
+                "Last Name": "Canetta",
+                "Affiliation": "Department of Psychiatry, Columbia University Medical Center, New York, NY 10032, USA; Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University Medical Center, New York, NY 10032, USA; Department of Pharmacology, Columbia University Medical Center, New York, NY 10032, USA; Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA. Electronic address: ck491@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31188541",
+        "Title": "Emerging roles of striatal dopamine D2 receptors in motivated behaviour: Implications for psychiatric disorders.",
+        "Abstract": "Impaired motivation has been a long recognized negative symptom of schizophrenia, as well as a common feature of non-psychotic psychiatric disorders, responsible for a significant share of functional burden, and with limited treatment options. The striatum and dopamine signalling system play a central role in extracting motivationally relevant information from the environment, selecting which behavioural direction the animal should follow, and the vigour with which to engage it. Much of this function relies on striatal projection neurons, known as medium spiny neurons (MSNs) expressing dopamine D2 receptors (D2Rs), or D2-MSNs. However, determining the precise nature of D2-MSNs in regulating motivated behaviour in both healthy individuals and experimental manipulations of D2-MSN function has at times yielded a somewhat confusing picture since their activity has been linked to either enhancement or dampening of motivation in animal models. In this MiniReview, we describe the latest data from rodent studies that investigated how D2Rs exert their modulatory effect on motivated behaviour by regulating striatal indirect pathway neuronal activity. We will include a discussion about how functional selectivity of D2Rs towards G protein-dependent or β-arrestin-dependent signalling differentially affects motivated behaviour. Lastly, we will describe a recent preclinical attempt to improve motivation by exploiting serotonin receptor-mediated modulation of dopamine transmission in the striatum.",
+        "Keywords": [
+            "D2 receptors",
+            "dopamine",
+            "indirect pathway",
+            "motivation",
+            "striatum"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Corpus Striatum",
+            "Dopamine",
+            "Dopaminergic Neurons",
+            "Humans",
+            "Mental Disorders",
+            "Motivation",
+            "Neostriatum",
+            "Receptors, Dopamine D2"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pedro R",
+                "Last Name": "Olivetti",
+                "Affiliation": "New York State Psychiatric Institute, New York City, New York, USA."
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Balsam",
+                "Affiliation": "New York State Psychiatric Institute, New York City, New York, USA."
+            },
+            {
+                "First Name": "Eleanor H",
+                "Last Name": "Simpson",
+                "Affiliation": "New York State Psychiatric Institute, New York City, New York, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "New York State Psychiatric Institute, New York City, New York, USA."
+            }
+        ],
+        "Journal": "Basic & clinical pharmacology & toxicology",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "29855614",
+        "Title": "Publisher Correction: Thalamic projections sustain prefrontal activity during working memory maintenance.",
+        "Abstract": "In the version of this article initially published, the title of ref. 45 was given as \"Sustaining cortical representations by a content-free thalamic amplifier.\" The correct title is \"Thalamic amplification of cortical connectivity sustains attentional control.\" The error has been corrected in the HTML and PDF versions of the article.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Scott S",
+                "Last Name": "Bolkan",
+                "Affiliation": "Graduate Program in Neurobiology and Behavior, Columbia University, College of Physicians and Surgeons, New York, New York, USA."
+            },
+            {
+                "First Name": "Joseph M",
+                "Last Name": "Stujenske",
+                "Affiliation": "Graduate Program in Neurobiology and Behavior, Columbia University, College of Physicians and Surgeons, New York, New York, USA."
+            },
+            {
+                "First Name": "Sebastien",
+                "Last Name": "Parnaudeau",
+                "Affiliation": "Sorbonne Universités, UPMC Paris 06, Institut de Biologie Paris Seine, UM119, Neuroscience Paris Seine, CNRS UMR8246, INSERM U1130, Paris, France."
+            },
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Spellman",
+                "Affiliation": "Feil Family Brain and Mind Research Institute, Weill Cornell Medical College, New York, New York, USA."
+            },
+            {
+                "First Name": "Caroline",
+                "Last Name": "Rauffenbart",
+                "Affiliation": "Department of Psychiatry, Columbia University, College of Physicians and Surgeons, New York, New York, USA."
+            },
+            {
+                "First Name": "Atheir I",
+                "Last Name": "Abbas",
+                "Affiliation": "Department of Psychiatry, Columbia University, College of Physicians and Surgeons, New York, New York, USA."
+            },
+            {
+                "First Name": "Alexander Z",
+                "Last Name": "Harris",
+                "Affiliation": "Department of Psychiatry, Columbia University, College of Physicians and Surgeons, New York, New York, USA."
+            },
+            {
+                "First Name": "Joshua A",
+                "Last Name": "Gordon",
+                "Affiliation": "Department of Psychiatry, Columbia University, College of Physicians and Surgeons, New York, New York, USA. joshua.gordon@nih.gov."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University, College of Physicians and Surgeons, New York, New York, USA. ck491@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29540712",
+        "Title": "Accumbens dopamine D2 receptors increase motivation by decreasing inhibitory transmission to the ventral pallidum.",
+        "Abstract": "Dopamine D2 receptors (D2Rs) in the nucleus accumbens (NAc) regulate motivated behavior, but the underlying neurobiological mechanisms remain unresolved. Here, we show that selective upregulation of D2Rs in the indirect pathway of the adult NAc enhances the willingness to work for food. Mechanistic studies in brain slices reveal that D2R upregulation attenuates inhibitory transmission at two main output projections of the indirect pathway, the classical long-range projections to the ventral pallidum (VP), as well as local collaterals to direct pathway medium spiny neurons. In vivo physiology confirms the reduction in indirect pathway inhibitory transmission to the VP, and inhibition of indirect pathway terminals to VP is sufficient to enhance motivation. In contrast, D2R upregulation in the indirect pathway does not disinhibit neuronal activity of the direct pathway in vivo. These data suggest that D2Rs in ventral striatal projection neurons promote motivation by weakening the canonical output to the ventral pallidum.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Basal Forebrain",
+            "Female",
+            "Inhibitory Postsynaptic Potentials",
+            "Male",
+            "Mice, Inbred C57BL",
+            "Motivation",
+            "Neurons",
+            "Nucleus Accumbens",
+            "Receptors, Dopamine D2",
+            "Up-Regulation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eduardo F",
+                "Last Name": "Gallo",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Jozsef",
+                "Last Name": "Meszaros",
+                "Affiliation": "Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Jeremy D",
+                "Last Name": "Sherman",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Muhammad O",
+                "Last Name": "Chohan",
+                "Affiliation": "Division of Integrative Neuroscience, New York State Psychiatric Institute, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Teboul",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Claire S",
+                "Last Name": "Choi",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Holly",
+                "Last Name": "Moore",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Jonathan A",
+                "Last Name": "Javitch",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY, 10032, USA. ck491@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29352031",
+        "Title": "Can we use mice to study schizophrenia?",
+        "Abstract": "The validity of rodent models for the study of psychiatric disorders is controversial. Despite great efforts from academic institutions and pharmaceutical companies, as of today, no major therapeutic intervention has been developed for the treatment of psychiatric disorders based on mechanistic insights from rodent models. Here, we argue that despite these historical shortcomings, rodent studies are nevertheless instrumental for identifying neuronal circuit mechanisms underlying behaviours that are affected in psychiatric disorders. Focusing on schizophrenia, we will give four examples of rodent models that were generated based on genetic and environmental risk factors or pathophysiological evidence as entry points. We will then discuss how circuit analysis in these specific examples can be used for testing hypotheses about neuronal mechanisms underlying symptoms of schizophrenia, which will then guide the development of new therapies.This article is part of a discussion meeting issue 'Of mice and mental health: facilitating dialogue between basic and clinical neuroscientists'.",
+        "Keywords": [
+            "behaviour",
+            "cognition",
+            "mice",
+            "neuronal circuitry",
+            "schizophrenia"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Disease Models, Animal",
+            "Humans",
+            "Mice",
+            "Schizophrenia"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sarah",
+                "Last Name": "Canetta",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY, USA ses2119@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY, USA ck491@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29275841",
+        "Title": "The Mediodorsal Thalamus: An Essential Partner of the Prefrontal Cortex for Cognition.",
+        "Abstract": "Deficits in cognition are a core feature of many psychiatric conditions, including schizophrenia, where the severity of such deficits is a strong predictor of long-term outcome. Impairment in cognitive domains such as working memory and behavioral flexibility has typically been associated with prefrontal cortex (PFC) dysfunction. However, there is increasing evidence that the PFC cannot be dissociated from its main thalamic counterpart, the mediodorsal thalamus (MD). Since the causal relationships between MD-PFC abnormalities and cognitive impairment, as well as the neuronal mechanisms underlying them, are difficult to address in humans, animal models have been employed for mechanistic insight. In this review, we discuss anatomical, behavioral, and electrophysiological findings from animal studies that provide a new understanding on how MD-PFC circuits support higher-order cognitive function. We argue that the MD may be required for amplifying and sustaining cortical representations under different behavioral conditions. These findings advance a new framework for the broader involvement of distributed thalamo-frontal circuits in cognition and point to the MD as a potential therapeutic target for improving cognitive deficits in schizophrenia and other disorders.",
+        "Keywords": [
+            "Behavioral flexibility",
+            "Mediodorsal thalamus",
+            "Prefrontal cortex",
+            "Schizophrenia",
+            "Thalamo-cortical connectivity",
+            "Working memory"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cognition",
+            "Cognitive Dysfunction",
+            "Executive Function",
+            "Humans",
+            "Mediodorsal Thalamic Nucleus",
+            "Memory, Short-Term",
+            "Nerve Net",
+            "Prefrontal Cortex",
+            "Schizophrenia"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sébastien",
+                "Last Name": "Parnaudeau",
+                "Affiliation": "Sorbonne Universités, Université Pierre et Marie Curie Paris 06, Institut de Biologie Paris Seine UM119, Neuroscience Paris Seine, Centre National de la Recherche Scientifique UMR8246, Institut National de la Santé et de la Recherche Médicale U1130, Paris, France."
+            },
+            {
+                "First Name": "Scott S",
+                "Last Name": "Bolkan",
+                "Affiliation": "Graduate Program in Neurobiology and Behavior, Columbia University, College of Physicians and Surgeons, New York, New York."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Departments of Pharmacology and Psychiatry, Columbia University, College of Physicians and Surgeons, New York, New York; Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, New York. Electronic address: ck491@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Biological psychiatry",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29071300",
+        "Title": "Dopamine D2 Receptors in the Paraventricular Thalamus Attenuate Cocaine Locomotor Sensitization.",
+        "Abstract": "Alterations in thalamic dopamine (DA) or DA D2 receptors (D2Rs) have been measured in drug addiction and schizophrenia, but the relevance of thalamic D2Rs for behavior is largely unknown. Using ",
+        "Keywords": [
+            "anatomical tracing",
+            "cocaine sensitization",
+            "dopamine D2 receptors",
+            "fear conditioning",
+            "midline thalamus",
+            "paraventricular thalamus"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cocaine",
+            "Dopamine Agonists",
+            "Dopamine Antagonists",
+            "Dopamine Uptake Inhibitors",
+            "Dose-Response Relationship, Drug",
+            "Fear",
+            "Female",
+            "Locomotion",
+            "Male",
+            "Maze Learning",
+            "Membrane Potentials",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Transgenic",
+            "Midline Thalamic Nuclei",
+            "Quinpirole",
+            "Receptors, Dopamine D2",
+            "Sulpiride",
+            "Transduction, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Abigail M",
+                "Last Name": "Clark",
+                "Affiliation": "Graduate Program in Neurobiology and Behavior, College of Physicians and Surgeons, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Felix",
+                "Last Name": "Leroy",
+                "Affiliation": "Department of Neuroscience, College of Physicians and Surgeons, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Kelly M",
+                "Last Name": "Martyniuk",
+                "Affiliation": "Graduate Program in Neurobiology and Behavior, College of Physicians and Surgeons, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Wendy",
+                "Last Name": "Feng",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Erika",
+                "Last Name": "McManus",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Bailey",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Jonathan A",
+                "Last Name": "Javitch",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Balsam",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York, NY 10032."
+            }
+        ],
+        "Journal": "eNeuro",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28481349",
+        "Title": "Thalamic projections sustain prefrontal activity during working memory maintenance.",
+        "Abstract": "The mediodorsal thalamus (MD) shares reciprocal connectivity with the prefrontal cortex (PFC), and decreased MD-PFC connectivity is observed in schizophrenia patients. Patients also display cognitive deficits including impairments in working memory, but a mechanistic link between thalamo-prefrontal circuit function and working memory is missing. Using pathway-specific inhibition, we found directional interactions between mouse MD and medial PFC (mPFC), with MD-to-mPFC supporting working memory maintenance and mPFC-to-MD supporting subsequent choice. We further identify mPFC neurons that display elevated spiking during the delay, a feature that was absent on error trials and required MD inputs for sustained maintenance. Strikingly, delay-tuned neurons had minimal overlap with spatially tuned neurons, and each mPFC population exhibited mutually exclusive dependence on MD and hippocampal inputs. These findings indicate a role for MD in sustaining prefrontal activity during working memory maintenance. Consistent with this idea, we found that enhancing MD excitability was sufficient to enhance task performance.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Choice Behavior",
+            "Hippocampus",
+            "Humans",
+            "Male",
+            "Maze Learning",
+            "Memory, Short-Term",
+            "Mice",
+            "Neural Pathways",
+            "Neurons",
+            "Prefrontal Cortex",
+            "Spatial Memory",
+            "Thalamus",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Scott S",
+                "Last Name": "Bolkan",
+                "Affiliation": "Columbia University, College of Physicians and Surgeons, New York, New York, USA."
+            },
+            {
+                "First Name": "Joseph M",
+                "Last Name": "Stujenske",
+                "Affiliation": "Columbia University, College of Physicians and Surgeons, New York, New York, USA."
+            },
+            {
+                "First Name": "Sebastien",
+                "Last Name": "Parnaudeau",
+                "Affiliation": "Institut de Biologie Paris Seine, UM119, Neuroscience Paris Seine, CNRS UMR8246, INSERM U1130, Paris, France."
+            },
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Spellman",
+                "Affiliation": "Research Institute, Weill Cornell Medical College, New York, New York, USA."
+            },
+            {
+                "First Name": "Caroline",
+                "Last Name": "Rauffenbart",
+                "Affiliation": "Department of Psychiatry, Columbia University, College of Physicians and Surgeons, New York, New York, USA."
+            },
+            {
+                "First Name": "Atheir I",
+                "Last Name": "Abbas",
+                "Affiliation": "Department of Psychiatry, Columbia University, College of Physicians and Surgeons, New York, New York, USA."
+            },
+            {
+                "First Name": "Alexander Z",
+                "Last Name": "Harris",
+                "Affiliation": "Department of Psychiatry, Columbia University, College of Physicians and Surgeons, New York, New York, USA."
+            },
+            {
+                "First Name": "Joshua A",
+                "Last Name": "Gordon",
+                "Affiliation": "Department of Psychiatry, Columbia University, College of Physicians and Surgeons, New York, New York, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University, College of Physicians and Surgeons, New York, New York, USA."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27720388",
+        "Title": "Insights About Striatal Circuit Function and Schizophrenia From a Mouse Model of Dopamine D",
+        "Abstract": "The dopamine hypothesis of schizophrenia is supported by a large number of imaging studies that have identified an increase in dopamine binding at the D",
+        "Keywords": [
+            "D(2) receptor",
+            "Dopamine",
+            "Mouse model, Negative symptoms",
+            "Schizophrenia",
+            "Striatal circuit function"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "Corpus Striatum",
+            "Disease Models, Animal",
+            "Humans",
+            "Mice",
+            "Mice, Transgenic",
+            "Receptors, Dopamine D2",
+            "Schizophrenia",
+            "Schizophrenic Psychology",
+            "Up-Regulation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eleanor H",
+                "Last Name": "Simpson",
+                "Affiliation": "Departments of Psychiatry, Columbia University, New York, New York; Center for Neurobiology and Behavior, New York State Psychiatric Institute, New York, New York. Electronic address: Es534@columbia.edu."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Pharmacology, Columbia University, New York, New York; Division of Molecular Therapeutics (CK), New York State Psychiatric Institute, New York, New York."
+            }
+        ],
+        "Journal": "Biological psychiatry",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27251620",
+        "Title": "Decreasing Striatopallidal Pathway Function Enhances Motivation by Energizing the Initiation of Goal-Directed Action.",
+        "Abstract": "Altered dopamine D2 receptor (D2R) binding in the striatum has been associated with abnormal motivation in neuropsychiatric disorders, including schizophrenia. Here, we tested whether motivational deficits observed in mice with upregulated D2Rs (D2R-OEdev mice) are reversed by decreasing function of the striatopallidal \"no-go\" pathway. To this end, we expressed the Gαi-coupled designer receptor hM4D in adult striatopallidal neurons and activated the receptor with clozapine-N-oxide (CNO). Using a head-mounted miniature microscope we confirmed with calcium imaging in awake mice that hM4D activation by CNO inhibits striatopallidal function measured as disinhibited downstream activity in the globus pallidus. Mice were then tested in three operant tasks that address motivated behavior, the progressive ratio task, the progressive hold-down task, and outcome devaluation. Decreasing striatopallidal function in the dorsomedial striatum or nucleus accumbens core enhanced motivation in D2R-OEdev mice and control littermates. This effect was due to increased response initiation but came at the cost of goal-directed efficiency. Moreover, response vigor and the sensitivity to changes in reward value were not altered. Chronic activation of hM4D by administering CNO for 2 weeks in drinking water did not affect motivation due to a tolerance effect. However, the acute effect of CNO on motivation was reinstated after discontinuing chronic treatment for 48 h. Used as a therapeutic approach, striatopallidal inhibition should consider the risk of impairing goal-directed efficiency and behavioral desensitization.",
+        "Keywords": [
+            "DREADD",
+            "calcium imaging",
+            "indirect pathway",
+            "motivation",
+            "striatum"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Calcium",
+            "Calcium-Calmodulin-Dependent Protein Kinase Type 2",
+            "Clozapine",
+            "Conditioning, Classical",
+            "Conditioning, Operant",
+            "Corpus Striatum",
+            "Exploratory Behavior",
+            "GTP-Binding Protein alpha Subunits, Gi-Go",
+            "Globus Pallidus",
+            "Goals",
+            "Inhibitory Postsynaptic Potentials",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Transgenic",
+            "Motivation",
+            "Neural Pathways",
+            "Neurons",
+            "Receptors, Dopamine D2",
+            "Reinforcement, Psychology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Fernanda",
+                "Last Name": "Carvalho Poyraz",
+                "Affiliation": "Department of Psychiatry and."
+            },
+            {
+                "First Name": "Eva",
+                "Last Name": "Holzner",
+                "Affiliation": "Department of Psychiatry and Barnard College, New York, New York 10027."
+            },
+            {
+                "First Name": "Matthew R",
+                "Last Name": "Bailey",
+                "Affiliation": "Department of Psychiatry and."
+            },
+            {
+                "First Name": "Jozsef",
+                "Last Name": "Meszaros",
+                "Affiliation": "Department of Psychiatry and."
+            },
+            {
+                "First Name": "Lindsay",
+                "Last Name": "Kenney",
+                "Affiliation": "Department of Psychiatry and."
+            },
+            {
+                "First Name": "Mazen A",
+                "Last Name": "Kheirbek",
+                "Affiliation": "Department of Psychiatry and Division of Integrative Neuroscience, New York State Psychiatric Institute, New York, New York 10032, and."
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Balsam",
+                "Affiliation": "Department of Psychiatry and Barnard College, New York, New York 10027 ck491@cumc.columbia.edu balsam@columbia.edu."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry and Department of Pharmacology, College of Physicians and Surgeons, Columbia University, New York, New York 10032, Division of Molecular Therapeutics and ck491@cumc.columbia.edu balsam@columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26018615",
+        "Title": "Balancing the basal ganglia circuitry: a possible new role for dopamine D2 receptors in health and disease.",
+        "Abstract": "Current therapies for treating movement disorders such as Parkinson's disease are effective but limited by undesirable and intractable side effects. Developing more effective therapies will require better understanding of what causes basal ganglia dysregulation and why medication-induced side effects develop. Although basal ganglia have been extensively studied in the last decades, its circuit anatomy is very complex, and significant controversy exists as to how the interplay of different basal ganglia nuclei process motor information and output. We have recently identified the importance of an underappreciated collateral projection that bridges the striatal output direct pathway with the indirect pathway. These bridging collaterals are extremely plastic in the adult brain and are involved in the regulation of motor balance. Our findings add a new angle to the classical model of basal ganglia circuitry that could be exploited for the development of new therapies against movement disorders. In this Scientific Perspective, we describe the function of bridging collaterals and other recent discoveries that challenge the simplicity of the classical basal ganglia circuit model. We then discuss the potential implication of bridging collaterals in the pathophysiology of Parkinson's disease and schizophrenia. Because dopamine D2 receptors and striatal neuron excitability have been found to regulate the density of bridging collaterals, we propose that targeting these projections downstream of D2 receptors could be a possible strategy for the treatment of basal ganglia disorders. © 2015 International Parkinson and Movement Disorder Society.",
+        "Keywords": [
+            "Dopamine receptors",
+            "Parkinson's disease",
+            "bridging collaterals",
+            "direct and indirect pathways",
+            "dyskinesia"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Basal Ganglia",
+            "Basal Ganglia Diseases",
+            "Humans",
+            "Nerve Net",
+            "Receptors, Dopamine D2"
+        ],
+        "Authors": [
+            {
+                "First Name": "Maxime",
+                "Last Name": "Cazorla",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Un Jung",
+                "Last Name": "Kang",
+                "Affiliation": "Department of Neurology, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26007208",
+        "Title": "Once upon a spine: setting striatal dopamine.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Antipsychotic Agents",
+            "Dendritic Spines",
+            "Dopamine",
+            "Female",
+            "Locomotion",
+            "Male",
+            "Neostriatum",
+            "Nerve Net"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "1] Department of Psychiatry and Christoph Kellendonk is in the Department of Pharmacology, Columbia University College of Physicians and Surgeons, New York, New York, USA. [2] Division of Molecular Therapeutics and Joshua A. Gordon is in the Division of Integrative Neuroscience, New York State Psychiatric Institute, New York, New York, USA."
+            },
+            {
+                "First Name": "Joshua A",
+                "Last Name": "Gordon",
+                "Affiliation": "1] Department of Psychiatry and Christoph Kellendonk is in the Department of Pharmacology, Columbia University College of Physicians and Surgeons, New York, New York, USA. [2] Division of Molecular Therapeutics and Joshua A. Gordon is in the Division of Integrative Neuroscience, New York State Psychiatric Institute, New York, New York, USA."
+            }
+        ],
+        "Journal": "Nature neuroscience",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25578797",
+        "Title": "Upregulation of dopamine D2 receptors in the nucleus accumbens indirect pathway increases locomotion but does not reduce alcohol consumption.",
+        "Abstract": "Brain imaging studies performed in humans have associated low striatal dopamine release and D2R binding with alcohol dependence. Conversely, high striatal D2R binding has been observed in unaffected members of alcoholic families suggesting that high D2R function may protect against alcohol dependence. A possible protective role of increased D2R levels in the striatum is further supported by preclinical studies in non-human primates and rodents. Here, we determined whether there is a causal relationship between D2R levels and alcohol intake. To this end, we upregulated D2R expression levels in the nucleus accumbens of the adult mouse, but selectively restricted the upregulation to the indirect striatal output pathway, which endogenously expresses D2Rs. After overexpression was established, mice were tested in two models of free-choice alcohol drinking: the continuous and intermittent access two-bottle choice models. As anticipated, we found that D2R upregulation leads to hyperactivity in the open field. Contrary to our expectation, D2R upregulation did not reduce alcohol intake during continuous or intermittent access or when alcohol drinking was tested in the context of aversive outcomes. These data argue against a protective role of accumbal indirect pathway D2Rs in alcohol consumption but emphasize their importance in promoting locomotor activity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alcohol Drinking",
+            "Alcohols",
+            "Animals",
+            "Conditioning, Operant",
+            "Exploratory Behavior",
+            "Locomotion",
+            "Luminescent Proteins",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Transgenic",
+            "Neural Pathways",
+            "Neurons",
+            "Nucleus Accumbens",
+            "Protein Binding",
+            "Receptors, Dopamine D2",
+            "Up-Regulation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eduardo F",
+                "Last Name": "Gallo",
+                "Affiliation": "1] Departments of Psychiatry and Pharmacology, College of Physicians and Surgeons, Columbia University, New York, NY, USA [2] Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY, USA."
+            },
+            {
+                "First Name": "Michael C",
+                "Last Name": "Salling",
+                "Affiliation": "Departments of Anesthesiology, College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Bo",
+                "Last Name": "Feng",
+                "Affiliation": "1] Departments of Psychiatry and Pharmacology, College of Physicians and Surgeons, Columbia University, New York, NY, USA [2] Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY, USA."
+            },
+            {
+                "First Name": "Jose A",
+                "Last Name": "Morón",
+                "Affiliation": "Departments of Anesthesiology, College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Neil L",
+                "Last Name": "Harrison",
+                "Affiliation": "1] Departments of Psychiatry and Pharmacology, College of Physicians and Surgeons, Columbia University, New York, NY, USA [2] Departments of Anesthesiology, College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jonathan A",
+                "Last Name": "Javitch",
+                "Affiliation": "1] Departments of Psychiatry and Pharmacology, College of Physicians and Surgeons, Columbia University, New York, NY, USA [2] Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "1] Departments of Psychiatry and Pharmacology, College of Physicians and Surgeons, Columbia University, New York, NY, USA [2] Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY, USA."
+            }
+        ],
+        "Journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25556545",
+        "Title": "Evidence for limited D1 and D2 receptor coexpression and colocalization within the dorsal striatum of the neonatal mouse.",
+        "Abstract": "The striatum is the major input nucleus of the basal ganglia involved in reward processing, goal-directed behaviors, habit learning, and motor control. The striatum projects to the basal ganglia output nuclei via the \"direct\" and \"indirect\" pathways, which can be distinguished by their projection fields and their opposing effects on behavior. In adult animals, the functional opposition is modulated by the differential actions of D1 and D2 dopamine receptors (D1R, D2R), the expression of which is largely separated between these pathways. To determine whether a similar degree of separation exists earlier in development, we used dual-label immunohistochemistry to map dorsal-striatal D1R and D2R expression at the promoter level in postnatal day 0 (PD0) Drd1a-tdTomato/Drd2-GFP BAC transgenic mice, and at the receptor level by costaining for native D1R and D2R in wildtype (WT) PD0 animals. To assess for potential molecular interactions between D1R and D2R we also employed a recently developed proximity-ligation assay (PLA). Limited coexpression and colocalization of the D1R and D2R proteins was found in clusters of neurons endemic to the \"patch\" compartment as identified by costaining with tyrosine hydroxylase, but not outside these clusters. Moreover, in contrast to our recent findings where we failed to detect a D1R-D2R PLA signal in the adult striatum, in PD0 striatum we did identify a clear PLA signal for this pair of receptors. This colocalization at close proximity points to a possible role for D1R/D2R-mediated crosstalk in early striatal ontogeny.",
+        "Keywords": [
+            "AB_10013483",
+            "AB_10710873",
+            "AB_1840787",
+            "AB_2079751",
+            "AB_300798",
+            "IMSR_JAX:016204",
+            "IMSR_MMRRC:000230",
+            "RRID: AB_11213750",
+            "dopamine receptors",
+            "matrix",
+            "neonate",
+            "nif-0000-30467",
+            "nlx_153890",
+            "patch",
+            "proximity-ligation assay",
+            "rid_000081",
+            "striatum"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Animals, Newborn",
+            "Corpus Striatum",
+            "Fluorescent Antibody Technique",
+            "Green Fluorescent Proteins",
+            "Mice, Inbred C57BL",
+            "Mice, Knockout",
+            "Mice, Transgenic",
+            "Microscopy, Confocal",
+            "Neurons",
+            "Receptors, Dopamine D1",
+            "Receptors, Dopamine D2",
+            "Tyrosine 3-Monooxygenase"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dominik K",
+                "Last Name": "Biezonski",
+                "Affiliation": "Department of Psychiatry, Division of Molecular Therapeutics, Columbia University, New York State Psychiatric Institute, New York, New York, 10032, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Trifilieff",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jozsef",
+                "Last Name": "Meszaros",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan A",
+                "Last Name": "Javitch",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of comparative neurology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "24813335",
+        "Title": "Mediodorsal thalamus hypofunction impairs flexible goal-directed behavior.",
+        "Abstract": "Cognitive inflexibility is a core symptom of several mental disorders including schizophrenia. Brain imaging studies in schizophrenia patients performing cognitive tasks have reported decreased activation of the mediodorsal thalamus (MD). Using a pharmacogenetic approach to model MD hypofunction, we recently showed that decreasing MD activity impairs reversal learning in mice. While this demonstrates causality between MD hypofunction and cognitive inflexibility, questions remain about the elementary cognitive processes that account for the deficit.",
+        "Keywords": [
+            "Behavioral flexibility",
+            "DREADD system",
+            "Goal-directed behavior",
+            "Mediodorsal thalamus",
+            "Pavlovian-to-instrumental transfer",
+            "Schizophrenia"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Conditioning, Classical",
+            "Conditioning, Operant",
+            "Cues",
+            "Discrimination, Psychological",
+            "Extinction, Psychological",
+            "Goals",
+            "Male",
+            "Mice, Inbred C57BL",
+            "Reversal Learning",
+            "Reward",
+            "Thalamus",
+            "Transfer, Psychology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sébastien",
+                "Last Name": "Parnaudeau",
+                "Affiliation": "Departments of Psychiatry (SP, KT, SSB, RDW, PDB, CK), Columbia University, New York, New York; Department of Pharmacology, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Kathleen",
+                "Last Name": "Taylor",
+                "Affiliation": "Departments of Psychiatry (SP, KT, SSB, RDW, PDB, CK), Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Scott S",
+                "Last Name": "Bolkan",
+                "Affiliation": "Departments of Psychiatry (SP, KT, SSB, RDW, PDB, CK), Columbia University, New York, New York; Department of Pharmacology, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Ryan D",
+                "Last Name": "Ward",
+                "Affiliation": "Departments of Psychiatry (SP, KT, SSB, RDW, PDB, CK), Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Balsam",
+                "Affiliation": "Departments of Psychiatry (SP, KT, SSB, RDW, PDB, CK), Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Departments of Psychiatry (SP, KT, SSB, RDW, PDB, CK), Columbia University, New York, New York; Department of Pharmacology, Columbia University, New York, New York.. Electronic address: ck491@columbia.edu."
+            }
+        ],
+        "Journal": "Biological psychiatry",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "24411738",
+        "Title": "Dopamine D2 receptors regulate the anatomical and functional balance of basal ganglia circuitry.",
+        "Abstract": "Structural plasticity in the adult brain is essential for adaptive behavior. We have found a remarkable anatomical plasticity in the basal ganglia of adult mice that is regulated by dopamine D2 receptors (D2Rs). By modulating neuronal excitability, striatal D2Rs bidirectionally control the density of direct pathway collaterals in the globus pallidus that bridge the direct pathway with the functionally opposing indirect pathway. An increase in bridging collaterals is associated with enhanced inhibition of pallidal neurons in vivo and disrupted locomotor activation after optogenetic stimulation of the direct pathway. Chronic blockade with haloperidol, an antipsychotic medication used to treat schizophrenia, decreases the extent of bridging collaterals and rescues the locomotor imbalance. These findings identify a role for bridging collaterals in regulating the concerted balance of striatal output and may have important implications for understanding schizophrenia, a disease involving excessive activation of striatal D2Rs that is treated with D2R blockers.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Action Potentials",
+            "Animals",
+            "Basal Ganglia",
+            "Calcium-Calmodulin-Dependent Protein Kinase Type 2",
+            "Corpus Striatum",
+            "Dopamine Antagonists",
+            "Doxycycline",
+            "Gene Expression Regulation",
+            "Globus Pallidus",
+            "Green Fluorescent Proteins",
+            "Haloperidol",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Transgenic",
+            "Mutation",
+            "Nerve Net",
+            "Neural Pathways",
+            "Neurons",
+            "Potassium Channels, Inwardly Rectifying",
+            "Receptors, Dopamine D1",
+            "Receptors, Dopamine D2",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Maxime",
+                "Last Name": "Cazorla",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY 10032, USA; Department of Pharmacology, Columbia University, New York, NY 10032, USA; Department of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Fernanda Delmondes",
+                "Last Name": "de Carvalho",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY 10032, USA; Department of Pharmacology, Columbia University, New York, NY 10032, USA; Department of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Muhammad O",
+                "Last Name": "Chohan",
+                "Affiliation": "Department of Integrative Neuroscience, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Mariya",
+                "Last Name": "Shegda",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY 10032, USA; Department of Pharmacology, Columbia University, New York, NY 10032, USA; Department of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Nao",
+                "Last Name": "Chuhma",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY 10032, USA; Department of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Stephen",
+                "Last Name": "Rayport",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY 10032, USA; Department of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Susanne E",
+                "Last Name": "Ahmari",
+                "Affiliation": "Translational Neuroscience Program, Department of Psychiatry, University of Pittsburgh, Pittsburgh, PA 15213, USA."
+            },
+            {
+                "First Name": "Holly",
+                "Last Name": "Moore",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY 10032, USA; Department of Integrative Neuroscience, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY 10032, USA; Department of Pharmacology, Columbia University, New York, NY 10032, USA; Department of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA. Electronic address: ck491@columbia.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24387821",
+        "Title": "Selective overexpression of dopamine D3 receptors in the striatum disrupts motivation but not cognition.",
+        "Abstract": "Evidence indicating an increase in dopamine D2 receptor (D2R) density and occupancy in patients with schizophrenia comes from positron emission tomography studies using ligands that bind both D2Rs and dopamine D3 receptors (D3Rs), questioning the role of D3Rs in the pathophysiology of the disease. Dopamine D3 receptor positron emission tomography ligands have recently been developed and antagonists with preferential affinity for D3R versus D2R are undergoing clinical evaluation. To determine if an increase in D3Rs in the striatum could produce phenotypes relevant to schizophrenia, we generated a transgenic model of striatal D3R overexpression.",
+        "Keywords": [
+            "Cognition",
+            "dopamine D3 receptor",
+            "motivation",
+            "schizophrenia",
+            "striatum",
+            "transgenic model"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Anxiety",
+            "Cognition",
+            "Corpus Striatum",
+            "Disease Models, Animal",
+            "Down-Regulation",
+            "Learning",
+            "Mice",
+            "Mice, Transgenic",
+            "Motivation",
+            "Motor Activity",
+            "RNA, Messenger",
+            "Receptors, Dopamine D1",
+            "Receptors, Dopamine D3",
+            "Schizophrenia",
+            "Sensory Gating"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eleanor H",
+                "Last Name": "Simpson",
+                "Affiliation": "New York State Psychiatric Institute, Columbia University, New York, New York; Department of Psychiatry, Columbia University, New York, New York. Electronic address: es534@columbia.edu."
+            },
+            {
+                "First Name": "Vanessa",
+                "Last Name": "Winiger",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Dominik K",
+                "Last Name": "Biezonski",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Iram",
+                "Last Name": "Haq",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Eric R",
+                "Last Name": "Kandel",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, New York; Department of Neuroscience, Columbia University, New York, New York; Howard Hughes Medical Institute, Chevy Chase, Maryland; The Kavli Institute for Brain Science, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "New York State Psychiatric Institute, Columbia University, New York, New York; Department of Psychiatry, Columbia University, New York, New York; Department of Pharmacology, Columbia University, New York, New York."
+            }
+        ],
+        "Journal": "Biological psychiatry",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "23522049",
+        "Title": "Inhibition of mediodorsal thalamus disrupts thalamofrontal connectivity and cognition.",
+        "Abstract": "Cognitive deficits are central to schizophrenia, but the underlying mechanisms still remain unclear. Imaging studies performed in patients point to decreased activity in the mediodorsal thalamus (MD) and reduced functional connectivity between the MD and prefrontal cortex (PFC) as candidate mechanisms. However, a causal link is still missing. We used a pharmacogenetic approach in mice to diminish MD neuron activity and examined the behavioral and physiological consequences. We found that a subtle decrease in MD activity is sufficient to trigger selective impairments in prefrontal-dependent cognitive tasks. In vivo recordings in behaving animals revealed that MD-PFC beta-range synchrony is enhanced during acquisition and performance of a working memory task. Decreasing MD activity interfered with this task-dependent modulation of MD-PFC synchrony, which correlated with impaired working memory. These findings suggest that altered MD activity is sufficient to disrupt prefrontal-dependent cognitive behaviors and could contribute to the cognitive symptoms observed in schizophrenia.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cognition",
+            "Male",
+            "Mediodorsal Thalamic Nucleus",
+            "Memory, Short-Term",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Neural Inhibition",
+            "Neural Pathways",
+            "Prefrontal Cortex",
+            "Psychomotor Performance"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sebastien",
+                "Last Name": "Parnaudeau",
+                "Affiliation": "Department of Psychiatry, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Pia-Kelsey",
+                "Last Name": "O'Neill",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Scott S",
+                "Last Name": "Bolkan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ryan D",
+                "Last Name": "Ward",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Atheir I",
+                "Last Name": "Abbas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bryan L",
+                "Last Name": "Roth",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Balsam",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joshua A",
+                "Last Name": "Gordon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23015686",
+        "Title": "Schizophrenia in translation: dissecting motivation in schizophrenia and rodents.",
+        "Abstract": "The negative symptoms of schizophrenia include deficits in motivation, for which there is currently no treatment available. Animal models provide a powerful tool for identifying the potential pathophysiological mechanisms underlying the motivation deficits of schizophrenia with the aim of discovering novel treatment targets. The success of such an approach critically depends on meticulously detailed analysis of motivational phenotypes in patients and in animal models. Here, we review the results of recent human behavioral and imaging studies of motivation, and we relate those findings to the results from animal studies, including a mouse model of striatal dopamine D2 receptor hyperfunction. The motivational deficit in patients with schizophrenia is not due to an inability to experience pleasure in the moment as hedonic reaction appears intact in patients. Instead, the motivation deficit represents a reduced capacity for anticipating future pleasure resulting from goal-directed action. The diminished anticipation appears to be a consequence of an inability to accurately represent the expected reward values of actions. A strikingly similar phenotype in incentive motivation has also been described in mice with striatal dopamine D2 receptor hyperfunction. These convergent findings identify potential pathophysiological mechanisms that underlie the deficit in anticipatory motivation, and importantly, the mouse model provides a tool for investigating novel treatment strategies, which we discuss here.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Anhedonia",
+            "Animals",
+            "Behavior, Animal",
+            "Corpus Striatum",
+            "Disease Models, Animal",
+            "Humans",
+            "Mice",
+            "Motivation",
+            "Receptors, Dopamine D2",
+            "Reward",
+            "Schizophrenia",
+            "Schizophrenic Psychology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eleanor H",
+                "Last Name": "Simpson",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY, USA. es534@columbia.edu"
+            },
+            {
+                "First Name": "James A",
+                "Last Name": "Waltz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Balsam",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Schizophrenia bulletin",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22396414",
+        "Title": "Striatal D2 receptors regulate dendritic morphology of medium spiny neurons via Kir2 channels.",
+        "Abstract": "Structural plasticity in the adult brain is essential for adaptive behaviors and is thought to contribute to a variety of neurological and psychiatric disorders. Medium spiny neurons of the striatum show a high degree of structural plasticity that is modulated by dopamine through unknown signaling mechanisms. Here, we demonstrate that overexpression of dopamine D2 receptors in medium spiny neurons increases their membrane excitability and decreases the complexity and length of their dendritic arbors. These changes can be reversed in the adult animal after restoring D2 receptors to wild-type levels, demonstrating a remarkable degree of structural plasticity in the adult striatum. Increased excitability and decreased dendritic arborization are associated with downregulation of inward rectifier potassium channels (Kir2.1/2.3). Downregulation of Kir2 function is critical for the neurophysiological and morphological changes in vivo because virally mediated expression of a dominant-negative Kir2 channel is sufficient to recapitulate the changes in D2 transgenic mice. These findings may have important implications for the understanding of basal ganglia disorders, and more specifically schizophrenia, in which excessive activation of striatal D2 receptors has long been hypothesized to be of pathophysiologic significance.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Corpus Striatum",
+            "Dendrites",
+            "Down-Regulation",
+            "Male",
+            "Mice",
+            "Mice, 129 Strain",
+            "Mice, Inbred C57BL",
+            "Mice, Transgenic",
+            "Neural Inhibition",
+            "Neurons",
+            "Potassium Channels, Inwardly Rectifying",
+            "Receptors, Dopamine D2"
+        ],
+        "Authors": [
+            {
+                "First Name": "Maxime",
+                "Last Name": "Cazorla",
+                "Affiliation": "Department of Psychiatry, Pharmacology, and Anesthesiology, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Mariya",
+                "Last Name": "Shegda",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bhavani",
+                "Last Name": "Ramesh",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Neil L",
+                "Last Name": "Harrison",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21730148",
+        "Title": "D2 receptor overexpression in the striatum leads to a deficit in inhibitory transmission and dopamine sensitivity in mouse prefrontal cortex.",
+        "Abstract": "Two distinct defects are thought to be important for the pathophysiology of schizophrenia. One is an increase of D2 receptors (D2Rs) in the striatum and another is a decrease in the GABAergic function in the prefrontal cortex (PFC). Whether these two defects are functionally linked is not known. We previously reported that selective overexpression of D2Rs in the striatum of the mouse causes behavioral abnormality associated with PFC functions. Using patch-clamp recording, we find that overexpression of D2Rs in the striatum affects inhibitory transmission in the PFC and dopamine (DA) sensitivity. The overexpression of D2Rs in the striatum caused an increase in frequency of spontaneous excitatory postsynaptic currents (EPSCs) in layer V pyramidal neurons, whereas their neuronal excitability was unaffected. In contrast, both the frequency and amplitude of spontaneous inhibitory postsynaptic currents (sIPSCs) were significantly decreased in these mice, indicating a reduced inhibitory transmission. Furthermore, in D2R transgenic mice the dopaminergic modulation of evoked IPSCs was shifted, with reduced sensitivity. The change in dopamine sensitivity in the PFC of D2R transgenic mice appears specific for D2Rs because in D2R transgenic mice the effects of D2 agonist but not D1 agonist, on both evoked IPSCs and EPSCs, were reduced. Together, these results indicate that overexpression of D2Rs in the striatum leads to a functional deficit in the GABAergic system. These results provide a functional link between D2R overexpression and GABAergic inhibition in the PFC and suggest that the postulated deficit in GABAergic function in schizophrenia could be secondary to alterations in the striatal dopamine system.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Corpus Striatum",
+            "Dopamine",
+            "Electrophysiology",
+            "Excitatory Postsynaptic Potentials",
+            "Genotype",
+            "Mice",
+            "Mice, Transgenic",
+            "Patch-Clamp Techniques",
+            "Polymerase Chain Reaction",
+            "Prefrontal Cortex",
+            "Receptors, Dopamine D2",
+            "Schizophrenia",
+            "Synaptic Transmission"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yan-Chun",
+                "Last Name": "Li",
+                "Affiliation": "Department of Neurobiology and Anatomy, Drexel University College of Medicine, Philadelphia, PA 19129, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eleanor H",
+                "Last Name": "Simpson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric R",
+                "Last Name": "Kandel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wen-Jun",
+                "Last Name": "Gao",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21530549",
+        "Title": "Timing as a window on cognition in schizophrenia.",
+        "Abstract": "Distorted interval timing is a common feature of the cognitive impairment observed in patients with schizophrenia. The neural circuits which are required for interval timing and those thought to be compromised in schizophrenia overlap and include the cortico-striatal pathways. Here, we suggest that a focus on temporal information processing offers a window into understanding the cognitive deficits of schizophrenia and how deficits might contribute to a variety of symptoms. A disruption in the functioning of the cortico-striatal pathways may lead to cognitive deficits which in turn lead to impaired processing of temporal information. Disrupted temporal processing may also contribute to a variety of other symptoms associated with the disorder. Because interval timing is a cognitive/behavioral phenotype that can easily be assessed in animals it can be used as a sensitive screen for deficits in animal models. Using a recently developed transgenic mouse that models increased D2 receptor upregulation in the striatum similar to that observed in patients with schizophrenia we illustrate the utility of an interval timing approach in assessing cognitive impairment. We further discuss how variants of timing procedures can be used to assess attention and working memory performance as well as other necessary components of adaptive cognitive function.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cognition",
+            "Cognition Disorders",
+            "Disease Models, Animal",
+            "Humans",
+            "Mice",
+            "Mice, Transgenic",
+            "Schizophrenia",
+            "Schizophrenic Psychology",
+            "Time Factors",
+            "Time Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ryan D",
+                "Last Name": "Ward",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, NY 10032, USA. rw2353@columbia.edu"
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric R",
+                "Last Name": "Kandel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Balsam",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuropharmacology",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21414604",
+        "Title": "Pharmacologic rescue of motivational deficit in an animal model of the negative symptoms of schizophrenia.",
+        "Abstract": "Deficits in incentive motivation, the energizing of behavior in pursuit of a goal, occur in many psychiatric disorders including schizophrenia. We previously reported deficits in both cognition and incentive motivation in a transgenic mouse model of increased striatal-specific dopamine D2 receptor (D2R) density (D2R-OE mice). This molecular alteration is observed in patients with schizophrenia, making D2R-OE mice a suitable system to study the cellular and molecular mechanisms of motivation and avolition, as well as a tool for testing potential therapies against motivational deficits.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Affective Symptoms",
+            "Aminopyridines",
+            "Analysis of Variance",
+            "Animals",
+            "Conditioning, Operant",
+            "Corpus Striatum",
+            "Disease Models, Animal",
+            "Gene Expression",
+            "Indoles",
+            "Mice",
+            "Mice, Transgenic",
+            "Motivation",
+            "Receptor, Serotonin, 5-HT2C",
+            "Receptors, Dopamine D2",
+            "Reward",
+            "Schizophrenia",
+            "Serotonin 5-HT2 Receptor Antagonists",
+            "Up-Regulation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eleanor H",
+                "Last Name": "Simpson",
+                "Affiliation": "Department of Psychiatry, Columbia University, New York, New York 10032, USA. es534@columbia.edu"
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ryan D",
+                "Last Name": "Ward",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vanessa",
+                "Last Name": "Richards",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Olga",
+                "Last Name": "Lipatova",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen",
+                "Last Name": "Fairhurst",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric R",
+                "Last Name": "Kandel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Balsam",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Biological psychiatry",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "20223196",
+        "Title": "A possible role for the striatum in the pathogenesis of the cognitive symptoms of schizophrenia.",
+        "Abstract": "The cognitive symptoms of schizophrenia are largely resistant to current treatment and are thus a life-long burden of the illness. Studies of cognitive symptoms have commonly focused on prefrontal cortex because of its demonstrated importance for executive function and working memory--key components of the deficit. The role of striatal-cortical circuitry and therefore the striatum itself has received much less attention. Here we review longstanding evidence that the striatum and its cortical connections are critical for complex cognition and discuss emerging evidence of the striatum's potential involvement in cognitive symptoms. Finally, we suggest how mouse models might test ideas about the contribution of early striatal dysfunction to the cognitive symptoms of schizophrenia.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cerebral Cortex",
+            "Cognition Disorders",
+            "Corpus Striatum",
+            "Disease Models, Animal",
+            "Dopamine",
+            "Humans",
+            "Mice",
+            "Models, Biological",
+            "Neural Pathways",
+            "Schizophrenia",
+            "Schizophrenic Psychology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eleanor H",
+                "Last Name": "Simpson",
+                "Affiliation": "Department of Psychiatry, Columbia University and New York State Psychiatric Institute, 1051 Riverside Drive, New York, NY 10032, USA. es534@columbia.edu"
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Kandel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19634929",
+        "Title": "Impaired timing precision produced by striatal D2 receptor overexpression is mediated by cognitive and motivational deficits.",
+        "Abstract": "Increased striatal dopamine D2 receptor activity is thought to contribute to the pathophysiology of schizophrenia. To model this condition in mice, Kellendonk et al. (2006) generated transgenic mice that selectively overexpress the D2 receptor in striatum (D2OE). Drew et al. (2007) reported that D2OE mice display deficits in interval timing and motivation. The present study further explored the impaired timing in D2OE mice. Experiment 1 assessed the role of motivation in producing timing deficits in the peak procedure and found that performance in D2OE mice was improved by increasing motivation. In addition, performance was impaired in control mice when motivation was decreased. In Experiment 2, we found that D2OE mice have no timing impairment when tested using the bisection task, a procedure in which the measure of timing performance is less influenced by motivation to respond. In Experiment 3, we also used the bisection task and found selective impairment in timing of long durations in D2OE mice. These results suggest that striatal D2 overexpression impairs timing by decreasing motivation and through its impact on working memory and/or sustained attention.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Analysis of Variance",
+            "Animals",
+            "Cognition",
+            "Corpus Striatum",
+            "Female",
+            "Genotype",
+            "Humans",
+            "Mice",
+            "Mice, Transgenic",
+            "Motivation",
+            "Neuropsychological Tests",
+            "Reaction Time",
+            "Receptors, Dopamine D2",
+            "Time Factors",
+            "Time Perception"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ryan D",
+                "Last Name": "Ward",
+                "Affiliation": "Department of Psychiatry, Columbia University, NY State Psychiatric Institute, 1051 Riverside Drive, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eleanor H",
+                "Last Name": "Simpson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Olga",
+                "Last Name": "Lipatova",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael R",
+                "Last Name": "Drew",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen",
+                "Last Name": "Fairhurst",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric R",
+                "Last Name": "Kandel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Balsam",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Behavioral neuroscience",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19409625",
+        "Title": "Modeling cognitive endophenotypes of schizophrenia in mice.",
+        "Abstract": "Schizophrenia is a complex mental disorder that is still characterized by its symptoms rather than by biological markers because we have only a limited knowledge of its underlying molecular basis. In the past two decades, however, technical advances in genetics and brain imaging have provided new insights into the biology of the disease. Based on these advances we are now in a position to develop animal models that can be used to test specific hypotheses of the disease and explore mechanisms of pathogenesis. Here, we consider some of the insights that have emerged from studying in mice the relationship between defined genetic and molecular alterations and the cognitive endophenotypes of schizophrenia.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cognition",
+            "Corpus Striatum",
+            "Disease Models, Animal",
+            "Gene Dosage",
+            "Humans",
+            "Mice",
+            "Mice, Transgenic",
+            "Models, Genetic",
+            "Phenotype",
+            "Polymorphism, Genetic",
+            "Prefrontal Cortex",
+            "Receptors, Dopamine D2",
+            "Schizophrenia",
+            "Schizophrenic Psychology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Columbia University, 1051 Riverside Drive, New York, NY 10032, USA. ck491@columbia.edu"
+            },
+            {
+                "First Name": "Eleanor H",
+                "Last Name": "Simpson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric R",
+                "Last Name": "Kandel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Trends in neurosciences",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "20302818",
+        "Title": "Modeling excess striatal D2 receptors in mice.",
+        "Abstract": "Dopaminergic hyperactivity in the striatum has been one of the most replicated physiological findings in patients with schizophrenia. To study the consequences of increased D2 receptor density in the striatum, as it has been observed in patients with schizophrenia, D2 receptors have been selectively over-expressed in the mouse striatum. Here, the analysis of this mouse model is summarized and discussed in the context of the dopamine hypothesis of schizophrenia.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Brain Chemistry",
+            "Cerebral Cortex",
+            "Corpus Striatum",
+            "Disease Models, Animal",
+            "Dopamine",
+            "Humans",
+            "Mice",
+            "Receptors, Dopamine D2",
+            "Schizophrenia",
+            "Up-Regulation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Department of Psychiatry, Department of Pharmacology, New York, NY, USA. ck491@columbia.edu"
+            }
+        ],
+        "Journal": "Progress in brain research",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18832466",
+        "Title": "Transient and selective overexpression of D2 receptors in the striatum causes persistent deficits in conditional associative learning.",
+        "Abstract": "Cognitive deficits in schizophrenia are thought to derive from a hypofunction of the prefrontal cortex (PFC), but the origin of the hypofunction is unclear. To explore the nature of this deficit, we genetically modified mice to model the increase in striatal dopamine D(2) receptors (D(2)Rs) observed in patients with schizophrenia. Previously, we reported deficits in spatial working memory tasks in these mice, congruent with the working memory deficits observed in schizophrenia. However, patients with schizophrenia suffer from deficits in many executive functions, including associative learning, planning, problem solving, and nonspatial working memory. We therefore developed operant tasks to assay two executive functions, conditional associative learning (CAL) and nonspatial working memory. Striatal D(2)R-overexpressing mice show a deficit in CAL because of perseverative behavior, caused by interference from the previous trial. D(2)R up-regulation during development was sufficient to cause this deficit, because switching off the transgene in adulthood did not rescue the phenotype. We validated prefrontal dependency of CAL by using neurotoxic lesions. Lesions of the medial PFC including the anterior cingulate, infralimbic, and prelimbic cortices impair CAL because of increased interference from previously rewarded trials, exactly as observed in D(2)R transgenic mice. In contrast, lesions restricted to the infralimbic and prelimbic cortices have no effect on CAL but impair performance in the nonspatial working memory task. These assays not only give us insight into how excess striatal D(2)Rs affect cognition but also provide tools for studying cognitive endophenotypes in mice.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Association Learning",
+            "Corpus Striatum",
+            "Memory Disorders",
+            "Memory, Short-Term",
+            "Mice",
+            "Mice, Mutant Strains",
+            "Receptors, Dopamine D2",
+            "Schizophrenia",
+            "Up-Regulation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mary-Elizabeth",
+                "Last Name": "Bach",
+                "Affiliation": "Department of Neuroscience, Columbia University, 1051 Riverside Drive, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Eleanor H",
+                "Last Name": "Simpson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lora",
+                "Last Name": "Kahn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John J",
+                "Last Name": "Marshall",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric R",
+                "Last Name": "Kandel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17634367",
+        "Title": "Transient overexpression of striatal D2 receptors impairs operant motivation and interval timing.",
+        "Abstract": "The striatum receives prominent dopaminergic innervation that is integral to appetitive learning, performance, and motivation. Signaling through the dopamine D2 receptor is critical for all of these processes. For instance, drugs with high affinity for the D2 receptor potently alter timing of operant responses and modulate motivation. Recently, in an attempt to model a genetic abnormality encountered in schizophrenia, mice were generated that reversibly overexpress D2 receptors specifically in the striatum (Kellendonk et al., 2006). These mice have impairments in working memory and behavioral flexibility, components of the cognitive symptoms of schizophrenia, that are not rescued when D2 overexpression is reversed in the adult. Here we report that overexpression of striatal D2 receptors also profoundly affects operant performance, a potential index of negative symptoms. Mice overexpressing D2 exhibited impairments in the ability to time food rewards in an operant interval timing task and reduced motivation to lever press for food reward in both the operant timing task and a progressive ratio schedule of reinforcement. The motivational deficit, but not the timing deficit, was rescued in adult mice by reversing D2 overexpression with doxycycline. These results suggest that early D2 overexpression alters the organization of interval timing circuits and confirms that striatal D2 signaling in the adult regulates motivational process. Moreover, overexpression of D2 under pathological conditions such as schizophrenia and Parkinson's disease could give rise to motivational and timing deficits.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acetylcholinesterase",
+            "Analysis of Variance",
+            "Animals",
+            "Appetitive Behavior",
+            "Behavior, Animal",
+            "Conditioning, Operant",
+            "Corpus Striatum",
+            "Doxycycline",
+            "Gene Expression",
+            "Humans",
+            "In Situ Hybridization",
+            "Learning Disabilities",
+            "Mathematics",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Transgenic",
+            "Motivation",
+            "Receptors, Dopamine D2",
+            "Reinforcement Schedule",
+            "Reinforcement, Psychology",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael R",
+                "Last Name": "Drew",
+                "Affiliation": "Division of Integrative Neuroscience, Department of Psychiatry, College of Physicians and Surgeons of Columbia University, New York, New York 10032, USA. mrd28@columbia.edu"
+            },
+            {
+                "First Name": "Eleanor H",
+                "Last Name": "Simpson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "William G",
+                "Last Name": "Herzberg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Olga",
+                "Last Name": "Lipatova",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen",
+                "Last Name": "Fairhurst",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric R",
+                "Last Name": "Kandel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chara",
+                "Last Name": "Malapani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Balsam",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17113268",
+        "Title": "DRD2 C957T polymorphism interacts with the COMT Val158Met polymorphism in human working memory ability.",
+        "Abstract": "The C957T polymorphism in the dopamine D2 receptor (DRD2) gene and the Val158Met polymorphism in the Catechol-O-Methyl-Transferase (COMT) gene affect dopamine transmission and have been found to be associated with schizophrenia. Since DRD2 in mice and the COMT gene in humans modulate working memory, we examined the relationship and possible interaction of both polymorphisms to working memory performance in 188 healthy adults. Subjects having the DRD2 C/C allele showed the poorest performance in a word serial position test. Moreover, the effect of the C957T genotype was strengthened when interaction with the COMT Val158Met polymorphism was included in the analysis. We propose that an interaction of the DRD2 C957T and COMT Val158Met may be involved in the generation of some working memory deficits in schizophrenia.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Alleles",
+            "Catechol O-Methyltransferase",
+            "Female",
+            "Genotype",
+            "Humans",
+            "Male",
+            "Memory, Short-Term",
+            "Methionine",
+            "Middle Aged",
+            "Polymorphism, Genetic",
+            "Polymorphism, Single Nucleotide",
+            "Receptors, Dopamine D2",
+            "Reference Values",
+            "Risk Factors",
+            "Schizophrenia",
+            "Serial Learning",
+            "Synaptic Transmission",
+            "Valine",
+            "Verbal Learning"
+        ],
+        "Authors": [
+            {
+                "First Name": "Haiyan",
+                "Last Name": "Xu",
+                "Affiliation": "Department of Genetics and Development, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Christoph B",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eleanor H",
+                "Last Name": "Simpson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John G",
+                "Last Name": "Keilp",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gerard E",
+                "Last Name": "Bruder",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "H Jonathan",
+                "Last Name": "Polan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric R",
+                "Last Name": "Kandel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "T Conrad",
+                "Last Name": "Gilliam",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Schizophrenia research",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "16476668",
+        "Title": "Transient and selective overexpression of dopamine D2 receptors in the striatum causes persistent abnormalities in prefrontal cortex functioning.",
+        "Abstract": "Increased activity of D2 receptors (D2Rs) in the striatum has been linked to the pathophysiology of schizophrenia. To determine directly the behavioral and physiological consequences of increased D2R function in the striatum, we generated mice with reversibly increased levels of D2Rs restricted to the striatum. D2 transgenic mice exhibit selective cognitive impairments in working memory tasks and behavioral flexibility without more general cognitive deficits. The deficit in the working memory task persists even after the transgene has been switched off, indicating that it results not from continued overexpression of D2Rs but from excess expression during development. To determine the effects that may mediate the observed cognitive deficits, we analyzed the prefrontal cortex, the brain structure mainly associated with working memory. We found that D2R overexpression in the striatum impacts dopamine levels, rates of dopamine turnover, and activation of D1 receptors in the prefrontal cortex, measures that are critical for working memory.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adenylyl Cyclases",
+            "Analysis of Variance",
+            "Animals",
+            "Behavior, Animal",
+            "Carbon Isotopes",
+            "Cognition Disorders",
+            "Corpus Striatum",
+            "Deoxyglucose",
+            "Disease Models, Animal",
+            "Dopamine Agonists",
+            "Dopamine Antagonists",
+            "Dose-Response Relationship, Drug",
+            "Doxycycline",
+            "Excitatory Amino Acid Agonists",
+            "Gene Expression",
+            "Glucose",
+            "Humans",
+            "Immunohistochemistry",
+            "In Situ Hybridization",
+            "Male",
+            "Memory, Short-Term",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Transgenic",
+            "N-Methylaspartate",
+            "Prefrontal Cortex",
+            "Protein Binding",
+            "Proto-Oncogene Proteins c-fos",
+            "Radioligand Assay",
+            "Reaction Time",
+            "Receptors, Dopamine D2",
+            "Spiperone",
+            "Time Factors",
+            "Tritium"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Center for Neurobiology and Behavior, College of Physicians and Surgeons, Columbia University, 1051 Riverside Drive, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Eleanor H",
+                "Last Name": "Simpson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "H Jonathan",
+                "Last Name": "Polan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gaël",
+                "Last Name": "Malleret",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Svetlana",
+                "Last Name": "Vronskaya",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vanessa",
+                "Last Name": "Winiger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Holly",
+                "Last Name": "Moore",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric R",
+                "Last Name": "Kandel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "15031319",
+        "Title": "Inactivation of the glucocorticoid receptor in hepatocytes leads to fasting hypoglycemia and ameliorates hyperglycemia in streptozotocin-induced diabetes mellitus.",
+        "Abstract": "Hepatic glucose production by gluconeogenesis is the main source of glucose during fasting and contributes significantly to hyperglycemia in diabetes mellitus. Accordingly, glucose metabolism is tightly controlled by a variety of hormones including insulin, epinephrine, glucagon, and glucocorticoids (GCs) acting on various cell types. GC effects are mediated by the GC receptor (GR), a ligand-dependent transcription factor, which in the liver and kidney controls gluconeogenesis by induction of gluconeogenic enzymes. To specifically study the contribution of GC on liver carbohydrate metabolism, we generated mice with an inactivation of the GR gene exclusively in hepatocytes using the Cre/loxP technology. Half of the mutant mice die within the first 2 d after birth most likely due to hypoglycemia. Adult mice have normal blood sugar under basal conditions but show hypoglycemia after prolonged starvation due to reduced expression of genes involved in gluconeogenesis. We further demonstrate that absence of GR in hepatocytes limits the development of hyperglycemia in streptozotocin-induced diabetes mellitus probably due to impaired induction of gluconeogenesis. These findings show the essential role of GR function in liver glucose metabolism during fasting and in diabetic mice and indicate that liver-specific GC antagonists could be beneficial in control of diabetic hyperglycemia.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Blood Glucose",
+            "Blotting, Northern",
+            "Body Weight",
+            "Carbohydrate Metabolism",
+            "Crosses, Genetic",
+            "Diabetes Mellitus, Experimental",
+            "Female",
+            "Genotype",
+            "Glucose",
+            "Hepatocytes",
+            "Hypoglycemia",
+            "Ligands",
+            "Liver",
+            "Male",
+            "Mass Spectrometry",
+            "Mice",
+            "Mice, Mutant Strains",
+            "Organ Size",
+            "RNA, Messenger",
+            "Receptors, Glucocorticoid",
+            "Streptozocin",
+            "Time Factors",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christian",
+                "Last Name": "Opherk",
+                "Affiliation": "Molecular Biology of the Cell I, Deutsches Krebsforschungszentrum, University Children's Hospital, Heidelberg, Germany."
+            },
+            {
+                "First Name": "François",
+                "Last Name": "Tronche",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dirk",
+                "Last Name": "Kohlmüller",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andreas",
+                "Last Name": "Schulze",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wolfgang",
+                "Last Name": "Schmid",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Günther",
+                "Last Name": "Schütz",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular endocrinology (Baltimore, Md.)",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "14981263",
+        "Title": "Genetic evidence for the bidirectional modulation of synaptic plasticity in the prefrontal cortex by D1 receptors.",
+        "Abstract": "To address the role of D1 receptors in the medial prefrontal cortex, we combined pharmacological and genetic manipulations to examine long-term synaptic potentiation (LTP)/long-term synaptic depression (LTD) in brain slices of rats and mice. We found that the D1 antagonist SCH23390 selectively blocked the maintenance but not the induction of LTP in the prefrontal cortex. Conversely, activation of D1 receptors facilitated the maintenance of LTP, and this effect is impaired in heterozygous D1 receptor knockout mice. Low-frequency stimulation induced a transient depression in the medial prefrontal cortex. This depression could be transformed into LTD by coapplication of dopamine. Coapplication of dopamine, however, shows no facilitating effect on LTD in heterozygous D1 receptor knockout mice. These results provide pharmacological and genetic evidence for a role of D1 receptors in the bidirectional modulation of synaptic plasticity in the medial prefrontal cortex. The absence of this modulation in heterozygous knockout mice shows that a dysregulation of dopamine receptor expression levels can have dramatic effects on synaptic plasticity in the prefrontal cortex.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Benzazepines",
+            "Dopamine",
+            "Dopamine Antagonists",
+            "In Vitro Techniques",
+            "Kinetics",
+            "Long-Term Potentiation",
+            "Long-Term Synaptic Depression",
+            "Neuronal Plasticity",
+            "Prefrontal Cortex",
+            "Rats",
+            "Rats, Sprague-Dawley",
+            "Receptors, Dopamine D1",
+            "Receptors, Dopamine D2",
+            "Synapses",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yan-You",
+                "Last Name": "Huang",
+                "Affiliation": "Center for Neurobiology and Behavior, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Eleanor",
+                "Last Name": "Simpson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric R",
+                "Last Name": "Kandel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "14716675",
+        "Title": "Gene transfer and genetic modification of embryonic stem cells by Cre- and Cre-PR-expressing MESV-based retroviral vectors.",
+        "Abstract": "Genetic modification of embryonic stem (ES) cells represents a powerful tool for transgenic and developmental experiments. We report that retroviral constructs based on murine embryonal stem cell virus (MESV) can efficiently deliver and express Cre recombinase or a post-translationally inducible Cre-Progesterone receptor (Cre.PR) fusion in mouse fibroblasts and ES cells.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Fibroblasts",
+            "Gene Transfer Techniques",
+            "Genetic Therapy",
+            "Genetic Vectors",
+            "Immunohistochemistry",
+            "Integrases",
+            "Mice",
+            "Mice, Transgenic",
+            "Receptors, Progesterone",
+            "Retroviridae",
+            "Totipotent Stem Cells",
+            "Transgenes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Stelios",
+                "Last Name": "Psarras",
+                "Affiliation": "INSERM U373, Institut Necker, Paris, France."
+            },
+            {
+                "First Name": "Niki",
+                "Last Name": "Karagianni",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "François",
+                "Last Name": "Tronche",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "François-Loic",
+                "Last Name": "Cosset",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Stocking",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Volker",
+                "Last Name": "Schirrmacher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harald von",
+                "Last Name": "Boehmer Hv",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Khashayarsha",
+                "Last Name": "Khazaie",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The journal of gene medicine",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "14643079",
+        "Title": "Using conditional mutagenesis to study the brain.",
+        "Abstract": "Conditional genetic modifications are used to determine how individual molecules contribute to the function of defined neuronal circuits in the mouse brain. Among various techniques for these genetic modifications, the tetracycline transactivator and the Cre-loxP systems have proved to be most successful in recent years. Here we describe the basic principles, recent developments, and potential applications of these methodologies. We discuss their impact on the study of general brain function and their use for modeling different brain disorders.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "Gene Deletion",
+            "Gene Expression Regulation",
+            "Genetic Engineering",
+            "Immunohistochemistry",
+            "Integrases",
+            "Learning",
+            "Memory",
+            "Mice",
+            "Mice, Knockout",
+            "Mice, Transgenic",
+            "Mutagenesis",
+            "Neuronal Plasticity",
+            "Tetracycline",
+            "Trans-Activators",
+            "Transcription, Genetic",
+            "Viral Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alexei",
+                "Last Name": "Morozov",
+                "Affiliation": "Unit on Behavioral Genetics, Laboratory of Molecular Pathophysiology, Department of Health and Humans Services (AM), National Institute of Mental Health, National Institutes of Health, Bethesda, Maryland 20892, USA."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eleanor",
+                "Last Name": "Simpson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Francois",
+                "Last Name": "Tronche",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Biological psychiatry",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12354622",
+        "Title": "When reverse genetics meets physiology: the use of site-specific recombinases in mice.",
+        "Abstract": "The use of site-specific recombinases enables the precise introduction of defined genetic mutations into the mouse genome. In theory, any deletion, point mutation, inversion or translocation can be modeled in mice. Because gene targeting is controlled both spatially and temporally, the function of a given gene can be studied in the desired cell types and at a specific time point. This 'genetic dissection' allows to define gene function in development, physiology or behavior. In this review, we focus on the technical possibilities of Cre and other site-specific recombinases but also discuss their limitations.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Gene Silencing",
+            "Genetic Engineering",
+            "Integrases",
+            "Mice",
+            "Mice, Mutant Strains",
+            "Mice, Transgenic",
+            "Mutation",
+            "Viral Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "François",
+                "Last Name": "Tronche",
+                "Affiliation": "CNRS FRE2401, Molecular Genetics, Neurophysiology and Behavior, Institute of Biology, Collège de France, 11 place Marcelin Berthelot, 75231 Cedex 5, Paris, France. francois.tronhe@college-de-france.fr"
+            },
+            {
+                "First Name": "Emilio",
+                "Last Name": "Casanova",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marc",
+                "Last Name": "Turiault",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Iman",
+                "Last Name": "Sahly",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "FEBS letters",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "12032149",
+        "Title": "STAT3 contributes to the mitogenic response of hepatocytes during liver regeneration.",
+        "Abstract": "STAT3 is rapidly induced during liver regeneration in an interleukin 6 (IL-6)-dependent fashion, and IL-6 is required for normal liver regeneration. We wanted to know whether STAT3 was also required for liver regeneration but disruption of the STAT3 gene during embryonic stages causes lethality. Therefore, an albumin promoter-driven Cre-loxP recombination system was used to create a STAT3 deletion in the adult mouse liver to study the role of STAT3 in liver regeneration. After partial hepatectomy, there was virtually no STAT3 RNA or protein induction in Alb(+) STAT3(fl/fl) livers. STAT3 DNA binding activity was also absent in Alb(+) STAT3(fl/fl) livers. Unlike in control livers, STAT1 was activated in STAT3 conditional-mutant livers posthepatectomy. Hepatocyte DNA synthesis at 40 h posthepatectomy in Alb(+) STAT3(fl/fl) livers was reduced to approximately one-third of the control. Alb(+) STAT3(fl/fl) livers had abnormalities in immediate-early gene activation that largely correlated with but were not identical to those seen in IL-6-/- livers. G(1) phase cyclins including cyclins D1 and E had lower expression levels in Alb(+) STAT3(fl/fl) livers, indicating an abnormal G(1) to S phase transition. Therefore, STAT3 accounts for part of the DNA synthetic response of the hepatocytes during liver regeneration, which cannot be compensated for by induction of STAT1. Normal activation of the MAPK pathway in Alb(+) STAT3(fl/fl) livers reinforces the fact that at least part of the effect of IL-6 on hepatocyte proliferation is not mediated by STAT3. This study provides the first in vivo evidence that STAT3 promotes cell cycle progression and cell proliferation under physiological growth conditions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Blotting, Northern",
+            "Blotting, Western",
+            "Bromodeoxyuridine",
+            "Cell Division",
+            "Cyclin D1",
+            "Cyclin E",
+            "DNA",
+            "DNA, Complementary",
+            "DNA-Binding Proteins",
+            "Hepatocytes",
+            "Immunohistochemistry",
+            "Liver",
+            "MAP Kinase Signaling System",
+            "Mice",
+            "Oligonucleotide Array Sequence Analysis",
+            "Regeneration",
+            "STAT1 Transcription Factor",
+            "STAT3 Transcription Factor",
+            "Signal Transduction",
+            "Time Factors",
+            "Trans-Activators"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wei",
+                "Last Name": "Li",
+                "Affiliation": "Department of Genetics, University of Pennsylvania Medical School, Philadelphia, Pennsylvania 19104, USA."
+            },
+            {
+                "First Name": "Xianping",
+                "Last Name": "Liang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Valeria",
+                "Last Name": "Poli",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rebecca",
+                "Last Name": "Taub",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of biological chemistry",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "12021198",
+        "Title": "Inactivation of the GR in the nervous system affects energy accumulation.",
+        "Abstract": "The homeostatic regulation of body weight protects the organism from the negative consequences of starvation and obesity. Glucocorticoids (GCs) modulate this regulation, although the underlying mechanisms remain unclear. To address the role of central GRs in the regulation of energy balance, we studied mice in which GRs have selectively been inactivated in the nervous system. Mutant mice display marked growth retardation. During suckling age this is associated with normal fat deposition causing a 60% temporary increase of percent body fat, compared with control littermates. After weaning, fat and protein depositions are reduced so that adults are both smaller and leaner than their controls. Decreased food intake and, after weaning, reduced metabolic efficiency account for these developmental disturbances. Plasma levels of leptin and insulin, two important energy balance regulators, are elevated in young mutants but normal in adults. Leptin/body fat ratio is higher at all ages, suggesting disturbed control of circulating leptin as a consequence of chronically elevated GC levels in mutant animals. Adult mutants display increased hypothalamic CRH and NPY levels, but peptide levels of melanin concentrating hormone and Orexin A and B are unchanged. The increased levels of plasma GCs and hypothalamic CRH may act as catabolic signals most likely leading to persistently reduced energy accumulation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aging",
+            "Animals",
+            "Body Composition",
+            "Body Weight",
+            "Corticotropin-Releasing Hormone",
+            "Eating",
+            "Energy Metabolism",
+            "Glucocorticoids",
+            "Growth",
+            "Human Growth Hormone",
+            "Immunohistochemistry",
+            "Insulin",
+            "Insulin-Like Growth Factor I",
+            "Leptin",
+            "Mice",
+            "Mice, Knockout",
+            "Nervous System Physiological Phenomena",
+            "Neuroglia",
+            "Neurons",
+            "Paraventricular Hypothalamic Nucleus",
+            "Rats",
+            "Receptors, Glucocorticoid",
+            "Thyroxine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "German Cancer Research Center, Im Neuenheimer Feld 280, D-69121 Heidelberg, Germany."
+            },
+            {
+                "First Name": "Sandra",
+                "Last Name": "Eiden",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Oliver",
+                "Last Name": "Kretz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Günther",
+                "Last Name": "Schütz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ingrid",
+                "Last Name": "Schmidt",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "François",
+                "Last Name": "Tronche",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eckhart",
+                "Last Name": "Simon",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Endocrinology",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "11827739",
+        "Title": "Corticosteroid receptors in the brain: gene targeting studies.",
+        "Abstract": "Corticosteroids are released by the adrenal cortex with a diurnal rhythm and in response to stressful environmental changes. They not only act on peripheral organs, but also regulate brain physiology, thereby affecting mental processes like emotion and cognition. Here, we discuss the role of the two known corticosteroid receptors--glucocorticoid receptor (GR) and mineralocorticoid receptor (MR)--in the brain by summarizing the results obtained with various genetically modified mouse lines. In these lines, either the GR or the MR gene has been targeted or GR protein levels have been upregulated or downregulated. Analysis of the different lines confirms the importance of GR in the regulation of the hypothalamic pituitary adrenal (HPA) axis because interference with GR activity activates the HPA axis, whereas increased GR protein levels inhibit HPA axis activity. Genetic downregulation of GR protein levels and inactivation of the GR gene in the brain reduce anxiety-related behavior, which reveals a central role of GR in emotional behavior. Both HPA axis activity and anxiety are modulated by corticotropin releasing hormone (CRH); therefore, we include in the discussion results obtained with genetically modified CRH or CRH receptor mice. We further address the important role of corticosteroid receptors for hippocampal function and integrity. Cellular properties of CA1 neurons are changed, and hippocampal-dependent explicit memory is affected in GR mutant animals. Comparing MR and GR mutant animals suggests the requirement of MR but not GR for dentate gyrus granule cell maintenance. Because an imbalance in glucocorticoid levels is associated with cognitive impairments and mental disorders, the described mouse lines will aid in understanding the mechanisms involved in the pathology of these disorders.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adrenal Cortex Hormones",
+            "Animals",
+            "Anxiety",
+            "Gene Expression Regulation",
+            "Gene Targeting",
+            "Hippocampus",
+            "Humans",
+            "Hypothalamo-Hypophyseal System",
+            "Mice",
+            "Mice, Transgenic",
+            "Receptors, Steroid",
+            "Stress, Physiological"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christoph",
+                "Last Name": "Kellendonk",
+                "Affiliation": "Center for Neurobiology and Behavior, Columbia University, New York, NY 10032, USA. ck@fido.cpmc.columbia.edu"
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Gass",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Oliver",
+                "Last Name": "Kretz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Günther",
+                "Last Name": "Schütz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "François",
+                "Last Name": "Tronche",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Brain research bulletin",
+        "PubDate": "2002"
+    }
+]

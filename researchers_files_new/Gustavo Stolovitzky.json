@@ -1,0 +1,3406 @@
+[
+    {
+        "PMID": "39011276",
+        "Title": "Optimal linear ensemble of binary classifiers.",
+        "Abstract": "The integration of vast, complex biological data with computational models offers profound insights and predictive accuracy. Yet, such models face challenges: poor generalization and limited labeled data.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Mehmet Eren",
+                "Last Name": "Ahsen",
+                "Affiliation": "Department of Business Administration, University of Illinois at Urbana-Champaign, Champaign, IL, 61820, United States."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Vogel",
+                "Affiliation": "Thomas J. Watson Research Center, IBM, New York, NY 10598, United States."
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "Thomas J. Watson Research Center, IBM, New York, NY 10598, United States."
+            }
+        ],
+        "Journal": "Bioinformatics advances",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38390492",
+        "Title": "Modeling combination therapies in patient cohorts and cell cultures using correlated drug action.",
+        "Abstract": "Characterizing the effect of combination therapies is vital for treating diseases like cancer. We introduce correlated drug action (CDA), a baseline model for the study of drug combinations in both cell cultures and patient populations, which assumes that the efficacy of drugs in a combination may be correlated. We apply temporal CDA (tCDA) to clinical trial data, and demonstrate the utility of this approach in identifying possible synergistic combinations and others that can be explained in terms of monotherapies. Using MCF7 cell line data, we assess combinations with dose CDA (dCDA), a model that generalizes other proposed models (e.g., Bliss response-additivity, the dose equivalence principle), and introduce Excess over CDA (EOCDA), a new metric for identifying possible synergistic combinations in cell culture.",
+        "Keywords": [
+            "Applied computing",
+            "Computational chemistry"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Adith S",
+                "Last Name": "Arun",
+                "Affiliation": "Department of Applied Mathematics and Statistics, Johns Hopkins University, Baltimore, MD 21218, USA."
+            },
+            {
+                "First Name": "Sung-Cheol",
+                "Last Name": "Kim",
+                "Affiliation": "Psychogenics, Inc, Paramus, NJ 07652, USA."
+            },
+            {
+                "First Name": "Mehmet Eren",
+                "Last Name": "Ahsen",
+                "Affiliation": "Gies College of Business, University of Illinois at Urbana-Champaign, Champaign, IL 61820, USA."
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "DREAM Challenges, NY, NY, 10471, USA."
+            }
+        ],
+        "Journal": "iScience",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "34413191",
+        "Title": "The Fermi-Dirac distribution provides a calibrated probabilistic output for binary classifiers.",
+        "Abstract": "Binary classification is one of the central problems in machine-learning research and, as such, investigations of its general statistical properties are of interest. We studied the ranking statistics of items in binary classification problems and observed that there is a formal and surprising relationship between the probability of a sample belonging to one of the two classes and the Fermi-Dirac distribution determining the probability that a fermion occupies a given single-particle quantum state in a physical system of noninteracting fermions. Using this equivalence, it is possible to compute a calibrated probabilistic output for binary classifiers. We show that the area under the receiver operating characteristics curve (AUC) in a classification problem is related to the temperature of an equivalent physical system. In a similar manner, the optimal decision threshold between the two classes is associated with the chemical potential of an equivalent physical system. Using our framework, we also derive a closed-form expression to calculate the variance for the AUC of a classifier. Finally, we introduce FiDEL (Fermi-Dirac-based ensemble learning), an ensemble learning algorithm that uses the calibrated nature of the classifier's output probability to combine possibly very different classifiers.",
+        "Keywords": [
+            "Fermi–Dirac distribution",
+            "binary classification",
+            "calibrated probability",
+            "ensemble learning",
+            "machine learning"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Sung-Cheol",
+                "Last Name": "Kim",
+                "Affiliation": "IBM Research, IBM Thomas J. Watson Research Center, Yorktown Heights, NY 10598."
+            },
+            {
+                "First Name": "Adith S",
+                "Last Name": "Arun",
+                "Affiliation": "IBM Research, IBM Thomas J. Watson Research Center, Yorktown Heights, NY 10598."
+            },
+            {
+                "First Name": "Mehmet Eren",
+                "Last Name": "Ahsen",
+                "Affiliation": "Gies College of Business, University of Illinois at Urbana-Champaign, Urbana, IL 61820."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Vogel",
+                "Affiliation": "IBM Research, IBM Thomas J. Watson Research Center, Yorktown Heights, NY 10598."
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "IBM Research, IBM Thomas J. Watson Research Center, Yorktown Heights, NY 10598; gustavo.stolo@gmail.com."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "32945258",
+        "Title": "The transcriptomic response of cells to a drug combination is more than the sum of the responses to the monotherapies.",
+        "Abstract": "Our ability to discover effective drug combinations is limited, in part by insufficient understanding of how the transcriptional response of two monotherapies results in that of their combination. We analyzed matched time course RNAseq profiling of cells treated with single drugs and their combinations and found that the transcriptional signature of the synergistic combination was unique relative to that of either constituent monotherapy. The sequential activation of transcription factors in time in the gene regulatory network was implicated. The nature of this transcriptional cascade suggests that drug synergy may ensue when the transcriptional responses elicited by two unrelated individual drugs are correlated. We used these results as the basis of a simple prediction algorithm attaining an AUROC of 0.77 in the prediction of synergistic drug combinations in an independent dataset.",
+        "Keywords": [
+            "LNCaP",
+            "MCF7",
+            "cancer biology",
+            "cell biology",
+            "computational biology",
+            "drug synergy",
+            "human",
+            "rna-seq",
+            "systems biology",
+            "transcriptomics"
+        ],
+        "MeSH terms": [
+            "Algorithms",
+            "Computational Biology",
+            "Drug Combinations",
+            "Drug Synergism",
+            "Gene Expression",
+            "Gene Regulatory Networks",
+            "Humans",
+            "MCF-7 Cells",
+            "RNA-Seq",
+            "Transcription Factors",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jennifer El",
+                "Last Name": "Diaz",
+                "Affiliation": "Department of Genetics and Genomics Sciences, Icahn School of Medicine at Mount Sinai, New York, United States."
+            },
+            {
+                "First Name": "Mehmet Eren",
+                "Last Name": "Ahsen",
+                "Affiliation": "Department of Genetics and Genomics Sciences, Icahn School of Medicine at Mount Sinai, New York, United States."
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Schaffter",
+                "Affiliation": "Department of Genetics and Genomics Sciences, Icahn School of Medicine at Mount Sinai, New York, United States."
+            },
+            {
+                "First Name": "Xintong",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Genetics and Genomics Sciences, Icahn School of Medicine at Mount Sinai, New York, United States."
+            },
+            {
+                "First Name": "Ronald B",
+                "Last Name": "Realubit",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Charles",
+                "Last Name": "Karan",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Bojan",
+                "Last Name": "Losic",
+                "Affiliation": "Department of Genetics and Genomics Sciences, Icahn School of Medicine at Mount Sinai, New York, United States."
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "Department of Genetics and Genomics Sciences, Icahn School of Medicine at Mount Sinai, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31905016",
+        "Title": "R/PY-SUMMA: An R/Python Package for Unsupervised Ensemble Learning for Binary Classification Problems in Bioinformatics.",
+        "Abstract": "The increasing availability of complex data in biology and medicine has promoted the use of machine learning in classification tasks to address important problems in translational and fundamental science. Two important obstacles, however, may limit the unraveling of the full potential of machine learning in these fields: the lack of generalization of the resulting models and the limited number of labeled data sets in some applications. To address these important problems, we developed an unsupervised ensemble algorithm called strategy for unsupervised multiple method aggregation (SUMMA). By virtue of being an ensemble method, SUMMA is more robust to generalization than the predictions it combines. By virtue of being unsupervised, SUMMA does not require labeled data. SUMMA receives as input predictions from a diversity of models and estimates their classification performance even when labeled data are unavailable. It then uses these performance estimates to combine these different predictions into an ensemble model. SUMMA can be applied to a variety of binary classification problems in bioinformatics including but not limited to gene network inference, cancer diagnostics, drug response prediction, somatic mutation, and differential expression calling. In this application note, we introduce the R/PY-SUMMA packages, available in R or Python, that implement the SUMMA algorithm.",
+        "Keywords": [
+            "aggregation of predictions",
+            "ensemble learning",
+            "machine learning",
+            "unsupervised methods",
+            "wisdom of crowds"
+        ],
+        "MeSH terms": [
+            "Algorithms",
+            "Computational Biology",
+            "Gene Regulatory Networks",
+            "Models, Statistical",
+            "Unsupervised Machine Learning"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mehmet Eren",
+                "Last Name": "Ahsen",
+                "Affiliation": "Department of Business Administration, University of Illinois at Urbana Champaign, Champaign, Illinois."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Vogel",
+                "Affiliation": "IBM Translational Systems Biology Program, IBM Research, Yorktown Heights, New York."
+            },
+            {
+                "First Name": "Gustavo A",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "IBM Translational Systems Biology Program, IBM Research, Yorktown Heights, New York."
+            }
+        ],
+        "Journal": "Journal of computational biology : a journal of computational molecular cell biology",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "30679616",
+        "Title": "Stratification of amyotrophic lateral sclerosis patients: a crowdsourcing approach.",
+        "Abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease where substantial heterogeneity in clinical presentation urgently requires a better stratification of patients for the development of drug trials and clinical care. In this study we explored stratification through a crowdsourcing approach, the DREAM Prize4Life ALS Stratification Challenge. Using data from >10,000 patients from ALS clinical trials and 1479 patients from community-based patient registers, more than 30 teams developed new approaches for machine learning and clustering, outperforming the best current predictions of disease outcome. We propose a new method to integrate and analyze patient clusters across methods, showing a clear pattern of consistent and clinically relevant sub-groups of patients that also enabled the reliable classification of new patients. Our analyses reveal novel insights in ALS and describe for the first time the potential of a crowdsourcing to uncover hidden patient sub-populations, and to accelerate disease understanding and therapeutic development.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Amyotrophic Lateral Sclerosis",
+            "Clinical Trials as Topic",
+            "Cluster Analysis",
+            "Crowdsourcing",
+            "Databases, Factual",
+            "Humans",
+            "Ireland",
+            "Italy",
+            "Machine Learning",
+            "Organizations, Nonprofit"
+        ],
+        "Authors": [
+            {
+                "First Name": "Robert",
+                "Last Name": "Kueffner",
+                "Affiliation": "Icahn School of Medicine at Mount Sinai, New York, NY, USA. r.m.kueffner@gmail.com."
+            },
+            {
+                "First Name": "Neta",
+                "Last Name": "Zach",
+                "Affiliation": "Teva Pharmaceuticals, Netanyah, Israel. netazach@gmail.com."
+            },
+            {
+                "First Name": "Maya",
+                "Last Name": "Bronfeld",
+                "Affiliation": "Prize4Life, Haifa, Israel."
+            },
+            {
+                "First Name": "Raquel",
+                "Last Name": "Norel",
+                "Affiliation": "IBM Research, Yorktown Heights, NY, USA."
+            },
+            {
+                "First Name": "Nazem",
+                "Last Name": "Atassi",
+                "Affiliation": "Massachusetts General Hospital, Boston, MA, USA."
+            },
+            {
+                "First Name": "Venkat",
+                "Last Name": "Balagurusamy",
+                "Affiliation": "IBM Research, Yorktown Heights, NY, USA."
+            },
+            {
+                "First Name": "Barbara",
+                "Last Name": "Di Camillo",
+                "Affiliation": "Information Engineering Department, University of Padova, Padova, Italy."
+            },
+            {
+                "First Name": "Adriano",
+                "Last Name": "Chio",
+                "Affiliation": "University of Turin, Turin, Italy."
+            },
+            {
+                "First Name": "Merit",
+                "Last Name": "Cudkowicz",
+                "Affiliation": "Massachusetts General Hospital, Boston, MA, USA."
+            },
+            {
+                "First Name": "Donna",
+                "Last Name": "Dillenberger",
+                "Affiliation": "IBM Research, Yorktown Heights, NY, USA."
+            },
+            {
+                "First Name": "Javier",
+                "Last Name": "Garcia-Garcia",
+                "Affiliation": "Pompeu Fabra University, Barcelona, Spain."
+            },
+            {
+                "First Name": "Orla",
+                "Last Name": "Hardiman",
+                "Affiliation": "Institute of Neuroscience, Trinity College, Dublin, Ireland."
+            },
+            {
+                "First Name": "Bruce",
+                "Last Name": "Hoff",
+                "Affiliation": "Sage Bionetworks, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Joshua",
+                "Last Name": "Knight",
+                "Affiliation": "IBM Research, Yorktown Heights, NY, USA."
+            },
+            {
+                "First Name": "Melanie L",
+                "Last Name": "Leitner",
+                "Affiliation": "Accelerating NeuroVentures, Boston, MA, USA."
+            },
+            {
+                "First Name": "Guang",
+                "Last Name": "Li",
+                "Affiliation": "Amazon, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Lara",
+                "Last Name": "Mangravite",
+                "Affiliation": "Sage Bionetworks, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Thea",
+                "Last Name": "Norman",
+                "Affiliation": "Sage Bionetworks, Seattle, WA, USA."
+            },
+            {
+                "First Name": "Liuxia",
+                "Last Name": "Wang",
+                "Affiliation": "Zillow, Seattle, WA, USA."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jinfeng",
+                "Last Name": "Xiao",
+                "Affiliation": "Department of Computer Science, University of Illinois at Urbana-Champaign, Champaign, IL, USA."
+            },
+            {
+                "First Name": "Wen-Chieh",
+                "Last Name": "Fang",
+                "Affiliation": "Department of Information and Learning Technology, National University, Tainan City, Taiwan."
+            },
+            {
+                "First Name": "Jian",
+                "Last Name": "Peng",
+                "Affiliation": "Department of Computer Science, University of Illinois at Urbana-Champaign, Champaign, IL, USA."
+            },
+            {
+                "First Name": "Chen",
+                "Last Name": "Yang",
+                "Affiliation": "Department of Computer Science and Information Engineering, National University, Tainan City, Taiwan."
+            },
+            {
+                "First Name": "Huan-Jui",
+                "Last Name": "Chang",
+                "Affiliation": "Faculty of Information Technology, Monash University, Clayton, Australia."
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "IBM Research, Yorktown Heights, NY, USA."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "28607075",
+        "Title": "Broken flow symmetry explains the dynamics of small particles in deterministic lateral displacement arrays.",
+        "Abstract": "Deterministic lateral displacement (DLD) is a technique for size fractionation of particles in continuous flow that has shown great potential for biological applications. Several theoretical models have been proposed, but experimental evidence has demonstrated that a rich class of intermediate migration behavior exists, which is not predicted. We present a unified theoretical framework to infer the path of particles in the whole array on the basis of trajectories in a unit cell. This framework explains many of the unexpected particle trajectories reported and can be used to design arrays for even nanoscale particle fractionation. We performed experiments that verify these predictions and used our model to develop a condenser array that achieves full particle separation with a single fluidic input.",
+        "Keywords": [
+            "deterministic ratchet",
+            "nanofluidics",
+            "particle tracking"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Sung-Cheol",
+                "Last Name": "Kim",
+                "Affiliation": "IBM T. J. Watson Research Center, Yorktown Heights, NY 10598; austin@princeton.edu kimsung@us.ibm.com gustavo@us.ibm.com."
+            },
+            {
+                "First Name": "Benjamin H",
+                "Last Name": "Wunsch",
+                "Affiliation": "IBM T. J. Watson Research Center, Yorktown Heights, NY 10598."
+            },
+            {
+                "First Name": "Huan",
+                "Last Name": "Hu",
+                "Affiliation": "IBM T. J. Watson Research Center, Yorktown Heights, NY 10598."
+            },
+            {
+                "First Name": "Joshua T",
+                "Last Name": "Smith",
+                "Affiliation": "IBM T. J. Watson Research Center, Yorktown Heights, NY 10598."
+            },
+            {
+                "First Name": "Robert H",
+                "Last Name": "Austin",
+                "Affiliation": "Departments of Physics, Princeton University, Princeton, NJ 08544-1014 austin@princeton.edu kimsung@us.ibm.com gustavo@us.ibm.com."
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "IBM T. J. Watson Research Center, Yorktown Heights, NY 10598; austin@princeton.edu kimsung@us.ibm.com gustavo@us.ibm.com."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27418159",
+        "Title": "Crowdsourcing biomedical research: leveraging communities as innovation engines.",
+        "Abstract": "The generation of large-scale biomedical data is creating unprecedented opportunities for basic and translational science. Typically, the data producers perform initial analyses, but it is very likely that the most informative methods may reside with other groups. Crowdsourcing the analysis of complex and massive data has emerged as a framework to find robust methodologies. When the crowdsourcing is done in the form of collaborative scientific competitions, known as Challenges, the validation of the methods is inherently addressed. Challenges also encourage open innovation, create collaborative communities to solve diverse and important biomedical problems, and foster the creation and dissemination of well-curated data repositories.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Biomedical Research",
+            "Cooperative Behavior",
+            "Crowdsourcing",
+            "Humans",
+            "Interdisciplinary Communication",
+            "Organizational Innovation",
+            "Translational Research, Biomedical"
+        ],
+        "Authors": [
+            {
+                "First Name": "Julio",
+                "Last Name": "Saez-Rodriguez",
+                "Affiliation": "RWTH Aachen University, Faculty of Medicine, Joint Research Centre for Computational Biomedicine, Aachen D-52074, Germany."
+            },
+            {
+                "First Name": "James C",
+                "Last Name": "Costello",
+                "Affiliation": "Department of Pharmacology, University of Colorado, Anschutz Medical Campus, Aurora, Colorado 80045, USA."
+            },
+            {
+                "First Name": "Stephen H",
+                "Last Name": "Friend",
+                "Affiliation": "Sage Bionetworks, Seattle, Washington 98109, USA."
+            },
+            {
+                "First Name": "Michael R",
+                "Last Name": "Kellen",
+                "Affiliation": "Sage Bionetworks, Seattle, Washington 98109, USA."
+            },
+            {
+                "First Name": "Lara",
+                "Last Name": "Mangravite",
+                "Affiliation": "Sage Bionetworks, Seattle, Washington 98109, USA."
+            },
+            {
+                "First Name": "Pablo",
+                "Last Name": "Meyer",
+                "Affiliation": "IBM Thomas J. Watson Research Center, Yorktown Heights, New York 10598, USA."
+            },
+            {
+                "First Name": "Thea",
+                "Last Name": "Norman",
+                "Affiliation": "Sage Bionetworks, Seattle, Washington 98109, USA."
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "IBM Thomas J. Watson Research Center, Yorktown Heights, New York 10598, USA."
+            }
+        ],
+        "Journal": "Nature reviews. Genetics",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26030907",
+        "Title": "Noise-driven causal inference in biomolecular networks.",
+        "Abstract": "Single-cell RNA and protein concentrations dynamically fluctuate because of stochastic (\"noisy\") regulation. Consequently, biological signaling and genetic networks not only translate stimuli with functional response but also random fluctuations. Intuitively, this feature manifests as the accumulation of fluctuations from the network source to the target. Taking advantage of the fact that noise propagates directionally, we developed a method for causation prediction that does not require time-lagged observations and therefore can be applied to data generated by destructive assays such as immunohistochemistry. Our method for causation prediction, \"Inference of Network Directionality Using Covariance Elements (INDUCE),\" exploits the theoretical relationship between a change in the strength of a causal interaction and the associated changes in the single cell measured entries of the covariance matrix of protein concentrations. We validated our method for causation prediction in two experimental systems where causation is well established: in an E. coli synthetic gene network, and in MEK to ERK signaling in mammalian cells. We report the first analysis of covariance elements documenting noise propagation from a kinase to a phosphorylated substrate in an endogenous mammalian signaling network.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Escherichia coli",
+            "Models, Biological",
+            "Noise"
+        ],
+        "Authors": [
+            {
+                "First Name": "Robert J",
+                "Last Name": "Prill",
+                "Affiliation": "IBM T. J. Watson Research Center, 1101 Kitchawan Road, Route 134, Yorktown Heights, N.Y. 10598, United States of America."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Vogel",
+                "Affiliation": "ImmunoDynamics Group, Program in Computational Biology and Immunology, Memorial Sloan- Kettering Cancer Center, 1275 York Avenue, Box 460, New York, N.Y. 10065, United States of America."
+            },
+            {
+                "First Name": "Guillermo A",
+                "Last Name": "Cecchi",
+                "Affiliation": "IBM T. J. Watson Research Center, 1101 Kitchawan Road, Route 134, Yorktown Heights, N.Y. 10598, United States of America."
+            },
+            {
+                "First Name": "Grégoire",
+                "Last Name": "Altan-Bonnet",
+                "Affiliation": "ImmunoDynamics Group, Program in Computational Biology and Immunology, Memorial Sloan- Kettering Cancer Center, 1275 York Avenue, Box 460, New York, N.Y. 10065, United States of America."
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "IBM T. J. Watson Research Center, 1101 Kitchawan Road, Route 134, Yorktown Heights, N.Y. 10598, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25844665",
+        "Title": "Preface: RECOMB/ISCB systems biology, regulatory genomics, and DREAM 2014 Special Issue.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Genomics",
+            "Humans",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "AnDrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Manolis",
+                "Last Name": "Kellis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of computational biology : a journal of computational molecular cell biology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25777346",
+        "Title": "The Prostate Cancer DREAM Challenge: A Community-Wide Effort to Use Open Clinical Trial Data for the Quantitative Prediction of Outcomes in Metastatic Prostate Cancer.",
+        "Abstract": "Project Data Share and Sage Bionetworks/DREAM are launching the Prostate Cancer DREAM Challenge to improve a predictive model of disease progression and treatment toxicity in prostate cancer using historical trial data. Predictions identified through this challenge have the potential to translate into reduced trial redundancy, better clinical decision tools, and improved patient outcomes. The challenge launches on March 16, 2015.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Clinical Trials as Topic",
+            "Humans",
+            "Male",
+            "Neoplasm Metastasis",
+            "Prostatic Neoplasms",
+            "Treatment Outcome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kald",
+                "Last Name": "Abdallah",
+                "Affiliation": "Project Data Sphere, Raleigh, North Carolina, USA; Sanofi US, Bridgewater, New Jersey, USA; Sage Bionetworks, Seattle, Washington, USA; IBM T.J. Watson Research Center, Yorktown Heights, New York, USA; Icahn School of Medicine at Mount Sinai, New York, New York, USA kald.abdallah@projectdatasphere.org."
+            },
+            {
+                "First Name": "Charles",
+                "Last Name": "Hugh-Jones",
+                "Affiliation": "Project Data Sphere, Raleigh, North Carolina, USA; Sanofi US, Bridgewater, New Jersey, USA; Sage Bionetworks, Seattle, Washington, USA; IBM T.J. Watson Research Center, Yorktown Heights, New York, USA; Icahn School of Medicine at Mount Sinai, New York, New York, USA."
+            },
+            {
+                "First Name": "Thea",
+                "Last Name": "Norman",
+                "Affiliation": "Project Data Sphere, Raleigh, North Carolina, USA; Sanofi US, Bridgewater, New Jersey, USA; Sage Bionetworks, Seattle, Washington, USA; IBM T.J. Watson Research Center, Yorktown Heights, New York, USA; Icahn School of Medicine at Mount Sinai, New York, New York, USA."
+            },
+            {
+                "First Name": "Stephen",
+                "Last Name": "Friend",
+                "Affiliation": "Project Data Sphere, Raleigh, North Carolina, USA; Sanofi US, Bridgewater, New Jersey, USA; Sage Bionetworks, Seattle, Washington, USA; IBM T.J. Watson Research Center, Yorktown Heights, New York, USA; Icahn School of Medicine at Mount Sinai, New York, New York, USA."
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "Project Data Sphere, Raleigh, North Carolina, USA; Sanofi US, Bridgewater, New Jersey, USA; Sage Bionetworks, Seattle, Washington, USA; IBM T.J. Watson Research Center, Yorktown Heights, New York, USA; Icahn School of Medicine at Mount Sinai, New York, New York, USA."
+            }
+        ],
+        "Journal": "The oncologist",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25626162",
+        "Title": "Hydrodynamics of diamond-shaped gradient nanopillar arrays for effective DNA translocation into nanochannels.",
+        "Abstract": "Effective DNA translocation into nanochannels is critical for advancing genome mapping and future single-molecule DNA sequencing technologies. We present the design and hydrodynamic study of a diamond-shaped gradient pillar array connected to nanochannels for enhancing the success of DNA translocation events. Single-molecule fluorescence imaging is utilized to interrogate the hydrodynamic interactions of the DNA with this unique structure, evaluate key DNA translocation parameters, including speed, extension, and translocation time, and provide a detailed mapping of the translocation events in nanopillar arrays coupled with 10 and 50 μm long channels. Our analysis reveals the important roles of diamond-shaped nanopillars in guiding DNA into as small as 30 nm channels with minimized clogging, stretching DNA to nearly 100% of their dyed contour length, inducing location-specific straddling of DNA at nanopillar interfaces, and modulating DNA speeds by pillar geometries. Importantly, all critical features down to 30 nm wide nanochannels are defined using standard photolithography and fabrication processes, a feat aligned with the requirement of high-volume, low-cost production.",
+        "Keywords": [
+            "DNA stretching",
+            "genome mapping",
+            "gradient nanopillars",
+            "hydrodynamics",
+            "nanochannels",
+            "single-molecule fluorescent imaging",
+            "translocation"
+        ],
+        "MeSH terms": [
+            "Bacteriophage lambda",
+            "DNA",
+            "Equipment Design",
+            "Hydrodynamics",
+            "Motion",
+            "Nanotechnology",
+            "Sequence Analysis, DNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chao",
+                "Last Name": "Wang",
+                "Affiliation": "IBM T. J. Watson Research Center , Yorktown Heights, New York 10598, United States."
+            },
+            {
+                "First Name": "Robert L",
+                "Last Name": "Bruce",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Elizabeth A",
+                "Last Name": "Duch",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jyotica V",
+                "Last Name": "Patel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joshua T",
+                "Last Name": "Smith",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yann",
+                "Last Name": "Astier",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Benjamin H",
+                "Last Name": "Wunsch",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Siddharth",
+                "Last Name": "Meshram",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Armand",
+                "Last Name": "Galan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Scerbo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael A",
+                "Last Name": "Pereira",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Deqiang",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Evan G",
+                "Last Name": "Colgan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Qinghuang",
+                "Last Name": "Lin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "ACS nano",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25495800",
+        "Title": "Spatial localization of the first and last enzymes effectively connects active metabolic pathways in bacteria.",
+        "Abstract": "Although much is understood about the enzymatic cascades that underlie cellular biosynthesis, comparatively little is known about the rules that determine their cellular organization. We performed a detailed analysis of the localization of E.coli GFP-tagged enzymes for cells growing exponentially.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biosynthetic Pathways",
+            "Cytoplasm",
+            "Enzymes",
+            "Escherichia coli",
+            "Gene Ontology",
+            "Green Fluorescent Proteins",
+            "Models, Biological",
+            "Spatial Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pablo",
+                "Last Name": "Meyer",
+                "Affiliation": "IBM Computational Biology Center, Yorktown Heights, NY, USA. pmeyerr@us.ibm.com."
+            },
+            {
+                "First Name": "Guillermo",
+                "Last Name": "Cecchi",
+                "Affiliation": "IBM Computational Biology Center, Yorktown Heights, NY, USA. gcecchi@us.ibm.com."
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "IBM Computational Biology Center, Yorktown Heights, NY, USA. gustavo@us.ibm.com."
+            }
+        ],
+        "Journal": "BMC systems biology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25314947",
+        "Title": "Toward better benchmarking: challenge-based methods assessment in cancer genomics.",
+        "Abstract": "Rapid technological development has created an urgent need for improved evaluation of algorithms for the analysis of cancer genomics data. We outline how challenge-based assessment may help fill this gap by leveraging crowd-sourcing to distribute effort and reduce bias.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Benchmarking",
+            "DNA Mutational Analysis",
+            "Genetic Association Studies",
+            "Genome, Human",
+            "Genomics",
+            "Humans",
+            "Neoplasms",
+            "Reference Standards"
+        ],
+        "Authors": [
+            {
+                "First Name": "Paul C",
+                "Last Name": "Boutros",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adam A",
+                "Last Name": "Margolin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joshua M",
+                "Last Name": "Stuart",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genome biology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24964839",
+        "Title": "Fabrication of sub-20 nm nanopore arrays in membranes with embedded metal electrodes at wafer scales.",
+        "Abstract": "We introduce a method to fabricate solid-state nanopores with sub-20 nm diameter in membranes with embedded metal electrodes across a 200 mm wafer using CMOS compatible semiconductor processes. Multi-layer (metal-dielectric) structures embedded in membranes were demonstrated to have high uniformity (± 0.5 nm) across the wafer. Arrays of nanopores were fabricated with an average size of 18 ± 2 nm in diameter using a Reactive Ion Etching (RIE) method in lieu of TEM drilling. Shorts between the membrane-embedded metals were occasionally created after pore formation, but the RIE based pores had a much better yield (99%) of unshorted electrodes compared to TEM drilled pores (<10%). A double-stranded DNA of length 1 kbp was translocated through the multi-layer structure RIE-based nanopore demonstrating that the pores were open. The ionic current through the pore can be modulated with a gain of 3 using embedded electrodes functioning as a gate in 0.1 mM KCl aqueous solution. This fabrication approach can potentially pave the way to manufacturable nanopore arrays with the ability to electrically control the movement of single or double-stranded DNA inside the pore with embedded electrodes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "DNA",
+            "Electrochemistry",
+            "Electrodes",
+            "Ions",
+            "Materials Testing",
+            "Metal Nanoparticles",
+            "Metals",
+            "Microscopy, Electron, Scanning",
+            "Microscopy, Electron, Transmission",
+            "Nanopores",
+            "Nanotechnology",
+            "Oxygen",
+            "Potassium Chloride"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jingwei",
+                "Last Name": "Bai",
+                "Affiliation": "IBM T. J. Watson Research Center, 1101 Kitchawan Road, Yorktown Heights, NY 10598, USA. gustavo@us.ibm.com."
+            },
+            {
+                "First Name": "Deqiang",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sung-Wook",
+                "Last Name": "Nam",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hongbo",
+                "Last Name": "Peng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Bruce",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lynn",
+                "Last Name": "Gignac",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Markus",
+                "Last Name": "Brink",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ernst",
+                "Last Name": "Kratschmer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen",
+                "Last Name": "Rossnagel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Phil",
+                "Last Name": "Waggoner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kathleen",
+                "Last Name": "Reuter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chao",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yann",
+                "Last Name": "Astier",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Venkat",
+                "Last Name": "Balagurusamy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Binquan",
+                "Last Name": "Luan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Young",
+                "Last Name": "Kwark",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Joseph",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mike",
+                "Last Name": "Guillorn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stanislav",
+                "Last Name": "Polonsky",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ajay",
+                "Last Name": "Royyuru",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "S",
+                "Last Name": "Papa Rao",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nanoscale",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24920303",
+        "Title": "Controlling the motion of DNA in a nanochannel with transversal alternating electric voltages.",
+        "Abstract": "A nanofluidic channel, with a pair of perpendicularly aligned nanoelectrodes, is proposed to electrically control the motion of DNA molecules. Using all-atom molecular dynamics simulations, we studied electrostatic responses of a charged DNA molecule in the nanochannel and investigated optimized operating conditions for controlling the DNA molecule. When the transversal electric field was periodically turned on and off, the DNA molecule was correspondingly immobilized on and released from the channel surface. Under simultaneously applied longitudinal biasing and transversal trapping electric fields, the DNA molecule moved forward in a 'ratchet'-like fashion. It is expected that achieving the controlled motion of DNA in the channel can advance studies and applications of a nanochannel-based sensor for analyzing DNA (e.g., DNA sequencing).",
+        "Keywords": [],
+        "MeSH terms": [
+            "DNA",
+            "Humans",
+            "Microfluidics",
+            "Molecular Dynamics Simulation",
+            "Motion",
+            "Nanostructures",
+            "Sequence Analysis, DNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Binquan",
+                "Last Name": "Luan",
+                "Affiliation": "IBM T J Watson Research Center, 1101 Kitchawan Road, Yorktown Heights, 10598, USA."
+            },
+            {
+                "First Name": "Chao",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ajay",
+                "Last Name": "Royyuru",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nanotechnology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24880487",
+        "Title": "A community effort to assess and improve drug sensitivity prediction algorithms.",
+        "Abstract": "Predicting the best treatment strategy from genomic information is a core goal of precision medicine. Here we focus on predicting drug response based on a cohort of genomic, epigenomic and proteomic profiling data sets measured in human breast cancer cell lines. Through a collaborative effort between the National Cancer Institute (NCI) and the Dialogue on Reverse Engineering Assessment and Methods (DREAM) project, we analyzed a total of 44 drug sensitivity prediction algorithms. The top-performing approaches modeled nonlinear relationships and incorporated biological pathway information. We found that gene expression microarrays consistently provided the best predictive power of the individual profiling data sets; however, performance was increased by including multiple, independent data sets. We discuss the innovations underlying the top-performing methodology, Bayesian multitask MKL, and we provide detailed descriptions of all methods. This study establishes benchmarks for drug sensitivity prediction and identifies approaches that can be leveraged for the development of new methods.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Antineoplastic Agents",
+            "Drug Resistance, Neoplasm",
+            "Epigenomics",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Neoplastic",
+            "Genomics",
+            "Humans",
+            "Neoplasms",
+            "Proteomics"
+        ],
+        "Authors": [
+            {
+                "First Name": "James C",
+                "Last Name": "Costello",
+                "Affiliation": "1] Howard Hughes Medical Institute, Boston University, Boston, Massachusetts, USA. [2] Department of Biomedical Engineering, Boston University, Boston, Massachusetts, USA. [3] [4]."
+            },
+            {
+                "First Name": "Laura M",
+                "Last Name": "Heiser",
+                "Affiliation": "1] Department of Biomedical Engineering, Oregon Health and Science University, Portland, Oregon, USA. [2]."
+            },
+            {
+                "First Name": "Elisabeth",
+                "Last Name": "Georgii",
+                "Affiliation": "1] Helsinki Institute for Information Technology HIIT, Department of Information and Computer Science, Aalto University, Espoo, Finland. [2]."
+            },
+            {
+                "First Name": "Mehmet",
+                "Last Name": "Gönen",
+                "Affiliation": "Helsinki Institute for Information Technology HIIT, Department of Information and Computer Science, Aalto University, Espoo, Finland."
+            },
+            {
+                "First Name": "Michael P",
+                "Last Name": "Menden",
+                "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Trust Genome Campus, Cambridge, UK."
+            },
+            {
+                "First Name": "Nicholas J",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Biomedical Engineering, Oregon Health and Science University, Portland, Oregon, USA."
+            },
+            {
+                "First Name": "Mukesh",
+                "Last Name": "Bansal",
+                "Affiliation": "Department of Systems Biology, Center for Computational Biology and Bioinformatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Muhammad",
+                "Last Name": "Ammad-ud-din",
+                "Affiliation": "Helsinki Institute for Information Technology HIIT, Department of Information and Computer Science, Aalto University, Espoo, Finland."
+            },
+            {
+                "First Name": "Petteri",
+                "Last Name": "Hintsanen",
+                "Affiliation": "Institute for Molecular Medicine Finland FIMM, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Suleiman A",
+                "Last Name": "Khan",
+                "Affiliation": "Helsinki Institute for Information Technology HIIT, Department of Information and Computer Science, Aalto University, Espoo, Finland."
+            },
+            {
+                "First Name": "John-Patrick",
+                "Last Name": "Mpindi",
+                "Affiliation": "Institute for Molecular Medicine Finland FIMM, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Olli",
+                "Last Name": "Kallioniemi",
+                "Affiliation": "Institute for Molecular Medicine Finland FIMM, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Antti",
+                "Last Name": "Honkela",
+                "Affiliation": "Helsinki Institute for Information Technology HIIT, Department of Computer Science, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Tero",
+                "Last Name": "Aittokallio",
+                "Affiliation": "Institute for Molecular Medicine Finland FIMM, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Krister",
+                "Last Name": "Wennerberg",
+                "Affiliation": "Institute for Molecular Medicine Finland FIMM, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "Collins",
+                "Affiliation": "1] Howard Hughes Medical Institute, Boston University, Boston, Massachusetts, USA. [2] Department of Biomedical Engineering, Boston University, Boston, Massachusetts, USA. [3] Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Dan",
+                "Last Name": "Gallahan",
+                "Affiliation": "National Cancer Institute, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Dinah",
+                "Last Name": "Singer",
+                "Affiliation": "National Cancer Institute, National Institutes of Health, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Julio",
+                "Last Name": "Saez-Rodriguez",
+                "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Trust Genome Campus, Cambridge, UK."
+            },
+            {
+                "First Name": "Samuel",
+                "Last Name": "Kaski",
+                "Affiliation": "1] Helsinki Institute for Information Technology HIIT, Department of Information and Computer Science, Aalto University, Espoo, Finland. [2] Helsinki Institute for Information Technology HIIT, Department of Computer Science, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Joe W",
+                "Last Name": "Gray",
+                "Affiliation": "Department of Biomedical Engineering, Oregon Health and Science University, Portland, Oregon, USA."
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "IBM T.J. Watson Research Center, IBM, Yorktown Heights, New York, USA."
+            }
+        ],
+        "Journal": "Nature biotechnology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24784777",
+        "Title": "RECOMB/ISCB systems biology, regulatory genomics, and DREAM 2013 special issue.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Computational Biology",
+            "Genomics",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "1 Departments of Systems Biology, Biochemistry & Molecular Biophysics, Biomedical Informatics, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center , New York, New York."
+            },
+            {
+                "First Name": "Manolis",
+                "Last Name": "Kellis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of computational biology : a journal of computational molecular cell biology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "23950146",
+        "Title": "Inferring gene expression from ribosomal promoter sequences, a crowdsourcing approach.",
+        "Abstract": "The Gene Promoter Expression Prediction challenge consisted of predicting gene expression from promoter sequences in a previously unknown experimentally generated data set. The challenge was presented to the community in the framework of the sixth Dialogue for Reverse Engineering Assessments and Methods (DREAM6), a community effort to evaluate the status of systems biology modeling methodologies. Nucleotide-specific promoter activity was obtained by measuring fluorescence from promoter sequences fused upstream of a gene for yellow fluorescence protein and inserted in the same genomic site of yeast Saccharomyces cerevisiae. Twenty-one teams submitted results predicting the expression levels of 53 different promoters from yeast ribosomal protein genes. Analysis of participant predictions shows that accurate values for low-expressed and mutated promoters were difficult to obtain, although in the latter case, only when the mutation induced a large change in promoter activity compared to the wild-type sequence. As in previous DREAM challenges, we found that aggregation of participant predictions provided robust results, but did not fare better than the three best algorithms. Finally, this study not only provides a benchmark for the assessment of methods predicting activity of a specific set of promoters from their sequence, but it also shows that the top performing algorithm, which used machine-learning approaches, can be improved by the addition of biological features such as transcription factor binding sites.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Binding Sites",
+            "Crowdsourcing",
+            "Gene Expression",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Fungal",
+            "Gene Regulatory Networks",
+            "Genes, Fungal",
+            "Models, Genetic",
+            "Mutation",
+            "Promoter Regions, Genetic",
+            "Regulatory Elements, Transcriptional",
+            "Ribosomal Proteins",
+            "Ribosomes",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pablo",
+                "Last Name": "Meyer",
+                "Affiliation": "IBM T.J. Watson Research Center, Yorktown Heights, New York 10598, USA;"
+            },
+            {
+                "First Name": "Geoffrey",
+                "Last Name": "Siwo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Danny",
+                "Last Name": "Zeevi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eilon",
+                "Last Name": "Sharon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Raquel",
+                "Last Name": "Norel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Segal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genome research",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23641866",
+        "Title": "Preface: RECOMB systems biology, regulatory genomics, and DREAM 2012 special issue.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Genomics",
+            "Periodicals as Topic",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Manolis",
+                "Last Name": "Kellis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of computational biology : a journal of computational molecular cell biology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23619782",
+        "Title": "Crowdsourcing genetic prediction of clinical utility in the Rheumatoid Arthritis Responder Challenge.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Arthritis, Rheumatoid",
+            "Crowdsourcing",
+            "Humans",
+            "Models, Genetic",
+            "Predictive Value of Tests"
+        ],
+        "Authors": [
+            {
+                "First Name": "Robert M",
+                "Last Name": "Plenge",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jeffrey D",
+                "Last Name": "Greenberg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lara M",
+                "Last Name": "Mangravite",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonathan M J",
+                "Last Name": "Derry",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eli A",
+                "Last Name": "Stahl",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marieke J H",
+                "Last Name": "Coenen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anne",
+                "Last Name": "Barton",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Leonid",
+                "Last Name": "Padyukov",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lars",
+                "Last Name": "Klareskog",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter K",
+                "Last Name": "Gregersen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xavier",
+                "Last Name": "Mariette",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Larry W",
+                "Last Name": "Moreland",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "S Louis",
+                "Last Name": "Bridges",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Niek",
+                "Last Name": "de Vries",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tom W J",
+                "Last Name": "Huizinga",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Henk-Jan",
+                "Last Name": "Guchelaar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen H",
+                "Last Name": "Friend",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature genetics",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23579206",
+        "Title": "An electro-hydrodynamics-based model for the ionic conductivity of solid-state nanopores during DNA translocation.",
+        "Abstract": "A solid-state nanopore can be used to sense DNA (or other macromolecules) by monitoring ion-current changes that result from translocation of the molecule through the pore. When transiting a nanopore, the highly negatively charged DNA interacts with a nanopore both electrically and hydrodynamically, causing a current blockage or a current enhancement at different ion concentrations. This effect was previously characterized using a phenomenological model that can be considered as the limit of the electro-hydrodynamics model presented here. We show theoretically that the effect of surface charge of a nanopore (or electro-osmotic effect) can be equivalently treated as modifications of electrophoretic mobilities of ions in the pore, providing an improved physical understanding of the current blockage (or enhancement).",
+        "Keywords": [],
+        "MeSH terms": [
+            "DNA",
+            "Electricity",
+            "Hydrodynamics",
+            "Ions",
+            "Models, Chemical",
+            "Nanopores",
+            "Osmosis",
+            "Static Electricity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Binquan",
+                "Last Name": "Luan",
+                "Affiliation": "IBM Research, 1101 Kitchawan Road, Yorktown Heights, NY 10598, USA."
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nanotechnology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23064727",
+        "Title": "Dynamics of DNA translocation in a solid-state nanopore immersed in aqueous glycerol.",
+        "Abstract": "Nanopore-based technologies have attracted much attention recently for their promising use in low-cost and high-throughput genome sequencing. To achieve single-base resolution of DNA sequencing, it is critical to slow and control the translocation of DNA, which has been achieved in a protein nanopore but not yet in a solid-state nanopore. Using all-atom molecular dynamics simulations, we investigated the dynamics of a single-stranded DNA (ssDNA) molecule in an aqueous glycerol solution confined in a SiO(2) nanopore. The friction coefficient ξ of the ssDNA molecule is found to be approximately 18 times larger in glycerol than in water, which can dramatically slow the motion of ssDNA. The electrophoretic mobility μ of ssDNA in glycerol, however, decreases by almost the same factor, yielding the effective charge (ξμ) of ssDNA being roughly the same as in water. This is counterintuitive since the ssDNA effective charge predicted from the counterion condensation theory varies with the dielectric constant of a solvent. Due to the larger friction coefficient of ssDNA in glycerol, we further show that glycerol can improve trapping of ssDNA in the DNA transistor, a nanodevice that can be used to control the motion of ssDNA in a solid-state nanopore. Simulation results of slowing ssDNA translocation were confirmed in our nanopore experiment.",
+        "Keywords": [],
+        "MeSH terms": [
+            "DNA, Single-Stranded",
+            "Electrophoresis",
+            "Friction",
+            "Glycerol",
+            "Molecular Dynamics Simulation",
+            "Motion",
+            "Nanopores",
+            "Silicon Dioxide",
+            "Water"
+        ],
+        "Authors": [
+            {
+                "First Name": "Binquan",
+                "Last Name": "Luan",
+                "Affiliation": "IBM T J Watson Research Center, Yorktown Heights, 10598, USA. bluan@us.ibm.com"
+            },
+            {
+                "First Name": "Deqiang",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ruhong",
+                "Last Name": "Zhou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stefan",
+                "Last Name": "Harrer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hongbo",
+                "Last Name": "Peng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nanotechnology",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22796662",
+        "Title": "Wisdom of crowds for robust gene network inference.",
+        "Abstract": "Reconstructing gene regulatory networks from high-throughput data is a long-standing challenge. Through the Dialogue on Reverse Engineering Assessment and Methods (DREAM) project, we performed a comprehensive blind assessment of over 30 network inference methods on Escherichia coli, Staphylococcus aureus, Saccharomyces cerevisiae and in silico microarray data. We characterize the performance, data requirements and inherent biases of different inference approaches, and we provide guidelines for algorithm application and development. We observed that no single inference method performs optimally across all data sets. In contrast, integration of predictions from multiple inference methods shows robust and high performance across diverse data sets. We thereby constructed high-confidence networks for E. coli and S. aureus, each comprising ~1,700 transcriptional interactions at a precision of ~50%. We experimentally tested 53 previously unobserved regulatory interactions in E. coli, of which 23 (43%) were supported. Our results establish community-based methods as a powerful and robust tool for the inference of transcriptional gene regulatory networks.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Computational Biology",
+            "Escherichia coli",
+            "Gene Expression Regulation, Bacterial",
+            "Gene Regulatory Networks",
+            "Oligonucleotide Array Sequence Analysis",
+            "Saccharomyces cerevisiae",
+            "Software",
+            "Staphylococcus aureus",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Daniel",
+                "Last Name": "Marbach",
+                "Affiliation": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA."
+            },
+            {
+                "First Name": "James C",
+                "Last Name": "Costello",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Küffner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicole M",
+                "Last Name": "Vega",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert J",
+                "Last Name": "Prill",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Diogo M",
+                "Last Name": "Camacho",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kyle R",
+                "Last Name": "Allison",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Manolis",
+                "Last Name": "Kellis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "Collins",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature methods",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22423044",
+        "Title": "Industrial methodology for process verification in research (IMPROVER): toward systems biology verification.",
+        "Abstract": "Analyses and algorithmic predictions based on high-throughput data are essential for the success of systems biology in academic and industrial settings. Organizations, such as companies and academic consortia, conduct large multi-year scientific studies that entail the collection and analysis of thousands of individual experiments, often over many physical sites and with internal and outsourced components. To extract maximum value, the interested parties need to verify the accuracy and reproducibility of data and methods before the initiation of such large multi-year studies. However, systematic and well-established verification procedures do not exist for automated collection and analysis workflows in systems biology which could lead to inaccurate conclusions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Peer Review",
+            "Periodicals as Topic",
+            "Reproducibility of Results",
+            "Systems Biology",
+            "Workflow"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pablo",
+                "Last Name": "Meyer",
+                "Affiliation": "IBM Computational Biology Center, Yorktown Heights, NY 10598, USA."
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Hoeng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "J Jeremy",
+                "Last Name": "Rice",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Raquel",
+                "Last Name": "Norel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jörg",
+                "Last Name": "Sprengel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Katrin",
+                "Last Name": "Stolle",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Bonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephanie",
+                "Last Name": "Corthesy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ajay",
+                "Last Name": "Royyuru",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Manuel C",
+                "Last Name": "Peitsch",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22308355",
+        "Title": "Quantitative modeling of the terminal differentiation of B cells and mechanisms of lymphomagenesis.",
+        "Abstract": "Mature B-cell exit from germinal centers is controlled by a transcriptional regulatory module that integrates antigen and T-cell signals and, ultimately, leads to terminal differentiation into memory B cells or plasma cells. Despite a compact structure, the module dynamics are highly complex because of the presence of several feedback loops and self-regulatory interactions, and understanding its dysregulation, frequently associated with lymphomagenesis, requires robust dynamical modeling techniques. We present a quantitative kinetic model of three key gene regulators, BCL6, IRF4, and BLIMP, and use gene expression profile data from mature human B cells to determine appropriate model parameters. The model predicts the existence of two different hysteresis cycles that direct B cells through an irreversible transition toward a differentiated cellular state. By synthetically perturbing the interactions in this network, we can elucidate known mechanisms of lymphomagenesis and suggest candidate tumorigenic alterations, indicating that the model is a valuable quantitative tool to simulate B-cell exit from the germinal center under a variety of physiological and pathological conditions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "B-Lymphocytes",
+            "Cell Differentiation",
+            "Gene Expression Profiling",
+            "Humans",
+            "Immunologic Memory",
+            "Lymphoma"
+        ],
+        "Authors": [
+            {
+                "First Name": "María Rodríguez",
+                "Last Name": "Martínez",
+                "Affiliation": "Joint Center for Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Corradin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ulf",
+                "Last Name": "Klein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mariano Javier",
+                "Last Name": "Álvarez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gianna M",
+                "Last Name": "Toffolo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Barbara",
+                "Last Name": "di Camillo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo A",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22300312",
+        "Title": "Preface: RECOMB Systems Biology, Regulatory Genomics, and DREAM 2011 special issue.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Genomics",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Columbia Initiative in Systems Biology, Columbia University, New York, New York, USA. califano@c2b2.columbia.edu"
+            },
+            {
+                "First Name": "Manolis",
+                "Last Name": "Kellis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of computational biology : a journal of computational molecular cell biology",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22081018",
+        "Title": "Slowing and controlling the translocation of DNA in a solid-state nanopore.",
+        "Abstract": "DNA sequencing methods based on nanopores could potentially represent a low-cost and high-throughput pathway to practical genomics, by replacing current sequencing methods based on synthesis that are limited in speed and cost. The success of nanopore sequencing techniques requires the solution to two fundamental problems: (1) sensing each nucleotide of a DNA strand, in sequence, as it passes through a nanopore; (2) delivering each nucleotide in a DNA strand, in turn, to a sensing site within the nanopore in a controlled manner. It has been demonstrated that a DNA nucleotide can be sensed using electric signals, such as ionic current changes caused by nucleotide blockage at a constriction region in a protein pore or a tunneling current through the nucleotide-bridged gap of two nanoelectrodes built near a solid-state nanopore. However, it is not yet clear how each nucleotide in a DNA strand can be delivered in turn to a sensing site and held there for a sufficient time to ensure high fidelity sensing. This latter problem has been addressed by modifying macroscopic properties, such as a solvent viscosity, ion concentration or temperature. Also, the DNA transistor, a solid state nanopore dressed with a series of metal-dielectric layers has been proposed as a solution. Molecular dynamics simulations provide the means to study and to understand DNA transport in nanopores microscopically. In this article, we review computational studies on how to slow down and control the DNA translocation through a solid-state nanopore.",
+        "Keywords": [],
+        "MeSH terms": [
+            "DNA",
+            "Electrodes",
+            "Molecular Dynamics Simulation",
+            "Nanopores",
+            "Sequence Analysis, DNA",
+            "Solvents",
+            "Surface Properties"
+        ],
+        "Authors": [
+            {
+                "First Name": "Binquan",
+                "Last Name": "Luan",
+                "Affiliation": "IBM Research, 1101 Kitchawan Road, Yorktown Heights, NY 10598, USA. bluan@us.ibm.com"
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Glenn",
+                "Last Name": "Martyna",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nanoscale",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22067161",
+        "Title": "Characterizing and controlling the motion of ssDNA in a solid-state nanopore.",
+        "Abstract": "Sequencing DNA in a synthetic solid-state nanopore is potentially a low-cost and high-throughput method. Essential to the nanopore-based DNA sequencing method is the ability to control the motion of a single-stranded DNA (ssDNA) molecule at single-base resolution. Experimental studies showed that the average translocation speed of DNA driven by a biasing electric field can be affected by ionic concentration, solvent viscosity, or temperature. Even though it is possible to slow down the average translocation speed, instantaneous motion of DNA is too diffusive to allow each DNA base to stay in front of a sensor site for its measurement. Using extensive all-atom molecular dynamics simulations, we study the diffusion constant, friction coefficient, electrophoretic mobility, and effective charge of ssDNA in a solid-state nanopore. Simulation results show that the spatial fluctuation of ssDNA in 1 ns is comparable to the spacing between neighboring nucleotides in ssDNA, which makes the sensing of a DNA base very difficult. We demonstrate that the recently proposed DNA transistor could potentially solve this problem by electrically trapping ssDNA inside the DNA transistor and ratcheting ssDNA base-by-base in a biasing electric field. When increasing the biasing electric field, we observed that the translocation of ssDNA changes from ratcheting to steady-sliding. The simulated translocation of ssDNA in the DNA transistor was theoretically characterized using Fokker-Planck analysis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Computer Simulation",
+            "DNA, Single-Stranded",
+            "Diffusion",
+            "Electricity",
+            "Electrolytes",
+            "Electrophoresis, Agar Gel",
+            "Friction",
+            "Models, Molecular",
+            "Motion",
+            "Nanopores",
+            "Thermodynamics",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Binquan",
+                "Last Name": "Luan",
+                "Affiliation": "IBM T. J. Watson Research Center, Yorktown Heights, New York, USA. bluan@us.ibm.com"
+            },
+            {
+                "First Name": "Glenn",
+                "Last Name": "Martyna",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Biophysical journal",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21988833",
+        "Title": "The self-assessment trap: can we all be better than average?",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Evaluation Studies as Topic",
+            "Publication Bias",
+            "Self-Assessment",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Raquel",
+                "Last Name": "Norel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John Jeremy",
+                "Last Name": "Rice",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular systems biology",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21904331",
+        "Title": "Verification of systems biology research in the age of collaborative competition.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Cooperative Behavior",
+            "High-Throughput Nucleotide Sequencing",
+            "Proteomics",
+            "Research",
+            "Systems Biology",
+            "Validation Studies as Topic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pablo",
+                "Last Name": "Meyer",
+                "Affiliation": "IBM Computational Biology Center, Yorktown Heights, New York, USA."
+            },
+            {
+                "First Name": "Leonidas G",
+                "Last Name": "Alexopoulos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Bonk",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carolyn R",
+                "Last Name": "Cho",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "de la Fuente",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "de Graaf",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alexander J",
+                "Last Name": "Hartemink",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Hoeng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nikolai V",
+                "Last Name": "Ivanov",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Heinz",
+                "Last Name": "Koeppl",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rune",
+                "Last Name": "Linding",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Marbach",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Raquel",
+                "Last Name": "Norel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Manuel C",
+                "Last Name": "Peitsch",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "J Jeremy",
+                "Last Name": "Rice",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ajay",
+                "Last Name": "Royyuru",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Frank",
+                "Last Name": "Schacherer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joerg",
+                "Last Name": "Sprengel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Katrin",
+                "Last Name": "Stolle",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dennis",
+                "Last Name": "Vitkup",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature biotechnology",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21900204",
+        "Title": "Crowdsourcing network inference: the DREAM predictive signaling network challenge.",
+        "Abstract": "Computational analyses of systematic measurements on the states and activities of signaling proteins (as captured by phosphoproteomic data, for example) have the potential to uncover uncharacterized protein-protein interactions and to identify the subset that are important for cellular response to specific biological stimuli. However, inferring mechanistically plausible protein signaling networks (PSNs) from phosphoproteomics data is a difficult task, owing in part to the lack of sufficiently comprehensive experimental measurements, the inherent limitations of network inference algorithms, and a lack of standards for assessing the accuracy of inferred PSNs. A case study in which 12 research groups inferred PSNs from a phosphoproteomics data set demonstrates an assessment of inferred PSNs on the basis of the accuracy of their predictions. The concurrent prediction of the same previously unreported signaling interactions by different participating teams suggests relevant validation experiments and establishes a framework for combining PSNs inferred by multiple research groups into a composite PSN. We conclude that crowdsourcing the construction of PSNs-that is, outsourcing the task to the interested community-may be an effective strategy for network inference.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Computational Biology",
+            "Cooperative Behavior",
+            "Phosphoproteins",
+            "Protein Interaction Maps",
+            "Proteomics",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Robert J",
+                "Last Name": "Prill",
+                "Affiliation": "IBM Computational Biology Center, Yorktown Heights, NY, 10598, USA."
+            },
+            {
+                "First Name": "Julio",
+                "Last Name": "Saez-Rodriguez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Leonidas G",
+                "Last Name": "Alexopoulos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter K",
+                "Last Name": "Sorger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Science signaling",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21597142",
+        "Title": "Electrochemical protection of thin film electrodes in solid state nanopores.",
+        "Abstract": "Solid state nanopores are a core element of next-generation single molecule tools in the field of nano-biotechnology. Thin film electrodes integrated into a pore can interact with charges and fields within the pore. In order to keep the nanopore open and thus functional electrochemically induced surface alteration of electrode surfaces and bubble formation inside the pore have to be eliminated. This paper provides electrochemical analyses of nanopores drilled into TiN membranes which in turn were employed as thin film electrodes. We studied physical pore integrity and the occurrence of water decomposition yielding bubble formation inside pores by applying voltages between -4.5 and +4.5 V to membranes in various protection stages continuously for up to 24 h. During potential application pores were exposed to selected electrolyte-solvent systems. We have investigated and successfully eliminated electrochemical pore oxidation and reduction as well as water decomposition inside nanopores of various diameters ranging from 3.5 to 25 nm in 50 nm thick TiN membranes by passivating the nanopores with a plasma-oxidized layer and using a 90% solution of glycerol in water as KCl solvent. Nanopore ionic conductances were measured before and after voltage application in order to test for changes in pore diameter due to electrochemical oxidation or reduction. TEM imaging was used to confirm these observations. While non-passivated pores were electrochemically oxidized, neither electrochemical oxidation nor reduction was observed for passivated pores. Bubble formation through water decomposition could be detected in non-passivated pores in KCl/water solutions but was not observed in 90% glycerol solutions. The use of a protective self-assembled monolayer of hexadecylphosphonic acid (HDPA) was also investigated.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Stefan",
+                "Last Name": "Harrer",
+                "Affiliation": "IBM T J Watson Research Center, 1101 Kitchawan Road, Yorktown Heights, NY 10598, USA. sharrer@us.ibm.com"
+            },
+            {
+                "First Name": "Philip S",
+                "Last Name": "Waggoner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Binquan",
+                "Last Name": "Luan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ali",
+                "Last Name": "Afzali-Ardakani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dario L",
+                "Last Name": "Goldfarb",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hongbo",
+                "Last Name": "Peng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Glenn",
+                "Last Name": "Martyna",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen M",
+                "Last Name": "Rossnagel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo A",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nanotechnology",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21325202",
+        "Title": "Setting the standards for signal transduction research.",
+        "Abstract": "Major advances in high-throughput technology platforms, coupled with increasingly sophisticated computational methods for systematic data analysis, have provided scientists with tools to better understand the complexity of signaling networks. In this era of massive and diverse data collection, standardization efforts that streamline data gathering, analysis, storage, and sharing are becoming a necessity. Here, we give an overview of current technologies to study signal transduction. We argue that along with the opportunities the new technologies open, their heterogeneous nature poses critical challenges for data handling that are further increased when data are to be integrated in mathematical models. Efficient standardization through markup languages and data annotation is a sine qua non condition for a systems-level analysis of signaling processes. It remains to be seen the extent to which and the speed at which the emerging standardization efforts will be embraced by the signaling community.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Database Management Systems",
+            "Humans",
+            "Proteome",
+            "Proteomics",
+            "Reference Standards",
+            "Research",
+            "Research Design",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Julio",
+                "Last Name": "Saez-Rodriguez",
+                "Affiliation": "European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Cambridge CB10 1SD, UK."
+            },
+            {
+                "First Name": "Leonidas G",
+                "Last Name": "Alexopoulos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Science signaling",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21090688",
+        "Title": "Electrochemical characterization of thin film electrodes toward developing a DNA transistor.",
+        "Abstract": "The DNA-Transistor is a device designed to control the translocation of single-stranded DNA through a solid-state nanopore. Functionality of the device is enabled by three electrodes exposed to the DNA-containing electrolyte solution within the pore and the application of a dynamic electrostatic potential well between the electrodes to temporarily trap a DNA molecule. Optimizing the surface chemistry and electrochemical behavior of the device is a necessary (but by no means sufficient) step toward the development of a functional device. In particular, effects to be eliminated are (i) electrochemically induced surface alteration through corrosion or reduction of the electrode surface and (ii) formation of hydrogen or oxygen bubbles inside the pore through water decomposition. Even though our motivation is to solve problems encountered in DNA transistor technology, in this paper we report on generic surface chemistry results. We investigated a variety of electrode-electrolyte-solvent systems with respect to their capability of suppressing water decomposition and maintaining surface integrity. We employed cyclic voltammetry and long-term amperometry as electrochemical test schemes, X-ray photoelectron spectroscopy, atomic force microscopy, and scanning, as well as transmission electron microscopy as analytical tools. Characterized electrode materials include thin films of Ru, Pt, nonstoichiometric TiN, and nonstoichiometric TiN carrying a custom-developed titanium oxide layer, as well as custom-oxidized nonstoichiometric TiN coated with a monolayer of hexadecylphosphonic acid (HDPA). We used distilled water as well as aqueous solutions of poly(ethylene glycol) (PEG-300) and glycerol as solvents. One millimolar KCl was employed as electrolyte in all solutions. Our results show that the HDPA-coated custom-developed titanium oxide layer effectively passivates the underlying TiN layer, eliminating any surface alterations through corrosion or reduction within a voltage window from -2 V to +2 V. Furthermore, we demonstrated that, by coating the custom-oxidized TiN samples with HDPA and increasing the concentration of PEG-300 or glycerol in aqueous 1 mM KCl solutions, water decomposition was suppressed within the same voltage window. Water dissociation was not detected when combining custom-oxidized HDPA-coated TiN electrodes with an aqueous 1 mM KCl-glycerol solution at a glycerol concentration of at least 90%. These results are applicable to any system that requires nanoelectrodes placed in aqueous solution at voltages that can activate electrochemical processes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Corrosion",
+            "DNA, Single-Stranded",
+            "Electrochemistry",
+            "Electrodes",
+            "Electrolytes",
+            "Molecular Dynamics Simulation",
+            "Nanotechnology",
+            "Nucleic Acid Conformation",
+            "Solvents",
+            "Surface Properties",
+            "Transistors, Electronic",
+            "Water"
+        ],
+        "Authors": [
+            {
+                "First Name": "Stefan",
+                "Last Name": "Harrer",
+                "Affiliation": "IBM T. J. Watson Research Center, 1101 Kitchawan Road, Yorktown Heights, New York 10598, United States. sharrer@us.ibm.com"
+            },
+            {
+                "First Name": "Shafaat",
+                "Last Name": "Ahmed",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ali",
+                "Last Name": "Afzali-Ardakani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Binquan",
+                "Last Name": "Luan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Philip S",
+                "Last Name": "Waggoner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiaoyan",
+                "Last Name": "Shao",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hongbo",
+                "Last Name": "Peng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dario L",
+                "Last Name": "Goldfarb",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Glenn J",
+                "Last Name": "Martyna",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen M",
+                "Last Name": "Rossnagel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lili",
+                "Last Name": "Deligianni",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo A",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Langmuir : the ACS journal of surfaces and colloids",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "21049094",
+        "Title": "When the optimal is not the best: parameter estimation in complex biological models.",
+        "Abstract": "The vast computational resources that became available during the past decade enabled the development and simulation of increasingly complex mathematical models of cancer growth. These models typically involve many free parameters whose determination is a substantial obstacle to model development. Direct measurement of biochemical parameters in vivo is often difficult and sometimes impracticable, while fitting them under data-poor conditions may result in biologically implausible values.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Division",
+            "Humans",
+            "Models, Biological",
+            "Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Diego",
+                "Last Name": "Fernández Slezak",
+                "Affiliation": "Laboratorio de Sistemas Complejos, Depto de Computación, FCEyN, Buenos Aires University, Buenos Aires, Argentina. dfslezak@dc.uba.ar"
+            },
+            {
+                "First Name": "Cecilia",
+                "Last Name": "Suárez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Guillermo A",
+                "Last Name": "Cecchi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Guillermo",
+                "Last Name": "Marshall",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20308593",
+        "Title": "Revealing strengths and weaknesses of methods for gene network inference.",
+        "Abstract": "Numerous methods have been developed for inferring gene regulatory networks from expression data, however, both their absolute and comparative performance remain poorly understood. In this paper, we introduce a framework for critical performance assessment of methods for gene network inference. We present an in silico benchmark suite that we provided as a blinded, community-wide challenge within the context of the DREAM (Dialogue on Reverse Engineering Assessment and Methods) project. We assess the performance of 29 gene-network-inference methods, which have been applied independently by participating teams. Performance profiling reveals that current inference methods are affected, to various degrees, by different types of systematic prediction errors. In particular, all but the best-performing method failed to accurately infer multiple regulatory inputs (combinatorial regulation) of genes. The results of this community-wide experiment show that reliable network inference from gene expression data remains an unsolved problem, and they indicate potential ways of network reconstruction improvements.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biometry",
+            "Computational Biology",
+            "Gene Expression Profiling",
+            "Gene Regulatory Networks"
+        ],
+        "Authors": [
+            {
+                "First Name": "Daniel",
+                "Last Name": "Marbach",
+                "Affiliation": "Laboratory of Intelligent Systems, Ecole Polytechnique Fédérale de Lausanne, 1015 Lausanne, Switzerland."
+            },
+            {
+                "First Name": "Robert J",
+                "Last Name": "Prill",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Schaffter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Claudio",
+                "Last Name": "Mattiussi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dario",
+                "Last Name": "Floreano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20186320",
+        "Title": "Towards a rigorous assessment of systems biology models: the DREAM3 challenges.",
+        "Abstract": "Systems biology has embraced computational modeling in response to the quantitative nature and increasing scale of contemporary data sets. The onslaught of data is accelerating as molecular profiling technology evolves. The Dialogue for Reverse Engineering Assessments and Methods (DREAM) is a community effort to catalyze discussion about the design, application, and assessment of systems biology models through annual reverse-engineering challenges.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Cluster Analysis",
+            "Computational Biology",
+            "Gene Expression Profiling",
+            "Gene Regulatory Networks",
+            "Humans",
+            "Models, Biological",
+            "Protein Interaction Mapping",
+            "Reproducibility of Results",
+            "Signal Transduction",
+            "Software",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Robert J",
+                "Last Name": "Prill",
+                "Affiliation": "IBM T. J. Watson Research Center, Yorktown Heights, New York, United States of America."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Marbach",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Julio",
+                "Last Name": "Saez-Rodriguez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter K",
+                "Last Name": "Sorger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Leonidas G",
+                "Last Name": "Alexopoulos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiaowei",
+                "Last Name": "Xue",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Neil D",
+                "Last Name": "Clarke",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gregoire",
+                "Last Name": "Altan-Bonnet",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19348640",
+        "Title": "Lessons from the DREAM2 Challenges.",
+        "Abstract": "Regardless of how creative, innovative, and elegant our computational methods, the ultimate proof of an algorithm's worth is the experimentally validated quality of its predictions. Unfortunately, this truism is hard to reduce to practice. Usually, modelers produce hundreds to hundreds of thousands of predictions, most (if not all) of which go untested. In a best-case scenario, a small subsample of predictions (three to ten usually) is experimentally validated, as a quality control step to attest to the global soundness of the full set of predictions. However, whether this small set is even representative of the global algorithm's performance is a question usually left unaddressed. Thus, a clear understanding of the strengths and weaknesses of an algorithm most often remains elusive, especially to the experimental biologists who must decide which tool to use to address a specific problem. In this chapter, we describe the first systematic set of challenges posed to the systems biology community in the framework of the DREAM (Dialogue for Reverse Engineering Assessments and Methods) project. These tests, which came to be known as the DREAM2 challenges, consist of data generously donated by participants to the DREAM project and curated in such a way as to become problems of network reconstruction and whose solutions, the actual networks behind the data, were withheld from the participants. The explanation of the resulting five challenges, a global comparison of the submissions, and a discussion of the best performing strategies are the main topics discussed.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Cluster Analysis",
+            "Computational Biology",
+            "Gene Expression Profiling",
+            "Gene Regulatory Networks",
+            "Humans",
+            "Models, Biological",
+            "Oligonucleotide Array Sequence Analysis",
+            "Protein Interaction Mapping",
+            "Proto-Oncogene Proteins",
+            "Repressor Proteins",
+            "Reproducibility of Results",
+            "Software",
+            "Systems Biology",
+            "Two-Hybrid System Techniques"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "IBM Computational Biology Center, Yorktown Heights, New York, USA. gustavo@us.ibm.com"
+            },
+            {
+                "First Name": "Robert J",
+                "Last Name": "Prill",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annals of the New York Academy of Sciences",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19348626",
+        "Title": "The challenges of systems biology. Preface.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Computational Biology",
+            "Humans",
+            "Models, Biological",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "IBM Computational Biology Center Yorktown Heights, New York, USA."
+            },
+            {
+                "First Name": "Pascal",
+                "Last Name": "Kahlem",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annals of the New York Academy of Sciences",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19118200",
+        "Title": "ChIP-on-chip significance analysis reveals large-scale binding and regulation by human transcription factor oncogenes.",
+        "Abstract": "ChIP-on-chip has emerged as a powerful tool to dissect the complex network of regulatory interactions between transcription factors and their targets. However, most ChIP-on-chip analysis methods use conservative approaches aimed at minimizing false-positive transcription factor targets. We present a model with improved sensitivity in detecting binding events from ChIP-on-chip data. Its application to human T cells, followed by extensive biochemical validation, reveals that 3 oncogenic transcription factors, NOTCH1, MYC, and HES1, bind to several thousand target gene promoters, up to an order of magnitude increase over conventional analysis methods. Gene expression profiling upon NOTCH1 inhibition shows broad-scale functional regulation across the entire range of predicted target genes, establishing a closer link between occupancy and regulation. Finally, the increased sensitivity reveals a combinatorial regulatory program in which MYC cobinds to virtually all NOTCH1-bound promoters. Overall, these results suggest an unappreciated complexity of transcriptional regulatory networks and highlight the fundamental importance of genome-scale analysis to represent transcriptional programs.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Basic Helix-Loop-Helix Transcription Factors",
+            "Gene Expression Profiling",
+            "Gene Regulatory Networks",
+            "Homeodomain Proteins",
+            "Humans",
+            "Oligonucleotide Array Sequence Analysis",
+            "Oncogenes",
+            "Promoter Regions, Genetic",
+            "Proto-Oncogene Proteins c-myc",
+            "Receptor, Notch1",
+            "T-Lymphocytes",
+            "Transcription Factor HES-1",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Adam A",
+                "Last Name": "Margolin",
+                "Affiliation": "Department of Biomedical Informatics, Joint Centers for Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Teresa",
+                "Last Name": "Palomero",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pavel",
+                "Last Name": "Sumazin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adolfo A",
+                "Last Name": "Ferrando",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19033453",
+        "Title": "Ordered cyclic motifs contribute to dynamic stability in biological and engineered networks.",
+        "Abstract": "Representation and analysis of complex biological and engineered systems as directed networks is useful for understanding their global structure/function organization. Enrichment of network motifs, which are over-represented subgraphs in real networks, can be used for topological analysis. Because counting network motifs is computationally expensive, only characterization of 3- to 5-node motifs has been previously reported. In this study we used a supercomputer to analyze cyclic motifs made of 3-20 nodes for 6 biological and 3 technological networks. Using tools from statistical physics, we developed a theoretical framework for characterizing the ensemble of cyclic motifs in real networks. We have identified a generic property of real complex networks, antiferromagnetic organization, which is characterized by minimal directional coherence of edges along cyclic subgraphs, such that consecutive links tend to have opposing direction. As a consequence, we find that the lack of directional coherence in cyclic motifs leads to depletion in feedback loops, where the number of nodes affected by feedback loops appears to be at a local minimum compared with surrogate shuffled networks. This topology provides more dynamic stability in large networks.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Aviation",
+            "Biophysics",
+            "Brain Mapping",
+            "Caenorhabditis elegans",
+            "Computer Simulation",
+            "Ecology",
+            "Engineering",
+            "Escherichia coli",
+            "Feedback, Physiological",
+            "Ferric Compounds",
+            "Food Chain",
+            "Gene Regulatory Networks",
+            "Internet",
+            "Models, Biological",
+            "Saccharomyces cerevisiae",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Avi",
+                "Last Name": "Ma'ayan",
+                "Affiliation": "Department of Pharmacology and Systems Therapeutics, Mount Sinai School of Medicine, 1 Gustave Levy Place, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Guillermo A",
+                "Last Name": "Cecchi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Wagner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "A Ravi",
+                "Last Name": "Rao",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ravi",
+                "Last Name": "Iyengar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18353791",
+        "Title": "A noise model for mass spectrometry based proteomics.",
+        "Abstract": "Mass spectrometry data are subjected to considerable noise. Good noise models are required for proper detection and quantification of peptides. We have characterized noise in both quadrupole time-of-flight (Q-TOF) and ion trap data, and have constructed models for the noise.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Artifacts",
+            "Computer Simulation",
+            "Models, Chemical",
+            "Models, Statistical",
+            "Proteins",
+            "Proteomics",
+            "Reproducibility of Results",
+            "Sensitivity and Specificity",
+            "Sequence Analysis, Protein",
+            "Spectrometry, Mass, Electrospray Ionization",
+            "Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization"
+        ],
+        "Authors": [
+            {
+                "First Name": "Peicheng",
+                "Last Name": "Du",
+                "Affiliation": "IBM Computational Biology Center, P.O. Box 218, Yorktown Heights, NY 10598, USA. pdu@us.ibm.com"
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Horvatovich",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rainer",
+                "Last Name": "Bischoff",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jihyeon",
+                "Last Name": "Lim",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Frank",
+                "Last Name": "Suits",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17925349",
+        "Title": "Dialogue on reverse-engineering assessment and methods: the DREAM of high-throughput pathway inference.",
+        "Abstract": "The biotechnological advances of the last decade have confronted us with an explosion of genetics, genomics, transcriptomics, proteomics, and metabolomics data. These data need to be organized and structured before they may provide a coherent biological picture. To accomplish this formidable task, the availability of an accurate map of the physical interactions in the cell that are responsible for cellular behavior and function would be exceedingly helpful, as these data are ultimately the result of such molecular interactions. However, all we have at this time is, at best, a fragmentary and only partially correct representation of the interactions between genes, their byproducts, and other cellular entities. If we want to succeed in our quest for understanding the biological whole as more than the sum of the individual parts, we need to build more comprehensive and cell-context-specific maps of the biological interaction networks. DREAM, the Dialogue on Reverse Engineering Assessment and Methods, is fostering a concerted effort by computational and experimental biologists to understand the limitations and to enhance the strengths of the efforts to reverse engineer cellular networks from high-throughput data. In this chapter we will discuss the salient arguments of the first DREAM conference. We will highlight both the state of the art in the field of reverse engineering as well as some of its challenges and opportunities.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Biomedical Engineering",
+            "Computational Biology",
+            "Computer Simulation",
+            "Gene Expression",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation",
+            "Models, Biological",
+            "Proteome",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "IBM Computational Biology Center, P.O. Box 218, Yorktown Heights, NY 10598, USA. gustavo@us.ibm.com"
+            },
+            {
+                "First Name": "Don",
+                "Last Name": "Monroe",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annals of the New York Academy of Sciences",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17540677",
+        "Title": "Total ancestry measure: quantifying the similarity in tree-like classification, with genomic applications.",
+        "Abstract": "Many classifications of protein function such as Gene Ontology (GO) are organized in directed acyclic graph (DAG) structures. In these classifications, the proteins are terminal leaf nodes; the categories 'above' them are functional annotations at various levels of specialization and the computation of a numerical measure of relatedness between two arbitrary proteins is an important proteomics problem. Moreover, analogous problems are important in other contexts in large-scale information organization--e.g. the Wikipedia online encyclopedia and the Yahoo and DMOZ web page classification schemes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Chromosome Mapping",
+            "Evolution, Molecular",
+            "Genetic Variation",
+            "Phylogeny",
+            "Proteins",
+            "Quantitative Trait Loci",
+            "Sequence Analysis, DNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Haiyuan",
+                "Last Name": "Yu",
+                "Affiliation": "Department of Molecular Biophysics & Biochemistry, Yale University, PO Box 208114, New Haven, CT 06520, USA."
+            },
+            {
+                "First Name": "Ronald",
+                "Last Name": "Jansen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Gerstein",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17233562",
+        "Title": "Comparison of Amersham and Agilent microarray technologies through quantitative noise analysis.",
+        "Abstract": "We carried out a series of replicate experiments on DNA microarrays using two cell lines and two technologies--the Agilent Human 1A Microarray and the GE Amersham Codelink Uniset Human 20K I Bioarray. We demonstrated that quantifying the noise level as a function of signal strength allows identification of the absolute and differential mRNA expression levels at which biological variability can be resolved above measurement noise. This represents a new formulation of a sensitivity threshold that can be used to compare platforms. It was found that the correlation in expression level between platforms is considerably worse than the correlation between replicate measurements taken using the same platform. In addition, we carried out replicate measurements at different stages of sample processing. This novel approach enables us to quantify the noise introduced into the measurements at each step of the experimental protocol. We demonstrated how this information can be used to determine the most efficient means of using replicates to reduce experimental uncertainty.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Line, Tumor",
+            "Humans",
+            "Oligonucleotide Array Sequence Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "G A",
+                "Last Name": "Held",
+                "Affiliation": "IBM TJ Watson Research Center, Yorktown Heights, New York, USA. glenn.held@gmail.com"
+            },
+            {
+                "First Name": "Keith",
+                "Last Name": "Duggar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Omics : a journal of integrative biology",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16452783",
+        "Title": "Can we identify cellular pathways implicated in cancer using gene expression data?",
+        "Abstract": "The cancer state of a cell is characterized by alterations of important cellular processes such as cell proliferation, apoptosis, DNA-damage repair, etc. The expression of genes associated with cancer related pathways, therefore, may exhibit differences between the normal and the cancerous states. We explore various means to find these differences. We analyze 6 different pathways (p53, Ras, Brca, DNA damage repair, NFkappab and beta-catenin) and 4 different types of cancer: colon, pancreas, prostate and kidney. Our results are found to be mostly consistent with existing knowledge of the involvement of these pathways in different cancers. Our analysis constitutes proof of principle that it may be possible to predict the involvement of a particular pathway in cancer or other diseases by using gene expression data. Such method would be particularly useful for the types of diseases where biology is poorly understood.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biomarkers, Tumor",
+            "Computer Simulation",
+            "Feasibility Studies",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Neoplastic",
+            "Humans",
+            "Models, Biological",
+            "Neoplasm Proteins",
+            "Neoplasms",
+            "Oligonucleotide Array Sequence Analysis",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nigam",
+                "Last Name": "Shah",
+                "Affiliation": "Pennsylvania State University, University Park, 16802, USA."
+            },
+            {
+                "First Name": "Jorge",
+                "Last Name": "Lepre",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuhai",
+                "Last Name": "Tu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings. IEEE Computer Society Bioinformatics Conference",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "16447989",
+        "Title": "A robust meta-classification strategy for cancer diagnosis from gene expression data.",
+        "Abstract": "One of the major challenges in cancer diagnosis from microarray data is to develop robust classification models which are independent of the analysis techniques used and can combine data from different laboratories. We propose a meta-classification scheme which uses a robust multivariate gene selection procedure and integrates the results of several machine learning tools trained on raw and pattern data. We validate our method by applying it to distinguish diffuse large B-cell lymphoma (DLBCL) from follicular lymphoma (FL) on two independent datasets: the HuGeneFL Affmetrixy dataset of Shipp et al. (www. genome.wi.mit.du/MPR /lymphoma) and the Hu95Av2 Affymetrix dataset (DallaFavera's laboratory, Columbia University). Our meta-classification technique achieves higher predictive accuracies than each of the individual classifiers trained on the same dataset and is robust against various data perturbations. We also find that combinations of p53 responsive genes (e.g., p53, PLK1 and CDK2) are highly predictive of the phenotype.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Artificial Intelligence",
+            "Biomarkers, Tumor",
+            "Diagnosis, Computer-Assisted",
+            "Discriminant Analysis",
+            "Gene Expression Profiling",
+            "Humans",
+            "Meta-Analysis as Topic",
+            "Neoplasm Proteins",
+            "Neoplasms",
+            "Oligonucleotide Array Sequence Analysis",
+            "Pattern Recognition, Automated",
+            "Reproducibility of Results",
+            "Sensitivity and Specificity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gabriela",
+                "Last Name": "Alexe",
+                "Affiliation": "IBM Computational Biology Center, IBM T.J. Watson Research Center, Yorktown Heights, NY 10598, USA. galexe@us.ibm.com"
+            },
+            {
+                "First Name": "Gyan",
+                "Last Name": "Bhanot",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Babu",
+                "Last Name": "Venkataraghavan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ramakrishna",
+                "Last Name": "Ramaswamy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jorge",
+                "Last Name": "Lepre",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arnold J",
+                "Last Name": "Levine",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings. IEEE Computational Systems Bioinformatics Conference",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "16362926",
+        "Title": "Robust diagnosis of non-Hodgkin lymphoma phenotypes validated on gene expression data from different laboratories.",
+        "Abstract": "A major challenge in cancer diagnosis from microarray data is the need for robust, accurate, classification models which are independent of the analysis techniques used and can combine data from different laboratories. We propose such a classification scheme originally developed for phenotype identification from mass spectrometry data. The method uses a robust multivariate gene selection procedure and combines the results of several machine learning tools trained on raw and pattern data to produce an accurate meta-classifier. We illustrate and validate our method by applying it to gene expression datasets: the oligonucleotide HuGeneFL microarray dataset of Shipp et al. (www.genome.wi.mit.du/MPR/lymphoma) and the Hu95Av2 Affymetrix dataset (DallaFavera's laboratory, Columbia University). Our pattern-based meta-classification technique achieves higher predictive accuracies than each of the individual classifiers , is robust against data perturbations and provides subsets of related predictive genes. Our techniques predict that combinations of some genes in the p53 pathway are highly predictive of phenotype. In particular, we find that in 80% of DLBCL cases the mRNA level of at least one of the three genes p53, PLK1 and CDK2 is elevated, while in 80% of FL cases, the mRNA level of at most one of them is elevated.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biomarkers, Tumor",
+            "Cell Cycle Proteins",
+            "Clinical Laboratory Techniques",
+            "Computational Biology",
+            "Computer Simulation",
+            "Cyclin-Dependent Kinase 2",
+            "Databases, Factual",
+            "Diagnosis, Differential",
+            "Gene Expression Regulation, Neoplastic",
+            "Genes, Neoplasm",
+            "Genes, p53",
+            "Humans",
+            "Laboratories",
+            "Lymphoma, Follicular",
+            "Lymphoma, Large B-Cell, Diffuse",
+            "Lymphoma, Non-Hodgkin",
+            "Oligonucleotide Array Sequence Analysis",
+            "Phenotype",
+            "Predictive Value of Tests",
+            "Protein Kinases",
+            "Protein Serine-Threonine Kinases",
+            "Proto-Oncogene Proteins",
+            "RNA, Messenger",
+            "Reproducibility of Results",
+            "Software Design",
+            "Tumor Suppressor Protein p53",
+            "Up-Regulation",
+            "Polo-Like Kinase 1"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gyan",
+                "Last Name": "Bhanot",
+                "Affiliation": "Center for Systems Biology, Institute for Advanced Study, Princeton, NJ 08540, USA. gyan@us.ibm.com"
+            },
+            {
+                "First Name": "Gabriela",
+                "Last Name": "Alexe",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arnold J",
+                "Last Name": "Levine",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genome informatics. International Conference on Genome Informatics",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "16186499",
+        "Title": "A plausible model for the digital response of p53 to DNA damage.",
+        "Abstract": "Recent observations show that the single-cell response of p53 to ionizing radiation (IR) is \"digital\" in that it is the number of oscillations rather than the amplitude of p53 that shows dependence on the radiation dose. We present a model of this phenomenon. In our model, double-strand break (DSB) sites induced by IR interact with a limiting pool of DNA repair proteins, forming DSB-protein complexes at DNA damage foci. The persisting complexes are sensed by ataxia telangiectasia mutated (ATM), a protein kinase that activates p53 once it is phosphorylated by DNA damage. The ATM-sensing module switches on or off the downstream p53 oscillator, consisting of a feedback loop formed by p53 and its negative regulator, Mdm2. In agreement with experiments, our simulations show that by assuming stochasticity in the initial number of DSBs and the DNA repair process, p53 and Mdm2 exhibit a coordinated oscillatory dynamics upon IR stimulation in single cells, with a stochastic number of oscillations whose mean increases with IR dose. The damped oscillations previously observed in cell populations can be explained as the aggregate behavior of single cells.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Ataxia Telangiectasia Mutated Proteins",
+            "Cell Cycle Proteins",
+            "Computer Simulation",
+            "DNA Damage",
+            "DNA Repair",
+            "DNA-Binding Proteins",
+            "Feedback, Physiological",
+            "Models, Biological",
+            "Protein Serine-Threonine Kinases",
+            "Proto-Oncogene Proteins c-mdm2",
+            "Radiation, Ionizing",
+            "Signal Transduction",
+            "Tumor Suppressor Protein p53",
+            "Tumor Suppressor Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lan",
+                "Last Name": "Ma",
+                "Affiliation": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY 10598, USA."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Wagner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John Jeremy",
+                "Last Name": "Rice",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wenwei",
+                "Last Name": "Hu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arnold J",
+                "Last Name": "Levine",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo A",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15778709",
+        "Title": "Reverse engineering of regulatory networks in human B cells.",
+        "Abstract": "Cellular phenotypes are determined by the differential activity of networks linking coregulated genes. Available methods for the reverse engineering of such networks from genome-wide expression profiles have been successful only in the analysis of lower eukaryotes with simple genomes. Using a new method called ARACNe (algorithm for the reconstruction of accurate cellular networks), we report the reconstruction of regulatory networks from expression profiles of human B cells. The results are suggestive a hierarchical, scale-free network, where a few highly interconnected genes (hubs) account for most of the interactions. Validation of the network against available data led to the identification of MYC as a major hub, which controls a network comprising known target genes as well as new ones, which were biochemically validated. The newly identified MYC targets include some major hubs. This approach can be generally useful for the analysis of normal and pathologic networks in mammalian cells.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Artificial Intelligence",
+            "B-Lymphocytes",
+            "Cluster Analysis",
+            "Computer Simulation",
+            "Databases, Protein",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation",
+            "Gene Targeting",
+            "Genome",
+            "Humans",
+            "Leukemia",
+            "Lymphoma",
+            "Models, Biological",
+            "Oligonucleotide Array Sequence Analysis",
+            "Protein Binding",
+            "Protein Interaction Mapping",
+            "Proteome",
+            "Proto-Oncogene Proteins c-myc",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Katia",
+                "Last Name": "Basso",
+                "Affiliation": "Institute for Cancer Genetics, 1300 St. Nicholas Avenue, Room 912, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Adam A",
+                "Last Name": "Margolin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ulf",
+                "Last Name": "Klein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Riccardo",
+                "Last Name": "Dalla-Favera",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature genetics",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15728355",
+        "Title": "Lasting impressions: motifs in protein-protein maps may provide footprints of evolutionary events.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Motifs",
+            "Evolution, Molecular",
+            "Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "J Jeremy",
+                "Last Name": "Rice",
+                "Affiliation": "Computational Biology Center, The T. J. Watson Research Center, IBM, Yorktown Heights, NY 10598, USA."
+            },
+            {
+                "First Name": "Aaron",
+                "Last Name": "Kershenbaum",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15486043",
+        "Title": "Reconstructing biological networks using conditional correlation analysis.",
+        "Abstract": "One of the present challenges in biological research is the organization of the data originating from high-throughput technologies. One way in which this information can be organized is in the form of networks of influences, physical or statistical, between cellular components. We propose an experimental method for probing biological networks, analyzing the resulting data and reconstructing the network architecture.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Computer Simulation",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation",
+            "Models, Biological",
+            "Models, Statistical",
+            "Oligonucleotide Array Sequence Analysis",
+            "Protein Interaction Mapping",
+            "Signal Transduction",
+            "Statistics as Topic",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "John Jeremy",
+                "Last Name": "Rice",
+                "Affiliation": "Computational Biology Center, IBM T.J. Watson Research Center, PO Box 218, Yorktown Heights, NY 10598, USA."
+            },
+            {
+                "First Name": "Yuhai",
+                "Last Name": "Tu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "14764572",
+        "Title": "Genes@Work: an efficient algorithm for pattern discovery and multivariate feature selection in gene expression data.",
+        "Abstract": "Despite the growing literature devoted to finding differentially expressed genes in assays probing different tissues types, little attention has been paid to the combinatorial nature of feature selection inherent to large, high-dimensional gene expression datasets. New flexible data analysis approaches capable of searching relevant subgroups of genes and experiments are needed to understand multivariate associations of gene expression patterns with observed phenotypes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Gene Expression Profiling",
+            "Humans",
+            "Lymphoma",
+            "Multivariate Analysis",
+            "Pattern Recognition, Automated",
+            "Reproducibility of Results",
+            "Sensitivity and Specificity",
+            "Sequence Alignment",
+            "Sequence Analysis, DNA",
+            "Sequence Homology, Nucleic Acid",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jorge",
+                "Last Name": "Lepre",
+                "Affiliation": "IBM T.J. Watson Research Center, P.O. Box 218, Yorktown Heights, NY 10598, USA."
+            },
+            {
+                "First Name": "J Jeremy",
+                "Last Name": "Rice",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuhai",
+                "Last Name": "Tu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "12831889",
+        "Title": "Gene selection in microarray data: the elephant, the blind men and our algorithms.",
+        "Abstract": "Gene expression array data provide shadows of intricate cellular processes. Learning how to make the most of the information present in expression arrays has become a discipline in itself. In recent years, there has been an explosion of methods that analyze gene expression arrays to produce long lists of genes that express differentially in distinct cellular states. These lists will have to be organized, and the algorithms that produced them combined, if we wish to piece together the rich cellular structures probed by this high-throughput technology. Researchers will have to understand the benefits and limitations of the many existing methods to produce the combination of algorithms that best suits their gene expression experiments.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Data Interpretation, Statistical",
+            "Oligonucleotide Array Sequence Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "IBM TJ Watson Research Center, PO Box 218, Yorktown Heights, NY 10598, USA. gustavo@us.ibm.com"
+            }
+        ],
+        "Journal": "Current opinion in structural biology",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12727636",
+        "Title": "Gene expression dynamics during germinal center transit in B cells.",
+        "Abstract": "The germinal center (GC) reaction in T cell dependent antibody responses is crucial for the generation of B cell memory and plays a critical role in B cell lymphomagenesis. To gain insight into the physiology of this reaction, we identified the transcriptional changes that occur in B cells during the GC-transit (naïve B cells --> CD77(+) centroblasts (CBs) --> CD77(-) centrocytes (CCs) --> memory B cells) by DNA microarray experiments and the subsequent data analysis employing unsupervised and supervised hierarchical clustering. The naïve B cell is characterized by a nonproliferative, anti-apoptotic phenotype and the expression of various chemokine and cytokine receptors. The transition from naïve B cells to CBs is associated with (1) the up-regulation of genes associated with cellular proliferation, DNA-repair, and chromatin remodeling; (2) the acquisition of a pro-apoptotic phenotype; (3) the down-regulation of cytokine, chemokine, and adhesion receptors expressed in the naïve cells; and (4) the expression of a distinct adhesion repertoire. The CB and the CC revealed surprisingly few gene expression differences, suggesting that the CC is heterogeneous in its cellular composition. The CB/CC to memory B cell transition shows a general reversion to the profile characteristic for the naïve B cells, with the exception of the up-regulation of several surface receptors, including CD27, CD80, and IL-2Rbeta, and the simultaneous expression of both anti- and pro-apoptotic genes. These gene expression profiles of the normal B cell subpopulations are being used to identify the signals occurring during GC development, the cellular derivation of various types of B cell malignancies, and the genes deregulated in GC-derived tumors.",
+        "Keywords": [],
+        "MeSH terms": [
+            "B-Lymphocytes",
+            "Gene Expression",
+            "Humans"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ulf",
+                "Last Name": "Klein",
+                "Affiliation": "Institute for Cancer Genetics, Columbia University, Departments of Pathology and Genetics and Development, New York, New York 10032, USA. uk30@columbia.edu"
+            },
+            {
+                "First Name": "Yuhai",
+                "Last Name": "Tu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo A",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jeffrey L",
+                "Last Name": "Keller",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph",
+                "Last Name": "Haddad",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vladan",
+                "Last Name": "Miljkovic",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Giorgio",
+                "Last Name": "Cattoretti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Riccardo",
+                "Last Name": "Dalla-Favera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annals of the New York Academy of Sciences",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12706103",
+        "Title": "Motif-based construction of a functional map for mammalian olfactory receptors.",
+        "Abstract": "We applied an automatic and unsupervised system to a nearly complete database of mammalian odor receptor genes. The generated motifs and gene classification were subjected to extensive and systematic downstream analysis to obtain biological insights. Two major results from this analysis were: (1) a map of sequence motifs that may correlate with function and (2) the corresponding receptor classes in which members of each class are likely to share specific functions. We have discovered motifs that have been implicated in structural integrity and posttranslational modification, as well as motifs very likely to be directly involved in ligand binding. We further propose a combinatorial molecular hypothesis, based on unique combinations of the observed motifs, that provides a foundation for understanding the generation of a large number of ligand binding sites.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Motifs",
+            "Animals",
+            "Binding Sites",
+            "Computational Biology",
+            "Databases, Genetic",
+            "Humans",
+            "Mice",
+            "Protein Processing, Post-Translational",
+            "Protein Structure, Secondary",
+            "Protein Structure, Tertiary",
+            "Receptors, Odorant"
+        ],
+        "Authors": [
+            {
+                "First Name": "Agatha H",
+                "Last Name": "Liu",
+                "Affiliation": "Computational Biology Center, T. J. Watson IBM Research, P.O. Box 218, Yorktown Heights, NY 10598, USA."
+            },
+            {
+                "First Name": "Xinmin",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo A",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stuart J",
+                "Last Name": "Firestein",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genomics",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12651908",
+        "Title": "Identification of a global gene expression signature of B-chronic lymphocytic leukemia.",
+        "Abstract": "B-chronic lymphocytic leukemia (B-CLL) is an adult-onset leukemia characterized by significant accumulation of apoptosis-resistant monoclonal B lymphocytes. In this study, we performed gene expression profiling on B cells obtained from 10 healthy age-matched individuals and CLL B cells from 38 B-CLL patients to identify key genetic differences between CLL and normal B cells. In addition, we leveraged recent independent studies to assess the reproducibility of our molecular B-CLL signature. We used a novel combination of several methods of data analysis including our own software and identified 70 previously unreported genes that differentiate leukemic cells from normal B cells, as well as confirmed recently reported B-CLL specific expression levels of an additional 10 genes. Importantly, many of these genes have previously been linked with other cancers, thus lending further support to their importance as candidate genes leading to B-CLL pathogenesis. We have also validated a subset of these genes using independent methodologies. Moreover, we show that our genes can be used to create a diagnostics signature that performs with perfect sensitivity and specificity in an independent cohort of 21 B-CLL and 20 normal subjects, thus strongly validating the informative nature of our set of genes. Finally, we identified a group of 31 genes that distinguish between low (Rai stage 0) and high (Rai stage 4) risk patients, suggesting that there may also be a gene expression signature that associates with disease progression.",
+        "Keywords": [],
+        "MeSH terms": [
+            "ATP-Binding Cassette Transporters",
+            "Adult",
+            "Algorithms",
+            "Carrier Proteins",
+            "Cell Transformation, Neoplastic",
+            "DNA-Binding Proteins",
+            "Extracellular Matrix Proteins",
+            "Fibromodulin",
+            "Gene Expression Regulation, Neoplastic",
+            "Genetic Predisposition to Disease",
+            "Humans",
+            "Insulin-Like Growth Factor Binding Protein 4",
+            "Leukemia, Lymphocytic, Chronic, B-Cell",
+            "Lymphoid Enhancer-Binding Factor 1",
+            "Models, Genetic",
+            "Multivariate Analysis",
+            "Proteoglycans",
+            "Receptors, Transforming Growth Factor beta",
+            "Risk Assessment",
+            "Sensitivity and Specificity",
+            "Software",
+            "Transcription Factors",
+            "ras-GRF1"
+        ],
+        "Authors": [
+            {
+                "First Name": "Diane F",
+                "Last Name": "Jelinek",
+                "Affiliation": "Department of Immunology, Mayo Graduate and Medical Schools, Mayo Clinic, Rochester, MN 55905, USA. jelinek.diane@mayo.edu"
+            },
+            {
+                "First Name": "Renee C",
+                "Last Name": "Tschumper",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo A",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen J",
+                "Last Name": "Iturria",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuhai",
+                "Last Name": "Tu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jorge",
+                "Last Name": "Lepre",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nigam",
+                "Last Name": "Shah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Neil E",
+                "Last Name": "Kay",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular cancer research : MCR",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12604779",
+        "Title": "Transcriptional analysis of the B cell germinal center reaction.",
+        "Abstract": "The germinal center (GC) reaction is crucial for T cell-dependent immune responses and is targeted by B cell lymphomagenesis. Here we analyzed the transcriptional changes that occur in B cells during GC transit (naive B cells --> centroblasts --> centrocytes --> memory B cells) by gene expression profiling. Naive B cells, characterized by the expression of cell cycle-inhibitory and antiapoptotic genes, become centroblasts by inducing an atypical proliferation program lacking c-Myc expression, switching to a proapoptotic program, and down-regulating cytokine, chemokine, and adhesion receptors. The transition from GC to memory cells is characterized by a return to a phenotype similar to that of naive cells except for an apoptotic program primed for both death and survival and for changes in the expression of cell surface receptors including IL-2 receptor beta. These results provide insights into the dynamics of the GC reaction and represent the basis for the analysis of B cell malignancies.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Apoptosis",
+            "B-Lymphocytes",
+            "Cell Adhesion",
+            "Cell Division",
+            "Cell Separation",
+            "Down-Regulation",
+            "Flow Cytometry",
+            "Gene Expression Regulation",
+            "Germinal Center",
+            "Humans",
+            "Immunohistochemistry",
+            "Immunologic Memory",
+            "Interleukin-2 Receptor beta Subunit",
+            "Magnetics",
+            "Oligonucleotide Array Sequence Analysis",
+            "Palatine Tonsil",
+            "Phenotype",
+            "Proto-Oncogene Proteins c-myc",
+            "Receptors, Interleukin",
+            "Transcription, Genetic",
+            "Up-Regulation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ulf",
+                "Last Name": "Klein",
+                "Affiliation": "Institute for Cancer Genetics and Department of Pathology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yuhai",
+                "Last Name": "Tu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo A",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jeffrey L",
+                "Last Name": "Keller",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph",
+                "Last Name": "Haddad",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vladan",
+                "Last Name": "Miljkovic",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Giorgio",
+                "Last Name": "Cattoretti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Riccardo",
+                "Last Name": "Dalla-Favera",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12547772",
+        "Title": "Ising model of cardiac thin filament activation with nearest-neighbor cooperative interactions.",
+        "Abstract": "We have developed a model of cardiac thin filament activation using an Ising model approach from equilibrium statistical physics. This model explicitly represents nearest-neighbor interactions between 26 troponin/tropomyosin units along a one-dimensional array that represents the cardiac thin filament. With transition rates chosen to match experimental data, the results show that the resulting force-pCa (F-pCa) relations are similar to Hill functions with asymmetries, as seen in experimental data. Specifically, Hill plots showing (log(F/(1-F)) vs. log [Ca]) reveal a steeper slope below the half activation point (Ca(50)) compared with above. Parameter variation studies show interplay of parameters that affect the apparent cooperativity and asymmetry in the F-pCa relations. The model also predicts that Ca binding is uncooperative for low [Ca], becomes steeper near Ca(50), and becomes uncooperative again at higher [Ca]. The steepness near Ca(50) mirrors the steep F-pCa as a result of thermodynamic considerations. The model also predicts that the correlation between troponin/tropomyosin units along the one-dimensional array quickly decays at high and low [Ca], but near Ca(50), high correlation occurs across the whole array. This work provides a simple model that can account for the steepness and shape of F-pCa relations that other models fail to reproduce.",
+        "Keywords": [
+            "NASA Discipline Cardiopulmonary",
+            "NASA Program Biomedical Research and Countermeasures",
+            "Non-NASA Center"
+        ],
+        "MeSH terms": [
+            "Actin Cytoskeleton",
+            "Animals",
+            "Calcium",
+            "Computer Simulation",
+            "Macromolecular Substances",
+            "Models, Biological",
+            "Molecular Motor Proteins",
+            "Myocardial Contraction",
+            "Myocardium",
+            "Myocytes, Cardiac",
+            "Myofibrils",
+            "Protein Binding",
+            "Rats",
+            "Stress, Mechanical",
+            "Tropomyosin",
+            "Troponin"
+        ],
+        "Authors": [
+            {
+                "First Name": "John Jeremy",
+                "Last Name": "Rice",
+                "Affiliation": "IBM T. J. Watson Research Center, Yorktown Heights, New York 10598, USA. johnrice@us.ibm.com"
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuhai",
+                "Last Name": "Tu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pieter P",
+                "Last Name": "de Tombe",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Biophysical journal",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12421757",
+        "Title": "Systematic learning of gene functional classes from DNA array expression data by using multilayer perceptrons.",
+        "Abstract": "Recent advances in microarray technology have opened new ways for functional annotation of previously uncharacterised genes on a genomic scale. This has been demonstrated by unsupervised clustering of co-expressed genes and, more importantly, by supervised learning algorithms. Using prior knowledge, these algorithms can assign functional annotations based on more complex expression signatures found in existing functional classes. Previously, support vector machines (SVMs) and other machine-learning methods have been applied to a limited number of functional classes for this purpose. Here we present, for the first time, the comprehensive application of supervised neural networks (SNNs) for functional annotation. Our study is novel in that we report systematic results for ~100 classes in the Munich Information Center for Protein Sequences (MIPS) functional catalog. We found that only ~10% of these are learnable (based on the rate of false negatives). A closer analysis reveals that false positives (and negatives) in a machine-learning context are not necessarily \"false\" in a biological sense. We show that the high degree of interconnections among functional classes confounds the signatures that ought to be learned for a unique class. We term this the \"Borges effect\" and introduce two new numerical indices for its quantification. Our analysis indicates that classification systems with a lower Borges effect are better suitable for machine learning. Furthermore, we introduce a learning procedure for combining false positives with the original class. We show that in a few iterations this process converges to a gene set that is learnable with considerably low rates of false positives and negatives and contains genes that are biologically related to the original class, allowing for a coarse reconstruction of the interactions between associated biological pathways. We exemplify this methodology using the well-studied tricarboxylic acid cycle.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Artificial Intelligence",
+            "Citric Acid Cycle",
+            "Cluster Analysis",
+            "Computational Biology",
+            "Gene Expression Profiling",
+            "Genes",
+            "Genetic Heterogeneity",
+            "Neural Networks, Computer",
+            "Oligonucleotide Array Sequence Analysis",
+            "Saccharomyces cerevisiae Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alvaro",
+                "Last Name": "Mateos",
+                "Affiliation": "Bioinformatics Unit, Centro Nacional de Investigaciones Oncologicas (CNIO), 28039, Madrid, Spain."
+            },
+            {
+                "First Name": "Joaquín",
+                "Last Name": "Dopazo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ronald",
+                "Last Name": "Jansen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuhai",
+                "Last Name": "Tu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Gerstein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genome research",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "12780224",
+        "Title": "A simple model of chaotic advection and scattering.",
+        "Abstract": "In this work, we study a blinking vortex-uniform stream map. This map arises as an idealized, but essential, model of time-dependent convection past concentrated vorticity in a number of fluid systems. The map exhibits a rich variety of phenomena, yet it is simple enough so as to yield to extensive analytical investigation. The map's dynamics is dominated by the chaotic scattering of fluid particles near the vortex core. Studying the paths of fluid particles, it is seen that quantities such as residence time distributions and exit-vs-entry positions scale in self-similar fashions. A bifurcation is identified in which a saddle fixed point is created upstream at infinity. The homoclinic tangle formed by the transversely intersecting stable and unstable manifolds of this saddle is principally responsible for the observed self-similarity. Also, since the model is simple enough, various other properties are quantified analytically in terms of the circulation strength, stream velocity, and blinking period. These properties include: entire hierarchies of fixed points and periodic points, the parameter values at which these points undergo conservative period-doubling bifurcations, the structure of the unstable manifolds of the saddle fixed and periodic points, and the detailed structure of the resonance zones inside the vortex core region. A connection is made between a weakly dissipative version of our map and the Ikeda map from nonlinear optics. Finally, we discuss the essential ingredients that our model contains for studying how chaotic scattering induced by time-dependent flow past vortical structures produces enhanced diffusivities. (c) 1995 American Institute of Physics.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Gustavo",
+                "Last Name": "Stolovitzky",
+                "Affiliation": "Center for Studies in Physics and Biology, Rockefeller University, New York, New York 10021Department of Mathematics, Boston University, Boston, Massachusetts 02215Center for Studies in Physics and Biology, Rockefeller University, New York, New York 10021Division of Applied Mathematics, Brown University, Providence, Rhode Island 02912."
+            },
+            {
+                "First Name": "Tasso J.",
+                "Last Name": "Kaper",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lawrence",
+                "Last Name": "Sirovich",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Chaos (Woodbury, N.Y.)",
+        "PubDate": "1995"
+    }
+]

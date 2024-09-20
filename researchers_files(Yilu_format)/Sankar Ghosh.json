@@ -1,10 +1,24 @@
 [
     {
         "PMID": "39012778",
-        "Title": "Heterogenous expansion of polymorphonuclear myeloid-derived suppressor cells distinguishes high-risk sepsis immunophenotypes in Uganda.",
-        "Abstract": "Understanding of immune cell phenotypes associated with inflammatory and immunosuppressive host responses in sepsis is imprecise, particularly in low- and middle-income countries (LMICs), where the global sepsis burden is concentrated. In these settings, elucidation of immunophenotypes with prognostic importance is necessary to determine the relevance of emerging therapeutics and refine mechanistic investigations of sepsis immunopathology.",
+        "Title": "HETEROGENEOUS EXPANSION OF POLYMORPHONUCLEAR MYELOID-DERIVED SUPPRESSOR CELLS DISTINGUISHES HIGH-RISK SEPSIS IMMUNOPHENOTYPES IN UGANDA.",
+        "Abstract": "Background: Understanding of immune cell phenotypes associated with inflammatory and immunosuppressive host responses in sepsis is imprecise, particularly in low- and middle-income countries, where the global sepsis burden is concentrated. In these settings, elucidation of clinically relevant immunophenotypes is necessary to determine the relevance of emerging therapeutics and refine mechanistic investigations of sepsis immunopathology. Methods: In a prospective cohort of adults hospitalized with suspected sepsis in Uganda (N = 43; median age 46 years [IQR 36-59], 24 [55.8%] living with HIV, 16 [37.2%] deceased at 60 days), we combined high-dimensional flow cytometry with unsupervised machine learning and manual gating to define peripheral immunophenotypes associated with increased risk of 60-day mortality. Results: Patients who died showed heterogeneous expansion of polymorphonuclear myeloid-derived suppressor cells, with increased and decreased abundance of CD16 - PD-L1 dim and CD16 bright PD-L1 bright subsets, respectively, significantly associated with mortality. While differences between CD16 - PD-L1 dim cell abundance and mortality risk appeared consistent throughout the course of illness, those for the CD16 bright PD-L1 bright subset were more pronounced early after illness onset. Independent of HIV co-infection, depletion of CD4 + T cells, dendritic cells, and CD56 - CD16 bright NK cells were significantly associated with mortality risk, as was expansion of immature, CD56 + CD16 - CD11c + NK cells. Abundance of T cells expressing inhibitory checkpoint proteins (PD-1, CTLA-4, LAG-3) was similar between patients who died versus those who survived. Conclusions: This is the first study to define high-risk immunophenotypes among adults with sepsis in sub-Saharan Africa, an immunologically distinct region where biologically informed treatment strategies are needed. More broadly, our findings highlight the clinical importance and complexity of myeloid derived suppressor cell expansion during sepsis and support emerging data that suggest a host-protective role for PD-L1 myeloid checkpoints in acute critical illness.",
         "Keywords": [],
-        "MeSH terms": [],
+        "MeSH terms": [
+            "Humans",
+            "Uganda",
+            "Myeloid-Derived Suppressor Cells",
+            "Middle Aged",
+            "Female",
+            "Adult",
+            "Male",
+            "Sepsis",
+            "Immunophenotyping",
+            "Prospective Studies",
+            "B7-H1 Antigen",
+            "Neutrophils",
+            "Flow Cytometry"
+        ],
         "Authors": [
             {
                 "First Name": "Matthew J",
@@ -14,7 +28,7 @@
             {
                 "First Name": "Vincent",
                 "Last Name": "Guichard",
-                "Affiliation": "Department of Microbiology and Immunology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+                "Affiliation": "Department of Microbiology and Immunology, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York."
             },
             {
                 "First Name": "Nicholas",
@@ -49,12 +63,12 @@
             {
                 "First Name": "Jesse E",
                 "Last Name": "Ross",
-                "Affiliation": "Division of Pulmonary, Allergy, and Critical Care Medicine, Department of Medicine, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+                "Affiliation": "Division of Pulmonary, Allergy, and Critical Care Medicine, Department of Medicine, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York."
             },
             {
                 "First Name": "Thomas S",
                 "Last Name": "Postler",
-                "Affiliation": "Department of Microbiology and Immunology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+                "Affiliation": "Department of Microbiology and Immunology, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York."
             },
             {
                 "First Name": "John",
@@ -89,7 +103,7 @@
             {
                 "First Name": "Sankar",
                 "Last Name": "Ghosh",
-                "Affiliation": "Department of Microbiology and Immunology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+                "Affiliation": "Department of Microbiology and Immunology, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York."
             },
             {
                 "First Name": "Barnabas",

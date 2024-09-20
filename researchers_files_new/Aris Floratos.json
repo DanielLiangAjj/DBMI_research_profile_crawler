@@ -1,0 +1,264 @@
+[
+    {
+        "PMID": "26110827",
+        "Title": "ABC transporters and the proteasome complex are implicated in susceptibility to Stevens-Johnson syndrome and toxic epidermal necrolysis across multiple drugs.",
+        "Abstract": "Stevens-Johnson syndrome (SJS) and Toxic Epidermal Necrolysis (TEN) represent rare but serious adverse drug reactions (ADRs). Both are characterized by distinctive blistering lesions and significant mortality rates. While there is evidence for strong drug-specific genetic predisposition related to HLA alleles, recent genome wide association studies (GWAS) on European and Asian populations have failed to identify genetic susceptibility alleles that are common across multiple drugs. We hypothesize that this is a consequence of the low to moderate effect size of individual genetic risk factors. To test this hypothesis we developed Pointer, a new algorithm that assesses the aggregate effect of multiple low risk variants on a pathway using a gene set enrichment approach. A key advantage of our method is the capability to associate SNPs with genes by exploiting physical proximity as well as by using expression quantitative trait loci (eQTLs) that capture information about both cis- and trans-acting regulatory effects. We control for known bias-inducing aspects of enrichment based analyses, such as: 1) gene length, 2) gene set size, 3) presence of biologically related genes within the same linkage disequilibrium (LD) region, and, 4) genes shared among multiple gene sets. We applied this approach to publicly available SJS/TEN genome-wide genotype data and identified the ABC transporter and Proteasome pathways as potentially implicated in the genetic susceptibility of non-drug-specific SJS/TEN. We demonstrated that the innovative SNP-to-gene mapping phase of the method was essential in detecting the significant enrichment for those pathways. Analysis of an independent gene expression dataset provides supportive functional evidence for the involvement of Proteasome pathways in SJS/TEN cutaneous lesions. These results suggest that Pointer provides a useful framework for the integrative analysis of pharmacogenetic GWAS data, by increasing the power to detect aggregate effects of multiple low risk variants. The software is available for download at https://sourceforge.net/projects/pointergsa/.",
+        "Keywords": [],
+        "MeSH terms": [
+            "ATP-Binding Cassette Transporters",
+            "Algorithms",
+            "Alleles",
+            "Databases, Genetic",
+            "Gene Frequency",
+            "Genetic Predisposition to Disease",
+            "Genome-Wide Association Study",
+            "Genotype",
+            "Humans",
+            "Polymorphism, Single Nucleotide",
+            "Proteasome Endopeptidase Complex",
+            "Stevens-Johnson Syndrome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Paola",
+                "Last Name": "Nicoletti",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Mukesh",
+                "Last Name": "Bansal",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Celine",
+                "Last Name": "Lefebvre",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America; INSERM U981, Institut Gustave Roussy, Villejuif, France."
+            },
+            {
+                "First Name": "Paolo",
+                "Last Name": "Guarnieri",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America; Herbert Irving Comprehensive Cancer Center, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America; Department of Biomedical Informatics, Columbia University, New York, New York, United States of America; JP Sulzberger Columbia Genome Center, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Itsik",
+                "Last Name": "Pe'er",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America; Department of Computer Science, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America; Herbert Irving Comprehensive Cancer Center, Columbia University, New York, New York, United States of America; Department of Biomedical Informatics, Columbia University, New York, New York, United States of America; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, United States of America; Institute for Cancer Genetics, Columbia University, New York, NY 10032, United States of America."
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America; Department of Biomedical Informatics, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "23302924",
+        "Title": "The International Serious Adverse Events Consortium's data sharing model.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Adverse Drug Reaction Reporting Systems",
+            "Genome-Wide Association Study",
+            "International Cooperation",
+            "Models, Organizational"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jorge L",
+                "Last Name": "Contreras",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arthur L",
+                "Last Name": "Holden",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature biotechnology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "22081223",
+        "Title": "Using systems and structure biology tools to dissect cellular phenotypes.",
+        "Abstract": "The Center for the Multiscale Analysis of Genetic Networks (MAGNet, http://magnet.c2b2.columbia.edu) was established in 2005, with the mission of providing the biomedical research community with Structural and Systems Biology algorithms and software tools for the dissection of molecular interactions and for the interaction-based elucidation of cellular phenotypes. Over the last 7 years, MAGNet investigators have developed many novel analysis methodologies, which have led to important biological discoveries, including understanding the role of the DNA shape in protein-DNA binding specificity and the discovery of genes causally related to the presentation of malignant phenotypes, including lymphoma, glioma, and melanoma. Software tools implementing these methodologies have been broadly adopted by the research community and are made freely available through geWorkbench, the Center's integrated analysis platform. Additionally, MAGNet has been instrumental in organizing and developing key conferences and meetings focused on the emerging field of systems biology and regulatory genomics, with special focus on cancer-related research.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Biomedical Research",
+            "Cells",
+            "Computational Biology",
+            "Forecasting",
+            "Goals",
+            "Models, Molecular",
+            "Molecular Biology",
+            "Phenotype",
+            "Software",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Barry",
+                "Last Name": "Honig",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dana",
+                "Last Name": "Pe'er",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "20511363",
+        "Title": "geWorkbench: an open source platform for integrative genomics.",
+        "Abstract": "geWorkbench (genomics Workbench) is an open source Java desktop application that provides access to an integrated suite of tools for the analysis and visualization of data from a wide range of genomics domains (gene expression, sequence, protein structure and systems biology). More than 70 distinct plug-in modules are currently available implementing both classical analyses (several variants of clustering, classification, homology detection, etc.) as well as state of the art algorithms for the reverse engineering of regulatory networks and for protein structure prediction, among many others. geWorkbench leverages standards-based middleware technologies to provide seamless access to remote data, annotation and computational servers, thus, enabling researchers with limited local resources to benefit from available public infrastructure.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Genomics",
+            "Protein Conformation",
+            "Proteins",
+            "Software",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": "Center for Computational Biology and Bioinformatics, Columbia University, 1130 St. Nicholas Ave, New York, NY 10032, USA. geworkbench@c2b2.columbia.edu"
+            },
+            {
+                "First Name": "Kenneth",
+                "Last Name": "Smith",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zhou",
+                "Last Name": "Ji",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Watkinson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "18466505",
+        "Title": "Pattern-based mining strategy to detect multi-locus association and gene x environment interaction.",
+        "Abstract": "As genome-wide association studies grow in popularity for the identification of genetic factors for common and rare diseases, analytical methods to comb through large numbers of genetic variants efficiently to identify disease association are increasingly in demand. We have developed a pattern-based data-mining approach to discover unlinked multilocus genetic effects for complex disease and to detect genotype x phenotype/genotype x environment interactions. On a densely mapped chromosome 18 data set for rheumatoid arthritis that was made available by Genetic Analysis Workshop 15, this method detected two potential two-locus associations as well as a putative two-locus gene x gender interaction.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Zhong",
+                "Last Name": "Li",
+                "Affiliation": "Department of Computational Genetics, High Throughput Biology Inc, 513 West Mount Pleasant Avenue, Livingston, New Jersey 07039, USA. zli@htbiology.com"
+            },
+            {
+                "First Name": "Tian",
+                "Last Name": "Zheng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC proceedings",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "12202776",
+        "Title": "Dictionary-driven protein annotation.",
+        "Abstract": "Computational methods seeking to automatically determine the properties (functional, structural, physicochemical, etc.) of a protein directly from the sequence have long been the focus of numerous research groups. With the advent of advanced sequencing methods and systems, the number of amino acid sequences that are being deposited in the public databases has been increasing steadily. This has in turn generated a renewed demand for automated approaches that can annotate individual sequences and complete genomes quickly, exhaustively and objectively. In this paper, we present one such approach that is centered around and exploits the Bio-Dictionary, a collection of amino acid patterns that completely covers the natural sequence space and can capture functional and structural signals that have been reused during evolution, within and across protein families. Our annotation approach also makes use of a weighted, position-specific scoring scheme that is unaffected by the over-representation of well-conserved proteins and protein fragments in the databases used. For a given query sequence, the method permits one to determine, in a single pass, the following: local and global similarities between the query and any protein already present in a public database; the likeness of the query to all available archaeal/ bacterial/eukaryotic/viral sequences in the database as a function of amino acid position within the query; the character of secondary structure of the query as a function of amino acid position within the query; the cytoplasmic, transmembrane or extracellular behavior of the query; the nature and position of binding domains, active sites, post-translationally modified sites, signal peptides, etc. In terms of performance, the proposed method is exhaustive, objective and allows for the rapid annotation of individual sequences and full genomes. Annotation examples are presented and discussed in Results, including individual queries and complete genomes that were released publicly after we built the Bio-Dictionary that is used in our experiments. Finally, we have computed the annotations of more than 70 complete genomes and made them available on the World Wide Web at http://cbcsrv.watson.ibm.com/Annotations/.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Amino Acid Sequence",
+            "Computational Biology",
+            "Databases, Protein",
+            "Dictionaries, Chemical as Topic",
+            "Genomics",
+            "Humans",
+            "Internet",
+            "Molecular Sequence Data",
+            "Proteins",
+            "Proteome",
+            "Sequence Alignment",
+            "Sequence Homology, Amino Acid",
+            "Ubiquitin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Isidore",
+                "Last Name": "Rigoutsos",
+                "Affiliation": "Bioinformatics and Pattern Discovery Group, IBM TJ Watson Research Center, Yorktown Heights, NY 10598, USA. rigoutso@us.ibm.com"
+            },
+            {
+                "First Name": "Tien",
+                "Last Name": "Huynh",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aris",
+                "Last Name": "Floratos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Laxmi",
+                "Last Name": "Parida",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Platt",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2002"
+    }
+]

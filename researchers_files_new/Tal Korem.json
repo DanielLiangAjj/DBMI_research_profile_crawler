@@ -1,0 +1,1525 @@
+[
+    {
+        "PMID": "38883233",
+        "Title": "Distributional bias compromises leave-one-out cross-validation.",
+        "Abstract": "Cross-validation is a common method for estimating the predictive performance of machine learning models. In a data-scarce regime, where one typically wishes to maximize the number of instances used for training the model, an approach called 'leave-one-out cross-validation' is often used. In this design, a separate model is built for predicting each data instance after training on all other instances. Since this results in a single test data point available per model trained, predictions are aggregated across the entire dataset to calculate common rank-based performance metrics such as the area under the receiver operating characteristic or precision-recall curves. In this work, we demonstrate that this approach creates a negative correlation between the average label of each training fold and the label of its corresponding test instance, a phenomenon that we term distributional bias. As machine learning models tend to regress to the mean of their training data, this distributional bias tends to negatively impact performance evaluation and hyperparameter optimization. We show that this effect generalizes to leave-P-out cross-validation and persists across a wide range of modeling and evaluation approaches, and that it can lead to a bias against stronger regularization. To address this, we propose a generalizable rebalanced cross-validation approach that corrects for distributional bias. We demonstrate that our approach improves cross-validation performance evaluation in synthetic simulations and in several published leave-one-out analyses.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "George I",
+                "Last Name": "Austin",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Itsik",
+                "Last Name": "Pe'er",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            }
+        ],
+        "Journal": "ArXiv",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38405914",
+        "Title": "Processing-bias correction with DEBIAS-M improves cross-study generalization of microbiome-based prediction models.",
+        "Abstract": "Every step in common microbiome profiling protocols has variable efficiency for each microbe. For example, different DNA extraction kits may have different efficiency for Gram-positive and -negative bacteria. These variable efficiencies, combined with technical variation, create strong processing biases, which impede the identification of signals that are reproducible across studies and the development of generalizable and biologically interpretable prediction models. \"Batch-correction\" methods have been used to alleviate these issues computationally with some success. However, many make strong parametric assumptions which do not necessarily apply to microbiome data or processing biases, or require the use of an outcome variable, which risks overfitting. Lastly and importantly, existing transformations used to correct microbiome data are largely non-interpretable, and could, for example, introduce values to features that were initially mostly zeros. Altogether, processing bias currently compromises our ability to glean robust and generalizable biological insights from microbiome data. Here, we present DEBIAS-M (",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "George I",
+                "Last Name": "Austin",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Aya Brown",
+                "Last Name": "Kav",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Heekuk",
+                "Last Name": "Park",
+                "Affiliation": "Division of Infectious Diseases, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jana",
+                "Last Name": "Biermann",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Anne-Catrin",
+                "Last Name": "Uhlemann",
+                "Affiliation": "Division of Infectious Diseases, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37885608",
+        "Title": "pymgpipe: microbiome metabolic modeling in Python.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Yoli",
+                "Last Name": "Meydan",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Federico",
+                "Last Name": "Baldini",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, United States of America."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, United States of America."
+            }
+        ],
+        "Journal": "Journal of open source software",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37591872",
+        "Title": "Microdiversity of the vaginal microbiome is associated with preterm birth.",
+        "Abstract": "Preterm birth (PTB) is the leading cause of neonatal morbidity and mortality. The vaginal microbiome has been associated with PTB, yet the mechanisms underlying this association are not fully understood. Understanding microbial genetic adaptations to selective pressures, especially those related to the host, may yield insights into these associations. Here, we analyze metagenomic data from 705 vaginal samples collected during pregnancy from 40 women who delivered preterm spontaneously and 135 term controls from the Multi-Omic Microbiome Study-Pregnancy Initiative. We find that the vaginal microbiome of pregnancies that ended preterm exhibited unique genetic profiles. It was more genetically diverse at the species level, a result which we validate in an additional cohort, and harbored a higher richness and diversity of antimicrobial resistance genes, likely promoted by transduction. Interestingly, we find that Gardnerella species drove this higher genetic diversity, particularly during the first half of the pregnancy. We further present evidence that Gardnerella spp. underwent more frequent recombination and stronger purifying selection in genes involved in lipid metabolism. Overall, our population genetics analyses reveal associations between the vaginal microbiome and PTB and suggest that evolutionary processes acting on vaginal microbes may play a role in adverse pregnancy outcomes such as PTB.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Infant, Newborn",
+            "Pregnancy",
+            "Humans",
+            "Female",
+            "Premature Birth",
+            "Microbiota",
+            "Metagenome",
+            "Acclimatization",
+            "Biological Evolution"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jingqiu",
+                "Last Name": "Liao",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA. liaoj@vt.edu."
+            },
+            {
+                "First Name": "Liat",
+                "Last Name": "Shenhav",
+                "Affiliation": "Center for Studies in Physics and Biology, Rockefeller University, New York, NY, USA."
+            },
+            {
+                "First Name": "Julia A",
+                "Last Name": "Urban",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Myrna",
+                "Last Name": "Serrano",
+                "Affiliation": "Department of Microbiology and Immunology, School of Medicine, Virginia Commonwealth University, Richmond, VA, USA."
+            },
+            {
+                "First Name": "Bin",
+                "Last Name": "Zhu",
+                "Affiliation": "Department of Microbiology and Immunology, School of Medicine, Virginia Commonwealth University, Richmond, VA, USA."
+            },
+            {
+                "First Name": "Gregory A",
+                "Last Name": "Buck",
+                "Affiliation": "Department of Microbiology and Immunology, School of Medicine, Virginia Commonwealth University, Richmond, VA, USA."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA. tal.korem@columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36928429",
+        "Title": "Contamination source modeling with SCRuB improves cancer phenotype prediction from microbiome data.",
+        "Abstract": "Sequencing-based approaches for the analysis of microbial communities are susceptible to contamination, which could mask biological signals or generate artifactual ones. Methods for in silico decontamination using controls are routinely used, but do not make optimal use of information shared across samples and cannot handle taxa that only partially originate in contamination or leakage of biological material into controls. Here we present Source tracking for Contamination Removal in microBiomes (SCRuB), a probabilistic in silico decontamination method that incorporates shared information across multiple samples and controls to precisely identify and remove contamination. We validate the accuracy of SCRuB in multiple data-driven simulations and experiments, including induced contamination, and demonstrate that it outperforms state-of-the-art methods by an average of 15-20 times. We showcase the robustness of SCRuB across multiple ecosystems, data types and sequencing depths. Demonstrating its applicability to microbiome research, SCRuB facilitates improved predictions of host phenotypes, most notably the prediction of treatment response in melanoma patients using decontaminated tumor microbiome data.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Microbiota",
+            "Phenotype",
+            "Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "George I",
+                "Last Name": "Austin",
+                "Affiliation": "Department of Computer Science, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Heekuk",
+                "Last Name": "Park",
+                "Affiliation": "Division of Infectious Diseases, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Yoli",
+                "Last Name": "Meydan",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Dwayne",
+                "Last Name": "Seeram",
+                "Affiliation": "Division of Infectious Diseases, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Tanya",
+                "Last Name": "Sezin",
+                "Affiliation": "Department of Dermatology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Yue Clare",
+                "Last Name": "Lou",
+                "Affiliation": "Department of Plant and Microbial Biology, University of California, Berkeley, CA, USA."
+            },
+            {
+                "First Name": "Brian A",
+                "Last Name": "Firek",
+                "Affiliation": "Department of Surgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA."
+            },
+            {
+                "First Name": "Michael J",
+                "Last Name": "Morowitz",
+                "Affiliation": "Department of Surgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA."
+            },
+            {
+                "First Name": "Jillian F",
+                "Last Name": "Banfield",
+                "Affiliation": "Department of Earth and Planetary Science, University of California, Berkeley, CA, USA."
+            },
+            {
+                "First Name": "Angela M",
+                "Last Name": "Christiano",
+                "Affiliation": "Department of Dermatology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Itsik",
+                "Last Name": "Pe'er",
+                "Affiliation": "Department of Computer Science, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Anne-Catrin",
+                "Last Name": "Uhlemann",
+                "Affiliation": "Division of Infectious Diseases, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Liat",
+                "Last Name": "Shenhav",
+                "Affiliation": "Center for Studies in Physics and Biology, Rockefeller University, New York, NY, USA. lshenhav@rockefeller.edu."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA. tal.korem@columbia.edu."
+            }
+        ],
+        "Journal": "Nature biotechnology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36711990",
+        "Title": "Microdiversity of the Vaginal Microbiome is Associated with Preterm Birth.",
+        "Abstract": "Preterm birth (PTB) is the leading cause of neonatal morbidity and mortality. The vaginal microbiome has been associated with PTB, yet the mechanisms underlying this association are not fully understood. Understanding microbial genetic adaptations to selective pressures, especially those related to the host, may yield new insights into these associations. To this end, we analyzed metagenomic data from 705 vaginal samples collected longitudinally during pregnancy from 40 women who delivered preterm spontaneously and 135 term controls from the Multi-Omic Microbiome Study-Pregnancy Initiative (MOMS-PI). We find that the vaginal microbiome of pregnancies that ended preterm exhibits unique genetic profiles. It is more genetically diverse at the species level, a result which we validate in an additional cohort, and harbors a higher richness and diversity of antimicrobial resistance genes, likely promoted by transduction. Interestingly, we find that Gardnerella species, a group of central vaginal pathobionts, are driving this higher genetic diversity, particularly during the first half of the pregnancy. We further present evidence that Gardnerella spp. undergoes more frequent recombination and stronger purifying selection in genes involved in lipid metabolism. Overall, our results reveal novel associations between the vaginal microbiome and PTB using population genetics analyses, and suggest that evolutionary processes acting on the vaginal microbiome may play a vital role in adverse pregnancy outcomes such as preterm birth.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jingqiu",
+                "Last Name": "Liao",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Liat",
+                "Last Name": "Shenhav",
+                "Affiliation": "Center for Studies in Physics and Biology, Rockefeller University, New York, NY, USA."
+            },
+            {
+                "First Name": "Julia A",
+                "Last Name": "Urban",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Myrna",
+                "Last Name": "Serrano",
+                "Affiliation": "Department of Microbiology and Immunology, School of Medicine, Virginia Commonwealth University, Richmond, VA, USA."
+            },
+            {
+                "First Name": "Bin",
+                "Last Name": "Zhu",
+                "Affiliation": "Department of Microbiology and Immunology, School of Medicine, Virginia Commonwealth University, Richmond, VA, USA."
+            },
+            {
+                "First Name": "Gregory A",
+                "Last Name": "Buck",
+                "Affiliation": "Department of Microbiology and Immunology, School of Medicine, Virginia Commonwealth University, Richmond, VA, USA."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36635575",
+        "Title": "Preterm birth is associated with xenobiotics and predicted by the vaginal metabolome.",
+        "Abstract": "Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal morbidity and mortality, yet its prevention and early risk stratification are limited. Previous investigations have suggested that vaginal microbes and metabolites may be implicated in sPTB. Here we performed untargeted metabolomics on 232 second-trimester vaginal samples, 80 from pregnancies ending preterm. We find multiple associations between vaginal metabolites and subsequent preterm birth, and propose that several of these metabolites, including diethanolamine and ethyl glucoside, are exogenous. We observe associations between the metabolome and microbiome profiles previously obtained using 16S ribosomal RNA amplicon sequencing, including correlations between bacteria considered suboptimal, such as Gardnerella vaginalis, and metabolites enriched in term pregnancies, such as tyramine. We investigate these associations using metabolic models. We use machine learning models to predict sPTB risk from metabolite levels, weeks to months before birth, with good accuracy (area under receiver operating characteristic curve of 0.78). These models, which we validate using two external cohorts, are more accurate than microbiome-based and maternal covariates-based models (area under receiver operating characteristic curve of 0.55-0.59). Our results demonstrate the potential of vaginal metabolites as early biomarkers of sPTB and highlight exogenous exposures as potential risk factors for prematurity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Pregnancy",
+            "Female",
+            "Infant, Newborn",
+            "Humans",
+            "Premature Birth",
+            "Xenobiotics",
+            "Vagina",
+            "Infant, Premature",
+            "Metabolome"
+        ],
+        "Authors": [
+            {
+                "First Name": "William F",
+                "Last Name": "Kindschuh",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Federico",
+                "Last Name": "Baldini",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Martin C",
+                "Last Name": "Liu",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jingqiu",
+                "Last Name": "Liao",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Yoli",
+                "Last Name": "Meydan",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Harry H",
+                "Last Name": "Lee",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Almut",
+                "Last Name": "Heinken",
+                "Affiliation": "School of Medicine, University of Ireland, Galway, Galway, Ireland."
+            },
+            {
+                "First Name": "Ines",
+                "Last Name": "Thiele",
+                "Affiliation": "School of Medicine, University of Ireland, Galway, Galway, Ireland."
+            },
+            {
+                "First Name": "Christoph A",
+                "Last Name": "Thaiss",
+                "Affiliation": "Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+            },
+            {
+                "First Name": "Maayan",
+                "Last Name": "Levy",
+                "Affiliation": "Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA. maayanle@pennmedicine.upenn.edu."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA. tal.korem@columbia.edu."
+            }
+        ],
+        "Journal": "Nature microbiology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "34402639",
+        "Title": "Embracing Metagenomic Complexity with a Genome-Free Approach.",
+        "Abstract": "A central paradigm in microbiome data analysis, which we term the genome-centric paradigm, is that a linear (non-branching) DNA sequence is the ideal representation of a microbial genome. This representation is natural, as microbes indeed have non-branching genomes. Tremendous discoveries in microbiology were made under this paradigm, but is it always optimal for microbiome research? In this Commentary, we claim that the realization of this paradigm in metagenomic assembly, a fundamental step in the \"metagenomics analysis pipeline,\" suboptimally models the extensive genomic variability present in the microbiome. We outline our efforts to address these issues with a \"genome-free\" approach that eschews linear genomic representations in favor of a pan-metagenomic graph.",
+        "Keywords": [
+            "assembly",
+            "genomics",
+            "metagenomics",
+            "microbiome"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Izaak",
+                "Last Name": "Coleman",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Program for Mathematical Genomics, Department of Systems Biology, Columbia University Irving Medical Center, New York, New York, USA."
+            }
+        ],
+        "Journal": "mSystems",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34262197",
+        "Title": "Deciphering metabolism, one microbe at a time.",
+        "Abstract": null,
+        "Keywords": [
+            "Metabolism",
+            "Microbiology",
+            "Microbiome"
+        ],
+        "MeSH terms": [
+            "Gastrointestinal Microbiome",
+            "Microbiota"
+        ],
+        "Authors": [
+            {
+                "First Name": "William F",
+                "Last Name": "Kindschuh",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33177712",
+        "Title": "A reference map of potential determinants for the human serum metabolome.",
+        "Abstract": "The serum metabolome contains a plethora of biomarkers and causative agents of various diseases, some of which are endogenously produced and some that have been taken up from the environment",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Bread",
+            "Cohort Studies",
+            "Diet",
+            "Female",
+            "Gastrointestinal Microbiome",
+            "Healthy Volunteers",
+            "Humans",
+            "Life Style",
+            "Machine Learning",
+            "Male",
+            "Metabolome",
+            "Metabolomics",
+            "Middle Aged",
+            "Non-alcoholic Fatty Liver Disease",
+            "Oxygenases",
+            "Reference Standards",
+            "Reproducibility of Results",
+            "Seasons",
+            "Serum"
+        ],
+        "Authors": [
+            {
+                "First Name": "Noam",
+                "Last Name": "Bar",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Omer",
+                "Last Name": "Weissbrod",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Zeevi",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Daphna",
+                "Last Name": "Rothschild",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Sigal",
+                "Last Name": "Leviatan",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Noa",
+                "Last Name": "Kosower",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Maya",
+                "Last Name": "Lotan-Pompan",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Adina",
+                "Last Name": "Weinberger",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Caroline I",
+                "Last Name": "Le Roy",
+                "Affiliation": "Department for Twin Research & Genetic Epidemiology, King's College London, London, UK."
+            },
+            {
+                "First Name": "Cristina",
+                "Last Name": "Menni",
+                "Affiliation": "Department for Twin Research & Genetic Epidemiology, King's College London, London, UK."
+            },
+            {
+                "First Name": "Alessia",
+                "Last Name": "Visconti",
+                "Affiliation": "Department for Twin Research & Genetic Epidemiology, King's College London, London, UK."
+            },
+            {
+                "First Name": "Mario",
+                "Last Name": "Falchi",
+                "Affiliation": "Department for Twin Research & Genetic Epidemiology, King's College London, London, UK."
+            },
+            {
+                "First Name": "Tim D",
+                "Last Name": "Spector",
+                "Affiliation": "Department for Twin Research & Genetic Epidemiology, King's College London, London, UK."
+            },
+            {
+                "First Name": "",
+                "Last Name": "",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jerzy",
+                "Last Name": "Adamski",
+                "Affiliation": "Research Unit Molecular Endocrinology and Metabolism, Genome Analysis Center, Helmholtz Zentrum München, German Research Center for Environmental Health, Neuherberg, Germany."
+            },
+            {
+                "First Name": "Paul W",
+                "Last Name": "Franks",
+                "Affiliation": "Lund University Diabetes Center, Department of Clinical Sciences, Lund University, Malmö, Sweden."
+            },
+            {
+                "First Name": "Oluf",
+                "Last Name": "Pedersen",
+                "Affiliation": "The Novo Nordisk Foundation Center for Basic Metabolic Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Segal",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel. eran.segal@weizmann.ac.il."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "30918406",
+        "Title": "Structural variation in the gut microbiome associates with host health.",
+        "Abstract": "Differences in the presence of even a few genes between otherwise identical bacterial strains may result in critical phenotypic differences. Here we systematically identify microbial genomic structural variants (SVs) and find them to be prevalent in the human gut microbiome across phyla and to replicate in different cohorts. SVs are enriched for CRISPR-associated and antibiotic-producing functions and depleted from housekeeping genes, suggesting that they have a role in microbial adaptation. We find multiple associations between SVs and host disease risk factors, many of which replicate in an independent cohort. Exploring genes that are clustered in the same SV, we uncover several possible mechanistic links between the microbiome and its host, including a region in Anaerostipes hadrus that encodes a composite inositol catabolism-butyrate biosynthesis pathway, the presence of which is associated with lower host metabolic disease risk. Overall, our results uncover a nascent layer of variability in the microbiome that is associated with microbial adaptation and host health.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adaptation, Physiological",
+            "Bacteria",
+            "Butyrates",
+            "Cohort Studies",
+            "Disease Susceptibility",
+            "Ecosystem",
+            "Eubacterium",
+            "Feces",
+            "Gastrointestinal Microbiome",
+            "Genes, Bacterial",
+            "Genetic Variation",
+            "Health",
+            "Host Microbial Interactions",
+            "Humans",
+            "Inositol",
+            "Metagenomics",
+            "Microbial Viability",
+            "Risk Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "David",
+                "Last Name": "Zeevi",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel. dzeevi@rockefeller.edu."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Anastasia",
+                "Last Name": "Godneva",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Noam",
+                "Last Name": "Bar",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Kurilshikov",
+                "Affiliation": "University of Groningen, University Medical Center Groningen, Department of Genetics, Groningen, The Netherlands."
+            },
+            {
+                "First Name": "Maya",
+                "Last Name": "Lotan-Pompan",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Adina",
+                "Last Name": "Weinberger",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Jingyuan",
+                "Last Name": "Fu",
+                "Affiliation": "University of Groningen, University Medical Center Groningen, Department of Genetics, Groningen, The Netherlands."
+            },
+            {
+                "First Name": "Cisca",
+                "Last Name": "Wijmenga",
+                "Affiliation": "University of Groningen, University Medical Center Groningen, Department of Genetics, Groningen, The Netherlands."
+            },
+            {
+                "First Name": "Alexandra",
+                "Last Name": "Zhernakova",
+                "Affiliation": "University of Groningen, University Medical Center Groningen, Department of Genetics, Groningen, The Netherlands."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Segal",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel. eran.segal@weizmann.ac.il."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "28591632",
+        "Title": "Bread Affects Clinical Parameters and Induces Gut Microbiome-Associated Personal Glycemic Responses.",
+        "Abstract": "Bread is consumed daily by billions of people, yet evidence regarding its clinical effects is contradicting. Here, we performed a randomized crossover trial of two 1-week-long dietary interventions comprising consumption of either traditionally made sourdough-leavened whole-grain bread or industrially made white bread. We found no significant differential effects of bread type on multiple clinical parameters. The gut microbiota composition remained person specific throughout this trial and was generally resilient to the intervention. We demonstrate statistically significant interpersonal variability in the glycemic response to different bread types, suggesting that the lack of phenotypic difference between the bread types stems from a person-specific effect. We further show that the type of bread that induces the lower glycemic response in each person can be predicted based solely on microbiome data prior to the intervention. Together, we present marked personalization in both bread metabolism and the gut microbiome, suggesting that understanding dietary effects requires integration of person-specific factors.",
+        "Keywords": [
+            "bread",
+            "glycemic responses",
+            "gut microbiome",
+            "nutrition",
+            "personalization",
+            "prediction"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Blood Glucose",
+            "Bread",
+            "Cross-Over Studies",
+            "Female",
+            "Gastrointestinal Microbiome",
+            "Humans",
+            "Male",
+            "Middle Aged"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Zeevi",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Niv",
+                "Last Name": "Zmora",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel; Internal Medicine Department, Tel Aviv Sourasky Medical Center, Tel Aviv 6423906, Israel; Research Center for Digestive Tract and Liver Diseases, Tel Aviv Sourasky Medical Center, Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv 6423906, Israel."
+            },
+            {
+                "First Name": "Omer",
+                "Last Name": "Weissbrod",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Noam",
+                "Last Name": "Bar",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Maya",
+                "Last Name": "Lotan-Pompan",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Tali",
+                "Last Name": "Avnit-Sagi",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Noa",
+                "Last Name": "Kosower",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Gal",
+                "Last Name": "Malka",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Michal",
+                "Last Name": "Rein",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Jotham",
+                "Last Name": "Suez",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Ben Z",
+                "Last Name": "Goldberg",
+                "Affiliation": "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Adina",
+                "Last Name": "Weinberger",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Avraham A",
+                "Last Name": "Levy",
+                "Affiliation": "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot 7610001, Israel. Electronic address: avi.levy@weizmann.ac.il."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Elinav",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel. Electronic address: eran.elinav@weizmann.ac.il."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Segal",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel. Electronic address: eran.segal@weizmann.ac.il."
+            }
+        ],
+        "Journal": "Cell metabolism",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28507131",
+        "Title": "Involvement of a gut-retina axis in protection against dietary glycemia-induced age-related macular degeneration.",
+        "Abstract": "Age-related macular degeneration (AMD) is the major cause of blindness in developed nations. AMD is characterized by retinal pigmented epithelial (RPE) cell dysfunction and loss of photoreceptor cells. Epidemiologic studies indicate important contributions of dietary patterns to the risk for AMD, but the mechanisms relating diet to disease remain unclear. Here we investigate the effect on AMD of isocaloric diets that differ only in the type of dietary carbohydrate in a wild-type aged-mouse model. The consumption of a high-glycemia (HG) diet resulted in many AMD features (AMDf), including RPE hypopigmentation and atrophy, lipofuscin accumulation, and photoreceptor degeneration, whereas consumption of the lower-glycemia (LG) diet did not. Critically, switching from the HG to the LG diet late in life arrested or reversed AMDf. LG diets limited the accumulation of advanced glycation end products, long-chain polyunsaturated lipids, and their peroxidation end-products and increased C3-carnitine in retina, plasma, or urine. Untargeted metabolomics revealed microbial cometabolites, particularly serotonin, as protective against AMDf. Gut microbiota were responsive to diet, and we identified microbiota in the Clostridiales order as being associated with AMDf and the HG diet, whereas protection from AMDf was associated with the Bacteroidales order and the LG diet. Network analysis revealed a nexus of metabolites and microbiota that appear to act within a gut-retina axis to protect against diet- and age-induced AMDf. The findings indicate a functional interaction between dietary carbohydrates, the metabolome, including microbial cometabolites, and AMDf. Our studies suggest a simple dietary intervention that may be useful in patients to arrest AMD.",
+        "Keywords": [
+            "advanced glycation end-product",
+            "age-related macular degeneration",
+            "glycemic index",
+            "gut microbiome",
+            "metabolomics"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Blood Glucose",
+            "Gastrointestinal Microbiome",
+            "Glycation End Products, Advanced",
+            "Glycemic Index",
+            "Macular Degeneration",
+            "Metabolome",
+            "Metabolomics",
+            "Mice",
+            "Retina"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sheldon",
+                "Last Name": "Rowan",
+                "Affiliation": "Jean Mayer-US Department of Agriculture Human Nutrition Research Center on Aging, Tufts University, Boston, MA 02111."
+            },
+            {
+                "First Name": "Shuhong",
+                "Last Name": "Jiang",
+                "Affiliation": "Jean Mayer-US Department of Agriculture Human Nutrition Research Center on Aging, Tufts University, Boston, MA 02111."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Jedrzej",
+                "Last Name": "Szymanski",
+                "Affiliation": "Department of Plant Sciences, Weizmann Institute of Technology, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Min-Lee",
+                "Last Name": "Chang",
+                "Affiliation": "Jean Mayer-US Department of Agriculture Human Nutrition Research Center on Aging, Tufts University, Boston, MA 02111."
+            },
+            {
+                "First Name": "Jason",
+                "Last Name": "Szelog",
+                "Affiliation": "Jean Mayer-US Department of Agriculture Human Nutrition Research Center on Aging, Tufts University, Boston, MA 02111."
+            },
+            {
+                "First Name": "Christa",
+                "Last Name": "Cassalman",
+                "Affiliation": "Department of Pathology and Laboratory Medicine, Tufts University School of Medicine, Boston, MA 02111."
+            },
+            {
+                "First Name": "Kalavathi",
+                "Last Name": "Dasuri",
+                "Affiliation": "Jean Mayer-US Department of Agriculture Human Nutrition Research Center on Aging, Tufts University, Boston, MA 02111."
+            },
+            {
+                "First Name": "Christina",
+                "Last Name": "McGuire",
+                "Affiliation": "Department of Developmental, Molecular and Chemical Biology, Tufts University School of Medicine, Boston, MA 02111."
+            },
+            {
+                "First Name": "Ryoji",
+                "Last Name": "Nagai",
+                "Affiliation": "Laboratory of Food and Regulation Biology, Graduate School of Agriculture, Tokai University, Kawayou, Minamiaso, Aso-gun, Kumamoto, 869-1404, Japan."
+            },
+            {
+                "First Name": "Xue-Liang",
+                "Last Name": "Du",
+                "Affiliation": "Diabetes Research Center, Departments of Medicine and Pathology, Albert Einstein College of Medicine, Bronx, NY 10461."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Brownlee",
+                "Affiliation": "Diabetes Research Center, Departments of Medicine and Pathology, Albert Einstein College of Medicine, Bronx, NY 10461."
+            },
+            {
+                "First Name": "Naila",
+                "Last Name": "Rabbani",
+                "Affiliation": "Clinical Sciences Research Laboratories, Warwick Medical School, University of Warwick, University Hospital, Coventry CV2 2DX, United Kingdom."
+            },
+            {
+                "First Name": "Paul J",
+                "Last Name": "Thornalley",
+                "Affiliation": "Clinical Sciences Research Laboratories, Warwick Medical School, University of Warwick, University Hospital, Coventry CV2 2DX, United Kingdom."
+            },
+            {
+                "First Name": "James D",
+                "Last Name": "Baleja",
+                "Affiliation": "Department of Developmental, Molecular and Chemical Biology, Tufts University School of Medicine, Boston, MA 02111."
+            },
+            {
+                "First Name": "Amy A",
+                "Last Name": "Deik",
+                "Affiliation": "Eli and Edythe L. Broad Institute of MIT and Harvard, Cambridge, MA 02142."
+            },
+            {
+                "First Name": "Kerry A",
+                "Last Name": "Pierce",
+                "Affiliation": "Eli and Edythe L. Broad Institute of MIT and Harvard, Cambridge, MA 02142."
+            },
+            {
+                "First Name": "Justin M",
+                "Last Name": "Scott",
+                "Affiliation": "Eli and Edythe L. Broad Institute of MIT and Harvard, Cambridge, MA 02142."
+            },
+            {
+                "First Name": "Clary B",
+                "Last Name": "Clish",
+                "Affiliation": "Eli and Edythe L. Broad Institute of MIT and Harvard, Cambridge, MA 02142."
+            },
+            {
+                "First Name": "Donald E",
+                "Last Name": "Smith",
+                "Affiliation": "Jean Mayer-US Department of Agriculture Human Nutrition Research Center on Aging, Tufts University, Boston, MA 02111."
+            },
+            {
+                "First Name": "Adina",
+                "Last Name": "Weinberger",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Tali",
+                "Last Name": "Avnit-Sagi",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Maya",
+                "Last Name": "Lotan-Pompan",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Segal",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Allen",
+                "Last Name": "Taylor",
+                "Affiliation": "Jean Mayer-US Department of Agriculture Human Nutrition Research Center on Aging, Tufts University, Boston, MA 02111; allen.taylor@tufts.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27912059",
+        "Title": "Microbiota Diurnal Rhythmicity Programs Host Transcriptome Oscillations.",
+        "Abstract": "The intestinal microbiota undergoes diurnal compositional and functional oscillations that affect metabolic homeostasis, but the mechanisms by which the rhythmic microbiota influences host circadian activity remain elusive. Using integrated multi-omics and imaging approaches, we demonstrate that the gut microbiota features oscillating biogeographical localization and metabolome patterns that determine the rhythmic exposure of the intestinal epithelium to different bacterial species and their metabolites over the course of a day. This diurnal microbial behavior drives, in turn, the global programming of the host circadian transcriptional, epigenetic, and metabolite oscillations. Surprisingly, disruption of homeostatic microbiome rhythmicity not only abrogates normal chromatin and transcriptional oscillations of the host, but also incites genome-wide de novo oscillations in both intestine and liver, thereby impacting diurnal fluctuations of host physiology and disease susceptibility. As such, the rhythmic biogeography and metabolome of the intestinal microbiota regulates the temporal organization and functional outcome of host transcriptional and epigenetic programs.",
+        "Keywords": [
+            "biogeography",
+            "chronopharmacology",
+            "circadian clock",
+            "diurnal rhythm",
+            "metabolome",
+            "metagenome",
+            "microbiome",
+            "transcriptome"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Chromatin",
+            "Circadian Rhythm",
+            "Colon",
+            "Gastrointestinal Microbiome",
+            "Germ-Free Life",
+            "Liver",
+            "Mice",
+            "Microscopy, Electron, Scanning",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christoph A",
+                "Last Name": "Thaiss",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Maayan",
+                "Last Name": "Levy",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Lenka",
+                "Last Name": "Dohnalová",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Hagit",
+                "Last Name": "Shapiro",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Diego A",
+                "Last Name": "Jaitin",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Eyal",
+                "Last Name": "David",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Deborah R",
+                "Last Name": "Winter",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Meital",
+                "Last Name": "Gury-BenAri",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Evgeny",
+                "Last Name": "Tatirovsky",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Timur",
+                "Last Name": "Tuganbaev",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Sara",
+                "Last Name": "Federici",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Niv",
+                "Last Name": "Zmora",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Zeevi",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Mally",
+                "Last Name": "Dori-Bachash",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Meirav",
+                "Last Name": "Pevsner-Fischer",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Elena",
+                "Last Name": "Kartvelishvily",
+                "Affiliation": "Electron Microscopy Unit, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Brandis",
+                "Affiliation": "Targeted Metabolomics Unit, Life Sciences Core Facilities, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Alon",
+                "Last Name": "Harmelin",
+                "Affiliation": "Department of Veterinary Resources, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Oren",
+                "Last Name": "Shibolet",
+                "Affiliation": "Sackler Faculty of Medicine, Tel Aviv Sourasky Medical Center, Tel Aviv 6423906, Israel; Research Center for Digestive Tract and Liver Diseases, Tel Aviv Sourasky Medical Center, Tel Aviv 6423906, Israel; Digestive Center, Tel Aviv Sourasky Medical Center, Tel Aviv 6423906, Israel."
+            },
+            {
+                "First Name": "Zamir",
+                "Last Name": "Halpern",
+                "Affiliation": "Sackler Faculty of Medicine, Tel Aviv Sourasky Medical Center, Tel Aviv 6423906, Israel; Research Center for Digestive Tract and Liver Diseases, Tel Aviv Sourasky Medical Center, Tel Aviv 6423906, Israel; Digestive Center, Tel Aviv Sourasky Medical Center, Tel Aviv 6423906, Israel."
+            },
+            {
+                "First Name": "Kenya",
+                "Last Name": "Honda",
+                "Affiliation": "RIKEN Center for Integrative Medical Sciences (IMS), Tsurumi, Yokohama, Kanagawa 230-0045, Japan; Department of Microbiology and Immunology, Keio University School of Medicine, Shinjuku, Tokyo 160-8582, Japan."
+            },
+            {
+                "First Name": "Ido",
+                "Last Name": "Amit",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Segal",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel. Electronic address: eran.segal@weizmann.ac.il."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Elinav",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel. Electronic address: eran.elinav@weizmann.ac.il."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26987366",
+        "Title": "Talking about cross-talk: the immune system and the microbiome.",
+        "Abstract": "A report on the first EMBO conference entitled \"Next Gen Immunology-From Host Genome to the Microbiome: Immunity in the Genomic Era\", held at the Weizmann Institute of Science, Israel, 14-16 February, 2016.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Host-Pathogen Interactions",
+            "Humans",
+            "Immune System",
+            "Infections",
+            "Microbiota"
+        ],
+        "Authors": [
+            {
+                "First Name": "David",
+                "Last Name": "Zeevi",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, 7610001, Israel."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, 7610001, Israel."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Segal",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, 7610001, Israel. eran.segal@weizmann.ac.il."
+            }
+        ],
+        "Journal": "Genome biology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26764593",
+        "Title": "Taking it Personally: Personalized Utilization of the Human Microbiome in Health and Disease.",
+        "Abstract": "The genomic revolution enabled the clinical inclusion of an immense body of person-specific information to an extent that is revolutionizing medicine and science. The gut microbiome, our \"second genome,\" dynamically integrates signals from the host and its environment, impacting health and risk of disease. Herein, we summarize how individualized characterization of the microbiome composition and function may assist in personalized diagnostic assessment, risk stratification, disease prevention, treatment decision-making, and patients' follow up. We further discuss the limitations, pitfalls, and challenges that the microbiome field faces in integrating patient-specific microbial data into the clinical realm. Finally, we highlight how recent insights into personalized modulation of the microbiome, by nutritional and pre-, pro-, and post-biotic intervention, may lead to development of individualized approaches that may enable us to harness the microbiome as a central precision medicine target.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacteria",
+            "Gastrointestinal Microbiome",
+            "Gastrointestinal Tract",
+            "Humans",
+            "Precision Medicine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Niv",
+                "Last Name": "Zmora",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel; Internal Medicine Department, Tel Aviv Sourasky Medical Center, Tel Aviv 6423906, Israel; Research Center for Digestive Tract and Liver Diseases, Tel Aviv Sourasky Medical Center, Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv 6423906, Israel."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Zeevi",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Segal",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel. Electronic address: eran.segal@weizmann.ac.il."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Elinav",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 7610001, Israel. Electronic address: eran.elinav@weizmann.ac.il."
+            }
+        ],
+        "Journal": "Cell host & microbe",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26590418",
+        "Title": "Personalized Nutrition by Prediction of Glycemic Responses.",
+        "Abstract": "Elevated postprandial blood glucose levels constitute a global epidemic and a major risk factor for prediabetes and type II diabetes, but existing dietary methods for controlling them have limited efficacy. Here, we continuously monitored week-long glucose levels in an 800-person cohort, measured responses to 46,898 meals, and found high variability in the response to identical meals, suggesting that universal dietary recommendations may have limited utility. We devised a machine-learning algorithm that integrates blood parameters, dietary habits, anthropometrics, physical activity, and gut microbiota measured in this cohort and showed that it accurately predicts personalized postprandial glycemic response to real-life meals. We validated these predictions in an independent 100-person cohort. Finally, a blinded randomized controlled dietary intervention based on this algorithm resulted in significantly lower postprandial responses and consistent alterations to gut microbiota configuration. Together, our results suggest that personalized diets may successfully modify elevated postprandial blood glucose and its metabolic consequences. VIDEO ABSTRACT.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Blood Glucose",
+            "Diabetes Mellitus, Type 2",
+            "Diet, Diabetic",
+            "Gastrointestinal Microbiome",
+            "Humans",
+            "Postprandial Period",
+            "Smartphone"
+        ],
+        "Authors": [
+            {
+                "First Name": "David",
+                "Last Name": "Zeevi",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Niv",
+                "Last Name": "Zmora",
+                "Affiliation": "Immunology Department, Weizmann Institute of Science, Rehovot 7610001, Israel; Internal Medicine Department, Tel Aviv Sourasky Medical Center, Tel Aviv 6423906, Israel; Research Center for Digestive Tract and Liver Diseases, Tel Aviv Sourasky Medical Center, Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv 6423906, Israel."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Israeli",
+                "Affiliation": "Day Care Unit and the Laboratory of Imaging and Brain Stimulation, Kfar Shaul Hospital, Jerusalem Center for Mental Health, Jerusalem 9106000, Israel."
+            },
+            {
+                "First Name": "Daphna",
+                "Last Name": "Rothschild",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Adina",
+                "Last Name": "Weinberger",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Orly",
+                "Last Name": "Ben-Yacov",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Dar",
+                "Last Name": "Lador",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Tali",
+                "Last Name": "Avnit-Sagi",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Maya",
+                "Last Name": "Lotan-Pompan",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Jotham",
+                "Last Name": "Suez",
+                "Affiliation": "Immunology Department, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Jemal Ali",
+                "Last Name": "Mahdi",
+                "Affiliation": "Immunology Department, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Elad",
+                "Last Name": "Matot",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Gal",
+                "Last Name": "Malka",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Noa",
+                "Last Name": "Kosower",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Michal",
+                "Last Name": "Rein",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Gili",
+                "Last Name": "Zilberman-Schapira",
+                "Affiliation": "Immunology Department, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Lenka",
+                "Last Name": "Dohnalová",
+                "Affiliation": "Immunology Department, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Meirav",
+                "Last Name": "Pevsner-Fischer",
+                "Affiliation": "Immunology Department, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Rony",
+                "Last Name": "Bikovsky",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel."
+            },
+            {
+                "First Name": "Zamir",
+                "Last Name": "Halpern",
+                "Affiliation": "Research Center for Digestive Tract and Liver Diseases, Tel Aviv Sourasky Medical Center, Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv 6423906, Israel; Digestive Center, Tel Aviv Sourasky Medical Center, Tel Aviv 6423906, Israel."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Elinav",
+                "Affiliation": "Immunology Department, Weizmann Institute of Science, Rehovot 7610001, Israel. Electronic address: eran.elinav@weizmann.ac.il."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Segal",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 7610001, Israel; Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 7610001, Israel. Electronic address: eran.segal@weizmann.ac.il."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26229116",
+        "Title": "Growth dynamics of gut microbiota in health and disease inferred from single metagenomic samples.",
+        "Abstract": "Metagenomic sequencing increased our understanding of the role of the microbiome in health and disease, yet it only provides a snapshot of a highly dynamic ecosystem. Here, we show that the pattern of metagenomic sequencing read coverage for different microbial genomes contains a single trough and a single peak, the latter coinciding with the bacterial origin of replication. Furthermore, the ratio of sequencing coverage between the peak and trough provides a quantitative measure of a species' growth rate. We demonstrate this in vitro and in vivo, under different growth conditions, and in complex bacterial communities. For several bacterial species, peak-to-trough coverage ratios, but not relative abundances, correlated with the manifestation of inflammatory bowel disease and type II diabetes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacteria",
+            "Diabetes Mellitus, Type 2",
+            "Gastrointestinal Tract",
+            "Genome, Bacterial",
+            "Humans",
+            "Inflammatory Bowel Diseases",
+            "Metagenome",
+            "Metagenomics",
+            "Microbiota"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Zeevi",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Jotham",
+                "Last Name": "Suez",
+                "Affiliation": "Immunology Department, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Adina",
+                "Last Name": "Weinberger",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Tali",
+                "Last Name": "Avnit-Sagi",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Maya",
+                "Last Name": "Pompan-Lotan",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Elad",
+                "Last Name": "Matot",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Ghil",
+                "Last Name": "Jona",
+                "Affiliation": "Department of Biological services, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Alon",
+                "Last Name": "Harmelin",
+                "Affiliation": "Department of Veterinary Resources, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Nadav",
+                "Last Name": "Cohen",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Alexandra",
+                "Last Name": "Sirota-Madi",
+                "Affiliation": "Center for Computational and Integrative Biology, Massachusetts General Hospital, Harvard Medical School and Broad Institute."
+            },
+            {
+                "First Name": "Christoph A",
+                "Last Name": "Thaiss",
+                "Affiliation": "Immunology Department, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Meirav",
+                "Last Name": "Pevsner-Fischer",
+                "Affiliation": "Immunology Department, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Rotem",
+                "Last Name": "Sorek",
+                "Affiliation": "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Ramnik",
+                "Last Name": "Xavier",
+                "Affiliation": "Center for Computational and Integrative Biology, Massachusetts General Hospital, Harvard Medical School and Broad Institute."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Elinav",
+                "Affiliation": "Immunology Department, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Segal",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel."
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25831243",
+        "Title": "Non-caloric artificial sweeteners and the microbiome: findings and challenges.",
+        "Abstract": "Non-caloric artificial sweeteners (NAS) are common food supplements consumed by millions worldwide as means of combating weight gain and diabetes, by retaining sweet taste without increasing caloric intake. While they are considered safe, there is increasing controversy regarding their potential ability to promote metabolic derangements in some humans. We recently demonstrated that NAS consumption could induce glucose intolerance in mice and distinct human subsets, by functionally altering the gut microbiome. In this commentary, we discuss these findings in the context of previous and recent works demonstrating the effects of NAS on host health and the microbiome, and the challenges and open questions that need to be addressed in understanding the effects of NAS consumption on human health.",
+        "Keywords": [
+            "Microbiome",
+            "artificial sweeteners",
+            "diabetes",
+            "glucose intolerance"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Diet",
+            "Gastrointestinal Microbiome",
+            "Glucose Intolerance",
+            "Humans",
+            "Mice",
+            "Sweetening Agents"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jotham",
+                "Last Name": "Suez",
+                "Affiliation": "a Department of Immunology ; Weizmann Institute of Science ; Rehovot , Israel."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gili",
+                "Last Name": "Zilberman-Schapira",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Segal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Elinav",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Gut microbes",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25231862",
+        "Title": "Artificial sweeteners induce glucose intolerance by altering the gut microbiota.",
+        "Abstract": "Non-caloric artificial sweeteners (NAS) are among the most widely used food additives worldwide, regularly consumed by lean and obese individuals alike. NAS consumption is considered safe and beneficial owing to their low caloric content, yet supporting scientific data remain sparse and controversial. Here we demonstrate that consumption of commonly used NAS formulations drives the development of glucose intolerance through induction of compositional and functional alterations to the intestinal microbiota. These NAS-mediated deleterious metabolic effects are abrogated by antibiotic treatment, and are fully transferrable to germ-free mice upon faecal transplantation of microbiota configurations from NAS-consuming mice, or of microbiota anaerobically incubated in the presence of NAS. We identify NAS-altered microbial metabolic pathways that are linked to host susceptibility to metabolic disease, and demonstrate similar NAS-induced dysbiosis and glucose intolerance in healthy human subjects. Collectively, our results link NAS consumption, dysbiosis and metabolic abnormalities, thereby calling for a reassessment of massive NAS usage.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Anti-Bacterial Agents",
+            "Aspartame",
+            "Body Weight",
+            "Diet, High-Fat",
+            "Dietary Fats",
+            "Feces",
+            "Female",
+            "Gastrointestinal Tract",
+            "Germ-Free Life",
+            "Glucose",
+            "Glucose Intolerance",
+            "Humans",
+            "Male",
+            "Metabolic Syndrome",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Microbiota",
+            "Saccharin",
+            "Sucrose",
+            "Sweetening Agents",
+            "Waist-Hip Ratio"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jotham",
+                "Last Name": "Suez",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 76100, Israel."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Korem",
+                "Affiliation": "1] Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 76100, Israel [2]."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Zeevi",
+                "Affiliation": "1] Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 76100, Israel [2]."
+            },
+            {
+                "First Name": "Gili",
+                "Last Name": "Zilberman-Schapira",
+                "Affiliation": "1] Department of Immunology, Weizmann Institute of Science, Rehovot 76100, Israel [2]."
+            },
+            {
+                "First Name": "Christoph A",
+                "Last Name": "Thaiss",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 76100, Israel."
+            },
+            {
+                "First Name": "Ori",
+                "Last Name": "Maza",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 76100, Israel."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Israeli",
+                "Affiliation": "Day Care Unit and the Laboratory of Imaging and Brain Stimulation, Kfar Shaul hospital, Jerusalem Center for Mental Health, Jerusalem 91060, Israel."
+            },
+            {
+                "First Name": "Niv",
+                "Last Name": "Zmora",
+                "Affiliation": "1] Internal Medicine Department, Tel Aviv Sourasky Medical Center, Tel Aviv 64239, Israel [2] Research Center for Digestive Tract and Liver Diseases, Tel Aviv Sourasky Medical Center, Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv 69978, Israel [3] Digestive Center, Tel Aviv Sourasky Medical Center, Tel Aviv 64239, Israel."
+            },
+            {
+                "First Name": "Shlomit",
+                "Last Name": "Gilad",
+                "Affiliation": "The Nancy and Stephen Grand Israel National Center for Personalized Medicine (INCPM), Weizmann Institute of Science, Rehovot 76100, Israel."
+            },
+            {
+                "First Name": "Adina",
+                "Last Name": "Weinberger",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 76100, Israel."
+            },
+            {
+                "First Name": "Yael",
+                "Last Name": "Kuperman",
+                "Affiliation": "Department of Veterinary Resources, Weizmann Institute of Science, Rehovot 76100, Israel."
+            },
+            {
+                "First Name": "Alon",
+                "Last Name": "Harmelin",
+                "Affiliation": "Department of Veterinary Resources, Weizmann Institute of Science, Rehovot 76100, Israel."
+            },
+            {
+                "First Name": "Ilana",
+                "Last Name": "Kolodkin-Gal",
+                "Affiliation": "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot 76100, Israel."
+            },
+            {
+                "First Name": "Hagit",
+                "Last Name": "Shapiro",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 76100, Israel."
+            },
+            {
+                "First Name": "Zamir",
+                "Last Name": "Halpern",
+                "Affiliation": "1] Research Center for Digestive Tract and Liver Diseases, Tel Aviv Sourasky Medical Center, Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv 69978, Israel [2] Digestive Center, Tel Aviv Sourasky Medical Center, Tel Aviv 64239, Israel."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Segal",
+                "Affiliation": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot 76100, Israel."
+            },
+            {
+                "First Name": "Eran",
+                "Last Name": "Elinav",
+                "Affiliation": "Department of Immunology, Weizmann Institute of Science, Rehovot 76100, Israel."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2014"
+    }
+]

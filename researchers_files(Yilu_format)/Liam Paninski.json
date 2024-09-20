@@ -2,64 +2,64 @@
     {
         "PMID": "39108295",
         "Title": "Towards a \"universal translator\" for neural dynamics at single-cell, single-spike resolution.",
-        "Abstract": "Neuroscience research has made immense progress over the last decade, but our understanding of the brain remains fragmented and piecemeal: the dream of probing an arbitrary brain region and automatically reading out the information encoded in its neural activity remains out of reach. In this work, we build towards a first foundation model for neural spiking data that can solve a diverse set of tasks across multiple brain areas. We introduce a novel self-supervised modeling approach for population activity in which the model alternates between masking out and reconstructing neural activity across different time steps, neurons, and brain regions. To evaluate our approach, we design unsupervised and supervised prediction tasks using the International Brain Laboratory repeated site dataset, which is comprised of Neuropixels recordings targeting the same brain locations across 48 animals and experimental sessions. The prediction tasks include single-neuron and region-level activity prediction, forward prediction, and behavior decoding. We demonstrate that our multi-task-masking (MtM) approach significantly improves the performance of current state-of-the-art population models and enables multi-task learning. We also show that by training on multiple animals, we can improve the generalization ability of the model to unseen animals, paving the way for a foundation model of the brain at single-cell, single-spike resolution.",
+        "Abstract": "Neuroscience research has made immense progress over the last decade, but our understanding of the brain remains fragmented and piecemeal: the dream of probing an arbitrary brain region and automatically reading out the information encoded in its neural activity remains out of reach. In this work, we build towards a first foundation model for neural spiking data that can solve a diverse set of tasks across multiple brain areas. We introduce a novel self-supervised modeling approach for population activity in which the model alternates between masking out and reconstructing neural activity across different time steps, neurons, and brain regions. To evaluate our approach, we design unsupervised and supervised prediction tasks using the International Brain Laboratory repeated site dataset, which is comprised of Neuropixels recordings targeting the same brain locations across 48 animals and experimental sessions. The prediction tasks include single-neuron and region-level activity prediction, forward prediction, and behavior decoding. We demonstrate that our multi-task-masking (MtM) approach significantly improves the performance of current state-of-the-art population models and enables multi-task learning. We also show that by training on multiple animals, we can improve the generalization ability of the model to unseen animals, paving the way for a foundation model of the brain at single-cell, single-spike resolution. Project page and code: https://ibl-mtm.github.io/.",
         "Keywords": [],
         "MeSH terms": [],
         "Authors": [
             {
                 "First Name": "Yizi",
                 "Last Name": "Zhang",
-                "Affiliation": ""
+                "Affiliation": "Columbia University New York."
             },
             {
                 "First Name": "Yanchen",
                 "Last Name": "Wang",
-                "Affiliation": ""
+                "Affiliation": "Stanford University California."
             },
             {
-                "First Name": "Donato",
-                "Last Name": "Jimenez-Beneto",
-                "Affiliation": ""
+                "First Name": "Donato Jim\u00e9nez",
+                "Last Name": "Benet\u00f3",
+                "Affiliation": "Universitat Polit\u00e8cnica de Catalunya Spain."
             },
             {
                 "First Name": "Zixuan",
                 "Last Name": "Wang",
-                "Affiliation": ""
+                "Affiliation": "Columbia University New York."
             },
             {
                 "First Name": "Mehdi",
                 "Last Name": "Azabou",
-                "Affiliation": ""
+                "Affiliation": "Georgia Institute of Technology Georgia."
             },
             {
                 "First Name": "Blake",
                 "Last Name": "Richards",
-                "Affiliation": ""
+                "Affiliation": "Mila, McGill University Montreal."
             },
             {
                 "First Name": "Olivier",
                 "Last Name": "Winter",
-                "Affiliation": ""
+                "Affiliation": "Champalimaud Foundation Portugal."
             },
             {
-                "First Name": "International Brain",
-                "Last Name": "Laboratory",
+                "First Name": "",
+                "Last Name": "",
                 "Affiliation": ""
             },
             {
                 "First Name": "Eva",
                 "Last Name": "Dyer",
-                "Affiliation": ""
+                "Affiliation": "Georgia Institute of Technology Georgia."
             },
             {
                 "First Name": "Liam",
                 "Last Name": "Paninski",
-                "Affiliation": ""
+                "Affiliation": "Columbia University New York."
             },
             {
                 "First Name": "Cole",
                 "Last Name": "Hurwitz",
-                "Affiliation": ""
+                "Affiliation": "Columbia University New York."
             }
         ],
         "Journal": "ArXiv",
@@ -68,44 +68,44 @@
     {
         "PMID": "39108294",
         "Title": "A study of animal action segmentation algorithms across supervised, unsupervised, and semi-supervised learning paradigms.",
-        "Abstract": "Action segmentation of behavioral videos is the process of labeling each frame as belonging to one or more discrete classes, and is a crucial component of many studies that investigate animal behavior. A wide range of algorithms exist to automatically parse discrete animal behavior, encompassing supervised, unsupervised, and semi-supervised learning paradigms. These algorithms -- which include tree-based models, deep neural networks, and graphical models -- differ widely in their structure and assumptions on the data. Using four datasets spanning multiple species -- fly, mouse, and human -- we systematically study how the outputs of these various algorithms align with manually annotated behaviors of interest. Along the way, we introduce a semi-supervised action segmentation model that bridges the gap between supervised deep neural networks and unsupervised graphical models. We find that fully supervised temporal convolutional networks with the addition of temporal information in the observations perform the best on our supervised metrics across all datasets.",
+        "Abstract": "Action segmentation of behavioral videos is the process of labeling each frame as belonging to one or more discrete classes, and is a crucial component of many studies that investigate animal behavior. A wide range of algorithms exist to automatically parse discrete animal behavior, encompassing supervised, unsupervised, and semi-supervised learning paradigms. These algorithms - which include tree-based models, deep neural networks, and graphical models - differ widely in their structure and assumptions on the data. Using four datasets spanning multiple species - fly, mouse, and human - we systematically study how the outputs of these various algorithms align with manually annotated behaviors of interest. Along the way, we introduce a semi-supervised action segmentation model that bridges the gap between supervised deep neural networks and unsupervised graphical models. We find that fully supervised temporal convolutional networks with the addition of temporal information in the observations perform the best on our supervised metrics across all datasets.",
         "Keywords": [],
         "MeSH terms": [],
         "Authors": [
             {
                 "First Name": "Ari",
                 "Last Name": "Blau",
-                "Affiliation": ""
+                "Affiliation": "Department of Statistics Columbia University."
             },
             {
                 "First Name": "Evan S",
                 "Last Name": "Schaffer",
-                "Affiliation": ""
+                "Affiliation": "Icahn School of Medicine Mount Sinai."
             },
             {
                 "First Name": "Neeli",
                 "Last Name": "Mishra",
-                "Affiliation": ""
+                "Affiliation": "Zuckerman Institute Columbia University."
             },
             {
                 "First Name": "Nathaniel J",
                 "Last Name": "Miska",
-                "Affiliation": ""
+                "Affiliation": "Sainsbury Wellcome Centre University College London."
             },
             {
-                "First Name": "The International Brain",
-                "Last Name": "Laboratory",
+                "First Name": "",
+                "Last Name": "",
                 "Affiliation": ""
             },
             {
                 "First Name": "Liam",
                 "Last Name": "Paninski",
-                "Affiliation": ""
+                "Affiliation": "Department of Statistics Zuckerman Institute Columbia University."
             },
             {
                 "First Name": "Matthew R",
                 "Last Name": "Whiteway",
-                "Affiliation": ""
+                "Affiliation": "Zuckerman Institute Columbia University."
             }
         ],
         "Journal": "ArXiv",

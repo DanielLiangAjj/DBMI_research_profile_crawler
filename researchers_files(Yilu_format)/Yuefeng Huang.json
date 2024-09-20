@@ -1,5 +1,62 @@
 [
     {
+        "PMID": "39149915",
+        "Title": "A Bimetallic Nanomodulator to Reverse Immunosuppression via Sonodynamic-Ferroptosis and Lactate Metabolism Modulation.",
+        "Abstract": "Triple-negative breast cancer (TNBC) responds poorly to immunotherapy due to insufficient immunogenicity and highly immunosuppressive tumor microenvironment (TME). Herein, an intelligent calcium/cobalt-based nanomodulator (Ca,Co)CO",
+        "Keywords": [
+            "ferroptosis",
+            "immune checkpoint blockade",
+            "immunotherapy",
+            "lactate",
+            "sonodynamic therapy"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Xi",
+                "Last Name": "Deng",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai, 200050, P. R. China."
+            },
+            {
+                "First Name": "Yutong",
+                "Last Name": "Zhu",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai, 200050, P. R. China."
+            },
+            {
+                "First Name": "Zideng",
+                "Last Name": "Dai",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai, 200050, P. R. China."
+            },
+            {
+                "First Name": "Qing",
+                "Last Name": "Liu",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai, 200050, P. R. China."
+            },
+            {
+                "First Name": "Ze",
+                "Last Name": "Song",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai, 200050, P. R. China."
+            },
+            {
+                "First Name": "Tianzhi",
+                "Last Name": "Liu",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai, 200050, P. R. China."
+            },
+            {
+                "First Name": "Yuefeng",
+                "Last Name": "Huang",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai, 200050, P. R. China."
+            },
+            {
+                "First Name": "Hangrong",
+                "Last Name": "Chen",
+                "Affiliation": "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai, 200050, P. R. China."
+            }
+        ],
+        "Journal": "Small (Weinheim an der Bergstrasse, Germany)",
+        "PubDate": "2024"
+    },
+    {
         "PMID": "39000865",
         "Title": "An Improved Method for Detecting Crane Wheel-Rail Faults Based on YOLOv8 and the Swin Transformer.",
         "Abstract": "In the realm of special equipment, significant advancements have been achieved in fault detection. Nonetheless, faults originating in the equipment manifest with diverse morphological characteristics and varying scales. Certain faults necessitate the extrapolation from global information owing to their occurrence in localized areas. Simultaneously, the intricacies of the inspection area's background easily interfere with the intelligent detection processes. Hence, a refined YOLOv8 algorithm leveraging the Swin Transformer is proposed, tailored for detecting faults in special equipment. The Swin Transformer serves as the foundational network of the YOLOv8 framework, amplifying its capability to concentrate on comprehensive features during the feature extraction, crucial for fault analysis. A multi-head self-attention mechanism regulated by a sliding window is utilized to expand the observation window's scope. Moreover, an asymptotic feature pyramid network is introduced to augment spatial feature extraction for smaller targets. Within this network architecture, adjacent low-level features are merged, while high-level features are gradually integrated into the fusion process. This prevents loss or degradation of feature information during transmission and interaction, enabling accurate localization of smaller targets. Drawing from wheel-rail faults of lifting equipment as an illustration, the proposed method is employed to diagnose an expanded fault dataset generated through transfer learning. Experimental findings substantiate that the proposed method in adeptly addressing numerous challenges encountered in the intelligent fault detection of special equipment. Moreover, it outperforms mainstream target detection models, achieving real-time detection capabilities.",

@@ -1,0 +1,2766 @@
+[
+    {
+        "PMID": "37668214",
+        "Title": "Facing the phase problem.",
+        "Abstract": "The marvel of X-ray crystallography is the beauty and precision of the atomic structures deduced from diffraction patterns. Since these patterns record only amplitudes, phases for the diffracted waves must also be evaluated for systematic structure determination. Thus, we have the phase problem as a central complication, both intellectually for the field and practically so for many analyses. Here, I discuss how we - myself, my laboratory and the diffraction community - have faced the phase problem, considering the evolution of methods for phase evaluation as structural biology developed to the present day. During the explosive growth of macromolecular crystallography, practice in diffraction analysis evolved from a universal reliance on isomorphous replacement to the eventual domination of anomalous diffraction for de novo structure determination. As the Protein Data Bank (PDB) grew and familial relationships among proteins became clear, molecular replacement overtook all other phasing methods; however, experimental phasing remained essential for molecules without obvious precedents, with multi- and single-wavelength anomalous diffraction (MAD and SAD) predominating. While the mathematics-based direct methods had proved to be inadequate for typical macromolecules, they returned to crack substantial selenium substructures in SAD analyses of selenomethionyl proteins. Native SAD, exploiting the intrinsic S and P atoms of biomolecules, has become routine. Selenomethionyl SAD and MAD were the mainstays of structural genomics efforts to populate the PDB with novel proteins. A recent dividend has been paid in the success of PDB-trained artificial intelligence approaches for protein structure prediction. Currently, molecular replacement with AlphaFold models often obviates the need for experimental phase evaluation. For multiple reasons, we are now unfazed by the phase problem. Cryo-EM analysis is an attractive alternative to crystallography for many applications faced by today's structural biologists. It simply finesses the phase problem; however, the principles and procedures of diffraction analysis remain pertinent and are adopted in single-particle cryo-EM studies of biomolecules.",
+        "Keywords": [
+            "anomalous diffraction",
+            "density modification",
+            "direct methods",
+            "isomorphous replacement",
+            "molecular replacement"
+        ],
+        "MeSH terms": [
+            "Artificial Intelligence",
+            "Crystallography, X-Ray",
+            "Databases, Protein",
+            "Explosive Agents",
+            "Genomics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "IUCrJ",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36574673",
+        "Title": "Crystal structure of LGR ligand α2/β5 from ",
+        "Abstract": "A family of leucine-rich-repeat-containing G-protein-coupled receptors (LGRs) mediate diverse physiological responses when complexed with their cognate ligands. LGRs are present in all metazoan animals. In humans, the LGR ligands include glycoprotein hormones (GPHs) chorionic gonadotropin (hCG), luteinizing hormone, follicle-stimulating hormone (hFSH), and thyroid-stimulating hormone (hTSH). These hormones are αβ heterodimers of cystine-knot protein chains. LGRs and their ligand chains have coevolved. Ancestral hormone homologs, present in both bilaterian animals and chordates, are identified as α2β5. We have used single-wavelength anomalous diffraction and molecular replacement to determine structures of the α2β5 hormone from ",
+        "Keywords": [
+            "cystine-knot hormone (CKH)",
+            "evolution",
+            "glycoprotein hormone (GPH)",
+            "leucine-rich-repeat-containing G-protein-coupled receptor (LGR)",
+            "thyrostimulin"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Amino Acid Sequence",
+            "Caenorhabditis elegans",
+            "Glycoproteins",
+            "Ligands",
+            "Hormones",
+            "Receptors, G-Protein-Coupled"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zhen",
+                "Last Name": "Gong",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Wei",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Kamel",
+                "Last Name": "El Omari",
+                "Affiliation": "Diamond Light Source, Harwell Science & Innovation Campus, Didcot OX11 0DE, UK."
+            },
+            {
+                "First Name": "Andrey A",
+                "Last Name": "Lebedev",
+                "Affiliation": "CCP4, STFC Rutherford Appleton Laboratory, Didcot OX11 0QX, UK."
+            },
+            {
+                "First Name": "Oliver B",
+                "Last Name": "Clarke",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35113705",
+        "Title": "The protein-folding problem: Not yet solved.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Protein Conformation",
+            "Protein Folding"
+        ],
+        "Authors": [
+            {
+                "First Name": "Peter B",
+                "Last Name": "Moore",
+                "Affiliation": "Department of Chemistry, Yale University, New Haven, CT 06520, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Henderson",
+                "Affiliation": "MRC Laboratory of Molecular Biology, Cambridge CB2 0QH, UK."
+            },
+            {
+                "First Name": "Axel T",
+                "Last Name": "Brunger",
+                "Affiliation": "Department of Molecular and Cellular Physiology, Howard Hughes Medical Institute, Stanford University, Stanford, CA 94305, USA."
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34453889",
+        "Title": "Conformational equilibria in allosteric control of Hsp70 chaperones.",
+        "Abstract": "Heat-shock proteins of 70 kDa (Hsp70s) are vital for all life and are notably important in protein folding. Hsp70s use ATP binding and hydrolysis at a nucleotide-binding domain (NBD) to control the binding and release of client polypeptides at a substrate-binding domain (SBD); however, the mechanistic basis for this allostery has been elusive. Here, we first characterize biochemical properties of selected domain-interface mutants in bacterial Hsp70 DnaK. We then develop a theoretical model for allosteric equilibria among Hsp70 conformational states to explain the observations: a restraining state, Hsp70",
+        "Keywords": [
+            "DnaK",
+            "Hsp70",
+            "allosteric regulation",
+            "crystal structure",
+            "molecular chaperone",
+            "protein folding"
+        ],
+        "MeSH terms": [
+            "Adenosine Triphosphatases",
+            "Adenosine Triphosphate",
+            "Allosteric Regulation",
+            "Binding Sites",
+            "Escherichia coli Proteins",
+            "HSP70 Heat-Shock Proteins",
+            "Hydrolysis",
+            "Kinetics",
+            "Models, Molecular",
+            "Mutation",
+            "Protein Binding",
+            "Protein Conformation",
+            "Saccharomyces cerevisiae Proteins",
+            "Structure-Activity Relationship"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wei",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Qinglian",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Physiology and Biophysics, Virginia Commonwealth University, Richmond, VA 23298, USA."
+            },
+            {
+                "First Name": "Qun",
+                "Last Name": "Liu",
+                "Affiliation": "Biology Department, Brookhaven National Laboratory, Upton, NY 11973, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA. Electronic address: wah2@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33950017",
+        "Title": "Intermediates in allosteric equilibria of DnaK-ATP interactions with substrate peptides.",
+        "Abstract": "Hsp70 molecular chaperones facilitate protein disaggregation and proper folding through iterative cycles of polypeptide binding and release that are allosterically coupled to ATP binding and hydrolysis. Hsp70s are ubiquitous and highly conserved across all of life; they bind ATP at an N-terminal nucleotide-binding domain (NBD) and client peptides in the substrate-binding domain (SBD). The NBD and SBD are connected by a highly conserved linker segment that is integrated into the NBD when ATP is bound but is flexible when the NBD is nucleotide-free or bound with ADP. Allosteric coupling is lost when the linker is flexible, and the freed SBD binds peptide clients with high affinity. It was recently discovered that Hsp70-ATP is in an equilibrium between a restraining state (R) with little affinity for peptides and a low ATPase activity, and a stimulating state (S) that binds peptides efficiently, but with rapid kinetics, and has a relatively high ATPase activity. While attempting to characterize the S state, crystal structures of DnaK-ATP were obtained that demonstrate intrinsic Hsp70 plasticity that affects binding interactions with substrate peptides. These structures provide insights into intermediate states along transition pathways in the Hsp70 chaperone cycle.",
+        "Keywords": [
+            "ATP hydrolysis",
+            "allostery",
+            "conformational transition",
+            "molecular chaperones",
+            "polypeptide clients",
+            "protein folding"
+        ],
+        "MeSH terms": [
+            "Allosteric Regulation",
+            "Binding Sites",
+            "Escherichia coli",
+            "Escherichia coli Proteins",
+            "HSP70 Heat-Shock Proteins",
+            "Kinetics",
+            "Models, Molecular",
+            "Protein Conformation",
+            "Protein Domains"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wei",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Acta crystallographica. Section D, Structural biology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33738455",
+        "Title": "Theory of Allosteric Regulation in Hsp70 Molecular Chaperones.",
+        "Abstract": "Heat-shock proteins of 70 kDa (Hsp70s) are ubiquitous molecular chaperones that function in protein folding as well as other vital cellular processes. They bind and hydrolyze ATP in a nucleotide-binding domain (NBD) to control the binding and release of client polypeptides in a substrate-binding domain (SBD). However, the molecular mechanism for this allosteric action has remained unclear. Here, we develop and experimentally quantify a theoretical model for Hsp70 allostery based on equilibria among Hsp70 conformational states. We postulate that, when bound to ATP, Hsp70 is in equilibrium between a restraining state (R) that restricts ATP hydrolysis and binds peptides poorly, if at all, and a stimulating state (S) that hydrolyzes ATP relatively rapidly and has high intrinsic substrate affinity but rapid binding kinetics; after the hydrolysis to ADP, NBD and SBD disengage into an uncoupled state (U) that binds peptide substrates tightly, but now with slow kinetics of exchange.",
+        "Keywords": [
+            "ATP",
+            "Allostery",
+            "polypeptide client",
+            "protein folding"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "QRB discovery",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "28573582",
+        "Title": "Contemporary Use of Anomalous Diffraction in Biomolecular Structure Analysis.",
+        "Abstract": "The normal elastic X-ray scattering that depends only on electron density can be modulated by an \"anomalous\" component due to resonance between X-rays and electronic orbitals. Anomalous scattering thereby precisely identifies atomic species, since orbitals distinguish atomic elements, which enables the multi- and single-wavelength anomalous diffraction (MAD and SAD) methods. SAD now predominates in de novo structure determination of biological macromolecules, and we focus here on the prevailing SAD method. We describe the anomalous phasing theory and the periodic table of phasing elements that are available for SAD experiments, differentiating between those readily accessible for at-resonance experiments and those that can be effective away from an edge. We describe procedures for present-day SAD phasing experiments and we discuss optimization of anomalous signals for challenging applications. We also describe methods for using anomalous signals as molecular markers for tracing and element identification. Emerging developments and perspectives are discussed in brief.",
+        "Keywords": [
+            "Anomalous scattering",
+            "Crystal structure",
+            "De novo structure determination",
+            "Multiple crystals",
+            "Native SAD",
+            "Phasing problem"
+        ],
+        "MeSH terms": [
+            "Crystallization",
+            "Electrons",
+            "Metals, Heavy",
+            "Models, Molecular",
+            "Models, Statistical",
+            "Protein Conformation",
+            "Proteins",
+            "Sulfur",
+            "Synchrotrons",
+            "X-Ray Diffraction",
+            "X-Rays"
+        ],
+        "Authors": [
+            {
+                "First Name": "Qun",
+                "Last Name": "Liu",
+                "Affiliation": "Biology Department, Brookhaven National Laboratory, PO Box 5000, 50 Bell Ave, Building 463, Upton, NY, 11973, USA. qunliu@bnl.gov."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, 202 Black Building, 650 West 168th Street, New York, NY, 10032, USA. wayne@xtl.cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Methods in molecular biology (Clifton, N.J.)",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27687475",
+        "Title": "Structures of the colossal RyR1 calcium release channel.",
+        "Abstract": "Ryanodine receptors (RyRs) are intracellular cation channels that mediate the rapid and voluminous release of Ca",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cryoelectron Microscopy",
+            "Ion Channel Gating",
+            "Ligands",
+            "Ryanodine Receptor Calcium Release Channel"
+        ],
+        "Authors": [
+            {
+                "First Name": "Oliver B",
+                "Last Name": "Clarke",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA. Electronic address: wayne@xtl.cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Current opinion in structural biology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27273628",
+        "Title": "Atomic-level analysis of membrane-protein structure.",
+        "Abstract": "Membrane proteins are substantially more challenging than natively soluble proteins as subjects for structural analysis. Thus, membrane proteins are greatly underrepresented in structural databases. Recently, focused consortium efforts and advances in methodology for protein production, crystallographic analysis and cryo-EM analysis have accelerated the pace of atomic-level structure determination of membrane proteins.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cryoelectron Microscopy",
+            "Crystallization",
+            "Crystallography, X-Ray",
+            "Databases, Protein",
+            "Detergents",
+            "Gene Expression",
+            "Membrane Proteins",
+            "Models, Molecular",
+            "Protein Conformation",
+            "Recombinant Proteins",
+            "Solubility"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics and the Department of Physiology and Cellular Biophysics, Columbia University, New York, New York, USA, and at the New York Structural Biology Center (NYSBC), New York, New York, USA."
+            }
+        ],
+        "Journal": "Nature structural & molecular biology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26432413",
+        "Title": "Crystallographic phasing from weak anomalous signals.",
+        "Abstract": "The exploitation of anomalous signals for biological structural solution is maturing. Single-wavelength anomalous diffraction (SAD) is dominant in de novo structure analysis. Nevertheless, for challenging structures where the resolution is low (dmin≥3.5Å) or where only lighter atoms (Z≤20) are present, as for native macromolecules, solved SAD structures are still scarce. With the recent rapid development in crystal handling, beamline instrumentation, optimization of data collection strategies, use of multiple crystals and structure determination technologies, the weak anomalous diffraction signals are now robustly measured and should be used for routine SAD structure determination. The review covers these recent advances on weak anomalous signals measurement, analysis and utilization.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Crystallization",
+            "Crystallography, X-Ray",
+            "Models, Molecular",
+            "Molecular Conformation",
+            "X-Ray Diffraction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Qun",
+                "Last Name": "Liu",
+                "Affiliation": "New York Consortium on Membrane Protein Structure, New York Structural Biology Center, New York, NY 10027, USA. Electronic address: qunliu@bnl.gov."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "New York Consortium on Membrane Protein Structure, New York Structural Biology Center, New York, NY 10027, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA. Electronic address: wayne@xtl.cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Current opinion in structural biology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25635100",
+        "Title": "Protein structure. Structure and activity of tryptophan-rich TSPO proteins.",
+        "Abstract": "Translocator proteins (TSPOs) bind steroids and porphyrins, and they are implicated in many human diseases, for which they serve as biomarkers and therapeutic targets. TSPOs have tryptophan-rich sequences that are highly conserved from bacteria to mammals. Here we report crystal structures for Bacillus cereus TSPO (BcTSPO) down to 1.7 Å resolution, including a complex with the benzodiazepine-like inhibitor PK11195. We also describe BcTSPO-mediated protoporphyrin IX (PpIX) reactions, including catalytic degradation to a previously undescribed heme derivative. We used structure-inspired mutations to investigate reaction mechanisms, and we showed that TSPOs from Xenopus and man have similar PpIX-directed activities. Although TSPOs have been regarded as transporters, the catalytic activity in PpIX degradation suggests physiological importance for TSPOs in protection against oxidative stress.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Bacillus cereus",
+            "Bacterial Proteins",
+            "Binding Sites",
+            "Crystallography, X-Ray",
+            "Isoquinolines",
+            "Ligands",
+            "Membrane Transport Proteins",
+            "Molecular Sequence Data",
+            "Mutant Proteins",
+            "Protein Conformation",
+            "Protein Multimerization",
+            "Protein Structure, Secondary",
+            "Protein Subunits",
+            "Protoporphyrins",
+            "Reactive Oxygen Species",
+            "Tryptophan"
+        ],
+        "Authors": [
+            {
+                "First Name": "Youzhong",
+                "Last Name": "Guo",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Ravi C",
+                "Last Name": "Kalathur",
+                "Affiliation": "The New York Consortium on Membrane Protein Structure (NYCOMPS), New York Structural Biology Center, 89 Convent Avenue, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Qun",
+                "Last Name": "Liu",
+                "Affiliation": "The New York Consortium on Membrane Protein Structure (NYCOMPS), New York Structural Biology Center, 89 Convent Avenue, New York, NY 10027, USA. New York Structural Biology Center, Synchrotron Beamlines, Brookhaven National Laboratory, Upton, NY 11973, USA."
+            },
+            {
+                "First Name": "Brian",
+                "Last Name": "Kloss",
+                "Affiliation": "The New York Consortium on Membrane Protein Structure (NYCOMPS), New York Structural Biology Center, 89 Convent Avenue, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Renato",
+                "Last Name": "Bruni",
+                "Affiliation": "The New York Consortium on Membrane Protein Structure (NYCOMPS), New York Structural Biology Center, 89 Convent Avenue, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Ginter",
+                "Affiliation": "The New York Consortium on Membrane Protein Structure (NYCOMPS), New York Structural Biology Center, 89 Convent Avenue, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Edda",
+                "Last Name": "Kloppmann",
+                "Affiliation": "The New York Consortium on Membrane Protein Structure (NYCOMPS), New York Structural Biology Center, 89 Convent Avenue, New York, NY 10027, USA. Department of Informatics, Bioinformatics and Computational Biology, Technische Universität München, Garching 85748, Germany."
+            },
+            {
+                "First Name": "Burkhard",
+                "Last Name": "Rost",
+                "Affiliation": "The New York Consortium on Membrane Protein Structure (NYCOMPS), New York Structural Biology Center, 89 Convent Avenue, New York, NY 10027, USA. Department of Informatics, Bioinformatics and Computational Biology, Technische Universität München, Garching 85748, Germany."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA. The New York Consortium on Membrane Protein Structure (NYCOMPS), New York Structural Biology Center, 89 Convent Avenue, New York, NY 10027, USA. New York Structural Biology Center, Synchrotron Beamlines, Brookhaven National Laboratory, Upton, NY 11973, USA. Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA. wayne@xtl.cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25605907",
+        "Title": "Structural insights into mis-regulation of protein kinase A in human tumors.",
+        "Abstract": "The extensively studied cAMP-dependent protein kinase A (PKA) is involved in the regulation of critical cell processes, including metabolism, gene expression, and cell proliferation; consequentially, mis-regulation of PKA signaling is implicated in tumorigenesis. Recent genomic studies have identified recurrent mutations in the catalytic subunit of PKA in tumors associated with Cushing's syndrome, a kidney disorder leading to excessive cortisol production, and also in tumors associated with fibrolamellar hepatocellular carcinoma (FL-HCC), a rare liver cancer. Expression of a L205R point mutant and a DnaJ-PKA fusion protein were found to be linked to Cushing's syndrome and FL-HCC, respectively. Here we reveal contrasting mechanisms for increased PKA signaling at the molecular level through structural determination and biochemical characterization of the aberrant enzymes. In the Cushing's syndrome disorder, we find that the L205R mutation abolishes regulatory-subunit binding, leading to constitutive, cAMP-independent signaling. In FL-HCC, the DnaJ-PKA chimera remains under regulatory subunit control; however, its overexpression from the DnaJ promoter leads to enhanced cAMP-dependent signaling. Our findings provide a structural understanding of the two distinct disease mechanisms and they offer a basis for designing effective drugs for their treatment.",
+        "Keywords": [
+            "Cushing’s syndrome",
+            "cancer mutations",
+            "chimeric protein",
+            "fibrolamelllar hepatocellular carcinoma"
+        ],
+        "MeSH terms": [
+            "Catalytic Domain",
+            "Chromatography, Gel",
+            "Crystallization",
+            "Cyclic AMP-Dependent Protein Kinases",
+            "Dimerization",
+            "Humans",
+            "Models, Molecular",
+            "Mutation",
+            "Neoplasms",
+            "Protein Conformation",
+            "Surface Plasmon Resonance"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonah",
+                "Last Name": "Cheung",
+                "Affiliation": "New York Structural Biology Center, New York, NY 10027; jcheung@nysbc.org wayne@xtl.cumc.columbia.edu."
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Ginter",
+                "Affiliation": "New York Structural Biology Center, New York, NY 10027;"
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Cassidy",
+                "Affiliation": "New York Structural Biology Center, New York, NY 10027;"
+            },
+            {
+                "First Name": "Matthew C",
+                "Last Name": "Franklin",
+                "Affiliation": "New York Structural Biology Center, New York, NY 10027;"
+            },
+            {
+                "First Name": "Michael J",
+                "Last Name": "Rudolph",
+                "Affiliation": "New York Structural Biology Center, New York, NY 10027;"
+            },
+            {
+                "First Name": "Nicolas",
+                "Last Name": "Robine",
+                "Affiliation": "New York Genome Center, New York, NY 10013;"
+            },
+            {
+                "First Name": "Robert B",
+                "Last Name": "Darnell",
+                "Affiliation": "New York Genome Center, New York, NY 10013; Howard Hughes Medical Institute and Laboratory of Molecular Neuro-Oncology, The Rockefeller University, New York, NY 10021; and."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "New York Structural Biology Center, New York, NY 10027; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032 jcheung@nysbc.org wayne@xtl.cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25489088",
+        "Title": "Preassociated apocalmodulin mediates Ca2+-dependent sensitization of activation and inactivation of TMEM16A/16B Ca2+-gated Cl- channels.",
+        "Abstract": "Ca(2+)-activated chloride currents carried via transmembrane proteins TMEM16A and TMEM16B regulate diverse processes including mucus secretion, neuronal excitability, smooth muscle contraction, olfactory signal transduction, and cell proliferation. Understanding how TMEM16A/16B are regulated by Ca(2+) is critical for defining their (patho)/physiological roles and for rationally targeting them therapeutically. Here, using a bioengineering approach--channel inactivation induced by membrane-tethering of an associated protein (ChIMP)--we discovered that Ca(2+)-free calmodulin (apoCaM) is preassociated with TMEM16A/16B channel complexes. The resident apoCaM mediates two distinct Ca(2+)-dependent effects on TMEM16A, as revealed by expression of dominant-negative CaM1234. These effects are Ca(2+)-dependent sensitization of activation (CDSA) and Ca(2+)-dependent inactivation (CDI). CDI and CDSA are independently mediated by the N and C lobes of CaM, respectively. TMEM16A alternative splicing provides a mechanism for tuning apoCaM effects. Channels lacking splice segment b selectively lost CDI, and segment a is necessary for apoCaM preassociation with TMEM16A. The results reveal multidimensional regulation of TMEM16A/16B by preassociated apoCaM and introduce ChIMP as a versatile tool to probe the macromolecular complex and function of Ca(2+)-activated chloride channels.",
+        "Keywords": [
+            "TMEM16A",
+            "anoctamin1",
+            "calcium-activated chloride channel",
+            "calmodulin"
+        ],
+        "MeSH terms": [
+            "Anoctamin-1",
+            "Anoctamins",
+            "Calcium",
+            "Calmodulin",
+            "Chloride Channels",
+            "Humans",
+            "Ion Channel Gating",
+            "Membrane Proteins",
+            "Neoplasm Proteins",
+            "RNA Splicing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tingting",
+                "Last Name": "Yang",
+                "Affiliation": "Departments of Biochemistry and Molecular Biophysics and wayne@xtl.cumc.columbia.edu ty2190@columbia.edu hc2405@columbia.edu."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Departments of Biochemistry and Molecular Biophysics and Physiology and Cellular Biophysics, College of Physicians and Surgeons, Columbia University, New York, NY 10032 wayne@xtl.cumc.columbia.edu ty2190@columbia.edu hc2405@columbia.edu."
+            },
+            {
+                "First Name": "Henry M",
+                "Last Name": "Colecraft",
+                "Affiliation": "Physiology and Cellular Biophysics, College of Physicians and Surgeons, Columbia University, New York, NY 10032 wayne@xtl.cumc.columbia.edu ty2190@columbia.edu hc2405@columbia.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25324390",
+        "Title": "Structure and selectivity in bestrophin ion channels.",
+        "Abstract": "Human bestrophin-1 (hBest1) is a calcium-activated chloride channel from the retinal pigment epithelium, where mutations are associated with vitelliform macular degeneration, or Best disease. We describe the structure of a bacterial homolog (KpBest) of hBest1 and functional characterizations of both channels. KpBest is a pentamer that forms a five-helix transmembrane pore, closed by three rings of conserved hydrophobic residues, and has a cytoplasmic cavern with a restricted exit. From electrophysiological analysis of structure-inspired mutations in KpBest and hBest1, we find a sensitive control of ion selectivity in the bestrophins, including reversal of anion/cation selectivity, and dramatic activation by mutations at the cytoplasmic exit. A homology model of hBest1 shows the locations of disease-causing mutations and suggests possible roles in regulation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacterial Proteins",
+            "Bestrophins",
+            "Chloride Channels",
+            "Crystallography, X-Ray",
+            "Electric Conductivity",
+            "Eye Proteins",
+            "Humans",
+            "Klebsiella pneumoniae",
+            "Protein Conformation",
+            "Static Electricity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tingting",
+                "Last Name": "Yang",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Qun",
+                "Last Name": "Liu",
+                "Affiliation": "New York Structural Biology Center, Synchrotron Beamlines, Brookhaven National Laboratory, Upton, NY 11973, USA."
+            },
+            {
+                "First Name": "Brian",
+                "Last Name": "Kloss",
+                "Affiliation": "New York Consortium on Membrane Protein Structure, New York Structural Biology Center, 89 Convent Avenue, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Renato",
+                "Last Name": "Bruni",
+                "Affiliation": "New York Consortium on Membrane Protein Structure, New York Structural Biology Center, 89 Convent Avenue, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Ravi C",
+                "Last Name": "Kalathur",
+                "Affiliation": "New York Consortium on Membrane Protein Structure, New York Structural Biology Center, 89 Convent Avenue, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Youzhong",
+                "Last Name": "Guo",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Edda",
+                "Last Name": "Kloppmann",
+                "Affiliation": "New York Consortium on Membrane Protein Structure, New York Structural Biology Center, 89 Convent Avenue, New York, NY 10027, USA. Department of Informatics, Bioinformatics and Computational Biology, TUM (Technische Universität München), Garching 85748, Germany."
+            },
+            {
+                "First Name": "Burkhard",
+                "Last Name": "Rost",
+                "Affiliation": "New York Consortium on Membrane Protein Structure, New York Structural Biology Center, 89 Convent Avenue, New York, NY 10027, USA. Department of Informatics, Bioinformatics and Computational Biology, TUM (Technische Universität München), Garching 85748, Germany."
+            },
+            {
+                "First Name": "Henry M",
+                "Last Name": "Colecraft",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA. New York Structural Biology Center, Synchrotron Beamlines, Brookhaven National Laboratory, Upton, NY 11973, USA. New York Consortium on Membrane Protein Structure, New York Structural Biology Center, 89 Convent Avenue, New York, NY 10027, USA. Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA. wayne@xtl.cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25286840",
+        "Title": "Multi-crystal native SAD analysis at 6 keV.",
+        "Abstract": "Anomalous diffraction signals from typical native macromolecules are very weak, frustrating their use in de novo structure determination. Here, native SAD procedures are described to enhance signal to noise in anomalous diffraction by using multiple crystals in combination with synchrotron X-rays at 6 keV. Increased anomalous signals were obtained at 6 keV compared with 7 keV X-ray energy, which was used for previous native SAD analyses. A feasibility test of multi-crystal-based native SAD phasing was performed at 3.2 Å resolution for a known tyrosine protein kinase domain, and real-life applications were made to two novel membrane proteins at about 3.0 Å resolution. The three applications collectively serve to validate the robust feasibility of native SAD phasing at lower energy.",
+        "Keywords": [
+            "anomalous diffraction",
+            "light-atom-only native SAD",
+            "phase determination",
+            "protein structure"
+        ],
+        "MeSH terms": [
+            "Bacillus subtilis",
+            "Bacterial Proteins",
+            "Crystallography, X-Ray",
+            "ErbB Receptors",
+            "Humans",
+            "Listeria monocytogenes",
+            "Membrane Transport Proteins",
+            "Models, Molecular",
+            "Protein Conformation",
+            "Protein Structure, Tertiary",
+            "Reproducibility of Results",
+            "Synchrotrons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Qun",
+                "Last Name": "Liu",
+                "Affiliation": "NYCOMPS, New York Structural Biology Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Youzhong",
+                "Last Name": "Guo",
+                "Affiliation": "NYCOMPS, New York Structural Biology Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yanqi",
+                "Last Name": "Chang",
+                "Affiliation": "NYCOMPS, New York Structural Biology Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Zheng",
+                "Last Name": "Cai",
+                "Affiliation": "Department of Pathology and Laboratory Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA."
+            },
+            {
+                "First Name": "Zahra",
+                "Last Name": "Assur",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Filippo",
+                "Last Name": "Mancia",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Mark I",
+                "Last Name": "Greene",
+                "Affiliation": "Department of Pathology and Laboratory Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "NYCOMPS, New York Structural Biology Center, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Acta crystallographica. Section D, Biological crystallography",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24995510",
+        "Title": "Crystal structures of apparent saccharide sensors from histidine kinase receptors prevalent in a human gut symbiont.",
+        "Abstract": "The adult human gut is a complicated ecosystem in which host-bacterium symbiosis plays an important role. Bacteroides thetaiotaomicron is a predominant member of the gut microflora, providing the human digestive tract with a large number of glycolytic enzymes. Expression of many of these enzymes appears to be controlled by histidine kinase receptors that are fused into unusual hybrid two-component systems that share homologous periplasmic sensor domains. These sensor domains belong to the third most populated (HK3) family based on a previous unpublished bioinformatics analysis of predicted histidine kinase sensors. Here, we present the crystal structures of two sensor domains representative of the HK3 family. Each sensor is folded into three domains: two-seven-bladed β-propeller domains and one β-sandwich domain. Both sensors form dimers in crystals, and one sensor appears to be physiologically relevant. The folding characteristics in the individual domains, the domain organization, and the oligomeric architecture are all unique to HK3 sensors. Sequence analysis of the HK3 sensors indicates that these sensor domains are shared among other signaling molecules, implying combinatorial molecular evolution.",
+        "Keywords": [
+            "hybrid two-component system",
+            "saccharide sensing",
+            "signal transduction",
+            "β-propeller domain",
+            "β-sandwich domain"
+        ],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Bacterial Proteins",
+            "Bacteroides",
+            "Catalytic Domain",
+            "Crystallography, X-Ray",
+            "Histidine Kinase",
+            "Humans",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Monosaccharides",
+            "Protein Binding",
+            "Protein Kinases",
+            "Protein Multimerization",
+            "Protein Structure, Quaternary",
+            "Protein Structure, Secondary",
+            "Protein Structure, Tertiary",
+            "Symbiosis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zhen",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Qun",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The FEBS journal",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24726017",
+        "Title": "Anomalous diffraction in crystallographic phase evaluation.",
+        "Abstract": "X-ray diffraction patterns from crystals of biological macromolecules contain sufficient information to define atomic structures, but atomic positions are inextricable without having electron-density images. Diffraction measurements provide amplitudes, but the computation of electron density also requires phases for the diffracted waves. The resonance phenomenon known as anomalous scattering offers a powerful solution to this phase problem. Exploiting scattering resonances from diverse elements, the methods of MAD (multiwavelength anomalous diffraction) and SAD (single-wavelength anomalous diffraction) now predominate for de novo determinations of atomic-level biological structures. This review describes the physical underpinnings of anomalous diffraction methods, the evolution of these methods to their current maturity, the elements, procedures and instrumentation used for effective implementation, and the realm of applications.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Crystallography, X-Ray",
+            "Humans",
+            "Macromolecular Substances",
+            "Synchrotrons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, and Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Quarterly reviews of biophysics",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "23887424",
+        "Title": "Jerome Karle (1918-2013).",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Chemistry",
+            "Crystallography, X-Ray",
+            "History, 20th Century",
+            "History, 21st Century",
+            "Mathematics",
+            "Nobel Prize",
+            "United States"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Columbia University, New York, USA. wayne@xtl.cumc.columbia.edu"
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23793158",
+        "Title": "Robust structural analysis of native biological macromolecules from multi-crystal anomalous diffraction data.",
+        "Abstract": "Structure determinations for biological macromolecules that have no known structural antecedents typically involve the incorporation of heavier atoms than those found natively in biological molecules. Currently, selenomethionyl proteins analyzed using single- or multi-wavelength anomalous diffraction (SAD or MAD) data predominate for such de novo analyses. Naturally occurring metal ions such as zinc or iron often suffice in MAD or SAD experiments, and sulfur SAD has been an option since it was first demonstrated using crambin 30 years ago; however, SAD analyses of structures containing only light atoms (Zmax ≤ 20) have not been common. Here, robust procedures for enhancing the signal to noise in measurements of anomalous diffraction by combining data collected from several crystals at a lower than usual X-ray energy are described. This multi-crystal native SAD method was applied in five structure determinations, using between five and 13 crystals to determine substructures of between four and 52 anomalous scatterers (Z ≤ 20) and then the full structures ranging from 127 to 1200 ordered residues per asymmetric unit at resolutions from 2.3 to 2.8 Å. Tests were devised to assure that all of the crystals used were statistically equivalent. Elemental identities for Ca, Cl, S, P and Mg were proven by f'' scattering-factor refinements. The procedures are robust, indicating that truly routine structure determination of typical native macromolecules is realised. Synchrotron beamlines that are optimized for low-energy X-ray diffraction measurements will facilitate such direct structural analysis.",
+        "Keywords": [
+            "anomalous scattering",
+            "multiple crystals",
+            "phase determination",
+            "sulfur SAD"
+        ],
+        "MeSH terms": [
+            "Adenosine Triphosphate",
+            "Crystallography, X-Ray",
+            "Data Collection",
+            "Electronic Data Processing",
+            "Escherichia coli Proteins",
+            "GPI-Linked Proteins",
+            "HSP70 Heat-Shock Proteins",
+            "Humans",
+            "Macromolecular Substances",
+            "Membrane Transport Proteins",
+            "Models, Molecular",
+            "Nerve Tissue Proteins",
+            "Netrins",
+            "Protein Conformation",
+            "Selenomethionine",
+            "Synchrotrons"
+        ],
+        "Authors": [
+            {
+                "First Name": "Qun",
+                "Last Name": "Liu",
+                "Affiliation": "New York Structural Biology Center, NSLS X4, Building 725, Brookhaven National Laboratory, Upton, NY 11973, USA."
+            },
+            {
+                "First Name": "Qinglian",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Acta crystallographica. Section D, Biological crystallography",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23747111",
+        "Title": "Report of the wwPDB Small-Angle Scattering Task Force: data requirements for biomolecular modeling and the PDB.",
+        "Abstract": "This report presents the conclusions of the July 12-13, 2012 meeting of the Small-Angle Scattering Task Force of the worldwide Protein Data Bank (wwPDB; Berman et al., 2003) at Rutgers University in New Brunswick, New Jersey. The task force includes experts in small-angle scattering (SAS), crystallography, data archiving, and molecular modeling who met to consider questions regarding the contributions of SAS to modern structural biology. Recognizing there is a rapidly growing community of structural biology researchers acquiring and interpreting SAS data in terms of increasingly sophisticated molecular models, the task force recommends that (1) a global repository is needed that holds standard format X-ray and neutron SAS data that is searchable and freely accessible for download; (2) a standard dictionary is required for definitions of terms for data collection and for managing the SAS data repository; (3) options should be provided for including in the repository SAS-derived shape and atomistic models based on rigid-body refinement against SAS data along with specific information regarding the uniqueness and uncertainty of the model, and the protocol used to obtain it; (4) criteria need to be agreed upon for assessment of the quality of deposited SAS data and the accuracy of SAS-derived models, and the extent to which a given model fits the SAS data; (5) with the increasing diversity of structural biology data and models being generated, archiving options for models derived from diverse data will be required; and (6) thought leaders from the various structural biology disciplines should jointly define what to archive in the PDB and what complementary archives might be needed, taking into account both scientific needs and funding.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Databases, Protein",
+            "Models, Molecular",
+            "Protein Conformation",
+            "Proteins",
+            "Scattering, Small Angle"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jill",
+                "Last Name": "Trewhella",
+                "Affiliation": "School of Molecular Bioscience, The University of Sydney, NSW 2006, Australia. jill.trewhella@sydney.edu.au"
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gerard J",
+                "Last Name": "Kleywegt",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrej",
+                "Last Name": "Sali",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mamoru",
+                "Last Name": "Sato",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Torsten",
+                "Last Name": "Schwede",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dmitri I",
+                "Last Name": "Svergun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John A",
+                "Last Name": "Tainer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Westbrook",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Helen M",
+                "Last Name": "Berman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Structure (London, England : 1993)",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23300605",
+        "Title": "Structural plasticity and conformational transitions of HIV envelope glycoprotein gp120.",
+        "Abstract": "HIV envelope glycoproteins undergo large-scale conformational changes as they interact with cellular receptors to cause the fusion of viral and cellular membranes that permits viral entry to infect targeted cells. Conformational dynamics in HIV gp120 are also important in masking conserved receptor epitopes from being detected for effective neutralization by the human immune system. Crystal structures of HIV gp120 and its complexes with receptors and antibody fragments provide high-resolution pictures of selected conformational states accessible to gp120. Here we describe systematic computational analyses of HIV gp120 plasticity in such complexes with CD4 binding fragments, CD4 mimetic proteins, and various antibody fragments. We used three computational approaches: an isotropic elastic network analysis of conformational plasticity, a full atomic normal mode analysis, and simulation of conformational transitions with our coarse-grained virtual atom molecular mechanics (VAMM) potential function. We observe collective sub-domain motions about hinge points that coordinate those motions, correlated local fluctuations at the interfacial cavity formed when gp120 binds to CD4, and concerted changes in structural elements that form at the CD4 interface during large-scale conformational transitions to the CD4-bound state from the deformed states of gp120 in certain antibody complexes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Antibodies, Neutralizing",
+            "CD4 Antigens",
+            "Computer Simulation",
+            "Epitopes",
+            "HIV Antibodies",
+            "HIV Envelope Protein gp120",
+            "HIV-1",
+            "Humans",
+            "Models, Molecular",
+            "Protein Binding",
+            "Protein Conformation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anil",
+                "Last Name": "Korkut",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "23250061",
+        "Title": "Evolution of diffraction methods for solving crystal structures.",
+        "Abstract": "The discovery of X-ray diffraction in 1912 by Laue and co-workers had important implications for the physics of diffraction, for the nature of X-radiation and for the structure of matter. Lawrence Bragg made important contributions to early developments in each of these areas, but the most pregnant of his innovations was in structure determination from X-ray diffraction data. He continued to make highly significant contributions to structure determination right on to the first crystal structures of proteins. Crystallography has made substantial contributions to chemistry and biology, and notably so for biological macromolecules.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA. wayne@xtl.cumc.columbia.edu"
+            }
+        ],
+        "Journal": "Acta crystallographica. Section A, Foundations of crystallography",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "22736269",
+        "Title": "Structure and design of broadly-neutralizing antibodies against HIV.",
+        "Abstract": "Since the discovery more than 30 years ago of human immunodeficiency virus (HIV) as the causative agent of the deadly disease, acquired immune deficiency disease (AIDS), there have been no efficient vaccines against the virus. For the infection of the virus, the HIV surface glycoprotein gp120 first recognizes the CD4 receptor on the target helper T-cell, which initiates HIV fusion with the target cell and, if unchecked, leads to destruction of the patient's immune system. Despite the difficulty of developing appropriate immune responses in HIV-infected individuals, patient sera often contain antibodies that have broad neutralization activity, indicating the possibility of immunological treatment and prevention. Recently, through extensive structural studies of neutralizing antibodies of HIV in complex with gp120, the critical mechanisms of broad neutralization against HIV have been elucidated. Based on these discoveries, the structure-aided designs of antibodies and novel scaffolds were performed to create extremely potent neutralizing antibodies against HIV. These new discoveries and advances shed light on the road to development of efficient immunological therapies against AIDS.",
+        "Keywords": [],
+        "MeSH terms": [
+            "AIDS Vaccines",
+            "Antibodies, Neutralizing",
+            "Binding Sites",
+            "CD4 Antigens",
+            "Drug Design",
+            "HIV",
+            "HIV Antibodies",
+            "HIV Envelope Protein gp120",
+            "Humans",
+            "Protein Conformation",
+            "Structure-Activity Relationship"
+        ],
+        "Authors": [
+            {
+                "First Name": "Seong Eon",
+                "Last Name": "Ryu",
+                "Affiliation": "Department of Bioengineering, College of Engineering, Hanyang University, Seoul, 133-070, Korea. ryuse@hanyang.ac.kr"
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecules and cells",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22628655",
+        "Title": "Structures from anomalous diffraction of native biological macromolecules.",
+        "Abstract": "Crystal structure analyses for biological macromolecules without known structural relatives entail solving the crystallographic phase problem. Typical de novo phase evaluations depend on incorporating heavier atoms than those found natively; most commonly, multi- or single-wavelength anomalous diffraction (MAD or SAD) experiments exploit selenomethionyl proteins. Here, we realize routine structure determination using intrinsic anomalous scattering from native macromolecules. We devised robust procedures for enhancing the signal-to-noise ratio in the slight anomalous scattering from generic native structures by combining data measured from multiple crystals at lower-than-usual x-ray energy. Using this multicrystal SAD method (5 to 13 equivalent crystals), we determined structures at modest resolution (2.8 to 2.3 angstroms) for native proteins varying in size (127 to 1148 unique residues) and number of sulfur sites (3 to 28). With no requirement for heavy-atom incorporation, such experiments provide an attractive alternative to selenomethionyl SAD experiments.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacterial Proteins",
+            "Crystallography, X-Ray",
+            "Data Interpretation, Statistical",
+            "GPI-Linked Proteins",
+            "Histidine Kinase",
+            "Models, Molecular",
+            "Nerve Tissue Proteins",
+            "Netrins",
+            "Protein Conformation",
+            "Protein Kinases",
+            "Protein Structure, Tertiary",
+            "Proteins",
+            "Selenomethionine",
+            "Signal-To-Noise Ratio",
+            "Sulfur",
+            "X-Ray Diffraction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Qun",
+                "Last Name": "Liu",
+                "Affiliation": "New York Structural Biology Center, National Synchrotron Light Source (NSLS) X4, Brookhaven National Laboratory, Upton, NY 11973, USA."
+            },
+            {
+                "First Name": "Tassadite",
+                "Last Name": "Dahmane",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zhen",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zahra",
+                "Last Name": "Assur",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Brasch",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lawrence",
+                "Last Name": "Shapiro",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Filippo",
+                "Last Name": "Mancia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22483119",
+        "Title": "An asymmetry-to-symmetry switch in signal transmission by the histidine kinase receptor for TMAO.",
+        "Abstract": "The osmoregulator trimethylamine-N-oxide (TMAO), commonplace in aquatic organisms, is used as the terminal electron acceptor for respiration in many bacterial species. The TMAO reductase (Tor) pathway for respiratory catalysis is controlled by a receptor system that comprises the TMAO-binding protein TorT, the sensor histidine kinase TorS, and the response regulator TorR. Here we study the TorS/TorT sensor system to gain mechanistic insight into signaling by histidine kinase receptors. We determined crystal structures for complexes of TorS sensor domains with apo TorT and with TorT (TMAO); we characterized TorS sensor associations with TorT in solution; we analyzed the thermodynamics of TMAO binding to TorT-TorS complexes; and we analyzed in vivo responses to TMAO through the TorT/TorS/TorR system to test structure-inspired hypotheses. TorS-TorT(apo) is an asymmetric 2:2 complex that binds TMAO with negative cooperativity to form a symmetric active kinase.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Binding Sites",
+            "Crystallography, X-Ray",
+            "Escherichia coli",
+            "Escherichia coli Proteins",
+            "Kinetics",
+            "Methylamines",
+            "Models, Molecular",
+            "Oxidoreductases, N-Demethylating",
+            "Periplasmic Proteins",
+            "Phosphotransferases",
+            "Protein Binding",
+            "Protein Structure, Secondary",
+            "Protein Structure, Tertiary",
+            "Recombinant Proteins",
+            "Signal Transduction",
+            "Solutions",
+            "Thermodynamics",
+            "Transcription Factors",
+            "Vibrio parahaemolyticus"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jason O",
+                "Last Name": "Moore",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Structure (London, England : 1993)",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22401542",
+        "Title": "Definitive answers. Interview by Kristie Nybo.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Crystallography, X-Ray",
+            "Protein Binding",
+            "Protein Conformation",
+            "Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BioTechniques",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21987254",
+        "Title": "Tools for coproducing multiple proteins in mammalian cells.",
+        "Abstract": "Structural and functional studies of many mammalian systems are critically dependent on abundant supplies of recombinant multiprotein complexes. Mammalian cells are often the most ideal, if not the only suitable host for such experiments. This is due to their intrinsic capability to generate functional mammalian proteins. This advantage is frequently countered by problems with yields in expression, time required to generate overexpressing lines, and elevated costs. Coexpression of multiple proteins adds another level of complexity to these experiments, as cells need to be screened and selected for expression of suitable levels of each component. Here, we present an efficient fluorescence marking procedure for establishing stable cell lines that overexpress two proteins in coordination, and we validate the method in the production of recombinant monoclonal antibody Fab fragments. This procedure may readily be expanded to systems of greater complexity, comprising more than two components.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Antibodies, Monoclonal",
+            "Cell Culture Techniques",
+            "Cloning, Molecular",
+            "Flow Cytometry",
+            "Genetic Engineering",
+            "Genetic Vectors",
+            "HEK293 Cells",
+            "Humans",
+            "Immunoglobulin Fab Fragments",
+            "Recombinant Proteins",
+            "Transfection"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zahra",
+                "Last Name": "Assur",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Filippo",
+                "Last Name": "Mancia",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Methods in molecular biology (Clifton, N.J.)",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21795039",
+        "Title": "What is 'current opinion' in structural biology?",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Biology",
+            "History, 20th Century",
+            "History, 21st Century",
+            "Journal Impact Factor",
+            "Periodicals as Topic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tom L",
+                "Last Name": "Blundell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current opinion in structural biology",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21397184",
+        "Title": "Structural characterization of the Boca/Mesd maturation factors for LDL-receptor-type β propeller domains.",
+        "Abstract": "Folding and trafficking of low-density lipoprotein receptor (LDLR) family members, which play essential roles in development and homeostasis, are mediated by specific chaperones. The Boca/Mesd chaperone family specifically promotes folding and trafficking of the YWTD β propeller-EGF domain pair found in the ectodomain of all LDLR members. Limited proteolysis, NMR spectroscopy, analytical ultracentrifugation, and X-ray crystallography were used to define a conserved core composed of a structured domain that is preceded by a disordered N-terminal region. High-resolution structures of the ordered domain were determined for homologous proteins from three metazoans. Seven independent protomers reveal a novel ferrodoxin-like superfamily fold with two distinct β sheet topologies. A conserved hydrophobic surface forms a dimer interface in each crystal, but these differ substantially at the atomic level, indicative of nonspecific hydrophobic interactions that may play a role in the chaperone activity of the Boca/Mesd family.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Animals",
+            "Caenorhabditis elegans",
+            "Crystallography, X-Ray",
+            "Drosophila Proteins",
+            "Drosophila melanogaster",
+            "Epidermal Growth Factor",
+            "Escherichia coli",
+            "Ferredoxins",
+            "Humans",
+            "Hydrophobic and Hydrophilic Interactions",
+            "Magnetic Resonance Spectroscopy",
+            "Mice",
+            "Models, Molecular",
+            "Molecular Chaperones",
+            "Molecular Sequence Data",
+            "Protein Binding",
+            "Protein Folding",
+            "Protein Isoforms",
+            "Protein Structure, Secondary",
+            "Protein Structure, Tertiary",
+            "Protein Transport",
+            "Receptors, LDL",
+            "Recombinant Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mark N",
+                "Last Name": "Collins",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Structure (London, England : 1993)",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21262232",
+        "Title": "Structural analysis of protein folding by the long-chain archaeal chaperone FKBP26.",
+        "Abstract": "In the cell, protein folding is mediated by folding catalysts and chaperones. The two functions are often linked, especially when the catalytic module forms part of a multidomain protein, as in Methanococcus jannaschii peptidyl-prolyl cis/trans isomerase FKBP26. Here, we show that FKBP26 chaperone activity requires both a 50-residue insertion in the catalytic FKBP domain, also called 'Insert-in-Flap' or IF domain, and an 80-residue C-terminal domain. We determined FKBP26 structures from four crystal forms and analyzed chaperone domains in light of their ability to mediate protein-protein interactions. FKBP26 is a crescent-shaped homodimer. We reason that folding proteins are bound inside the large crescent cleft, thus enabling their access to inward-facing peptidyl-prolyl cis/trans isomerase catalytic sites and ipsilateral chaperone domain surfaces. As these chaperone surfaces participate extensively in crystal lattice contacts, we speculate that the observed lattice contacts reflect a proclivity for protein associations and represent substrate interactions by FKBP26 chaperone domains. Finally, we find that FKBP26 is an exceptionally flexible molecule, suggesting a mechanism for nonspecific substrate recognition.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Archaeal Proteins",
+            "Binding Sites",
+            "Catalysis",
+            "Methanococcus",
+            "Models, Molecular",
+            "Molecular Chaperones",
+            "Peptidylprolyl Isomerase",
+            "Protein Folding",
+            "Protein Structure, Tertiary",
+            "Surface Properties"
+        ],
+        "Authors": [
+            {
+                "First Name": "Erik",
+                "Last Name": "Martinez-Hackert",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of molecular biology",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21206061",
+        "Title": "Multi-crystal anomalous diffraction for low-resolution macromolecular phasing.",
+        "Abstract": "Multiwavelength anomalous diffraction (MAD) and single-wavelength anomalous diffraction (SAD) are the two most commonly used methods for de novo determination of macromolecular structures. Both methods rely on the accurate extraction of anomalous signals; however, because of factors such as poor intrinsic order, radiation damage, inadequate anomalous scatterers, poor diffraction quality and other noise-causing factors, the anomalous signal from a single crystal is not always good enough for structure solution. In this study, procedures for extracting more accurate anomalous signals by merging data from multiple crystals are devised and tested. SAD phasing tests were made with a relatively large (1456 ordered residues) poorly diffracting (d(min) = 3.5 Å) selenomethionyl protein (20 Se). It is quantified that the anomalous signal, success in substructure determination and accuracy of phases and electron-density maps all improve with an increase in the number of crystals used in merging. Structure solutions are possible when no single crystal can support structural analysis. It is proposed that such multi-crystal strategies may be broadly useful when only weak anomalous signals are available.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacteroides",
+            "Crystallography, X-Ray",
+            "Models, Molecular",
+            "Protein Structure, Tertiary",
+            "Selenoproteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Qun",
+                "Last Name": "Liu",
+                "Affiliation": "New York Structural Biology Center, Upton, 11973, USA."
+            },
+            {
+                "First Name": "Zhen",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Acta crystallographica. Section D, Biological crystallography",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21183075",
+        "Title": "Essential role of coiled coils for aggregation and activity of Q/N-rich prions and PolyQ proteins.",
+        "Abstract": "The functional switch of glutamine/asparagine (Q/N)-rich prions and the neurotoxicity of polyQ-expanded proteins involve complex aggregation-prone structural transitions, commonly presumed to be forming β sheets. By analyzing sequences of interaction partners of these proteins, we discovered a recurrent presence of coiled-coil domains both in the partners and in segments that flank or overlap Q/N-rich and polyQ domains. Since coiled coils can mediate protein interactions and multimerization, we studied their possible involvement in Q/N-rich and polyQ aggregations. Using circular dichroism and chemical crosslinking, we found that Q/N-rich and polyQ peptides form α-helical coiled coils in vitro and assemble into multimers. Using structure-guided mutagenesis, we found that coiled-coil domains modulate in vivo properties of two Q/N-rich prions and polyQ-expanded huntingtin. Mutations that disrupt coiled coils impair aggregation and activity, whereas mutations that enhance coiled-coil propensity promote aggregation. These findings support a coiled-coil model for the functional switch of Q/N-rich prions and for the pathogenesis of polyQ-expansion diseases.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Animals",
+            "Aplysia",
+            "Circular Dichroism",
+            "Glutathione Peroxidase",
+            "Huntingtin Protein",
+            "Molecular Sequence Data",
+            "Nerve Tissue Proteins",
+            "Nuclear Proteins",
+            "Peptides",
+            "Prions",
+            "Protein Structure, Secondary",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ferdinando",
+                "Last Name": "Fiumara",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Luana",
+                "Last Name": "Fioriti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric R",
+                "Last Name": "Kandel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20981093",
+        "Title": "Homologue structure of the SLAC1 anion channel for closing stomata in leaves.",
+        "Abstract": "The plant SLAC1 anion channel controls turgor pressure in the aperture-defining guard cells of plant stomata, thereby regulating the exchange of water vapour and photosynthetic gases in response to environmental signals such as drought or high levels of carbon dioxide. Here we determine the crystal structure of a bacterial homologue (Haemophilus influenzae) of SLAC1 at 1.20 Å resolution, and use structure-inspired mutagenesis to analyse the conductance properties of SLAC1 channels. SLAC1 is a symmetrical trimer composed from quasi-symmetrical subunits, each having ten transmembrane helices arranged from helical hairpin pairs to form a central five-helix transmembrane pore that is gated by an extremely conserved phenylalanine residue. Conformational features indicate a mechanism for control of gating by kinase activation, and electrostatic features of the pore coupled with electrophysiological characteristics indicate that selectivity among different anions is largely a function of the energetic cost of ion dehydration.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Animals",
+            "Arabidopsis",
+            "Arabidopsis Proteins",
+            "Bacterial Proteins",
+            "Crystallography, X-Ray",
+            "Electric Conductivity",
+            "Haemophilus influenzae",
+            "Ion Channel Gating",
+            "Membrane Proteins",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Oocytes",
+            "Phenylalanine",
+            "Plant Stomata",
+            "Static Electricity",
+            "Structural Homology, Protein",
+            "Substrate Specificity",
+            "Xenopus laevis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yu-Hang",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Lei",
+                "Last Name": "Hu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marco",
+                "Last Name": "Punta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Renato",
+                "Last Name": "Bruni",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brandan",
+                "Last Name": "Hillerich",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brian",
+                "Last Name": "Kloss",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Burkhard",
+                "Last Name": "Rost",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Love",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steven A",
+                "Last Name": "Siegelbaum",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20858543",
+        "Title": "Large-scale production of a disulfide-stabilized constitutively active mutant opsin.",
+        "Abstract": "Previous studies of constitutively activated mutants of opsin in the absence of chromophore were carried out in crude cell membranes because such mutants could not be recovered in a detergent-solubilized form in the active state. We employed a strategy in which a stabilizing disulfide bond allowed for successful purification of a constitutively activated mutant opsin, N2C/E113Q/M257Y/D282C, solubilized in nonionic detergent from mammalian cell culture. The purified mutant opsin is able to activate transducin to a higher degree than opsin and may prove useful for future structural studies of the active state of GPCRs.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cattle",
+            "Cell Line",
+            "Cloning, Molecular",
+            "Cysteine",
+            "Detergents",
+            "Disulfides",
+            "Humans",
+            "Mutagenesis, Site-Directed",
+            "Opsins",
+            "Protein Stability",
+            "Recombinant Proteins",
+            "Retinaldehyde",
+            "Signal Transduction",
+            "Transducin"
+        ],
+        "Authors": [
+            {
+                "First Name": "K Christopher",
+                "Last Name": "Min",
+                "Affiliation": "Department of Neurology, Columbia University, New York, NY 10032, USA. km369@columbia.edu"
+            },
+            {
+                "First Name": "Yan",
+                "Last Name": "Jin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Protein expression and purification",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "20690043",
+        "Title": "The New York Consortium on Membrane Protein Structure (NYCOMPS): a high-throughput platform for structural genomics of integral membrane proteins.",
+        "Abstract": "The New York Consortium on Membrane Protein Structure (NYCOMPS) was formed to accelerate the acquisition of structural information on membrane proteins by applying a structural genomics approach. NYCOMPS comprises a bioinformatics group, a centralized facility operating a high-throughput cloning and screening pipeline, a set of associated wet labs that perform high-level protein production and structure determination by x-ray crystallography and NMR, and a set of investigators focused on methods development. In the first three years of operation, the NYCOMPS pipeline has so far produced and screened 7,250 expression constructs for 8,045 target proteins. Approximately 600 of these verified targets were scaled up to levels required for structural studies, so far yielding 24 membrane protein crystals. Here we describe the overall structure of NYCOMPS and provide details on the high-throughput pipeline.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cells, Cultured",
+            "Computational Biology",
+            "Crystallography, X-Ray",
+            "Genome",
+            "Genomics",
+            "Membrane Proteins",
+            "New York",
+            "Protein Structure, Secondary"
+        ],
+        "Authors": [
+            {
+                "First Name": "James",
+                "Last Name": "Love",
+                "Affiliation": "New York Structural Biology Center, New York, 10027, USA."
+            },
+            {
+                "First Name": "Filippo",
+                "Last Name": "Mancia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lawrence",
+                "Last Name": "Shapiro",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marco",
+                "Last Name": "Punta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Burkhard",
+                "Last Name": "Rost",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Girvin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Da-Neng",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ming",
+                "Last Name": "Zhou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John F",
+                "Last Name": "Hunt",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Szyperski",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Gouaux",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roderick",
+                "Last Name": "MacKinnon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ann",
+                "Last Name": "McDermott",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Barry",
+                "Last Name": "Honig",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Masayori",
+                "Last Name": "Inouye",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gaetano",
+                "Last Name": "Montelione",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural and functional genomics",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20435045",
+        "Title": "Structural characterization of the predominant family of histidine kinase sensor domains.",
+        "Abstract": "Histidine kinase (HK) receptors are used ubiquitously by bacteria to monitor environmental changes, and they are also prevalent in plants, fungi, and other protists. Typical HK receptors have an extracellular sensor portion that detects a signal, usually a chemical ligand, and an intracellular transmitter portion that includes both the kinase domain itself and the site for histidine phosphorylation. While kinase domains are highly conserved, sensor domains are diverse. HK receptors function as dimers, but the molecular mechanism for signal transduction across cell membranes remains obscure. In this study, eight crystal structures were determined from five sensor domains representative of the most populated family, family HK1, found in a bioinformatic analysis of predicted sensor domains from transmembrane HKs. Each structure contains an inserted repeat of PhoQ/DcuS/CitA (PDC) domains, and similarity between sequence and structure is correlated across these and other double-PDC sensor proteins. Three of the five sensors crystallize as dimers that appear to be physiologically relevant, and comparisons between ligated structures and apo-state structures provide insights into signal transmission. Some HK1 family proteins prove to be sensors for chemotaxis proteins or diguanylate cyclase receptors, implying a combinatorial molecular evolution.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Crystallography, X-Ray",
+            "Dimerization",
+            "Histidine Kinase",
+            "Methanosarcina",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Protein Conformation",
+            "Protein Kinases",
+            "Protein Structure, Quaternary",
+            "Protein Structure, Secondary",
+            "Protein Structure, Tertiary",
+            "Rhodopseudomonas",
+            "Sequence Alignment",
+            "Shewanella",
+            "Vibrio parahaemolyticus"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zhen",
+                "Last Name": "Zhang",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of molecular biology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20223701",
+        "Title": "Sensor domains of two-component regulatory systems.",
+        "Abstract": "Two-component systems regulate crucial cellular processes in microorganisms, and each comprises a homodimeric histidine kinase receptor and a cytoplasmic response regulator. Histidine kinases, often membrane associated, detect environmental input at sensor domains and propagate resulting signals to catalytic cytoplasmic transmitter domains. Recent studies on the great diversity of sensor domains reveal patterns of domain organization and biochemical properties that provide insight into mechanisms of signaling. Despite the enormous sequence variability found within sensor input domains, they fall into a relatively small number of discrete structural classes. Subtle rearrangements along a structurally labile dimer interface, in the form of possible sliding or rotational motions, are propagated from the sensor domain to the transmitter domain to modulate activity of the receptor.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacteria",
+            "Bacterial Proteins",
+            "Catalytic Domain",
+            "Gene Expression Regulation, Bacterial",
+            "Histidine Kinase",
+            "Models, Molecular",
+            "Protein Kinases",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonah",
+                "Last Name": "Cheung",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current opinion in microbiology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19748340",
+        "Title": "Structural analysis of sensor domains from the TMAO-responsive histidine kinase receptor TorS.",
+        "Abstract": "Histidine kinase receptors respond to diverse signals and mediate signal transduction across the plasma membrane in all prokaryotes and certain eukaryotes. Each receptor is part of a two-component system that regulates a particular cellular process. Organisms that use trimethylamine-N-oxide (TMAO) as a terminal electron acceptor typically control their anaerobic respiration through the TMAO reductase (Tor) pathway, which the TorS histidine kinase activates when sensing TMAO in the environment. We have determined crystal structures for the periplasmic sensor domains of TorS receptors from Escherichia coli and Vibrio parahaemolyticus. TorS sensor domains have a novel fold consisting of a membrane-proximal right-handed four-helical bundle and a membrane-distal left-handed four-helical bundle, but conformational dispositions differ significantly in the two structures. Isolated TorS sensor domains dimerize in solution; and from comparisons with dimeric NarX and Tar sensors, we postulate that signaling through TorS dimers involves a piston-type displacement between helices.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Crystallization",
+            "Dimerization",
+            "Escherichia coli",
+            "Escherichia coli Proteins",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Phosphotransferases",
+            "Protein Conformation",
+            "Sequence Homology, Amino Acid",
+            "Vibrio parahaemolyticus"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jason O",
+                "Last Name": "Moore",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Structure (London, England : 1993)",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19737520",
+        "Title": "Promiscuous substrate recognition in folding and assembly activities of the trigger factor chaperone.",
+        "Abstract": "Trigger factor (TF) is a molecular chaperone that binds to bacterial ribosomes where it contacts emerging nascent chains, but TF is also abundant free in the cytosol where its activity is less well characterized. In vitro studies show that TF promotes protein refolding. We find here that ribosome-free TF stably associates with and rescues from misfolding a large repertoire of full-length proteins. We identify over 170 members of this cytosolic Escherichia coli TF substrate proteome, including ribosomal protein S7. We analyzed the biochemical properties of a TF:S7 complex from Thermotoga maritima and determined its crystal structure. Thereby, we obtained an atomic-level picture of a promiscuous chaperone in complex with a physiological substrate protein. The structure of the complex reveals the molecular basis of substrate recognition by TF, indicates how TF could accelerate protein folding, and suggests a role for TF in the biogenesis of protein complexes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacterial Proteins",
+            "Crystallography, X-Ray",
+            "Escherichia coli",
+            "Escherichia coli Proteins",
+            "Models, Molecular",
+            "Molecular Chaperones",
+            "Peptidylprolyl Isomerase",
+            "Protein Folding",
+            "Proteome",
+            "Ribosomal Proteins",
+            "Thermotoga maritima"
+        ],
+        "Authors": [
+            {
+                "First Name": "Erik",
+                "Last Name": "Martinez-Hackert",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19717427",
+        "Title": "A force field for virtual atom molecular mechanics of proteins.",
+        "Abstract": "Activities of many biological macromolecules involve large conformational transitions for which crystallography can specify atomic details of alternative end states, but the course of transitions is often beyond the reach of computations based on full-atomic potential functions. We have developed a coarse-grained force field for molecular mechanics calculations based on the virtual interactions of C alpha atoms in protein molecules. This force field is parameterized based on the statistical distribution of the energy terms extracted from crystallographic data, and it is formulated to capture features dependent on secondary structure and on residue-specific contact information. The resulting force field is applied to energy minimization and normal mode analysis of several proteins. We find robust convergence in minimizations to low energies and energy gradients with low degrees of structural distortion, and atomic fluctuations calculated from the normal mode analyses correlate well with the experimental B-factors obtained from high-resolution crystal structures. These findings suggest that the virtual atom force field is a suitable tool for various molecular mechanics applications on large macromolecular systems undergoing large conformational changes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biomechanical Phenomena",
+            "Biophysical Phenomena",
+            "Crystallography, X-Ray",
+            "Multiprotein Complexes",
+            "Protein Conformation",
+            "Proteins",
+            "Thermodynamics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anil",
+                "Last Name": "Korkut",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19706894",
+        "Title": "Computation of conformational transitions in proteins by virtual atom molecular mechanics as validated in application to adenylate kinase.",
+        "Abstract": "Many proteins function through conformational transitions between structurally disparate states, and there is a need to explore transition pathways between experimentally accessible states by computation. The sizes of systems of interest and the scale of conformational changes are often beyond the scope of full atomic models, but appropriate coarse-grained approaches can capture significant features. We have designed a comprehensive knowledge-based potential function based on a C alpha representation for proteins that we call the virtual atom molecular mechanics (VAMM) force field. Here, we describe an algorithm for using the VAMM potential to describe conformational transitions, and we validate this algorithm in application to a transition between open and closed states of adenylate kinase (ADK). The VAMM algorithm computes normal modes for each state and iteratively moves each structure toward the other through a series of intermediates. The move from each side at each step is taken along that normal mode showing greatest engagement with the other state. The process continues to convergence of terminal intermediates to within a defined limit--here, a root-mean-square deviation of 1 A. Validations show that the VAMM algorithm is highly effective, and the transition pathways examined for ADK are compatible with other structural and biophysical information. We expect that the VAMM algorithm can address many biological systems.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adenylate Kinase",
+            "Algorithms",
+            "Biophysical Phenomena",
+            "Crystallography, X-Ray",
+            "Models, Molecular",
+            "Protein Conformation",
+            "Thermodynamics",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anil",
+                "Last Name": "Korkut",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19544572",
+        "Title": "Crystal structure of a histidine kinase sensor domain with similarity to periplasmic binding proteins.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Bacterial Proteins",
+            "Crystallography, X-Ray",
+            "Geobacter",
+            "Histidine Kinase",
+            "Molecular Sequence Data",
+            "Periplasmic Binding Proteins",
+            "Protein Kinases",
+            "Protein Structure, Secondary",
+            "Protein Structure, Tertiary",
+            "Sequence Homology, Amino Acid",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonah",
+                "Last Name": "Cheung",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Le-Khac",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proteins",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19217390",
+        "Title": "Structural analysis of ligand stimulation of the histidine kinase NarX.",
+        "Abstract": "Histidine kinase receptors are a large family of membrane-spanning proteins found in many prokaryotes and some eukaryotes. They are a part of two-component signal transduction systems, which each comprise a sensor kinase and a response regulator and are involved with the regulation of many cellular processes. NarX is a histidine kinase receptor that responds to nitrate and nitrite to effect regulation of anaerobic respiration in various bacteria. We present high-resolution X-ray crystal structures of the periplasmic sensor domain from Escherichia coli NarX in a complex with nitrate and in the apo state. Our analysis reveals that nitrate-binding induces conformation changes that result in a piston-type displacement between the N- and C-terminal helices of the periplasmic domain. Such conformational changes might represent a conserved mechanism of signaling in histidine kinases by which ligand binding is communicated across the lipid bilayer.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Binding Sites",
+            "Crystallography, X-Ray",
+            "Enzyme Activation",
+            "Escherichia coli",
+            "Escherichia coli Proteins",
+            "Histidine Kinase",
+            "Ligands",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Nitrates",
+            "Protein Folding",
+            "Protein Kinases",
+            "Protein Multimerization",
+            "Protein Structure, Quaternary",
+            "Protein Structure, Tertiary",
+            "Sequence Homology, Amino Acid"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonah",
+                "Last Name": "Cheung",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Structure (London, England : 1993)",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18701447",
+        "Title": "Crystal structures of C4-dicarboxylate ligand complexes with sensor domains of histidine kinases DcuS and DctB.",
+        "Abstract": "Two-component signaling systems allow bacteria to adapt to changing environments. Typically, a chemical or other stimulus is detected by the periplasmic sensor domain of a transmembrane histidine kinase sensor, which in turn relays a signal through a phosphotransfer cascade to the cognate cytoplasmic response regulator. Such systems lead ultimately to changes in gene expression or cell motility. Mechanisms of ligand binding and signal transduction through the cell membrane in histidine kinases are not fully understood. In an effort to further understand such processes, we have solved the crystal structures of the periplasmic sensor domains of Escherichia coli DcuS and of Vibrio cholerae DctB in complex with the respective cognate ligands, malate and succinate. Both proteins are involved in the regulation of the transport and metabolism of C(4)-dicarboxylates, but they are not highly related by sequence similarity. Our work reveals that despite disparate sizes, both structures contain a similar characteristic alpha/beta PDC (PhoQ-DcuS-CitA) sensor-domain fold and display similar modes of ligand binding, suggesting similar mechanisms of function.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Carboxylic Acids",
+            "Cloning, Molecular",
+            "Crystallography, X-Ray",
+            "Escherichia coli",
+            "Escherichia coli Proteins",
+            "Histidine Kinase",
+            "Ligands",
+            "Models, Biological",
+            "Molecular Sequence Data",
+            "Protein Binding",
+            "Protein Kinases",
+            "Protein Structure, Tertiary",
+            "Sequence Homology, Amino Acid",
+            "Vibrio cholerae",
+            "X-Ray Diffraction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jonah",
+                "Last Name": "Cheung",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of biological chemistry",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18682216",
+        "Title": "Exchange we can believe in.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Cytoplasm",
+            "Eukaryotic Cells",
+            "HSP110 Heat-Shock Proteins",
+            "HSP70 Heat-Shock Proteins",
+            "Molecular Sequence Data",
+            "Multiprotein Complexes",
+            "Nucleotides",
+            "Protein Conformation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Qinglian",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Structure (London, England : 1993)",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18344975",
+        "Title": "Ligand sensitivity in dimeric associations of the serotonin 5HT2c receptor.",
+        "Abstract": "G-protein-coupled receptors (GPCRs) respond to external stimuli by activating heterotrimeric G proteins inside the cell. There is increasing evidence that many GPCRs exist as dimers or higher oligomers, but the biochemical nature of such dimers and what roles they have, if any, in signal transduction remains unclear. We conducted a comprehensive study of dimerization of the 5HT2c serotonin receptor using disulphide-trapping experiments. We found a dimer interface between transmembrane (TM) helices IV and V that is markedly sensitive to the state of receptor activation. This dimer seems to be quasisymmetrical in interfacial geometry and asymmetrical in its association with its cognate G alpha protein. We also found a second interface at TM I helices, which is insensitive to the state of activation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Line",
+            "Cysteine",
+            "Dimerization",
+            "Humans",
+            "Immunoblotting",
+            "Immunoprecipitation",
+            "Ligands",
+            "Models, Molecular",
+            "Mutagenesis",
+            "Protein Structure, Tertiary",
+            "Receptor, Serotonin, 5-HT2C"
+        ],
+        "Authors": [
+            {
+                "First Name": "Filippo",
+                "Last Name": "Mancia",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Zahra",
+                "Last Name": "Assur",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ariel G",
+                "Last Name": "Herman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Risa",
+                "Last Name": "Siegel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "EMBO reports",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18214954",
+        "Title": "Comparative structural analysis of the binding domain of follicle stimulating hormone receptor.",
+        "Abstract": "Proteins with leucine-rich repeats (LRRs) specialize in mediating protein-protein interactions. The hormone binding portion of the receptor for follicle stimulating hormone (FSH) is an LRR protein by sequence, and the crystal structure of this domain from human FSH receptor in a complex with FSH shows that it does indeed have an LRR structure. It differs from other LRR domains, however, in being an all-beta protein composed of highly irregular repeats and having only slight overall curvature. Despite these distinctions and a superficial resemblance to beta-helical proteins, the binding domain of FSH receptor clearly is an LRR protein. The structure does consist of two parts with distinctively different curvatures. Comparison with the structures of other LRR-containing proteins shows a correlation between curvature and main-chain hydrogen bonding pattern of the parallel beta-sheet. The hormone-binding site is located at the concave surface of the receptor structure, a feature common to proteins with LRR motifs. Analysis of the ligand-binding site of LRR-containing proteins reveals that they generally utilize extensive interface area and a large number of charged residues to facilitate high-affinity protein-protein interactions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Humans",
+            "Hydrogen Bonding",
+            "Leucine-Rich Repeat Proteins",
+            "Ligands",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Protein Structure, Secondary",
+            "Protein Structure, Tertiary",
+            "Proteins",
+            "Receptors, FSH",
+            "Repetitive Sequences, Amino Acid",
+            "Sequence Homology, Amino Acid"
+        ],
+        "Authors": [
+            {
+                "First Name": "Qing R",
+                "Last Name": "Fan",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proteins",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18073103",
+        "Title": "Impact of structures from the protein structure initiative.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Protein Conformation",
+            "Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, New York, NY 10032, USA. wayne@convex.hhmi.columbia.edu"
+            }
+        ],
+        "Journal": "Structure (London, England : 1993)",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17923091",
+        "Title": "Insights into Hsp70 chaperone activity from a crystal structure of the yeast Hsp110 Sse1.",
+        "Abstract": "Classic Hsp70 chaperones assist in diverse processes of protein folding and translocation, and Hsp110s had seemed by sequence to be distant relatives within an Hsp70 superfamily. The 2.4 A resolution structure of Sse1 with ATP shows that Hsp110s are indeed Hsp70 relatives, and it provides insight into allosteric coupling between sites for ATP and polypeptide-substrate binding in Hsp70s. Subdomain structures are similar in intact Sse1(ATP) and in the separate Hsp70 domains, but conformational dispositions are radically different. Interfaces between Sse1 domains are extensive, intimate, and conservative in sequence with Hsp70s. We propose that Sse1(ATP) may be an evolutionary vestige of the Hsp70(ATP) state, and an analysis of 64 mutant variants in Sse1 and three Hsp70 homologs supports this hypothesis. An atomic-level understanding of Hsp70 communication between ATP and substrate-binding domains follows. Requirements on Sse1 for yeast viability are in keeping with the distinct function of Hsp110s as nucleotide exchange factors.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adenosine Triphosphate",
+            "Animals",
+            "Crystallography, X-Ray",
+            "DNA Mutational Analysis",
+            "Escherichia coli Proteins",
+            "Evolution, Molecular",
+            "HSP110 Heat-Shock Proteins",
+            "HSP70 Heat-Shock Proteins",
+            "Humans",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Protein Structure, Tertiary",
+            "Saccharomyces cerevisiae Proteins",
+            "Swine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Qinglian",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17882334",
+        "Title": "Expression of recombinant G-protein coupled receptors for structural biology.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Animals",
+            "Animals, Genetically Modified",
+            "Escherichia coli",
+            "Eye",
+            "Gene Expression",
+            "Humans",
+            "Insecta",
+            "Models, Molecular",
+            "Molecular Biology",
+            "Molecular Sequence Data",
+            "Receptors, G-Protein-Coupled",
+            "Recombinant Proteins",
+            "Sequence Homology, Amino Acid",
+            "Signal Transduction",
+            "Transfection",
+            "Yeasts"
+        ],
+        "Authors": [
+            {
+                "First Name": "Filippo",
+                "Last Name": "Mancia",
+                "Affiliation": "Howard Hughes Medical Institute and Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular bioSystems",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17803292",
+        "Title": "Structure-activity relationships in the binding of chemically derivatized CD4 to gp120 from human immunodeficiency virus.",
+        "Abstract": "The first step in HIV infection is the binding of the envelope glycoprotein gp120 to the host cell receptor CD4. An interfacial \"Phe43 cavity\" in gp120, adjacent to residue Phe43 of gp120-bound CD4, has been suggested as a potential target for therapeutic intervention. We designed a CD4 mutant (D1D2F43C) for site-specific coupling of compounds for screening against the cavity. Altogether, 81 cysteine-reactive compounds were designed, synthesized, and tested. Eight derivatives exceeded the affinity of native D1D2 for gp120. Structure-activity relationships (SAR) for derivatized CD4 binding to gp120 revealed significant plasticity of the Phe43 cavity and a narrow entrance. The primary contacts for compound recognition inside the cavity were found to be van der Waals interactions, whereas hydrophilic interactions were detected in the entrance. This first SAR on ligand binding to an interior cavity of gp120 may provide a starting point for structure-based assembly of small molecules targeting gp120-CD4 interaction.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acetamides",
+            "Binding Sites",
+            "Binding, Competitive",
+            "CD4 Antigens",
+            "Disulfides",
+            "Enzyme-Linked Immunosorbent Assay",
+            "HIV Envelope Protein gp120",
+            "HIV-1",
+            "Ligands",
+            "Models, Molecular",
+            "Mutation",
+            "Structure-Activity Relationship"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hui",
+                "Last Name": "Xie",
+                "Affiliation": "Department of Pharmacology and Department of Biochemistry and Molecular Biophysics, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Danny",
+                "Last Name": "Ng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sergey N",
+                "Last Name": "Savinov",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Barna",
+                "Last Name": "Dey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Kwong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Wyatt",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Amos B",
+                "Last Name": "Smith",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of medicinal chemistry",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17574435",
+        "Title": "Two-color selection for amplified co-production of proteins in mammalian cells.",
+        "Abstract": "Structural and functional analyses for many mammalian systems depend on having abundant supplies of recombinant multi-protein complexes that can be produced best, or only, in mammalian cells. We present an efficient fluorescence marking procedure for establishing stable cell lines that overexpress two proteins in co-ordination, and we validate the method in the production of monoclonal antibody Fab fragments. The procedure has worked without fail on all seven of seven trials on Fabs, which are being used in the crystallization of G-protein coupled receptors. This manner of efficient selection may readily be adapted for the co-production of other complexes of two or more proteins.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Antibodies, Monoclonal",
+            "Cell Line",
+            "Cell Separation",
+            "Color",
+            "Fluorescence",
+            "Humans",
+            "Microscopy, Confocal",
+            "Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zahra",
+                "Last Name": "Assur",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Ira",
+                "Last Name": "Schieren",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Filippo",
+                "Last Name": "Mancia",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Protein expression and purification",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17551010",
+        "Title": "Structural and thermodynamic characterization of a cytoplasmic dynein light chain-intermediate chain complex.",
+        "Abstract": "Cytoplasmic dynein is a microtubule-based motor protein complex that plays important roles in a wide range of fundamental cellular processes, including vesicular transport, mitosis, and cell migration. A single major form of cytoplasmic dynein associates with membranous organelles, mitotic kinetochores, the mitotic and migratory cell cortex, centrosomes, and mRNA complexes. The ability of cytoplasmic dynein to recognize such diverse forms of cargo is thought to be associated with its several accessory subunits, which reside at the base of the molecule. The dynein light chains (LCs) LC8 and TcTex1 form a subcomplex with dynein intermediate chains, and they also interact with numerous protein and ribonucleoprotein partners. This observation has led to the hypothesis that these subunits serve to tether cargo to the dynein motor. Here, we present the structure and a thermodynamic analysis of a complex of LC8 and TcTex1 associated with their intermediate chain scaffold. The intermediate chains effectively block the major putative cargo binding sites within the light chains. These data suggest that, in the dynein complex, the LCs do not bind cargo, in apparent disagreement with a role for LCs in dynein cargo binding interactions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Binding Sites",
+            "Crystallography, X-Ray",
+            "Cytoplasm",
+            "Dimerization",
+            "Dyneins",
+            "Glutamic Acid",
+            "Humans",
+            "Hydrophobic and Hydrophilic Interactions",
+            "Ligands",
+            "Models, Biological",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Protein Binding",
+            "Protein Structure, Secondary",
+            "Protein Structure, Tertiary",
+            "Spectrum Analysis, Raman",
+            "Static Electricity",
+            "Thermodynamics",
+            "X-Ray Diffraction"
+        ],
+        "Authors": [
+            {
+                "First Name": "John C",
+                "Last Name": "Williams",
+                "Affiliation": "Department of Biochemistry and Molecular Biology, Thomas Jefferson University, Philadelphia, PA 19107, USA."
+            },
+            {
+                "First Name": "Petra L",
+                "Last Name": "Roulhac",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anindya G",
+                "Last Name": "Roy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard B",
+                "Last Name": "Vallee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael C",
+                "Last Name": "Fitzgerald",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17372359",
+        "Title": "Structures of and interactions between domains of trigger factor from Thermotoga maritima.",
+        "Abstract": "Trigger factor (TF) is a eubacterial chaperone that associates with ribosomes at the peptide-exit tunnel and also occurs in excess free in the cytosol. TF is a three-domain protein that appears to exist in a dynamic equilibrium of oligomerization states and interdomain conformations. X-ray crystallography and chemical cross-linking were used to study the roles of the N- and C-terminal domains of Thermotoga maritima TF in TF oligomerization and chaperone activity. The structural conservation of both the N- and C-terminal TF domains was unambiguously established. The biochemical and crystallographic data reveal a tendency for these domains to partake in diverse and apparently nonspecific protein-protein interactions. It is found that the T. maritima and Escherichia coli TF surfaces lack evident exposed hydrophobic patches. Taken together, these data suggest that TF chaperones could interact with nascent proteins via hydrophilic surfaces.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Bacterial Proteins",
+            "Cloning, Molecular",
+            "Cross-Linking Reagents",
+            "Crystallography, X-Ray",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Peptidylprolyl Isomerase",
+            "Protein Folding",
+            "Protein Structure, Tertiary",
+            "Thermotoga maritima"
+        ],
+        "Authors": [
+            {
+                "First Name": "Erik",
+                "Last Name": "Martinez-Hackert",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Acta crystallographica. Section D, Biological crystallography",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17360519",
+        "Title": "Production and characterization of monoclonal antibodies sensitive to conformation in the 5HT2c serotonin receptor.",
+        "Abstract": "mAbs that are sensitive to protein conformation can be helpful in studies of protein structure and function; in particular, mAb fragments are useful reagents in membrane protein crystallization. We immunized mice with the rat 5HT2c serotonin receptor and derived clonal hybridoma cells, which we tested for specific antigen reactivity by using the complementarity of purified protein from bacteria and receptor-embedded mammalian cell membranes. Nine mAbs met our criteria for specificity, affinity, and sensitivity to conformational features. Epitopes were mapped in various additional tests. Five of the nine mAbs have cytoplasmic epitopes, and two of these are sensitive to the ligand state of the receptor. These properties should be useful both for structural analysis and in probes of function.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Antibodies, Monoclonal",
+            "Cell Membrane",
+            "Cell Separation",
+            "Crystallization",
+            "Cytoplasm",
+            "Epitope Mapping",
+            "Escherichia coli",
+            "Hybridomas",
+            "Ligands",
+            "Mice",
+            "NIH 3T3 Cells",
+            "Protein Conformation",
+            "Rats",
+            "Receptors, Serotonin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Filippo",
+                "Last Name": "Mancia",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics and the Howard Hughes Medical Institute, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Susan",
+                "Last Name": "Brenner-Morton",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Risa",
+                "Last Name": "Siegel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zahra",
+                "Last Name": "Assur",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yonghua",
+                "Last Name": "Sun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ira",
+                "Last Name": "Schieren",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Monica",
+                "Last Name": "Mendelsohn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Axel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17045735",
+        "Title": "Assembly and structural characterization of an authentic complex between human follicle stimulating hormone and a hormone-binding ectodomain of its receptor.",
+        "Abstract": "Follicle stimulating hormone (FSH) is secreted from the pituitary gland to regulate reproduction in vertebrates. FSH signals through a G-protein coupled receptor (FSHR) on the target cell surface. We describe here the strategy to produce a soluble FSH-FSHR complex that involves the co-secretion of a truncated FSHR ectodomain (FSHR(HB)) and a covalently linked FSHalphabeta heterodimer from baculovirus-infected insect cells. FSH binds to FSHR(HB) with a high affinity comparable to that for the full-length receptor. The crystal structure of the FSH-FSHR(HB) complex provides explanations for the high affinity and specificity of FSH interaction with FSHR, and it shows an unexpected dimerization of these complexes. Here we also compare the crystal structure with theoretical models of the FSH-FSHR-binding mode. We conclude that the FSH-FSHR(HB) structure gives an authentic representation of FSH binding to intact FSHR.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Baculoviridae",
+            "Chorionic Gonadotropin",
+            "Chromatography, Gel",
+            "Crystallization",
+            "Dimerization",
+            "Follicle Stimulating Hormone, beta Subunit",
+            "Glycoprotein Hormones, alpha Subunit",
+            "Glycosylation",
+            "Humans",
+            "Models, Molecular",
+            "Protein Structure, Quaternary",
+            "Protein Structure, Secondary",
+            "Protein Structure, Tertiary",
+            "Receptors, FSH",
+            "Solubility",
+            "Structure-Activity Relationship"
+        ],
+        "Authors": [
+            {
+                "First Name": "Qing R",
+                "Last Name": "Fan",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, 630 West 168th Street, New York, NY 10032, United States."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular and cellular endocrinology",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "16600054",
+        "Title": "Transduction of biochemical signals across cell membranes.",
+        "Abstract": "Biological cells need to be responsive to various stimuli, primarily chemical ligands from their environments. Specific receptor molecules embedded in the plasma membrane detect the different biochemical signals that impact the cell, and these receptors are the conduits for transmission of this information to the cell interior for action. There are several classes of signal transduction receptors and many specific receptors within each of the major classes. This review emphasizes the structural biology of three major classes of transmembrane receptors - tyrosine kinase receptors, histidine kinase sensors, and G-protein coupled receptors. Biophysical principles that govern the processes of signal transduction across cell membranes are also discussed.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biophysical Phenomena",
+            "Biophysics",
+            "Cell Membrane",
+            "Histidine Kinase",
+            "Lipid Bilayers",
+            "Models, Biological",
+            "Molecular Conformation",
+            "Protein Kinases",
+            "Receptor Protein-Tyrosine Kinases",
+            "Receptors, G-Protein-Coupled",
+            "Signal Transduction",
+            "Thermodynamics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Howard Hughes Medical Institute, Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA. wayne@convex.hhmi.columbia.edu"
+            }
+        ],
+        "Journal": "Quarterly reviews of biophysics",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "16319927",
+        "Title": "Structure of the entire cytoplasmic portion of a sensor histidine-kinase protein.",
+        "Abstract": "The large majority of histidine kinases (HKs) are multifunctional enzymes having autokinase, phosphotransfer and phosphatase activities, and most of these are transmembrane sensor proteins. Sensor HKs possess conserved cytoplasmic phosphorylation and ATP-binding kinase domains. The different enzymatic activities require participation by one or both of these domains, implying the need for different conformational states. The catalytic domains are linked to the membrane through a coiled-coil segment that sometimes includes other domains. We describe here the first crystal structure of the complete cytoplasmic region of a sensor HK, one from the thermophile Thermotoga maritima in complex with ADPbetaN at 1.9 A resolution. The structure reveals previously unidentified functions for several conserved residues and reveals the relative disposition of domains in a state seemingly poised for phosphotransfer. The structure thereby inspires hypotheses for the mechanisms of autophosphorylation, phosphotransfer and response-regulator dephosphorylation, and for signal transduction through the coiled-coil segment. Mutational tests support the functional relevance of interdomain contacts.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adenosine Triphosphate",
+            "Amino Acid Sequence",
+            "Binding Sites",
+            "Cloning, Molecular",
+            "Crystallography, X-Ray",
+            "Cytoplasm",
+            "DNA Mutational Analysis",
+            "Dimerization",
+            "Escherichia coli",
+            "Histidine",
+            "Histidine Kinase",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Mutation",
+            "Phosphorylation",
+            "Protein Binding",
+            "Protein Conformation",
+            "Protein Kinases",
+            "Protein Structure, Secondary",
+            "Protein Structure, Tertiary",
+            "Sequence Homology, Amino Acid",
+            "Signal Transduction",
+            "Thermotoga maritima",
+            "Time Factors",
+            "X-Ray Diffraction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alberto",
+                "Last Name": "Marina",
+                "Affiliation": "Howard Hughes Medical Institute, Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Carey D",
+                "Last Name": "Waldburger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The EMBO journal",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "16195378",
+        "Title": "Interfacial metal and antibody recognition.",
+        "Abstract": "The unique ligation properties of metal ions are widely exploited by proteins, with approximately one-third of all proteins estimated to be metalloproteins. Although antibodies use various mechanisms for recognition, to our knowledge, none has ever been characterized that uses an interfacial metal. We previously described a family of CD4-reactive antibodies, the archetype being Q425. CD4:Q425 engagement does not interfere with CD4:HIV-1 gp120 envelope glycoprotein binding, but it blocks subsequent steps required for viral entry. Here, we use surface-plasmon resonance to show that Q425 requires calcium for recognition of CD4. Specifically, Q425 binding of calcium resulted in a 55,000-fold enhancement in affinity for CD4. X-ray crystallographic analyses of Q425 in the presence of Ca(2+), Ba(2+), or EDTA revealed an exposed metal-binding site, partially coordinated by five atoms contributed from four antibody complementarity-determining regions. The results suggest that Q425 recognition of CD4 involves direct ligation of antigen by the Q425-held calcium, with calcium binding each ligating atom of CD4 with approximately 1.5 kcal/mol of binding energy. This energetic contribution, which is greater than that from a typical protein atom, demonstrates how interfacial metal ligation can play a unique role in antigen recognition.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Antibodies",
+            "Antibody Specificity",
+            "Base Sequence",
+            "Biophysical Phenomena",
+            "Biophysics",
+            "CD4 Antigens",
+            "Calcium",
+            "Crystallography, X-Ray",
+            "DNA Primers",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Sequence Analysis, DNA",
+            "Surface Plasmon Resonance"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tongqing",
+                "Last Name": "Zhou",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Dean H",
+                "Last Name": "Hamer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Quentin J",
+                "Last Name": "Sattentau",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Kwong",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "16034172",
+        "Title": "Structural biology of glycoprotein hormones and their receptors.",
+        "Abstract": "Glycoprotein hormones regulate reproduction in vertebrates and exert their actions through specific G protein-coupled receptors on target cell surfaces. Structural information is now available for human chorionic gonadotropin (CG), follicle-stimulating hormone (FSH), and FSH bound to the extracellular binding domain of its receptor (FSHR(HB)). The recently determined structure of a human FSH-FSHR(HB) complex provides an explanation for the specificity of glycoprotein hormones binding to their receptors, and it suggests hypotheses concerning the mechanism of transmembrane signal transduction.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Chorionic Gonadotropin",
+            "Follicle Stimulating Hormone",
+            "Humans",
+            "Protein Structure, Tertiary",
+            "Receptors, G-Protein-Coupled",
+            "Receptors, Gonadotropin",
+            "Signal Transduction",
+            "Structure-Activity Relationship"
+        ],
+        "Authors": [
+            {
+                "First Name": "Qing R",
+                "Last Name": "Fan",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Endocrine",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15701632",
+        "Title": "Crystal structure of dynein light chain TcTex-1.",
+        "Abstract": "TcTex-1, one of three dynein light chains of the dynein motor complex, has been implicated in targeting and binding cargoes to cytoplasmic dynein for retrograde or apical transport. Interactions between TcTex-1 and a diverse set of proteins such as the dynein intermediate chain, Fyn, DOC2, FIP1, the poliovirus receptor, CD155, and the rhodopsin cytoplasmic tail have been reported; yet, despite the broad range of targets, a consensus binding sequence remains uncertain. Consequently, we have solved the crystal structure of the full-length Drosophila homolog of TcTex-1 to 1.7 A resolution using MAD phasing to gain insight into its function and target specificity. The structure is homodimeric with a domain swapping of beta-strand 2 and has a fold similar to the dynein light chain, LC8. Based on structural alignment, the TcTex-1 and LC8 sequences show no identity, although the root mean square deviation between secondary structural elements is less than 1.6 A. Moreover, the N terminus, which is equivalent to beta-strand 1 in LC8, is splayed out and binds to a crystallographic dimer as an anti-parallel beta-strand at the same position as the neuronal nitric-oxide synthase peptide in the LC8 complex. Similarity to LC8 and comparison to the LC8-neuronal nitricoxide synthase complex suggest that TcTex-1 binds its targets in a similar manner as LC8 and provides insight to the lack of strict sequence identity among the targets for TcTex-1.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Animals",
+            "Binding Sites",
+            "Carrier Proteins",
+            "Cloning, Molecular",
+            "Crystallography, X-Ray",
+            "Cytoplasm",
+            "Dimerization",
+            "Drosophila",
+            "Drosophila Proteins",
+            "Dyneins",
+            "Expressed Sequence Tags",
+            "Ligands",
+            "Membrane Proteins",
+            "Microtubule-Associated Proteins",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Nuclear Proteins",
+            "Protein Binding",
+            "Protein Conformation",
+            "Protein Structure, Quaternary",
+            "Protein Structure, Secondary",
+            "Protein Structure, Tertiary",
+            "Receptors, Virus",
+            "Rhodopsin",
+            "Sequence Homology, Amino Acid",
+            "t-Complex Genome Region"
+        ],
+        "Authors": [
+            {
+                "First Name": "John C",
+                "Last Name": "Williams",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Howard Hughes Medical Institute, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Hui",
+                "Last Name": "Xie",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of biological chemistry",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15662415",
+        "Title": "Structure of human follicle-stimulating hormone in complex with its receptor.",
+        "Abstract": "Follicle-stimulating hormone (FSH) is central to reproduction in mammals. It acts through a G-protein-coupled receptor on the surface of target cells to stimulate testicular and ovarian functions. We present here the 2.9-A-resolution structure of a partially deglycosylated complex of human FSH bound to the extracellular hormone-binding domain of its receptor (FSHR(HB)). The hormone is bound in a hand-clasp fashion to an elongated, curved receptor. The buried interface of the complex is large (2,600 A2) and has a high charge density. Our analysis suggests that all glycoprotein hormones bind to their receptors in this mode and that binding specificity is mediated by key interaction sites involving both the common alpha- and hormone-specific beta-subunits. On binding, FSH undergoes a concerted conformational change that affects protruding loops implicated in receptor activation. The FSH-FSHR(HB) complexes form dimers in the crystal and at high concentrations in solution. Such dimers may participate in transmembrane signal transduction.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Binding Sites",
+            "Crystallization",
+            "Dimerization",
+            "Follicle Stimulating Hormone, Human",
+            "Glycosylation",
+            "Humans",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Protein Binding",
+            "Protein Conformation",
+            "Protein Subunits",
+            "Receptors, FSH",
+            "Scattering, Radiation",
+            "Static Electricity",
+            "Structure-Activity Relationship",
+            "Substrate Specificity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Qing R",
+                "Last Name": "Fan",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15297877",
+        "Title": "Crystal structure of the nuclear effector of Notch signaling, CSL, bound to DNA.",
+        "Abstract": "Notch signaling is a conserved pathway of communication between neighboring cells that results in cell fate specification, and CSL is the universal transcriptional effector of Notch signaling. The Notch intracellular domain translocates to the nucleus after proteolytic release upon Notch extracellular engagement, and there it displaces corepressors from DNA-bound CSL and recruits activators of Notch target genes. Here we report the 2.85 A crystal structure of CSL with a target DNA. CSL comprises three structurally integrated domains: its amino (NTD)- and carboxy (CTD)-terminal domains are strikingly similar to those of Rel transcription factors, but a surprising beta-trefoil domain (BTD) is inserted between them. CSL-bound DNA is recognized specifically by conserved residues from NTD and BTD. A hydrophobic pocket on BTD is identified as the likely site of Notch interaction with CSL, which has functional implications for the mechanism of Notch signaling.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Animals",
+            "Base Sequence",
+            "Binding Sites",
+            "Caenorhabditis elegans Proteins",
+            "Crystallography, X-Ray",
+            "DNA, Recombinant",
+            "DNA-Binding Proteins",
+            "Drosophila Proteins",
+            "Humans",
+            "Immunoglobulin J Recombination Signal Sequence-Binding Protein",
+            "In Vitro Techniques",
+            "Macromolecular Substances",
+            "Membrane Proteins",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Nuclear Proteins",
+            "Protein Folding",
+            "Protein Structure, Tertiary",
+            "Receptors, Notch",
+            "Recombinant Proteins",
+            "Repressor Proteins",
+            "Sequence Homology, Amino Acid",
+            "Static Electricity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Rhett A",
+                "Last Name": "Kovall",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Howard Hughes Medical Institute, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The EMBO journal",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "14657365",
+        "Title": "Crystal structure of human alpha-tocopherol transfer protein bound to its ligand: implications for ataxia with vitamin E deficiency.",
+        "Abstract": "Human alpha-tocopherol (alpha-T) transfer protein (ATTP) plays a central role in vitamin E homeostasis, preventing degradation of alpha-T by routing this lipophilic molecule for secretion by hepatocytes. Mutations in the gene encoding ATTP have been shown to cause a severe deficiency in alpha-T, which results in a progressive neurodegenerative spinocerebellar ataxia, known as ataxia with vitamin E deficiency (AVED). We have determined the high-resolution crystal structure of human ATTP with (2R,4'R,8'R)-alpha-T in the binding pocket. Surprisingly, the ligand is sequestered deep in the hydrophobic core of the protein, implicating a large structural rearrangement for the entry and release of alpha-T. A comparison to the structure of a related protein, Sec14p, crystallized without a bona fide ligand, shows a possibly relevant open conformation for this family of proteins. Furthermore, of the known mutations that cause AVED, one mutation, L183P, is located directly in the binding pocket. Finally, three mutations associated with AVED involve arginine residues that are grouped together on the surface of ATTP. We propose that this positively charged surface may serve to orient an interacting protein, which might function to regulate the release of alpha-T through an induced change in conformation of ATTP.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Arginine",
+            "Carrier Proteins",
+            "Crystallography, X-Ray",
+            "Escherichia coli",
+            "Gene Deletion",
+            "Humans",
+            "Ligands",
+            "Membrane Proteins",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Mutation",
+            "Mutation, Missense",
+            "Phospholipid Transfer Proteins",
+            "Protein Binding",
+            "Protein Conformation",
+            "Protein Structure, Secondary",
+            "Protein Structure, Tertiary",
+            "Sequence Homology, Amino Acid",
+            "Vitamin E Deficiency"
+        ],
+        "Authors": [
+            {
+                "First Name": "K Christopher",
+                "Last Name": "Min",
+                "Affiliation": "Howard Hughes Medical Institute and Department of Neurology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Rhett A",
+                "Last Name": "Kovall",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "27799111",
+        "Title": "[28] Phase determination from multiwavelength anomalous diffraction measurements.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Craig M",
+                "Last Name": "Ogata",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Methods in enzymology",
+        "PubDate": "1997"
+    },
+    {
+        "PMID": "28769131",
+        "Title": "Structure of the hydrophobic protein crambin determined directly from the anomalous scattering of sulphur.",
+        "Abstract": "The highly ordered crystal structure of crambin has been solved at 1.5 Å resolution directly from the diffraction data of a native crystal at a wavelength remote from the sulphur absorption edge. The molecule has three disulphide bridges among its 46 amino acid residues, of which 46% are in helices and 17% are in a β-sheet. Crambin is shown to be an amphipathic protein, inasmuch as its six charged groups are segregated from hydrophobic surface elements. Phasing methods used here will also apply elsewhere.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Wayne A",
+                "Last Name": "Hendrickson",
+                "Affiliation": "Laboratory for the Structure of Matter, Naval Research Laboratory 6030, Washington DC 20375, USA."
+            },
+            {
+                "First Name": "Martha M",
+                "Last Name": "Teeter",
+                "Affiliation": "Department of Chemistry, Boston University, 685 Commonwealth Avenue, Boston, Massachusetts 02215, USA."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "1981"
+    }
+]

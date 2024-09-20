@@ -1,0 +1,296 @@
+[
+    {
+        "PMID": "34302957",
+        "Title": "A conceptual framework for external validity.",
+        "Abstract": "Evidence-Based Medicine (EBM) encourages clinicians to seek the most reputable evidence. The quality of evidence is organized in a hierarchy in which randomized controlled trials (RCTs) are regarded as least biased. However, RCTs are plagued by poor generalizability, impeding the translation of clinical research to practice. Though the presence of poor external validity is known, the factors that contribute to poor generalizability have not been summarized and placed in a framework. We propose a new population-oriented conceptual framework to facilitate consistent and comprehensive evaluation of generalizability, replicability, and assessment of RCT study quality.",
+        "Keywords": [
+            "Epidemiology",
+            "Evidence Based Medicine",
+            "External",
+            "Generalizability",
+            "Reproducibility",
+            "Validity"
+        ],
+        "MeSH terms": [
+            "Evidence-Based Medicine",
+            "Randomized Controlled Trials as Topic",
+            "Research Design"
+        ],
+        "Authors": [
+            {
+                "First Name": "Amelia J",
+                "Last Name": "Averitt",
+                "Affiliation": "Regeneron Genetics Center. Tarrytown, NY, USA; Department of Biomedical Informatics, Columbia University. New York, NY, USA. Electronic address: aja2149@caa.columbia.edu."
+            },
+            {
+                "First Name": "Patrick B",
+                "Last Name": "Ryan",
+                "Affiliation": "Janssen Research & Development. Raritan, NJ, USA; Department of Biomedical Informatics, Columbia University. New York, NY, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University. New York, NY, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University. New York, NY, USA."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "32771540",
+        "Title": "The Counterfactual χ-GAN: Finding comparable cohorts in observational health data.",
+        "Abstract": "Causal inference often relies on the counterfactual framework, which requires that treatment assignment is independent of the outcome, known as strong ignorability. Approaches to enforcing strong ignorability in causal analyses of observational data include weighting and matching methods. Effect estimates, such as the average treatment effect (ATE), are then estimated as expectations under the re-weighted or matched distribution, P. The choice of P is important and can impact the interpretation of the effect estimate and the variance of effect estimates. In this work, instead of specifying P, we learn a distribution that simultaneously maximizes coverage and minimizes variance of ATE estimates. In order to learn this distribution, this research proposes a generative adversarial network (GAN)-based model called the Counterfactual χ-GAN (cGAN), which also learns feature-balancing weights and supports unbiased causal estimation in the absence of unobserved confounding. Our model minimizes the Pearson χ",
+        "Keywords": [
+            "Causal inference",
+            "Deep learning",
+            "GANs",
+            "Health",
+            "Machine learning",
+            "Observational studies"
+        ],
+        "MeSH terms": [
+            "Causality",
+            "Computer Simulation",
+            "Humans"
+        ],
+        "Authors": [
+            {
+                "First Name": "Amelia J",
+                "Last Name": "Averitt",
+                "Affiliation": "Biomedical Informatics, Columbia University, New York, NY, United States. Electronic address: amelia.averitt@gmail.com."
+            },
+            {
+                "First Name": "Natnicha",
+                "Last Name": "Vanitchanant",
+                "Affiliation": "Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Rajesh",
+                "Last Name": "Ranganath",
+                "Affiliation": "Courant Institute, Center for Data Science, New York University, New York, NY, United States."
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": "Biomedical Informatics, Columbia University, New York, NY, United States."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32607490",
+        "Title": "Characterizing non-heroin opioid overdoses using electronic health records.",
+        "Abstract": "The opioid epidemic is a modern public health emergency. Common interventions to alleviate the opioid epidemic aim to discourage excessive prescription of opioids. However, these methods often take place over large municipal areas (",
+        "Keywords": [
+            "clinical informatics",
+            "electronic health records",
+            "epidemiology",
+            "opioid-related disorder",
+            "substance-related disorders"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Amelia J",
+                "Last Name": "Averitt",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Benjamin H",
+                "Last Name": "Slovis",
+                "Affiliation": "Department of Emergency Medicine, Thomas Jefferson University, Philadelphia, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Abdul A",
+                "Last Name": "Tariq",
+                "Affiliation": "NewYork-Presbyterian Hospital, The Value Institute, New York, New York, USA."
+            },
+            {
+                "First Name": "David K",
+                "Last Name": "Vawdrey",
+                "Affiliation": "Geisinger, Steele Institute for Health Innovation, Danville, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "JAMIA open",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32411828",
+        "Title": "Translating evidence into practice: eligibility criteria fail to eliminate clinically significant differences between real-world and study populations.",
+        "Abstract": "Randomized controlled trials (RCTs) are regarded as the most reputable source of evidence. In some studies, factors beyond the intervention itself may contribute to the measured effect, an occurrence known as heterogeneity of treatment effect (HTE). If the RCT population differs from the real-world population on factors that induce HTE, the trials effect will not replicate. The RCTs eligibility criteria should identify the sub-population in which its evidence will replicate. However, the extent to which the eligibility criteria identify the appropriate population is unknown, which raises concerns for generalizability. We compared reported data from RCTs with real-world data from the electronic health records of a large, academic medical center that was curated according to RCT eligibility criteria. Our results show fundamental differences between the RCT population and our observational cohorts, which suggests that eligibility criteria may be insufficient for identifying the applicable real-world population in which RCT evidence will replicate.",
+        "Keywords": [
+            "Communication and replication",
+            "Epidemiology",
+            "Outcomes research",
+            "Randomized controlled trials"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Amelia J",
+                "Last Name": "Averitt",
+                "Affiliation": "1Department of Biomedical Informatics, Columbia University, New York, NY USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "1Department of Biomedical Informatics, Columbia University, New York, NY USA."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Ryan",
+                "Affiliation": "1Department of Biomedical Informatics, Columbia University, New York, NY USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "1Department of Biomedical Informatics, Columbia University, New York, NY USA."
+            }
+        ],
+        "Journal": "NPJ digital medicine",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "29725627",
+        "Title": "Going Deep: The Role of Neural Networks for Renal Survival and Beyond.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Amelia J",
+                "Last Name": "Averitt",
+                "Affiliation": "Columbia University, Department of Biomedical Informatics, New York, New York, USA."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Columbia University, Department of Biomedical Informatics, New York, New York, USA."
+            }
+        ],
+        "Journal": "Kidney international reports",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28345443",
+        "Title": "Economic Burden of Irritable Bowel Syndrome with Diarrhea: Retrospective Analysis of a U.S. Commercially Insured Population.",
+        "Abstract": "The economic burden associated with irritable bowel syndrome with diarrhea (IBS-D) is not well understood.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Abdominal Pain",
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Ambulatory Care",
+            "Comorbidity",
+            "Cost of Illness",
+            "Delivery of Health Care",
+            "Diarrhea",
+            "Emergency Medical Services",
+            "Female",
+            "Health Care Costs",
+            "Humans",
+            "Insurance, Health",
+            "Irritable Bowel Syndrome",
+            "Male",
+            "Middle Aged",
+            "Office Visits",
+            "Retrospective Studies",
+            "Socioeconomic Factors",
+            "United States",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jessica L",
+                "Last Name": "Buono",
+                "Affiliation": "1 Allergan, Jersey City, New Jersey."
+            },
+            {
+                "First Name": "Kush",
+                "Last Name": "Mathur",
+                "Affiliation": "2 Axtria, Berkeley Heights, New Jersey."
+            },
+            {
+                "First Name": "Amelia J",
+                "Last Name": "Averitt",
+                "Affiliation": "2 Axtria, Berkeley Heights, New Jersey."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Andrae",
+                "Affiliation": "1 Allergan, Jersey City, New Jersey."
+            }
+        ],
+        "Journal": "Journal of managed care & specialty pharmacy",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27919177",
+        "Title": "Economic burden of inadequate symptom control among US commercially insured patients with irritable bowel syndrome with diarrhea.",
+        "Abstract": "To assess healthcare resource use and costs among irritable bowel syndrome (IBS) with diarrhea (IBS-D) patients with and without evidence of inadequate symptom control on current prescription therapies and estimate incremental all-cause costs associated with inadequate symptom control.",
+        "Keywords": [
+            "Irritable bowel syndrome with diarrhea",
+            "economic burden",
+            "healthcare resource use",
+            "symptom control",
+            "treatment"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Aged",
+            "Antidiarrheals",
+            "Cholinergic Antagonists",
+            "Cost of Illness",
+            "Diarrhea",
+            "Female",
+            "Health Services",
+            "Hospitalization",
+            "Humans",
+            "Insurance Claim Review",
+            "Irritable Bowel Syndrome",
+            "Male",
+            "Middle Aged",
+            "Models, Econometric",
+            "Office Visits",
+            "Retrospective Studies",
+            "Selective Serotonin Reuptake Inhibitors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jessica L",
+                "Last Name": "Buono",
+                "Affiliation": "a Allergan plc , Jersey City , NJ , USA."
+            },
+            {
+                "First Name": "Kush",
+                "Last Name": "Mathur",
+                "Affiliation": "b Axtria Inc. , Berkeley Heights , NJ , USA."
+            },
+            {
+                "First Name": "Amelia J",
+                "Last Name": "Averitt",
+                "Affiliation": "b Axtria Inc. , Berkeley Heights , NJ , USA."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Andrae",
+                "Affiliation": "a Allergan plc , Jersey City , NJ , USA."
+            }
+        ],
+        "Journal": "Journal of medical economics",
+        "PubDate": "2017"
+    }
+]

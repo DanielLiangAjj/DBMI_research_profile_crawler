@@ -1,0 +1,2073 @@
+[
+    {
+        "PMID": "38652658",
+        "Title": "Multiplexed single-cell lineage tracing of mitotic kinesin inhibitor resistance in glioblastoma.",
+        "Abstract": "Glioblastoma (GBM) is a deadly brain tumor, and the kinesin motor KIF11 is an attractive therapeutic target with roles in proliferation and invasion. Resistance to KIF11 inhibitors, which has mainly been studied in animal models, presents significant challenges. We use lineage-tracing barcodes and single-cell RNA sequencing to analyze resistance in patient-derived GBM neurospheres treated with ispinesib, a potent KIF11 inhibitor. Similar to GBM progression in patients, untreated cells lose their neural lineage identity and become mesenchymal, which is associated with poor prognosis. Conversely, cells subjected to long-term ispinesib treatment exhibit a proneural phenotype. We generate patient-derived xenografts and show that ispinesib-resistant cells form less aggressive tumors in vivo, even in the absence of drug. Moreover, treatment of human ex vivo GBM slices with ispinesib demonstrates phenotypic alignment with in vitro responses, underscoring the clinical relevance of our findings. Finally, using retrospective lineage tracing, we identify drugs that are synergistic with ispinesib.",
+        "Keywords": [
+            "CP: Cancer",
+            "CP: Cell biology",
+            "drug resistance",
+            "glioblastoma",
+            "mitotic kinesins",
+            "multiplexed lineage tracing",
+            "single-cell genomics"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Glioblastoma",
+            "Kinesins",
+            "Drug Resistance, Neoplasm",
+            "Animals",
+            "Single-Cell Analysis",
+            "Cell Lineage",
+            "Mice",
+            "Brain Neoplasms",
+            "Cell Line, Tumor",
+            "Mitosis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yim Ling",
+                "Last Name": "Cheng",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Matei A",
+                "Last Name": "Banu",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wenting",
+                "Last Name": "Zhao",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Steven S",
+                "Last Name": "Rosenfeld",
+                "Affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL 32224, USA."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Canoll",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: pas2182@columbia.edu."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38105955",
+        "Title": "Consensus scHPF Identifies Cell Type-Specific Drug Responses in Glioma by Integrating Large-Scale scRNA-seq.",
+        "Abstract": "Single-cell transcriptomic analyses now frequently involve elaborate study designs including samples from multiple individuals, experimental conditions, perturbations, and batches from complex tissues. Dimensionality reduction is required to facilitate integration, interpretation, and statistical analysis. However, these datasets often include subtly different cellular subpopulations or state transitions, which are poorly described by clustering. We previously reported a Bayesian matrix factorization algorithm called single-cell hierarchical Poisson factorization (scHPF) that identifies gene co-expression patterns directly from single-cell RNA-seq (scRNA-seq) count matrices while accounting for transcript drop-out and noise. Here, we describe consensus scHPF, which analyzes scHPF models from multiple random initializations to identify the most robust gene signatures and automatically determine the number of factors for a given dataset. Consensus scHPF facilitates integration of complex datasets with highly multi-modal posterior distributions, resulting in factors that can be uniformly analyzed across individuals and conditions. To demonstrate the utility of consensus scHPF, we performed a meta-analysis of a large-scale scRNA-seq dataset from drug-treated, human glioma slice cultures generated from surgical specimens across three major cell types, 19 patients, 10 drug treatment conditions, and 52 samples. In addition to recapitulating previously reported cell type-specific drug responses from smaller studies, consensus scHPF identified disparate effects of the topoisomerase poisons etoposide and topotecan that are highly consistent with the distinct roles and expression patterns of their respective protein targets.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Hanna Mendes",
+                "Last Name": "Levitin",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Wenting",
+                "Last Name": "Zhao",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jeffrey N",
+                "Last Name": "Bruce",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Canoll",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37773782",
+        "Title": "Single-cell analysis of 5-aminolevulinic acid intraoperative labeling specificity for glioblastoma.",
+        "Abstract": "Glioblastoma (GBM) is the most common and aggressive malignant primary brain tumor, and resection is a key part of the standard of care. In fluorescence-guided surgery (FGS), fluorophores differentiate tumor tissue from surrounding normal brain. The heme synthesis pathway converts 5-aminolevulinic acid (5-ALA), a fluorogenic substrate used for FGS, to fluorescent protoporphyrin IX (PpIX). The resulting fluorescence is believed to be specific to neoplastic glioma cells, but this specificity has not been examined at a single-cell level. The objective of this study was to determine the specificity with which 5-ALA labels the diversity of cell types in GBM.",
+        "Keywords": [
+            "fluorescence-guided surgery",
+            "glioblastoma",
+            "glioma",
+            "oncology",
+            "single-cell genomics",
+            "tumor"
+        ],
+        "MeSH terms": [
+            "Mice",
+            "Animals",
+            "Humans",
+            "Aminolevulinic Acid",
+            "Glioblastoma",
+            "Glioma",
+            "Brain Neoplasms",
+            "Fluorescence",
+            "Protoporphyrins",
+            "Single-Cell Analysis",
+            "Photosensitizing Agents"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zhouzerui",
+                "Last Name": "Liu",
+                "Affiliation": "Departments of1Systems Biology."
+            },
+            {
+                "First Name": "Angeliki",
+                "Last Name": "Mela",
+                "Affiliation": "2Pathology and Cell Biology."
+            },
+            {
+                "First Name": "Michael G",
+                "Last Name": "Argenziano",
+                "Affiliation": "3Neurological Surgery, and."
+            },
+            {
+                "First Name": "Matei A",
+                "Last Name": "Banu",
+                "Affiliation": "3Neurological Surgery, and."
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Furnari",
+                "Affiliation": "3Neurological Surgery, and."
+            },
+            {
+                "First Name": "Corina",
+                "Last Name": "Kotidis",
+                "Affiliation": "3Neurological Surgery, and."
+            },
+            {
+                "First Name": "Colin P",
+                "Last Name": "Sperring",
+                "Affiliation": "3Neurological Surgery, and."
+            },
+            {
+                "First Name": "Nelson",
+                "Last Name": "Humala",
+                "Affiliation": "3Neurological Surgery, and."
+            },
+            {
+                "First Name": "Aayushi",
+                "Last Name": "Mahajan",
+                "Affiliation": "3Neurological Surgery, and."
+            },
+            {
+                "First Name": "Jeffrey N",
+                "Last Name": "Bruce",
+                "Affiliation": "3Neurological Surgery, and."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Canoll",
+                "Affiliation": "2Pathology and Cell Biology."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Departments of1Systems Biology."
+            }
+        ],
+        "Journal": "Journal of neurosurgery",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37745469",
+        "Title": "Multiplexed single-cell lineage tracing of mitotic kinesin inhibitor resistance in glioblastoma.",
+        "Abstract": "Glioblastoma (GBM) is a deadly brain tumor, and the kinesin motor KIF11 is an attractive therapeutic target because of its dual roles in proliferation and invasion. The clinical utility of KIF11 inhibitors has been limited by drug resistance, which has mainly been studied in animal models. We used multiplexed lineage tracing barcodes and scRNA-seq to analyze drug resistance time courses for patient-derived GBM neurospheres treated with ispinesib, a potent KIF11 inhibitor. Similar to GBM progression in patients, untreated cells lost their neural lineage identity and transitioned to a mesenchymal phenotype, which is associated with poor prognosis. In contrast, cells subjected to long-term ispinesib treatment exhibited a proneural phenotype. We generated patient-derived xenografts to show that ispinesib-resistant cells form less aggressive tumors ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Yim Ling",
+                "Last Name": "Cheng",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Matei A",
+                "Last Name": "Banu",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Wenting",
+                "Last Name": "Zhao",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Steven S",
+                "Last Name": "Rosenfeld",
+                "Affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, 32224, USA."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Canoll",
+                "Affiliation": "Department of Pathology & Cell Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37461466",
+        "Title": "Multimodal hierarchical classification of CITE-seq data delineates immune cell states across lineages and tissues.",
+        "Abstract": "Single-cell RNA sequencing (scRNA-seq) is invaluable for profiling cellular heterogeneity and dissecting transcriptional states, but transcriptomic profiles do not always delineate subsets defined by surface proteins, as in cells of the immune system. Cellular Indexing of Transcriptomes and Epitopes (CITE-seq) enables simultaneous profiling of single-cell transcriptomes and surface proteomes; however, accurate cell type annotation requires a classifier that integrates multimodal data. Here, we describe MultiModal Classifier Hierarchy (MMoCHi), a marker-based approach for classification, reconciling gene and protein expression without reliance on reference atlases. We benchmark MMoCHi using sorted T lymphocyte subsets and annotate a cross-tissue human immune cell dataset. MMoCHi outperforms leading transcriptome-based classifiers and multimodal unsupervised clustering in its ability to identify immune cell subsets that are not readily resolved and to reveal novel subset markers. MMoCHi is designed for adaptability and can integrate annotation of cell types and developmental states across diverse lineages, samples, or modalities.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Daniel P",
+                "Last Name": "Caron",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "William L",
+                "Last Name": "Specht",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Steven B",
+                "Last Name": "Wells",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Szabo",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Isaac J",
+                "Last Name": "Jensen",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Donna L",
+                "Last Name": "Farber",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "36798358",
+        "Title": "Scalable co-sequencing of RNA and DNA from individual nuclei.",
+        "Abstract": "The ideal technology for directly investigating the relationship between genotype and phenotype would analyze both RNA and DNA genome-wide and with single-cell resolution. However, existing tools lack the throughput required for comprehensive analysis of complex tumors and tissues. We introduce a highly scalable method for jointly profiling DNA and expression following nucleosome depletion (DEFND-seq). In DEFND-seq, nuclei are nucleosome-depleted, tagmented, and separated into individual droplets for mRNA and genomic DNA barcoding. Once nuclei have been depleted of nucleosomes, subsequent steps can be performed using the widely available 10x Genomics droplet microfluidic technology and commercial kits without experimental modification. We demonstrate the production of high-complexity mRNA and gDNA sequencing libraries from thousands of individual nuclei from both cell lines and archived surgical specimens for associating gene expression phenotypes with both copy number and single nucleotide variants.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Timothy R",
+                "Last Name": "Olsen",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032."
+            },
+            {
+                "First Name": "Pranay",
+                "Last Name": "Talla",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032."
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Furnari",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY 10032."
+            },
+            {
+                "First Name": "Jeffrey N",
+                "Last Name": "Bruce",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY 10032."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Canoll",
+                "Affiliation": "Department of Pathology & Cell Biology, Columbia University Irving Medical Center, New York, NY, 10032."
+            },
+            {
+                "First Name": "Shan",
+                "Last Name": "Zha",
+                "Affiliation": "Department of Pathology & Cell Biology, Columbia University Irving Medical Center, New York, NY, 10032."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35383235",
+        "Title": "High-throughput translational profiling with riboPLATE-seq.",
+        "Abstract": "Protein synthesis is dysregulated in many diseases, but we lack a systems-level picture of how signaling molecules and RNA binding proteins interact with the translational machinery, largely due to technological limitations. Here we present riboPLATE-seq, a scalable method for generating paired libraries of ribosome-associated and total mRNA. As an extension of the PLATE-seq protocol, riboPLATE-seq utilizes barcoded primers for pooled library preparation, but additionally leverages anti-rRNA ribosome immunoprecipitation on whole polysomes to measure ribosome association (RA). We compare RA to its analogue in ribosome profiling and RNA sequencing, translation efficiency, and demonstrate both the performance of riboPLATE-seq and its utility in detecting translational alterations induced by specific inhibitors of protein kinases.",
+        "Keywords": [],
+        "MeSH terms": [
+            "High-Throughput Nucleotide Sequencing",
+            "Polyribosomes",
+            "Protein Biosynthesis",
+            "Ribosomes",
+            "Sequence Analysis, RNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jordan B",
+                "Last Name": "Metz",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Nicholas J",
+                "Last Name": "Hornstein",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Sohani Das",
+                "Last Name": "Sharma",
+                "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, 10065, USA."
+            },
+            {
+                "First Name": "Jeremy",
+                "Last Name": "Worley",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Christian",
+                "Last Name": "Gonzalez",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA. pas2182@columbia.edu."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35098924",
+        "Title": "Subcellular proteomics of dopamine neurons in the mouse brain.",
+        "Abstract": "Dopaminergic neurons modulate neural circuits and behaviors via dopamine (DA) release from expansive, long range axonal projections. The elaborate cytoarchitecture of these neurons is embedded within complex brain tissue, making it difficult to access the neuronal proteome using conventional methods. Here, we demonstrate APEX2 proximity labeling within genetically targeted neurons in the mouse brain, enabling subcellular proteomics with cell-type specificity. By combining APEX2 biotinylation with mass spectrometry, we mapped the somatodendritic and axonal proteomes of midbrain dopaminergic neurons. Our dataset reveals the proteomic architecture underlying proteostasis, axonal metabolism, and neurotransmission in these neurons. We find that most proteins encoded by DA neuron-enriched genes are localized within striatal dopaminergic axons, including ion channels with previously undescribed axonal localization. These proteomic datasets provide a resource for neuronal cell biology, and this approach can be readily adapted for study of other neural cell types.",
+        "Keywords": [
+            "Parkinson's disease",
+            "dopamine neuron",
+            "mouse",
+            "neuroscience",
+            "proteomics",
+            "proximity labeling"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "DNA-(Apurinic or Apyrimidinic Site) Lyase",
+            "Dopaminergic Neurons",
+            "Endonucleases",
+            "Female",
+            "Male",
+            "Mice",
+            "Multifunctional Enzymes",
+            "Proteomics",
+            "Synaptosomes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Benjamin D",
+                "Last Name": "Hobson",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Se Joon",
+                "Last Name": "Choi",
+                "Affiliation": "Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, United States."
+            },
+            {
+                "First Name": "Eugene V",
+                "Last Name": "Mosharov",
+                "Affiliation": "Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, United States."
+            },
+            {
+                "First Name": "Rajesh K",
+                "Last Name": "Soni",
+                "Affiliation": "Proteomics Shared Resource, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, United States."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Sulzer",
+                "Affiliation": "Department of Psychiatry, Columbia University Irving Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35021090",
+        "Title": "Subcellular and regional localization of mRNA translation in midbrain dopamine neurons.",
+        "Abstract": "Midbrain dopaminergic (mDA) neurons exhibit extensive dendritic and axonal arborizations, but local protein synthesis is not characterized in these neurons. Here, we investigate messenger RNA (mRNA) localization and translation in mDA neuronal axons and dendrites, both of which release dopamine (DA). Using highly sensitive ribosome-bound RNA sequencing and imaging approaches, we find no evidence for mRNA translation in mDA axons. In contrast, mDA neuronal dendrites in the substantia nigra pars reticulata (SNr) contain ribosomes and mRNAs encoding the major components of DA synthesis, release, and reuptake machinery. Surprisingly, we also observe dendritic localization of mRNAs encoding synaptic vesicle-related proteins, including those involved in exocytic fusion. Our results are consistent with a role for local translation in the regulation of DA release from dendrites, but not from axons. Our translatome data define a molecular signature of sparse mDA neurons in the SNr, including the enrichment of Atp2a3/SERCA3, an atypical ER calcium pump.",
+        "Keywords": [
+            "dopamine neuron",
+            "local translation",
+            "mRNA localization"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Axons",
+            "Dendrites",
+            "Dopamine",
+            "Dopaminergic Neurons",
+            "Female",
+            "Male",
+            "Mesencephalon",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Neuronal Plasticity",
+            "Protein Biosynthesis",
+            "RNA, Messenger",
+            "Ribosomes",
+            "Sequence Analysis, RNA",
+            "Substantia Nigra"
+        ],
+        "Authors": [
+            {
+                "First Name": "Benjamin D",
+                "Last Name": "Hobson",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York 10032, NY, USA; Medical Scientist Training Program, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Psychiatry, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Linghao",
+                "Last Name": "Kong",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York 10032, NY, USA."
+            },
+            {
+                "First Name": "Maria Florencia",
+                "Last Name": "Angelo",
+                "Affiliation": "Interdisciplinary Institute for Neuroscience, Université de Bordeaux, Bordeaux, France; Interdisciplinary Institute for Neuroscience, CNRS UMR 5297, Bordeaux, France."
+            },
+            {
+                "First Name": "Ori J",
+                "Last Name": "Lieberman",
+                "Affiliation": "Medical Scientist Training Program, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Psychiatry, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Eugene V",
+                "Last Name": "Mosharov",
+                "Affiliation": "Department of Psychiatry, Columbia University Irving Medical Center, New York, NY 10032, USA; Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Etienne",
+                "Last Name": "Herzog",
+                "Affiliation": "Interdisciplinary Institute for Neuroscience, Université de Bordeaux, Bordeaux, France; Interdisciplinary Institute for Neuroscience, CNRS UMR 5297, Bordeaux, France. Electronic address: etienne.herzog@u-bordeaux.fr."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Sulzer",
+                "Affiliation": "Department of Neurology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Psychiatry, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Pharmacology, Columbia University Irving Medical Center, New York, NY 10032, USA; Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, USA. Electronic address: ds43@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York 10032, NY, USA; Department of Biochemistry & Molecular Biophysics, Columbia University Irving Medical Center, New York, NY 10032, USA; Sulzberger Columbia Genome Center, Columbia University Irving Medical Center, New York, NY 10032, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, USA. Electronic address: pas2182@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "33975634",
+        "Title": "Deconvolution of cell type-specific drug responses in human tumor tissue with single-cell RNA-seq.",
+        "Abstract": "Preclinical studies require models that recapitulate the cellular diversity of human tumors and provide insight into the drug sensitivities of specific cellular populations. The ideal platform would enable rapid screening of cell type-specific drug sensitivities directly in patient tumor tissue and reveal strategies to overcome intratumoral heterogeneity.",
+        "Keywords": [
+            "Drug perturbation",
+            "Etoposide",
+            "Glioblastoma",
+            "Panobinostat",
+            "Single-cell RNA sequencing (scRNA-seq)",
+            "Tissue slice culture",
+            "Tumor heterogeneity",
+            "Tumor microenvironment"
+        ],
+        "MeSH terms": [
+            "Antineoplastic Agents",
+            "Biomarkers, Tumor",
+            "Computational Biology",
+            "Drug Screening Assays, Antitumor",
+            "Gene Expression Regulation, Neoplastic",
+            "Humans",
+            "Immunohistochemistry",
+            "In Situ Hybridization",
+            "Microscopy",
+            "Neoplasms",
+            "Precision Medicine",
+            "RNA-Seq",
+            "Sensitivity and Specificity",
+            "Single-Cell Analysis",
+            "Treatment Outcome",
+            "Tumor Microenvironment",
+            "Whole Genome Sequencing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wenting",
+                "Last Name": "Zhao",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Athanassios",
+                "Last Name": "Dovas",
+                "Affiliation": "Department of Pathology & Cell Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Eleonora Francesca",
+                "Last Name": "Spinazzi",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Hanna Mendes",
+                "Last Name": "Levitin",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Matei Alexandru",
+                "Last Name": "Banu",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Pavan",
+                "Last Name": "Upadhyayula",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Tejaswi",
+                "Last Name": "Sudhakar",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Tamara",
+                "Last Name": "Marie",
+                "Affiliation": "Department of Pathology & Cell Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Marc L",
+                "Last Name": "Otten",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Michael B",
+                "Last Name": "Sisti",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Jeffrey N",
+                "Last Name": "Bruce",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Canoll",
+                "Affiliation": "Department of Pathology & Cell Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA. pc561@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA. pas2182@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Genome medicine",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33173156",
+        "Title": "Integrating single-cell RNA-seq and imaging with SCOPE-seq2.",
+        "Abstract": "Live cell imaging allows direct observation and monitoring of phenotypes that are difficult to infer from transcriptomics. However, existing methods for linking microscopy and single-cell RNA-seq (scRNA-seq) have limited scalability. Here, we describe an upgraded version of Single Cell Optical Phenotyping and Expression (SCOPE-seq2) for combining single-cell imaging and expression profiling, with substantial improvements in throughput, molecular capture efficiency, linking accuracy, and compatibility with standard microscopy instrumentation. We introduce improved optically decodable mRNA capture beads and implement a more scalable and simplified optical decoding process. We demonstrate the utility of SCOPE-seq2 for fluorescence, morphological, and expression profiling of individual primary cells from a human glioblastoma (GBM) surgical sample, revealing relationships between simple imaging features and cellular identity, particularly among malignantly transformed tumor cells.",
+        "Keywords": [],
+        "MeSH terms": [
+            "3T3 Cells",
+            "Animals",
+            "Cell Line, Tumor",
+            "Gene Expression Profiling",
+            "Glioblastoma",
+            "High-Throughput Nucleotide Sequencing",
+            "Humans",
+            "Mice",
+            "Microscopy, Fluorescence",
+            "Optical Imaging",
+            "Sequence Analysis, RNA",
+            "Single-Cell Analysis",
+            "Tumor Cells, Cultured"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zhouzerui",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Jinzhou",
+                "Last Name": "Yuan",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Lasorella",
+                "Affiliation": "Institute for Cancer Genetics, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Antonio",
+                "Last Name": "Iavarone",
+                "Affiliation": "Institute for Cancer Genetics, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Jeffrey N",
+                "Last Name": "Bruce",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Canoll",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA. pas2182@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32844746",
+        "Title": "Elongation inhibitors do not prevent the release of puromycylated nascent polypeptide chains from ribosomes.",
+        "Abstract": "Puromycin is an amino-acyl transfer RNA analog widely employed in studies of protein synthesis. Since puromycin is covalently incorporated into nascent polypeptide chains, anti-puromycin immunofluorescence enables visualization of nascent protein synthesis. A common assumption in studies of local messenger RNA translation is that the anti-puromycin staining of puromycylated nascent polypeptides in fixed cells accurately reports on their original site of translation, particularly when ribosomes are stalled with elongation inhibitors prior to puromycin treatment. However, when we attempted to implement a proximity ligation assay to detect ribosome-puromycin complexes, we found no evidence to support this assumption. We further demonstrated, using biochemical assays and live cell imaging of nascent polypeptides in mammalian cells, that puromycylated nascent polypeptides rapidly dissociate from ribosomes even in the presence of elongation inhibitors. Our results suggest that attempts to define precise subcellular translation sites using anti-puromycin immunostaining may be confounded by release of puromycylated nascent polypeptide chains prior to fixation.",
+        "Keywords": [
+            "biochemistry",
+            "cell biology",
+            "chemical biology",
+            "human",
+            "local translation",
+            "mouse",
+            "proximity ligation assay",
+            "puromycin",
+            "ribosome",
+            "translation"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cell Line, Tumor",
+            "Mice",
+            "Peptide Chain Elongation, Translational",
+            "Protein Synthesis Inhibitors",
+            "Proteins",
+            "Puromycin",
+            "RNA, Messenger",
+            "RNA, Transfer, Amino Acyl",
+            "Ribosomes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Benjamin D",
+                "Last Name": "Hobson",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Linghao",
+                "Last Name": "Kong",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Erik W",
+                "Last Name": "Hartwick",
+                "Affiliation": "Department of Chemistry, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Ruben L",
+                "Last Name": "Gonzalez",
+                "Affiliation": "Department of Chemistry, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32579931",
+        "Title": "Single-Cell Profiling and SCOPE-Seq Reveal Lineage Dynamics of Adult Ventricular-Subventricular Zone Neurogenesis and NOTUM as a Key Regulator.",
+        "Abstract": "In the adult ventricular-subventricular zone (V-SVZ), neural stem cells (NSCs) generate new olfactory bulb (OB) neurons and glia throughout life. To map adult neuronal lineage progression, we profiled >56,000 V-SVZ and OB cells by single-cell RNA sequencing (scRNA-seq). Our analyses reveal the molecular diversity of OB neurons, including fate-mapped neurons, lineage progression dynamics, and an NSC intermediate enriched for Notum, which encodes a secreted WNT antagonist. SCOPE-seq technology, which links live-cell imaging with scRNA-seq, uncovers cell-size transitions during NSC differentiation and preferential NOTUM binding to proliferating neuronal precursors. Consistently, application of NOTUM protein in slice cultures and pharmacological inhibition of NOTUM in slice cultures and in vivo demonstrated that NOTUM negatively regulates V-SVZ proliferation. Timely, context-dependent neurogenesis demands adaptive signaling among neighboring progenitors. Our findings highlight a critical regulatory state during NSC activation marked by NOTUM, which attenuates WNT-stimulated proliferation in NSC progeny.",
+        "Keywords": [
+            "NOTUM",
+            "SCOPE-seq",
+            "WNT signaling",
+            "adult neural stem cell",
+            "lineage tracing",
+            "single cell RNA-sequencing",
+            "ventricular-subventricular zone"
+        ],
+        "MeSH terms": [
+            "Aging",
+            "Animals",
+            "Cell Lineage",
+            "Cell Proliferation",
+            "Esterases",
+            "Gene Expression Regulation",
+            "Genes, Reporter",
+            "Lateral Ventricles",
+            "Mice, Inbred C57BL",
+            "Neurogenesis",
+            "Neurons",
+            "Olfactory Bulb",
+            "Single-Cell Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dogukan",
+                "Last Name": "Mizrak",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "N Sumru",
+                "Last Name": "Bayin",
+                "Affiliation": "Developmental Biology Program, Sloan Kettering Institute, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Jinzhou",
+                "Last Name": "Yuan",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Zhouzerui",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Radu M",
+                "Last Name": "Suciu",
+                "Affiliation": "Department of Molecular Medicine, The Scripps Research Institute, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Micah J",
+                "Last Name": "Niphakis",
+                "Affiliation": "Lundbeck La Jolla Research Center, Inc., 10835 Road to the Cure, Suite 250, San Diego, CA 92121, USA."
+            },
+            {
+                "First Name": "Nhi",
+                "Last Name": "Ngo",
+                "Affiliation": "Lundbeck La Jolla Research Center, Inc., 10835 Road to the Cure, Suite 250, San Diego, CA 92121, USA."
+            },
+            {
+                "First Name": "Kenneth M",
+                "Last Name": "Lum",
+                "Affiliation": "Lundbeck La Jolla Research Center, Inc., 10835 Road to the Cure, Suite 250, San Diego, CA 92121, USA."
+            },
+            {
+                "First Name": "Benjamin F",
+                "Last Name": "Cravatt",
+                "Affiliation": "Department of Molecular Medicine, The Scripps Research Institute, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Alexandra L",
+                "Last Name": "Joyner",
+                "Affiliation": "Developmental Biology Program, Sloan Kettering Institute, New York, NY 10065, USA; Biochemistry, Cell and Molecular Biology Program, Weill Cornell Graduate School of Medical Sciences, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biochemistry & Molecular Biophysics, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: pas2182@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31624246",
+        "Title": "Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease.",
+        "Abstract": "Human T cells coordinate adaptive immunity in diverse anatomic compartments through production of cytokines and effector molecules, but it is unclear how tissue site influences T cell persistence and function. Here, we use single cell RNA-sequencing (scRNA-seq) to define the heterogeneity of human T cells isolated from lungs, lymph nodes, bone marrow and blood, and their functional responses following stimulation. Through analysis of >50,000 resting and activated T cells, we reveal tissue T cell signatures in mucosal and lymphoid sites, and lineage-specific activation states across all sites including distinct effector states for CD8",
+        "Keywords": [],
+        "MeSH terms": [
+            "CD4-Positive T-Lymphocytes",
+            "CD8-Positive T-Lymphocytes",
+            "Cells, Cultured",
+            "Humans",
+            "Lung",
+            "Lymph Nodes",
+            "Lymphocyte Activation",
+            "Mucous Membrane",
+            "Neoplasms",
+            "Single-Cell Analysis",
+            "T-Lymphocytes",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Peter A",
+                "Last Name": "Szabo",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Hanna Mendes",
+                "Last Name": "Levitin",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Michelle",
+                "Last Name": "Miron",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Mark E",
+                "Last Name": "Snyder",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Takashi",
+                "Last Name": "Senda",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jinzhou",
+                "Last Name": "Yuan",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Yim Ling",
+                "Last Name": "Cheng",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Erin C",
+                "Last Name": "Bush",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Pranay",
+                "Last Name": "Dogra",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Puspa",
+                "Last Name": "Thapa",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Donna L",
+                "Last Name": "Farber",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY, USA. df2396@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA. pas2182@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31126351",
+        "Title": "Dissecting lung development and fibrosis at single-cell resolution.",
+        "Abstract": "Single-cell transcriptome profiling has enabled high-resolution analysis of cellular populations in tissues during development, health, and disease. Recent studies make innovative use of single-cell RNA sequencing (scRNAseq) to investigate mechanisms that allow immune cells to interact with tissue components in the lung during development and fibrotic lung disease.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Communication",
+            "Cell Differentiation",
+            "Fibrosis",
+            "Gene Expression Profiling",
+            "Humans",
+            "Lung",
+            "Single-Cell Analysis",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Donna L",
+                "Last Name": "Farber",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY, 10032, USA. df2396@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA. pas2182@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Genome medicine",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31118205",
+        "Title": "Critical Analysis of Particle Detection Artifacts in Synaptosome Flow Cytometry.",
+        "Abstract": "Flow cytometry and fluorescence-activated sorting are powerful techniques that hold great promise for studying heterogeneous populations of submicron particles such as synaptosomes, but many technical challenges arise in these experiments. To date, most flow cytometry studies of synaptosomes have relied on particle detection using forward scatter (FSC) measurements and size estimation with polystyrene (PS) bead standards. However, these practices have serious limitations, and special care must be taken to overcome the poor sensitivity of conventional flow cytometers in the analysis of submicron particles. Technical artifacts can confound these experiments, especially the detection of multiple particles as a single event. Here, we compared analysis of P2 crude synaptosomal preparations from murine forebrain on multiple flow cytometers using both FSC-triggered and fluorescence-triggered detection. We implemented multicolor fluorescent dye-based assays to quantify coincident particle detection and aggregation, and we assessed the false colocalization of antigens in immunostaining analyses. Our results demonstrate that fluorescence triggering and proper dilution can control for coincident particle detection, but not particle aggregation. We confirmed previous studies showing that FSC-based size estimation with PS beads underestimates biological particle size, and we identified pervasive aggregation in the FSC range analyzed in most synaptosome flow cytometry studies. We found that analyzing P2 samples in sucrose/EDTA/tris (SET) buffer reduces aggregation compared to PBS, but does not completely eliminate the presence of aggregates, especially in immunostaining experiments. Our study highlights challenges and pitfalls in synaptosome flow cytometry and provides a methodological framework for future studies.",
+        "Keywords": [
+            "flow cytometry",
+            "synaptosomes"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Artifacts",
+            "Flow Cytometry",
+            "Fluorescent Dyes",
+            "Male",
+            "Mice, Inbred C57BL",
+            "Particle Size",
+            "Polystyrenes",
+            "Prosencephalon",
+            "Reference Standards",
+            "Scattering, Radiation",
+            "Synaptosomes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Benjamin D",
+                "Last Name": "Hobson",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032 bh2573@columbia.edu pas2182@columbia.edu."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032 bh2573@columbia.edu pas2182@columbia.edu."
+            }
+        ],
+        "Journal": "eNeuro",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30893603",
+        "Title": "Widespread Alterations in Translation Elongation in the Brain of Juvenile Fmr1 Knockout Mice.",
+        "Abstract": "FMRP (fragile X mental retardation protein) is a polysome-associated RNA-binding protein encoded by Fmr1 that is lost in fragile X syndrome. Increasing evidence suggests that FMRP regulates both translation initiation and elongation, but the gene specificity of these effects is unclear. To elucidate the impact of Fmr1 loss on translation, we utilize ribosome profiling for genome-wide measurements of ribosomal occupancy and positioning in the cortex of 24-day-old Fmr1 knockout mice. We find a remarkably coherent reduction in ribosome footprint abundance per mRNA for previously identified, high-affinity mRNA binding partners of FMRP and an increase for terminal oligopyrimidine (TOP) motif-containing genes canonically controlled by mammalian target of rapamycin-eIF4E-binding protein-eIF4E binding protein-eukaryotic initiation factor 4E (mTOR-4E-BP-eIF4E) signaling. Amino acid motif- and gene-level analyses both show a widespread reduction of translational pausing in Fmr1 knockout mice. Our findings are consistent with a model of FMRP-mediated regulation of both translation initiation through eIF4E and elongation that is disrupted in fragile X syndrome.",
+        "Keywords": [
+            "fragile X syndrome",
+            "ribosome profiling",
+            "translational regulation"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cerebral Cortex",
+            "Fragile X Mental Retardation Protein",
+            "Fragile X Syndrome",
+            "Mice",
+            "Mice, Knockout",
+            "Peptide Chain Elongation, Translational",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sohani",
+                "Last Name": "Das Sharma",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jordan B",
+                "Last Name": "Metz",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Medical Scientist Training Program, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Hongyu",
+                "Last Name": "Li",
+                "Affiliation": "Department of Neurology, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Benjamin D",
+                "Last Name": "Hobson",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Medical Scientist Training Program, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Hornstein",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Medical Scientist Training Program, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Sulzer",
+                "Affiliation": "Department of Neurology, Columbia University Medical Center, New York, NY 10032, USA; Department of Psychiatry, Columbia University Medical Center, New York, NY 10032, USA; Department of Pharmacology, Columbia University Medical Center, New York, NY 10032, USA; Division of Molecular Therapeutics, New York State Psychiatric Institute, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Guomei",
+                "Last Name": "Tang",
+                "Affiliation": "Department of Neurology, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Department of Biochemistry & Molecular Biophysics, Columbia University Medical Center, New York, NY 10032, USA; Sulzberger Columbia Genome Center, Columbia University Medical Center, New York, NY 10032, USA. Electronic address: pas2182@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30796088",
+        "Title": "",
+        "Abstract": "Common approaches to gene signature discovery in single-cell RNA-sequencing (scRNA-seq) depend upon predefined structures like clusters or pseudo-temporal order, require prior normalization, or do not account for the sparsity of single-cell data. We present single-cell hierarchical Poisson factorization (scHPF), a Bayesian factorization method that adapts hierarchical Poisson factorization (Gopalan ",
+        "Keywords": [
+            "dimensionality reduction",
+            "gene signature discovery",
+            "glioma",
+            "single‐cell RNA‐seq"
+        ],
+        "MeSH terms": [
+            "Bayes Theorem",
+            "Gene Expression Regulation, Neoplastic",
+            "Glioma",
+            "High-Throughput Nucleotide Sequencing",
+            "Humans",
+            "Poisson Distribution",
+            "Single-Cell Analysis",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hanna Mendes",
+                "Last Name": "Levitin",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jinzhou",
+                "Last Name": "Yuan",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Yim Ling",
+                "Last Name": "Cheng",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Francisco Jr",
+                "Last Name": "Ruiz",
+                "Affiliation": "Department of Computer Science, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Erin C",
+                "Last Name": "Bush",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jeffrey N",
+                "Last Name": "Bruce",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Canoll",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Antonio",
+                "Last Name": "Iavarone",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Lasorella",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "David M",
+                "Last Name": "Blei",
+                "Affiliation": "Department of Computer Science, Columbia University, New York, NY, USA david.blei@columbia.edu pas2182@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA david.blei@columbia.edu pas2182@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Molecular systems biology",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30583733",
+        "Title": "SCOPE-Seq: a scalable technology for linking live cell imaging and single-cell RNA sequencing.",
+        "Abstract": "Optically decodable beads link the identity of a sample to a measurement through an optical barcode, enabling libraries of biomolecules to be captured on beads in solution and decoded by fluorescence. This approach has been foundational to microarray, sequencing, and flow-based expression profiling technologies. We combine microfluidics with optically decodable beads and show that phenotypic analysis of living cells can be linked to single-cell sequencing. As a proof-of-concept, we demonstrate the accuracy and scalability of our tool called Single Cell Optical Phenotyping and Expression sequencing (SCOPE-Seq) to combine live cell imaging with single-cell RNA sequencing.",
+        "Keywords": [
+            "Live cell imaging",
+            "Microfluidics",
+            "Single-cell RNA-Seq"
+        ],
+        "MeSH terms": [
+            "3T3 Cells",
+            "Animals",
+            "Humans",
+            "Mice",
+            "Optical Imaging",
+            "Sequence Analysis, RNA",
+            "Single-Cell Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jinzhou",
+                "Last Name": "Yuan",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Jenny",
+                "Last Name": "Sheng",
+                "Affiliation": "Integrated Program in Cellular, Molecular, and Biomedical Studies, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, 10032, USA. pas2182@columbia.edu."
+            }
+        ],
+        "Journal": "Genome biology",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "30041684",
+        "Title": "Single-cell transcriptome analysis of lineage diversity in high-grade glioma.",
+        "Abstract": "Despite extensive molecular characterization, we lack a comprehensive understanding of lineage identity, differentiation, and proliferation in high-grade gliomas (HGGs).",
+        "Keywords": [],
+        "MeSH terms": [
+            "Brain Neoplasms",
+            "Cell Proliferation",
+            "Cell Transformation, Neoplastic",
+            "Glioma",
+            "Humans",
+            "Neuroglia",
+            "Neurons",
+            "Single-Cell Analysis",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jinzhou",
+                "Last Name": "Yuan",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Hanna Mendes",
+                "Last Name": "Levitin",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Veronique",
+                "Last Name": "Frattini",
+                "Affiliation": "Institute for Cancer Genetics, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Erin C",
+                "Last Name": "Bush",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Deborah M",
+                "Last Name": "Boyett",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Jorge",
+                "Last Name": "Samanamud",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Michele",
+                "Last Name": "Ceccarelli",
+                "Affiliation": "Department of Science and Technology, Università degli Studi del Sannio, 82100, Benevento, Italy."
+            },
+            {
+                "First Name": "Athanassios",
+                "Last Name": "Dovas",
+                "Affiliation": "Department of Pathology & Cell Biology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Zanazzi",
+                "Affiliation": "Department of Pathology & Cell Biology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Canoll",
+                "Affiliation": "Department of Pathology & Cell Biology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Jeffrey N",
+                "Last Name": "Bruce",
+                "Affiliation": "Department of Neurological Surgery, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Lasorella",
+                "Affiliation": "Institute for Cancer Genetics, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Antonio",
+                "Last Name": "Iavarone",
+                "Affiliation": "Institute for Cancer Genetics, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA. pas2182@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Genome medicine",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29606308",
+        "Title": "Single-Cell Transcriptomic Analysis of Tumor Heterogeneity.",
+        "Abstract": "Intratumoral heterogeneity is among the greatest challenges in precision cancer therapy. However, developments in high-throughput single-cell RNA sequencing (scRNA-seq) may now provide the statistical power to dissect the diverse cellular populations of tumors. In the future these technologies might inform the selection of targeted combination therapies and enrollment criteria for clinical trials.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Combined Modality Therapy",
+            "Computational Biology",
+            "Gene Expression Profiling",
+            "High-Throughput Nucleotide Sequencing",
+            "Humans",
+            "Molecular Targeted Therapy",
+            "Neoplasms",
+            "Precision Medicine",
+            "RNA",
+            "Sequence Analysis, RNA",
+            "Single-Cell Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hanna Mendes",
+                "Last Name": "Levitin",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jinzhou",
+                "Last Name": "Yuan",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University Medical Center, New York, NY 10032, USA; Sulzberger Columbia Genome Center, Columbia University Medical Center, New York, NY 10032, USA. Electronic address: pas2182@columbia.edu."
+            }
+        ],
+        "Journal": "Trends in cancer",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29190269",
+        "Title": "SPOTs fill a major gap in RNA quantification.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "RNA",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jinzhou",
+                "Last Name": "Yuan",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Biochemistry & Molecular Biophysics and the Sulzberger Columbia Genome Center, Columbia University Medical Center, New York, New York, USA."
+            }
+        ],
+        "Journal": "Nature methods",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28740083",
+        "Title": "PLATE-Seq for genome-wide regulatory network analysis of high-throughput screens.",
+        "Abstract": "Pharmacological and functional genomic screens play an essential role in the discovery and characterization of therapeutic targets and associated pharmacological inhibitors. Although these screens affect thousands of gene products, the typical readout is based on low complexity rather than genome-wide assays. To address this limitation, we introduce pooled library amplification for transcriptome expression (PLATE-Seq), a low-cost, genome-wide mRNA profiling methodology specifically designed to complement high-throughput screening assays. Introduction of sample-specific barcodes during reverse transcription supports pooled library construction and low-depth sequencing that is 10- to 20-fold less expensive than conventional RNA-Seq. The use of network-based algorithms to infer protein activity from PLATE-Seq data results in comparable reproducibility to 30 M read sequencing. Indeed, PLATE-Seq reproducibility compares favorably to other large-scale perturbational profiling studies such as the connectivity map and library of integrated network-based cellular signatures.Despite the importance of pharmacological and functional genomic screens the readouts are of low complexity. Here the authors introduce PLATE-Seq, a low-cost genome-wide mRNA profiling method to complement high-throughput screening.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Antineoplastic Agents",
+            "Cell Line, Tumor",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Neoplastic",
+            "Gene Regulatory Networks",
+            "Genome",
+            "Genome-Wide Association Study",
+            "Genomics",
+            "High-Throughput Nucleotide Sequencing",
+            "Humans",
+            "Reproducibility of Results"
+        ],
+        "Authors": [
+            {
+                "First Name": "Erin C",
+                "Last Name": "Bush",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Forest",
+                "Last Name": "Ray",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Mariano J",
+                "Last Name": "Alvarez",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Ronald",
+                "Last Name": "Realubit",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Hai",
+                "Last Name": "Li",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Charles",
+                "Last Name": "Karan",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA. andrea.califano@columbia.edu."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA. pas2182@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27670648",
+        "Title": "An Automated Microwell Platform for Large-Scale Single Cell RNA-Seq.",
+        "Abstract": "Recent developments have enabled rapid, inexpensive RNA sequencing of thousands of individual cells from a single specimen, raising the possibility of unbiased and comprehensive expression profiling from complex tissues. Microwell arrays are a particularly attractive microfluidic platform for single cell analysis due to their scalability, cell capture efficiency, and compatibility with imaging. We report an automated microwell array platform for single cell RNA-Seq with significantly improved performance over previous implementations. We demonstrate cell capture efficiencies of >50%, compatibility with commercially available barcoded mRNA capture beads, and parallel expression profiling from thousands of individual cells. We evaluate the level of cross-contamination in our platform by both tracking fluorescent cell lysate in sealed microwells and with a human-mouse mixed species RNA-Seq experiment. Finally, we apply our system to comprehensively assess heterogeneity in gene expression of patient-derived glioma neurospheres and uncover subpopulations similar to those observed in human glioma tissue.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jinzhou",
+                "Last Name": "Yuan",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY 10032 USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY 10032 USA."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27380875",
+        "Title": "Ligation-free ribosome profiling of cell type-specific translation in the brain.",
+        "Abstract": "Ribosome profiling has emerged as a powerful tool for genome-wide measurements of translation, but library construction requires multiple ligation steps and remains cumbersome relative to more conventional deep-sequencing experiments. We report a new, ligation-free approach to ribosome profiling that does not require ligation. Library construction for ligation-free ribosome profiling can be completed in one day with as little as 1 ng of purified RNA footprints. We apply ligation-free ribosome profiling to mouse brain tissue to identify new patterns of cell type-specific translation and test its ability to identify translational targets of mTOR signaling in the brain.",
+        "Keywords": [
+            "Brain",
+            "Ribosome profiling",
+            "Translation"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "High-Throughput Nucleotide Sequencing",
+            "Mice",
+            "Protein Biosynthesis",
+            "RNA",
+            "Ribosomes",
+            "Signal Transduction",
+            "TOR Serine-Threonine Kinases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Hornstein",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Daniela",
+                "Last Name": "Torres",
+                "Affiliation": "Graduate Ph.D. Program in Pharmacology and Molecular Signaling, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Sohani",
+                "Last Name": "Das Sharma",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Guomei",
+                "Last Name": "Tang",
+                "Affiliation": "Department of Neurology, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Canoll",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Medical Center, New York, NY, 10032, USA. pc561@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA. pas2182@columbia.edu."
+            }
+        ],
+        "Journal": "Genome biology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26047807",
+        "Title": "Scalable microfluidics for single-cell RNA printing and sequencing.",
+        "Abstract": "Many important biological questions demand single-cell transcriptomics on a large scale. Hence, new tools are urgently needed for efficient, inexpensive manipulation of RNA from individual cells. We report a simple platform for trapping single-cell lysates in sealed, picoliter microwells capable of printing RNA on glass or capturing RNA on beads. We then develop a scalable technology for genome-wide, single-cell RNA-Seq. Our device generates pooled libraries from hundreds of individual cells with consumable costs of $0.10-$0.20 per cell and includes five lanes for simultaneous experiments. We anticipate that this system will serve as a general platform for single-cell imaging and sequencing.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Line, Tumor",
+            "Dimethylpolysiloxanes",
+            "Gene Expression Profiling",
+            "High-Throughput Nucleotide Sequencing",
+            "Humans",
+            "Microfluidic Analytical Techniques",
+            "Optical Imaging",
+            "RNA",
+            "Sequence Analysis, RNA",
+            "Single-Cell Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sayantan",
+                "Last Name": "Bose",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA. sb3438@columbia.edu."
+            },
+            {
+                "First Name": "Zhenmao",
+                "Last Name": "Wan",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, 10027, USA. wanzhenmao@gmail.com."
+            },
+            {
+                "First Name": "Ambrose",
+                "Last Name": "Carr",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, 10027, USA. ambrosejcarr@gmail.com."
+            },
+            {
+                "First Name": "Abbas H",
+                "Last Name": "Rizvi",
+                "Affiliation": "Department of Biochemistry & Molecular Biophysics, Columbia University Medical Center, New York, NY, 10032, USA. abbas.rizvi@gmail.com."
+            },
+            {
+                "First Name": "Gregory",
+                "Last Name": "Vieira",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA. gregorybv@gmail.com."
+            },
+            {
+                "First Name": "Dana",
+                "Last Name": "Pe'er",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA. dpeer@biology.columbia.edu."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, 10032, USA. pas2182@columbia.edu."
+            }
+        ],
+        "Journal": "Genome biology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25122893",
+        "Title": "Ribosome profiling reveals a cell-type-specific translational landscape in brain tumors.",
+        "Abstract": "Glioma growth is driven by signaling that ultimately regulates protein synthesis. Gliomas are also complex at the cellular level and involve multiple cell types, including transformed and reactive cells in the brain tumor microenvironment. The distinct functions of the various cell types likely lead to different requirements and regulatory paradigms for protein synthesis. Proneural gliomas can arise from transformation of glial progenitors that are driven to proliferate via mitogenic signaling that affects translation. To investigate translational regulation in this system, we developed a RiboTag glioma mouse model that enables cell-type-specific, genome-wide ribosome profiling of tumor tissue. Infecting glial progenitors with Cre-recombinant retrovirus simultaneously activates expression of tagged ribosomes and delivers a tumor-initiating mutation. Remarkably, we find that although genes specific to transformed cells are highly translated, their translation efficiencies are low compared with normal brain. Ribosome positioning reveals sequence-dependent regulation of ribosomal activity in 5'-leaders upstream of annotated start codons, leading to differential translation in glioma compared with normal brain. Additionally, although transformed cells express a proneural signature, untransformed tumor-associated cells, including reactive astrocytes and microglia, express a mesenchymal signature. Finally, we observe the same phenomena in human disease by combining ribosome profiling of human proneural tumor and non-neoplastic brain tissue with computational deconvolution to assess cell-type-specific translational regulation.",
+        "Keywords": [
+            "cell-type-specific expression",
+            "glioblastoma",
+            "glioma",
+            "ribosome profiling",
+            "translational regulation"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Brain",
+            "Brain Neoplasms",
+            "Cell Transformation, Neoplastic",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Neoplastic",
+            "Glioma",
+            "Humans",
+            "Mice",
+            "Ribosomes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christian",
+                "Last Name": "Gonzalez",
+                "Affiliation": "Departments of Systems Biology."
+            },
+            {
+                "First Name": "Jennifer S",
+                "Last Name": "Sims",
+                "Affiliation": "Neurological Surgery."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Hornstein",
+                "Affiliation": "Departments of Systems Biology, Columbia University MD/PhD Program."
+            },
+            {
+                "First Name": "Angeliki",
+                "Last Name": "Mela",
+                "Affiliation": "Pathology and Cell Biology."
+            },
+            {
+                "First Name": "Franklin",
+                "Last Name": "Garcia",
+                "Affiliation": "Pathology and Cell Biology, Graduate PhD Program in Pathobiology and Molecular Medicine."
+            },
+            {
+                "First Name": "Liang",
+                "Last Name": "Lei",
+                "Affiliation": "Pathology and Cell Biology."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Gass",
+                "Affiliation": "Pediatrics, and."
+            },
+            {
+                "First Name": "Benjamin",
+                "Last Name": "Amendolara",
+                "Affiliation": "Neurological Surgery."
+            },
+            {
+                "First Name": "Jeffrey N",
+                "Last Name": "Bruce",
+                "Affiliation": "Neurological Surgery."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Canoll",
+                "Affiliation": "Pathology and Cell Biology, pas2182@columbia.edu pc561@columbia.edu."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Departments of Systems Biology, Biochemistry and Molecular Biophysics, Columbia University Medical Center, New York, New York 10032 pas2182@columbia.edu pc561@columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "22630610",
+        "Title": "Rapid and robust detection methods for poison and microbial contamination.",
+        "Abstract": "Real-time on-site monitoring of analytes is currently in high demand for food contamination, water, medicines, and ingestible household products that were never tested appropriately. Here we introduce chemical methods for the rapid quantification of a wide range of chemical and microbial contaminations using a simple instrument. Within the testing procedure, we used a multichannel, multisample, UV-vis spectrophotometer/fluorometer that employs two frequencies of light simultaneously to interrogate the sample. We present new enzyme- and dye-based methods to detect (di)ethylene glycol in consumables above 0.1 wt % without interference and alcohols above 1 ppb. Using DNA intercalating dyes, we can detect a range of pathogens ( E. coli , Salmonella , V. Cholera, and a model for Malaria) in water, foods, and blood without background signal. We achieved universal scaling independent of pathogen size above 10(4) CFU/mL by taking advantage of the simultaneous measurement at multiple wavelengths. We can detect contaminants directly, without separation, purification, concentration, or incubation. Our chemistry is stable to ± 1% for >3 weeks without refrigeration, and measurements require <5 min.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Bacteria",
+            "Blood Chemical Analysis",
+            "Cattle",
+            "Fluorometry",
+            "Food Analysis",
+            "Food Contamination",
+            "Food Microbiology",
+            "Poisons",
+            "Spectrophotometry",
+            "Water",
+            "Water Microbiology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Melanie M",
+                "Last Name": "Hoehl",
+                "Affiliation": "Department of Mechanical Engineering, Massachusetts Institute of Technology , Cambridge, Massachusetts 02139, USA. hoehl@mit.edu"
+            },
+            {
+                "First Name": "Peter J",
+                "Last Name": "Lu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alexander H",
+                "Last Name": "Slocum",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of agricultural and food chemistry",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22232676",
+        "Title": "Digital RNA sequencing minimizes sequence-dependent bias and amplification noise with optimized single-molecule barcodes.",
+        "Abstract": "RNA sequencing (RNA-Seq) is a powerful tool for transcriptome profiling, but is hampered by sequence-dependent bias and inaccuracy at low copy numbers intrinsic to exponential PCR amplification. We developed a simple strategy for mitigating these complications, allowing truly digital RNA-Seq. Following reverse transcription, a large set of barcode sequences is added in excess, and nearly every cDNA molecule is uniquely labeled by random attachment of barcode sequences to both ends. After PCR, we applied paired-end deep sequencing to read the two barcodes and cDNA sequences. Rather than counting the number of reads, RNA abundance is measured based on the number of unique barcode sequences observed for a given cDNA sequence. We optimized the barcodes to be unambiguously identifiable, even in the presence of multiple sequencing errors. This method allows counting with single-copy resolution despite sequence-dependent bias and PCR-amplification noise, and is analogous to digital PCR but amendable to quantifying a whole transcriptome. We demonstrated transcriptome profiling of Escherichia coli with more accurate and reproducible quantification than conventional RNA-Seq.",
+        "Keywords": [],
+        "MeSH terms": [
+            "DNA Barcoding, Taxonomic",
+            "DNA, Complementary",
+            "Escherichia coli",
+            "Gene Expression Profiling",
+            "High-Throughput Nucleotide Sequencing",
+            "Polymerase Chain Reaction",
+            "Sequence Analysis, RNA",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Katsuyuki",
+                "Last Name": "Shiroguchi",
+                "Affiliation": "Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA 02138, USA."
+            },
+            {
+                "First Name": "Tony Z",
+                "Last Name": "Jia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "X Sunney",
+                "Last Name": "Xie",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21666670",
+        "Title": "Fluorogenic DNA sequencing in PDMS microreactors.",
+        "Abstract": "We developed a multiplex sequencing-by-synthesis method combining terminal phosphate-labeled fluorogenic nucleotides (TPLFNs) and resealable polydimethylsiloxane (PDMS) microreactors. In the presence of phosphatase, primer extension by DNA polymerase using nonfluorescent TPLFNs generates fluorophores, which are confined in the microreactors and detected. We immobilized primed DNA templates in the microreactors, then sequentially introduced one of the four identically labeled TPLFNs, sealed the microreactors and recorded a fluorescence image after template-directed primer extension. With cycle times of <10 min, we demonstrate 30 base reads with ∼99% raw accuracy. Our 'fluorogenic pyrosequencing' offers benefits of pyrosequencing, such as rapid turnaround, one-color detection and generation of native DNA, along with high detection sensitivity and simplicity of parallelization because simultaneous real-time monitoring of all microreactors is not required.",
+        "Keywords": [],
+        "MeSH terms": [
+            "DNA",
+            "Dimethylpolysiloxanes",
+            "Fluorescence",
+            "Microchemistry",
+            "Oligonucleotide Array Sequence Analysis",
+            "Polymers",
+            "Sequence Analysis, DNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Chemistry and Chemical Biology, Harvard University, Cambridge, Massachusetts, USA."
+            },
+            {
+                "First Name": "William J",
+                "Last Name": "Greenleaf",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Haifeng",
+                "Last Name": "Duan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "X Sunney",
+                "Last Name": "Xie",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature methods",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "19504528",
+        "Title": "Probing dynein and kinesin stepping with mechanical manipulation in a living cell.",
+        "Abstract": "We report a label-free assay for simultaneous optical manipulation and tracking of endogenous lipid droplets as actively transported cargoes in a living mammalian cell with sub-millisecond time resolution. Using an EM-CCD camera as a highly sensitive quadrant detector, we can detect steps of dynein- and kinesin-driven cargoes under known force loads. We can distinguish single and multiple motor-driven cargoes and show that the stall forces for inward and outward transported cargoes are similar. By combining the stall force observable with the ability to detect individual steps, we can characterize kinesin- and dynein-driven active transport in different force regimes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biological Transport, Active",
+            "Cell Line, Tumor",
+            "Dyneins",
+            "Humans",
+            "Kinesins",
+            "Lipids"
+        ],
+        "Authors": [
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Chemistry and Chemical Biology, Harvard University, 12 Oxford Street, Cambridge, MA 02138, USA."
+            },
+            {
+                "First Name": "X Sunney",
+                "Last Name": "Xie",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Chemphyschem : a European journal of chemical physics and physical chemistry",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19151330",
+        "Title": "Patterns of gene-specific and total transcriptional activity during the Plasmodium falciparum intraerythrocytic developmental cycle.",
+        "Abstract": "The relationships among gene regulatory mechanisms in the malaria parasite Plasmodium falciparum throughout its asexual intraerythrocytic developmental cycle (IDC) remain poorly understood. To investigate the level and nature of transcriptional activity and its role in controlling gene expression during the IDC, we performed nuclear run-on on whole-transcriptome samples from time points throughout the IDC and found a peak in RNA polymerase II-dependent transcriptional activity related to both the number of nuclei per parasite and variable transcriptional activity per nucleus over time. These differential total transcriptional activity levels allowed the calculation of the absolute transcriptional activities of individual genes from gene-specific nuclear run-on hybridization data. For half of the genes analyzed, sense-strand transcriptional activity peaked at the same time point as total activity. The antisense strands of several genes were substantially transcribed. Comparison of the transcriptional activity of the sense strand of each gene to its steady-state RNA abundance across the time points assayed revealed both correlations and discrepancies, implying transcriptional and posttranscriptional regulation, respectively. Our results demonstrate that such comparisons can effectively indicate gene regulatory mechanisms in P. falciparum and suggest that genes with diverse transcriptional activity levels and patterns combine to produce total transcriptional activity levels tied to parasite development during the IDC.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Erythrocytes",
+            "Gene Expression Regulation, Developmental",
+            "Humans",
+            "Malaria, Falciparum",
+            "Plasmodium falciparum",
+            "Protozoan Proteins",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jennifer S",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Immunology and Infectious Diseases, Harvard School of Public Health, Harvard University, Boston, Massachusetts 02115, USA."
+            },
+            {
+                "First Name": "Kevin T",
+                "Last Name": "Militello",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vishal P",
+                "Last Name": "Patel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jacob M",
+                "Last Name": "Kasper",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dyann F",
+                "Last Name": "Wirth",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Eukaryotic cell",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18383236",
+        "Title": "Organelle tracking in a living cell with microsecond time resolution and nanometer spatial precision.",
+        "Abstract": "The study of cellular processes such as organelle transport often demands particle tracking with microsecond time-resolution and nanometer spatial precision, posing significant challenges to existing tracking methods. Here, we have developed a novel strategy for two-dimensional tracking of gold nanoparticles (GNPs) with 25 mus time resolution and approximately 1.5 nm spatial precision, by using a quadrant photodiode to record the positions of GNPs in an objective-type dark-field microscope. In combination with a feedback loop, this technique records long, high time-resolution and spatial precision trajectories of endocytosed GNPs transported by the molecular motors kinesin and dynein in a living cell. In the full range of organelle velocities (0-8 microm s(-1)), we clearly resolve the individual 8 nm steps of cargoes carried by kinesin, and the 8, 12, 16, 20, and 24 nm steps of those carried by dynein. These experiments yield new information about molecular motor stepping in living cells.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biological Transport",
+            "Cell Line, Tumor",
+            "Dyneins",
+            "Endocytosis",
+            "Gold",
+            "Humans",
+            "Kinesins",
+            "Kinetics",
+            "Metal Nanoparticles",
+            "Microscopy",
+            "Nanotechnology",
+            "Organelles"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xiaolin",
+                "Last Name": "Nan",
+                "Affiliation": "Department of Chemistry and Chemical Biology, Harvard University, 12 Oxford Street, Cambridge, MA 02138, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "X Sunney",
+                "Last Name": "Xie",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Chemphyschem : a European journal of chemical physics and physical chemistry",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "19547205",
+        "Title": "Target-locking acquisition with real-time confocal (TARC) microscopy.",
+        "Abstract": "We present a real-time target-locking confocal microscope that follows an object moving along an arbitrary path, even as it simultaneously changes its shape, size and orientation. This Target-locking Acquisition with Realtime Confocal (TARC) microscopy system integrates fast image processing and rapid image acquisition using a Nipkow spinning-disk confocal microscope. The system acquires a 3D stack of images, performs a full structural analysis to locate a feature of interest, moves the sample in response, and then collects the next 3D image stack. In this way, data collection is dynamically adjusted to keep a moving object centered in the field of view. We demonstrate the system's capabilities by target-locking freely-diffusing clusters of attractive colloidal particles, and activelytransported quantum dots (QDs) endocytosed into live cells free to move in three dimensions, for several hours. During this time, both the colloidal clusters and live cells move distances several times the length of the imaging volume.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Peter J",
+                "Last Name": "Lu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hidekazu",
+                "Last Name": "Oki",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James B",
+                "Last Name": "Macarthur",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Weitz",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Optics express",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "16375416",
+        "Title": "Observation of individual microtubule motor steps in living cells with endocytosed quantum dots.",
+        "Abstract": "We report the observation of individual steps taken by motor proteins in living cells by following movements of endocytic vesicles that contain quantum dots (QDs) with a fast camera. The brightness and photostability of quantum dots allow us to record motor displacement traces with 300 micros time resolution and 1.5 nm spatial precision. We observed individual 8 nm steps in active transport toward both the microtubule plus- and minus-ends, the directions of kinesin and dynein movements, respectively. In addition, we clearly resolved abrupt 16 nm steps in the plus-end direction and often consecutive 16 nm and occasional 24 nm steps in minus-end directed movements. This work demonstrates the ability of the QD assay to probe the operation of motor proteins at the molecular level in living cells under physiological conditions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Line, Tumor",
+            "Cytoplasm",
+            "Endocytosis",
+            "Humans",
+            "Microtubules",
+            "Molecular Motor Proteins",
+            "Quantum Dots",
+            "Transport Vesicles"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xiaolin",
+                "Last Name": "Nan",
+                "Affiliation": "Department of Chemistry and Chemical Biology, Harvard University, Cambridge, Massachusetts 02138, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peng",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "X Sunney",
+                "Last Name": "Xie",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The journal of physical chemistry. B",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15754303",
+        "Title": "Relative contributions of desolvation, inter- and intramolecular interactions to binding affinity in protein kinase systems.",
+        "Abstract": "In several previous studies, we performed sensitivity analysis to gauge the relative importance of different atomic partial charges in determining protein-ligand binding. In this work, we gain further insights by decomposing these results into three contributions: desolvation, intramolecular interactions, and intermolecular interactions, again based on a Poisson continuum electrostatics model. Three protein kinase-inhibitor systems have been analyzed: CDK2-deschloroflavopiridol, PKA-PKI, and LCK-PP2. Although our results point out the importance of specific intermolecular interactions to the binding affinity, they also reveal the remarkable contributions from the solvent-mediated intramolecular interactions in some cases. Thus, it is necessary to look beyond analyzing protein-ligand interactions to understand protein-ligand recognition or to gain insights into designing ligands and proteins. In analyzing the contributions of the three components to the overall binding free energy, the PKA-PKI system with a much larger ligand was found to behave differently from the other two systems with smaller ligands. In the former case, the intermolecular interactions are very favorable, and together with the favorable solvent-mediated intramolecular interactions, they overcome the large desolvation penalties to give a favorable electrostatics contribution to the overall binding affinity. On the other hand, the other two systems with smaller ligands only present modest intermolecular interactions and they are not or are only barely sufficient to overcome the desolvation penalty even with the aid of the favorable intramolecular contributions. As a result, the binding affinity of these two systems do not or only barely benefit from electrostatics contributions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Amino Acid Sequence",
+            "CDC2-CDC28 Kinases",
+            "Cyclin-Dependent Kinase 2",
+            "Flavonoids",
+            "Lymphocyte Specific Protein Tyrosine Kinase p56(lck)",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Molecular Structure",
+            "Piperidines",
+            "Poisson Distribution",
+            "Protein Binding",
+            "Protein Kinase Inhibitors",
+            "Protein Kinases",
+            "Static Electricity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Chemistry and Chemical Biology, Harvard University, 12 Oxford Street, Cambridge, Massachusetts 02138, USA."
+            },
+            {
+                "First Name": "Chung F",
+                "Last Name": "Wong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Danka",
+                "Last Name": "Vuga",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "J Andrew",
+                "Last Name": "McCammon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bartholomew M",
+                "Last Name": "Sefton",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of computational chemistry",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15185335",
+        "Title": "Charge optimization of the interface between protein kinases and their ligands.",
+        "Abstract": "Examining the potential for electrostatic complementarity between a ligand and a receptor is a useful technique for rational drug design, and can demonstrate how a system prioritizes interactions when allowed to optimize its charge distribution. In this computational study, we implemented the previously developed, continuum solvent-based charge optimization theory with a simple, quadratic programming algorithm and the UHBD Poisson-Boltzmann solver. This method allows one to compute the best set of point charges for a ligand or ligand region based on the ligand and receptor shape, and the receptor partial charges, by optimizing the binding free energy obtained from a continuum-solvent model. We applied charge optimization to a fragment of the heat-stable protein kinase inhibitor (PKI) of protein kinase A (PKA), to three flavopiridol inhibitors of CDK2, and to cyclin A which interacts with CDK2 to regulate the cell cycle. We found that a combination of global (involving every charge) and local (involving only charges in a local region) optimization can give useful hints for designing better inhibitors. Although some parts of an inhibitor may already contribute significantly to binding, we found that they could still be the most important targets for modifications to obtain stronger binders. In studying the binding of flavopiridol inhibitors to CDK2, comparable binding affinity could be obtained regardless of whether the net charges of the inhibitors were constrained to -2, -1, 0, 1, or 2 during the optimization. This provides flexibility in inhibitor design when a certain net charge of the inhibitor is desired in addition to strong binding affinity. For the study of the PKA-PKI and CDK2-cyclin A interfaces, we identified residues whose charge distributions are already close to optimal and those whose charge distributions could be refined to further improve binding.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Binding Sites",
+            "Enzyme Inhibitors",
+            "Ligands",
+            "Models, Molecular",
+            "Molecular Structure",
+            "Protein Kinase Inhibitors",
+            "Protein Kinases",
+            "Thermodynamics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Chemistry and Biochemistry, University of California, San Diego, 9500 Gilman Drive, La Jolla, California 92093-0365."
+            },
+            {
+                "First Name": "Chung F",
+                "Last Name": "Wong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "J Andrew",
+                "Last Name": "McCammon",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of computational chemistry",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "14735878",
+        "Title": "Working with metaphor.",
+        "Abstract": "This article explores and affirms the importance of metaphor, in both conceptual and poetic thought, and its relevance to the practice of psychotherapy. It examines some of the obstacles commonly encountered as we attempt to become more aware of, and responsive to, the metaphors used by our clients. It continues by describing a simple six-stage model for working with client-generated metaphors, and concludes with a case example demonstrating the effectiveness of metaphor exploration in clinical work.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Anxiety",
+            "Female",
+            "Humans",
+            "Metaphor",
+            "Psychotherapy"
+        ],
+        "Authors": [
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Hotel Dieu Hospital, Department of Psychiatry, Queen's University, Kingston, Ontario, Canada. simsp@hdh.kari.net"
+            }
+        ],
+        "Journal": "American journal of psychotherapy",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12852762",
+        "Title": "A computational model of binding thermodynamics: the design of cyclin-dependent kinase 2 inhibitors.",
+        "Abstract": "The cyclin-dependent protein kinases are important targets in drug discovery because of their role in cell cycle regulation. In this computational study, we have applied a continuum solvent model to study the interactions between cyclin-dependent kinase 2 (CDK2) and analogues of the clinically tested anticancer agent flavopiridol. The continuum solvent model uses Coulomb's law to account for direct electrostatic interactions, solves the Poisson equation to obtain the electrostatic contributions to solvation energy, and calculates scaled solvent-accessible surface area to account for hydrophobic interactions. The computed free energy of binding gauges the strength of protein-ligand interactions. Our model was first validated through a study on the binding of a number of flavopiridol derivatives to CDK2, and its ability to identify potent inhibitors was observed. The model was then used to aid in the design of novel CDK2 inhibitors with the aid of a computational sensitivity analysis. Some of these hypothetical structures could be significantly more potent than the lead compound flavopiridol. We applied two approaches to gain insights into designing selective inhibitors. One relied on the comparative analysis of the binding pocket for several hundred protein kinases to identify the parts of a lead compound whose modifications might lead to selective compounds. The other was based on building and using homology models for energy calculations. The homology models appear to be able to classify ligand potency into groups but cannot yet give reliable quantitative results.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Binding Sites",
+            "CDC2 Protein Kinase",
+            "CDC2-CDC28 Kinases",
+            "Computing Methodologies",
+            "Cyclin-Dependent Kinase 2",
+            "Cyclin-Dependent Kinase 4",
+            "Cyclin-Dependent Kinases",
+            "Drug Design",
+            "Enzyme Inhibitors",
+            "Flavonoids",
+            "Models, Biological",
+            "Piperidines",
+            "Protein Binding",
+            "Protein Serine-Threonine Kinases",
+            "Proto-Oncogene Proteins",
+            "Thermodynamics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Chemistry and Biochemistry, University of California, San Diego, La Jolla, California 92093-0365, USA."
+            },
+            {
+                "First Name": "Chung F",
+                "Last Name": "Wong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "J Andrew",
+                "Last Name": "McCammon",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of medicinal chemistry",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12531860",
+        "Title": "Papua New Guinea needs law and order above all.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Delivery of Health Care",
+            "Humans",
+            "Papua New Guinea",
+            "Social Control, Formal",
+            "Urban Health Services"
+        ],
+        "Authors": [
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMJ (Clinical research ed.)",
+        "PubDate": "2003"
+    }
+]

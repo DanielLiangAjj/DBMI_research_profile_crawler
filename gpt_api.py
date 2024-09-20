@@ -79,7 +79,7 @@ def prompt_research_summary_based_on_abstract():
     print("ChatGPT Responses saved to", output_file)
 
 def prompt_research_interest_based_on_MeSH():
-    folder_path = 'researchers_files(Yilu_format)'
+    folder_path = 'researchers_files_new'
     # folder_path = 'output'
     research_txt = []
     for filename in os.listdir("Research Interests"):
@@ -125,10 +125,10 @@ def prompt_research_interest_based_on_MeSH():
         print(f"Research interests saved to {txt_file_path}")
 
 def prompt_research_overview_based_on_MeSH():
-    folder_path = 'researchers_files(Yilu_format)'
+    folder_path = 'researchers_files_new'
     # folder_path = 'output'
     research_txt = []
-    for filename in os.listdir("Research Overview"):
+    for filename in os.listdir("Research Overview New"):
         if filename.endswith('.txt'):
             name, _ = os.path.splitext(filename)
 
@@ -162,7 +162,7 @@ def prompt_research_overview_based_on_MeSH():
         content = response.choices[0].message.content
         print(content)
 
-        txt_file_path = os.path.join("Research Overview", f"{name}.txt")
+        txt_file_path = os.path.join("Research Overview New", f"{name}.txt")
         with open(txt_file_path, 'w', encoding='utf-8') as txt_file:
             txt_file.write(f"Researcher: {name}\n")
             txt_file.write("Research Overview:\n")

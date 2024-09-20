@@ -1,0 +1,2796 @@
+[
+    {
+        "PMID": "39060028",
+        "Title": "Reference-informed prediction of alternative splicing and splicing-altering mutations from sequences.",
+        "Abstract": "Alternative splicing plays a crucial role in protein diversity and gene expression regulation in higher eukaryotes, and mutations causing dysregulated splicing underlie a range of genetic diseases. Computational prediction of alternative splicing from genomic sequences not only provides insight into gene-regulatory mechanisms but also helps identify disease-causing mutations and drug targets. However, the current methods for the quantitative prediction of splice site usage still have limited accuracy. Here, we present DeltaSplice, a deep neural network model optimized to learn the impact of mutations on quantitative changes in alternative splicing from the comparative analysis of homologous genes. The model architecture enables DeltaSplice to perform \"reference-informed prediction\" by incorporating the known splice site usage of a reference gene sequence to improve its prediction on splicing-altering mutations. We benchmarked DeltaSplice and several other state-of-the-art methods on various prediction tasks, including evolutionary sequence divergence on lineage-specific splicing and splicing-altering mutations in human populations and neurodevelopmental disorders, and demonstrated that DeltaSplice outperformed consistently. DeltaSplice predicted ∼15% of splicing quantitative trait loci (sQTLs) in the human brain as causal splicing-altering variants. It also predicted splicing-altering de novo mutations outside the splice sites in a subset of patients affected by autism and other neurodevelopmental disorders (NDDs), including 19 genes with recurrent splicing-altering mutations. Integration of splicing-altering mutations with other types of de novo mutation burdens allowed the prediction of eight novel NDD-risk genes. Our work expanded the capacity of in silico splicing models with potential applications in genetic diagnosis and the development of splicing-based precision medicine.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Alternative Splicing",
+            "Mutation",
+            "Quantitative Trait Loci",
+            "RNA Splice Sites",
+            "Computational Biology",
+            "Neurodevelopmental Disorders"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chencheng",
+                "Last Name": "Xu",
+                "Affiliation": "Bioinformatics Division, BNRIST, Department of Computer Science and Technology, Tsinghua University, Beijing 100084, China."
+            },
+            {
+                "First Name": "Suying",
+                "Last Name": "Bao",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Ye",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Wenxing",
+                "Last Name": "Li",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Hao",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Computer Science and Engineering, University of California, Riverside, California 92521, USA."
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Tao",
+                "Last Name": "Jiang",
+                "Affiliation": "Bioinformatics Division, BNRIST, Department of Computer Science and Technology, Tsinghua University, Beijing 100084, China; jiang@cs.ucr.edu cz2294@columbia.edu."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York 10032, USA; jiang@cs.ucr.edu cz2294@columbia.edu."
+            }
+        ],
+        "Journal": "Genome research",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39026722",
+        "Title": "Oncogenic NOVA1 expression dysregulates alternative splicing in breast cancer.",
+        "Abstract": "Neuro-Oncological Ventral Antigen 1 (",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Daniel F",
+                "Last Name": "Moakley",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38979366",
+        "Title": "Disentangling the splicing factor programs underlying complex molecular phenotypes.",
+        "Abstract": "The regulation of exon inclusion through alternative splicing tunes the cell's behavior by increasing the functional diversity of the transcriptome and the proteome. Splicing factors work in concert to generate gene isoform pools that contribute to cell phenotypes yet their activity is controlled by multiple regulatory and signaling layers. This hinders identification of functional, phenotype-specific splicing factors using traditional single-omic measurements, such as their mutational state or expression. To address this challenge, we propose repurposing the virtual inference of protein activity by enriched regulon analysis (VIPER) to measure splicing factor activity solely from their downstream exon transcriptomic inclusion signatures. This approach is effective in assessing the effect of co-occurring splicing factor perturbations, as well as their post-translational regulation. As proof of concept, we dissect recurrent splicing factor programs underlying tumorigenesis including aberrantly activated factors acting as oncogenes and inactivated ones acting as tumor suppressors, which are undetectable by more conventional methodologies. Activation and inactivation of these cancer splicing programs effectively stratifies overall survival, as well as cancer hallmarks such as proliferation and immune evasion. Altogether, repurposing network-based inference of protein activity for splicing factor networks distills common, functionally relevant splicing programs in otherwise heterogeneous molecular contexts.",
+        "Keywords": [
+            "VIPER",
+            "alternative splicing",
+            "cancer",
+            "protein activity",
+            "splicing factor",
+            "tumorigenesis"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Miquel",
+                "Last Name": "Anglada-Girotto",
+                "Affiliation": "Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Dr. Aiguader 88, Barcelona 08003, Spain."
+            },
+            {
+                "First Name": "Daniel F",
+                "Last Name": "Moakley",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Samuel",
+                "Last Name": "Miravet-Verde",
+                "Affiliation": "Department of Biology, Institute of Microbiology and Swiss Institute of Bioinformatics, ETH Zurich, Zurich, Switzerland."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, USA 10032."
+            },
+            {
+                "First Name": "Luis",
+                "Last Name": "Serrano",
+                "Affiliation": "Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Dr. Aiguader 88, Barcelona 08003, Spain."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38915499",
+        "Title": "Reverse engineering neuron type-specific and type-orthogonal splicing-regulatory networks using single-cell transcriptomes.",
+        "Abstract": "Cell type-specific alternative splicing (AS) enables differential gene isoform expression between diverse neuron types with distinct identities and functions. Current studies linking individual RNA-binding proteins (RBPs) to AS in a few neuron types underscore the need for holistic modeling. Here, we use network reverse engineering to derive a map of the neuron type-specific AS regulatory landscape from 133 mouse neocortical cell types defined by single-cell transcriptomes. This approach reliably inferred the regulons of 350 RBPs and their cell type-specific activities. Our analysis revealed driving factors delineating neuronal identities, among which we validated Elavl2 as a key RBP for MGE-specific splicing in GABAergic interneurons using an in vitro ESC differentiation system. We also identified a module of exons and candidate regulators specific for long- and short-projection neurons across multiple neuronal classes. This study provides a resource for elucidating splicing regulatory programs that drive neuronal molecular diversity, including those that do not align with gene expression-based classifications.",
+        "Keywords": [
+            "Elavl2",
+            "RNA splicing regulation",
+            "RNA-binding proteins",
+            "network inference",
+            "neuronal subtypes"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Daniel F",
+                "Last Name": "Moakley",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Melissa",
+                "Last Name": "Campbell",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Miquel",
+                "Last Name": "Anglada-Girotto",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Huijuan",
+                "Last Name": "Feng",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Edmund",
+                "Last Name": "Au",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38772368",
+        "Title": "Lineage-specific splicing regulation of MAPT gene in the primate brain.",
+        "Abstract": "Divergence of precursor messenger RNA (pre-mRNA) alternative splicing (AS) is widespread in mammals, including primates, but the underlying mechanisms and functional impact are poorly understood. Here, we modeled cassette exon inclusion in primate brains as a quantitative trait and identified 1,170 (∼3%) exons with lineage-specific splicing shifts under stabilizing selection. Among them, microtubule-associated protein tau (MAPT) exons 2 and 10 underwent anticorrelated, two-step evolutionary shifts in the catarrhine and hominoid lineages, leading to their present inclusion levels in humans. The developmental-stage-specific divergence of exon 10 splicing, whose dysregulation can cause frontotemporal lobar degeneration (FTLD), is mediated by divergent distal intronic MBNL-binding sites. Competitive binding of these sites by CRISPR-dCas13d/gRNAs effectively reduces exon 10 inclusion, potentially providing a therapeutically compatible approach to modulate tau isoform expression. Our data suggest adaptation of MAPT function and, more generally, a role for AS in the evolutionary expansion of the primate brain.",
+        "Keywords": [
+            "MAPT/tau",
+            "MBNL",
+            "alternative splicing",
+            "primate brain evolution",
+            "tauopathies"
+        ],
+        "MeSH terms": [
+            "tau Proteins",
+            "Animals",
+            "Exons",
+            "Brain",
+            "Humans",
+            "Alternative Splicing",
+            "Primates",
+            "Introns",
+            "Evolution, Molecular"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yocelyn",
+                "Last Name": "Recinos",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Suying",
+                "Last Name": "Bao",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Xiaojian",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Brittany L",
+                "Last Name": "Phillips",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yow-Tyng",
+                "Last Name": "Yeh",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Sebastien M",
+                "Last Name": "Weyn-Vanhentenryck",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Maurice S",
+                "Last Name": "Swanson",
+                "Affiliation": "Department of Molecular Genetics and Microbiology, University of Florida, College of Medicine, Gainesville, FL 32610, USA; Center for NeuroGenetics and the Genetics Institute, University of Florida, College of Medicine, Gainesville, FL 32610, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA. Electronic address: cz2294@columbia.edu."
+            }
+        ],
+        "Journal": "Cell genomics",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38714659",
+        "Title": "CRISPR-dCas13d-based deep screening of proximal and distal splicing-regulatory elements.",
+        "Abstract": "Pre-mRNA splicing, a key process in gene expression, can be therapeutically modulated using various drug modalities, including antisense oligonucleotides (ASOs). However, determining promising targets is hampered by the challenge of systematically mapping splicing-regulatory elements (SREs) in their native sequence context. Here, we use the catalytically inactive CRISPR-RfxCas13d RNA-targeting system (dCas13d/gRNA) as a programmable platform to bind SREs and modulate splicing by competing against endogenous splicing factors. SpliceRUSH, a high-throughput screening method, was developed to map SREs in any gene of interest using a lentivirus gRNA library that tiles the genetic region, including distal intronic sequences. When applied to SMN2, a therapeutic target for spinal muscular atrophy, SpliceRUSH robustly identifies not only known SREs but also a previously unknown distal intronic SRE, which can be targeted to alter exon 7 splicing using either dCas13d/gRNA or ASOs. This technology enables a deeper understanding of splicing regulation with applications for RNA-based drug discovery.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "RNA Splicing",
+            "CRISPR-Cas Systems",
+            "Survival of Motor Neuron 2 Protein",
+            "RNA, Guide, CRISPR-Cas Systems",
+            "Introns",
+            "Exons",
+            "HEK293 Cells",
+            "Oligonucleotides, Antisense",
+            "Muscular Atrophy, Spinal",
+            "Regulatory Sequences, Nucleic Acid",
+            "RNA Precursors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yocelyn",
+                "Last Name": "Recinos",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Dmytro",
+                "Last Name": "Ustianenko",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Yow-Tyng",
+                "Last Name": "Yeh",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Xiaojian",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Martin",
+                "Last Name": "Jacko",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Lekha V",
+                "Last Name": "Yesantharao",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Qiyang",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, 10032, USA. cz2294@columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38703971",
+        "Title": "A clinicopathological-imaging nomogram for the prediction of pathological complete response in breast cancer cases administered neoadjuvant therapy.",
+        "Abstract": "To construct a user-friendly nomogram with MRI and clinicopathological parameters for the prediction of pathological complete response (pCR) after neoadjuvant therapy (NAT) in patients with breast cancer (BC).",
+        "Keywords": [
+            "Breast cancer",
+            "Magnetic resonance imaging",
+            "Neoadjuvant therapy",
+            "Nomogram",
+            "Pathological complete response"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Female",
+            "Breast Neoplasms",
+            "Nomograms",
+            "Middle Aged",
+            "Neoadjuvant Therapy",
+            "Magnetic Resonance Imaging",
+            "Retrospective Studies",
+            "Adult",
+            "Treatment Outcome",
+            "ROC Curve",
+            "Breast"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wei",
+                "Last Name": "Yang",
+                "Affiliation": "Department of Radiology, General Hospital of Ningxia Medical University, Yinchuan 750004, China. Electronic address: yangwei_0521@163.com."
+            },
+            {
+                "First Name": "Yan",
+                "Last Name": "Yang",
+                "Affiliation": "Information Technology Center, 32752 Troop, Xiangyang 441000, China."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Surgical Oncology, General Hospital of Ningxia Medical University, 804 Shengli Road, Yinchuan 750004, China."
+            },
+            {
+                "First Name": "Qingyun",
+                "Last Name": "Yin",
+                "Affiliation": "Department of medical Oncology, General Hospital of Ningxia Medical University, 804 Shengli Road, Yinchuan 750004, China."
+            },
+            {
+                "First Name": "Ningmei",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Pathology, General Hospital of Ningxia Medical University, 804 Shengli Road, Yinchuan 750004, China."
+            }
+        ],
+        "Journal": "Magnetic resonance imaging",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38586002",
+        "Title": "Reference-informed prediction of alternative splicing and splicing-altering mutations from sequences.",
+        "Abstract": "Alternative splicing plays a crucial role in protein diversity and gene expression regulation in higher eukaryotes and mutations causing dysregulated splicing underlie a range of genetic diseases. Computational prediction of alternative splicing from genomic sequences not only provides insight into gene-regulatory mechanisms but also helps identify disease-causing mutations and drug targets. However, the current methods for the quantitative prediction of splice site usage still have limited accuracy. Here, we present DeltaSplice, a deep neural network model optimized to learn the impact of mutations on quantitative changes in alternative splicing from the comparative analysis of homologous genes. The model architecture enables DeltaSplice to perform \"reference-informed prediction\" by incorporating the known splice site usage of a reference gene sequence to improve its prediction on splicing-altering mutations. We benchmarked DeltaSplice and several other state-of-the-art methods on various prediction tasks, including evolutionary sequence divergence on lineage-specific splicing and splicing-altering mutations in human populations and neurodevelopmental disorders, and demonstrated that DeltaSplice outperformed consistently. DeltaSplice predicted ~15% of splicing quantitative trait loci (sQTLs) in the human brain as causal splicing-altering variants. It also predicted splicing-altering ",
+        "Keywords": [
+            "DeltaSplice",
+            "alternative splicing",
+            "deep learning",
+            "reference-informed prediction",
+            "splice site usage",
+            "splicing-altering mutation"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Chencheng",
+                "Last Name": "Xu",
+                "Affiliation": "Bioinformatics Division, BNRIST, Department of Computer Science and Technology, Tsinghua University, Beijing 100084, China."
+            },
+            {
+                "First Name": "Suying",
+                "Last Name": "Bao",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Hao",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Computer Science and Engineering, University of California, Riverside, CA 92521, USA."
+            },
+            {
+                "First Name": "Tao",
+                "Last Name": "Jiang",
+                "Affiliation": "Department of Computer Science and Engineering, University of California, Riverside, CA 92521, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38480694",
+        "Title": "Structure-based prediction and characterization of photo-crosslinking in native protein-RNA complexes.",
+        "Abstract": "UV-crosslinking of protein and RNA in direct contacts has been widely used to study protein-RNA complexes while our understanding of the photo-crosslinking mechanisms remains poor. This knowledge gap is due to the challenge of precisely mapping the crosslink sites in protein and RNA simultaneously in their native sequence and structural contexts. Here we systematically analyze protein-RNA interactions and photo-crosslinking by bridging crosslinked nucleotides and amino acids mapped using different assays with protein-RNA complex structures. We developed a computational method PxR3D-map which reliably predicts crosslink sites using structural information characterizing protein-RNA interaction interfaces. Analysis of the informative features revealed that photo-crosslinking is facilitated by base stacking with not only aromatic residues, but also dipeptide bonds that involve glycine, and distinct mechanisms are utilized by different RNA-binding domains. Our work suggests protein-RNA photo-crosslinking is highly selective in the cellular environment, which can guide data interpretation and further technology development for UV-crosslinking-based assays.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Proteins",
+            "RNA",
+            "Amino Acids",
+            "Nucleotides",
+            "Cross-Linking Reagents"
+        ],
+        "Authors": [
+            {
+                "First Name": "Huijuan",
+                "Last Name": "Feng",
+                "Affiliation": "Department of Biostatistics and Computational Biology, School of Life Sciences, Fudan University, Shanghai, 200438, China."
+            },
+            {
+                "First Name": "Xiang-Jun",
+                "Last Name": "Lu",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Suvrajit",
+                "Last Name": "Maji",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Linxi",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Statistics, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Dmytro",
+                "Last Name": "Ustianenko",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Noam D",
+                "Last Name": "Rudnick",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, 10032, USA. cz2294@columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38213151",
+        "Title": "Identification of Breast Cancer Immune-related Prognostic Characteristics in Tumor Microenvironment.",
+        "Abstract": "Accumulated evidence suggest that tumor microenvironment (TME) plays a crucial role in breast cancer (BRCA) progression and therapeutic effects.",
+        "Keywords": [
+            "BRCA subtypes.",
+            "Breast cancer",
+            "immune-related subtypes",
+            "prognosis",
+            "tumor infiltrating immune cells",
+            "tumor microenvironment"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Zhenning",
+                "Last Name": "Tang",
+                "Affiliation": "Department of Surgical Oncology, General Hospital of Ningxia Medical University, 750004 Yinchuan, Ningxia, P. R. China."
+            },
+            {
+                "First Name": "Ling",
+                "Last Name": "Li",
+                "Affiliation": "Yinchuan First People\\'s Hospital Department of Neurology Yinchuan China."
+            },
+            {
+                "First Name": "Xiaoying",
+                "Last Name": "Huang",
+                "Affiliation": "Ningxia Medical University, 750004 Yinchuan, P. R. China."
+            },
+            {
+                "First Name": "Yinbing",
+                "Last Name": "Zhao",
+                "Affiliation": "Ningxia Medical University, 750004 Yinchuan, P. R. China."
+            },
+            {
+                "First Name": "Qingyuan",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Surgical Oncology, General Hospital of Ningxia Medical University, 750004 Yinchuan, Ningxia, P. R. China."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Surgical Oncology, General Hospital of Ningxia Medical University, 750004 Yinchuan, Ningxia, P. R. China."
+            }
+        ],
+        "Journal": "Recent patents on anti-cancer drug discovery",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37662340",
+        "Title": "Deep screening of proximal and distal splicing-regulatory elements in a native sequence context.",
+        "Abstract": "Pre-mRNA splicing, a key process in gene expression, can be therapeutically modulated using various drug modalities, including antisense oligonucleotides (ASOs). However, determining promising targets is impeded by the challenge of systematically mapping splicing-regulatory elements (SREs) in their native sequence context. Here, we use the catalytically dead CRISPR-",
+        "Keywords": [
+            "SMN2",
+            "alternative splicing",
+            "antisense oligonucleotides (ASO)",
+            "dCas13d/guide RNA",
+            "high-throughput screen",
+            "splicing-regulatory elements (SREs)"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Yocelyn",
+                "Last Name": "Recinos",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Dmytro",
+                "Last Name": "Ustianenko",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yow-Tyng",
+                "Last Name": "Yeh",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Xiaojian",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Martin",
+                "Last Name": "Jacko",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Lekha V",
+                "Last Name": "Yesantharao",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Qiyang",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37096157",
+        "Title": "Characteristics of coal resources in China and statistical analysis and preventive measures for coal mine accidents.",
+        "Abstract": "In the process of green and smart mine construction under the context of carbon neutrality, China's coal safety situation has been continuously improved in recent years. In order to recognize the development of coal production in China and prepare for future monitoring and prevention of safety incidents, this study mainly elaborated on the basic situation of coal resources and national mining accidents over the past five years  (2017-2021), from four dimensions (accident level, type, region, and time), and then proposed the preventive measures based on accident statistical laws. The results show that the storage of coal resources has obvious geographic characteristics, mainly concentrated in the Midwest, with coal resources in Shanxi and Shaanxi accounting for about 49.4%. The proportion of coal consumption has dropped from 70.2% to 56% between 2011 and 2021, but still accounts for more than half of the all. Meanwhile, the accident-prone areas are positively correlated with the amount of coal production. Among different levels of coal mine accidents, general accidents had the highest number of accidents and deaths, with 692 accidents and 783 deaths, accounting for 87.6% and 54.64% respectively. The frequency of roof, gas, and transportation accidents is relatively high, and the number of single fatalities caused by gas accidents is the largest, about 4.18. In terms of geographical distribution of accidents, the safety situation in Shanxi Province is the most severe. From the time distribution of coal mine accidents, the accidents mainly occurred in July and August, and rarely occurred in February and December. Finally, the \"4 + 4\" safety management model is proposed, combining the statistical results with coal production in China. Based on the existing health and safety management systems, the managements are divided into four sub-categories, and more specific measures are suggested.",
+        "Keywords": [
+            "Coal mine accidents",
+            "Preventive measures",
+            "Resource characteristics",
+            "Safety 4 + 4 model",
+            "Security situation"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Key Laboratory of Gas and Fire Control for Coal Mines, Ministry of Education, School of Safety Engineering, China University of Mining and Technology, Xuzhou, 221116 Jiangsu China."
+            },
+            {
+                "First Name": "Peizhong",
+                "Last Name": "Wang",
+                "Affiliation": "Key Laboratory of Gas and Fire Control for Coal Mines, Ministry of Education, School of Safety Engineering, China University of Mining and Technology, Xuzhou, 221116 Jiangsu China."
+            },
+            {
+                "First Name": "Enyuan",
+                "Last Name": "Wang",
+                "Affiliation": "Key Laboratory of Gas and Fire Control for Coal Mines, Ministry of Education, School of Safety Engineering, China University of Mining and Technology, Xuzhou, 221116 Jiangsu China."
+            },
+            {
+                "First Name": "Dapeng",
+                "Last Name": "Chen",
+                "Affiliation": "Key Laboratory of Gas and Fire Control for Coal Mines, Ministry of Education, School of Safety Engineering, China University of Mining and Technology, Xuzhou, 221116 Jiangsu China."
+            },
+            {
+                "First Name": "Chao",
+                "Last Name": "Li",
+                "Affiliation": "Shaanxi Coal Chemical Industry Technology Research Institute Co., LTD, Xi'an, 710054 Shaanxi China."
+            }
+        ],
+        "Journal": "International journal of coal science & technology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "33674385",
+        "Title": "Complexity and graded regulation of neuronal cell-type-specific alternative splicing revealed by single-cell RNA sequencing.",
+        "Abstract": "The enormous cellular diversity in the mammalian brain, which is highly prototypical and organized in a hierarchical manner, is dictated by cell-type-specific gene-regulatory programs at the molecular level. Although prevalent in the brain, the contribution of alternative splicing (AS) to the molecular diversity across neuronal cell types is just starting to emerge. Here, we systematically investigated AS regulation across over 100 transcriptomically defined neuronal types of the adult mouse cortex using deep single-cell RNA-sequencing data. We found distinct splicing programs between glutamatergic and GABAergic neurons and between subclasses within each neuronal class. These programs consist of overlapping sets of alternative exons showing differential splicing at multiple hierarchical levels. Using an integrative approach, our analysis suggests that RNA-binding proteins (RBPs) Celf1/2, Mbnl2, and Khdrbs3 are preferentially expressed and more active in glutamatergic neurons, while Elavl2 and Qk are preferentially expressed and more active in GABAergic neurons. Importantly, these and additional RBPs also contribute to differential splicing between neuronal subclasses at multiple hierarchical levels, and some RBPs contribute to splicing dynamics that do not conform to the hierarchical structure defined by the transcriptional profiles. Thus, our results suggest graded regulation of AS across neuronal cell types, which may provide a molecular mechanism to specify neuronal identity and function that are orthogonal to established classifications based on transcriptional regulation.",
+        "Keywords": [
+            "RNA-binding proteins",
+            "alternative splicing",
+            "graded regulation",
+            "neuronal cell type diversity",
+            "single-cell RNA-sequencing"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cerebral Cortex",
+            "GABAergic Neurons",
+            "Mice",
+            "Nerve Tissue Proteins",
+            "RNA Splicing",
+            "RNA-Seq",
+            "Single-Cell Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Huijuan",
+                "Last Name": "Feng",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Daniel F",
+                "Last Name": "Moakley",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Shuonan",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Melissa G",
+                "Last Name": "McKenzie",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Vilas",
+                "Last Name": "Menon",
+                "Affiliation": "Department of Neurology, Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032; cz2294@columbia.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33429376",
+        "Title": "Hyaluronic acid functionalized biodegradable mesoporous silica nanocomposites for efficient photothermal and chemotherapy in breast cancer.",
+        "Abstract": "Chemotherapy is one of conventional treatment methods for breast cancer, but drug toxicity and side effects have severely limited its clinical applications. Photothermal therapy has emerged as a promising method that, upon combination with chemotherapy, can better treat breast cancer. In this context, a biodegradable mesoporous silica nanoparticle (bMSN NPs) system was developed for loading doxorubicin (DOX) and IR780, to be potentially applied in the treatment of breast cancer. IR780 is encapsulated in the pores of bMSN NPs by hydrophobic adsorption, while DOX is adsorbed on the surface of the bMSN NPs by hyaluronic acid electrostatically, to form the bMID NPs. Transmission electron microscopy, fluorescence spectrum and UV absorption spectrum are used to prove the successful encapsulation of IR780 and the loading of DOX. In vitro experiments have shown bMID NPs present an excellent therapeutic effect on breast cancer cells. In vivo fluorescence imaging results have indicated that bMID NPs can accumulate in tumor sites gradually and achieve in vivo long-term circulation and continuous drug release. Furthermore, bMID NPs have provided obvious antitumor effects in breast cancer mouse models, thus evolving as an efficient platform for breast cancer therapy.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Antineoplastic Agents",
+            "Biocompatible Materials",
+            "Breast Neoplasms",
+            "Cell Death",
+            "Endocytosis",
+            "Female",
+            "Humans",
+            "Hyaluronic Acid",
+            "Hyperthermia, Induced",
+            "MCF-7 Cells",
+            "Mice, Nude",
+            "Nanocomposites",
+            "Nanoparticles",
+            "Phototherapy",
+            "Porosity",
+            "Silicon Dioxide",
+            "Static Electricity",
+            "Tissue Distribution",
+            "Toxicity Tests, Acute",
+            "Tumor Stem Cell Assay",
+            "Mice"
+        ],
+        "Authors": [
+            {
+                "First Name": "Wenhua",
+                "Last Name": "Zhan",
+                "Affiliation": "Key Laboratory of Biomedical Information Engineering of Education Ministry, School of Life Science and Technology, Xi'an Jiaotong University, Xi'an 710049, Shaanxi, People's Republic of China."
+            },
+            {
+                "First Name": "Hanrui",
+                "Last Name": "Li",
+                "Affiliation": "Engineering Research Center of Molecular & Neuro Imaging of the Ministry of Education, School of Life Science and Technology, Xidian University, Xi'an 710126, Shaanxi, People's Republic of China."
+            },
+            {
+                "First Name": "Yingying",
+                "Last Name": "Guo",
+                "Affiliation": "Engineering Research Center of Molecular & Neuro Imaging of the Ministry of Education, School of Life Science and Technology, Xidian University, Xi'an 710126, Shaanxi, People's Republic of China."
+            },
+            {
+                "First Name": "Lu",
+                "Last Name": "Yang",
+                "Affiliation": "Engineering Research Center of Molecular & Neuro Imaging of the Ministry of Education, School of Life Science and Technology, Xidian University, Xi'an 710126, Shaanxi, People's Republic of China."
+            },
+            {
+                "First Name": "Liaojun",
+                "Last Name": "Pang",
+                "Affiliation": "Engineering Research Center of Molecular & Neuro Imaging of the Ministry of Education, School of Life Science and Technology, Xidian University, Xi'an 710126, Shaanxi, People's Republic of China."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Radiation Oncology, General Hospital of Ningxia Medical University, Yinchuan 750004, People's Republic of China."
+            }
+        ],
+        "Journal": "Nanotechnology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "32992473",
+        "Title": "Research on Temperature Variation during Coal and Gas Outbursts: Implications for Outburst Prediction in Coal Mines.",
+        "Abstract": "Coal and gas outbursts are among the most severe disasters threatening the safety of coal mines around the world. They are dynamic phenomena characterized by large quantities of coal and gas ejected from working faces within a short time. Numerous researchers have conducted studies on outburst prediction, and a variety of indices have been developed to this end. However, these indices are usually empirical or based on local experience, and the accurate prediction of outbursts is not feasible due to the complicated mechanisms of outbursts. This study conducts outburst experiments using large-scale multifunctional equipment developed in the laboratory to develop a more robust outburst prediction method. In this study, the coal temperature during the outburst process was monitored using temperature sensors. The results show that the coal temperature decreased rapidly as the outburst progressed. Meanwhile, the coal temperature in locations far from the outburst mouth increased. The coal broken in the stress concentration state is the main factor causing the abnormal temperature rise. The discovery of these phenomena lays a theoretical foundation and provides an experimental basis for an effective outburst prediction method. An outburst prediction method based on monitoring temperature was proposed, and has a simpler and faster operation process and is not easily disturbed by coal mining activities. What is more, the critical values of coal temperature rises or temperature gradients can be flexibly adjusted according to the actual situations of different coal mines to predict outbursts more effectively and accurately.",
+        "Keywords": [
+            "coal and gas outburst",
+            "coal temperature",
+            "concentration stress",
+            "outburst prediction",
+            "outburst prevention"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Key Laboratory of Gas and Fire Control for Coal Mines, Ministry of Education, China University of Mining and Technology, Xuzhou 221116, China."
+            },
+            {
+                "First Name": "Enyuan",
+                "Last Name": "Wang",
+                "Affiliation": "Key Laboratory of Gas and Fire Control for Coal Mines, Ministry of Education, China University of Mining and Technology, Xuzhou 221116, China."
+            },
+            {
+                "First Name": "Jiang",
+                "Last Name": "Xu",
+                "Affiliation": "State Key Laboratory of Coal Mine Disaster Dynamics and Control, Chongqing University, Chongqing 400030, China."
+            },
+            {
+                "First Name": "Shoujian",
+                "Last Name": "Peng",
+                "Affiliation": "State Key Laboratory of Coal Mine Disaster Dynamics and Control, Chongqing University, Chongqing 400030, China."
+            }
+        ],
+        "Journal": "Sensors (Basel, Switzerland)",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32200794",
+        "Title": "Brain Translation: A Feather Tips the Scale.",
+        "Abstract": "In this issue of Molecular Cell, Gonatopoulos-Pournatzis et al. (2020) report a neuron-specific microexon in eIF4G translation initiation factors that dampens synaptic protein translation. Autism-associated disruption of this exon results in increased protein production, likely through reduced coalescence with cytoplasmic ribonucleoprotein granule components, including FMRP.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Autistic Disorder",
+            "Brain",
+            "Cognition",
+            "Eukaryotic Initiation Factor-4G",
+            "Feathers"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dmytro",
+                "Last Name": "Ustianenko",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Melissa G",
+                "Last Name": "McKenzie",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA. Electronic address: cz2294@columbia.edu."
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31226278",
+        "Title": "Modeling RNA-Binding Protein Specificity In Vivo by Precisely Registering Protein-RNA Crosslink Sites.",
+        "Abstract": "RNA-binding proteins (RBPs) regulate post-transcriptional gene expression by recognizing short and degenerate sequence motifs in their target transcripts, but precisely defining their binding specificity remains challenging. Crosslinking and immunoprecipitation (CLIP) allows for mapping of the exact protein-RNA crosslink sites, which frequently reside at specific positions in RBP motifs at single-nucleotide resolution. Here, we have developed a computational method, named mCross, to jointly model RBP binding specificity while precisely registering the crosslinking position in motif sites. We applied mCross to 112 RBPs using ENCODE eCLIP data and validated the reliability of the discovered motifs by genome-wide analysis of allelic binding sites. Our analyses revealed that the prototypical SR protein SRSF1 recognizes clusters of GGA half-sites in addition to its canonical GGAGGA motif. Therefore, SRSF1 regulates splicing of a much larger repertoire of transcripts than previously appreciated, including HNRNPD and HNRNPDL, which are involved in multivalent protein assemblies and phase separation.",
+        "Keywords": [
+            "CLIP",
+            "RNA-binding protein",
+            "SRSF1",
+            "allelic interaction",
+            "alternative splicing",
+            "hnRNP proteins",
+            "mCross",
+            "motif discovery",
+            "phase separation",
+            "protein-RNA crosslink sites"
+        ],
+        "MeSH terms": [
+            "Base Sequence",
+            "Binding Sites",
+            "Cross-Linking Reagents",
+            "Gene Expression",
+            "HeLa Cells",
+            "Hep G2 Cells",
+            "Heterogeneous Nuclear Ribonucleoprotein D0",
+            "Heterogeneous-Nuclear Ribonucleoprotein D",
+            "Humans",
+            "K562 Cells",
+            "Models, Molecular",
+            "Nucleic Acid Conformation",
+            "Protein Binding",
+            "Protein Conformation, alpha-Helical",
+            "Protein Conformation, beta-Strand",
+            "Protein Interaction Domains and Motifs",
+            "RNA",
+            "Sequence Alignment",
+            "Sequence Homology, Nucleic Acid",
+            "Serine-Arginine Splicing Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Huijuan",
+                "Last Name": "Feng",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Suying",
+                "Last Name": "Bao",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Mohammad Alinoor",
+                "Last Name": "Rahman",
+                "Affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA."
+            },
+            {
+                "First Name": "Sebastien M",
+                "Last Name": "Weyn-Vanhentenryck",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Aziz",
+                "Last Name": "Khan",
+                "Affiliation": "Centre for Molecular Medicine Norway (NCMM), Nordic EMBL Partnership, University of Oslo, 0318 Oslo, Norway."
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Wong",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Ankeeta",
+                "Last Name": "Shah",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Elise D",
+                "Last Name": "Flynn",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Adrian R",
+                "Last Name": "Krainer",
+                "Affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA. Electronic address: cz2294@columbia.edu."
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30682368",
+        "Title": "The Splicing Code Goes Deep.",
+        "Abstract": "The importance of genomic sequence context in generating transcriptome diversity through RNA splicing is independently unmasked by two studies in this issue (Jaganathan et al., 2019; Baeza-Centurion et al., 2019).",
+        "Keywords": [],
+        "MeSH terms": [
+            "Deep Learning",
+            "Genome",
+            "Genomics",
+            "RNA Splicing",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Suying",
+                "Last Name": "Bao",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Daniel F",
+                "Last Name": "Moakley",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA. Electronic address: cz2294@columbia.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30029005",
+        "Title": "LIN28 Selectively Modulates a Subclass of Let-7 MicroRNAs.",
+        "Abstract": "LIN28 is a bipartite RNA-binding protein that post-transcriptionally inhibits the biogenesis of let-7 microRNAs to regulate development and influence disease states. However, the mechanisms of let-7 suppression remain poorly understood because LIN28 recognition depends on coordinated targeting by both the zinc knuckle domain (ZKD), which binds a GGAG-like element in the precursor, and the cold shock domain (CSD), whose binding sites have not been systematically characterized. By leveraging single-nucleotide-resolution mapping of LIN28 binding sites in vivo, we determined that the CSD recognizes a (U)GAU motif. This motif partitions the let-7 microRNAs into two subclasses, precursors with both CSD and ZKD binding sites (CSD",
+        "Keywords": [
+            "CLIP",
+            "LIN28",
+            "bipartite binding",
+            "cancer",
+            "cold shock domain",
+            "let-7 microRNA biogenesis",
+            "selective suppression",
+            "stem cell"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Base Sequence",
+            "Embryonic Stem Cells",
+            "Hep G2 Cells",
+            "Humans",
+            "K562 Cells",
+            "Mice",
+            "MicroRNAs",
+            "Models, Molecular",
+            "Nucleic Acid Conformation",
+            "Protein Domains",
+            "Protein Structure, Tertiary",
+            "RNA Precursors",
+            "RNA-Binding Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dmytro",
+                "Last Name": "Ustianenko",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Hua-Sheng",
+                "Last Name": "Chiu",
+                "Affiliation": "Texas Children's Cancer Center, Baylor College of Medicine, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Treiber",
+                "Affiliation": "Biochemistry Center Regensburg (BZR), Laboratory for RNA Biology, University of Regensburg, 93053 Regensburg, Germany."
+            },
+            {
+                "First Name": "Sebastien M",
+                "Last Name": "Weyn-Vanhentenryck",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Nora",
+                "Last Name": "Treiber",
+                "Affiliation": "Biochemistry Center Regensburg (BZR), Laboratory for RNA Biology, University of Regensburg, 93053 Regensburg, Germany."
+            },
+            {
+                "First Name": "Gunter",
+                "Last Name": "Meister",
+                "Affiliation": "Biochemistry Center Regensburg (BZR), Laboratory for RNA Biology, University of Regensburg, 93053 Regensburg, Germany."
+            },
+            {
+                "First Name": "Pavel",
+                "Last Name": "Sumazin",
+                "Affiliation": "Texas Children's Cancer Center, Baylor College of Medicine, Houston, TX 77030, USA. Electronic address: sumazin@bcm.edu."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA. Electronic address: cz2294@columbia.edu."
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29987490",
+        "Title": "Molecular Epidemiology of Porcine Circovirus Type 3 Infection in Swine Herds in China.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "China",
+            "Circoviridae Infections",
+            "Circovirus",
+            "Communicable Diseases, Emerging",
+            "DNA, Viral",
+            "Livestock",
+            "Molecular Epidemiology",
+            "Phylogeny",
+            "Polymerase Chain Reaction",
+            "Swine",
+            "Swine Diseases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xiangdong",
+                "Last Name": "Li",
+                "Affiliation": "National Research Center for Veterinary Medicine, High-Tech District, Luoyang, 471003, China."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "National Research Center for Veterinary Medicine, High-Tech District, Luoyang, 471003, China."
+            },
+            {
+                "First Name": "Mingming",
+                "Last Name": "Qiao",
+                "Affiliation": "Beijing Anheal Laboratories Co., Ltd., Beijing, 100094, China."
+            },
+            {
+                "First Name": "Jiangsong",
+                "Last Name": "Guo",
+                "Affiliation": "Pulike Bio-engineering Co., Ltd., Luoyang, 471003, China."
+            },
+            {
+                "First Name": "Guangyuan",
+                "Last Name": "Xing",
+                "Affiliation": "College of Animal Science and Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450002, China."
+            },
+            {
+                "First Name": "Chunxia",
+                "Last Name": "Jin",
+                "Affiliation": "Sino Science Gene Technology Co., Ltd., Luoyang, 471003, China."
+            },
+            {
+                "First Name": "Juan",
+                "Last Name": "Wang",
+                "Affiliation": "National Research Center for Veterinary Medicine, High-Tech District, Luoyang, 471003, China."
+            },
+            {
+                "First Name": "Ming",
+                "Last Name": "Sun",
+                "Affiliation": "Beijing Anheal Laboratories Co., Ltd., Beijing, 100094, China."
+            },
+            {
+                "First Name": "Kegong",
+                "Last Name": "Tian",
+                "Affiliation": "College of Animal Science and Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450002, China. tiankg@263.net."
+            }
+        ],
+        "Journal": "Virologica Sinica",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29875359",
+        "Title": "Precise temporal regulation of alternative splicing during neural development.",
+        "Abstract": "Alternative splicing (AS) is one crucial step of gene expression that must be tightly regulated during neurodevelopment. However, the precise timing of developmental splicing switches and the underlying regulatory mechanisms are poorly understood. Here we systematically analyze the temporal regulation of AS in a large number of transcriptome profiles of developing mouse cortices, in vivo purified neuronal subtypes, and neurons differentiated in vitro. Our analysis reveals early-switch and late-switch exons in genes with distinct functions, and these switches accurately define neuronal maturation stages. Integrative modeling suggests that these switches are under direct and combinatorial regulation by distinct sets of neuronal RNA-binding proteins including Nova, Rbfox, Mbnl, and Ptbp. Surprisingly, various neuronal subtypes in the sensory systems lack Nova and/or Rbfox expression. These neurons retain the \"immature\" splicing program in early-switch exons, affecting numerous synaptic genes. These results provide new insights into the organization and regulation of the neurodevelopmental transcriptome.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alternative Splicing",
+            "Animals",
+            "Cell Differentiation",
+            "Central Nervous System",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Developmental",
+            "Mice, Knockout",
+            "Mice, Transgenic",
+            "Models, Genetic",
+            "Models, Neurological",
+            "Neurogenesis",
+            "Neurons",
+            "RNA-Binding Proteins",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sebastien M",
+                "Last Name": "Weyn-Vanhentenryck",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Huijuan",
+                "Last Name": "Feng",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Dmytro",
+                "Last Name": "Ustianenko",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Rachel",
+                "Last Name": "Duffié",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Mortimer B. Zuckerman Mind Brain and Behavior Institute, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Qinghong",
+                "Last Name": "Yan",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Martin",
+                "Last Name": "Jacko",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Jose C",
+                "Last Name": "Martinez",
+                "Affiliation": "Department of Pathology and Cell Biology, The Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Marianne",
+                "Last Name": "Goodwin",
+                "Affiliation": "Department of Molecular Genetics and Microbiology, Center for NeuroGenetics and the Genetics Institute, University of Florida, College of Medicine, Gainesville, FL, 32610, USA."
+            },
+            {
+                "First Name": "Xuegong",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Automation, MOE Key Laboratory of Bioinformatics and Bioinformatics Division, TNLIST, Tsinghua University, Beijing, 100084, China."
+            },
+            {
+                "First Name": "Ulrich",
+                "Last Name": "Hengst",
+                "Affiliation": "Department of Pathology and Cell Biology, The Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Stavros",
+                "Last Name": "Lomvardas",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Mortimer B. Zuckerman Mind Brain and Behavior Institute, Columbia University, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Maurice S",
+                "Last Name": "Swanson",
+                "Affiliation": "Department of Molecular Genetics and Microbiology, Center for NeuroGenetics and the Genetics Institute, University of Florida, College of Medicine, Gainesville, FL, 32610, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY, 10032, USA. cz2294@columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29651456",
+        "Title": "Systematic reconstruction of autism biology from massive genetic mutation profiles.",
+        "Abstract": "Autism spectrum disorder (ASD) affects 1% of world population and has become a pressing medical and social problem worldwide. As a paradigmatic complex genetic disease, ASD has been intensively studied and thousands of gene mutations have been reported. Because these mutations rarely recur, it is difficult to (i) pinpoint the fewer disease-causing versus majority random events and (ii) replicate or verify independent studies. A coherent and systematic understanding of autism biology has not been achieved. We analyzed 3392 and 4792 autism-related mutations from two large-scale whole-exome studies across multiple resolution levels, that is, variants (single-nucleotide), genes (protein-coding unit), and pathways (molecular module). These mutations do not recur or replicate at the variant level, but significantly and increasingly do so at gene and pathway levels. Genetic association reveals a novel gene + pathway dual-hit model, where the mutation burden becomes less relevant. In multiple independent analyses, hundreds of variants or genes repeatedly converge to several canonical pathways, either novel or literature-supported. These pathways define recurrent and systematic ASD biology, distinct from previously reported gene groups or networks. They also present a catalog of novel ASD risk factors including 118 variants and 72 genes. At a subpathway level, most variants disrupt the pathway-related gene functions, and in the same gene, they tend to hit residues extremely close to each other and in the same domain. Multiple interacting variants spotlight key modules, including the cAMP (adenosine 3',5'-monophosphate) second-messenger system and mGluR (metabotropic glutamate receptor) signaling regulation by GRKs (G protein-coupled receptor kinases). At a superpathway level, distinct pathways further interconnect and converge to three biology themes: synaptic function, morphology, and plasticity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Autism Spectrum Disorder",
+            "Autistic Disorder",
+            "Biomarkers",
+            "Computational Biology",
+            "Exome",
+            "Genetic Predisposition to Disease",
+            "Genome-Wide Association Study",
+            "Humans",
+            "Models, Biological",
+            "Models, Molecular",
+            "Mutation",
+            "Phenotype",
+            "Signal Transduction",
+            "Structure-Activity Relationship",
+            "Exome Sequencing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Weijun",
+                "Last Name": "Luo",
+                "Affiliation": "Department of Bioinformatics and Genomics, University of North Carolina (UNC) at Charlotte, Charlotte, NC 28223, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yong-Hui",
+                "Last Name": "Jiang",
+                "Affiliation": "Department of Pediatrics, Department of Neurobiology, Program in Genetics and Genomics, School of Medicine, Duke University, Durham, NC 27710, USA."
+            },
+            {
+                "First Name": "Cory R",
+                "Last Name": "Brouwer",
+                "Affiliation": "Department of Bioinformatics and Genomics, University of North Carolina (UNC) at Charlotte, Charlotte, NC 28223, USA."
+            }
+        ],
+        "Journal": "Science advances",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29398366",
+        "Title": "Rbfox Splicing Factors Promote Neuronal Maturation and Axon Initial Segment Assembly.",
+        "Abstract": "Neuronal maturation requires dramatic morphological and functional changes, but the molecular mechanisms governing this process are not well understood. Here, we studied the role of Rbfox1, Rbfox2, and Rbfox3 proteins, a family of tissue-specific splicing regulators mutated in multiple neurodevelopmental disorders. We generated Rbfox triple knockout (tKO) ventral spinal neurons to define a comprehensive network of alternative exons under Rbfox regulation and to investigate their functional importance in the developing neurons. Rbfox tKO neurons exhibit defects in alternative splicing of many cytoskeletal, membrane, and synaptic proteins, and display immature electrophysiological activity. The axon initial segment (AIS), a subcellular structure important for action potential initiation, is diminished upon Rbfox depletion. We identified an Rbfox-regulated splicing switch in ankyrin G, the AIS \"interaction hub\" protein, that regulates ankyrin G-beta spectrin affinity and AIS assembly. Our data show that the Rbfox-regulated splicing program plays a crucial role in structural and functional maturation of postmitotic neurons.",
+        "Keywords": [
+            "AnkG",
+            "Rbfox",
+            "actin cytoskeleton",
+            "alternative splicing",
+            "axon initial segment",
+            "neuronal maturation"
+        ],
+        "MeSH terms": [
+            "3T3 Cells",
+            "Alternative Splicing",
+            "Animals",
+            "Ankyrins",
+            "Axon Initial Segment",
+            "DNA-Binding Proteins",
+            "Embryonic Stem Cells",
+            "Gene Expression Regulation, Developmental",
+            "Mice",
+            "Mice, Knockout",
+            "Nerve Tissue Proteins",
+            "Nuclear Proteins",
+            "RNA Splicing Factors",
+            "Spinal Cord"
+        ],
+        "Authors": [
+            {
+                "First Name": "Martin",
+                "Last Name": "Jacko",
+                "Affiliation": "Departments of Systems Biology and Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA; Departments of Pathology and Cell Biology, Neurology, and Neuroscience, Center for Motor Neuron Biology and Disease, Columbia Stem Cell Initiative, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Sebastien M",
+                "Last Name": "Weyn-Vanhentenryck",
+                "Affiliation": "Departments of Systems Biology and Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "John W",
+                "Last Name": "Smerdon",
+                "Affiliation": "Departments of Pathology and Cell Biology, Neurology, and Neuroscience, Center for Motor Neuron Biology and Disease, Columbia Stem Cell Initiative, Columbia University, New York, NY 10032, USA; Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Rui",
+                "Last Name": "Yan",
+                "Affiliation": "Department of Chemistry, University of California, Berkeley, Berkeley, CA 94720, USA; Chan Zuckerberg Biohub, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Huijuan",
+                "Last Name": "Feng",
+                "Affiliation": "Departments of Systems Biology and Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA; MOE Key Laboratory of Bioinformatics and Bioinformatics Division, TNLIST/Department of Automation, Tsinghua University, Beijing 100084, China."
+            },
+            {
+                "First Name": "Damian J",
+                "Last Name": "Williams",
+                "Affiliation": "Columbia University Stem Cell Core Facility, Department of Rehabilitation and Regenerative Medicine, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Joy",
+                "Last Name": "Pai",
+                "Affiliation": "Departments of Systems Biology and Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Ke",
+                "Last Name": "Xu",
+                "Affiliation": "Department of Chemistry, University of California, Berkeley, Berkeley, CA 94720, USA; Chan Zuckerberg Biohub, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Hynek",
+                "Last Name": "Wichterle",
+                "Affiliation": "Departments of Pathology and Cell Biology, Neurology, and Neuroscience, Center for Motor Neuron Biology and Disease, Columbia Stem Cell Initiative, Columbia University, New York, NY 10032, USA. Electronic address: hw350@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Departments of Systems Biology and Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA. Electronic address: cz2294@columbia.edu."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28188674",
+        "Title": "Microexons: discovery, regulation, and function.",
+        "Abstract": "The importance of RNA splicing in numerous cellular processes is well established. However, an underappreciated aspect is the ability of the spliceosome to recognize a set of very small (3-30 nucleotide, 1-10 amino acid) exons named microexons. Despite their small size, microexons and their regulation through alternative splicing have now been shown to play critical roles in protein and system function. Here we review the discovery of microexons over time and the mechanisms by which their splicing is regulated, including recent progress made through deep RNA sequencing. We also discuss the functional role of microexons in biology and disease. WIREs RNA 2017, 8:e1418. doi: 10.1002/wrna.1418 For further resources related to this article, please visit the WIREs website.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Exons",
+            "Gene Expression Regulation",
+            "Humans",
+            "Models, Biological",
+            "RNA Precursors",
+            "RNA Splicing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dmytro",
+                "Last Name": "Ustianenko",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Sebastien M",
+                "Last Name": "Weyn-Vanhentenryck",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Wiley interdisciplinary reviews. RNA",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27860035",
+        "Title": "A Cell Type-Specific Expression Signature Predicts Haploinsufficient Autism-Susceptibility Genes.",
+        "Abstract": "Recent studies have identified many genes with rare de novo mutations in autism, but a limited number of these have been conclusively established as disease-susceptibility genes due to the lack of recurrence and confounding background mutations. Such extreme genetic heterogeneity severely limits recurrence-based statistical power even in studies with a large sample size. Here, we use cell-type specific expression profiles to differentiate mutations in autism patients from those in unaffected siblings. We report a gene expression signature in different neuronal cell types shared by genes with likely gene-disrupting (LGD) mutations in autism cases. This signature reflects haploinsufficiency of risk genes enriched in transcriptional and post-transcriptional regulators, with the strongest positive associations with specific types of neurons in different brain regions, including cortical neurons, cerebellar granule cells, and striatal medium spiny neurons. When used to prioritize genes with a single LGD mutation in cases, a D-score derived from the signature achieved a precision of 40% as compared with the 15% baseline with a minimal loss in sensitivity. An ensemble model combining D-score with mutation intolerance metrics from Exome Aggregation Consortium further improved the precision to 60%, resulting in 117 high-priority candidates. These prioritized lists can facilitate identification of additional autism-susceptibility genes.",
+        "Keywords": [
+            "D-score",
+            "autism spectrum disorders",
+            "autism-susceptibility genes",
+            "cell type-specific expression signature",
+            "de novo mutations"
+        ],
+        "MeSH terms": [
+            "Autistic Disorder",
+            "Chromosomes, Human, Pair 16",
+            "Computational Biology",
+            "DNA Copy Number Variations",
+            "DNA Mutational Analysis",
+            "Female",
+            "Gene Expression Profiling",
+            "Genetic Association Studies",
+            "Genetic Predisposition to Disease",
+            "Haploinsufficiency",
+            "Humans",
+            "Male",
+            "Mutation",
+            "Organ Specificity",
+            "Sensitivity and Specificity",
+            "Sex Factors",
+            "Transcriptome",
+            "Exome Sequencing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York."
+            }
+        ],
+        "Journal": "Human mutation",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27797762",
+        "Title": "CLIP Tool Kit (CTK): a flexible and robust pipeline to analyze CLIP sequencing data.",
+        "Abstract": "UV cross-linking and immunoprecipitation (CLIP), followed by high-throughput sequencing, is a powerful biochemical assay that maps in vivo protein-RNA interactions on a genome-wide scale. The CLIP Tool Kit (CTK) aims at providing a set of tools for flexible, streamlined and comprehensive CLIP data analysis. This software package extends the scope of our original CIMS package.",
+        "Keywords": [],
+        "MeSH terms": [
+            "High-Throughput Nucleotide Sequencing",
+            "Humans",
+            "Immunoprecipitation",
+            "Protein Binding",
+            "RNA",
+            "RNA-Binding Proteins",
+            "Sequence Analysis, RNA",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ankeeta",
+                "Last Name": "Shah",
+                "Affiliation": "Department of Systems BiologyDepartment of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yingzhi",
+                "Last Name": "Qian",
+                "Affiliation": "Department of Systems BiologyDepartment of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Sebastien M",
+                "Last Name": "Weyn-Vanhentenryck",
+                "Affiliation": "Department of Systems BiologyDepartment of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems BiologyDepartment of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "26965268",
+        "Title": "mCarts: Genome-Wide Prediction of Clustered Sequence Motifs as Binding Sites for RNA-Binding Proteins.",
+        "Abstract": "RNA-binding proteins (RBPs) are critical components of post-transcriptional gene expression regulation. However, their binding sites have until recently been difficult to determine due to the apparent low specificity of RBPs for their target transcripts and the lack of high-throughput assays for analyzing binding sites genome wide. Here we present a bioinformatics method for predicting RBP binding motif sites on a genome-wide scale that leverages motif conservation, RNA secondary structure, and the tendency of RBP binding sites to cluster together. A probabilistic model is learned from bona fide binding sites determined by CLIP and applied genome wide to generate high specificity binding site predictions.",
+        "Keywords": [
+            "Binding site prediction",
+            "CLIP tag clusters",
+            "RNA-binding protein (RBP)",
+            "mCarts",
+            "motif"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Binding Sites",
+            "Cluster Analysis",
+            "Computational Biology",
+            "Genome",
+            "Humans",
+            "Nucleic Acid Conformation",
+            "Probability",
+            "RNA",
+            "RNA-Binding Proteins",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sebastien M",
+                "Last Name": "Weyn-Vanhentenryck",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, P&S Building, Room 4-448, 630 W 168th Street, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, P&S Building, Room 4-448, 630 W 168th Street, New York, NY, 10032, USA. cz2294@columbia.edu."
+            }
+        ],
+        "Journal": "Methods in molecular biology (Clifton, N.J.)",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26914319",
+        "Title": "Erratum: Mapping Argonaute and conventional RNA-binding protein interactions with RNA at single-nucleotide resolution using HITS-CLIP and CIMS analysis.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Michael J",
+                "Last Name": "Moore",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Emily Conn",
+                "Last Name": "Gantman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aldo",
+                "Last Name": "Mele",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jennifer C",
+                "Last Name": "Darnell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert B",
+                "Last Name": "Darnell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature protocols",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26234653",
+        "Title": "mRIN for direct assessment of genome-wide and gene-specific mRNA integrity from large-scale RNA-sequencing data.",
+        "Abstract": "The volume of RNA-Seq data sets in public repositories has been expanding exponentially, providing unprecedented opportunities to study gene expression regulation. Because degraded RNA samples, such as those collected from post-mortem tissues, can result in distinct expression profiles with potential biases, a particularly important step in mining these data is quality control. Here we develop a method named mRIN to directly assess mRNA integrity from RNA-Seq data at the sample and individual gene level. We systematically analyse large-scale RNA-Seq data sets of the human brain transcriptome generated by different consortia. Our analysis demonstrates that 3' bias resulting from partial RNA fragmentation in post-mortem tissues has a marked impact on global expression profiles, and that mRIN effectively identifies samples with different levels of mRNA degradation. Unexpectedly, this process has a reproducible and gene-specific component, and transcripts with different stabilities are associated with distinct functions and structural features reminiscent of mRNA decay in living cells.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Autopsy",
+            "Brain",
+            "Databases, Nucleic Acid",
+            "Electrophoresis",
+            "Gene Expression Profiling",
+            "Humans",
+            "Machine Learning",
+            "RNA Stability",
+            "RNA, Messenger",
+            "Sequence Analysis, RNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Huijuan",
+                "Last Name": "Feng",
+                "Affiliation": "MOE Key Laboratory of Bioinformatics and Bioinformatics Division, TNLIST/Department of Automation, Tsinghua University, Beijing 100084, China."
+            },
+            {
+                "First Name": "Xuegong",
+                "Last Name": "Zhang",
+                "Affiliation": "MOE Key Laboratory of Bioinformatics and Bioinformatics Division, TNLIST/Department of Automation, Tsinghua University, Beijing 100084, China."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, New York 10032, USA."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25865469",
+        "Title": "Construction of a triple gene-deleted Chinese Pseudorabies virus variant and its efficacy study as a vaccine candidate on suckling piglets.",
+        "Abstract": "New-emerging variants of Pseudorabies virus (PRV) compromise the protection provided by current vaccines and cause the death of all ages of vaccinated pigs since 2011. New vaccines based on current circulating PRV strain are needed to control the spread of disease since the variants are antigenically different from classical strains of virus. In this study, a TK/gE/gI triple gene-deleted PRV derived from current circulating field isolate was generated by using bacterial artificial chromosome techniques, and the rescued virus showed similar growth properties in vitro to its parent strain but reduced plaque size. To evaluate it as vaccine candidate, 9 day-old pigs were vaccinated and challenged with a virulent PRV variant. The results showed that vaccination can generate high level of protective gB-specific antibodies after vaccination and provide complete protection to the viral challenge. By contrast, the unvaccinated piglets all died within 6 days after viral challenge. Therefore, the TK/gE/gI triple gene-deleted PRV could be a promising vaccine candidate to control the wide spreading of PR variants in China.",
+        "Keywords": [
+            "Pseudorabies virus",
+            "TK/gE/gI deletion",
+            "Vaccine",
+            "Virus variant"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Antibodies, Viral",
+            "China",
+            "Gene Deletion",
+            "Herpesvirus 1, Suid",
+            "Pseudorabies",
+            "Pseudorabies Vaccines",
+            "Survival Analysis",
+            "Swine",
+            "Swine Diseases",
+            "Vaccines, Attenuated",
+            "Vaccines, Synthetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "National Research Center for Veterinary Medicine, Road Cuiwei, High-Tech District, Luoyang 471003, Henan, PR China."
+            },
+            {
+                "First Name": "Linghua",
+                "Last Name": "Guo",
+                "Affiliation": "National Research Center for Veterinary Medicine, Road Cuiwei, High-Tech District, Luoyang 471003, Henan, PR China."
+            },
+            {
+                "First Name": "Xiangrui",
+                "Last Name": "Jia",
+                "Affiliation": "National Research Center for Veterinary Medicine, Road Cuiwei, High-Tech District, Luoyang 471003, Henan, PR China."
+            },
+            {
+                "First Name": "Tongyan",
+                "Last Name": "Wang",
+                "Affiliation": "National Research Center for Veterinary Medicine, Road Cuiwei, High-Tech District, Luoyang 471003, Henan, PR China."
+            },
+            {
+                "First Name": "Juan",
+                "Last Name": "Wang",
+                "Affiliation": "National Research Center for Veterinary Medicine, Road Cuiwei, High-Tech District, Luoyang 471003, Henan, PR China."
+            },
+            {
+                "First Name": "Zhe",
+                "Last Name": "Sun",
+                "Affiliation": "National Research Center for Veterinary Medicine, Road Cuiwei, High-Tech District, Luoyang 471003, Henan, PR China."
+            },
+            {
+                "First Name": "Lilin",
+                "Last Name": "Wang",
+                "Affiliation": "National Research Center for Veterinary Medicine, Road Cuiwei, High-Tech District, Luoyang 471003, Henan, PR China."
+            },
+            {
+                "First Name": "Xiangdong",
+                "Last Name": "Li",
+                "Affiliation": "National Research Center for Veterinary Medicine, Road Cuiwei, High-Tech District, Luoyang 471003, Henan, PR China."
+            },
+            {
+                "First Name": "Feifei",
+                "Last Name": "Tan",
+                "Affiliation": "National Research Center for Veterinary Medicine, Road Cuiwei, High-Tech District, Luoyang 471003, Henan, PR China. Electronic address: tf0801@126.com."
+            },
+            {
+                "First Name": "Kegong",
+                "Last Name": "Tian",
+                "Affiliation": "National Research Center for Veterinary Medicine, Road Cuiwei, High-Tech District, Luoyang 471003, Henan, PR China; College of Animal Science and Veterinary Medicine, Henan Agricultural University, Zhengzhou 450002, Henan, PR China. Electronic address: tiankg@263.net."
+            }
+        ],
+        "Journal": "Vaccine",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25737549",
+        "Title": "Systematic discovery of regulated and conserved alternative exons in the mammalian brain reveals NMD modulating chromatin regulators.",
+        "Abstract": "Alternative splicing (AS) dramatically expands the complexity of the mammalian brain transcriptome, but its atlas remains incomplete. Here we performed deep mRNA sequencing of mouse cortex to discover and characterize alternative exons with potential functional significance. Our analysis expands the list of AS events over 10-fold compared with previous annotations, demonstrating that 72% of multiexon genes express multiple splice variants in this single tissue. To evaluate functionality of the newly discovered AS events, we conducted comprehensive analyses on central nervous system (CNS) cell type-specific splicing, targets of tissue- or cell type-specific RNA binding proteins (RBPs), evolutionary selection pressure, and coupling of AS with nonsense-mediated decay (AS-NMD). We show that newly discovered events account for 23-42% of all cassette exons under tissue- or cell type-specific regulation. Furthermore, over 7,000 cassette exons are under evolutionary selection for regulated AS in mammals, 70% of which are new. Among these are 3,058 highly conserved cassette exons, including 1,014 NMD exons that may function directly to control gene expression levels. These NMD exons are particularly enriched in RBPs including splicing factors and interestingly also regulators for other steps of RNA metabolism. Unexpectedly, a second group of NMD exons reside in genes encoding chromatin regulators. Although the conservation of NMD exons in RBPs frequently extends into lower vertebrates, NMD exons in chromatin regulators are introduced later into the mammalian lineage, implying the emergence of a novel mechanism coupling AS and epigenetics. Our results highlight previously uncharacterized complexity and evolution in the mammalian brain transcriptome.",
+        "Keywords": [
+            "RNA-Seq",
+            "brain transcriptome",
+            "chromatin regulator",
+            "new alternative exon",
+            "nonsense-mediated decay"
+        ],
+        "MeSH terms": [
+            "Alternative Splicing",
+            "Animals",
+            "Base Sequence",
+            "Brain",
+            "Cerebral Cortex",
+            "Chromatin",
+            "Conserved Sequence",
+            "Evolution, Molecular",
+            "Exons",
+            "High-Throughput Nucleotide Sequencing",
+            "Humans",
+            "Male",
+            "Mammals",
+            "Mice, Inbred C57BL",
+            "Molecular Sequence Data",
+            "Nonsense Mediated mRNA Decay",
+            "Open Reading Frames",
+            "Organ Specificity",
+            "Selection, Genetic",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Qinghong",
+                "Last Name": "Yan",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032;"
+            },
+            {
+                "First Name": "Sebastien M",
+                "Last Name": "Weyn-Vanhentenryck",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032;"
+            },
+            {
+                "First Name": "Jie",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032;"
+            },
+            {
+                "First Name": "Steven A",
+                "Last Name": "Sloan",
+                "Affiliation": "Department of Neurobiology, Stanford University School of Medicine, Stanford, CA 94305;"
+            },
+            {
+                "First Name": "Ye",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Neurobiology, Stanford University School of Medicine, Stanford, CA 94305;"
+            },
+            {
+                "First Name": "Kenian",
+                "Last Name": "Chen",
+                "Affiliation": "The Vivian L. Smith Department of Neurosurgery, University of Texas Medical School at Houston, Houston, TX 77057; and Center for Stem Cell and Regenerative Medicine, University of Texas Brown Institute of Molecular Medicine, Houston, TX 77057."
+            },
+            {
+                "First Name": "Jia Qian",
+                "Last Name": "Wu",
+                "Affiliation": "The Vivian L. Smith Department of Neurosurgery, University of Texas Medical School at Houston, Houston, TX 77057; and Center for Stem Cell and Regenerative Medicine, University of Texas Brown Institute of Molecular Medicine, Houston, TX 77057."
+            },
+            {
+                "First Name": "Ben A",
+                "Last Name": "Barres",
+                "Affiliation": "Department of Neurobiology, Stanford University School of Medicine, Stanford, CA 94305; cz2294@columbia.edu barres@stanford.edu."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032; cz2294@columbia.edu barres@stanford.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "24613350",
+        "Title": "HITS-CLIP and integrative modeling define the Rbfox splicing-regulatory network linked to brain development and autism.",
+        "Abstract": "The RNA binding proteins Rbfox1/2/3 regulate alternative splicing in the nervous system, and disruption of Rbfox1 has been implicated in autism. However, comprehensive identification of functional Rbfox targets has been challenging. Here, we perform HITS-CLIP for all three Rbfox family members in order to globally map, at a single-nucleotide resolution, their in vivo RNA interaction sites in the mouse brain. We find that the two guanines in the Rbfox binding motif UGCAUG are critical for protein-RNA interactions and crosslinking. Using integrative modeling, these interaction sites, combined with additional datasets, define 1,059 direct Rbfox target alternative splicing events. Over half of the quantifiable targets show dynamic changes during brain development. Of particular interest are 111 events from 48 candidate autism-susceptibility genes, including syndromic autism genes Shank3, Cacna1c, and Tsc2. Alteration of Rbfox targets in some autistic brains is correlated with downregulation of all three Rbfox proteins, supporting the potential clinical relevance of the splicing-regulatory network.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alternative Splicing",
+            "Animals",
+            "Autistic Disorder",
+            "Base Sequence",
+            "Brain",
+            "Exons",
+            "Gene Regulatory Networks",
+            "Genetic Predisposition to Disease",
+            "Humans",
+            "Immunoprecipitation",
+            "Mice",
+            "Models, Genetic",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "RNA",
+            "RNA-Binding Proteins",
+            "Repressor Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sebastien M",
+                "Last Name": "Weyn-Vanhentenryck",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Aldo",
+                "Last Name": "Mele",
+                "Affiliation": "Howard Hughes Medical Institute, Laboratory of Molecular Neuro-Oncology, Rockefeller University, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Qinghong",
+                "Last Name": "Yan",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Shuying",
+                "Last Name": "Sun",
+                "Affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA; Ludwig Institute for Cancer Research, University of California, San Diego, La Jolla, CA 92093, USA."
+            },
+            {
+                "First Name": "Natalie",
+                "Last Name": "Farny",
+                "Affiliation": "Department of Systems Biology, Harvard Medical School, Boston, MA 02115, USA."
+            },
+            {
+                "First Name": "Zuo",
+                "Last Name": "Zhang",
+                "Affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA; Merck Research Laboratories, Merck & Co., Inc., Rahway, NJ 07065, USA."
+            },
+            {
+                "First Name": "Chenghai",
+                "Last Name": "Xue",
+                "Affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA."
+            },
+            {
+                "First Name": "Margaret",
+                "Last Name": "Herre",
+                "Affiliation": "Howard Hughes Medical Institute, Laboratory of Molecular Neuro-Oncology, Rockefeller University, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Pamela A",
+                "Last Name": "Silver",
+                "Affiliation": "Department of Systems Biology, Harvard Medical School, Boston, MA 02115, USA."
+            },
+            {
+                "First Name": "Michael Q",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Molecular and Cell Biology, Center for Systems Biology, The University of Texas at Dallas, Richardson, TX 75080, USA; Bioinformatics Division, Center for Synthetic and Systems Biology, TNLIST, Tsinghua University, Beijing 100084, China."
+            },
+            {
+                "First Name": "Adrian R",
+                "Last Name": "Krainer",
+                "Affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA."
+            },
+            {
+                "First Name": "Robert B",
+                "Last Name": "Darnell",
+                "Affiliation": "Howard Hughes Medical Institute, Laboratory of Molecular Neuro-Oncology, Rockefeller University, New York, NY 10065, USA. Electronic address: darnelr@rockefeller.edu."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Systems Biology, Department of Biochemistry and Molecular Biophysics, Center for Motor Neuron Biology and Disease, Columbia University, New York, NY 10032, USA. Electronic address: cz2294@columbia.edu."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24407355",
+        "Title": "Mapping Argonaute and conventional RNA-binding protein interactions with RNA at single-nucleotide resolution using HITS-CLIP and CIMS analysis.",
+        "Abstract": "The identification of sites where RNA-binding proteins (RNABPs) interact with target RNAs opens the door to understanding the vast complexity of RNA regulation. UV cross-linking and immunoprecipitation (CLIP) is a transformative technology in which RNAs purified from in vivo cross-linked RNA-protein complexes are sequenced to reveal footprints of RNABP:RNA contacts. CLIP combined with high-throughput sequencing (HITS-CLIP) is a generalizable strategy to produce transcriptome-wide maps of RNA binding with higher accuracy and resolution than standard RNA immunoprecipitation (RIP) profiling or purely computational approaches. The application of CLIP to Argonaute proteins has expanded the utility of this approach to mapping binding sites for microRNAs and other small regulatory RNAs. Finally, recent advances in data analysis take advantage of cross-link-induced mutation sites (CIMS) to refine RNA-binding maps to single-nucleotide resolution. Once IP conditions are established, HITS-CLIP takes ∼8 d to prepare RNA for sequencing. Established pipelines for data analysis, including those for CIMS, take 3-4 d.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Argonaute Proteins",
+            "Cross-Linking Reagents",
+            "High-Throughput Nucleotide Sequencing",
+            "Immunoprecipitation",
+            "Mutagenesis",
+            "Protein Interaction Mapping",
+            "RNA",
+            "RNA-Binding Proteins",
+            "Ultraviolet Rays"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael J",
+                "Last Name": "Moore",
+                "Affiliation": "1] Laboratory of Molecular Neuro-Oncology, The Rockefeller University, New York, New York, USA. [2]."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "1] Laboratory of Molecular Neuro-Oncology, The Rockefeller University, New York, New York, USA. [2] [3]."
+            },
+            {
+                "First Name": "Emily Conn",
+                "Last Name": "Gantman",
+                "Affiliation": "Laboratory of Molecular Neuro-Oncology, The Rockefeller University, New York, New York, USA."
+            },
+            {
+                "First Name": "Aldo",
+                "Last Name": "Mele",
+                "Affiliation": "Laboratory of Molecular Neuro-Oncology, The Rockefeller University, New York, New York, USA."
+            },
+            {
+                "First Name": "Jennifer C",
+                "Last Name": "Darnell",
+                "Affiliation": "Laboratory of Molecular Neuro-Oncology, The Rockefeller University, New York, New York, USA."
+            },
+            {
+                "First Name": "Robert B",
+                "Last Name": "Darnell",
+                "Affiliation": "1] Laboratory of Molecular Neuro-Oncology, The Rockefeller University, New York, New York, USA. [2]."
+            }
+        ],
+        "Journal": "Nature protocols",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "23685613",
+        "Title": "Prediction of clustered RNA-binding protein motif sites in the mammalian genome.",
+        "Abstract": "Sequence-specific interactions of RNA-binding proteins (RBPs) with their target transcripts are essential for post-transcriptional gene expression regulation in mammals. However, accurate prediction of RBP motif sites has been difficult because many RBPs recognize short and degenerate sequences. Here we describe a hidden Markov model (HMM)-based algorithm mCarts to predict clustered functional RBP-binding sites by effectively integrating the number and spacing of individual motif sites, their accessibility in local RNA secondary structures and cross-species conservation. This algorithm learns and quantifies rules of these features, taking advantage of a large number of in vivo RBP-binding sites obtained from cross-linking and immunoprecipitation data. We applied this algorithm to study two representative RBP families, Nova and Mbnl, which regulate tissue-specific alternative splicing through interacting with clustered YCAY and YGCY elements, respectively, and predicted their binding sites in the mouse transcriptome. Despite the low information content in individual motif elements, our algorithm made specific predictions for successful experimental validation. Analysis of predicted sites also revealed cases of extensive and distal RBP-binding sites important for splicing regulation. This algorithm can be readily applied to other RBPs to infer their RNA-regulatory networks. The software is freely available at http://zhanglab.c2b2.columbia.edu/index.php/MCarts.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Alternative Splicing",
+            "Animals",
+            "Antigens, Neoplasm",
+            "Binding Sites",
+            "Exons",
+            "Genome",
+            "High-Throughput Nucleotide Sequencing",
+            "Immunoprecipitation",
+            "Markov Chains",
+            "Mice",
+            "Nerve Tissue Proteins",
+            "Neuro-Oncological Ventral Antigen",
+            "Nucleotide Motifs",
+            "Protein Structure, Tertiary",
+            "RNA",
+            "RNA-Binding Proteins",
+            "Sequence Analysis, RNA",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Laboratory of Molecular Neuro-Oncology, Howard Hughes Medical Institute, The Rockefeller University, 1230 York Avenue, New York, NY 10021, USA. cz2294@columbia.edu"
+            },
+            {
+                "First Name": "Kuang-Yung",
+                "Last Name": "Lee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maurice S",
+                "Last Name": "Swanson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert B",
+                "Last Name": "Darnell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23571760",
+        "Title": "OLego: fast and sensitive mapping of spliced mRNA-Seq reads using small seeds.",
+        "Abstract": "A crucial step in analyzing mRNA-Seq data is to accurately and efficiently map hundreds of millions of reads to the reference genome and exon junctions. Here we present OLego, an algorithm specifically designed for de novo mapping of spliced mRNA-Seq reads. OLego adopts a multiple-seed-and-extend scheme, and does not rely on a separate external aligner. It achieves high sensitivity of junction detection by strategic searches with small seeds (~14 nt for mammalian genomes). To improve accuracy and resolve ambiguous mapping at junctions, OLego uses a built-in statistical model to score exon junctions by splice-site strength and intron size. Burrows-Wheeler transform is used in multiple steps of the algorithm to efficiently map seeds, locate junctions and identify small exons. OLego is implemented in C++ with fully multithreaded execution, and allows fast processing of large-scale data. We systematically evaluated the performance of OLego in comparison with published tools using both simulated and real data. OLego demonstrated better sensitivity, higher or comparable accuracy and substantially improved speed. OLego also identified hundreds of novel micro-exons (<30 nt) in the mouse transcriptome, many of which are phylogenetically conserved and can be validated experimentally in vivo. OLego is freely available at http://zhanglab.c2b2.columbia.edu/index.php/OLego.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Chromosome Mapping",
+            "Exons",
+            "Gene Expression Profiling",
+            "Genome",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "RNA Splice Sites",
+            "RNA Splicing",
+            "RNA, Messenger",
+            "Retina",
+            "Sequence Alignment",
+            "Sequence Analysis, RNA",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jie",
+                "Last Name": "Wu",
+                "Affiliation": "Cold Spring Harbor Laboratory, 1 Bungtown Road, Cold Spring Harbor, NY 11724, USA."
+            },
+            {
+                "First Name": "Olga",
+                "Last Name": "Anczuków",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adrian R",
+                "Last Name": "Krainer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael Q",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23359859",
+        "Title": "NOVA-dependent regulation of cryptic NMD exons controls synaptic protein levels after seizure.",
+        "Abstract": "The neuronal RNA binding protein NOVA regulates splicing, shuttles to the cytoplasm, and co-localizes with target transcripts in dendrites, suggesting links between splicing and local translation. Here we identified >200 transcripts showing NOVA-dependent changes in abundance, but, surprisingly, HITS-CLIP revealed NOVA binds these RNAs in introns rather than 3' UTRs. This led us to discover NOVA-regulated splicing of cryptic exons within these introns. These exons triggered nonsense mediated decay (NMD), as UPF1 and protein synthesis were required for NOVA's effect on RNA levels. Their regulation was dynamic and physiologically relevant. The NMD exons were regulated by seizures, which also induced changes in Nova subcellular localization and mediated large changes in synaptic proteins, including proteins implicated in familial epilepsy. Moreover, Nova haploinsufficient mice had spontaneous epilepsy. The data reveal a hidden means of dynamic RNA regulation linking electrical activity to splicing and protein output, and of mediating homeostatic excitation/inhibition balance in neurons.DOI:http://dx.doi.org/10.7554/eLife.00178.001.",
+        "Keywords": [
+            "HITS-CLIP",
+            "Mouse",
+            "Nonsense mediated decay",
+            "RNA regulation",
+            "alternative splicing",
+            "epilepsy",
+            "neuronal biology"
+        ],
+        "MeSH terms": [
+            "3' Untranslated Regions",
+            "Animals",
+            "Antigens, Neoplasm",
+            "Brain",
+            "Exons",
+            "Mice",
+            "Mice, Knockout",
+            "Nerve Tissue Proteins",
+            "Neuro-Oncological Ventral Antigen",
+            "RNA, Messenger",
+            "RNA-Binding Proteins",
+            "Seizures",
+            "Subcellular Fractions",
+            "Synapses"
+        ],
+        "Authors": [
+            {
+                "First Name": "Taesun",
+                "Last Name": "Eom",
+                "Affiliation": "Laboratory of Molecular Neuro-Oncology ,  Rockefeller University ,  New York ,  United States."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Huidong",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kenneth",
+                "Last Name": "Lay",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Fak",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jeffrey L",
+                "Last Name": "Noebels",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert B",
+                "Last Name": "Darnell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "21935353",
+        "Title": "Study of FoxA pioneer factor at silent genes reveals Rfx-repressed enhancer at Cdx2 and a potential indicator of esophageal adenocarcinoma development.",
+        "Abstract": "Understanding how silent genes can be competent for activation provides insight into development as well as cellular reprogramming and pathogenesis. We performed genomic location analysis of the pioneer transcription factor FoxA in the adult mouse liver and found that about one-third of the FoxA bound sites are near silent genes, including genes without detectable RNA polymerase II. Virtually all of the FoxA-bound silent sites are within conserved sequences, suggesting possible function. Such sites are enriched in motifs for transcriptional repressors, including for Rfx1 and type II nuclear hormone receptors. We found one such target site at a cryptic \"shadow\" enhancer 7 kilobases (kb) downstream of the Cdx2 gene, where Rfx1 restricts transcriptional activation by FoxA. The Cdx2 shadow enhancer exhibits a subset of regulatory properties of the upstream Cdx2 promoter region. While Cdx2 is ectopically induced in the early metaplastic condition of Barrett's esophagus, its expression is not necessarily present in progressive Barrett's with dysplasia or adenocarcinoma. By contrast, we find that Rfx1 expression in the esophageal epithelium becomes gradually extinguished during progression to cancer, i.e, expression of Rfx1 decreased markedly in dysplasia and adenocarcinoma. We propose that this decreased expression of Rfx1 could be an indicator of progression from Barrett's esophagus to adenocarcinoma and that similar analyses of other transcription factors bound to silent genes can reveal unanticipated regulatory insights into oncogenic progression and cellular reprogramming.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adenocarcinoma",
+            "Animals",
+            "Barrett Esophagus",
+            "Base Sequence",
+            "Binding Sites",
+            "CDX2 Transcription Factor",
+            "Cell Transformation, Neoplastic",
+            "DNA-Binding Proteins",
+            "Enhancer Elements, Genetic",
+            "Esophageal Neoplasms",
+            "Gene Expression Regulation, Neoplastic",
+            "Gene Silencing",
+            "Genome",
+            "Hepatocyte Nuclear Factor 3-alpha",
+            "Hepatocyte Nuclear Factor 3-beta",
+            "Homeodomain Proteins",
+            "Humans",
+            "Liver",
+            "Mice",
+            "Molecular Sequence Data",
+            "Promoter Regions, Genetic",
+            "Receptors, Cytoplasmic and Nuclear",
+            "Regulatory Factor X Transcription Factors",
+            "Regulatory Factor X1",
+            "Transcription Factors",
+            "Transcriptional Activation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jason A",
+                "Last Name": "Watts",
+                "Affiliation": "Department of Cell and Developmental Biology, University of Pennsylvania School of Medicine, Philadelphia, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andres J",
+                "Last Name": "Klein-Szanto",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jay D",
+                "Last Name": "Kormish",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jian",
+                "Last Name": "Fu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael Q",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kenneth S",
+                "Last Name": "Zaret",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PLoS genetics",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21784246",
+        "Title": "FMRP stalls ribosomal translocation on mRNAs linked to synaptic function and autism.",
+        "Abstract": "FMRP loss of function causes Fragile X syndrome (FXS) and autistic features. FMRP is a polyribosome-associated neuronal RNA-binding protein, suggesting that it plays a key role in regulating neuronal translation, but there has been little consensus regarding either its RNA targets or mechanism of action. Here, we use high-throughput sequencing of RNAs isolated by crosslinking immunoprecipitation (HITS-CLIP) to identify FMRP interactions with mouse brain polyribosomal mRNAs. FMRP interacts with the coding region of transcripts encoding pre- and postsynaptic proteins and transcripts implicated in autism spectrum disorders (ASD). We developed a brain polyribosome-programmed translation system, revealing that FMRP reversibly stalls ribosomes specifically on its target mRNAs. Our results suggest that loss of a translational brake on the synthesis of a subset of synaptic proteins contributes to FXS. In addition, they provide insight into the molecular basis of the cognitive and allied defects in FXS and ASD and suggest multiple targets for clinical intervention.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Autistic Disorder",
+            "Brain",
+            "Fragile X Mental Retardation Protein",
+            "Fragile X Syndrome",
+            "Humans",
+            "Mice",
+            "Mice, Knockout",
+            "Polyribosomes",
+            "Protein Biosynthesis",
+            "RNA-Binding Proteins",
+            "Ribosomes",
+            "Sequence Analysis, RNA",
+            "Synapses"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jennifer C",
+                "Last Name": "Darnell",
+                "Affiliation": "Laboratory of Molecular Neuro-Oncology, The Rockefeller University, New York, NY 10065, USA. darneje@rockefeller.edu"
+            },
+            {
+                "First Name": "Sarah J",
+                "Last Name": "Van Driesche",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ka Ying Sharon",
+                "Last Name": "Hung",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aldo",
+                "Last Name": "Mele",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Claire E",
+                "Last Name": "Fraser",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Elizabeth F",
+                "Last Name": "Stone",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cynthia",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John J",
+                "Last Name": "Fak",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sung Wook",
+                "Last Name": "Chi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Donny D",
+                "Last Name": "Licatalosi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joel D",
+                "Last Name": "Richter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert B",
+                "Last Name": "Darnell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21633356",
+        "Title": "Mapping in vivo protein-RNA interactions at single-nucleotide resolution from HITS-CLIP data.",
+        "Abstract": "Mammalian RNA complexity is regulated through interactions of RNA-binding proteins (RBPs) with their target transcripts. High-throughput sequencing together with UV-crosslinking and immunoprecipitation (HITS-CLIP) is able to globally map RBP-binding footprint regions at a resolution of ~30-60 nucleotides. Here we describe a systematic way to analyze HITS-CLIP data to identify exact crosslink sites, and thereby determine protein-RNA interactions at single-nucleotide resolution. We found that reverse transcriptase used in CLIP frequently skips the crosslinked amino-acid-RNA adduct, resulting in a nucleotide deletion. Genome-wide analysis of these crosslinking-induced mutation sites (CIMS) in HITS-CLIP data for Nova and Argonaute (Ago) proteins in mouse brain tissue revealed deletions in ~8-20% of mRNA tags, which mapped to Nova and Ago binding sites on mRNA or miRNA. CIMS analysis provides a general and more precise means of mapping protein-RNA interactions than currently available methods and insight into the biochemical properties of such interactions in living tissues.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Nucleotides",
+            "Protein Interaction Mapping",
+            "Proteins",
+            "RNA",
+            "Sequence Analysis, Protein",
+            "Sequence Analysis, RNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Laboratory of Molecular Neuro-Oncology, Howard Hughes Medical Institute, The Rockefeller University, New York, New York, USA. czhang@rockefeller.edu"
+            },
+            {
+                "First Name": "Robert B",
+                "Last Name": "Darnell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature biotechnology",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "20558669",
+        "Title": "Integrative modeling defines the Nova splicing-regulatory network and its combinatorial controls.",
+        "Abstract": "The control of RNA alternative splicing is critical for generating biological diversity. Despite emerging genome-wide technologies to study RNA complexity, reliable and comprehensive RNA-regulatory networks have not been defined. Here, we used Bayesian networks to probabilistically model diverse data sets and predict the target networks of specific regulators. We applied this strategy to identify approximately 700 alternative splicing events directly regulated by the neuron-specific factor Nova in the mouse brain, integrating RNA-binding data, splicing microarray data, Nova-binding motifs, and evolutionary signatures. The resulting integrative network revealed combinatorial regulation by Nova and the neuronal splicing factor Fox, interplay between phosphorylation and splicing, and potential links to neurologic disease. Thus, we have developed a general approach to understanding mammalian RNA regulation at the systems level.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alternative Splicing",
+            "Animals",
+            "Antigens, Neoplasm",
+            "Artificial Intelligence",
+            "Bayes Theorem",
+            "Binding Sites",
+            "Brain",
+            "Cell Line",
+            "Computational Biology",
+            "Evolution, Molecular",
+            "Exons",
+            "Gene Regulatory Networks",
+            "Humans",
+            "Introns",
+            "Mice",
+            "Models, Genetic",
+            "Models, Statistical",
+            "Nerve Tissue Proteins",
+            "Nervous System Diseases",
+            "Neuro-Oncological Ventral Antigen",
+            "Oligonucleotide Array Sequence Analysis",
+            "Phosphorylation",
+            "Protein Binding",
+            "Proteins",
+            "RNA",
+            "RNA-Binding Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Laboratory of Molecular Neuro-Oncology, Howard Hughes Medical Institute, The Rockefeller University, 1230 York Avenue, New York, NY 10021, USA. czhang@rockefeller.edu"
+            },
+            {
+                "First Name": "Maria A",
+                "Last Name": "Frias",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aldo",
+                "Last Name": "Mele",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matteo",
+                "Last Name": "Ruggiu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Taesun",
+                "Last Name": "Eom",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christina B",
+                "Last Name": "Marney",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Huidong",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Donny D",
+                "Last Name": "Licatalosi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John J",
+                "Last Name": "Fak",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert B",
+                "Last Name": "Darnell",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20385362",
+        "Title": "Dissecting the unique role of the retinoblastoma tumor suppressor during cellular senescence.",
+        "Abstract": "The RB protein family (RB, p107, and p130) has overlapping and compensatory functions in cell-cycle control. However, cancer-associated mutations are almost exclusively found in RB, implying that RB has a nonredundant role in tumor suppression. We demonstrate that RB preferentially associates with E2F target genes involved in DNA replication and is uniquely required to repress these genes during senescence but not other growth states. Consequently, RB loss leads to inappropriate DNA synthesis following a senescence trigger and, together with disruption of a p21-mediated cell-cycle checkpoint, enables extensive proliferation and rampant genomic instability. Our results identify a nonredundant RB effector function that may contribute to tumor suppression and reveal how loss of RB and p53 cooperate to bypass senescence.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cellular Senescence",
+            "DNA Replication",
+            "DNA, Neoplasm",
+            "Gene Transfer Techniques",
+            "Genes, Tumor Suppressor",
+            "Genetic Vectors",
+            "Homeostasis",
+            "Humans",
+            "Retinoblastoma",
+            "Retinoblastoma Protein"
+        ],
+        "Authors": [
+            {
+                "First Name": "Agustin",
+                "Last Name": "Chicas",
+                "Affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA."
+            },
+            {
+                "First Name": "Xiaowo",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mila",
+                "Last Name": "McCurrach",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zhen",
+                "Last Name": "Zhao",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ozlem",
+                "Last Name": "Mert",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ross A",
+                "Last Name": "Dickins",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Masashi",
+                "Last Name": "Narita",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Scott W",
+                "Last Name": "Lowe",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cancer cell",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "18978788",
+        "Title": "Expression of 24,426 human alternative splicing events and predicted cis regulation in 48 tissues and cell lines.",
+        "Abstract": "Alternative pre-messenger RNA splicing influences development, physiology and disease, but its regulation in humans is not well understood, partially because of the limited scale at which the expression of specific splicing events has been measured. We generated the first genome-scale expression compendium of human alternative splicing events using custom whole-transcript microarrays monitoring expression of 24,426 alternative splicing events in 48 diverse human samples. Over 11,700 genes and 9,500 splicing events were differentially expressed, providing a rich resource for studying splicing regulation. An unbiased, systematic screen of 21,760 4-mer to 7-mer words for cis-regulatory motifs identified 143 RNA 'words' enriched near regulated cassette exons, including six clusters of motifs represented by UCUCU, UGCAUG, UGCU, UGUGU, UUUU and AGGG, which map to trans-acting regulators PTB, Fox, Muscleblind, CELF/CUG-BP, TIA-1 and hnRNP F/H, respectively. Each cluster showed a distinct pattern of genomic location and tissue specificity. For example, UCUCU occurs 110 to 35 nucleotides preceding cassette exons upregulated in brain and striated muscle but depleted in other tissues. UCUCU and UGCAUG seem to have similar function but independent action, occurring 5' and 3', respectively, of 33% of the cassette exons upregulated in skeletal muscle but co-occurring for only 2%.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alternative Splicing",
+            "Cell Line",
+            "Exons",
+            "Gene Expression Regulation",
+            "Humans",
+            "Oligonucleotide Array Sequence Analysis",
+            "Organ Specificity",
+            "RNA Splicing"
+        ],
+        "Authors": [
+            {
+                "First Name": "John C",
+                "Last Name": "Castle",
+                "Affiliation": "Rosetta Inpharmatics LLC, Seattle, WA 98109, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jyoti K",
+                "Last Name": "Shah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Amit V",
+                "Last Name": "Kulkarni",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Auinash",
+                "Last Name": "Kalsotra",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Thomas A",
+                "Last Name": "Cooper",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jason M",
+                "Last Name": "Johnson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature genetics",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18794351",
+        "Title": "Defining the regulatory network of the tissue-specific splicing factors Fox-1 and Fox-2.",
+        "Abstract": "The precise regulation of many alternative splicing (AS) events by specific splicing factors is essential to determine tissue types and developmental stages. However, the molecular basis of tissue-specific AS regulation and the properties of splicing regulatory networks (SRNs) are poorly understood. Here we comprehensively predict the targets of the brain- and muscle-specific splicing factor Fox-1 (A2BP1) and its paralog Fox-2 (RBM9) and systematically define the corresponding SRNs genome-wide. Fox-1/2 are conserved from worm to human, and specifically recognize the RNA element UGCAUG. We integrate Fox-1/2-binding specificity with phylogenetic conservation, splicing microarray data, and additional computational and experimental characterization. We predict thousands of Fox-1/2 targets with conserved binding sites, at a false discovery rate (FDR) of approximately 24%, including many validated experimentally, suggesting a surprisingly extensive SRN. The preferred position of the binding sites differs according to AS pattern, and determines either activation or repression of exon recognition by Fox-1/2. Many predicted targets are important for neuromuscular functions, and have been implicated in several genetic diseases. We also identified instances of binding site creation or loss in different vertebrate lineages and human populations, which likely reflect fine-tuning of gene expression regulation during evolution.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Binding Sites",
+            "Gene Expression Regulation",
+            "HeLa Cells",
+            "Humans",
+            "RNA Splicing Factors",
+            "RNA-Binding Proteins",
+            "Repressor Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, New York 11724, USA."
+            },
+            {
+                "First Name": "Zuo",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Castle",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shuying",
+                "Last Name": "Sun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jason",
+                "Last Name": "Johnson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adrian R",
+                "Last Name": "Krainer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael Q",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genes & development",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18391195",
+        "Title": "RNA landscape of evolution for optimal exon and intron discrimination.",
+        "Abstract": "Accurate pre-mRNA splicing requires primary splicing signals, including the splice sites, a polypyrimidine tract, and a branch site, other splicing-regulatory elements (SREs). The SREs include exonic splicing enhancers (ESEs), exonic splicing silencers (ESSs), intronic splicing enhancers (ISEs), and intronic splicing silencers (ISSs), which are typically located near the splice sites. However, it is unclear to what extent splicing-driven selective pressure constrains exonic and intronic sequences, especially those distant from the splice sites. Here, we studied the distribution of SREs in human genes in terms of DNA strand-asymmetry patterns. Under a neutral evolution model, each mononucleotide or oligonucleotide should have a symmetric (Chargaff's second parity rule), or weakly asymmetric yet uniform, distribution throughout a pre-mRNA transcript. However, we found that large sets of unbiased, experimentally determined SREs show a distinct strand-asymmetry pattern that is inconsistent with the neutral evolution model, and reflects their functional roles in splicing. ESEs are selected in exons and depleted in introns and vice versa for ESSs. Surprisingly, this trend extends into deep intronic sequences, accounting for one third of the genome. Selection is detectable even at the mononucleotide level, so that the asymmetric base compositions of exons and introns are predictive of ESEs and ESSs. We developed a method that effectively predicts SREs based on strand asymmetry, expanding the current catalog of SREs. Our results suggest that human genes have been optimized for exon and intron discrimination through an RNA landscape shaped during evolution.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Biological Evolution",
+            "Databases, Nucleic Acid",
+            "Exons",
+            "Humans",
+            "Introns",
+            "RNA Precursors",
+            "RNA Splicing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Cold Spring Harbor Laboratory, 1 Bungtown Road, Cold Spring Harbor, NY 11724, USA."
+            },
+            {
+                "First Name": "Wen-Hsiung",
+                "Last Name": "Li",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adrian R",
+                "Last Name": "Krainer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael Q",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17848517",
+        "Title": "Dual-specificity splice sites function alternatively as 5' and 3' splice sites.",
+        "Abstract": "As a result of large-scale sequencing projects and recent splicing-microarray studies, estimates of mammalian genes expressing multiple transcripts continue to increase. This expansion of transcript information makes it possible to better characterize alternative splicing events and gain insights into splicing mechanisms and regulation. Here, we describe a class of splice sites that we call dual-specificity splice sites, which we identified through genome-wide, high-quality alignment of mRNA/EST and genome sequences and experimentally verified by RT-PCR. These splice sites can be alternatively recognized as either 5' or 3' splice sites, and the dual splicing is conceptually similar to a pair of mutually exclusive exons separated by a zero-length intron. The dual-splice-site sequences are essentially a composite of canonical 5' and 3' splice-site consensus sequences, with a CAG|GURAG core. The relative use of a dual site as a 5' or 3' splice site can be accurately predicted by assuming competition for specific binding between spliceosomal components involved in recognition of 5' and 3' splice sites, respectively. Dual-specificity splice sites exist in human and mouse, and possibly in other vertebrate species, although most sites are not conserved, suggesting that their origin is recent. We discuss the implications of this unusual splicing pattern for the diverse mechanisms of exon recognition and for gene evolution.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alternative Splicing",
+            "Animals",
+            "Base Sequence",
+            "Computational Biology",
+            "Consensus Sequence",
+            "Humans",
+            "Mice",
+            "Models, Biological",
+            "Molecular Sequence Data",
+            "RNA Splice Sites"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Cold Spring Harbor Laboratory, 1 Bungtown Road, Cold Spring Harbor, NY 11724, USA."
+            },
+            {
+                "First Name": "Michelle L",
+                "Last Name": "Hastings",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adrian R",
+                "Last Name": "Krainer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael Q",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17719121",
+        "Title": "Evolutionary impact of limited splicing fidelity in mammalian genes.",
+        "Abstract": "The functional significance of most alternative splicing (AS) events, especially frame-shifting ones, has been controversial. Using human-mouse comparison, we demonstrate that frame-preserving AS events adapt and get fixed more rapidly than frame-shifting AS events; selection for smaller exon size is stronger in frame-preserving exons than in frame-shifting ones. These results suggest AS events introducing mild changes are generally favored during evolution and explain the excess of shorter, frame-preserving cassette exons in present mammalian genomes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alternative Splicing",
+            "Animals",
+            "Evolution, Molecular",
+            "Exons",
+            "Genome",
+            "Humans",
+            "Mammals",
+            "Mice"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Cold Spring Harbor Laboratory, NY 11724, USA."
+            },
+            {
+                "First Name": "Adrian R",
+                "Last Name": "Krainer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael Q",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Trends in genetics : TIG",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17048468",
+        "Title": "Significance of gene ranking for classification of microarray samples.",
+        "Abstract": "Many methods for classification and gene selection with microarray data have been developed. These methods usually give a ranking of genes. Evaluating the statistical significance of the gene ranking is important for understanding the results and for further biological investigations, but this question has not been well addressed for machine learning methods in existing works. Here, we address this problem by formulating it in the framework of hypothesis testing and propose a solution based on resampling. The proposed r-test methods convert gene ranking results into position p-values to evaluate the significance of genes. The methods are tested on three real microarray data sets and three simulation data sets with support vector machines as the method of classification and gene selection. The obtained position p-values help to determine the number of genes to be selected and enable scientists to analyze selection results by sophisticated multivariate methods under the same statistical inference paradigm as for simple hypothesis testing methods.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Artificial Intelligence",
+            "Cluster Analysis",
+            "Gene Expression Profiling",
+            "Oligonucleotide Array Sequence Analysis",
+            "Sample Size"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Cold Spring Harbor Laboratory and the Department of Biomedical Engineering, State University of New York at Stony Brook, NY 11794, USA. zhangc@cshl.edu"
+            },
+            {
+                "First Name": "Xuesong",
+                "Last Name": "Lu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xuegong",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "IEEE/ACM transactions on computational biology and bioinformatics",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16825284",
+        "Title": "An increased specificity score matrix for the prediction of SF2/ASF-specific exonic splicing enhancers.",
+        "Abstract": "Numerous disease-associated point mutations exert their effects by disrupting the activity of exonic splicing enhancers (ESEs). We previously derived position weight matrices to predict putative ESEs specific for four human SR proteins. The score matrices are part of ESEfinder, an online resource to identify ESEs in query sequences. We have now carried out a refined functional SELEX screen for motifs that can act as ESEs in response to the human SR protein SF2/ASF. The test BRCA1 exon under selection was internal, rather than the 3'-terminal IGHM exon used in our earlier studies. A naturally occurring heptameric ESE in BRCA1 exon 18 was replaced with two libraries of random sequences, one seven nucleotides in length, the other 14. Following three rounds of selection for in vitro splicing via internal exon inclusion, new consensus motifs and score matrices were derived. Many winner sequences were demonstrated to be functional ESEs in S100-extract-complementation assays with recombinant SF2/ASF. Motif-score threshold values were derived from both experimental and statistical analyses. Motif scores were shown to correlate with levels of exon inclusion, both in vitro and in vivo. Our results confirm and extend our earlier data, as many of the same motifs are recognized as ESEs by both the original and our new score matrix, despite the different context used for selection. Finally, we have derived an increased specificity score matrix that incorporates information from both of our SF2/ASF-specific matrices and that accurately predicts the exon-skipping phenotypes of deleterious point mutations.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alternative Splicing",
+            "Amino Acid Motifs",
+            "Base Sequence",
+            "Forecasting",
+            "Genes, BRCA1",
+            "HeLa Cells",
+            "Humans",
+            "Models, Biological",
+            "Models, Theoretical",
+            "Nuclear Proteins",
+            "Open Reading Frames",
+            "RNA Precursors",
+            "RNA-Binding Proteins",
+            "Regulatory Elements, Transcriptional",
+            "Research Design",
+            "Sequence Homology, Nucleic Acid",
+            "Serine-Arginine Splicing Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Philip J",
+                "Last Name": "Smith",
+                "Affiliation": "Cold Spring Harbor Laboratory, 1 Bungtown Road, Cold Spring Harbor, NY 11724, USA."
+            },
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jinhua",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shern L",
+                "Last Name": "Chew",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael Q",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adrian R",
+                "Last Name": "Krainer",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Human molecular genetics",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16670430",
+        "Title": "A clustering property of highly-degenerate transcription factor binding sites in the mammalian genome.",
+        "Abstract": "Transcription factor binding sites (TFBSs) are short DNA sequences interacting with transcription factors (TFs), which regulate gene expression. Due to the relatively short length of such binding sites, it is largely unclear how the specificity of protein-DNA interaction is achieved. Here, we have performed a genome-wide analysis of TFBS-like sequences for the transcriptional repressor, RE1 Silencing Transcription Factor (REST), as well as for several other representative mammalian TFs (c-myc, p53, HNF-1 and CREB). We find a nonrandom distribution of inexact sites for these TFs, referred to as highly-degenerate TFBSs, that are enriched around the cognate binding sites. Comparisons among human, mouse and rat orthologous promoters reveal that these highly-degenerate sites are conserved significantly more than expected by random chance, suggesting their positive selection during evolution. We propose that this arrangement provides a favorable genomic landscape for functional target site selection.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Base Sequence",
+            "Binding Sites",
+            "Conserved Sequence",
+            "Genomics",
+            "Humans",
+            "Mice",
+            "Promoter Regions, Genetic",
+            "Rats",
+            "Repressor Proteins",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Cold Spring Harbor Laboratory, 1 Bungtown Road, Cold Spring Harbor, NY 11724, USA."
+            },
+            {
+                "First Name": "Zhenyu",
+                "Last Name": "Xuan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stefanie",
+                "Last Name": "Otto",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John R",
+                "Last Name": "Hover",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sean R",
+                "Last Name": "McCorkle",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gail",
+                "Last Name": "Mandel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael Q",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16608523",
+        "Title": "Profiling alternatively spliced mRNA isoforms for prostate cancer classification.",
+        "Abstract": "Prostate cancer is one of the leading causes of cancer illness and death among men in the United States and world wide. There is an urgent need to discover good biomarkers for early clinical diagnosis and treatment. Previously, we developed an exon-junction microarray-based assay and profiled 1532 mRNA splice isoforms from 364 potential prostate cancer related genes in 38 prostate tissues. Here, we investigate the advantage of using splice isoforms, which couple transcriptional and splicing regulation, for cancer classification.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Alternative Splicing",
+            "Biomarkers, Tumor",
+            "Diagnosis, Computer-Assisted",
+            "Gene Expression Profiling",
+            "Humans",
+            "Male",
+            "Neoplasm Proteins",
+            "Prostatic Neoplasms",
+            "Protein Isoforms",
+            "RNA, Messenger",
+            "Reproducibility of Results",
+            "Sensitivity and Specificity",
+            "Sequence Analysis, RNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chaolin",
+                "Last Name": "Zhang",
+                "Affiliation": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA. zhangc@cshl.edu"
+            },
+            {
+                "First Name": "Hai-Ri",
+                "Last Name": "Li",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jian-Bing",
+                "Last Name": "Fan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jessica",
+                "Last Name": "Wang-Rodriguez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tracy",
+                "Last Name": "Downs",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiang-Dong",
+                "Last Name": "Fu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael Q",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC bioinformatics",
+        "PubDate": "2006"
+    }
+]

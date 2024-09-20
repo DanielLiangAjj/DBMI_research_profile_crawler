@@ -1,5 +1,79 @@
 [
     {
+        "PMID": "39143207",
+        "Title": "Abstract representations emerge in human hippocampal neurons during inference.",
+        "Abstract": "Humans have the remarkable cognitive capacity to rapidly adapt to changing environments. Central to this capacity is the ability to form high-level, abstract representations that take advantage of regularities in the world to support generalization",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Hippocampus",
+            "Neurons",
+            "Male",
+            "Female",
+            "Learning",
+            "Amygdala",
+            "Cognition",
+            "Adult",
+            "Temporal Lobe",
+            "Models, Neurological",
+            "Middle Aged"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hristos S",
+                "Last Name": "Courellis",
+                "Affiliation": "Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA, USA. Hristos.courellis@cshs.org."
+            },
+            {
+                "First Name": "Juri",
+                "Last Name": "Minxha",
+                "Affiliation": "Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Araceli R",
+                "Last Name": "Cardenas",
+                "Affiliation": "Krembil Research Institute and Division of Neurosurgery, University Health Network (UHN), University of Toronto, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Daniel L",
+                "Last Name": "Kimmel",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Chrystal M",
+                "Last Name": "Reed",
+                "Affiliation": "Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Taufik A",
+                "Last Name": "Valiante",
+                "Affiliation": "Krembil Research Institute and Division of Neurosurgery, University Health Network (UHN), University of Toronto, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "C Daniel",
+                "Last Name": "Salzman",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Adam N",
+                "Last Name": "Mamelak",
+                "Affiliation": "Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Stefano",
+                "Last Name": "Fusi",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Ueli",
+                "Last Name": "Rutishauser",
+                "Affiliation": "Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA, USA. ueli.rutishauser@cshs.org."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2024"
+    },
+    {
         "PMID": "39090091",
         "Title": "Neural representational geometries reflect behavioral differences in monkeys and recurrent neural networks.",
         "Abstract": "Animals likely use a variety of strategies to solve laboratory tasks. Traditionally, combined analysis of behavioral and neural recording data across subjects employing different strategies may obscure important signals and give confusing results. Hence, it is essential to develop techniques that can infer strategy at the single-subject level. We analyzed an experiment in which two male monkeys performed a visually cued rule-based task. The analysis of their performance shows no indication that they used a different strategy. However, when we examined the geometry of stimulus representations in the state space of the neural activities recorded in dorsolateral prefrontal cortex, we found striking differences between the two monkeys. Our purely neural results induced us to reanalyze the behavior. The new analysis showed that the differences in representational geometry are associated with differences in the reaction times, revealing behavioral differences we were unaware of. All these analyses suggest that the monkeys are using different strategies. Finally, using recurrent neural network models trained to perform the same task, we show that these strategies correlate with the amount of training, suggesting a possible explanation for the observed neural and behavioral differences.",

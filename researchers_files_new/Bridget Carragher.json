@@ -1,0 +1,3183 @@
+[
+    {
+        "PMID": "37988815",
+        "Title": "Automated pipelines for rapid evaluation during cryoEM data acquisition.",
+        "Abstract": "Cryo-electron microscopy (cryoEM) has become a popular method for determining high-resolution structures of biomolecules. However, data processing can be time-consuming, particularly for new researchers entering the field. To improve data quality and increase data collection efficiency, several software packages have been developed for on-the-fly data processing with various degrees of automation. These software packages allow researchers to perform tasks such as motion correction, CTF estimation, 2D classification, and 3D reconstruction in real-time, with minimal human input. On-the-fly data processing can not only improve data collection efficiency but also increase the productivity of instrumentation in high demand. However, the various software packages available differ in their performance, computational requirements, and levels of automation. In this review, we describe the minimal metrics used to assess data quality during data collection, outline the features of an ideal on-the-fly data processing software systems, and provide results from using three of these systems.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Cryoelectron Microscopy",
+            "Image Processing, Computer-Assisted",
+            "Software",
+            "Automation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joshua H",
+                "Last Name": "Mendez",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Eugene Y D",
+                "Last Name": "Chua",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Mohammadreza",
+                "Last Name": "Paraan",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA. Electronic address: bcarragher@chanzuckerberg.com."
+            }
+        ],
+        "Journal": "Current opinion in structural biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37613519",
+        "Title": "Better, Faster, Cheaper, Smarter: Advancing Cryo-EM.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "Chan Zuckerberg Imaging Institute, Redwood City, CA, USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "Chan Zuckerberg Imaging Institute, Redwood City, CA, USA."
+            }
+        ],
+        "Journal": "Microscopy and microanalysis : the official journal of Microscopy Society of America, Microbeam Analysis Society, Microscopical Society of Canada",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37613233",
+        "Title": "Measuring the Effect of Ice Thickness and Microscope Configuration on Resolution in Single Particle Cryo-EM.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Eugene Y D",
+                "Last Name": "Chua",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Kasahun",
+                "Last Name": "Neselu",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Bing",
+                "Last Name": "Wang",
+                "Affiliation": "Cryo-Electron Microscopy Core, New York University Grossman School of Medicine, New York, NYUSA."
+            },
+            {
+                "First Name": "William J",
+                "Last Name": "Rice",
+                "Affiliation": "Cryo-Electron Microscopy Core, New York University Grossman School of Medicine, New York, NYUSA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "Chan Zuckerberg Imaging Institute, Redwood City, CA, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "Chan Zuckerberg Imaging Institute, Redwood City, CA, USA."
+            }
+        ],
+        "Journal": "Microscopy and microanalysis : the official journal of Microscopy Society of America, Microbeam Analysis Society, Microscopical Society of Canada",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35320683",
+        "Title": "Better, Faster, Cheaper: Recent Advances in Cryo-Electron Microscopy.",
+        "Abstract": "Cryo-electron microscopy (cryo-EM) continues its remarkable growth as a method for visualizing biological objects, which has been driven by advances across the entire pipeline. Developments in both single-particle analysis and in situ tomography have enabled more structures to be imaged and determined to better resolutions, at faster speeds, and with more scientists having improved access. This review highlights recent advances at each stageof the cryo-EM pipeline and provides examples of how these techniques have been used to investigate real-world problems, including antibody development against the SARS-CoV-2 spike during the recent COVID-19 pandemic.",
+        "Keywords": [
+            "SARS-CoV-2",
+            "automation",
+            "cryo-EM",
+            "democratization",
+            "in situ tomography",
+            "machine learning"
+        ],
+        "MeSH terms": [
+            "COVID-19",
+            "Cryoelectron Microscopy",
+            "Humans",
+            "Pandemics",
+            "SARS-CoV-2",
+            "Single Molecule Imaging"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eugene Y D",
+                "Last Name": "Chua",
+                "Affiliation": "New York Structural Biology Center, New York, NY, USA; email: echua@nysbc.org, jmendez@nysbc.org, mrapp@nysbc.org, silca@nysbc.org, kmaruthi@nysbc.org, hkuang@nysbc.org, czimanyi@nysbc.org, acheng@nysbc.org, eeng@nysbc.org, anoble@nysbc.org, cpotter@nysbc.org, bcarr@nysbc.org."
+            },
+            {
+                "First Name": "Joshua H",
+                "Last Name": "Mendez",
+                "Affiliation": "New York Structural Biology Center, New York, NY, USA; email: echua@nysbc.org, jmendez@nysbc.org, mrapp@nysbc.org, silca@nysbc.org, kmaruthi@nysbc.org, hkuang@nysbc.org, czimanyi@nysbc.org, acheng@nysbc.org, eeng@nysbc.org, anoble@nysbc.org, cpotter@nysbc.org, bcarr@nysbc.org."
+            },
+            {
+                "First Name": "Micah",
+                "Last Name": "Rapp",
+                "Affiliation": "New York Structural Biology Center, New York, NY, USA; email: echua@nysbc.org, jmendez@nysbc.org, mrapp@nysbc.org, silca@nysbc.org, kmaruthi@nysbc.org, hkuang@nysbc.org, czimanyi@nysbc.org, acheng@nysbc.org, eeng@nysbc.org, anoble@nysbc.org, cpotter@nysbc.org, bcarr@nysbc.org."
+            },
+            {
+                "First Name": "Serban L",
+                "Last Name": "Ilca",
+                "Affiliation": "New York Structural Biology Center, New York, NY, USA; email: echua@nysbc.org, jmendez@nysbc.org, mrapp@nysbc.org, silca@nysbc.org, kmaruthi@nysbc.org, hkuang@nysbc.org, czimanyi@nysbc.org, acheng@nysbc.org, eeng@nysbc.org, anoble@nysbc.org, cpotter@nysbc.org, bcarr@nysbc.org."
+            },
+            {
+                "First Name": "Yong Zi",
+                "Last Name": "Tan",
+                "Affiliation": "Department of Biological Sciences, National University of Singapore, Singapore; email: yztan@nus.edu.sg."
+            },
+            {
+                "First Name": "Kashyap",
+                "Last Name": "Maruthi",
+                "Affiliation": "New York Structural Biology Center, New York, NY, USA; email: echua@nysbc.org, jmendez@nysbc.org, mrapp@nysbc.org, silca@nysbc.org, kmaruthi@nysbc.org, hkuang@nysbc.org, czimanyi@nysbc.org, acheng@nysbc.org, eeng@nysbc.org, anoble@nysbc.org, cpotter@nysbc.org, bcarr@nysbc.org."
+            },
+            {
+                "First Name": "Huihui",
+                "Last Name": "Kuang",
+                "Affiliation": "New York Structural Biology Center, New York, NY, USA; email: echua@nysbc.org, jmendez@nysbc.org, mrapp@nysbc.org, silca@nysbc.org, kmaruthi@nysbc.org, hkuang@nysbc.org, czimanyi@nysbc.org, acheng@nysbc.org, eeng@nysbc.org, anoble@nysbc.org, cpotter@nysbc.org, bcarr@nysbc.org."
+            },
+            {
+                "First Name": "Christina M",
+                "Last Name": "Zimanyi",
+                "Affiliation": "New York Structural Biology Center, New York, NY, USA; email: echua@nysbc.org, jmendez@nysbc.org, mrapp@nysbc.org, silca@nysbc.org, kmaruthi@nysbc.org, hkuang@nysbc.org, czimanyi@nysbc.org, acheng@nysbc.org, eeng@nysbc.org, anoble@nysbc.org, cpotter@nysbc.org, bcarr@nysbc.org."
+            },
+            {
+                "First Name": "Anchi",
+                "Last Name": "Cheng",
+                "Affiliation": "New York Structural Biology Center, New York, NY, USA; email: echua@nysbc.org, jmendez@nysbc.org, mrapp@nysbc.org, silca@nysbc.org, kmaruthi@nysbc.org, hkuang@nysbc.org, czimanyi@nysbc.org, acheng@nysbc.org, eeng@nysbc.org, anoble@nysbc.org, cpotter@nysbc.org, bcarr@nysbc.org."
+            },
+            {
+                "First Name": "Edward T",
+                "Last Name": "Eng",
+                "Affiliation": "New York Structural Biology Center, New York, NY, USA; email: echua@nysbc.org, jmendez@nysbc.org, mrapp@nysbc.org, silca@nysbc.org, kmaruthi@nysbc.org, hkuang@nysbc.org, czimanyi@nysbc.org, acheng@nysbc.org, eeng@nysbc.org, anoble@nysbc.org, cpotter@nysbc.org, bcarr@nysbc.org."
+            },
+            {
+                "First Name": "Alex J",
+                "Last Name": "Noble",
+                "Affiliation": "New York Structural Biology Center, New York, NY, USA; email: echua@nysbc.org, jmendez@nysbc.org, mrapp@nysbc.org, silca@nysbc.org, kmaruthi@nysbc.org, hkuang@nysbc.org, czimanyi@nysbc.org, acheng@nysbc.org, eeng@nysbc.org, anoble@nysbc.org, cpotter@nysbc.org, bcarr@nysbc.org."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "New York Structural Biology Center, New York, NY, USA; email: echua@nysbc.org, jmendez@nysbc.org, mrapp@nysbc.org, silca@nysbc.org, kmaruthi@nysbc.org, hkuang@nysbc.org, czimanyi@nysbc.org, acheng@nysbc.org, eeng@nysbc.org, anoble@nysbc.org, cpotter@nysbc.org, bcarr@nysbc.org."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "New York Structural Biology Center, New York, NY, USA; email: echua@nysbc.org, jmendez@nysbc.org, mrapp@nysbc.org, silca@nysbc.org, kmaruthi@nysbc.org, hkuang@nysbc.org, czimanyi@nysbc.org, acheng@nysbc.org, eeng@nysbc.org, anoble@nysbc.org, cpotter@nysbc.org, bcarr@nysbc.org."
+            }
+        ],
+        "Journal": "Annual review of biochemistry",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35088060",
+        "Title": "A resolution record for cryoEM.",
+        "Abstract": "Cryo electron microscopy (cryoEM) is a fast-growing technique for structure determination. Two recent papers report the first atomic resolution structure of a protein obtained by averaging images of frozen-hydrated biomolecules. They both describe maps of symmetric apoferritin assemblies, a common test specimen, in unprecedented detail. New instrument improvements, different in the two studies, have contributed better images, and image analysis can extract structural information sufficient to resolve individual atomic positions. While true atomic resolution maps will not be routine for most proteins, the studies suggest structures determined by cryoEM will continue to improve, increasing their impact on biology and medicine.",
+        "Keywords": [
+            "Atomic resolution",
+            "CryoEM",
+            "apoF",
+            "protein structure",
+            "structure determination"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Ashmore",
+                "Affiliation": "University College London."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "New York Structural Biology Center."
+            },
+            {
+                "First Name": "Peter B",
+                "Last Name": "Rosenthal",
+                "Affiliation": "Francis Crick Institute."
+            },
+            {
+                "First Name": "William",
+                "Last Name": "Weis",
+                "Affiliation": "Stanford University."
+            }
+        ],
+        "Journal": "Faculty reviews",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "35063097",
+        "Title": "Label-free visual proteomics: Coupling MS- and EM-based approaches in structural biology.",
+        "Abstract": "Combining diverse experimental structural and interactomic methods allows for the construction of comprehensible molecular encyclopedias of biological systems. Typically, this involves merging several independent approaches that provide complementary structural and functional information from multiple perspectives and at different resolution ranges. A particularly potent combination lies in coupling structural information from cryoelectron microscopy or tomography (cryo-EM or cryo-ET) with interactomic and structural information from mass spectrometry (MS)-based structural proteomics. Cryo-EM/ET allows for sub-nanometer visualization of biological specimens in purified and near-native states, while MS provides bioanalytical information for proteins and protein complexes without introducing additional labels. Here we highlight recent achievements in protein structure and interactome determination using cryo-EM/ET that benefit from additional MS analysis. We also give our perspective on how combining cryo-EM/ET and MS will continue bridging gaps between molecular and cellular studies by capturing and describing 3D snapshots of proteomes and interactomes.",
+        "Keywords": [
+            "crosslinking MS",
+            "cryo-EM",
+            "cryo-ET",
+            "integrative structural biology",
+            "label-free visual proteomics",
+            "protein-protein interactions",
+            "structural proteomics"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cryoelectron Microscopy",
+            "Electron Microscope Tomography",
+            "Humans",
+            "Mass Spectrometry",
+            "Models, Molecular",
+            "Protein Interaction Maps",
+            "Proteome",
+            "Proteomics",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Oleg",
+                "Last Name": "Klykov",
+                "Affiliation": "National Center for In-situ Tomographic Ultramicroscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Mykhailo",
+                "Last Name": "Kopylov",
+                "Affiliation": "National Center for In-situ Tomographic Ultramicroscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "National Center for In-situ Tomographic Ultramicroscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Albert J R",
+                "Last Name": "Heck",
+                "Affiliation": "Biomolecular Mass Spectrometry and Proteomics, Bijvoet Center for Biomolecular Research and Utrecht Institute for Pharmaceutical Sciences, University of Utrecht, 3584 CH Utrecht, the Netherlands; Netherlands Proteomics Center, 3584 CH Utrecht, the Netherlands."
+            },
+            {
+                "First Name": "Alex J",
+                "Last Name": "Noble",
+                "Affiliation": "National Center for In-situ Tomographic Ultramicroscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA. Electronic address: anoble@nysbc.org."
+            },
+            {
+                "First Name": "Richard A",
+                "Last Name": "Scheltema",
+                "Affiliation": "Biomolecular Mass Spectrometry and Proteomics, Bijvoet Center for Biomolecular Research and Utrecht Institute for Pharmaceutical Sciences, University of Utrecht, 3584 CH Utrecht, the Netherlands; Netherlands Proteomics Center, 3584 CH Utrecht, the Netherlands. Electronic address: r.a.scheltema@uu.nl."
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34327213",
+        "Title": "Small Molecule Microcrystal Electron Diffraction for the Pharmaceutical Industry-Lessons Learned From Examining Over Fifty Samples.",
+        "Abstract": "The emerging field of microcrystal electron diffraction (MicroED) is of great interest to industrial researchers working in the drug discovery and drug development space. The promise of being able to routinely solve high-resolution crystal structures without the need to grow large crystals is very appealing. Despite MicroED's exciting potential, adoption across the pharmaceutical industry has been slow, primarily owing to a lack of access to specialized equipment and expertise. Here we present our experience building a small molecule MicroED service pipeline for members of the pharmaceutical industry. In the past year, we have examined more than fifty small molecule samples submitted by our clients, the majority of which have yielded data suitable for structure solution. We also detail our experience determining small molecule MicroED structures of pharmaceutical interest and offer some insights into the typical experimental outcomes. This experience has led us to conclude that small molecule MicroED adoption will continue to grow within the pharmaceutical industry where it is able to rapidly provide structures inaccessible by other methods.",
+        "Keywords": [
+            "MicroED",
+            "crystallography",
+            "drug development",
+            "electron diffraction (ED)",
+            "medicinal chemistry",
+            "small molecule",
+            "structure",
+            "transmission elections microscopy"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jessica F",
+                "Last Name": "Bruhn",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Giovanna",
+                "Last Name": "Scapin",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Anchi",
+                "Last Name": "Cheng",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Brandon Q",
+                "Last Name": "Mercado",
+                "Affiliation": "Department of Chemistry, Yale University, New Haven, CT, United States."
+            },
+            {
+                "First Name": "David G",
+                "Last Name": "Waterman",
+                "Affiliation": "UKRI STFC Rutherford Appleton Laboratory, Didcot, United Kingdom."
+            },
+            {
+                "First Name": "Thejusvi",
+                "Last Name": "Ganesh",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Sargis",
+                "Last Name": "Dallakyan",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Brandon N",
+                "Last Name": "Read",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Travis",
+                "Last Name": "Nieusma",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Kyle W",
+                "Last Name": "Lucier",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Megan L",
+                "Last Name": "Mayer",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Nicole J",
+                "Last Name": "Chiang",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Nicole",
+                "Last Name": "Poweleit",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Philip T",
+                "Last Name": "McGilvray",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Timothy S",
+                "Last Name": "Wilson",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Mashore",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Camille",
+                "Last Name": "Hennessy",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Sean",
+                "Last Name": "Thomson",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Bo",
+                "Last Name": "Wang",
+                "Affiliation": "Biogen, Cambridge, MA, United States."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "NanoImaging Services, San Diego, CA, United States."
+            }
+        ],
+        "Journal": "Frontiers in molecular biosciences",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33720116",
+        "Title": "Cryo-Electron Microscopic Grid Preparation for Time-Resolved Studies using a Novel Robotic System, Spotiton.",
+        "Abstract": "The capture of short-lived molecular states triggered by the early encounter of two or more interacting particles continues to be an experimental challenge of great interest to the field of cryo-electron microscopy (cryo-EM). A few methodological strategies have been developed that support these \"time-resolved\" studies, one of which, Spotiton-a novel robotic system-combines the dispensing of picoliter-sized sample droplets with precise temporal and spatial control. The time-resolved Spotiton workflow offers a uniquely efficient approach to interrogate early structural rearrangements from minimal sample volume. Fired from independently controlled piezoelectric dispensers, two samples land and rapidly mix on a nanowire EM grid as it plunges toward the cryogen. Potentially hundreds of grids can be prepared in rapid succession from only a few microliters of a sample. Here, a detailed step-by-step protocol of the operation of the Spotiton system is presented with a focus on troubleshooting specific problems that arise during grid preparation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cryoelectron Microscopy",
+            "Freezing",
+            "Humidity",
+            "Robotics",
+            "Software",
+            "Time Factors",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "William C",
+                "Last Name": "Budell",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center."
+            },
+            {
+                "First Name": "Luis",
+                "Last Name": "Allegri",
+                "Affiliation": "piTree Software."
+            },
+            {
+                "First Name": "Venkat",
+                "Last Name": "Dandey",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center; bcarr@nysbc.org."
+            }
+        ],
+        "Journal": "Journal of visualized experiments : JoVE",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33338409",
+        "Title": "Seeing Atoms: Single-Particle Cryo-EM Breaks the Atomic Barrier.",
+        "Abstract": "The goal of structural biology is to understand biological macromolecules in as much detail as possible. Depending on the resolution of the structure obtained, insights will range from understanding interactions at the level of proteins, domains, or atoms. The three mainstay structural biology techniques are X-ray crystallography, nuclear magnetic resonance (NMR) imaging, and cryogenic electron microscopy (cryo-EM). Cryo-EM has rapidly gained popularity in recent years due to a combination of hardware and software advances, leading to the so-called Resolution Revolution (Kühlbrandt, 2014).",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cryoelectron Microscopy",
+            "Crystallography, X-Ray",
+            "Imaging, Three-Dimensional",
+            "Molecular Biology",
+            "Proteins",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yong Zi",
+                "Last Name": "Tan",
+                "Affiliation": "Molecular Medicine Program, The Hospital for Sick Children, Toronto, ON M5G 0A4, Canada."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY 10027, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA. Electronic address: bcarr@nysbc.org."
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33033206",
+        "Title": "Better, faster, and even cheap.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Cryoelectron Microscopy",
+            "Movement"
+        ],
+        "Authors": [
+            {
+                "First Name": "Micah",
+                "Last Name": "Rapp",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY 10027, USA, and Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY 10027, USA, and Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA. bcarr@nysbc.org."
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33030237",
+        "Title": "Leginon: New features and applications.",
+        "Abstract": "Leginon is a system for automated data acquisition from a transmission electron microscope. Here we provide an updated summary of the overall Leginon architecture and an update of the current state of the package. We also highlight a few recent developments to provide some concrete examples and use cases.",
+        "Keywords": [
+            "automation",
+            "cryoEM",
+            "microED"
+        ],
+        "MeSH terms": [
+            "Microscopy, Electron, Transmission",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anchi",
+                "Last Name": "Cheng",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Carl",
+                "Last Name": "Negro",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Jessica F",
+                "Last Name": "Bruhn",
+                "Affiliation": "NanoImaging Services, San Diego, CA, USA."
+            },
+            {
+                "First Name": "William J",
+                "Last Name": "Rice",
+                "Affiliation": "Cryo-Electron Microscopy Core, New York University School of Medicine, New York, New York, USA."
+            },
+            {
+                "First Name": "Sargis",
+                "Last Name": "Dallakyan",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Edward T",
+                "Last Name": "Eng",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, New York, USA."
+            },
+            {
+                "First Name": "David G",
+                "Last Name": "Waterman",
+                "Affiliation": "STFC, Rutherford Appleton Laboratory, Didcot, UK."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, New York, USA."
+            }
+        ],
+        "Journal": "Protein science : a publication of the Protein Society",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "32778833",
+        "Title": "Time-resolved cryo-EM using Spotiton.",
+        "Abstract": "We present an approach for preparing cryo-electron microscopy (cryo-EM) grids to study short-lived molecular states. Using piezoelectric dispensing, two independent streams of ~50-pl droplets of sample are deposited within 10 ms of each other onto the surface of a nanowire EM grid, and the mixing reaction stops when the grid is vitrified in liquid ethane ~100 ms later. We demonstrate this approach for four biological systems where short-lived states are of high interest.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cryoelectron Microscopy",
+            "Nanowires",
+            "Robotics",
+            "Specimen Handling",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Venkata P",
+                "Last Name": "Dandey",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "William C",
+                "Last Name": "Budell",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Hui",
+                "Last Name": "Wei",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Daija",
+                "Last Name": "Bobe",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Kashyap",
+                "Last Name": "Maruthi",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Mykhailo",
+                "Last Name": "Kopylov",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Edward T",
+                "Last Name": "Eng",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Kahn",
+                "Affiliation": "Engineering Arts LLC, Tempe, AZ, USA."
+            },
+            {
+                "First Name": "Jenny E",
+                "Last Name": "Hinshaw",
+                "Affiliation": "Laboratory of Cell and Molecular Biology, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Nidhi",
+                "Last Name": "Kundu",
+                "Affiliation": "Laboratory of Cell and Molecular Biology, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Crina M",
+                "Last Name": "Nimigean",
+                "Affiliation": "Department of Anesthesiology, Weill Cornell Medical College, New York, NY, USA."
+            },
+            {
+                "First Name": "Chen",
+                "Last Name": "Fan",
+                "Affiliation": "Department of Anesthesiology, Weill Cornell Medical College, New York, NY, USA."
+            },
+            {
+                "First Name": "Nattakan",
+                "Last Name": "Sukomon",
+                "Affiliation": "Department of Anesthesiology, Weill Cornell Medical College, New York, NY, USA."
+            },
+            {
+                "First Name": "Seth A",
+                "Last Name": "Darst",
+                "Affiliation": "Laboratory of Molecular Biophysics, The Rockefeller University, New York, NY, USA."
+            },
+            {
+                "First Name": "Ruth M",
+                "Last Name": "Saecker",
+                "Affiliation": "Laboratory of Molecular Biophysics, The Rockefeller University, New York, NY, USA."
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Chen",
+                "Affiliation": "Laboratory of Molecular Biophysics, The Rockefeller University, New York, NY, USA."
+            },
+            {
+                "First Name": "Brandon",
+                "Last Name": "Malone",
+                "Affiliation": "Laboratory of Molecular Biophysics, The Rockefeller University, New York, NY, USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA. bcarr@nysbc.org."
+            }
+        ],
+        "Journal": "Nature methods",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32640251",
+        "Title": "Automating Decision Making in the Cryo-EM Pre-processing Pipeline.",
+        "Abstract": "In this issue of Structure, Li et al. (2020) describe machine learning methods that automate decision making in the cryo-EM pre-processing pipeline, eliminating the need for user-subjective decisions. They successfully tested this pipeline for a wide range of datasets, demonstrating the proof of concept and the efficiency of this approach.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cryoelectron Microscopy",
+            "Decision Making"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kashyap",
+                "Last Name": "Maruthi",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Mykhailo",
+                "Last Name": "Kopylov",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA. Electronic address: bcarr@nysbc.org."
+            }
+        ],
+        "Journal": "Structure (London, England : 1993)",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "30250056",
+        "Title": "Reducing effects of particle adsorption to the air-water interface in cryo-EM.",
+        "Abstract": "Most protein particles prepared in vitreous ice for single-particle cryo-electron microscopy (cryo-EM) are adsorbed to air-water or substrate-water interfaces, which can cause the particles to adopt preferred orientations. By using a rapid plunge-freezing robot and nanowire grids, we were able to reduce some of the deleterious effects of the air-water interface by decreasing the dwell time of particles in thin liquid films. We demonstrated this by using single-particle cryo-EM and cryo-electron tomography (cryo-ET) to examine hemagglutinin, insulin receptor complex, and apoferritin.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Air",
+            "Apoferritins",
+            "Cryoelectron Microscopy",
+            "Hemagglutinins",
+            "Humans",
+            "Receptor, Insulin",
+            "Water"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alex J",
+                "Last Name": "Noble",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Hui",
+                "Last Name": "Wei",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Venkata P",
+                "Last Name": "Dandey",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Zhening",
+                "Last Name": "Zhang",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Yong Zi",
+                "Last Name": "Tan",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA. bcarr@nysbc.org."
+            }
+        ],
+        "Journal": "Nature methods",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "30100349",
+        "Title": "Cryo-EM for Small Molecules Discovery, Design, Understanding, and Application.",
+        "Abstract": "We present a perspective of our view of the application of cryoelectron microscopy (cryo-EM) to structure-based drug design (SBDD). We discuss the basic needs and requirements for SBDD, the current state of cryo-EM, and the challenges that need to be overcome for this technique to reach its full potential in facilitating the process of drug discovery.",
+        "Keywords": [
+            "automation",
+            "cryo-EM",
+            "structure-based drug discovery"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cryoelectron Microscopy",
+            "Drug Design",
+            "Drug Discovery",
+            "Equipment Design",
+            "Humans",
+            "Ligands",
+            "Molecular Docking Simulation",
+            "Protein Binding",
+            "Proteins",
+            "Small Molecule Libraries"
+        ],
+        "Authors": [
+            {
+                "First Name": "Giovanna",
+                "Last Name": "Scapin",
+                "Affiliation": "Department of Biochemical Engineering & Structure, Merck & Co., Inc., 2000 Galloping Hill Rd., Kenilworth, NJ 07033, USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "Simons Electron Microscopy Center, National Resource for Automated Molecular Microscopy, New York Structural Biology Center, 89 Convent Avenue, New York NY 10027, USA; NanoImaging Services, 4940 Carroll Canyon Road, Suite 115, San Diego, CA 92121, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "Simons Electron Microscopy Center, National Resource for Automated Molecular Microscopy, New York Structural Biology Center, 89 Convent Avenue, New York NY 10027, USA; NanoImaging Services, 4940 Carroll Canyon Road, Suite 115, San Diego, CA 92121, USA. Electronic address: bcarr@nysbc.org."
+            }
+        ],
+        "Journal": "Cell chemical biology",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "30055234",
+        "Title": "High resolution single particle cryo-electron microscopy using beam-image shift.",
+        "Abstract": "Automated data acquisition is used widely for single-particle reconstruction of three-dimensional (3D) volumes of biological complexes preserved in vitreous ice and imaged in a transmission electron microscope. Automation has become integral to this method because of the very large number of particle images required in order to overcome the typically low signal-to-noise ratio of these images. For optimal efficiency, automated data acquisition software packages typically employ some beam-image shift targeting as this method is both fast and accurate (±0.1 µm). In contrast, using only stage movement, relocation to a targeted area under low-dose conditions can only be achieved in combination with multiple iterations or long relaxation times, both reducing efficiency. Nevertheless it is well known that applying beam-image shift induces beam-tilt and with it a potential structure phase error with a phase error π/4 the highest acceptable value. This theory has been used as an argument against beam-image shift for high resolution data collection. Nevertheless, in practice many small beam-image shift datasets have resulted in 3D reconstructions beyond the π/4 phase error limit. To address this apparent contradiction, we performed cryo-EM single-particle reconstructions on a T20S proteasome sample using applied beam-image shifts corresponding to beam tilts from 0 to 10 mrad. To evaluate the results we compared the FSC values, and examined the water density peaks in the 3D map. We conclude that the phase error does not limit the validity of the 3D reconstruction from single-particle averaging beyond the π/4 resolution limit.",
+        "Keywords": [
+            "Automation",
+            "Coma free alignment",
+            "Cryo-EM",
+            "Phase error"
+        ],
+        "MeSH terms": [
+            "Algorithms",
+            "Cryoelectron Microscopy",
+            "Signal-To-Noise Ratio"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anchi",
+                "Last Name": "Cheng",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY 10027, USA; National Resource for Automated Molecular Microscopy, New York Structural Biology Center, New York, NY 10027, USA. Electronic address: acheng@nysbc.org."
+            },
+            {
+                "First Name": "Edward T",
+                "Last Name": "Eng",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Lambertus",
+                "Last Name": "Alink",
+                "Affiliation": "Thermo Fisher Scientific, Materials & Structural Analysis, Hillsboro, OR 97124, USA."
+            },
+            {
+                "First Name": "William J",
+                "Last Name": "Rice",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY 10027, USA; National Resource for Automated Molecular Microscopy, New York Structural Biology Center, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Kelsey D",
+                "Last Name": "Jordan",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Laura Y",
+                "Last Name": "Kim",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY 10027, USA; National Resource for Automated Molecular Microscopy, New York Structural Biology Center, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY 10027, USA; National Resource for Automated Molecular Microscopy, New York Structural Biology Center, New York, NY 10027, USA."
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29951483",
+        "Title": "Benchmarking cryo-EM Single Particle Analysis Workflow.",
+        "Abstract": "Cryo electron microscopy facilities running multiple instruments and serving users with varying skill levels need a robust and reliable method for benchmarking both the hardware and software components of their single particle analysis workflow. The workflow is complex, with many bottlenecks existing at the specimen preparation, data collection and image analysis steps; the samples and grid preparation can be of unpredictable quality, there are many different protocols for microscope and camera settings, and there is a myriad of software programs for analysis that can depend on dozens of settings chosen by the user. For this reason, we believe it is important to benchmark the entire workflow, using a standard sample and standard operating procedures, on a regular basis. This provides confidence that all aspects of the pipeline are capable of producing maps to high resolution. Here we describe benchmarking procedures using a test sample, rabbit muscle aldolase.",
+        "Keywords": [
+            "alignment",
+            "benchmarking",
+            "cryo-electron microscopy",
+            "resolution",
+            "single particle workflow",
+            "structural biology"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Laura Y",
+                "Last Name": "Kim",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, United States."
+            },
+            {
+                "First Name": "William J",
+                "Last Name": "Rice",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Edward T",
+                "Last Name": "Eng",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Mykhailo",
+                "Last Name": "Kopylov",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Anchi",
+                "Last Name": "Cheng",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Ashleigh M",
+                "Last Name": "Raczkowski",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Kelsey D",
+                "Last Name": "Jordan",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Daija",
+                "Last Name": "Bobe",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, United States."
+            }
+        ],
+        "Journal": "Frontiers in molecular biosciences",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29809143",
+        "Title": "Routine single particle CryoEM sample and grid characterization by tomography.",
+        "Abstract": "Single particle cryo-electron microscopy (cryoEM) is often performed under the assumption that particles are not adsorbed to the air-water interfaces and in thin, vitreous ice. In this study, we performed fiducial-less tomography on over 50 different cryoEM grid/sample preparations to determine the particle distribution within the ice and the overall geometry of the ice in grid holes. Surprisingly, by studying particles in holes in 3D from over 1000 tomograms, we have determined that the vast majority of particles (approximately 90%) are adsorbed to an air-water interface. The implications of this observation are wide-ranging, with potential ramifications regarding protein denaturation, conformational change, and preferred orientation. We also show that fiducial-less cryo-electron tomography on single particle grids may be used to determine ice thickness, optimal single particle collection areas and strategies, particle heterogeneity, and de novo models for template picking and single particle alignment.",
+        "Keywords": [
+            "air-water",
+            "cryoET",
+            "fiducial-less",
+            "molecular biophysics",
+            "none",
+            "protomo",
+            "single particle",
+            "structural biology",
+            "tomography"
+        ],
+        "MeSH terms": [
+            "Air",
+            "Animals",
+            "Apoferritins",
+            "Cryoelectron Microscopy",
+            "DnaB Helicases",
+            "Electron Microscope Tomography",
+            "Escherichia coli",
+            "Fructose-Bisphosphate Aldolase",
+            "Proteasome Endopeptidase Complex",
+            "Rabbits",
+            "Sugar Alcohol Dehydrogenases",
+            "Surface Properties",
+            "Water"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alex J",
+                "Last Name": "Noble",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "Venkata P",
+                "Last Name": "Dandey",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "Hui",
+                "Last Name": "Wei",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Brasch",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "Jillian",
+                "Last Name": "Chase",
+                "Affiliation": "Department of Chemistry and Biochemistry, City College of New York, New York, United States."
+            },
+            {
+                "First Name": "Priyamvada",
+                "Last Name": "Acharya",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "Yong Zi",
+                "Last Name": "Tan",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "Zhening",
+                "Last Name": "Zhang",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "Laura Y",
+                "Last Name": "Kim",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "Giovanna",
+                "Last Name": "Scapin",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "Micah",
+                "Last Name": "Rapp",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "Edward T",
+                "Last Name": "Eng",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "William J",
+                "Last Name": "Rice",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "Anchi",
+                "Last Name": "Cheng",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "Carl J",
+                "Last Name": "Negro",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "Lawrence",
+                "Last Name": "Shapiro",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Kwong",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Maryland, United States."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Jeruzalmi",
+                "Affiliation": "Department of Chemistry and Biochemistry, City College of New York, New York, United States."
+            },
+            {
+                "First Name": "Amedee",
+                "Last Name": "des Georges",
+                "Affiliation": "Department of Chemistry and Biochemistry, City College of New York, New York, United States."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29512653",
+        "Title": "Structure of the insulin receptor-insulin complex by single-particle cryo-EM analysis.",
+        "Abstract": "The insulin receptor is a dimeric protein that has a crucial role in controlling glucose homeostasis, regulating lipid, protein and carbohydrate metabolism, and modulating brain neurotransmitter levels. Insulin receptor dysfunction has been associated with many diseases, including diabetes, cancer and Alzheimer's disease. The primary sequence of the receptor has been known since the 1980s, and is composed of an extracellular portion (the ectodomain, ECD), a single transmembrane helix and an intracellular tyrosine kinase domain. Binding of insulin to the dimeric ECD triggers auto-phosphorylation of the tyrosine kinase domain and subsequent activation of downstream signalling molecules. Biochemical and mutagenesis data have identified two putative insulin-binding sites, S1 and S2. The structures of insulin bound to an ECD fragment containing S1 and of the apo ectodomain have previously been reported, but details of insulin binding to the full receptor and the signal propagation mechanism are still not understood. Here we report single-particle cryo-electron microscopy reconstructions of the 1:2 (4.3 Å) and 1:1 (7.4 Å) complexes of the insulin receptor ECD dimer with insulin. The symmetrical 4.3 Å structure shows two insulin molecules per dimer, each bound between the leucine-rich subdomain L1 of one monomer and the first fibronectin-like domain (FnIII-1) of the other monomer, and making extensive interactions with the α-subunit C-terminal helix (α-CT helix). The 7.4 Å structure has only one similarly bound insulin per receptor dimer. The structures confirm the binding interactions at S1 and define the full S2 binding site. These insulin receptor states suggest that recruitment of the α-CT helix upon binding of the first insulin changes the relative subdomain orientations and triggers downstream signal propagation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Apoproteins",
+            "Cryoelectron Microscopy",
+            "Crystallography, X-Ray",
+            "Humans",
+            "Insulin",
+            "Models, Molecular",
+            "Protein Multimerization",
+            "Receptor, Insulin",
+            "Signal Transduction",
+            "Single Molecule Imaging"
+        ],
+        "Authors": [
+            {
+                "First Name": "Giovanna",
+                "Last Name": "Scapin",
+                "Affiliation": "Merck & Co., Department of Biochemical Engineering & Structure, 2000 Galloping Hill Road, Kenilworth, New Jersey 07033, USA."
+            },
+            {
+                "First Name": "Venkata P",
+                "Last Name": "Dandey",
+                "Affiliation": "Simons Electron Microscopy Center, National Resource for Automated Molecular Microscopy, New York Structural Biology Center, 89 Convent Avenue, New York, New York 10027, USA."
+            },
+            {
+                "First Name": "Zhening",
+                "Last Name": "Zhang",
+                "Affiliation": "Simons Electron Microscopy Center, National Resource for Automated Molecular Microscopy, New York Structural Biology Center, 89 Convent Avenue, New York, New York 10027, USA."
+            },
+            {
+                "First Name": "Winifred",
+                "Last Name": "Prosise",
+                "Affiliation": "Merck & Co., Department of Biochemical Engineering & Structure, 2000 Galloping Hill Road, Kenilworth, New Jersey 07033, USA."
+            },
+            {
+                "First Name": "Alan",
+                "Last Name": "Hruza",
+                "Affiliation": "Merck & Co., Department of Biochemical Engineering & Structure, 2000 Galloping Hill Road, Kenilworth, New Jersey 07033, USA."
+            },
+            {
+                "First Name": "Theresa",
+                "Last Name": "Kelly",
+                "Affiliation": "Merck & Co., Department of Biophysics, NMR & Protein Products Characterization, 2000 Galloping Hill Road, Kenilworth, New Jersey 07033, USA."
+            },
+            {
+                "First Name": "Todd",
+                "Last Name": "Mayhood",
+                "Affiliation": "Merck & Co., Department of Biophysics, NMR & Protein Products Characterization, 2000 Galloping Hill Road, Kenilworth, New Jersey 07033, USA."
+            },
+            {
+                "First Name": "Corey",
+                "Last Name": "Strickland",
+                "Affiliation": "Merck & Co., Department of Biochemical Engineering & Structure, 2000 Galloping Hill Road, Kenilworth, New Jersey 07033, USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "Simons Electron Microscopy Center, National Resource for Automated Molecular Microscopy, New York Structural Biology Center, 89 Convent Avenue, New York, New York 10027, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "Simons Electron Microscopy Center, National Resource for Automated Molecular Microscopy, New York Structural Biology Center, 89 Convent Avenue, New York, New York 10027, USA."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29366716",
+        "Title": "Spotiton: New features and applications.",
+        "Abstract": "We present an update describing new features and applications of Spotiton, a novel instrument for vitrifying samples for cryoEM. We have used Spotiton to prepare several test specimens that can be reconstructed using routine single particle analysis to ∼3 Å resolution, indicating that the process has no apparent deleterious effect on the sample integrity. The system is now in routine and continuous use in our lab and has been used to successfully vitrify a wide variety of samples.",
+        "Keywords": [
+            "cryoEM vitrification",
+            "nanowire grids",
+            "piezo dispensing"
+        ],
+        "MeSH terms": [
+            "Cryoelectron Microscopy",
+            "Nanowires",
+            "Optical Tweezers",
+            "Robotics",
+            "Specimen Handling",
+            "Vitrification"
+        ],
+        "Authors": [
+            {
+                "First Name": "Venkata P",
+                "Last Name": "Dandey",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY, USA."
+            },
+            {
+                "First Name": "Hui",
+                "Last Name": "Wei",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY, USA."
+            },
+            {
+                "First Name": "Zhening",
+                "Last Name": "Zhang",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY, USA."
+            },
+            {
+                "First Name": "Yong Zi",
+                "Last Name": "Tan",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Priyamvada",
+                "Last Name": "Acharya",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY, USA; Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Edward T",
+                "Last Name": "Eng",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY, USA."
+            },
+            {
+                "First Name": "William J",
+                "Last Name": "Rice",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Kahn",
+                "Affiliation": "Engineering Arts LLC, Phoenix, AZ, USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA. Electronic address: bcarr@nysbc.org."
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29100109",
+        "Title": "Big data in cryoEM: automated collection, processing and accessibility of EM data.",
+        "Abstract": "The scope and complexity of cryogenic electron microscopy (cryoEM) data has greatly increased, and will continue to do so, due to recent and ongoing technical breakthroughs that have led to much improved resolutions for macromolecular structures solved using this method. This big data explosion includes single particle data as well as tomographic tilt series, both generally acquired as direct detector movies of ∼10-100 frames per image or per tilt-series. We provide a brief survey of the developments leading to the current status, and describe existing cryoEM pipelines, with an emphasis on the scope of data acquisition, methods for automation, and use of cloud storage and computing.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Automation, Laboratory",
+            "Big Data",
+            "Cloud Computing",
+            "Cryoelectron Microscopy"
+        ],
+        "Authors": [
+            {
+                "First Name": "Philip R",
+                "Last Name": "Baldwin",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Yong Zi",
+                "Last Name": "Tan",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Edward T",
+                "Last Name": "Eng",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "William J",
+                "Last Name": "Rice",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Alex J",
+                "Last Name": "Noble",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Carl J",
+                "Last Name": "Negro",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Michael A",
+                "Last Name": "Cianfrocco",
+                "Affiliation": "Life Sciences Institute and Department of Biological Chemistry, University of Michigan, Ann Arbor, MI 48109, USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA. Electronic address: bcarr@nysbc.org."
+            }
+        ],
+        "Journal": "Current opinion in microbiology",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "27912064",
+        "Title": "Modular Assembly of the Bacterial Large Ribosomal Subunit.",
+        "Abstract": "The ribosome is a complex macromolecular machine and serves as an ideal system for understanding biological macromolecular assembly. Direct observation of ribosome assembly in vivo is difficult, as few intermediates have been isolated and thoroughly characterized. Herein, we deploy a genetic system to starve cells of an essential ribosomal protein, which results in the accumulation of assembly intermediates that are competent for maturation. Quantitative mass spectrometry and single-particle cryo-electron microscopy reveal 13 distinct intermediates, which were each resolved to ∼4-5 Å resolution and could be placed in an assembly pathway. We find that ribosome biogenesis is a parallel process, that blocks of structured rRNA and proteins assemble cooperatively, and that the entire process is dynamic and can be \"re-routed\" through different pathways as needed. This work reveals the complex landscape of ribosome assembly in vivo and provides the requisite tools to characterize additional assembly pathways for ribosomes and other macromolecular machines.",
+        "Keywords": [
+            "50S subunit",
+            "RNA folding",
+            "Ribosome assembly",
+            "macromolecular assembly",
+            "quantitative mass spectrometry",
+            "single-particle cryo-electron microscopy"
+        ],
+        "MeSH terms": [
+            "Cryoelectron Microscopy",
+            "Escherichia coli",
+            "Mass Spectrometry",
+            "Models, Molecular",
+            "Protein Multimerization",
+            "RNA, Bacterial",
+            "RNA, Ribosomal",
+            "Ribosome Subunits, Large, Bacterial"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joseph H",
+                "Last Name": "Davis",
+                "Affiliation": "Department of Integrative Structural and Computational Biology, Department of Chemistry, and The Skaggs Institute for Chemical Biology, The Scripps Research Institute, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Yong Zi",
+                "Last Name": "Tan",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY 10027, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY 10027, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY 10027, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Dmitry",
+                "Last Name": "Lyumkis",
+                "Affiliation": "Laboratory of Genetics and Helmsley Center for Genomic Medicine, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA. Electronic address: dlyumkis@salk.edu."
+            },
+            {
+                "First Name": "James R",
+                "Last Name": "Williamson",
+                "Affiliation": "Department of Integrative Structural and Computational Biology, Department of Chemistry, and The Skaggs Institute for Chemical Biology, The Scripps Research Institute, La Jolla, CA 92037, USA. Electronic address: jrwill@scripps.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27288865",
+        "Title": "A new method for vitrifying samples for cryoEM.",
+        "Abstract": "Almost every aspect of cryo electron microscopy (cryoEM) has been automated over the last few decades. One of the challenges that remains to be addressed is the robust and reliable preparation of vitrified specimens of suitable ice thickness. We present results from a new device for preparing vitrified samples. The successful use of the device is coupled to a new \"self-blotting\" grid that we have developed to provide a method for spreading a sample to a thin film without the use of externally applied filter paper. This new approach has the advantage of using small amounts of protein material, resulting in large areas of ice of a well defined thickness containing evenly distributed single particles. We believe that these methods will in the future result in a system for vitrifying grids that is completely automated.",
+        "Keywords": [
+            "Automation",
+            "CryoTEM",
+            "Nanowires",
+            "Self-blotting grids"
+        ],
+        "MeSH terms": [
+            "Cryoelectron Microscopy",
+            "Ice",
+            "Image Processing, Computer-Assisted",
+            "Specimen Handling",
+            "Vitrification"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ivan",
+                "Last Name": "Razinkov",
+                "Affiliation": "Simons Electron Microscopy Center, The National Resource for Automated Molecular Microscopy, New York Structural Biology Center."
+            },
+            {
+                "First Name": "Venkat",
+                "Last Name": "Dandey",
+                "Affiliation": "Simons Electron Microscopy Center, The National Resource for Automated Molecular Microscopy, New York Structural Biology Center."
+            },
+            {
+                "First Name": "Hui",
+                "Last Name": "Wei",
+                "Affiliation": "Simons Electron Microscopy Center, The National Resource for Automated Molecular Microscopy, New York Structural Biology Center."
+            },
+            {
+                "First Name": "Zhening",
+                "Last Name": "Zhang",
+                "Affiliation": "Simons Electron Microscopy Center, The National Resource for Automated Molecular Microscopy, New York Structural Biology Center."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Melnekoff",
+                "Affiliation": "Simons Electron Microscopy Center, The National Resource for Automated Molecular Microscopy, New York Structural Biology Center."
+            },
+            {
+                "First Name": "William J",
+                "Last Name": "Rice",
+                "Affiliation": "Simons Electron Microscopy Center, The National Resource for Automated Molecular Microscopy, New York Structural Biology Center."
+            },
+            {
+                "First Name": "Christoph",
+                "Last Name": "Wigge",
+                "Affiliation": "Simons Electron Microscopy Center, The National Resource for Automated Molecular Microscopy, New York Structural Biology Center."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "Simons Electron Microscopy Center, The National Resource for Automated Molecular Microscopy, New York Structural Biology Center."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "Simons Electron Microscopy Center, The National Resource for Automated Molecular Microscopy, New York Structural Biology Center."
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26671944",
+        "Title": "Automated data collection in single particle electron microscopy.",
+        "Abstract": "Automated data collection is an integral part of modern workflows in single particle electron microscopy (EM) research. This review surveys the software packages available for automated single particle EM data collection. The degree of automation at each stage of data collection is evaluated, and the capabilities of the software packages are described. Finally, future trends in automation are discussed.",
+        "Keywords": [
+            "automation",
+            "data collection",
+            "high throughput",
+            "single particle electron microscopy",
+            "software packages",
+            "target acquisition"
+        ],
+        "MeSH terms": [
+            "Automation",
+            "Cryoelectron Microscopy",
+            "Data Collection",
+            "Image Processing, Computer-Assisted",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yong Zi",
+                "Last Name": "Tan",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, New York Structural Biology Center, New York, NY 10027, USA Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Anchi",
+                "Last Name": "Cheng",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, New York Structural Biology Center, New York, NY 10027, USA Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, New York Structural Biology Center, New York, NY 10027, USA Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, New York Structural Biology Center, New York, NY 10027, USA Simons Electron Microscopy Center, New York Structural Biology Center, 89 Convent Ave, New York, NY 10027, USA Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA bcarr@nysbc.org."
+            }
+        ],
+        "Journal": "Microscopy (Oxford, England)",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26534727",
+        "Title": "Recent advances in new technologies and applications for molecular TEM.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Electron Microscope Tomography",
+            "Humans",
+            "Microscopy, Electron, Transmission",
+            "Molecular Imaging"
+        ],
+        "Authors": [
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, The New York Structural Biology Center, New York, NY, United States. Electronic address: bcarr@nysbc.org."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Simons Electron Microscopy Center, The New York Structural Biology Center, New York, NY, United States."
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25913484",
+        "Title": "CTF Challenge: Result summary.",
+        "Abstract": "Image formation in bright field electron microscopy can be described with the help of the contrast transfer function (CTF). In this work the authors describe the \"CTF Estimation Challenge\", called by the Madrid Instruct Image Processing Center (I2PC) in collaboration with the National Center for Macromolecular Imaging (NCMI) at Houston. Correcting for the effects of the CTF requires accurate knowledge of the CTF parameters, but these have often been difficult to determine. In this challenge, researchers have had the opportunity to test their ability in estimating some of the key parameters of the electron microscope CTF on a large micrograph data set produced by well-known laboratories on a wide set of experimental conditions. This work presents the first analysis of the results of the CTF Estimation Challenge, including an assessment of the performance of the different software packages under different conditions, so as to identify those areas of research where further developments would be desirable in order to achieve high-resolution structural information.",
+        "Keywords": [
+            "Benchmarking",
+            "Challenge",
+            "Contrast transfer function",
+            "Electron microscopy",
+            "High-resolution"
+        ],
+        "MeSH terms": [
+            "Algorithms",
+            "Image Processing, Computer-Assisted",
+            "Macromolecular Substances",
+            "Microscopy, Electron",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Roberto",
+                "Last Name": "Marabini",
+                "Affiliation": "Escuela Politécnica Superior, Universidad Autónoma de Madrid, 28049 Cantoblanco, Madrid, Spain. Electronic address: roberto@cnb.csic.es."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, The Scripps Research Institute, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Shaoxia",
+                "Last Name": "Chen",
+                "Affiliation": "MRC-LMB, Cambridge CB2 0QH, United Kingdom."
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Chen",
+                "Affiliation": "Massachusetts Institute of Technology, USA."
+            },
+            {
+                "First Name": "Anchi",
+                "Last Name": "Cheng",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, The Scripps Research Institute, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Kenneth H",
+                "Last Name": "Downing",
+                "Affiliation": "Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA."
+            },
+            {
+                "First Name": "Joachim",
+                "Last Name": "Frank",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, NY 10032, USA."
+            },
+            {
+                "First Name": "Robert A",
+                "Last Name": "Grassucci",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, NY 10032, USA."
+            },
+            {
+                "First Name": "J",
+                "Last Name": "Bernard Heymann",
+                "Affiliation": "Laboratory of Structural Biology Research, National Institute of Arthritis, Musculoskeletal and Skin Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+            },
+            {
+                "First Name": "Wen",
+                "Last Name": "Jiang",
+                "Affiliation": "Purdue University, Biological Sciences, IN 47907-2054, USA."
+            },
+            {
+                "First Name": "Slavica",
+                "Last Name": "Jonic",
+                "Affiliation": "IMPMC, Sorbonne Universités - CNRS UMR 7590, UPMC Univ Paris 6, MNHN, IRD UMR 206, 75005 Paris, France."
+            },
+            {
+                "First Name": "Hstau Y",
+                "Last Name": "Liao",
+                "Affiliation": "Howard Hughes Medical Institute, Columbia University, NY 10032, USA."
+            },
+            {
+                "First Name": "Steven J",
+                "Last Name": "Ludtke",
+                "Affiliation": "Baylor College of Medicine, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Shail",
+                "Last Name": "Patwari",
+                "Affiliation": "Roosevelt University, Department of Biological, Chemical, and Physical Sciences, 1400 N. Roosevelt Blvd., Schaumburg, IL 60173, USA."
+            },
+            {
+                "First Name": "Angela L",
+                "Last Name": "Piotrowski",
+                "Affiliation": "Roosevelt University, Department of Biological, Chemical, and Physical Sciences, 1400 N. Roosevelt Blvd., Schaumburg, IL 60173, USA."
+            },
+            {
+                "First Name": "Adrian",
+                "Last Name": "Quintana",
+                "Affiliation": "Biocomputing Unit, National Center for Biotechnology (CSIC), C/Darwin, 3, Campus Universidad Autónoma, 28049 Cantoblanco, Madrid, Spain."
+            },
+            {
+                "First Name": "Carlos O S",
+                "Last Name": "Sorzano",
+                "Affiliation": "Biocomputing Unit, National Center for Biotechnology (CSIC), C/Darwin, 3, Campus Universidad Autónoma, 28049 Cantoblanco, Madrid, Spain."
+            },
+            {
+                "First Name": "Henning",
+                "Last Name": "Stahlberg",
+                "Affiliation": "Biozentrum, University of Basel, CH-4058 Basel, Switzerland."
+            },
+            {
+                "First Name": "Javier",
+                "Last Name": "Vargas",
+                "Affiliation": "Biocomputing Unit, National Center for Biotechnology (CSIC), C/Darwin, 3, Campus Universidad Autónoma, 28049 Cantoblanco, Madrid, Spain."
+            },
+            {
+                "First Name": "Neil R",
+                "Last Name": "Voss",
+                "Affiliation": "Roosevelt University, Department of Biological, Chemical, and Physical Sciences, 1400 N. Roosevelt Blvd., Schaumburg, IL 60173, USA."
+            },
+            {
+                "First Name": "Wah",
+                "Last Name": "Chiu",
+                "Affiliation": "Baylor College of Medicine, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "Jose M",
+                "Last Name": "Carazo",
+                "Affiliation": "Biocomputing Unit, National Center for Biotechnology (CSIC), C/Darwin, 3, Campus Universidad Autónoma, 28049 Cantoblanco, Madrid, Spain."
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25760083",
+        "Title": "2.8 Å resolution reconstruction of the Thermoplasma acidophilum 20S proteasome using cryo-electron microscopy.",
+        "Abstract": "Recent developments in detector hardware and image-processing software have revolutionized single particle cryo-electron microscopy (cryoEM) and led to a wave of near-atomic resolution (typically ∼3.3 Å) reconstructions. Reaching resolutions higher than 3 Å is a prerequisite for structure-based drug design and for cryoEM to become widely interesting to pharmaceutical industries. We report here the structure of the 700 kDa Thermoplasma acidophilum 20S proteasome (T20S), determined at 2.8 Å resolution by single-particle cryoEM. The quality of the reconstruction enables identifying the rotameric conformation adopted by some amino-acid side chains (rotamers) and resolving ordered water molecules, in agreement with the expectations for crystal structures at similar resolutions. The results described in this manuscript demonstrate that single particle cryoEM is capable of competing with X-ray crystallography for determination of protein structures of suitable quality for rational drug design.",
+        "Keywords": [
+            "T. acidophilum",
+            "biophysics",
+            "direct detectors",
+            "electron microscopy",
+            "image processing",
+            "structural biology"
+        ],
+        "MeSH terms": [
+            "Archaeal Proteins",
+            "Cryoelectron Microscopy",
+            "Crystallography, X-Ray",
+            "Imaging, Three-Dimensional",
+            "Models, Molecular",
+            "Proteasome Endopeptidase Complex",
+            "Protein Conformation",
+            "Reproducibility of Results",
+            "Thermoplasma"
+        ],
+        "Authors": [
+            {
+                "First Name": "Melody G",
+                "Last Name": "Campbell",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, The Scripps Research Institute, La Jolla, United States."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Veesler",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, The Scripps Research Institute, La Jolla, United States."
+            },
+            {
+                "First Name": "Anchi",
+                "Last Name": "Cheng",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, The Scripps Research Institute, La Jolla, United States."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, The Scripps Research Institute, La Jolla, United States."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, The Scripps Research Institute, La Jolla, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "24299977",
+        "Title": "Characterization of virus-like particles in GARDASIL® by cryo transmission electron microscopy.",
+        "Abstract": "Cryo-transmission electron microscopy (cryoTEM) is a powerful characterization method for assessing the structural properties of biopharmaceutical nanoparticles, including Virus Like Particle-based vaccines. We demonstrate the method using the Human Papilloma Virus (HPV) VLPs in GARDASIL®. CryoTEM, coupled to automated data collection and analysis, was used to acquire images of the particles in their hydrated state, determine their morphological characteristics, and confirm the integrity of the particles when absorbed to aluminum adjuvant. In addition, we determined the three-dimensional structure of the VLPs, both alone and when interacting with neutralizing antibodies. Two modes of binding of two different neutralizing antibodies were apparent; for HPV type 11 saturated with H11.B2, 72 potential Fab binding sites were observed at the center of each capsomer, whereas for HPV 16 interacting with H16.V5, it appears that 60 pentamers (each neighboring 6 other pentamers) bind five Fabs per pentamer, for the total of 300 potential Fab binding sites per VLP.",
+        "Keywords": [
+            "CryoTEM",
+            "Gardasil",
+            "VLP",
+            "adjuvant",
+            "aluminum",
+            "epitope",
+            "structure"
+        ],
+        "MeSH terms": [
+            "Antibodies, Neutralizing",
+            "Antibodies, Viral",
+            "Cryoelectron Microscopy",
+            "Human Papillomavirus Recombinant Vaccine Quadrivalent, Types 6, 11, 16, 18",
+            "Humans",
+            "Nanoparticles",
+            "Papillomavirus Vaccines",
+            "Protein Binding",
+            "Vaccines, Virus-Like Particle",
+            "Viral Structural Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Qinjian",
+                "Last Name": "Zhao",
+                "Affiliation": "State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics; School of Public Health; Xiamen University; Xiamen, Fujian, PR China; Bioprocess R&D; Merck Research Laboratories; West Point, PA USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "NanoImaging Services, Inc.; San Diego, CA USA; Department of Integrative Structural and Computational Biology; The Scripps Research Institute; La Jolla, CA USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "NanoImaging Services, Inc.; San Diego, CA USA; Department of Integrative Structural and Computational Biology; The Scripps Research Institute; La Jolla, CA USA."
+            },
+            {
+                "First Name": "Gabriel",
+                "Last Name": "Lander",
+                "Affiliation": "Department of Integrative Structural and Computational Biology; The Scripps Research Institute; La Jolla, CA USA."
+            },
+            {
+                "First Name": "Jaime",
+                "Last Name": "Sworen",
+                "Affiliation": "Bioprocess R&D; Merck Research Laboratories; West Point, PA USA."
+            },
+            {
+                "First Name": "Victoria",
+                "Last Name": "Towne",
+                "Affiliation": "Vaccine Manufacturing Science and Commercialization; Merck Manufacturing Division; West Point, PA USA."
+            },
+            {
+                "First Name": "Dicky",
+                "Last Name": "Abraham",
+                "Affiliation": "Vaccine Manufacturing Science and Commercialization; Merck Manufacturing Division; West Point, PA USA."
+            },
+            {
+                "First Name": "Paul",
+                "Last Name": "Duncan",
+                "Affiliation": "Bioprocess R&D; Merck Research Laboratories; West Point, PA USA."
+            },
+            {
+                "First Name": "Michael W",
+                "Last Name": "Washabaugh",
+                "Affiliation": "Bioprocess R&D; Merck Research Laboratories; West Point, PA USA."
+            },
+            {
+                "First Name": "Robert D",
+                "Last Name": "Sitrin",
+                "Affiliation": "Vaccine Manufacturing Science and Commercialization; Merck Manufacturing Division; West Point, PA USA."
+            }
+        ],
+        "Journal": "Human vaccines & immunotherapeutics",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24161732",
+        "Title": "Optimod--an automated approach for constructing and optimizing initial models for single-particle electron microscopy.",
+        "Abstract": "Single-particle cryo-electron microscopy is now well established as a technique for the structural characterization of large macromolecules and macromolecular complexes. The raw data is very noisy and consists of two-dimensional projections, from which the 3D biological object must be reconstructed. The 3D object depends upon knowledge of proper angular orientations assigned to the 2D projection images. Numerous algorithms have been developed for determining relative angular orientations between 2D images, but the transition from 2D to 3D remains challenging and can result in erroneous and conflicting results. Here we describe a general, automated procedure, called OptiMod, for reconstructing and optimizing 3D models using common-lines methodologies. OptiMod approximates orientation angles and reconstructs independent maps from 2D class averages. It then iterates the procedure, while considering each map as a raw solution that needs to be compared with other possible outcomes. We incorporate procedures for 3D alignment, clustering, and refinement to optimize each map, as well as standard scoring metrics to facilitate the selection of the optimal model. We also show that small angle tilt-pair data can be included as one of the scoring metrics to improve the selection of the optimal initial model, and also to provide a validation check. The overall approach is demonstrated using two experimental cryo-EM data sets--the 80S ribosome that represents a relatively straightforward case for ab initio reconstruction, and the Tf-TfR complex that represents a challenging case in that it has previously been shown to provide multiple equally plausible solutions to the initial model problem.",
+        "Keywords": [
+            "Automation",
+            "Common-lines",
+            "Initial model",
+            "Single-particle electron microscopy"
+        ],
+        "MeSH terms": [
+            "Algorithms",
+            "Cryoelectron Microscopy",
+            "Image Processing, Computer-Assisted",
+            "Imaging, Three-Dimensional",
+            "Macromolecular Substances",
+            "Microscopy, Electron",
+            "Models, Theoretical",
+            "Receptors, Transferrin",
+            "Ribosomes",
+            "Transferrin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dmitry",
+                "Last Name": "Lyumkis",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, The Department of Integrative Structural and Computational Biology, The Scripps Institute, La Jolla, CA 92037, United States."
+            },
+            {
+                "First Name": "Staal",
+                "Last Name": "Vinterbo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "24036281",
+        "Title": "Maximizing the potential of electron cryomicroscopy data collected using direct detectors.",
+        "Abstract": "Single-particle electron cryomicroscopy is undergoing a technical revolution due to the recent developments of direct detectors. These new recording devices detect electrons directly (i.e. without conversion into light) and feature significantly improved detective quantum efficiencies and readout rates as compared to photographic films or CCDs. We evaluated here the potential of one such detector (Gatan K2 Summit) to enable the achievement of near-atomic resolution reconstructions of biological specimens when coupled to a widely used, mid-range transmission electron microscope (FEI TF20 Twin). Compensating for beam-induced motion and stage drift provided a 4.4Å resolution map of Sulfolobus turreted icosahedral virus (STIV), which we used as a test particle in this study. Several motion correction and dose fractionation procedures were explored and we describe their influence on the resolution of the final reconstruction. We also compared the quality of this data to that collected with a FEI Titan Krios microscope equipped with a Falcon I direct detector, which provides a benchmark for data collected using a high-end electron microscope.",
+        "Keywords": [
+            "Direct detectors",
+            "Electron microscopy",
+            "Near-atomic resolution",
+            "Sulfolobus turreted icosahedral virus"
+        ],
+        "MeSH terms": [
+            "Cryoelectron Microscopy",
+            "Microscopy, Electron, Transmission",
+            "Models, Molecular",
+            "Rudiviridae",
+            "Sulfolobus",
+            "Viral Structural Proteins",
+            "Virion"
+        ],
+        "Authors": [
+            {
+                "First Name": "David",
+                "Last Name": "Veesler",
+                "Affiliation": "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA 92037."
+            },
+            {
+                "First Name": "Melody G",
+                "Last Name": "Campbell",
+                "Affiliation": "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA 92037."
+            },
+            {
+                "First Name": "Anchi",
+                "Last Name": "Cheng",
+                "Affiliation": "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA 92037."
+            },
+            {
+                "First Name": "Chi-Yu",
+                "Last Name": "Fu",
+                "Affiliation": "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA 92037."
+            },
+            {
+                "First Name": "Zachary",
+                "Last Name": "Murez",
+                "Affiliation": "Department of Computer Science and Engineering, University of California, San Diego, CA 92093."
+            },
+            {
+                "First Name": "John E",
+                "Last Name": "Johnson",
+                "Affiliation": "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA 92037."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA 92037."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA 92037."
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23428431",
+        "Title": "Maskiton: Interactive, web-based classification of single-particle electron microscopy images.",
+        "Abstract": "Electron microscopy (EM) is an important tool for determining the composition, arrangement and structure of biological macromolecules. When studying structurally heterogeneous samples using EM, classification is a critical step toward achieving higher resolution and identifying biologically significant conformations. We have developed an interactive, web-based tool, called Maskiton, for creating custom masks and performing 2D classifications on aligned single-particle EM images. The Maskiton interface makes it considerably easier and faster to explore the significance of heterogeneity in single-particle datasets. Maskiton features include: resumable uploads to facilitate transfer of large datasets to the server, custom mask creation in the browser, continual progress updates, and interactive viewing of classification results. To demonstrate the value of this tool, we provide examples of its use on several experimental datasets and include analyses of the independent terminus mobility within the Ltn1 E3 ubiquitin ligase, the in vitro assembly of 30S ribosomal subunits, and classification complexity reduction within Immunoglobulin M. This work also serves as a proof-of-concept for the development of future cross-platform, interactive user interfaces for electron microscopy data processing.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Immunoglobulin M",
+            "Internet",
+            "Macromolecular Substances",
+            "Microscopy, Electron, Transmission",
+            "Molecular Conformation",
+            "Ribosome Subunits, Small, Bacterial",
+            "Saccharomyces cerevisiae Proteins",
+            "Software",
+            "Ubiquitin-Protein Ligases",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Craig",
+                "Last Name": "Yoshioka",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Department of Cell Biology, The Scripps Research Institute, 10550 North Torrey Pines Road, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Dmitry",
+                "Last Name": "Lyumkis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23217681",
+        "Title": "DOLORS: versatile strategy for internal labeling and domain localization in electron microscopy.",
+        "Abstract": "Single-particle electron microscopy (EM) is a powerful tool for studying the structures of large biological molecules. However, the achievable resolution does not always allow for direct recognition of individual protein domains. Labels that can be visualized by EM have been developed for protein termini, but tagging internal domains remains a challenge. We describe a robust strategy for determining the position of internal sites within EM maps, termed domain localization by RCT sampling (DOLORS). DOLORS uses monovalent streptavidin added posttranslationally to tagged sites in the target protein. Internal labels generally display less conformational flexibility than terminal labels, providing more precise positional information. Automated methods are used to rapidly generate assemblies of unique 3D models allowing the attachment sites of labeled domains to be accurately identified and thus provide an overall architectural map of the molecule.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Animals",
+            "Biotinylation",
+            "Carbon-Nitrogen Ligases",
+            "DEAD-box RNA Helicases",
+            "Escherichia coli Proteins",
+            "Humans",
+            "Microscopy, Electron",
+            "Models, Molecular",
+            "Molecular Sequence Data",
+            "Peptide Mapping",
+            "Protein Structure, Tertiary",
+            "Recombinant Proteins",
+            "Repressor Proteins",
+            "Ribonuclease III",
+            "Sf9 Cells",
+            "Staining and Labeling",
+            "Streptavidin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pick-Wei",
+                "Last Name": "Lau",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, The Scripps Research Institute, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ian J",
+                "Last Name": "MacRae",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Structure (London, England : 1993)",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "23211764",
+        "Title": "Data management challenges in three-dimensional EM.",
+        "Abstract": "This report describes the outcomes of the Data Management Challenges in 3D Electron Microscopy workshop. Key topics discussed include data models, validation and raw-data archiving. The meeting participants agreed that the EMDataBank should take the lead in addressing these issues, and concrete action points were agreed upon that will have a substantial impact on the accessibility of three-dimensional EM data in biology and medicine.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Databases, Factual",
+            "Microscopy, Electron"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ardan",
+                "Last Name": "Patwardhan",
+                "Affiliation": "Protein Data Bank in Europe, European Molecular Biology Laboratory-European Bioinformatics Institute, Hinxton, UK."
+            },
+            {
+                "First Name": "José-Maria",
+                "Last Name": "Carazo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Henderson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "J Bernard",
+                "Last Name": "Heymann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Emma",
+                "Last Name": "Hill",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Grant J",
+                "Last Name": "Jensen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ingvar",
+                "Last Name": "Lagerstedt",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Catherine L",
+                "Last Name": "Lawson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steven J",
+                "Last Name": "Ludtke",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Mastronarde",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "William J",
+                "Last Name": "Moore",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alan",
+                "Last Name": "Roseman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Rosenthal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carlos-Oscar S",
+                "Last Name": "Sorzano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eduardo",
+                "Last Name": "Sanz-García",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sjors H W",
+                "Last Name": "Scheres",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sriram",
+                "Last Name": "Subramaniam",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Westbrook",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Martyn",
+                "Last Name": "Winn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jason R",
+                "Last Name": "Swedlow",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gerard J",
+                "Last Name": "Kleywegt",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature structural & molecular biology",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22493667",
+        "Title": "Toolbox for non-intrusive structural and functional analysis of recombinant VLP based vaccines: a case study with hepatitis B vaccine.",
+        "Abstract": "Fundamental to vaccine development, manufacturing consistency, and product stability is an understanding of the vaccine structure-activity relationship. With the virus-like particle (VLP) approach for recombinant vaccines gaining popularity, there is growing demand for tools that define their key characteristics. We assessed a suite of non-intrusive VLP epitope structure and function characterization tools by application to the Hepatitis B surface antigen (rHBsAg) VLP-based vaccine.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adjuvants, Immunologic",
+            "Antibodies, Monoclonal",
+            "Cryoelectron Microscopy",
+            "Enzyme-Linked Immunosorbent Assay",
+            "Epitopes",
+            "Hepatitis B",
+            "Hepatitis B Surface Antigens",
+            "Hepatitis B Vaccines",
+            "Hepatitis B virus",
+            "Humans",
+            "Microscopy, Atomic Force",
+            "Models, Molecular",
+            "Particle Size",
+            "Structure-Activity Relationship",
+            "Surface Plasmon Resonance",
+            "Vaccines, Synthetic",
+            "Vaccines, Virus-Like Particle"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anke M",
+                "Last Name": "Mulder",
+                "Affiliation": "Department of Research & Development, NanoImaging Services, La Jolla, California, United States of America. mulder@nanoimagingservices.com"
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Victoria",
+                "Last Name": "Towne",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuan",
+                "Last Name": "Meng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yang",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lance",
+                "Last Name": "Dieter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael W",
+                "Last Name": "Washabaugh",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert D",
+                "Last Name": "Sitrin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Qinjian",
+                "Last Name": "Zhao",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21964395",
+        "Title": "A helical processing pipeline for EM structure determination of membrane proteins.",
+        "Abstract": "Electron crystallography plays a key role in the structural biology of integral membrane proteins (IMPs) by offering one of the most direct means of providing insight into the functional state of these molecular machines in their lipid-associated forms, and also has the potential to facilitate examination of physiologically relevant transitional states and complexes. Helical or tubular crystals, which are the natural product of proteins crystallizing on the surface of a cylindrical vesicle, offer some unique advantages, such as three-dimensional (3D) information from a single view, compared to other crystalline forms. While a number of software packages are available for processing images of helical crystals to produce 3D electron density maps, widespread exploitation of helical image reconstruction is limited by a lack of standardized approaches and the initial effort and specialized expertise required. Our goal is to develop an integrated pipeline to enable structure determination by transmission electron microscopy (TEM) of IMPs in the form of tubular crystals. We describe here the integration of standard Fourier-Bessel helical analysis techniques into Appion, an integrated, database-driven pipeline.",
+        "Keywords": [],
+        "MeSH terms": [
+            "ATP-Binding Cassette Transporters",
+            "Bacterial Proteins",
+            "Crystallography",
+            "Data Interpretation, Statistical",
+            "Humans",
+            "Membrane Proteins",
+            "Microscopy, Electron, Transmission",
+            "Models, Molecular",
+            "Protein Conformation",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lauren S",
+                "Last Name": "Fisher",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, The Scripps Research Institute, 10550 North Torrey Pines Road, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Ward",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ronald A",
+                "Last Name": "Milligan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nigel",
+                "Last Name": "Unwin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Methods (San Diego, Calif.)",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "20888970",
+        "Title": "Software tools for molecular microscopy: an open-text Wikibook.",
+        "Abstract": "We provide a brief description of a Wikibook open-content textbook that was set up with a goal of providing a comprehensive and continually updated list of all of the software packages of interest to the cryo-EM community. While the content of the Wikibook will change over time, here we provide a snapshot of the current state of software tools available, and encourage the members of this community to view the pages, add content, correct errors, and make any other contributions that might be useful.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Microscopy",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Neil R",
+                "Last Name": "Voss",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Department of Cell Biology, The Scripps Research Institute, La Jolla, California, USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ross",
+                "Last Name": "Smith",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Methods in enzymology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20888480",
+        "Title": "Automation in single-particle electron microscopy connecting the pieces.",
+        "Abstract": "Throughout the history of single-particle electron microscopy (EM), automated technologies have seen varying degrees of emphasis and development, usually depending upon the contemporary demands of the field. We are currently faced with increasingly sophisticated devices for specimen preparation, vast increases in the size of collected data sets, comprehensive algorithms for image processing, sophisticated tools for quality assessment, and an influx of interested scientists from outside the field who might lack the skills of experienced microscopists. This situation places automated techniques in high demand. In this chapter, we provide a generic definition of and discuss some of the most important advances in automated approaches to specimen preparation, grid handling, robotic screening, microscope calibrations, data acquisition, image processing, and computational infrastructure. Each section describes the general problem and then provides examples of how that problem has been addressed through automation, highlighting available processing packages, and sometimes describing the particular approach at the National Resource for Automated Molecular Microscopy (NRAMM). We contrast the more familiar manual procedures with automated approaches, emphasizing breakthroughs as well as current limitations. Finally, we speculate on future directions and improvements in automated technologies. Our overall goal is to present automation as more than simply a tool to save time. Rather, we aim to illustrate that automation is a comprehensive and versatile strategy that can deliver biological information on an unprecedented scale beyond the scope available with classical manual approaches.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Automation, Laboratory",
+            "Cryoelectron Microscopy",
+            "Fourier Analysis",
+            "Image Processing, Computer-Assisted",
+            "Robotics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dmitry",
+                "Last Name": "Lyumkis",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, Department of Cell Biology, The Scripps Research Institute, La Jolla, California, USA."
+            },
+            {
+                "First Name": "Arne",
+                "Last Name": "Moeller",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anchi",
+                "Last Name": "Cheng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Amber",
+                "Last Name": "Herold",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Hou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Irving",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Erica L",
+                "Last Name": "Jacovetty",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pick-Wei",
+                "Last Name": "Lau",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anke M",
+                "Last Name": "Mulder",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Pulokas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joel D",
+                "Last Name": "Quispe",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Neil R",
+                "Last Name": "Voss",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Methods in enzymology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20082728",
+        "Title": "Cryomesh: a new substrate for cryo-electron microscopy.",
+        "Abstract": "Here we evaluate a new grid substrate developed by ProtoChips Inc. (Raleigh, NC) for cryo-transmission electron microscopy. The new grids are fabricated from doped silicon carbide using processes adapted from the semiconductor industry. A major motivating purpose in the development of these grids was to increase the low-temperature conductivity of the substrate, a characteristic that is thought to affect the appearance of beam-induced movement (BIM) in transmission electron microscope (TEM) images of biological specimens. BIM degrades the quality of data and is especially severe when frozen biological specimens are tilted in the microscope. Our results show that this new substrate does indeed have a significant impact on reducing the appearance and severity of beam-induced movement in TEM images of tilted cryo-preserved samples. Furthermore, while we have not been able to ascertain the exact causes underlying the BIM phenomenon, we have evidence that the rigidity and flatness of these grids may play a major role in its reduction. This improvement in the reliability of imaging at tilt has a significant impact on using data collection methods such as random conical tilt or orthogonal tilt reconstruction with cryo-preserved samples. Reduction in BIM also has the potential for improving the resolution of three-dimensional cryo-reconstructions in general.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Craig",
+                "Last Name": "Yoshioka",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, The Scripps Research Institute, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Microscopy and microanalysis : the official journal of Microscopy Society of America, Microbeam Analysis Society, Microscopical Society of Canada",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19836333",
+        "Title": "Structure of the human Dicer-TRBP complex by electron microscopy.",
+        "Abstract": "Dicer is a specialized ribonuclease that initiates RNA interference (RNAi) by cleaving double-stranded RNA (dsRNA) into small RNA fragments about 22 nucleotides long. Here, we present the three-dimensional structure of human Dicer bound to the protein TRBP at approximately 20 A resolution determined by negative-stain electron microscopy (EM) and single-particle analysis. Our analysis reveals that the Dicer-TRBP complex is an L-shaped molecule with a long edge of 150 A and a 100 A extension on one end. A surface trench runs the length of the long edge of the molecule, defining a putative dsRNA-binding site. Docking the crystal structure of Giardia Dicer, which represents the nuclease core of human Dicer, into the EM map suggests two possible overall molecular architectures for human Dicer. These results offer insights into the structure of Dicer proteins found in multicellular organisms and provide a conceptual framework for understanding the initiation of RNAi.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Binding Sites",
+            "DEAD-box RNA Helicases",
+            "Humans",
+            "RNA-Binding Proteins",
+            "Recombinant Proteins",
+            "Ribonuclease III"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pick-Wei",
+                "Last Name": "Lau",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, The Scripps Institute, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ian J",
+                "Last Name": "MacRae",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Structure (London, England : 1993)",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19263523",
+        "Title": "Appion: an integrated, database-driven pipeline to facilitate EM image processing.",
+        "Abstract": "The use of cryoEM and three-dimensional image reconstruction is becoming increasingly common. Our vision for this technique is to provide a straightforward manner in which users can proceed from raw data to a reliable 3D reconstruction through a pipeline that both facilitates management of the processing steps and makes the results at each step more transparent. Tightly integrated with a relational SQL database, Appion is a modular and transparent pipeline that extends existing software applications and procedures. The user manages and controls the software modules via web-based forms, and all results are similarly available using web-based viewers directly linked to the underlying database, enabling even naive users to quickly deduce the quality of their results. The Appion API was designed with the principle that applications should be compatible with a broad range of specimens and that libraries and routines are modular and extensible. Presented here is a description of the design and architecture of the working Appion pipeline prototype and some results of its use.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Chaperonin 60",
+            "Cryoelectron Microscopy",
+            "Databases, Factual",
+            "Image Processing, Computer-Assisted",
+            "Imaging, Three-Dimensional",
+            "Internet",
+            "Microscopy, Electron",
+            "Microscopy, Electron, Transmission",
+            "Programming Languages",
+            "Software",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gabriel C",
+                "Last Name": "Lander",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, The Scripps Research Institute, CB 129, 10550 North Torrey Pines Rd, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Scott M",
+                "Last Name": "Stagg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Neil R",
+                "Last Name": "Voss",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anchi",
+                "Last Name": "Cheng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Denis",
+                "Last Name": "Fellmann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Pulokas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Craig",
+                "Last Name": "Yoshioka",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Irving",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anke",
+                "Last Name": "Mulder",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pick-Wei",
+                "Last Name": "Lau",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dmitry",
+                "Last Name": "Lyumkis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19114108",
+        "Title": "Nucleotide dependent packing differences in helical crystals of the ABC transporter MsbA.",
+        "Abstract": "Bacterial ATP binding cassette (ABC) exporters fulfill a wide variety of transmembrane transport roles and are homologous to the human multidrug resistance P-glycoprotein. Recent X-ray structures of the exporters MsbA and Sav1866 have begun to describe the conformational changes that accompany the ABC transport cycle. Here we present cryo-electron microscopy structures of MsbA reconstituted into a lipid bilayer. Using ATPase inhibitors, we captured three nucleotide transition states of the transporter that were subsequently reconstituted into helical arrays. The enzyme-substrate complex (trapped by ADP-aluminum fluoride or AMPPNP) crystallized in a different helical lattice than the enzyme-product complex (trapped by ADP-vanadate). Approximately 20A resolution maps were calculated for each state and revealed MsbA to be a dimer with a large channel between the membrane spanning domains, similar to the outward facing crystal structures of MsbA and Sav1866. This suggests that while there are likely structural differences between the nucleotide transition states, membrane embedded MsbA remains in an outward facing conformation while nucleotide is bound.",
+        "Keywords": [],
+        "MeSH terms": [
+            "ATP-Binding Cassette Transporters",
+            "Adenine Nucleotides",
+            "Adenosine Diphosphate",
+            "Adenosine Triphosphate",
+            "Adenylyl Imidodiphosphate",
+            "Bacterial Proteins",
+            "Cryoelectron Microscopy",
+            "Crystallization",
+            "Crystallography",
+            "Image Processing, Computer-Assisted",
+            "Liposomes",
+            "Models, Molecular",
+            "Protein Conformation",
+            "Recombinant Proteins",
+            "Salmonella typhimurium",
+            "Vanadates",
+            "Vibrio cholerae"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrew",
+                "Last Name": "Ward",
+                "Affiliation": "Department of Cell Biology, The Scripps Research Institute, 10550 N. Torrey Pines Rd, CB227, La Jolla, CA 92037, USA. abward@scripps.edu"
+            },
+            {
+                "First Name": "Sheila",
+                "Last Name": "Mulligan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Geoffrey",
+                "Last Name": "Chang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ronald A",
+                "Last Name": "Milligan",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18406627",
+        "Title": "Software tools for molecular microscopy.",
+        "Abstract": "In our role as the editors of a special edition of the Journal of Structural Biology published in 1996 and devoted to the development of software tools, we offer our view of past developments and future prospects in this area. The astonishing progress in computer hardware over the past decade has fueled a significant increase in computational power available for the solution of macromolecular structures. At the same time the relatively slow growth and development of the accompanying software reflects the difficulties of developing large, complex and very specialized analytical methods.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Computer Graphics",
+            "Computing Methodologies",
+            "Macromolecular Substances",
+            "Microscopy",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ross",
+                "Last Name": "Smith",
+                "Affiliation": "Department of Cell Biology, New York University School of Medicine, New York, NY, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17524663",
+        "Title": "Automation of random conical tilt and orthogonal tilt data collection using feature-based correlation.",
+        "Abstract": "Visualization by electron microscopy has provided many insights into the composition, quaternary structure, and mechanism of macromolecular assemblies. By preserving samples in stain or vitreous ice it is possible to image them as discrete particles, and from these images generate three-dimensional structures. This 'single-particle' approach suffers from two major shortcomings; it requires an initial model to reconstitute 2D data into a 3D volume, and it often fails when faced with conformational variability. Random conical tilt (RCT) and orthogonal tilt (OTR) are methods developed to overcome these problems, but the data collection required, particularly for vitreous ice specimens, is difficult and tedious. In this paper, we present an automated approach to RCT/OTR data collection that removes the burden of manual collection and offers higher quality and throughput than is otherwise possible. We show example datasets collected under stain and cryo conditions and provide statistics related to the efficiency and robustness of the process. Furthermore, we describe the new algorithms that make this method possible, which include new calibrations, improved targeting and feature-based tracking.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Microscopy, Electron, Transmission",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Craig",
+                "Last Name": "Yoshioka",
+                "Affiliation": "The National Resource for Automated Molecular Microscopy, Department of Cell Biology, The Scripps Research Institute, 10550 North Torrey Pines Road, La Jolla, CA 92037, USA. craigyk@scripps.edu"
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Pulokas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Denis",
+                "Last Name": "Fellmann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ronald A",
+                "Last Name": "Milligan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17169744",
+        "Title": "Software tools for macromolecular microscopy.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Computational Biology",
+            "Macromolecular Substances",
+            "Microscopy",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Fred J",
+                "Last Name": "Sigworth",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "16632377",
+        "Title": "Does contamination buildup limit throughput for automated cryoEM?",
+        "Abstract": "The development of automated systems for data acquisition in cryo electron microscopy has enabled the possibility of acquiring very large number of images from a single specimen grid. We have demonstrated that over images of 250,000 single particles can be acquired in a 24 h period. This has raised questions as to whether contamination buildup on the specimen limits the quality of the data that can be acquired during these long duration experiments and also whether the data acquisition session could be extended to allow acquisition of more than 1,000,000 particles. We report here a systematic characterization of contamination of specimens maintained for long periods of time at liquid nitrogen temperatures using standard side entry cryo stages. As part of this characterization we developed a more reliable method for accurately estimating specimen ice thickness. Using the method, we were able to calibrate image contrast against ice thickness under a variety of magnifications, objective aperture positions, and defoci, and demonstrated the strong dependence of the calibration curve on these parameters. The results show the anti-contamination aperture is, as expected, critical to the prevention of contamination and that loading film into the microscope dramatically increases the contamination rate, particularly in the first 3 h after the insertion of the film box. In the absence of film, we were able to reproducibly demonstrate that the contamination rate can be limited to a rate of approximately 1 angstrom/h providing reassurance that contamination will not be a major limiting factor for long term cryoEM experiments if a CCD camera is used for the imaging.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Automation",
+            "Calibration",
+            "Carbon",
+            "Cryoelectron Microscopy",
+            "Ice",
+            "Image Processing, Computer-Assisted",
+            "Imaging, Three-Dimensional",
+            "Microscopy, Electron, Transmission",
+            "Nitrogen",
+            "Proteins",
+            "Software",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anchi",
+                "Last Name": "Cheng",
+                "Affiliation": "National Resource for Automated Molecular Microscopy and Department of Cell Biology, The Scripps Research Institute, La Jolla, CA 92037, USA. acheng@scripps.edu"
+            },
+            {
+                "First Name": "Denis",
+                "Last Name": "Fellmann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Pulokas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "15935913",
+        "Title": "ACE: automated CTF estimation.",
+        "Abstract": "We present a completely automated algorithm for estimating the parameters of the contrast transfer function (CTF) of a transmission electron microscope. The primary contribution of this paper is the determination of the astigmatism prior to the estimation of the CTF parameters. The CTF parameter estimation is then reduced to a 1D problem using elliptical averaging. We have also implemented an automated method to calculate lower and upper cutoff frequencies to eliminate regions of the power spectrum which perturb the estimation of the CTF parameters. The algorithm comprises three optimization subproblems, two of which are proven to be convex. Results of the CTF estimation method are presented for images of carbon support films as well as for images of single particles embedded in ice and suspended over holes in the support film. A MATLAB implementation of the algorithm, called ACE, is freely available.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Chaperonin 60",
+            "Image Enhancement",
+            "Image Processing, Computer-Assisted",
+            "Microscopy, Electron, Transmission"
+        ],
+        "Authors": [
+            {
+                "First Name": "Satya P",
+                "Last Name": "Mallick",
+                "Affiliation": "Department of Electrical and Computer Engineering, University of California, San Diego, USA. spmallick@graphics.ucsd.edu"
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David J",
+                "Last Name": "Kriegman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Ultramicroscopy",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15890530",
+        "Title": "Automated molecular microscopy: the new Leginon system.",
+        "Abstract": "We report here on the current state of our efforts in automated molecular microscopy. Our primary automated data acquisition software system, Leginon, has been completely redesigned over the past two years. The new distributed system has been developed using the Python programming language and is compatible with both Linux and Windows operating systems. The new flexible architecture was designed to allow for the development of customized data collection protocols, several of which are described here. The system has been used to acquire data for approximately 150 experiments and we have demonstrated the capacity for high throughput data acquisition by acquiring images of more than 100,000 particles in a single session at the microscope.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Microscopy, Electron",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christian",
+                "Last Name": "Suloway",
+                "Affiliation": "The Scripps Research Institute, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Pulokas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Denis",
+                "Last Name": "Fellmann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anchi",
+                "Last Name": "Cheng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Francisco",
+                "Last Name": "Guerra",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joel",
+                "Last Name": "Quispe",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Scott",
+                "Last Name": "Stagg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15099584",
+        "Title": "Robotic grid loading system for a transmission electron microscope.",
+        "Abstract": "The design, construction, and testing of a robotic grid loading system for a transmission electron microscope is presented. The system, when integrated with automated data collection software, has the potential to carry out large scale multi-grid experiments, as required, for example, by 2D protein crystallization screening trials. We present a detailed description of the system that utilizes a 6 axis articulate robotic arm to load microscope grids into a specimen holder and then load the holder into the microscope. Grids are stored in trays with a capacity of 96 that are based on the format of a standard 96-well microtiter plate. The system has been integrated with an FEI Tecnai microscope and does not require any modification to the microscope and only minor modifications to the specimen holder. Preliminary results regarding cycle time, failure rates, positioning accuracy and a 96 grid screening experiment are presented.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Automation",
+            "Equipment Design",
+            "Equipment Failure",
+            "Microscopy, Electron, Transmission",
+            "Reproducibility of Results",
+            "Robotics",
+            "Specimen Handling"
+        ],
+        "Authors": [
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": "National Resource for Automated Molecular Microscopy, The Scripps Research Institute, 10550 North Torrey Pines Road, La Jolla, CA 92037, USA. cpotter@scripps.edu"
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Pulokas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paul",
+                "Last Name": "Smith",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christian",
+                "Last Name": "Suloway",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "15065668",
+        "Title": "Automatic particle selection: results of a comparative study.",
+        "Abstract": "Manual selection of single particles in images acquired using cryo-electron microscopy (cryoEM) will become a significant bottleneck when datasets of a hundred thousand or even a million particles are required for structure determination at near atomic resolution. Algorithm development of fully automated particle selection is thus an important research objective in the cryoEM field. A number of research groups are making promising new advances in this area. Evaluation of algorithms using a standard set of cryoEM images is an essential aspect of this algorithm development. With this goal in mind, a particle selection \"bakeoff\" was included in the program of the Multidisciplinary Workshop on Automatic Particle Selection for cryoEM. Twelve groups participated by submitting the results of testing their own algorithms on a common dataset. The dataset consisted of 82 defocus pairs of high-magnification micrographs, containing keyhole limpet hemocyanin particles, acquired using cryoEM. The results of the bakeoff are presented in this paper along with a summary of the discussion from the workshop. It was agreed that establishing benchmark particles and using bakeoffs to evaluate algorithms are useful in promoting algorithm development for fully automated particle selection, and that the infrastructure set up to support the bakeoff should be maintained and extended to include larger and more varied datasets, and more criteria for future evaluations.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Cryoelectron Microscopy",
+            "Electronic Data Processing",
+            "Hemocyanins",
+            "Image Processing, Computer-Assisted",
+            "Imaging, Three-Dimensional",
+            "Mollusca",
+            "Protein Conformation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuanxin",
+                "Last Name": "Zhu",
+                "Affiliation": "Center for Integrative Molecular Biosciences and Department of Cell Biology, The Scripps Research Institute, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert M",
+                "Last Name": "Glaeser",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Denis",
+                "Last Name": "Fellmann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chandrajit",
+                "Last Name": "Bajaj",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marshall",
+                "Last Name": "Bern",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Fabrice",
+                "Last Name": "Mouche",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Felix",
+                "Last Name": "de Haas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard J",
+                "Last Name": "Hall",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David J",
+                "Last Name": "Kriegman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steven J",
+                "Last Name": "Ludtke",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Satya P",
+                "Last Name": "Mallick",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pawel A",
+                "Last Name": "Penczek",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alan M",
+                "Last Name": "Roseman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Fred J",
+                "Last Name": "Sigworth",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Niels",
+                "Last Name": "Volkmann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "14646141",
+        "Title": "Rapid routine structure determination of macromolecular assemblies using electron microscopy: current progress and further challenges.",
+        "Abstract": "Although the methodology of molecular microscopy has enormous potential, it is time consuming and labor intensive. The techniques required to produce a three-dimensional (3D) electron density map of a macromolecular structure normally require manual operation of an electron microscope by a skilled operator and manual supervision of the sometimes complex software needed for analysis and calculation of 3D maps. Systems to automate the process of data acquisition from an electron microscope are being developing and these systems are being integrated with specimen handling operations and post acquisition data processing. Here, the current performance of our existing systems and the future challenges involved in substantially improving both the sustained throughput and the yield of automated data collection and analysis are reported.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Biopolymers",
+            "Comovirus",
+            "Equipment Failure Analysis",
+            "Feasibility Studies",
+            "Hemocyanins",
+            "Image Enhancement",
+            "Image Interpretation, Computer-Assisted",
+            "Imaging, Three-Dimensional",
+            "Macromolecular Substances",
+            "Microscopy, Electron",
+            "Models, Molecular",
+            "Molecular Conformation",
+            "Robotics",
+            "Specimen Handling",
+            "Systems Integration",
+            "Tobacco Mosaic Virus"
+        ],
+        "Authors": [
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": "Department of Cell Biology, The Scripps Research Institute, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Denis",
+                "Last Name": "Fellmann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Francisco",
+                "Last Name": "Guerra",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ronald A",
+                "Last Name": "Milligan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Fabrice",
+                "Last Name": "Mouche",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Pulokas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brian",
+                "Last Name": "Sheehan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joel",
+                "Last Name": "Quispe",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christian",
+                "Last Name": "Suloway",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuanxin",
+                "Last Name": "Zhu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of synchrotron radiation",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "14643220",
+        "Title": "Windex: a toolset for indexing helices.",
+        "Abstract": "We describe here a set of procedures and algorithms that may be used as an aid in determining the indexing rule of a helical specimen. Crystallizing macromolecules into helical arrays has the potential to speed up and simplify the process of three-dimensional reconstruction of the macromolecular structure. The process of helical reconstruction has been largely automated except for the critical first step of indexing the helical diffraction pattern. This is quite often the rate-limiting step in the overall process, particularly in the case of large helical tubes, which have complicated helical diffraction patterns that may vary from tube to tube. We have developed a set of procedures, supported by a graphical user interface, that provide a straightforward and semi-automated approach to indexing a helical structure. The new procedures have been tested using a number of helical specimens, including TMV, acto-myosin, decorated microtubules, and a variety of helical tubes of a bacterial membrane protein.",
+        "Keywords": [],
+        "MeSH terms": [
+            "ATP-Binding Cassette Transporters",
+            "Actomyosin",
+            "Algorithms",
+            "Bacterial Proteins",
+            "Computational Biology",
+            "Fourier Analysis",
+            "Macromolecular Substances",
+            "Microtubules",
+            "Models, Statistical",
+            "Software",
+            "Tobacco Mosaic Virus"
+        ],
+        "Authors": [
+            {
+                "First Name": "Andrew",
+                "Last Name": "Ward",
+                "Affiliation": "Department of Cell Biology, The Scripps Research Institute, 10550 North Torrey Pines Road, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Michael F",
+                "Last Name": "Moody",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brian",
+                "Last Name": "Sheehan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ronald A",
+                "Last Name": "Milligan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "14643204",
+        "Title": "Analytical methods and software tools for macromolecular microscopy.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Image Processing, Computer-Assisted",
+            "Microscopy",
+            "Proteins",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pawel A",
+                "Last Name": "Penczek",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "14643198",
+        "Title": "Automated three-dimensional reconstruction of keyhole limpet hemocyanin type 1.",
+        "Abstract": "We have reconstructed a three-dimensional map of keyhole limpet hemocyanin isoform 1 (KLH1), using our automated data collection software, Leginon, integrated with particle selection algorithms, and the SPIDER reconstruction package. KLH1, a 7.9 MDa macromolecule, is an extracellular respiratory pigment composed of two asymmetric decamers, and presents an overall D(5) point-group symmetry. The reconstruction is in agreement with previous data published on molluscan hemocyanins. The reconstructed map (11.3A resolution, 3sigma criterion) was used to fit an available X-ray crystallography structure of Octopus dofleini Odg, solved at 2.3A [J. Mol. Biol. 278 (4) (1998) 855], with satisfactory results. The results validate the approach of automating the cryoEM process and demonstrate that the quality of the images acquired and the particles selected is comparable to those obtained using manual methods. Several problems remain to be solved however before these results can be generalized.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Calibration",
+            "Cryoelectron Microscopy",
+            "Crystallography, X-Ray",
+            "Databases as Topic",
+            "Dimerization",
+            "Hemocyanins",
+            "Image Processing, Computer-Assisted",
+            "Octopodiformes",
+            "Protein Conformation",
+            "Protein Isoforms",
+            "Software",
+            "Time Factors",
+            "X-Ray Diffraction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Fabrice",
+                "Last Name": "Mouche",
+                "Affiliation": "Center for Integrative Molecular Biosciences and Department of Cell Biology, The Scripps Research Institute, CB 129, 10550 North Torrey Pines Road, La Jolla, CA 92037, USA."
+            },
+            {
+                "First Name": "Yuanxin",
+                "Last Name": "Zhu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Pulokas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of structural biology",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12956261",
+        "Title": "Automatic particle detection through efficient Hough transforms.",
+        "Abstract": "Manual selection of single particles in images acquired using cryo-electron microscopy (cryoEM) will become a significant bottleneck when a very large number of images are required to achieve three-dimensional reconstructions at near atomic resolution. Investigation of fast, accurate approaches for automatic particle detection has become one of the current challenges in the cryoEM community. At the same time, the investigation is hampered by the fact that few benchmark particles or image datasets exist in the community. The unavailability of such data makes it difficult to evaluate newly developed algorithms and to leverage expertise from other disciplines. The paper presents our recent contribution to this effort. It also describes our newly developed computational framework for particle detection, through the application of edge detection and a sequence of ordered Hough transforms. Experimental results using keyhole limpet hemocyanin (KLH) as a model particle are very promising. In addition, it introduces a newly established web site, designed to support the investigation of automatic particle detection by providing an annotated image dataset of KLH available to the general scientific community.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Cryoelectron Microscopy",
+            "Databases, Factual",
+            "Hemocyanins",
+            "Image Interpretation, Computer-Assisted",
+            "Imaging, Three-Dimensional",
+            "Internet",
+            "Particle Size",
+            "Pattern Recognition, Automated"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yuanxin",
+                "Last Name": "Zhu",
+                "Affiliation": "The Scripps Research Institute, Mail Code CB129, 10550 North Torrey Pines Road, La Jolla, CA 92037, USA. zhu4@scripps.edu"
+            },
+            {
+                "First Name": "Bridget",
+                "Last Name": "Carragher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Fabrice",
+                "Last Name": "Mouche",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clinton S",
+                "Last Name": "Potter",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "IEEE transactions on medical imaging",
+        "PubDate": "2003"
+    }
+]

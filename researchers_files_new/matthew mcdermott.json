@@ -1,0 +1,1287 @@
+[
+    {
+        "PMID": "38291812",
+        "Title": "Mechanistically Guided Materials Chemistry: Synthesis of Ternary Nitrides, CaZrN",
+        "Abstract": "Recent computational studies have predicted many new ternary nitrides, revealing synthetic opportunities in this underexplored phase space. However, synthesizing new ternary nitrides is difficult, in part because intermediate and product phases often have high cohesive energies that inhibit diffusion. Here, we report the synthesis of two new phases, calcium zirconium nitride (CaZrN",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Christopher L",
+                "Last Name": "Rom",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523-1872, United States."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Novick",
+                "Affiliation": "Department of Physics, Colorado School of Mines, Golden, Colorado 80401, United States."
+            },
+            {
+                "First Name": "Matthew J",
+                "Last Name": "McDermott",
+                "Affiliation": "Materials Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, United States."
+            },
+            {
+                "First Name": "Andrey A",
+                "Last Name": "Yakovenko",
+                "Affiliation": "X-ray Science Division, Advanced Photon Source, Argonne National Laboratory, Lemont, Illinois 60439, United States."
+            },
+            {
+                "First Name": "Jessica R",
+                "Last Name": "Gallawa",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523-1872, United States."
+            },
+            {
+                "First Name": "Gia Thinh",
+                "Last Name": "Tran",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523-1872, United States."
+            },
+            {
+                "First Name": "Dominic C",
+                "Last Name": "Asebiah",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523-1872, United States."
+            },
+            {
+                "First Name": "Emily N",
+                "Last Name": "Storck",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523-1872, United States."
+            },
+            {
+                "First Name": "Brennan C",
+                "Last Name": "McBride",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523-1872, United States."
+            },
+            {
+                "First Name": "Rebecca C",
+                "Last Name": "Miller",
+                "Affiliation": "Analytical Resources Core, Colorado State University, Fort Collins, Colorado 80523-1872, United States."
+            },
+            {
+                "First Name": "Amy L",
+                "Last Name": "Prieto",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523-1872, United States."
+            },
+            {
+                "First Name": "Kristin A",
+                "Last Name": "Persson",
+                "Affiliation": "Department of Materials Science and Engineering, University of California, Berkeley, California 94720, United States."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Toberer",
+                "Affiliation": "Department of Physics, Colorado School of Mines, Golden, Colorado 80401, United States."
+            },
+            {
+                "First Name": "Vladan",
+                "Last Name": "Stevanović",
+                "Affiliation": "Department of Metallurgical and Materials Engineering, Colorado School of Mines, Golden, Colorado 80401, United States."
+            },
+            {
+                "First Name": "Andriy",
+                "Last Name": "Zakutayev",
+                "Affiliation": "Materials Science Center, National Renewable Energy Laboratory, Golden, Colorado 80401, United States."
+            },
+            {
+                "First Name": "James R",
+                "Last Name": "Neilson",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523-1872, United States."
+            }
+        ],
+        "Journal": "Journal of the American Chemical Society",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37901171",
+        "Title": "Assessing Thermodynamic Selectivity of Solid-State Reactions for the Predictive Synthesis of Inorganic Materials.",
+        "Abstract": "Synthesis is a major challenge in the discovery of new inorganic materials. Currently, there is limited theoretical guidance for identifying optimal solid-state synthesis procedures. We introduce two selectivity metrics, primary and secondary competition, to assess the favorability of target/impurity phase formation in solid-state reactions. We used these metrics to analyze 3520 solid-state reactions in the literature, ranking existing approaches to popular target materials. Additionally, we implemented these metrics in a data-driven synthesis planning workflow and demonstrated its application in the synthesis of barium titanate (BaTiO",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Matthew J",
+                "Last Name": "McDermott",
+                "Affiliation": "Materials Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, United States."
+            },
+            {
+                "First Name": "Brennan C",
+                "Last Name": "McBride",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523, United States."
+            },
+            {
+                "First Name": "Corlyn E",
+                "Last Name": "Regier",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523, United States."
+            },
+            {
+                "First Name": "Gia Thinh",
+                "Last Name": "Tran",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523, United States."
+            },
+            {
+                "First Name": "Yu",
+                "Last Name": "Chen",
+                "Affiliation": "Materials Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, United States."
+            },
+            {
+                "First Name": "Adam A",
+                "Last Name": "Corrao",
+                "Affiliation": "Department of Chemistry, Stony Brook University, Stony Brook, New York 11794, United States."
+            },
+            {
+                "First Name": "Max C",
+                "Last Name": "Gallant",
+                "Affiliation": "Materials Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, United States."
+            },
+            {
+                "First Name": "Gabrielle E",
+                "Last Name": "Kamm",
+                "Affiliation": "Department of Chemistry, Stony Brook University, Stony Brook, New York 11794, United States."
+            },
+            {
+                "First Name": "Christopher J",
+                "Last Name": "Bartel",
+                "Affiliation": "Department of Chemical Engineering and Materials Science, University of Minnesota, Minneapolis, Minnesota 55455, United States."
+            },
+            {
+                "First Name": "Karena W",
+                "Last Name": "Chapman",
+                "Affiliation": "Department of Chemistry, Stony Brook University, Stony Brook, New York 11794, United States."
+            },
+            {
+                "First Name": "Peter G",
+                "Last Name": "Khalifah",
+                "Affiliation": "Department of Chemistry, Stony Brook University, Stony Brook, New York 11794, United States."
+            },
+            {
+                "First Name": "Gerbrand",
+                "Last Name": "Ceder",
+                "Affiliation": "Materials Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, United States."
+            },
+            {
+                "First Name": "James R",
+                "Last Name": "Neilson",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523, United States."
+            },
+            {
+                "First Name": "Kristin A",
+                "Last Name": "Persson",
+                "Affiliation": "Department of Materials Science and Engineering, University of California, Berkeley, California 94720, United States."
+            }
+        ],
+        "Journal": "ACS central science",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37812770",
+        "Title": "Using machine learning to develop smart reflex testing protocols.",
+        "Abstract": "Reflex testing protocols allow clinical laboratories to perform second line diagnostic tests on existing specimens based on the results of initially ordered tests. Reflex testing can support optimal clinical laboratory test ordering and diagnosis. In current clinical practice, reflex testing typically relies on simple \"if-then\" rules; however, this limits the opportunities for reflex testing since most test ordering decisions involve more complexity than traditional rule-based approaches would allow. Here, using the analyte ferritin as an example, we propose an alternative machine learning-based approach to \"smart\" reflex testing.",
+        "Keywords": [
+            "clinical decision support",
+            "computational pathology",
+            "ferritin",
+            "imputation",
+            "laboratory test ordering",
+            "machine learning",
+            "missing data"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Reflex",
+            "Machine Learning",
+            "Ferritins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Matthew",
+                "Last Name": "McDermott",
+                "Affiliation": "MIT Computer Science and Artificial Intelligence Lab, Boston, MA 02139, United States."
+            },
+            {
+                "First Name": "Anand",
+                "Last Name": "Dighe",
+                "Affiliation": "Department of Pathology, Massachusetts General Hospital, Boston, MA 02114, United States."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Szolovits",
+                "Affiliation": "MIT Computer Science and Artificial Intelligence Lab, Boston, MA 02139, United States."
+            },
+            {
+                "First Name": "Yuan",
+                "Last Name": "Luo",
+                "Affiliation": "Department of Preventive Medicine, Northwestern University, Chicago, IL 60611, United States."
+            },
+            {
+                "First Name": "Jason",
+                "Last Name": "Baron",
+                "Affiliation": "Department of Pathology, Massachusetts General Hospital, Boston, MA 02114, United States."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "36795019",
+        "Title": "Direct Mechanochemical Synthesis, Phase Stability, and Electrochemical Performance of α-NaFeO",
+        "Abstract": "To better understand polymorph control in transition metal oxides, the mechanochemical synthesis of NaFeO",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Rebecca D",
+                "Last Name": "McAuliffe",
+                "Affiliation": "Chemical Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee 37831, United States."
+            },
+            {
+                "First Name": "Gabrielle E",
+                "Last Name": "Kamm",
+                "Affiliation": "Department of Chemistry, Stony Brook University, Stony Brook, New York 11794, United States."
+            },
+            {
+                "First Name": "Matthew J",
+                "Last Name": "McDermott",
+                "Affiliation": "Materials Sciences Division, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, California 94720, United States."
+            },
+            {
+                "First Name": "Raphaël P",
+                "Last Name": "Hermann",
+                "Affiliation": "Materials Science and Technology Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee 37831, United States."
+            },
+            {
+                "First Name": "Neyanel",
+                "Last Name": "Vasquez-Garcia",
+                "Affiliation": "Chemical Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee 37831, United States."
+            },
+            {
+                "First Name": "Robert L",
+                "Last Name": "Sacci",
+                "Affiliation": "Chemical Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee 37831, United States."
+            },
+            {
+                "First Name": "Kristin A",
+                "Last Name": "Persson",
+                "Affiliation": "Department of Materials Science and Engineering, University of California, Berkeley, Berkeley, California 94720, United States."
+            },
+            {
+                "First Name": "Karena W",
+                "Last Name": "Chapman",
+                "Affiliation": "Department of Chemistry, Stony Brook University, Stony Brook, New York 11794, United States."
+            },
+            {
+                "First Name": "Gabriel M",
+                "Last Name": "Veith",
+                "Affiliation": "Chemical Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee 37831, United States."
+            }
+        ],
+        "Journal": "Inorganic chemistry",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36776825",
+        "Title": "Using Machine Learning to Develop Smart Reflex Testing Protocols.",
+        "Abstract": "Reflex testing protocols allow clinical laboratories to perform second line diagnostic tests on existing specimens based on the results of initially ordered tests. Reflex testing can support optimal clinical laboratory test ordering and diagnosis. In current clinical practice, reflex testing typically relies on simple \"if-then\" rules; however, this limits their scope since most test ordering decisions involve more complexity than a simple rule will allow. Here, using the analyte ferritin as an example, we propose an alternative machine learning-based approach to \"smart\" reflex testing with a wider scope and greater impact than traditional rule-based approaches.",
+        "Keywords": [
+            "Clinical decision support",
+            "Computational Pathology",
+            "Ferritin",
+            "Imputation",
+            "Laboratory test ordering",
+            "Machine learning",
+            "Missing data"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Matthew",
+                "Last Name": "McDermott",
+                "Affiliation": "MIT Computer Science and Artificial Intelligence Lab, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Anand",
+                "Last Name": "Dighe",
+                "Affiliation": "Department of Pathology, Massachusetts General Hospital, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Szolovits",
+                "Affiliation": "MIT Computer Science and Artificial Intelligence Lab, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "Yuan",
+                "Last Name": "Luo",
+                "Affiliation": "Department of Preventive Medicine, Northwestern University, Chicago, IL, USA."
+            },
+            {
+                "First Name": "Jason",
+                "Last Name": "Baron",
+                "Affiliation": "Department of Pathology, Massachusetts General Hospital, Boston, Massachusetts, USA."
+            }
+        ],
+        "Journal": "ArXiv",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36764807",
+        "Title": "Clinical Artificial Intelligence: Design Principles and Fallacies.",
+        "Abstract": "Clinical artificial intelligence (AI)/machine learning (ML) is anticipated to offer new abilities in clinical decision support, diagnostic reasoning, precision medicine, clinical operational support, and clinical research, but careful concern is needed to ensure these technologies work effectively in the clinic. Here, we detail the clinical ML/AI design process, identifying several key questions and detailing several common forms of issues that arise with ML tools, as motivated by real-world examples, such that clinicians and researchers can better anticipate and correct for such issues in their own use of ML/AI techniques.",
+        "Keywords": [
+            "Artificial intelligence",
+            "Irresponsibility",
+            "Machine learning",
+            "Misspecification",
+            "Uninterpretability"
+        ],
+        "MeSH terms": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Decision Support Systems, Clinical",
+            "Precision Medicine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Matthew B A",
+                "Last Name": "McDermott",
+                "Affiliation": "CSAIL, MIT, 32 Vassar St, Cambridge, MA 02139, USA. Electronic address: matthew_mcdermott@hms.harvard.edu."
+            },
+            {
+                "First Name": "Bret",
+                "Last Name": "Nestor",
+                "Affiliation": "Department of Computer Science, University of Toronto, 40 St George St, Toronto, ON M5S 2E4, Canada."
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Szolovits",
+                "Affiliation": "CSAIL, MIT, 32 Vassar St, Cambridge, MA 02139, USA."
+            }
+        ],
+        "Journal": "Clinics in laboratory medicine",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36653361",
+        "Title": "Smarcd3 is an epigenetic modulator of the metabolic landscape in pancreatic ductal adenocarcinoma.",
+        "Abstract": "Pancreatic cancer is characterized by extensive resistance to conventional therapies, making clinical management a challenge. Here we map the epigenetic dependencies of cancer stem cells, cells that preferentially evade therapy and drive progression, and identify SWI/SNF complex member SMARCD3 as a regulator of pancreatic cancer cells. Although SWI/SNF subunits often act as tumor suppressors, we show that SMARCD3 is amplified in cancer, enriched in pancreatic cancer stem cells and upregulated in the human disease. Diverse genetic mouse models of pancreatic cancer and stage-specific Smarcd3 deletion reveal that Smarcd3 loss preferentially impacts established tumors, improving survival especially in context of chemotherapy. Mechanistically, SMARCD3 acts with FOXA1 to control lipid and fatty acid metabolism, programs associated with therapy resistance and poor prognosis in cancer. These data identify SMARCD3 as an epigenetic modulator responsible for establishing the metabolic landscape in aggressive pancreatic cancer cells and a potential target for new therapies.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Mice",
+            "Animals",
+            "Transcription Factors",
+            "Carcinoma, Pancreatic Ductal",
+            "Pancreatic Neoplasms",
+            "Epigenesis, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "L Paige",
+                "Last Name": "Ferguson",
+                "Affiliation": "Department of Pharmacology, University of California San Diego School of Medicine, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Jovylyn",
+                "Last Name": "Gatchalian",
+                "Affiliation": "Salk Institute for Biological Studies, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Matthew L",
+                "Last Name": "McDermott",
+                "Affiliation": "Department of Pharmacology, University of California San Diego School of Medicine, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Mari",
+                "Last Name": "Nakamura",
+                "Affiliation": "Department of Pharmacology, University of California San Diego School of Medicine, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Kendall",
+                "Last Name": "Chambers",
+                "Affiliation": "Department of Pharmacology, University of California San Diego School of Medicine, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Nirakar",
+                "Last Name": "Rajbhandari",
+                "Affiliation": "Department of Pharmacology, University of California San Diego School of Medicine, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Nikki K",
+                "Last Name": "Lytle",
+                "Affiliation": "Salk Institute for Biological Studies, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Sara Brin",
+                "Last Name": "Rosenthal",
+                "Affiliation": "Center for Computational Biology and Bioinformatics, University of California San Diego School of Medicine, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Hamilton",
+                "Affiliation": "Department of Pharmacology, University of California San Diego School of Medicine, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Sonia",
+                "Last Name": "Albini",
+                "Affiliation": "Genethon, 91000, EVRY, France."
+            },
+            {
+                "First Name": "Martin",
+                "Last Name": "Wartenberg",
+                "Affiliation": "Institute of Pathology, University of Bern, Murtenstrasse 31, 3008, Bern, Switzerland."
+            },
+            {
+                "First Name": "Inti",
+                "Last Name": "Zlobec",
+                "Affiliation": "Institute of Pathology, University of Bern, Murtenstrasse 31, 3008, Bern, Switzerland."
+            },
+            {
+                "First Name": "José A",
+                "Last Name": "Galván",
+                "Affiliation": "Institute of Pathology, University of Bern, Murtenstrasse 31, 3008, Bern, Switzerland."
+            },
+            {
+                "First Name": "Eva",
+                "Last Name": "Karamitopoulou",
+                "Affiliation": "Institute of Pathology, University of Bern, Murtenstrasse 31, 3008, Bern, Switzerland."
+            },
+            {
+                "First Name": "Vera",
+                "Last Name": "Vavinskaya",
+                "Affiliation": "Department of Pathology, University of California San Diego School of Medicine, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Alexis",
+                "Last Name": "Wascher",
+                "Affiliation": "Moores Cancer Center, University of California San Diego School of Medicine, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Andrew M",
+                "Last Name": "Lowy",
+                "Affiliation": "Moores Cancer Center, University of California San Diego School of Medicine, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Christian M",
+                "Last Name": "Schürch",
+                "Affiliation": "Department of Pathology and Neuropathology, University Hospital and Comprehensive Cancer Center Tübingen, Tübingen, Germany."
+            },
+            {
+                "First Name": "Pier Lorenzo",
+                "Last Name": "Puri",
+                "Affiliation": "Development, Aging and Regeneration Program, Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, USA."
+            },
+            {
+                "First Name": "Benoit G",
+                "Last Name": "Bruneau",
+                "Affiliation": "Gladstone Institutes, Roddenberry Center for Stem Cell Biology and Medicine, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Diana C",
+                "Last Name": "Hargreaves",
+                "Affiliation": "Salk Institute for Biological Studies, La Jolla, CA, USA. dhargreaves@salk.edu."
+            },
+            {
+                "First Name": "Tannishtha",
+                "Last Name": "Reya",
+                "Affiliation": "Department of Pharmacology, University of California San Diego School of Medicine, La Jolla, CA, USA. tr2726@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35710992",
+        "Title": "Reply to: 'Potential sources of dataset bias complicate investigation of underdiagnosis by machine learning algorithms' and 'Confounding factors need to be accounted for in assessing bias by machine learning algorithms'.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Bias",
+            "Machine Learning"
+        ],
+        "Authors": [
+            {
+                "First Name": "Laleh",
+                "Last Name": "Seyyed-Kalantari",
+                "Affiliation": "University of Toronto, Toronto, Ontario, Canada. laleh@cs.toronto.edu."
+            },
+            {
+                "First Name": "Haoran",
+                "Last Name": "Zhang",
+                "Affiliation": "Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Matthew B A",
+                "Last Name": "McDermott",
+                "Affiliation": "Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Irene Y",
+                "Last Name": "Chen",
+                "Affiliation": "Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Marzyeh",
+                "Last Name": "Ghassemi",
+                "Affiliation": "Massachusetts Institute of Technology, Cambridge, MA, USA."
+            }
+        ],
+        "Journal": "Nature medicine",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34893776",
+        "Title": "Underdiagnosis bias of artificial intelligence algorithms applied to chest radiographs in under-served patient populations.",
+        "Abstract": "Artificial intelligence (AI) systems have increasingly achieved expert-level performance in medical imaging applications. However, there is growing concern that such AI systems may reflect and amplify human bias, and reduce the quality of their performance in historically under-served populations such as female patients, Black patients, or patients of low socioeconomic status. Such biases are especially troubling in the context of underdiagnosis, whereby the AI algorithm would inaccurately label an individual with a disease as healthy, potentially delaying access to care. Here, we examine algorithmic underdiagnosis in chest X-ray pathology classification across three large chest X-ray datasets, as well as one multi-source dataset. We find that classifiers produced using state-of-the-art computer vision techniques consistently and selectively underdiagnosed under-served patient populations and that the underdiagnosis rate was higher for intersectional under-served subpopulations, for example, Hispanic female patients. Deployment of AI systems using medical imaging for disease diagnosis with such biases risks exacerbation of existing care biases and can potentially lead to unequal access to medical treatment, thereby raising ethical concerns for the use of these models in the clinic.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Algorithms",
+            "Artificial Intelligence",
+            "Child",
+            "Child, Preschool",
+            "Datasets as Topic",
+            "Female",
+            "Humans",
+            "Infant",
+            "Infant, Newborn",
+            "Male",
+            "Radiography, Thoracic",
+            "Vulnerable Populations",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Laleh",
+                "Last Name": "Seyyed-Kalantari",
+                "Affiliation": "University of Toronto, Toronto, Ontario, Canada. laleh@cs.toronto.edu."
+            },
+            {
+                "First Name": "Haoran",
+                "Last Name": "Zhang",
+                "Affiliation": "Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Matthew B A",
+                "Last Name": "McDermott",
+                "Affiliation": "Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Irene Y",
+                "Last Name": "Chen",
+                "Affiliation": "Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Marzyeh",
+                "Last Name": "Ghassemi",
+                "Affiliation": "Vector Institute, Toronto, Ontario, Canada."
+            }
+        ],
+        "Journal": "Nature medicine",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34491732",
+        "Title": "Selectivity in Yttrium Manganese Oxide Synthesis via Local Chemical Potentials in Hyperdimensional Phase Space.",
+        "Abstract": "In sharp contrast to molecular synthesis, materials synthesis is generally presumed to lack selectivity. The few known methods of designing selectivity in solid-state reactions have limited scope, such as topotactic reactions or strain stabilization. This contribution describes a general approach for searching large chemical spaces to identify selective reactions. This novel approach explains the ability of a nominally \"innocent\" Na",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Paul K",
+                "Last Name": "Todd",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523-1872, United States."
+            },
+            {
+                "First Name": "Matthew J",
+                "Last Name": "McDermott",
+                "Affiliation": "Materials Sciences Division, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, California 94720, United States."
+            },
+            {
+                "First Name": "Christopher L",
+                "Last Name": "Rom",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523-1872, United States."
+            },
+            {
+                "First Name": "Adam A",
+                "Last Name": "Corrao",
+                "Affiliation": "Department of Chemistry, Stony Brook University, Stony Brook, New York 11794-3400, United States."
+            },
+            {
+                "First Name": "Jonathan J",
+                "Last Name": "Denney",
+                "Affiliation": "Department of Chemistry, Stony Brook University, Stony Brook, New York 11794-3400, United States."
+            },
+            {
+                "First Name": "Shyam S",
+                "Last Name": "Dwaraknath",
+                "Affiliation": "Materials Sciences Division, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, California 94720, United States."
+            },
+            {
+                "First Name": "Peter G",
+                "Last Name": "Khalifah",
+                "Affiliation": "Department of Chemistry, Stony Brook University, Stony Brook, New York 11794-3400, United States."
+            },
+            {
+                "First Name": "Kristin A",
+                "Last Name": "Persson",
+                "Affiliation": "Department of Materials Science and Engineering, University of California, Berkeley, California 94720, United States."
+            },
+            {
+                "First Name": "James R",
+                "Last Name": "Neilson",
+                "Affiliation": "Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523-1872, United States."
+            }
+        ],
+        "Journal": "Journal of the American Chemical Society",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34326361",
+        "Title": "A framework for quantifying uncertainty in DFT energy corrections.",
+        "Abstract": "In this work, we demonstrate a method to quantify uncertainty in corrections to density functional theory (DFT) energies based on empirical results. Such corrections are commonly used to improve the accuracy of computational enthalpies of formation, phase stability predictions, and other energy-derived properties, for example. We incorporate this method into a new DFT energy correction scheme comprising a mixture of oxidation-state and composition-dependent corrections and show that many chemical systems contain unstable polymorphs that may actually be predicted stable when uncertainty is taken into account. We then illustrate how these uncertainties can be used to estimate the probability that a compound is stable on a compositional phase diagram, thus enabling better-informed assessments of compound stability.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Amanda",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Materials Science and Engineering, University of California, Berkeley, CA, 94720, USA."
+            },
+            {
+                "First Name": "Ryan",
+                "Last Name": "Kingsbury",
+                "Affiliation": "Department of Materials Science and Engineering, University of California, Berkeley, CA, 94720, USA."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "McDermott",
+                "Affiliation": "Department of Materials Science and Engineering, University of California, Berkeley, CA, 94720, USA."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Horton",
+                "Affiliation": "Department of Materials Science and Engineering, University of California, Berkeley, CA, 94720, USA."
+            },
+            {
+                "First Name": "Anubhav",
+                "Last Name": "Jain",
+                "Affiliation": "Materials Sciences Division, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA, 94720, USA."
+            },
+            {
+                "First Name": "Shyue Ping",
+                "Last Name": "Ong",
+                "Affiliation": "Materials Sciences Division, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA, 94720, USA."
+            },
+            {
+                "First Name": "Shyam",
+                "Last Name": "Dwaraknath",
+                "Affiliation": "Materials Sciences Division, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA, 94720, USA."
+            },
+            {
+                "First Name": "Kristin A",
+                "Last Name": "Persson",
+                "Affiliation": "Department of Materials Science and Engineering, University of California, Berkeley, CA, 94720, USA. kapersson@lbl.gov."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34035255",
+        "Title": "A graph-based network for predicting chemical reaction pathways in solid-state materials synthesis.",
+        "Abstract": "Accelerated inorganic synthesis remains a significant challenge in the search for novel, functional materials. Many of the principles which enable \"synthesis by design\" in synthetic organic chemistry do not exist in solid-state chemistry, despite the availability of extensive computed/experimental thermochemistry data. In this work, we present a chemical reaction network model for solid-state synthesis constructed from available thermochemistry data and devise a computationally tractable approach for suggesting likely reaction pathways via the application of pathfinding algorithms and linear combination of lowest-cost paths in the network. We demonstrate initial success of the network in predicting complex reaction pathways comparable to those reported in the literature for YMnO",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Matthew J",
+                "Last Name": "McDermott",
+                "Affiliation": "Materials Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA."
+            },
+            {
+                "First Name": "Shyam S",
+                "Last Name": "Dwaraknath",
+                "Affiliation": "Materials Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA."
+            },
+            {
+                "First Name": "Kristin A",
+                "Last Name": "Persson",
+                "Affiliation": "Department of Materials Science and Engineering, University of California, Berkeley, CA, USA. kapersson@lbl.gov."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33762434",
+        "Title": "Reproducibility in machine learning for health research: Still a ways to go.",
+        "Abstract": "Machine learning for health must be reproducible to ensure reliable clinical use. We evaluated 511 scientific papers across several machine learning subfields and found that machine learning for health compared poorly to other areas regarding reproducibility metrics, such as dataset and code accessibility. We propose recommendations to address this problem.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Machine Learning",
+            "Reproducibility of Results"
+        ],
+        "Authors": [
+            {
+                "First Name": "Matthew B A",
+                "Last Name": "McDermott",
+                "Affiliation": "Massachusetts Institute of Technology, Cambridge, MA 02139, USA. mmd@mit.edu."
+            },
+            {
+                "First Name": "Shirly",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Computer Science, University of Toronto, Toronto, ON M5T 3A1, Canada."
+            },
+            {
+                "First Name": "Nikki",
+                "Last Name": "Marinsek",
+                "Affiliation": "Evidation Health Inc., San Mateo, CA 94402, USA."
+            },
+            {
+                "First Name": "Rajesh",
+                "Last Name": "Ranganath",
+                "Affiliation": "Center for Data Science and Department of Computer Science, Courant Institute of Mathematical Sciences, New York University, New York, NY 10011, USA ; Department of Population Health, NYU Langone Health, New York, NY, USA 10016."
+            },
+            {
+                "First Name": "Luca",
+                "Last Name": "Foschini",
+                "Affiliation": "Evidation Health Inc., San Mateo, CA 94402, USA."
+            },
+            {
+                "First Name": "Marzyeh",
+                "Last Name": "Ghassemi",
+                "Affiliation": "Department of Computer Science, University of Toronto, Toronto, ON M5T 3A1, Canada."
+            }
+        ],
+        "Journal": "Science translational medicine",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33691024",
+        "Title": "Cross-modal representation alignment of molecular structure and perturbation-induced transcriptional profiles.",
+        "Abstract": "Modeling the relationship between chemical structure and molecular activity is a key goal in drug development. Many benchmark tasks have been proposed for molecular property prediction, but these tasks are generally aimed at specific, isolated biomedical properties. In this work, we propose a new cross-modal small molecule retrieval task, designed to force a model to learn to associate the structure of a small molecule with the transcriptional change it induces. We develop this task formally as multi-view alignment problem, and present a coordinated deep learning approach that jointly optimizes representations of both chemical structure and perturbational gene expression profiles. We benchmark our results against oracle models and principled baselines, and find that cell line variability markedly influences performance in this domain. Our work establishes the feasibility of this new task, elucidates the limitations of current data and systems, and may serve to catalyze future research in small molecule representation learning.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Benchmarking",
+            "Computational Biology",
+            "Molecular Structure"
+        ],
+        "Authors": [
+            {
+                "First Name": "Samuel G",
+                "Last Name": "Finlayson",
+                "Affiliation": "Department of Systems, Synthetic, and Quantitative Biology, Harvard Medical School, Boston, MA, USA2Department of EECS, Massachusetts Institute of Technology, Cambridge, MA, USA*Co-first author."
+            },
+            {
+                "First Name": "Matthew B A",
+                "Last Name": "McDermott",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alex V",
+                "Last Name": "Pickering",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Scott L",
+                "Last Name": "Lipnick",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Isaac S",
+                "Last Name": "Kohane",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33691020",
+        "Title": "CheXclusion: Fairness gaps in deep chest X-ray classifiers.",
+        "Abstract": "Machine learning systems have received much attention recently for their ability to achieve expert-level performance on clinical tasks, particularly in medical imaging. Here, we examine the extent to which state-of-the-art deep learning classifiers trained to yield diagnostic labels from X-ray images are biased with respect to protected attributes. We train convolution neural networks to predict 14 diagnostic labels in 3 prominent public chest X-ray datasets: MIMIC-CXR, Chest-Xray8, CheXpert, as well as a multi-site aggregation of all those datasets. We evaluate the TPR disparity - the difference in true positive rates (TPR) - among different protected attributes such as patient sex, age, race, and insurance type as a proxy for socioeconomic status. We demonstrate that TPR disparities exist in the state-of-the-art classifiers in all datasets, for all clinical tasks, and all subgroups. A multi-source dataset corresponds to the smallest disparities, suggesting one way to reduce bias. We find that TPR disparities are not significantly correlated with a subgroup's proportional disease burden. As clinical models move from papers to products, we encourage clinical decision makers to carefully audit for algorithmic disparities prior to deployment. Our supplementary materials can be found at, http://www.marzyehghassemi.com/chexclusion-supp-3/.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Computational Biology",
+            "Humans",
+            "Machine Learning",
+            "Neural Networks, Computer",
+            "X-Rays"
+        ],
+        "Authors": [
+            {
+                "First Name": "Laleh",
+                "Last Name": "Seyyed-Kalantari",
+                "Affiliation": "Computer Science, University of Toronto, Toronto, Ontario, Canada2Vector Institute, Toronto, Ontario, Canada* Corresponding author, laleh@cs.toronto.edu."
+            },
+            {
+                "First Name": "Guanxiong",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "McDermott",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Irene Y",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marzyeh",
+                "Last Name": "Ghassemi",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "31891003",
+        "Title": "Elevated Microparticle Tissue Factor Activity Differentiates Patients With Venous Thromboembolism in Anti-neutrophil Cytoplasmic Autoantibody Vasculitis.",
+        "Abstract": "Venous thromboembolism (VTE) is a life-threatening complication of anti-neutrophil cytoplasmic autoantibody (ANCA) vasculitis whose mechanism remains incompletely elucidated. We tested the hypothesis that elevated microparticle tissue factor activity (MPTFa) or anti-plasminogen antibodies (anti-Plg) may identify patients at risk for VTE.",
+        "Keywords": [
+            "autoimmunity",
+            "biomarkers",
+            "plasminogen",
+            "thrombosis",
+            "tissue factor",
+            "venous thrombosis"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Carmen E",
+                "Last Name": "Mendoza",
+                "Affiliation": "Department of Medicine, Division of Nephrology, UNC Kidney Center, University of North Carolina, Chapel Hill, North Carolina, USA."
+            },
+            {
+                "First Name": "Elizabeth J",
+                "Last Name": "Brant",
+                "Affiliation": "Department of Medicine, Division of Nephrology, UNC Kidney Center, University of North Carolina, Chapel Hill, North Carolina, USA."
+            },
+            {
+                "First Name": "Matthew L",
+                "Last Name": "McDermott",
+                "Affiliation": "Department of Medicine, Division of Nephrology, UNC Kidney Center, University of North Carolina, Chapel Hill, North Carolina, USA."
+            },
+            {
+                "First Name": "Anne",
+                "Last Name": "Froment",
+                "Affiliation": "Department of Medicine, Division of Nephrology, UNC Kidney Center, University of North Carolina, Chapel Hill, North Carolina, USA."
+            },
+            {
+                "First Name": "Yichun",
+                "Last Name": "Hu",
+                "Affiliation": "Department of Medicine, Division of Nephrology, UNC Kidney Center, University of North Carolina, Chapel Hill, North Carolina, USA."
+            },
+            {
+                "First Name": "Susan L",
+                "Last Name": "Hogan",
+                "Affiliation": "Department of Medicine, Division of Nephrology, UNC Kidney Center, University of North Carolina, Chapel Hill, North Carolina, USA."
+            },
+            {
+                "First Name": "J Charles",
+                "Last Name": "Jennette",
+                "Affiliation": "Department of Medicine, Division of Nephrology, UNC Kidney Center, University of North Carolina, Chapel Hill, North Carolina, USA."
+            },
+            {
+                "First Name": "Ronald J",
+                "Last Name": "Falk",
+                "Affiliation": "Department of Medicine, Division of Nephrology, UNC Kidney Center, University of North Carolina, Chapel Hill, North Carolina, USA."
+            },
+            {
+                "First Name": "Patrick H",
+                "Last Name": "Nachman",
+                "Affiliation": "Department of Medicine, Division of Nephrology, UNC Kidney Center, University of North Carolina, Chapel Hill, North Carolina, USA."
+            },
+            {
+                "First Name": "Vimal K",
+                "Last Name": "Derebail",
+                "Affiliation": "Department of Medicine, Division of Nephrology, UNC Kidney Center, University of North Carolina, Chapel Hill, North Carolina, USA."
+            },
+            {
+                "First Name": "Donna O'Dell",
+                "Last Name": "Bunch",
+                "Affiliation": "Department of Medicine, Division of Nephrology, UNC Kidney Center, University of North Carolina, Chapel Hill, North Carolina, USA."
+            }
+        ],
+        "Journal": "Kidney international reports",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "35021554",
+        "Title": "Electrochemical Evaluation of Layer-by-Layer Drug Delivery Coating for Neural Interfaces.",
+        "Abstract": "Intracortical microelectrode arrays (MEAs) are valuable tools for neuroscience research, and their potential clinical use has been demonstrated. However, their inability to function reliably over chronic time points has limited their clinical translation. MEA failure is highly correlated with foreign body response (FBR), and therapeutics have been used to reduce FBR and improve device function, with drugs such as minocycline showing promising results ",
+        "Keywords": [
+            "coating",
+            "electrode",
+            "equivalent circuit",
+            "minocycline",
+            "neural implant"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Kaitlynn P",
+                "Last Name": "Olczak",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew D",
+                "Last Name": "McDermott",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kevin J",
+                "Last Name": "Otto",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "ACS applied bio materials",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30990190",
+        "Title": "Deep Learning Benchmarks on L1000 Gene Expression Data.",
+        "Abstract": "Gene expression data can offer deep, physiological insights beyond the static coding of the genome alone. We believe that realizing this potential requires specialized, high-capacity machine learning methods capable of using underlying biological structure, but the development of such models is hampered by the lack of published benchmark tasks and well characterized baselines. In this work, we establish such benchmarks and baselines by profiling many classifiers against biologically motivated tasks on two curated views of a large, public gene expression dataset (the LINCS corpus) and one privately produced dataset. We provide these two curated views of the public LINCS dataset and our benchmark tasks to enable direct comparisons to future methodological work and help spur deep learning method development on this modality. In addition to profiling a battery of traditional classifiers, including linear models, random forests, decision trees, K nearest neighbor (KNN) classifiers, and feed-forward artificial neural networks (FF-ANNs), we also test a method novel to this data modality: graph convolugtional neural networks (GCNNs), which allow us to incorporate prior biological domain knowledge. We find that GCNNs can be highly performant, with large datasets, whereas FF-ANNs consistently perform well. Non-neural classifiers are dominated by linear models and KNN classifiers.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Cell Line",
+            "Computational Biology",
+            "Databases, Genetic",
+            "Deep Learning",
+            "Gene Expression Profiling",
+            "Humans",
+            "Models, Genetic",
+            "Protein Interaction Maps",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Matthew B A",
+                "Last Name": "McDermott",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jennifer",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wen-Ning",
+                "Last Name": "Zhao",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steven D",
+                "Last Name": "Sheridan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter",
+                "Last Name": "Szolovits",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Isaac",
+                "Last Name": "Kohane",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen J",
+                "Last Name": "Haggarty",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roy H",
+                "Last Name": "Perlis",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "IEEE/ACM transactions on computational biology and bioinformatics",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "28268296",
+        "Title": "The effect of multiple thin-film coatings of protein loaded sol-gel on total multi-electrode array thickness.",
+        "Abstract": "Tetramethyl orthosilicate shows promise as a thin-film delivery vehicle for multi-electrode arrays for drug release and electrical performance; however, its effect upon device footprint has yet to be assessed. Using a previously established silicon wafer chip model, the thickness of one, two, and four protein doped coatings of sol-gel were analyzed via profilometry. Coating thickness was found to be 0.4μm, 1.1μm and 2.2μm on each side of the device. This addition to a native MEA is minimal when compared to other drug delivery paradigms currently associated with neural implants.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Coated Materials, Biocompatible",
+            "Drug Delivery Systems",
+            "Electrodes",
+            "Equipment Design",
+            "Organosilicon Compounds",
+            "Phase Transition",
+            "Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Matthew D",
+                "Last Name": "McDermott",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kevin J",
+                "Last Name": "Otto",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27733624",
+        "Title": "Stronger net posterior cortical forces and asymmetric microtubule arrays produce simultaneous centration and rotation of the pronuclear complex in the early Caenorhabditis elegans embryo.",
+        "Abstract": "Positioning of microtubule-organizing centers (MTOCs) incorporates biochemical and mechanical cues for proper alignment of the mitotic spindle and cell division site. Current experimental and theoretical studies in the early Caenorhabditis elegans embryo assume remarkable changes in the origin and polarity of forces acting on the MTOCs. These changes must occur over a few minutes, between initial centration and rotation of the pronuclear complex and entry into mitosis, and the models do not replicate in vivo timing of centration and rotation. Here we propose a model that incorporates asymmetry in the microtubule arrays generated by each MTOC, which we demonstrate with in vivo measurements, and a similar asymmetric force profile to that required for posterior-directed spindle displacement during mitosis. We find that these asymmetries are capable of and important for recapitulating the simultaneous centration and rotation of the pronuclear complex observed in vivo. The combination of theoretical and experimental evidence provided here offers a unified framework for the spatial organization and forces needed for pronuclear centration, rotation, and spindle displacement in the early C. elegans embryo.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Caenorhabditis elegans",
+            "Caenorhabditis elegans Proteins",
+            "Cell Cycle Proteins",
+            "Cell Nucleus",
+            "Cell Polarity",
+            "Computer Simulation",
+            "Embryo, Nonmammalian",
+            "Microtubule-Organizing Center",
+            "Microtubules",
+            "Mitosis",
+            "Rotation",
+            "Spindle Apparatus"
+        ],
+        "Authors": [
+            {
+                "First Name": "Valerie C",
+                "Last Name": "Coffman",
+                "Affiliation": "Department of Molecular Genetics, The Ohio State University, Columbus, OH 43210."
+            },
+            {
+                "First Name": "Matthew B A",
+                "Last Name": "McDermott",
+                "Affiliation": "Department of Mathematics, Harvey Mudd College, Claremont, CA 91711."
+            },
+            {
+                "First Name": "Blerta",
+                "Last Name": "Shtylla",
+                "Affiliation": "Mathematics Department, Pomona College, Claremont, CA 91711."
+            },
+            {
+                "First Name": "Adriana T",
+                "Last Name": "Dawes",
+                "Affiliation": "Department of Molecular Genetics, The Ohio State University, Columbus, OH 43210 dawes.33@osu.edu."
+            }
+        ],
+        "Journal": "Molecular biology of the cell",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "21424450",
+        "Title": "Hydrogel templates for the fabrication of homogeneous polymer microparticles.",
+        "Abstract": "Nano/microparticulate drug delivery systems with homogeneous size distribution and predefined shape are important in understanding the influence of the geometry and dimensions of these systems on blood circulation times and cellular uptake. We present a general method using water dissolvable hydrogel templates for the fabrication of homogeneous, shape-specific polymer/drug constructs in the size range of 200 nm to 50 μm. This hydrogel template strategy is mild, inexpensive, and readily scalable for the fabrication of multifunctional drug delivery vehicles.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Drug Delivery Systems",
+            "Equipment Design",
+            "Hydrogel, Polyethylene Glycol Dimethacrylate",
+            "Lactic Acid",
+            "Microtechnology",
+            "Particle Size",
+            "Polyglycolic Acid",
+            "Polylactic Acid-Polyglycolic Acid Copolymer",
+            "Polymers"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ghanashyam",
+                "Last Name": "Acharya",
+                "Affiliation": "Department of Biomedical Engineering, Purdue University, West Lafayette, IN, USA."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "McDermott",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Soo Jung",
+                "Last Name": "Shin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Haesun",
+                "Last Name": "Park",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kinam",
+                "Last Name": "Park",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Methods in molecular biology (Clifton, N.J.)",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "19822178",
+        "Title": "The hydrogel template method for fabrication of homogeneous nano/microparticles.",
+        "Abstract": "Nano/microparticles have been used widely in drug delivery applications. The majority of the particles are prepared by the conventional emulsion methods, which tend to result in particles with heterogeneous size distribution with sub-optimal drug loading and release properties. Recently, microfabrication methods have been used to make nano/microparticles with a monodisperse size distribution. The existing methods utilize solid templates for making particles, and the collection of individual particles after preparation has not been easy. The new hydrogel template approach was developed to make the particle preparation process simple and fast. The hydrogel template approach is based on the unique properties of physical gels that can undergo sol-gel phase transition upon changes in environmental conditions. The phase reversible hydrogels, however, are in general mechanically too weak to be treated as a solid material. It was unexpectedly found that gelatin hydrogels could be made to possess various properties necessary for microfabrication of nano/microparticles in large quantities. The size of the particles can be adjusted from 200 nm to >50 microm, providing flexibility in controlling the size in drug delivery formulations. The simplicity in processing makes the hydrogel template method useful for scale-up manufacturing of particles. The drug loading capacity is 50% or higher, and yet the initial burst release is minimal. The hydrogel template approach presents a new strategy of preparing nano/microparticles of predefined size and shape with homogeneous size distribution for drug delivery applications.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Drug Delivery Systems",
+            "Gelatin",
+            "Hydrogels",
+            "Lactic Acid",
+            "Materials Testing",
+            "Microtechnology",
+            "Molecular Weight",
+            "Nanoparticles",
+            "Nanostructures",
+            "Nanotechnology",
+            "Particle Size",
+            "Phase Transition",
+            "Polyglycolic Acid",
+            "Polylactic Acid-Polyglycolic Acid Copolymer",
+            "Polymers",
+            "Silicon",
+            "Swine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ghanashyam",
+                "Last Name": "Acharya",
+                "Affiliation": "Departments of Biomedical Engineering and Pharmaceutics, Purdue University, West Lafayette, IN 47907, USA."
+            },
+            {
+                "First Name": "Crystal S",
+                "Last Name": "Shin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "McDermott",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Himanshu",
+                "Last Name": "Mishra",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Haesun",
+                "Last Name": "Park",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ick Chan",
+                "Last Name": "Kwon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kinam",
+                "Last Name": "Park",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of controlled release : official journal of the Controlled Release Society",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "12569451",
+        "Title": "Templateless assembly of molecularly aligned conductive polymer nanowires: a new approach for oriented nanostructures.",
+        "Abstract": "Although oriented carbon nanotubes, oriented nanowires of metals, semiconductors and oxides have attracted wide attention, there have been few reports on oriented polymer nanostructures such as nanowires. In this paper we report the assembly of large arrays of oriented nanowires containing molecularly aligned conducting polymers (polyaniline) without using a porous membrane template to support the polymer. The uniform oriented nanowires were prepared through controlled nucleation and growth during a stepwise electrochemical deposition process in which a large number of nuclei were first deposited on the substrate using a large current density. After the initial nucleation, the current density was reduced stepwise in order to grow the oriented nanowires from the nucleation sites created in the first step. The usefulness of these new polymer structures is demonstrated with a chemical sensor device for H(2)O(2), the detection of which is widely investigated for biosensors. Finally, we demonstrated that controlled nucleation and growth is a general approach and has potential for growing oriented nanostructures of other materials.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jun",
+                "Last Name": "Liu",
+                "Affiliation": "Sandia National Laboratories, Albuquerque, NM 87185-1413, USA. jliu@sandia.gov"
+            },
+            {
+                "First Name": "Yuehe",
+                "Last Name": "Lin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Liang",
+                "Last Name": "Liang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James A",
+                "Last Name": "Voigt",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dale L",
+                "Last Name": "Huber",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zhengrong R",
+                "Last Name": "Tian",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Coker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bonnie",
+                "Last Name": "McKenzie",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew J",
+                "Last Name": "McDermott",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12405815",
+        "Title": "Biomimetic arrays of oriented helical ZnO nanorods and columns.",
+        "Abstract": "Extended helical or chiral nanostructures are usually associated with biomolecules but are mostly absent in synthetic materials. Here we report the first synthesis of unusual oriented and extended helical nanostructures in synthetic ceramics. Large arrays of oriented helical ZnO nanorods and columns are formed using simple citrate ions to control the growth habits of the ZnO crystal. This novel mechanism could lead to new approaches to control the orientation, the surface area, and the defect structure of synthetic materials that are critical for practical applications. The morphology generated in the helical ZnO nanostructure shows remarkable resemblance to the growth morphology of nacreous calcium carbonate and thus may shed new light on morphology and orientation control of biominerals.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Molecular Mimicry",
+            "Nanotechnology",
+            "Zinc Oxide"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zhengrong R",
+                "Last Name": "Tian",
+                "Affiliation": "Sandia National Laboratories, Albuquerque, New Mexico 87185-1413, USA."
+            },
+            {
+                "First Name": "James A",
+                "Last Name": "Voigt",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jun",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bonnie",
+                "Last Name": "McKenzie",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew J",
+                "Last Name": "McDermott",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Chemical Society",
+        "PubDate": "2002"
+    }
+]

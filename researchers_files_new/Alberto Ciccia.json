@@ -1,0 +1,1810 @@
+[
+    {
+        "PMID": "38301646",
+        "Title": "SMARCAL1 is a dual regulator of innate immune signaling and PD-L1 expression that promotes tumor immune evasion.",
+        "Abstract": "Genomic instability can trigger cancer-intrinsic innate immune responses that promote tumor rejection. However, cancer cells often evade these responses by overexpressing immune checkpoint regulators, such as PD-L1. Here, we identify the SNF2-family DNA translocase SMARCAL1 as a factor that favors tumor immune evasion by a dual mechanism involving both the suppression of innate immune signaling and the induction of PD-L1-mediated immune checkpoint responses. Mechanistically, SMARCAL1 limits endogenous DNA damage, thereby suppressing cGAS-STING-dependent signaling during cancer cell growth. Simultaneously, it cooperates with the AP-1 family member JUN to maintain chromatin accessibility at a PD-L1 transcriptional regulatory element, thereby promoting PD-L1 expression in cancer cells. SMARCAL1 loss hinders the ability of tumor cells to induce PD-L1 in response to genomic instability, enhances anti-tumor immune responses and sensitizes tumors to immune checkpoint blockade in a mouse melanoma model. Collectively, these studies uncover SMARCAL1 as a promising target for cancer immunotherapy.",
+        "Keywords": [
+            "AP-1",
+            "CRISPR-Cas9 screens",
+            "DNA damage response",
+            "JUN",
+            "PD-L1 regulation",
+            "SMARCAL1",
+            "cGAS-STING pathway",
+            "cancer immunotherapy",
+            "cancer-intrinsic innate immunity"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Mice",
+            "B7-H1 Antigen",
+            "Genomic Instability",
+            "Immunity, Innate",
+            "Melanoma",
+            "Tumor Escape",
+            "DNA Helicases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Giuseppe",
+                "Last Name": "Leuzzi",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alessandro",
+                "Last Name": "Vasciaveo",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Angelo",
+                "Last Name": "Taglialatela",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Xiao",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Tessa M",
+                "Last Name": "Firestone",
+                "Affiliation": "EpiCypher Inc., Durham, NC 27709, USA."
+            },
+            {
+                "First Name": "Allison R",
+                "Last Name": "Hickman",
+                "Affiliation": "EpiCypher Inc., Durham, NC 27709, USA."
+            },
+            {
+                "First Name": "Wendy",
+                "Last Name": "Mao",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Tanay",
+                "Last Name": "Thakar",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alina",
+                "Last Name": "Vaitsiankova",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jen-Wei",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Raquel",
+                "Last Name": "Cuella-Martin",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Samuel B",
+                "Last Name": "Hayward",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jordan S",
+                "Last Name": "Kesner",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Ali",
+                "Last Name": "Ghasemzadeh",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Tarun S",
+                "Last Name": "Nambiar",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Patricia",
+                "Last Name": "Ho",
+                "Affiliation": "Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Medicine, Division of Hematology and Oncology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Rialdi",
+                "Affiliation": "Center for OncoGenomics and Innovative Therapeutics (COGIT), Center for Therapeutics Discovery, Department of Oncological Sciences and Pharmacological Sciences, Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Maxime",
+                "Last Name": "Hebrard",
+                "Affiliation": "Institute of Molecular and Cell Biology (IMCB), Agency for Science, Technology and Research (ASTAR), Singapore, Singapore."
+            },
+            {
+                "First Name": "Yinglu",
+                "Last Name": "Li",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jinmei",
+                "Last Name": "Gao",
+                "Affiliation": "Université Paris-Saclay, CEA, CNRS, Institute for Integrative Biology of the Cell (I2BC), 91198 Gif-sur-Yvette, France."
+            },
+            {
+                "First Name": "Saarang",
+                "Last Name": "Gopinath",
+                "Affiliation": "EpiCypher Inc., Durham, NC 27709, USA."
+            },
+            {
+                "First Name": "Oluwatobi A",
+                "Last Name": "Adeleke",
+                "Affiliation": "EpiCypher Inc., Durham, NC 27709, USA."
+            },
+            {
+                "First Name": "Bryan J",
+                "Last Name": "Venters",
+                "Affiliation": "EpiCypher Inc., Durham, NC 27709, USA."
+            },
+            {
+                "First Name": "Charles G",
+                "Last Name": "Drake",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA; Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Urology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Baer",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA; Institute for Cancer Genetics, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Benjamin",
+                "Last Name": "Izar",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Columbia Center for Translational Immunology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Medicine, Division of Hematology and Oncology, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Ernesto",
+                "Last Name": "Guccione",
+                "Affiliation": "Center for OncoGenomics and Innovative Therapeutics (COGIT), Center for Therapeutics Discovery, Department of Oncological Sciences and Pharmacological Sciences, Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Michael-Christopher",
+                "Last Name": "Keogh",
+                "Affiliation": "EpiCypher Inc., Durham, NC 27709, USA."
+            },
+            {
+                "First Name": "Raphael",
+                "Last Name": "Guerois",
+                "Affiliation": "Université Paris-Saclay, CEA, CNRS, Institute for Integrative Biology of the Cell (I2BC), 91198 Gif-sur-Yvette, France."
+            },
+            {
+                "First Name": "Lu",
+                "Last Name": "Sun",
+                "Affiliation": "EpiCypher Inc., Durham, NC 27709, USA."
+            },
+            {
+                "First Name": "Chao",
+                "Last Name": "Lu",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Medicine, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA; Institute for Cancer Genetics, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: ac3685@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37533644",
+        "Title": "Base-editing screens illuminate variant effects in human hematopoiesis.",
+        "Abstract": "In a recent issue of ",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "CRISPR-Cas Systems",
+            "Gene Editing",
+            "Hematopoiesis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alina",
+                "Last Name": "Vaitsiankova",
+                "Affiliation": "Department of Genetics and Development, Institute for Cancer Genetics, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Tanay",
+                "Last Name": "Thakar",
+                "Affiliation": "Department of Genetics and Development, Institute for Cancer Genetics, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Development, Institute for Cancer Genetics, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Cell reports methods",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36532708",
+        "Title": "A genetic roadmap to the response to genotoxic agents in human cells.",
+        "Abstract": "To maintain genome fidelity and prevent diseases such as cancer, our cells must constantly detect, and efficiently and precisely repair, DNA damage. Paradoxically, DNA-damaging agents in the form of radiation and chemotherapy are also used to treat cancer. Olivieri ",
+        "Keywords": [
+            "CRISPR",
+            "DNA damage",
+            "DNA repair",
+            "DNA-damaging agents"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Columbia University Irving Medical Center."
+            },
+            {
+                "First Name": "Roger A",
+                "Last Name": "Greenberg",
+                "Affiliation": "University of Pennsylvania."
+            },
+            {
+                "First Name": "Susan P",
+                "Last Name": "Lees-Miller",
+                "Affiliation": "University of Calgary."
+            },
+            {
+                "First Name": "Andre",
+                "Last Name": "Nussenzweig",
+                "Affiliation": "National Institutes of Health."
+            }
+        ],
+        "Journal": "Faculty reviews",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35063100",
+        "Title": "CRISPR-based genome editing through the lens of DNA repair.",
+        "Abstract": "Genome editing technologies operate by inducing site-specific DNA perturbations that are resolved by cellular DNA repair pathways. Products of genome editors include DNA breaks generated by CRISPR-associated nucleases, base modifications induced by base editors, DNA flaps created by prime editors, and integration intermediates formed by site-specific recombinases and transposases associated with CRISPR systems. Here, we discuss the cellular processes that repair CRISPR-generated DNA lesions and describe strategies to obtain desirable genomic changes through modulation of DNA repair pathways. Advances in our understanding of the DNA repair circuitry, in conjunction with the rapid development of innovative genome editing technologies, promise to greatly enhance our ability to improve food production, combat environmental pollution, develop cell-based therapies, and cure genetic and infectious diseases.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "CRISPR-Associated Proteins",
+            "CRISPR-Cas Systems",
+            "Clustered Regularly Interspaced Short Palindromic Repeats",
+            "DNA Breaks, Double-Stranded",
+            "DNA Breaks, Single-Stranded",
+            "DNA Damage",
+            "DNA Repair",
+            "Gene Editing",
+            "Gene Targeting",
+            "Genome, Human",
+            "Humans"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tarun S",
+                "Last Name": "Nambiar",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Lou",
+                "Last Name": "Baudrier",
+                "Affiliation": "Department of Biochemistry and Molecular Biology, Robson DNA Science Centre, Arnie Charbonneau Cancer Institute, Cumming School of Medicine, University of Calgary, 3330 Hospital Drive N.W., Calgary, Alberta T2N 4N1, Canada."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Billon",
+                "Affiliation": "Department of Biochemistry and Molecular Biology, Robson DNA Science Centre, Arnie Charbonneau Cancer Institute, Cumming School of Medicine, University of Calgary, 3330 Hospital Drive N.W., Calgary, Alberta T2N 4N1, Canada. Electronic address: pierre.billon@ucalgary.ca."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: ac3685@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34583241",
+        "Title": "Towards a CRISPeR understanding of homologous recombination with high-throughput functional genomics.",
+        "Abstract": "CRISPR-dependent genome editing enables the study of genes and mutations on a large scale. Here we review CRISPR-based functional genomics technologies that generate gene knockouts and single nucleotide variants (SNVs) and discuss how their use has provided new important insights into the function of homologous recombination (HR) genes. In particular, we highlight discoveries from CRISPR screens that have contributed to define the response to PARP inhibition in cells deficient for the HR genes BRCA1 and BRCA2, uncover genes whose loss causes synthetic lethality in combination with BRCA1/2 deficiency, and characterize the function of BRCA1/2 SNVs of uncertain clinical significance. Further use of these approaches, combined with next-generation CRISPR-based technologies, will aid to dissect the genetic network of the HR pathway, define the impact of HR mutations on cancer etiology and treatment, and develop novel targeted therapies for HR-deficient tumors.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Gene Regulatory Networks",
+            "Genomics",
+            "Homologous Recombination",
+            "Mutation",
+            "Poly(ADP-ribose) Polymerase Inhibitors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Samuel B",
+                "Last Name": "Hayward",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, United States."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, United States. Electronic address: ac3685@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Current opinion in genetics & development",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34508659",
+        "Title": "REV1-Polζ maintains the viability of homologous recombination-deficient cancer cells through mutagenic repair of PRIMPOL-dependent ssDNA gaps.",
+        "Abstract": "BRCA1/2 mutant tumor cells display an elevated mutation burden, the etiology of which remains unclear. Here, we report that these cells accumulate ssDNA gaps and spontaneous mutations during unperturbed DNA replication due to repriming by the DNA primase-polymerase PRIMPOL. Gap accumulation requires the DNA glycosylase SMUG1 and is exacerbated by depletion of the translesion synthesis (TLS) factor RAD18 or inhibition of the error-prone TLS polymerase complex REV1-Polζ by the small molecule JH-RE-06. JH-RE-06 treatment of BRCA1/2-deficient cells results in reduced mutation rates and PRIMPOL- and SMUG1-dependent loss of viability. Through cellular and animal studies, we demonstrate that JH-RE-06 is preferentially toxic toward HR-deficient cancer cells. Furthermore, JH-RE-06 remains effective toward PARP inhibitor (PARPi)-resistant BRCA1 mutant cells and displays additive toxicity with crosslinking agents or PARPi. Collectively, these studies identify a protective and mutagenic role for REV1-Polζ in BRCA1/2 mutant cells and provide the rationale for using REV1-Polζ inhibitors to treat BRCA1/2 mutant tumors.",
+        "Keywords": [
+            "BRCA1 and BRCA2",
+            "DNA repriming",
+            "PRIMPOL",
+            "RAD18",
+            "REV1 and Polζ",
+            "breast and ovarian cancer",
+            "homologous recombination",
+            "ssDNA gaps",
+            "synthetic lethality",
+            "translesion synthesis"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Antineoplastic Agents",
+            "BRCA1 Protein",
+            "BRCA2 Protein",
+            "Cell Line, Tumor",
+            "DNA Breaks, Single-Stranded",
+            "DNA Primase",
+            "DNA Replication",
+            "DNA, Neoplasm",
+            "DNA-Binding Proteins",
+            "DNA-Directed DNA Polymerase",
+            "Female",
+            "HEK293 Cells",
+            "Humans",
+            "Mice, Nude",
+            "Multifunctional Enzymes",
+            "Mutation",
+            "Neoplasms",
+            "Nucleic Acid Synthesis Inhibitors",
+            "Nucleotidyltransferases",
+            "Recombinational DNA Repair",
+            "Uracil-DNA Glycosidase",
+            "Xenograft Model Antitumor Assays",
+            "Mice"
+        ],
+        "Authors": [
+            {
+                "First Name": "Angelo",
+                "Last Name": "Taglialatela",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Giuseppe",
+                "Last Name": "Leuzzi",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Vincenzo",
+                "Last Name": "Sannino",
+                "Affiliation": "DNA Metabolism Laboratory, IFOM, FIRC Institute for Molecular Oncology, Milan, Italy; Department of Oncology and Hematology-Oncology, University of Milan, Milan, Italy."
+            },
+            {
+                "First Name": "Raquel",
+                "Last Name": "Cuella-Martin",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jen-Wei",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Foon",
+                "Last Name": "Wu-Baer",
+                "Affiliation": "Institute for Cancer Genetics, Department of Pathology & Cell Biology, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Baer",
+                "Affiliation": "Institute for Cancer Genetics, Department of Pathology & Cell Biology, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Vincenzo",
+                "Last Name": "Costanzo",
+                "Affiliation": "DNA Metabolism Laboratory, IFOM, FIRC Institute for Molecular Oncology, Milan, Italy; Department of Oncology and Hematology-Oncology, University of Milan, Milan, Italy."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA. Electronic address: ac3685@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33606978",
+        "Title": "Functional interrogation of DNA damage response variants with base editing screens.",
+        "Abstract": "Mutations in DNA damage response (DDR) genes endanger genome integrity and predispose to cancer and genetic disorders. Here, using CRISPR-dependent cytosine base editing screens, we identify > 2,000 sgRNAs that generate nucleotide variants in 86 DDR genes, resulting in altered cellular fitness upon DNA damage. Among those variants, we discover loss- and gain-of-function mutants in the Tudor domain of the DDR regulator 53BP1 that define a non-canonical surface required for binding the deubiquitinase USP28. Moreover, we characterize variants of the TRAIP ubiquitin ligase that define a domain, whose loss renders cells resistant to topoisomerase I inhibition. Finally, we identify mutations in the ATM kinase with opposing genome stability phenotypes and loss-of-function mutations in the CHK2 kinase previously categorized as variants of uncertain significance for breast cancer. We anticipate that this resource will enable the discovery of additional DDR gene functions and expedite studies of DDR variants in human disease.",
+        "Keywords": [
+            "53BP1",
+            "ATM",
+            "BE3 base editor",
+            "CHK2",
+            "CRISPR-dependent base editing",
+            "DNA damage response",
+            "TRAIP",
+            "clinically relevant variants",
+            "variants of uncertain significance"
+        ],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Ataxia Telangiectasia Mutated Proteins",
+            "Base Sequence",
+            "CRISPR-Cas Systems",
+            "Camptothecin",
+            "Cell Line",
+            "DNA Damage",
+            "DNA Repair",
+            "Female",
+            "Gene Editing",
+            "Genetic Testing",
+            "Humans",
+            "Mutation",
+            "Phenotype",
+            "Protein Binding",
+            "Protein Domains",
+            "RNA, Guide, CRISPR-Cas Systems",
+            "Topoisomerase Inhibitors",
+            "Tumor Suppressor p53-Binding Protein 1",
+            "Ubiquitin Thiolesterase",
+            "Ubiquitin-Protein Ligases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Raquel",
+                "Last Name": "Cuella-Martin",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Samuel B",
+                "Last Name": "Hayward",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Xiao",
+                "Last Name": "Fan",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Xiao",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jen-Wei",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Angelo",
+                "Last Name": "Taglialatela",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Giuseppe",
+                "Last Name": "Leuzzi",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Junfei",
+                "Last Name": "Zhao",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, USA; Program for Mathematical Genomics, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Raul",
+                "Last Name": "Rabadan",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, USA; Program for Mathematical Genomics, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Chao",
+                "Last Name": "Lu",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: ac3685@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33065018",
+        "Title": "HATtracting Nucleases to Stalled Forks.",
+        "Abstract": "In this issue of Molecular Cell, Kim et al., 2020 report that PCAF is a fork-associated histone acetyltransferase (HAT) that regulates the stability of stalled forks and the response to PARP inhibition in BRCA1/2-deficient cells.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acetylation",
+            "DNA Replication",
+            "Endonucleases",
+            "Histones"
+        ],
+        "Authors": [
+            {
+                "First Name": "Giuseppe",
+                "Last Name": "Leuzzi",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, USA."
+            },
+            {
+                "First Name": "Angelo",
+                "Last Name": "Taglialatela",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, USA."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, USA. Electronic address: ac3685@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32971328",
+        "Title": "Time for remodeling: SNF2-family DNA translocases in replication fork metabolism and human disease.",
+        "Abstract": "Over the course of DNA replication, DNA lesions, transcriptional intermediates and protein-DNA complexes can impair the progression of replication forks, thus resulting in replication stress. Failure to maintain replication fork integrity in response to replication stress leads to genomic instability and predisposes to the development of cancer and other genetic disorders. Multiple DNA damage and repair pathways have evolved to allow completion of DNA replication following replication stress, thus preserving genomic integrity. One of the processes commonly induced in response to replication stress is fork reversal, which consists in the remodeling of stalled replication forks into four-way DNA junctions. In normal conditions, fork reversal slows down replication fork progression to ensure accurate repair of DNA lesions and facilitates replication fork restart once the DNA lesions have been removed. However, in certain pathological situations, such as the deficiency of DNA repair factors that protect regressed forks from nuclease-mediated degradation, fork reversal can cause genomic instability. In this review, we describe the complex molecular mechanisms regulating fork reversal, with a focus on the role of the SNF2-family fork remodelers SMARCAL1, ZRANB3 and HLTF, and highlight the implications of fork reversal for tumorigenesis and cancer therapy.",
+        "Keywords": [
+            "Cancer",
+            "DNA damage",
+            "Genomic instability",
+            "Innate Immunity",
+            "Replication fork remodeling",
+            "Replication stress"
+        ],
+        "MeSH terms": [
+            "DNA",
+            "DNA Helicases",
+            "DNA Repair",
+            "DNA Replication",
+            "DNA-Binding Proteins",
+            "Genomic Instability",
+            "Humans",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sarah A",
+                "Last Name": "Joseph",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Angelo",
+                "Last Name": "Taglialatela",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Giuseppe",
+                "Last Name": "Leuzzi",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jen-Wei",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Raquel",
+                "Last Name": "Cuella-Martin",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA. Electronic address: ac3685@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "DNA repair",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32528060",
+        "Title": "MCM8IP activates the MCM8-9 helicase to promote DNA synthesis and homologous recombination upon DNA damage.",
+        "Abstract": "Homologous recombination (HR) mediates the error-free repair of DNA double-strand breaks to maintain genomic stability. Here we characterize C17orf53/MCM8IP, an OB-fold containing protein that binds ssDNA, as a DNA repair factor involved in HR. MCM8IP-deficient cells exhibit HR defects, especially in long-tract gene conversion, occurring downstream of RAD51 loading, consistent with a role for MCM8IP in HR-dependent DNA synthesis. Moreover, loss of MCM8IP confers cellular sensitivity to crosslinking agents and PARP inhibition. Importantly, we report that MCM8IP directly associates with MCM8-9, a helicase complex mutated in primary ovarian insufficiency, and RPA1. We additionally show that the interactions of MCM8IP with MCM8-9 and RPA facilitate HR and promote replication fork progression and cellular viability in response to treatment with crosslinking agents. Mechanistically, MCM8IP stimulates the helicase activity of MCM8-9. Collectively, our work identifies MCM8IP as a key regulator of MCM8-9-dependent DNA synthesis during DNA recombination and replication.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Line, Tumor",
+            "Cell Survival",
+            "Chromatin",
+            "DNA Damage",
+            "DNA Replication",
+            "DNA, Single-Stranded",
+            "DNA-Binding Proteins",
+            "HCT116 Cells",
+            "HEK293 Cells",
+            "Humans",
+            "Minichromosome Maintenance Proteins",
+            "Mutation",
+            "Protein Binding",
+            "Rad51 Recombinase",
+            "Recombinational DNA Repair",
+            "Replication Protein A"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jen-Wei",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Ananya",
+                "Last Name": "Acharya",
+                "Affiliation": "Institute for Research in Biomedicine, Faculty of Biomedical Sciences, Università della Svizzera italiana, Bellinzona, Switzerland."
+            },
+            {
+                "First Name": "Angelo",
+                "Last Name": "Taglialatela",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Tarun S",
+                "Last Name": "Nambiar",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Raquel",
+                "Last Name": "Cuella-Martin",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Giuseppe",
+                "Last Name": "Leuzzi",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Samuel B",
+                "Last Name": "Hayward",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Sarah A",
+                "Last Name": "Joseph",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Gregory J",
+                "Last Name": "Brunette",
+                "Affiliation": "Department of Microbiology and Molecular Genetics, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA."
+            },
+            {
+                "First Name": "Roopesh",
+                "Last Name": "Anand",
+                "Affiliation": "Institute for Research in Biomedicine, Faculty of Biomedical Sciences, Università della Svizzera italiana, Bellinzona, Switzerland."
+            },
+            {
+                "First Name": "Rajesh K",
+                "Last Name": "Soni",
+                "Affiliation": "Proteomics and Macromolecular Crystallography Shared Resource, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Nathan L",
+                "Last Name": "Clark",
+                "Affiliation": "Department of Human Genetics, University of Utah, Salt Lake City, UT, USA."
+            },
+            {
+                "First Name": "Kara A",
+                "Last Name": "Bernstein",
+                "Affiliation": "Department of Microbiology and Molecular Genetics, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA."
+            },
+            {
+                "First Name": "Petr",
+                "Last Name": "Cejka",
+                "Affiliation": "Institute for Research in Biomedicine, Faculty of Biomedical Sciences, Università della Svizzera italiana, Bellinzona, Switzerland."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA. ac3685@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32160537",
+        "Title": "Detection of Marker-Free Precision Genome Editing and Genetic Variation through the Capture of Genomic Signatures.",
+        "Abstract": "Genome editing technologies have transformed our ability to engineer desired genomic changes within living systems. However, detecting precise genomic modifications often requires sophisticated, expensive, and time-consuming experimental approaches. Here, we describe DTECT (Dinucleotide signaTurE CapTure), a rapid and versatile detection method that relies on the capture of targeted dinucleotide signatures resulting from the digestion of genomic DNA amplicons by the type IIS restriction enzyme AcuI. DTECT enables the accurate quantification of marker-free precision genome editing events introduced by CRISPR-dependent homology-directed repair, base editing, or prime editing in various biological systems, such as mammalian cell lines, organoids, and tissues. Furthermore, DTECT allows the identification of oncogenic mutations in cancer mouse models, patient-derived xenografts, and human cancer patient samples. The ease, speed, and cost efficiency by which DTECT identifies genomic signatures should facilitate the generation of marker-free cellular and animal models of human disease and expedite the detection of human pathogenic variants.",
+        "Keywords": [
+            "CRISPR",
+            "base editing",
+            "detection method",
+            "dinucleotide signatures",
+            "genetic variation",
+            "homology-directed repair",
+            "human pathogenic variants",
+            "precision genome editing",
+            "prime editing",
+            "type IIS restriction endonucleases"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "BRCA1 Protein",
+            "BRCA2 Protein",
+            "Base Sequence",
+            "DNA",
+            "Disease Models, Animal",
+            "Gene Editing",
+            "Genetic Loci",
+            "Genetic Markers",
+            "Genetic Variation",
+            "Genomics",
+            "Genotype",
+            "HEK293 Cells",
+            "Humans",
+            "Mice",
+            "Mutation",
+            "NIH 3T3 Cells",
+            "Neoplasms",
+            "Nucleotides",
+            "Oncogenes",
+            "Recombinational DNA Repair",
+            "Restriction Mapping"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pierre",
+                "Last Name": "Billon",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Tarun S",
+                "Last Name": "Nambiar",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Samuel B",
+                "Last Name": "Hayward",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Maria P",
+                "Last Name": "Zafra",
+                "Affiliation": "Sandra and Edward Meyer Cancer Center, Department of Medicine, Weill Cornell Medicine, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Emma M",
+                "Last Name": "Schatoff",
+                "Affiliation": "Sandra and Edward Meyer Cancer Center, Department of Medicine, Weill Cornell Medicine, New York, NY 10065, USA; Weill Cornell/Rockefeller/Sloan Kettering Tri-Institutional MD-PhD Program, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Koichi",
+                "Last Name": "Oshima",
+                "Affiliation": "Department of Pediatrics, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Institute for Cancer Genetics, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Dunbar",
+                "Affiliation": "Human Oncology and Pathogenesis Program, Center for Hematological Malignancies, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Marco",
+                "Last Name": "Breinig",
+                "Affiliation": "Helmholtz-University Group \"Cell Plasticity and Epigenetic Remodeling\", German Cancer Research Center (DKFZ) and Institute of Pathology University Hospital, 69120 Heidelberg, Germany."
+            },
+            {
+                "First Name": "Young C",
+                "Last Name": "Park",
+                "Affiliation": "Human Oncology and Pathogenesis Program, Center for Hematological Malignancies, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Han S",
+                "Last Name": "Ryu",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Darjus F",
+                "Last Name": "Tschaharganeh",
+                "Affiliation": "Helmholtz-University Group \"Cell Plasticity and Epigenetic Remodeling\", German Cancer Research Center (DKFZ) and Institute of Pathology University Hospital, 69120 Heidelberg, Germany."
+            },
+            {
+                "First Name": "Ross L",
+                "Last Name": "Levine",
+                "Affiliation": "Human Oncology and Pathogenesis Program, Center for Hematological Malignancies, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Baer",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Institute for Cancer Genetics, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Adolfo",
+                "Last Name": "Ferrando",
+                "Affiliation": "Department of Pediatrics, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Institute for Cancer Genetics, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Lukas E",
+                "Last Name": "Dow",
+                "Affiliation": "Sandra and Edward Meyer Cancer Center, Department of Medicine, Weill Cornell Medicine, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: ac3685@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31363085",
+        "Title": "Stimulation of CRISPR-mediated homology-directed repair by an engineered RAD18 variant.",
+        "Abstract": "Precise editing of genomic DNA can be achieved upon repair of CRISPR-induced DNA double-stranded breaks (DSBs) by homology-directed repair (HDR). However, the efficiency of this process is limited by DSB repair pathways competing with HDR, such as non-homologous end joining (NHEJ). Here we individually express in human cells 204 open reading frames involved in the DNA damage response (DDR) and determine their impact on CRISPR-mediated HDR. From these studies, we identify RAD18 as a stimulator of CRISPR-mediated HDR. By defining the RAD18 domains required to promote HDR, we derive an enhanced RAD18 variant (e18) that stimulates CRISPR-mediated HDR in multiple human cell types, including embryonic stem cells. Mechanistically, e18 induces HDR by suppressing the localization of the NHEJ-promoting factor 53BP1 to DSBs. Altogether, this study identifies e18 as an enhancer of CRISPR-mediated HDR and highlights the promise of engineering DDR factors to augment the efficiency of precision genome editing.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Clustered Regularly Interspaced Short Palindromic Repeats",
+            "DNA Damage",
+            "DNA-Binding Proteins",
+            "Gene Editing",
+            "Humans",
+            "Protein Domains",
+            "Protein Engineering",
+            "Recombinational DNA Repair",
+            "Ubiquitin-Protein Ligases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tarun S",
+                "Last Name": "Nambiar",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Billon",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Giacomo",
+                "Last Name": "Diedenhofen",
+                "Affiliation": "Naomi Berrie Diabetes Center and Department of Pediatrics, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Samuel B",
+                "Last Name": "Hayward",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Angelo",
+                "Last Name": "Taglialatela",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Kunheng",
+                "Last Name": "Cai",
+                "Affiliation": "Naomi Berrie Diabetes Center and Department of Pediatrics, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Jen-Wei",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Giuseppe",
+                "Last Name": "Leuzzi",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Raquel",
+                "Last Name": "Cuella-Martin",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Palacios",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Anuj",
+                "Last Name": "Gupta",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Dieter",
+                "Last Name": "Egli",
+                "Affiliation": "Naomi Berrie Diabetes Center and Department of Pediatrics, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, 10032, USA. ac3685@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "29053959",
+        "Title": "Restoration of Replication Fork Stability in BRCA1- and BRCA2-Deficient Cells by Inactivation of SNF2-Family Fork Remodelers.",
+        "Abstract": "To ensure the completion of DNA replication and maintenance of genome integrity, DNA repair factors protect stalled replication forks upon replication stress. Previous studies have identified a critical role for the tumor suppressors BRCA1 and BRCA2 in preventing the degradation of nascent DNA by the MRE11 nuclease after replication stress. Here we show that depletion of SMARCAL1, a SNF2-family DNA translocase that remodels stalled forks, restores replication fork stability and reduces the formation of replication stress-induced DNA breaks and chromosomal aberrations in BRCA1/2-deficient cells. In addition to SMARCAL1, other SNF2-family fork remodelers, including ZRANB3 and HLTF, cause nascent DNA degradation and genomic instability in BRCA1/2-deficient cells upon replication stress. Our observations indicate that nascent DNA degradation in BRCA1/2-deficient cells occurs as a consequence of MRE11-dependent nucleolytic processing of reversed forks generated by fork remodelers. These studies provide mechanistic insights into the processes that cause genome instability in BRCA1/2-deficient cells.",
+        "Keywords": [
+            "BRCA1 and BRCA2",
+            "DNA replication stress",
+            "HLTF",
+            "MRE11",
+            "RAD51",
+            "SMARCAL1",
+            "ZRANB3",
+            "breast and ovarian cancer",
+            "replication fork instability",
+            "replication fork reversal"
+        ],
+        "MeSH terms": [
+            "BRCA2 Protein",
+            "Cell Line, Tumor",
+            "DNA Breaks",
+            "DNA Helicases",
+            "DNA-Binding Proteins",
+            "Genomic Instability",
+            "Humans",
+            "MRE11 Homologue Protein",
+            "Transcription Factors",
+            "Ubiquitin-Protein Ligases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Angelo",
+                "Last Name": "Taglialatela",
+                "Affiliation": "Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Silvia",
+                "Last Name": "Alvarez",
+                "Affiliation": "Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Giuseppe",
+                "Last Name": "Leuzzi",
+                "Affiliation": "Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Vincenzo",
+                "Last Name": "Sannino",
+                "Affiliation": "DNA Metabolism Laboratory, IFOM, FIRC Institute for Molecular Oncology, 20139 Milan, Italy."
+            },
+            {
+                "First Name": "Lepakshi",
+                "Last Name": "Ranjha",
+                "Affiliation": "Institute for Research in Biomedicine, Università della Svizzera Italiana, 6500 Bellinzona, Switzerland."
+            },
+            {
+                "First Name": "Jen-Wei",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Chioma",
+                "Last Name": "Madubata",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Department of Biomedical Informatics, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Roopesh",
+                "Last Name": "Anand",
+                "Affiliation": "Institute for Research in Biomedicine, Università della Svizzera Italiana, 6500 Bellinzona, Switzerland."
+            },
+            {
+                "First Name": "Brynn",
+                "Last Name": "Levy",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Raul",
+                "Last Name": "Rabadan",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Department of Biomedical Informatics, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Petr",
+                "Last Name": "Cejka",
+                "Affiliation": "Institute for Research in Biomedicine, Università della Svizzera Italiana, 6500 Bellinzona, Switzerland; Department of Biology, Institute of Biochemistry, Swiss Federal Institute of Technology, 8093 Zurich, Switzerland."
+            },
+            {
+                "First Name": "Vincenzo",
+                "Last Name": "Costanzo",
+                "Affiliation": "DNA Metabolism Laboratory, IFOM, FIRC Institute for Molecular Oncology, 20139 Milan, Italy."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA. Electronic address: ac3685@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28890334",
+        "Title": "CRISPR-Mediated Base Editing Enables Efficient Disruption of Eukaryotic Genes through Induction of STOP Codons.",
+        "Abstract": "Standard CRISPR-mediated gene disruption strategies rely on Cas9-induced DNA double-strand breaks (DSBs). Here, we show that CRISPR-dependent base editing efficiently inactivates genes by precisely converting four codons (CAA, CAG, CGA, and TGG) into STOP codons without DSB formation. To facilitate gene inactivation by induction of STOP codons (iSTOP), we provide access to a database of over 3.4 million single guide RNAs (sgRNAs) for iSTOP (sgSTOPs) targeting 97%-99% of genes in eight eukaryotic species, and we describe a restriction fragment length polymorphism (RFLP) assay that allows the rapid detection of iSTOP-mediated editing in cell populations and clones. To simplify the selection of sgSTOPs, our resource includes annotations for off-target propensity, percentage of isoforms targeted, prediction of nonsense-mediated decay, and restriction enzymes for RFLP analysis. Additionally, our database includes sgSTOPs that could be employed to precisely model over 32,000 cancer-associated nonsense mutations. Altogether, this work provides a comprehensive resource for DSB-free gene disruption by iSTOP.",
+        "Keywords": [
+            "CRISPR-mediated base editing",
+            "RFLP assay",
+            "STOP codons",
+            "cancer",
+            "genome-wide sgRNA analysis",
+            "iSTOP",
+            "nonsense mutations"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Arabidopsis",
+            "CRISPR-Associated Proteins",
+            "CRISPR-Cas Systems",
+            "Clustered Regularly Interspaced Short Palindromic Repeats",
+            "Codon, Nonsense",
+            "Codon, Terminator",
+            "Computational Biology",
+            "DNA Restriction Enzymes",
+            "Databases, Genetic",
+            "Gene Editing",
+            "Gene Expression Regulation, Fungal",
+            "Gene Expression Regulation, Neoplastic",
+            "Gene Expression Regulation, Plant",
+            "Gene Silencing",
+            "HEK293 Cells",
+            "Humans",
+            "Mice",
+            "Neoplasms",
+            "Polymorphism, Restriction Fragment Length",
+            "RNA, Guide, CRISPR-Cas Systems",
+            "Rats",
+            "Saccharomyces cerevisiae",
+            "Transfection"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pierre",
+                "Last Name": "Billon",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Eric E",
+                "Last Name": "Bryant",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Sarah A",
+                "Last Name": "Joseph",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Tarun S",
+                "Last Name": "Nambiar",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Samuel B",
+                "Last Name": "Hayward",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Rodney",
+                "Last Name": "Rothstein",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA. Electronic address: ac3685@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27984741",
+        "Title": "Stressing Out About RAD52.",
+        "Abstract": "The role of mammalian RAD52 has been mysterious due to the lack of a strong DNA repair phenotype of RAD52-deficient cells. In this issue of Molecular Cell, studies by Bhowmick et al. (2016) and Sotiriou et al. (2016) reveal an unexpected role for RAD52 in promoting DNA synthesis following replication stress.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "DNA Repair",
+            "DNA Replication",
+            "DNA-Binding Proteins",
+            "Humans",
+            "Rad51 Recombinase",
+            "Rad52 DNA Repair and Recombination Protein",
+            "Recombination, Genetic",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: ac3685@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Lorraine S",
+                "Last Name": "Symington",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: lss5@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26004182",
+        "Title": "A Systematic Analysis of Factors Localized to Damaged Chromatin Reveals PARP-Dependent Recruitment of Transcription Factors.",
+        "Abstract": "Localization to sites of DNA damage is a hallmark of DNA damage response (DDR) proteins. To identify DDR factors, we screened epitope-tagged proteins for localization to sites of chromatin damaged by UV laser microirradiation and found >120 proteins that localize to damaged chromatin. These include the BAF tumor suppressor complex and the amyotrophic lateral sclerosis (ALS) candidate protein TAF15. TAF15 contains multiple domains that bind damaged chromatin in a poly-(ADP-ribose) polymerase (PARP)-dependent manner, suggesting a possible role as glue that tethers multiple PAR chains together. Many positives were transcription factors; > 70% of randomly tested transcription factors localized to sites of DNA damage, and of these, ∼90% were PARP dependent for localization. Mutational analyses showed that localization to damaged chromatin is DNA-binding-domain dependent. By examining Hoechst staining patterns at damage sites, we see evidence of chromatin decompaction that is PARP dependent. We propose that PARP-regulated chromatin remodeling at sites of damage allows transient accessibility of DNA-binding proteins.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Chromatin",
+            "Chromatin Assembly and Disassembly",
+            "DNA Damage",
+            "DNA Repair",
+            "Fluorescent Antibody Technique",
+            "HEK293 Cells",
+            "Humans",
+            "Poly(ADP-ribose) Polymerases",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lior",
+                "Last Name": "Izhar",
+                "Affiliation": "Department of Genetics, Harvard University Medical School, Boston, MA 02115, USA; Howard Hughes Medical Institute; Division of Genetics, Brigham and Women's Hospital, Boston, MA 02115, USA."
+            },
+            {
+                "First Name": "Britt",
+                "Last Name": "Adamson",
+                "Affiliation": "Department of Genetics, Harvard University Medical School, Boston, MA 02115, USA; Howard Hughes Medical Institute; Division of Genetics, Brigham and Women's Hospital, Boston, MA 02115, USA; Department of Cellular and Molecular Pharmacology, University of California, San Francisco, San Francisco, CA 94158, USA."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics, Harvard University Medical School, Boston, MA 02115, USA; Howard Hughes Medical Institute; Division of Genetics, Brigham and Women's Hospital, Boston, MA 02115, USA; Department of Genetics and Development, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jedd",
+                "Last Name": "Lewis",
+                "Affiliation": "Department of Genetics, Harvard University Medical School, Boston, MA 02115, USA; Howard Hughes Medical Institute; Division of Genetics, Brigham and Women's Hospital, Boston, MA 02115, USA."
+            },
+            {
+                "First Name": "Laura",
+                "Last Name": "Pontano-Vaites",
+                "Affiliation": "Department of Cell Biology, Harvard University Medical School, Boston, MA 02115, USA."
+            },
+            {
+                "First Name": "Yumei",
+                "Last Name": "Leng",
+                "Affiliation": "Department of Genetics, Harvard University Medical School, Boston, MA 02115, USA; Howard Hughes Medical Institute; Division of Genetics, Brigham and Women's Hospital, Boston, MA 02115, USA."
+            },
+            {
+                "First Name": "Anthony C",
+                "Last Name": "Liang",
+                "Affiliation": "Department of Genetics, Harvard University Medical School, Boston, MA 02115, USA; Howard Hughes Medical Institute; Division of Genetics, Brigham and Women's Hospital, Boston, MA 02115, USA."
+            },
+            {
+                "First Name": "Thomas F",
+                "Last Name": "Westbrook",
+                "Affiliation": "Verna and Marrs McLean Department of Biochemistry and Molecular Biology, Department of Molecular and Human Genetics, and Department of Pediatrics, Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "J Wade",
+                "Last Name": "Harper",
+                "Affiliation": "Department of Cell Biology, Harvard University Medical School, Boston, MA 02115, USA."
+            },
+            {
+                "First Name": "Stephen J",
+                "Last Name": "Elledge",
+                "Affiliation": "Department of Genetics, Harvard University Medical School, Boston, MA 02115, USA; Howard Hughes Medical Institute; Division of Genetics, Brigham and Women's Hospital, Boston, MA 02115, USA. Electronic address: selledge@genetics.med.harvard.edu."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25512513",
+        "Title": "Treacher Collins syndrome TCOF1 protein cooperates with NBS1 in the DNA damage response.",
+        "Abstract": "The signal transduction pathway of the DNA damage response (DDR) is activated to maintain genomic integrity following DNA damage. The DDR promotes genomic integrity by regulating a large network of cellular activities that range from DNA replication and repair to transcription, RNA splicing, and metabolism. In this study we define an interaction between the DDR factor NBS1 and TCOF1, a nucleolar protein that regulates ribosomal DNA (rDNA) transcription and is mutated in Treacher Collins syndrome. We show that NBS1 relocalizes to nucleoli after DNA damage in a manner dependent on TCOF1 and on casein kinase II and ATM, which are known to modify TCOF1 by phosphorylation. Moreover, we identify a putative ATM phosphorylation site that is required for NBS1 relocalization to nucleoli in response to DNA damage. Last, we report that TCOF1 promotes cellular resistance to DNA damaging agents. Collectively, our findings identify TCOF1 as a DDR factor that could cooperate with ATM and NBS1 to suppress inappropriate rDNA transcription and maintain genomic integrity after DNA damage.",
+        "Keywords": [
+            "ATM",
+            "CK2",
+            "DNA damage response",
+            "nucleolus",
+            "protein phosphorylation"
+        ],
+        "MeSH terms": [
+            "Active Transport, Cell Nucleus",
+            "Ataxia Telangiectasia Mutated Proteins",
+            "Cell Cycle Proteins",
+            "Cell Line, Tumor",
+            "Cell Nucleolus",
+            "DNA Damage",
+            "DNA, Ribosomal",
+            "Humans",
+            "Nuclear Proteins",
+            "Phosphoproteins",
+            "Phosphorylation",
+            "Signal Transduction",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics and Howard Hughes Medical Institute, Division of Genetics, Brigham and Women's Hospital, Harvard University Medical School, Boston, MA 02115; Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032; and selledge@genetics.med.harvard.edu ac3685@columbia.edu."
+            },
+            {
+                "First Name": "Jen-Wei",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032; and."
+            },
+            {
+                "First Name": "Lior",
+                "Last Name": "Izhar",
+                "Affiliation": "Department of Genetics and Howard Hughes Medical Institute, Division of Genetics, Brigham and Women's Hospital, Harvard University Medical School, Boston, MA 02115;"
+            },
+            {
+                "First Name": "Mathew E",
+                "Last Name": "Sowa",
+                "Affiliation": "Department of Cell Biology, Harvard University Medical School, Boston, MA 02115."
+            },
+            {
+                "First Name": "J Wade",
+                "Last Name": "Harper",
+                "Affiliation": "Department of Cell Biology, Harvard University Medical School, Boston, MA 02115."
+            },
+            {
+                "First Name": "Stephen J",
+                "Last Name": "Elledge",
+                "Affiliation": "Department of Genetics and Howard Hughes Medical Institute, Division of Genetics, Brigham and Women's Hospital, Harvard University Medical School, Boston, MA 02115; selledge@genetics.med.harvard.edu ac3685@columbia.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "22704558",
+        "Title": "Polyubiquitinated PCNA recruits the ZRANB3 translocase to maintain genomic integrity after replication stress.",
+        "Abstract": "Completion of DNA replication after replication stress depends on PCNA, which undergoes monoubiquitination to stimulate direct bypass of DNA lesions by specialized DNA polymerases or is polyubiquitinated to promote recombination-dependent DNA synthesis across DNA lesions by template switching mechanisms. Here we report that the ZRANB3 translocase, a SNF2 family member related to the SIOD disorder SMARCAL1 protein, is recruited by polyubiquitinated PCNA to promote fork restart following replication arrest. ZRANB3 depletion in mammalian cells results in an increased frequency of sister chromatid exchange and DNA damage sensitivity after treatment with agents that cause replication stress. Using in vitro biochemical assays, we show that recombinant ZRANB3 remodels DNA structures mimicking stalled replication forks and disassembles recombination intermediates. We therefore propose that ZRANB3 maintains genomic stability at stalled or collapsed replication forks by facilitating fork restart and limiting inappropriate recombination that could occur during template switching events.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Cell Line, Tumor",
+            "DNA Damage",
+            "DNA Helicases",
+            "DNA Replication",
+            "Genomic Instability",
+            "Green Fluorescent Proteins",
+            "Humans",
+            "Molecular Sequence Data",
+            "Osteosarcoma",
+            "Polyubiquitin",
+            "Proliferating Cell Nuclear Antigen",
+            "Protein Binding",
+            "Recombination, Genetic",
+            "Sister Chromatid Exchange",
+            "Stress, Physiological",
+            "Ubiquitination"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Department of Genetics, Harvard University Medical School, Boston, MA 02115, USA."
+            },
+            {
+                "First Name": "Amitabh V",
+                "Last Name": "Nimonkar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yiduo",
+                "Last Name": "Hu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ildiko",
+                "Last Name": "Hajdu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yathish Jagadheesh",
+                "Last Name": "Achar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lior",
+                "Last Name": "Izhar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah A",
+                "Last Name": "Petit",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Britt",
+                "Last Name": "Adamson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John C",
+                "Last Name": "Yoon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen C",
+                "Last Name": "Kowalczykowski",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David M",
+                "Last Name": "Livingston",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lajos",
+                "Last Name": "Haracska",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen J",
+                "Last Name": "Elledge",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21788515",
+        "Title": "Wolf-Hirschhorn syndrome candidate 1 is involved in the cellular response to DNA damage.",
+        "Abstract": "Wolf-Hirschhorn syndrome (WHS) is a malformation syndrome associated with growth retardation, mental retardation, and immunodeficiency resulting from a hemizygous deletion of the short arm of chromosome 4, called the WHS critical region (WHSC). The WHSC1 gene is located in this region, and its loss is believed to be responsible for a number of WHS characteristics. We identified WHSC1 in a genetic screen for genes involved in responding to replication stress, linking Wolf-Hirschhorn syndrome to the DNA damage response (DDR). Here, we report that the WHSC1 protein is a member of the DDR pathway. WHSC1 localizes to sites of DNA damage and replication stress and is required for resistance to many DNA-damaging and replication stress-inducing agents. Through its SET domain, WHSC1 regulates the methylation status of the histone H4 K20 residue and is required for the recruitment of 53BP1 to sites of DNA damage. We propose that Wolf-Hirschhorn syndrome results from a defect in the DDR.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Line, Tumor",
+            "Checkpoint Kinase 2",
+            "DNA Damage",
+            "DNA Replication",
+            "Enzyme Activation",
+            "Gene Silencing",
+            "Histone-Lysine N-Methyltransferase",
+            "Histones",
+            "Humans",
+            "Hydroxyurea",
+            "Intracellular Signaling Peptides and Proteins",
+            "Lysine",
+            "Methylation",
+            "Phosphorylation",
+            "Protein Serine-Threonine Kinases",
+            "Protein Transport",
+            "Replication Protein A",
+            "Repressor Proteins",
+            "Stress, Physiological",
+            "Tumor Suppressor p53-Binding Protein 1",
+            "Wolf-Hirschhorn Syndrome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ildiko",
+                "Last Name": "Hajdu",
+                "Affiliation": "Department of Genetics, Howard Hughes Medical Institute, Division of Genetics, Brigham and Women's Hospital, Harvard University Medical School, Boston, MA 02115, USA."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Susanna M",
+                "Last Name": "Lewis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen J",
+                "Last Name": "Elledge",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21628590",
+        "Title": "Proliferating cell nuclear antigen (PCNA)-associated KIAA0101/PAF15 protein is a cell cycle-regulated anaphase-promoting complex/cyclosome substrate.",
+        "Abstract": "The anaphase-promoting complex/cyclosome (APC/C) is a cell cycle-regulated E3 ubiquitin ligase that controls the degradation of substrate proteins at mitotic exit and throughout the G1 phase. We have identified an APC/C substrate and cell cycle-regulated protein, KIAA0101/PAF15. PAF15 protein levels peak in the G2/M phase of the cell cycle and drop rapidly at mitotic exit in an APC/C- and KEN-box-dependent fashion. PAF15 associates with proliferating cell nuclear antigen (PCNA), and depletion of PAF15 decreases the number of cells in S phase, suggesting a role for it in cell cycle regulation. Following irradiation, PAF15 colocalized with γH2AX foci at sites of DNA damage through its interaction with PCNA. Finally, PAF15 depletion led to an increase in homologous recombination-mediated DNA repair, and overexpression caused sensitivity to UV-induced DNA damage. We conclude that PAF15 is an APC/C-regulated protein involved in both cell cycle progression and the DNA damage response.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Anaphase-Promoting Complex-Cyclosome",
+            "Blotting, Western",
+            "Carrier Proteins",
+            "Cell Cycle",
+            "Cell Division",
+            "Cell Line",
+            "Cell Line, Tumor",
+            "DNA Damage",
+            "DNA Repair",
+            "DNA-Binding Proteins",
+            "Flow Cytometry",
+            "G2 Phase",
+            "Gene Expression",
+            "HEK293 Cells",
+            "HeLa Cells",
+            "Humans",
+            "Proliferating Cell Nuclear Antigen",
+            "Protein Binding",
+            "RNA Interference",
+            "Recombination, Genetic",
+            "S Phase",
+            "Substrate Specificity",
+            "Ubiquitin-Protein Ligase Complexes",
+            "Ubiquitination"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael J",
+                "Last Name": "Emanuele",
+                "Affiliation": "Division of Genetics, Howard Hughes Medical Institute, Brigham and Women's Hospital, Boston, MA 02115, USA."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew E H",
+                "Last Name": "Elia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen J",
+                "Last Name": "Elledge",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "20965415",
+        "Title": "The DNA damage response: making it safe to play with knives.",
+        "Abstract": "Damage to our genetic material is an ongoing threat to both our ability to faithfully transmit genetic information to our offspring as well as our own survival. To respond to these threats, eukaryotes have evolved the DNA damage response (DDR). The DDR is a complex signal transduction pathway that has the ability to sense DNA damage and transduce this information to the cell to influence cellular responses to DNA damage. Cells possess an arsenal of enzymatic tools capable of remodeling and repairing DNA; however, their activities must be tightly regulated in a temporal, spatial, and DNA lesion-appropriate fashion to optimize repair and prevent unnecessary and potentially deleterious alterations in the structure of DNA during normal cellular processes. This review will focus on how the DDR controls DNA repair and the phenotypic consequences of defects in these critical regulatory functions in mammals.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "DNA",
+            "DNA Breaks, Double-Stranded",
+            "DNA Damage",
+            "DNA Repair",
+            "Eukaryota",
+            "Models, Genetic",
+            "Recombination, Genetic",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Howard Hughes Medical Institute, Harvard Medical School, Boston, MA 02115, USA."
+            },
+            {
+                "First Name": "Stephen J",
+                "Last Name": "Elledge",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19793862",
+        "Title": "The SIOD disorder protein SMARCAL1 is an RPA-interacting protein involved in replication fork restart.",
+        "Abstract": "The integrity of genomic DNA is continuously challenged by the presence of DNA base lesions or DNA strand breaks. Here we report the identification of a new DNA damage response protein, SMARCAL1 (SWI/SNF-related, matrix associated, actin-dependent regulator of chromatin, subfamily a-like 1), which is a member of the SNF2 family and is mutated in Schimke immunoosseous dysplasia (SIOD). We demonstrate that SMARCAL1 directly interacts with Replication protein A (RPA) and is recruited to sites of DNA damage in an RPA-dependent manner. SMARCAL1-depleted cells display sensitivity to DNA-damaging agents that induce replication fork collapse, and exhibit slower fork recovery and delayed entry into mitosis following S-phase arrest. Furthermore, SIOD patient fibroblasts reconstituted with SMARCAL1 exhibit faster cell cycle progression after S-phase arrest. Thus, the symptoms of SIOD may be caused, at least in part, by defects in the cellular response to DNA replication stress.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Cell Cycle",
+            "Cell Line",
+            "DNA Damage",
+            "DNA Helicases",
+            "DNA Replication",
+            "Humans",
+            "Molecular Sequence Data",
+            "Osteochondrodysplasias",
+            "Replication Protein A",
+            "Sequence Alignment"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Howard Hughes Medical Institute and Department of Genetics, Harvard Medical School, Division of Genetics, Brigham and Women's Hospital, Boston, Massachusetts 02115, USA."
+            },
+            {
+                "First Name": "Andrea L",
+                "Last Name": "Bredemeyer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mathew E",
+                "Last Name": "Sowa",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marie-Emilie",
+                "Last Name": "Terret",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Prasad V",
+                "Last Name": "Jallepalli",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "J Wade",
+                "Last Name": "Harper",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen J",
+                "Last Name": "Elledge",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genes & development",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18995830",
+        "Title": "FANCM and FAAP24 function in ATR-mediated checkpoint signaling independently of the Fanconi anemia core complex.",
+        "Abstract": "The Fanconi anemia (FA) pathway is implicated in DNA repair and cancer predisposition. Central to this pathway is the FA core complex, which is targeted to chromatin by FANCM and FAAP24 following replication stress. Here we show that FANCM and FAAP24 interact with the checkpoint protein HCLK2 independently of the FA core complex. In addition to defects in FA pathway activation, downregulation of FANCM or FAAP24 also compromises ATR/Chk1-mediated checkpoint signaling, leading to defective Chk1, p53, and FANCE phosphorylation; 53BP1 focus formation; and Cdc25A degradation. As a result, FANCM and FAAP24 deficiency results in increased endogenous DNA damage and a failure to efficiently invoke cell-cycle checkpoint responses. Moreover, we find that the DNA translocase activity of FANCM, which is dispensable for FA pathway activation, is required for its role in ATR/Chk1 signaling. Our data suggest that DNA damage recognition and remodeling activities of FANCM and FAAP24 cooperate with ATR/Chk1 to promote efficient activation of DNA damage checkpoints.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Line",
+            "DNA Damage",
+            "DNA Helicases",
+            "DNA Repair",
+            "DNA Replication",
+            "DNA, Single-Stranded",
+            "DNA-Binding Proteins",
+            "Fanconi Anemia",
+            "Fanconi Anemia Complementation Group Proteins",
+            "Genome",
+            "HeLa Cells",
+            "Humans",
+            "Kidney",
+            "Mitosis",
+            "Protein Serine-Threonine Kinases",
+            "Protein-Tyrosine Kinases",
+            "S Phase",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Spencer J",
+                "Last Name": "Collis",
+                "Affiliation": "DNA Damage Response Laboratory, Cancer Research UK, Clare Hall, EN6 3LD South Mimms, UK."
+            },
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Deans",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zuzana",
+                "Last Name": "Horejsí",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Julie S",
+                "Last Name": "Martin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah L",
+                "Last Name": "Maslen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "J Mark",
+                "Last Name": "Skehel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen J",
+                "Last Name": "Elledge",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen C",
+                "Last Name": "West",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Simon J",
+                "Last Name": "Boulton",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18518821",
+        "Title": "Structural and functional relationships of the XPF/MUS81 family of proteins.",
+        "Abstract": "Proteins belonging to the XPF/MUS81 family play important roles in the repair of DNA lesions caused by UV-light or DNA cross-linking agents. Most eukaryotes have four family members that assemble into two distinct heterodimeric complexes, XPF-ERCC1 and MUS81-EME1. Each complex contains one catalytic and one noncatalytic subunit and exhibits endonuclease activity with a variety of 3'-flap or fork DNA structures. The catalytic subunits share a characteristic core containing an excision repair cross complementation group 4 (ERCC4) nuclease domain and a tandem helix-hairpin-helix (HhH)(2) domain. Diverged domains are present in the noncatalytic subunits and may be required for substrate targeting. Vertebrates possess two additional family members, FANCM and Fanconi anemia-associated protein 24 kDa (FAAP24), which possess inactive nuclease domains. Instead, FANCM contains a functional Superfamily 2 (SF2) helicase domain that is required for DNA translocation. Determining how these enzymes recognize specific DNA substrates and promote key repair reactions is an important challenge for the future.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Animals",
+            "Biochemistry",
+            "DNA Repair",
+            "DNA-Binding Proteins",
+            "Endonucleases",
+            "Evolution, Molecular",
+            "Fanconi Anemia",
+            "Humans",
+            "Meiosis",
+            "Mice",
+            "Molecular Sequence Data",
+            "Protein Structure, Tertiary",
+            "Sequence Homology, Amino Acid"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "London Research Institute, Cancer Research UK, Clare Hall Laboratories, Hertfordshire, United Kingdom."
+            },
+            {
+                "First Name": "Neil",
+                "Last Name": "McDonald",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen C",
+                "Last Name": "West",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annual review of biochemistry",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17289582",
+        "Title": "Identification of FAAP24, a Fanconi anemia core complex protein that interacts with FANCM.",
+        "Abstract": "The Fanconi anemia (FA) core complex plays a crucial role in a DNA damage response network with BRCA1 and BRCA2. How this complex interacts with damaged DNA is unknown, as only the FA core protein FANCM (the homolog of an archaeal helicase/nuclease known as HEF) exhibits DNA binding activity. Here, we describe the identification of FAAP24, a protein that targets FANCM to structures that mimic intermediates formed during the replication/repair of damaged DNA. FAAP24 shares homology with the XPF family of flap/fork endonucleases, associates with the C-terminal region of FANCM, and is a component of the FA core complex. FAAP24 is required for normal levels of FANCD2 monoubiquitylation following DNA damage. Depletion of FAAP24 by siRNA results in cellular hypersensitivity to DNA crosslinking agents and chromosomal instability. Our data indicate that the FANCM/FAAP24 complex may play a key role in recruitment of the FA core complex to damaged DNA.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "DNA Damage",
+            "DNA Helicases",
+            "DNA Repair",
+            "DNA Replication",
+            "DNA-Binding Proteins",
+            "Fanconi Anemia Complementation Group Proteins",
+            "Humans",
+            "Molecular Sequence Data",
+            "Multigene Family",
+            "Protein Structure, Tertiary",
+            "Sequence Alignment",
+            "Sequence Homology, Amino Acid",
+            "Two-Hybrid System Techniques",
+            "Ubiquitin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Cancer Research UK, London Research Institute, Clare Hall Laboratories, South Mimms, Herts, UK."
+            },
+            {
+                "First Name": "Chen",
+                "Last Name": "Ling",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rachel",
+                "Last Name": "Coulthard",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zhijiang",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yutong",
+                "Last Name": "Xue",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Amom Ruhikanta",
+                "Last Name": "Meetei",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "El Houari",
+                "Last Name": "Laghmani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hans",
+                "Last Name": "Joenje",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Neil",
+                "Last Name": "McDonald",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Johan P",
+                "Last Name": "de Winter",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Weidong",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen C",
+                "Last Name": "West",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular cell",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "12721304",
+        "Title": "Identification and characterization of the human mus81-eme1 endonuclease.",
+        "Abstract": "The faithful and complete replication of DNA is necessary for the maintenance of genome stability. It is known, however, that replication forks stall at lesions in the DNA template and need to be processed so that replication restart can occur. In fission yeast, the Mus81-Eme1 endonuclease complex (Mus81-Mms4 in Saccharomyces cerevisiae) has been implicated in the processing of aberrant replication intermediates. In this report, we identify the human homolog of the Schizosaccharomyces pombe EME1 gene and have purified the human Mus81-Eme1 heterodimer. We show that Mus81-Eme1 is an endonuclease that exhibits a high specificity for synthetic replication fork structures and 3'-flaps in vitro. The nuclease cleaves Holliday junctions inefficiently ( approximately 75-fold less than flap or fork structures), although cleavage can be increased 6-fold by the presence of homologous sequences previously shown to permit base pair \"breathing.\" We conclude that human Mus81-Eme1 is a flap/fork endonuclease that is likely to play a role in the processing of stalled replication fork intermediates.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "DNA Replication",
+            "DNA-Binding Proteins",
+            "Endonucleases",
+            "Humans",
+            "Molecular Sequence Data",
+            "Saccharomyces cerevisiae Proteins",
+            "Schizosaccharomyces pombe Proteins",
+            "Sequence Alignment",
+            "Substrate Specificity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alberto",
+                "Last Name": "Ciccia",
+                "Affiliation": "Cancer Research UK, London Research Institute, Clare Hall Laboratories, South Mimms, Hertfordshire EN6 3LD, United Kingdom."
+            },
+            {
+                "First Name": "Angelos",
+                "Last Name": "Constantinou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen C",
+                "Last Name": "West",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of biological chemistry",
+        "PubDate": "2003"
+    }
+]

@@ -1,0 +1,3182 @@
+[
+    {
+        "PMID": "38964369",
+        "Title": "KG-LIME: predicting individualized risk of adverse drug events for multiple sclerosis disease-modifying therapy.",
+        "Abstract": "The aim of this project was to create time-aware, individual-level risk score models for adverse drug events related to multiple sclerosis disease-modifying therapy and to provide interpretable explanations for model prediction behavior.",
+        "Keywords": [
+            "OMOP; EHR",
+            "adverse drug events",
+            "explainable AI",
+            "graph neural network"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Multiple Sclerosis",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Risk Assessment",
+            "Electronic Health Records",
+            "Neural Networks, Computer",
+            "Female",
+            "Male",
+            "Middle Aged",
+            "Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jason",
+                "Last Name": "Patterson",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, United States."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, United States."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38487800",
+        "Title": "TCGA-Reports: A machine-readable pathology report resource for benchmarking text-based AI models.",
+        "Abstract": "In cancer research, pathology report text is a largely untapped data source. Pathology reports are routinely generated, more nuanced than structured data, and contain added insight from pathologists. However, there are no publicly available datasets for benchmarking report-based models. Two recent advances suggest the urgent need for a benchmark dataset. First, improved optical character recognition (OCR) techniques will make it possible to access older pathology reports in an automated way, increasing the data available for analysis. Second, recent improvements in natural language processing (NLP) techniques using artificial intelligence (AI) allow more accurate prediction of clinical targets from text. We apply state-of-the-art OCR and customized post-processing to report PDFs from The Cancer Genome Atlas, generating a machine-readable corpus of 9,523 reports. Finally, we perform a proof-of-principle cancer-type classification across 32 tissues, achieving 0.992 average AU-ROC. This dataset will be useful to researchers across specialties, including research clinicians, clinical trial investigators, and clinical NLP researchers.",
+        "Keywords": [
+            "AI",
+            "TCGA",
+            "cancer pathology",
+            "cancer type",
+            "classification",
+            "large language models",
+            "machine learning",
+            "pathology reports",
+            "resource",
+            "transformer model"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jenna",
+                "Last Name": "Kefeli",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Computational Biomedicine, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA."
+            }
+        ],
+        "Journal": "Patterns (New York, N.Y.)",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38191623",
+        "Title": "Estimating the heritability of SARS-CoV-2 susceptibility and COVID-19 severity.",
+        "Abstract": "SARS-CoV-2 has infected over 340 million people, prompting therapeutic research. While genetic studies can highlight potential drug targets, understanding the heritability of SARS-CoV-2 susceptibility and COVID-19 severity can contextualize their results. To date, loci from meta-analyses explain 1.2% and 5.8% of variation in susceptibility and severity respectively. Here we estimate the importance of shared environment and additive genetic variation to SARS-CoV-2 susceptibility and COVID-19 severity using pedigree data, PCR results, and hospitalization information. The relative importance of genetics and shared environment for susceptibility shifted during the study, with heritability ranging from 33% (95% CI: 20%-46%) to 70% (95% CI: 63%-74%). Heritability was greater for days hospitalized with COVID-19 (41%, 95% CI: 33%-57%) compared to shared environment (33%, 95% CI: 24%-38%). While our estimates suggest these genetic architectures are not fully understood, the shift in susceptibility estimates highlights the challenge of estimation during a pandemic, given environmental fluctuations and vaccine introduction.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "SARS-CoV-2",
+            "COVID-19",
+            "Drug Delivery Systems",
+            "Hospitalization",
+            "Pandemics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kathleen LaRow",
+                "Last Name": "Brown",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Vijendra",
+                "Last Name": "Ramlall",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Zietz",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Undina",
+                "Last Name": "Gisladottir",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA. nicholas.tatonetti@cshs.org."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38106616",
+        "Title": "Using machine learning probabilities to identify effects of COVID-19.",
+        "Abstract": "Coronavirus disease 2019 (COVID-19), the disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus, has had extensive economic, social, and public health impacts in the United States and around the world. To date, there have been more than 600 million reported infections worldwide with more than 6 million reported deaths. Retrospective analysis, which identified comorbidities, risk factors, and treatments, has underpinned the response. As the situation transitions to an endemic, retrospective analyses using electronic health records will be important to identify the long-term effects of COVID-19. However, these analyses can be complicated by incomplete records, which makes it difficult to differentiate visits where the patient had COVID-19. To address this issue, we trained a random Forest classifier to assign a probability of a patient having been diagnosed with COVID-19 during each visit. Using these probabilities, we found that higher COVID-19 probabilities were associated with a future diagnosis of myocardial infarction, urinary tract infection, acute renal failure, and type 2 diabetes.",
+        "Keywords": [
+            "COVID-19 effects",
+            "algorithm development",
+            "clinical informatics",
+            "machine learning",
+            "survival analysis"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Vijendra",
+                "Last Name": "Ramlall",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Undina",
+                "Last Name": "Gisladottir",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jenna",
+                "Last Name": "Kefeli",
+                "Affiliation": "Department of Systems Biology, Columbia University, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yutaro",
+                "Last Name": "Tanaka",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Benjamin",
+                "Last Name": "May",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, New York Presbyterian/Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Patterns (New York, N.Y.)",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37609238",
+        "Title": "Benchmark Pathology Report Text Corpus with Cancer Type Classification.",
+        "Abstract": "In cancer research, pathology report text is a largely un-tapped data source. Pathology reports are routinely generated, more nuanced than structured data, and contain added insight from pathologists. However, there are no publicly-available datasets for benchmarking report-based models. Two recent advances suggest the urgent need for a benchmark dataset. First, improved optical character recognition (OCR) techniques will make it possible to access older pathology reports in an automated way, increasing data available for analysis. Second, recent improvements in natural language processing (NLP) techniques using AI allow more accurate prediction of clinical targets from text. We apply state-of-the-art OCR and customized post-processing to publicly available report PDFs from The Cancer Genome Atlas, generating a machine-readable corpus of 9,523 reports. We perform a proof-of-principle cancer-type classification across 32 tissues, achieving 0.992 average AU-ROC. This dataset will be useful to researchers across specialties, including research clinicians, clinical trial investigators, and clinical NLP researchers.",
+        "Keywords": [
+            "BERT",
+            "TCGA",
+            "cancer pathology",
+            "cancer type",
+            "classification",
+            "large language models",
+            "machine learning",
+            "pathology reports",
+            "resource",
+            "transformer model"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jenna",
+                "Last Name": "Kefeli",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, 10032, United States."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Computational Biomedicine, Cedars-Sinai Medical Center, Los Angeles, California, 90048, United States."
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37505720",
+        "Title": "Discovering Venom-Derived Drug Candidates Using Differential Gene Expression.",
+        "Abstract": "Venoms are a diverse and complex group of natural toxins that have been adapted to treat many types of human disease, but rigorous computational approaches for discovering new therapeutic activities are scarce. We have designed and validated a new platform-named VenomSeq-to systematically identify putative associations between venoms and drugs/diseases via high-throughput transcriptomics and perturbational differential gene expression analysis. In this study, we describe the architecture of VenomSeq and its evaluation using the crude venoms from 25 diverse animal species and 9 purified teretoxin peptides. By integrating comparisons to public repositories of differential expression, associations between regulatory networks and disease, and existing knowledge of venom activity, we provide a number of new therapeutic hypotheses linking venoms to human diseases supported by multiple layers of preliminary evidence.",
+        "Keywords": [
+            "RNA-Seq",
+            "drug discovery",
+            "systems biology",
+            "transcriptomics",
+            "translational bioinformatics",
+            "venoms"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Humans",
+            "Venoms",
+            "Peptides",
+            "Gene Expression Profiling",
+            "Gene Expression"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Romano",
+                "Affiliation": "Department of Biostatistics, Epidemiology and Informatics, University of Pennsylvania, Philadelphia, PA 19104, USA."
+            },
+            {
+                "First Name": "Hai",
+                "Last Name": "Li",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Tanya",
+                "Last Name": "Napolitano",
+                "Affiliation": "Department of Chemistry, CUNY Hunter College, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Ronald",
+                "Last Name": "Realubit",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Charles",
+                "Last Name": "Karan",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Mandë",
+                "Last Name": "Holford",
+                "Affiliation": "Department of Chemistry, CUNY Hunter College, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Computational Biomedicine, Cedars-Sinai Medical Center, Los Angeles, CA 90069, USA."
+            }
+        ],
+        "Journal": "Toxins",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37425701",
+        "Title": "Generalizable and Automated Classification of TNM Stage from Pathology Reports with External Validation.",
+        "Abstract": "Cancer staging is an essential clinical attribute informing patient prognosis and clinical trial eligibility. However, it is not routinely recorded in structured electronic health records. Here, we present a generalizable method for the automated classification of TNM stage directly from pathology report text. We train a BERT-based model using publicly available pathology reports across approximately 7,000 patients and 23 cancer types. We explore the use of different model types, with differing input sizes, parameters, and model architectures. Our final model goes beyond term-extraction, inferring TNM stage from context when it is not included in the report text explicitly. As external validation, we test our model on almost 8,000 pathology reports from Columbia University Medical Center, finding that our trained model achieved an AU-ROC of 0.815-0.942. This suggests that our model can be applied broadly to other institutions without additional institution-specific fine-tuning.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jenna",
+                "Last Name": "Kefeli",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36699740",
+        "Title": "Structured deep embedding model to generate composite clinical indices from electronic health records for early detection of pancreatic cancer.",
+        "Abstract": "The high-dimensionality, complexity, and irregularity of electronic health records (EHR) data create significant challenges for both simplified and comprehensive health assessments, prohibiting an efficient extraction of actionable insights by clinicians. If we can provide human decision-makers with a simplified set of interpretable composite indices (i.e., combining information about groups of related measures into single representative values), it will facilitate effective clinical decision-making. In this study, we built a structured deep embedding model aimed at reducing the dimensionality of the input variables by grouping related measurements as determined by domain experts (e.g., clinicians). Our results suggest that composite indices representing liver function may consistently be the most important factor in the early detection of pancreatic cancer (PC). We propose our model as a basis for leveraging deep learning toward developing composite indices from EHR for predicting health outcomes, including but not limited to various cancers, with clinically meaningful interpretations.",
+        "Keywords": [
+            "composite indices",
+            "deep embeddings",
+            "electronic health records",
+            "model interpretability"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jiheum",
+                "Last Name": "Park",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Michael G",
+                "Last Name": "Artin",
+                "Affiliation": "Hospital of the University of Pennsylvania, Philadelphia, PA 19104, USA."
+            },
+            {
+                "First Name": "Kate E",
+                "Last Name": "Lee",
+                "Affiliation": "Duke University Medical Center, Durham, NC 27710, USA."
+            },
+            {
+                "First Name": "Benjamin L",
+                "Last Name": "May",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Park",
+                "Affiliation": "Applied Info Partners, Inc, Worlds Fair Drive, Somerset, NJ 08873, USA."
+            },
+            {
+                "First Name": "Chin",
+                "Last Name": "Hur",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Patterns (New York, N.Y.)",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35752163",
+        "Title": "A database of pediatric drug effects to evaluate ontogenic mechanisms from child growth and development.",
+        "Abstract": "Adverse drug effects (ADEs) in children are common and may result in disability and death, necessitating post-marketing monitoring of their use. Evaluating drug safety is especially challenging in children due to the processes of growth and maturation, which can alter how children respond to treatment. Current drug safety-signal-detection methods do not account for these dynamics.",
+        "Keywords": [
+            "Translation to population health",
+            "adverse drug events",
+            "child development",
+            "data mining",
+            "pharmacology",
+            "precision medicine"
+        ],
+        "MeSH terms": [
+            "Adverse Drug Reaction Reporting Systems",
+            "Child",
+            "Databases, Factual",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Family",
+            "Growth and Development",
+            "Humans"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Giangreco",
+                "Affiliation": "Departments of Systems Biology and Biomedical Informatics, Columbia University, 622 W. 168(th) Street, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Departments of Systems Biology and Biomedical Informatics, Columbia University, 622 W. 168(th) Street, New York, NY 10032, USA. Electronic address: nick.tatonetti@columbia.edu."
+            }
+        ],
+        "Journal": "Med (New York, N.Y.)",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35598881",
+        "Title": "Deep learning on time series laboratory test results from electronic health records for early detection of pancreatic cancer.",
+        "Abstract": "The multi-modal and unstructured nature of observational data in Electronic Health Records (EHR) is currently a significant obstacle for the application of machine learning towards risk stratification. In this study, we develop a deep learning framework for incorporating longitudinal clinical data from EHR to infer risk for pancreatic cancer (PC). This framework includes a novel training protocol, which enforces an emphasis on early detection by applying an independent Poisson-random mask on proximal-time measurements for each variable. Data fusion for irregular multivariate time-series features is enabled by a \"grouped\" neural network (GrpNN) architecture, which uses representation learning to generate a dimensionally reduced vector for each measurement set before making a final prediction. These models were evaluated using EHR data from Columbia University Irving Medical Center-New York Presbyterian Hospital. Our framework demonstrated better performance on early detection (AUROC 0.671, CI 95% 0.667 - 0.675, p < 0.001) at 12 months prior to diagnosis compared to a logistic regression, xgboost, and a feedforward neural network baseline. We demonstrate that our masking strategy results greater improvements at distal times prior to diagnosis, and that our GrpNN model improves generalizability by reducing overfitting relative to the feedforward baseline. The results were consistent across reported race. Our proposed algorithm is potentially generalizable to other diseases including but not limited to cancer where early detection can improve survival.",
+        "Keywords": [
+            "Early detection of cancer",
+            "Electronic Health Records",
+            "Machine learning",
+            "Pancreatic cancer"
+        ],
+        "MeSH terms": [
+            "Deep Learning",
+            "Early Detection of Cancer",
+            "Electronic Health Records",
+            "Humans",
+            "Pancreatic Neoplasms",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jiheum",
+                "Last Name": "Park",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Michael G",
+                "Last Name": "Artin",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Kate E",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Yoanna S",
+                "Last Name": "Pumpalova",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Myles A",
+                "Last Name": "Ingram",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Benjamin L",
+                "Last Name": "May",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Park",
+                "Affiliation": "Applied Info Partners Inc, Worlds Fair Drive, Somerset, NJ, United States; X-Mechanics LLC, Cresskill, NJ, United States."
+            },
+            {
+                "First Name": "Chin",
+                "Last Name": "Hur",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States. Electronic address: ch447@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34637147",
+        "Title": "Characterizing shared and distinct symptom clusters in common chronic conditions through natural language processing of nursing notes.",
+        "Abstract": "Data-driven characterization of symptom clusters in chronic conditions is essential for shared cluster detection and physiological mechanism discovery. This study aims to computationally describe symptom documentation from electronic nursing notes and compare symptom clusters among patients diagnosed with four chronic conditions-chronic obstructive pulmonary disease (COPD), heart failure, type 2 diabetes mellitus, and cancer. Nursing notes (N = 504,395; 133,977 patients) were obtained for the 2016 calendar year from a single medical center. We used NimbleMiner, a natural language processing application, to identify the presence of 56 symptoms. We calculated symptom documentation prevalence by note and patient for the corpus. Then, we visually compared documentation for a subset of patients (N = 22,657) diagnosed with COPD (n = 3339), heart failure (n = 6587), diabetes (n = 12,139), and cancer (n = 7269) and conducted multiple correspondence analysis and hierarchical clustering to discover underlying groups of patients who have similar symptom profiles (i.e., symptom clusters) for each condition. As expected, pain was the most frequently documented symptom. All conditions had a group of patients characterized by no symptoms. Shared clusters included cardiovascular symptoms for heart failure and diabetes; pain and other symptoms for COPD, diabetes, and cancer; and a newly-identified cognitive and neurological symptom cluster for heart failure, diabetes, and cancer. Cancer (gastrointestinal symptoms and fatigue) and COPD (mental health symptoms) each contained a unique cluster. In summary, we report both shared and distinct, as well as established and novel, symptom clusters across chronic conditions. Findings support the use of electronic health record-derived notes and NLP methods to study symptoms and symptom clusters to advance symptom science.",
+        "Keywords": [
+            "chronic conditions",
+            "natural language processing",
+            "nursing informatics",
+            "signs and symptoms",
+            "symptom clusters"
+        ],
+        "MeSH terms": [
+            "Chronic Disease",
+            "Cluster Analysis",
+            "Diabetes Mellitus, Type 2",
+            "Electronic Health Records",
+            "Heart Failure",
+            "Humans",
+            "Natural Language Processing",
+            "Neoplasms",
+            "Pulmonary Disease, Chronic Obstructive",
+            "Symptom Assessment"
+        ],
+        "Authors": [
+            {
+                "First Name": "Theresa A",
+                "Last Name": "Koleck",
+                "Affiliation": "School of Nursing, University of Pittsburgh, Pittsburgh, Pennsylvania, USA."
+            },
+            {
+                "First Name": "Maxim",
+                "Last Name": "Topaz",
+                "Affiliation": "School of Nursing, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Data Science Institute, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Maureen",
+                "Last Name": "George",
+                "Affiliation": "School of Nursing, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Christine",
+                "Last Name": "Miaskowski",
+                "Affiliation": "School of Nursing, University of California San Francisco, San Francisco, California, USA."
+            },
+            {
+                "First Name": "Arlene",
+                "Last Name": "Smaldone",
+                "Affiliation": "School of Nursing, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Suzanne",
+                "Last Name": "Bakken",
+                "Affiliation": "School of Nursing, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Research in nursing & health",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34479393",
+        "Title": "Predictions, Pivots, and a Pandemic: a Review of 2020's Top Translational Bioinformatics Publications.",
+        "Abstract": "Provide an overview of the emerging themes and notable papers which were published in 2020 in the field of Bioinformatics and Translational Informatics (BTI) for the International Medical Informatics Association Yearbook.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biological Specimen Banks",
+            "COVID-19",
+            "Computational Biology",
+            "Computer Security",
+            "Machine Learning",
+            "Publishing",
+            "SARS-CoV-2"
+        ],
+        "Authors": [
+            {
+                "First Name": "Scott P",
+                "Last Name": "McGrath",
+                "Affiliation": "CITRIS Health, University of California Berkeley, Berkeley, CA, USA."
+            },
+            {
+                "First Name": "Mary Lauren",
+                "Last Name": "Benton",
+                "Affiliation": "Department of Computer Science, Baylor University, Waco, TX, USA."
+            },
+            {
+                "First Name": "Maryam",
+                "Last Name": "Tavakoli",
+                "Affiliation": "MTERMS Lab, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Yearbook of medical informatics",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34294093",
+        "Title": "Evaluating risk detection methods to uncover ontogenic-mediated adverse drug effect mechanisms in children.",
+        "Abstract": "Identifying adverse drugs effects (ADEs) in children, overall and within pediatric age groups, is essential for preventing disability and death from marketed drugs. At the same time, however, detection is challenging due to dynamic biological processes during growth and maturation, called ontogeny, that alter pharmacokinetics and pharmacodynamics. As a result, methodologies in pediatric drug safety have been limited to event surveillance and have not focused on investigating adverse event mechanisms. There is an opportunity to identify drug event patterns within observational databases for evaluating ontogenic-mediated adverse event mechanisms. The first step of which is to establish statistical models that can identify temporal trends of adverse effects across childhood.",
+        "Keywords": [
+            "Child development",
+            "Dynamics",
+            "Modeling",
+            "Pediatrics",
+            "Pharmacovigilance"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Giangreco",
+                "Affiliation": "Departments of Systems Biology and Biomedical Informatics, Columbia University, 622 W. 168th Street, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Departments of Systems Biology and Biomedical Informatics, Columbia University, 622 W. 168th Street, New York, NY, 10032, USA. npt2105@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "BioData mining",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34140703",
+        "Title": "Fine-scale genetic ancestry as a potential new tool for precision medicine.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Ethnicity",
+            "Genetic Diseases, Inborn",
+            "Genetic Predisposition to Disease",
+            "Humans",
+            "Precision Medicine",
+            "Racial Groups"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA. nick.tatonetti@columbia.edu."
+            },
+            {
+                "First Name": "Noémie",
+                "Last Name": "Elhadad",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA. noemie.elhadad@columbia.edu."
+            }
+        ],
+        "Journal": "Nature medicine",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34086863",
+        "Title": "E-Pedigrees: a large-scale automatic family pedigree prediction application.",
+        "Abstract": "The use and functionality of Electronic Health Records (EHR) have increased rapidly in the past few decades. EHRs are becoming an important depository of patient health information and can capture family data. Pedigree analysis is a longstanding and powerful approach that can gain insight into the underlying genetic and environmental factors in human health, but traditional approaches to identifying and recruiting families are low-throughput and labor-intensive. Therefore, high-throughput methods to automatically construct family pedigrees are needed.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Pedigree",
+            "Software",
+            "Algorithms",
+            "Electronic Health Records"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xiayuan",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison, Madison, WI 53706, USA."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Katie",
+                "Last Name": "LaRow",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Brooke",
+                "Last Name": "Delgoffee",
+                "Affiliation": "Office of Research Computing and Analytics, Marshfield Clinic Research Foundation, Marshfield, WI 54449, USA."
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Mayer",
+                "Affiliation": "Office of Research Computing and Analytics, Marshfield Clinic Research Foundation, Marshfield, WI 54449, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Page",
+                "Affiliation": "Department of Biostatistics & Bioinformatics, Duke University, Durham, NC 27710, USA."
+            },
+            {
+                "First Name": "Scott J",
+                "Last Name": "Hebbring",
+                "Affiliation": "Center for Precision Medicine Research, Marshfield Clinic Research Foundation, Marshfield, WI 54449, USA."
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33372632",
+        "Title": "Comparative analysis, applications, and interpretation of electronic health record-based stroke phenotyping methods.",
+        "Abstract": "Accurate identification of acute ischemic stroke (AIS) patient cohorts is essential for a wide range of clinical investigations. Automated phenotyping methods that leverage electronic health records (EHRs) represent a fundamentally new approach cohort identification without current laborious and ungeneralizable generation of phenotyping algorithms. We systematically compared and evaluated the ability of machine learning algorithms and case-control combinations to phenotype acute ischemic stroke patients using data from an EHR.",
+        "Keywords": [
+            "Acute ischemic stroke",
+            "Electronic health record studies",
+            "Machine learning",
+            "Phenotyping algorithms"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Phyllis M",
+                "Last Name": "Thangaraj",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, 622 W 168th St., PH-20, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Benjamin R",
+                "Last Name": "Kummer",
+                "Affiliation": "Department of Neurology, Icahn School of Medicine at Mt. Sinai, New York, NY, USA."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Lorberbaum",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, 622 W 168th St., PH-20, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Mitchell S V",
+                "Last Name": "Elkind",
+                "Affiliation": "Department of Neurology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, 622 W 168th St., PH-20, New York, NY, 10032, USA. nick.tatonetti@columbia.edu."
+            }
+        ],
+        "Journal": "BioData mining",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33332641",
+        "Title": "No population left behind: Improving paediatric drug safety using informatics and systems biology.",
+        "Abstract": "Adverse drugs effects (ADEs) in children are common and may result in disability and death. The current paediatric drug safety landscape, including clinical trials, is limited as it rarely includes children and relies on extrapolation from adults. Children are not small adults but go through an evolutionarily conserved and physiologically dynamic process of growth and maturation. Novel quantitative approaches, integrating observations from clinical trials and drug safety databases with dynamic mechanisms, can be used to systematically identify ADEs unique to childhood. In this perspective, we discuss three critical research directions using systems biology methodologies and novel informatics to improve paediatric drug safety, namely child versus adult drug safety profiles, age-dependent drug toxicities and genetic susceptibility of ADEs across childhood. We argue that a data-driven framework that leverages observational data, biomedical knowledge and systems biology modelling will reveal previously unknown mechanisms of pediatric adverse drug events and lead to improved paediatric drug safety.",
+        "Keywords": [
+            "adverse drug reactions",
+            "informatics",
+            "padiatric drug safety",
+            "pharmacodynamics",
+            "pharmacovigilance",
+            "systems biology"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Adverse Drug Reaction Reporting Systems",
+            "Child",
+            "Databases, Factual",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Humans",
+            "Pharmacovigilance",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Giangreco",
+                "Affiliation": "Department of Biomedical Informatics and Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jonathan E",
+                "Last Name": "Elias",
+                "Affiliation": "Department of Pediatrics, Instructor in Pediatrics, Assistant Medical Director of Information Services, Weill Cornell Medical & NYP Weill Cornell Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics and Systems Biology, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "British journal of clinical pharmacology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "33270122",
+        "Title": "Association of Neighborhood Deprivation Index With Success in Cancer Care Crowdfunding.",
+        "Abstract": "Financial toxicity resulting from cancer care poses a substantial public health concern, leading some patients to turn to online crowdfunding. However, the practice may exacerbate existing socioeconomic cancer disparities by privileging those with access to interpersonal wealth and digital media literacy.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cross-Sectional Studies",
+            "Crowdsourcing",
+            "Financing, Personal",
+            "Health Care Costs",
+            "Healthcare Financing",
+            "Humans",
+            "Neoplasms",
+            "Residence Characteristics",
+            "Socioeconomic Factors",
+            "Surveys and Questionnaires",
+            "United States"
+        ],
+        "Authors": [
+            {
+                "First Name": "Elisabeth R",
+                "Last Name": "Silver",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Han Q",
+                "Last Name": "Truong",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Sassan",
+                "Last Name": "Ostvar",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Chin",
+                "Last Name": "Hur",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, New York."
+            }
+        ],
+        "Journal": "JAMA network open",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33196504",
+        "Title": "Identifying Symptom Information in Clinical Notes Using Natural Language Processing.",
+        "Abstract": "Symptoms are a core concept of nursing interest. Large-scale secondary data reuse of notes in electronic health records (EHRs) has the potential to increase the quantity and quality of symptom research. However, the symptom language used in clinical notes is complex. A need exists for methods designed specifically to identify and study symptom information from EHR notes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Constipation",
+            "Depression",
+            "Electronic Health Records",
+            "Fatigue",
+            "Humans",
+            "Natural Language Processing",
+            "Pattern Recognition, Automated",
+            "Sleep Wake Disorders",
+            "Symptom Assessment",
+            "Tachycardia",
+            "Vocabulary, Controlled"
+        ],
+        "Authors": [
+            {
+                "First Name": "Theresa A",
+                "Last Name": "Koleck",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Suzanne",
+                "Last Name": "Bakken",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shazia",
+                "Last Name": "Mitha",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Morgan M",
+                "Last Name": "Henderson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maureen",
+                "Last Name": "George",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christine",
+                "Last Name": "Miaskowski",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arlene",
+                "Last Name": "Smaldone",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maxim",
+                "Last Name": "Topaz",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nursing research",
+        "PubDate": null
+    },
+    {
+        "PMID": "33188185",
+        "Title": "Associations between blood type and COVID-19 infection, intubation, and death.",
+        "Abstract": "The rapid global spread of the novel coronavirus SARS-CoV-2 has strained healthcare and testing resources, making the identification and prioritization of individuals most at-risk a critical challenge. Recent evidence suggests blood type may affect risk of severe COVID-19. Here, we use observational healthcare data on 14,112 individuals tested for SARS-CoV-2 with known blood type in the New York Presbyterian (NYP) hospital system to assess the association between ABO and Rh blood types and infection, intubation, and death. We find slightly increased infection prevalence among non-O types. Risk of intubation was decreased among A and increased among AB and B types, compared with type O, while risk of death was increased for type AB and decreased for types A and B. We estimate Rh-negative blood type to have a protective effect for all three outcomes. Our results add to the growing body of evidence suggesting blood type may play a role in COVID-19.",
+        "Keywords": [],
+        "MeSH terms": [
+            "ABO Blood-Group System",
+            "Adult",
+            "Betacoronavirus",
+            "COVID-19",
+            "COVID-19 Testing",
+            "Clinical Laboratory Techniques",
+            "Coronavirus Infections",
+            "Humans",
+            "Intubation, Intratracheal",
+            "Pandemics",
+            "Pneumonia, Viral",
+            "Prevalence",
+            "Rh-Hr Blood-Group System",
+            "Risk Factors",
+            "SARS-CoV-2",
+            "Survival Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael",
+                "Last Name": "Zietz",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jason",
+                "Last Name": "Zucker",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA. nick.tatonetti@columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33179017",
+        "Title": "Using Machine Learning to Identify Adverse Drug Effects Posing Increased Risk to Women.",
+        "Abstract": "Adverse drug reactions are the fourth leading cause of death in the US. Although women take longer to metabolize medications and experience twice the risk of developing adverse reactions compared with men, these sex differences are not comprehensively understood. Real-world clinical data provide an opportunity to estimate safety effects in otherwise understudied populations, i.e., women. These data, however, are subject to confounding biases and correlated covariates. We present AwareDX, a pharmacovigilance algorithm that leverages advances in machine learning to predict sex risks. Our algorithm mitigates these biases and quantifies the differential risk of a drug causing an adverse event in either men or women. AwareDX demonstrates high precision during validation against clinical literature and pharmacogenetic mechanisms. We present a resource of 20,817 adverse drug effects posing sex-specific risks. AwareDX, and this resource, present an opportunity to minimize adverse events by tailoring drug prescription and dosage to sex.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Payal",
+                "Last Name": "Chandak",
+                "Affiliation": "Department of Computer Science, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10027, USA."
+            }
+        ],
+        "Journal": "Patterns (New York, N.Y.)",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "33083812",
+        "Title": "Melatonin is significantly associated with survival of intubated COVID-19 patients.",
+        "Abstract": "",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Vijendra",
+                "Last Name": "Ramlall",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jason",
+                "Last Name": "Zucker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Tatonetti",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32511586",
+        "Title": "Testing the association between blood type and COVID-19 infection, intubation, and death.",
+        "Abstract": "The rapid global spread of the novel coronavirus SARS-CoV-2 has strained healthcare and testing resources, making the identification and prioritization of individuals most at-risk a critical challenge. Recent evidence suggests blood type may affect risk of severe COVID-19. We used observational healthcare data on 14,112 individuals tested for SARS-CoV-2 with known blood type in the New York Presbyterian (NYP) hospital system to assess the association between ABO and Rh blood types and infection, intubation, and death. We found slightly increased infection prevalence among non-O types. Risk of intubation was decreased among A and increased among AB and B types, compared with type O, while risk of death was increased for type AB and decreased for types A and B. We estimated Rh-negative blood type to have a protective effect for all three outcomes. Our results add to the growing body of evidence suggesting blood type may play a role in COVID-19.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Michael",
+                "Last Name": "Zietz",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center."
+            },
+            {
+                "First Name": "Jason",
+                "Last Name": "Zucker",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center."
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31499184",
+        "Title": "Pathway analysis of genomic pathology tests for prognostic cancer subtyping.",
+        "Abstract": "Genomic test results collected during the provision of medical care and stored in Electronic Health Record (EHR) systems represent an opportunity for clinical research into disease heterogeneity and clinical outcomes. In this paper, we evaluate the use of genomic test reports ordered for cancer patients in order to derive cancer subtypes and to identify biological pathways predictive of poor survival outcomes. A novel method is proposed to calculate patient similarity based on affected biological pathways rather than gene mutations. We demonstrate that this approach identifies subtypes of prognostic value and biological pathways linked to survival, with implications for precision treatment selection and a better understanding of the underlying disease. We also share lessons learned regarding the opportunities and challenges of secondary use of observational genomic data to conduct such research.",
+        "Keywords": [
+            "Computational cancer subtyping",
+            "Deep phenotyping",
+            "Pathway analysis",
+            "Secondary use of genomic data",
+            "Survival analysis"
+        ],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Algorithms",
+            "Cluster Analysis",
+            "Computer Systems",
+            "Databases, Factual",
+            "Electronic Health Records",
+            "Female",
+            "Genetic Variation",
+            "Genome, Human",
+            "Genomics",
+            "Humans",
+            "Male",
+            "Medical Informatics",
+            "Mutation",
+            "Neoplasms",
+            "Precision Medicine",
+            "Prognosis",
+            "Retrospective Studies",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Olga",
+                "Last Name": "Lyudovyk",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Yufeng",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Susan J",
+                "Last Name": "Hsiao",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Mahesh M",
+                "Last Name": "Mansukhani",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA. Electronic address: chunhua@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31383376",
+        "Title": "Artificial Intelligence for Drug Toxicity and Safety.",
+        "Abstract": "Interventional pharmacology is one of medicine's most potent weapons against disease. These drugs, however, can result in damaging side effects and must be closely monitored. Pharmacovigilance is the field of science that monitors, detects, and prevents adverse drug reactions (ADRs). Safety efforts begin during the development process, using in vivo and in vitro studies, continue through clinical trials, and extend to postmarketing surveillance of ADRs in real-world populations. Future toxicity and safety challenges, including increased polypharmacy and patient diversity, stress the limits of these traditional tools. Massive amounts of newly available data present an opportunity for using artificial intelligence (AI) and machine learning to improve drug safety science. Here, we explore recent advances as applied to preclinical drug safety and postmarketing surveillance with a specific focus on machine and deep learning (DL) approaches.",
+        "Keywords": [
+            "adverse drug reactions",
+            "deep learning",
+            "machine learning",
+            "pharmacovigilance"
+        ],
+        "MeSH terms": [
+            "Adverse Drug Reaction Reporting Systems",
+            "Animals",
+            "Artificial Intelligence",
+            "Drug Evaluation, Preclinical",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Humans",
+            "Machine Learning",
+            "Pharmacovigilance",
+            "Product Surveillance, Postmarketing",
+            "Quantitative Structure-Activity Relationship",
+            "Toxicity Tests"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anna O",
+                "Last Name": "Basile",
+                "Affiliation": "Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Alexandre",
+                "Last Name": "Yahi",
+                "Affiliation": "Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Columbia University Medical Center, New York, NY, USA. Electronic address: nick.tatonetti@columbia.edu."
+            }
+        ],
+        "Journal": "Trends in pharmacological sciences",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31114606",
+        "Title": "Informatics and Computational Methods in Natural Product Drug Discovery: A Review and Perspectives.",
+        "Abstract": "The discovery of new pharmaceutical drugs is one of the preeminent tasks-scientifically, economically, and socially-in biomedical research. Advances in informatics and computational biology have increased productivity at many stages of the drug discovery pipeline. Nevertheless, drug discovery has slowed, largely due to the reliance on small molecules as the primary source of novel hypotheses. Natural products (such as plant metabolites, animal toxins, and immunological components) comprise a vast and diverse source of bioactive compounds, some of which are supported by thousands of years of traditional medicine, and are largely disjoint from the set of small molecules used commonly for discovery. However, natural products possess unique characteristics that distinguish them from traditional small molecule drug candidates, requiring new methods and approaches for assessing their therapeutic potential. In this review, we investigate a number of state-of-the-art techniques in bioinformatics, cheminformatics, and knowledge engineering for data-driven drug discovery from natural products. We focus on methods that aim to bridge the gap between traditional small-molecule drug candidates and different classes of natural products. We also explore the current informatics knowledge gaps and other barriers that need to be overcome to fully leverage these compounds for drug discovery. Finally, we conclude with a \"road map\" of research priorities that seeks to realize this goal.",
+        "Keywords": [
+            "bioinformatics",
+            "cheminformatics",
+            "drug discovery",
+            "methods",
+            "natural products",
+            "ontologies",
+            "translation"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Romano",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            }
+        ],
+        "Journal": "Frontiers in genetics",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30928453",
+        "Title": "No Increased Risk of Colorectal Adenomas in Spouses of Patients with Colorectal Neoplasia.",
+        "Abstract": "Although genetic factors such as family history have been associated with increased risk of developing colorectal cancer (CRC), multiple lifestyle and environmental risk factors for CRC have been identified, including smoking, diet, obesity, and physical activity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adenoma",
+            "Colonoscopy",
+            "Colorectal Neoplasms",
+            "Humans",
+            "Risk Factors",
+            "Spouses"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anna",
+                "Last Name": "Krigel",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, New York. Electronic address: aek2155@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Division of Biomedical Informatics, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Alfred I",
+                "Last Name": "Neugut",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York; Department of Epidemiology, Mailman School of Public Health, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Benjamin",
+                "Last Name": "Lebwohl",
+                "Affiliation": "Division of Digestive and Liver Diseases, Department of Medicine, Columbia University Medical Center, New York, New York; Department of Epidemiology, Mailman School of Public Health, Columbia University, New York, New York."
+            }
+        ],
+        "Journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "30785711",
+        "Title": "Attention Deficit-Hyperactivity Disorder and Month of School Enrollment.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Attention Deficit Disorder with Hyperactivity",
+            "Humans",
+            "Students"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mary-Regina",
+                "Last Name": "Boland",
+                "Affiliation": "Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA bolandm@upenn.edu"
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Columbia University Medical Center, New York, NY"
+            }
+        ],
+        "Journal": "The New England journal of medicine",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30046167",
+        "Title": "Pathogen population structure can explain hospital outbreaks.",
+        "Abstract": "Hospitalized patients are at risk for increased length of stay, illness, or death due to hospital acquired infections. The majority of hospital transmission models describe dynamics on the level of the host rather than on the level of the pathogens themselves. Accordingly, epidemiologists often cannot complete transmission chains without direct evidence of either host-host contact or a large reservoir population. Here, we propose an ecology-based model to explain the transmission of pathogens in hospitals. The model is based upon metapopulation biology, which describes a group of interacting localized populations and island biogeography, which provides a basis for how pathogens may be moving between locales. Computational simulation trials are used to assess the applicability of the model. Results indicate that pathogens survive for extended periods without the need for large reservoirs by living in localized ephemeral populations while continuously transmitting pathogens to new seed populations. Computational simulations show small populations spending significant portions of time at sizes too small to be detected by most surveillance protocols and that the number and type of these ephemeral populations enable the overall pathogen population to be sustained. By modeling hospital pathogens as a metapopulation, many observations characteristic of hospital acquired infection outbreaks for which there has previously been no sufficient biological explanation, including how and why empirically successful interventions work, can now be accounted for using population dynamic hypotheses. Epidemiological links between temporally isolated outbreaks are explained via pathogen population dynamics and potential outbreak intervention targets are identified.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Computer Simulation",
+            "Cross Infection",
+            "Disease Outbreaks",
+            "Hospitals",
+            "Humans",
+            "Models, Theoretical",
+            "Monte Carlo Method",
+            "Population Dynamics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Fabrizio",
+                "Last Name": "Spagnolo",
+                "Affiliation": "Ecology, Evolution and Environmental Biology Department, Columbia University, New York, NY, 10027, USA. fs2599@columbia.edu."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Cristofari",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Lev R",
+                "Last Name": "Ginzburg",
+                "Affiliation": "Applied Biomathematics, Setauket, NY, 11733, USA."
+            },
+            {
+                "First Name": "Daniel E",
+                "Last Name": "Dykhuizen",
+                "Affiliation": "Department of Ecology and Evolution, Stony Brook University, Stony Brook, NY, 11794, USA."
+            }
+        ],
+        "Journal": "The ISME journal",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29920991",
+        "Title": "Tissue-Specific Analysis of Pharmacological Pathways.",
+        "Abstract": "Understanding the downstream consequences of pharmacologically targeted proteins is essential to drug design. Current approaches investigate molecular effects under tissue-naïve assumptions. Many target proteins, however, have tissue-specific expression. A systematic study connecting drugs to target pathways in in vivo human tissues is needed. We introduced a data-driven method that integrates drug-target relationships with gene expression, protein-protein interaction, and pathway annotation data. We applied our method to four independent genomewide expression datasets and built 467,396 connections between 1,034 drugs and 954 pathways in 259 human tissues or cell lines. We validated our results using data from L1000 and Pharmacogenomics Knowledgebase (PharmGKB), and observed high precision and recall. We predicted and tested anticoagulant effects of 22 compounds experimentally that were previously unknown, and used clinical data to validate these effects retrospectively. Our systematic study provides a better understanding of the cellular response to drugs and can be applied to many research topics in systems pharmacology.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Anticoagulants",
+            "Cell Line",
+            "Datasets as Topic",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Gene Expression",
+            "Humans",
+            "Knowledge Bases",
+            "Pharmacogenetics",
+            "Protein Binding",
+            "Reproducibility of Results",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yun",
+                "Last Name": "Hao",
+                "Affiliation": "Departments of Biomedical Informatics, Systems Biology, and Medicine, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Kayla",
+                "Last Name": "Quinnies",
+                "Affiliation": "Departments of Biomedical Informatics, Systems Biology, and Medicine, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Ronald",
+                "Last Name": "Realubit",
+                "Affiliation": "Columbia Genome Center, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Charles",
+                "Last Name": "Karan",
+                "Affiliation": "Columbia Genome Center, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Departments of Biomedical Informatics, Systems Biology, and Medicine, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "CPT: pharmacometrics & systems pharmacology",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29779949",
+        "Title": "Disease Heritability Inferred from Familial Relationships Reported in Medical Records.",
+        "Abstract": "Heritability is essential for understanding the biological causes of disease but requires laborious patient recruitment and phenotype ascertainment. Electronic health records (EHRs) passively capture a wide range of clinically relevant data and provide a resource for studying the heritability of traits that are not typically accessible. EHRs contain next-of-kin information collected via patient emergency contact forms, but until now, these data have gone unused in research. We mined emergency contact data at three academic medical centers and identified 7.4 million familial relationships while maintaining patient privacy. Identified relationships were consistent with genetically derived relatedness. We used EHR data to compute heritability estimates for 500 disease phenotypes. Overall, estimates were consistent with the literature and between sites. Inconsistencies were indicative of limitations and opportunities unique to EHR research. These analyses provide a validation of the use of EHRs for genetics and disease research.",
+        "Keywords": [
+            "data mining",
+            "disease heritability",
+            "electronic health record",
+            "familial relationships",
+            "family history",
+            "genetics",
+            "observational databases"
+        ],
+        "MeSH terms": [
+            "Algorithms",
+            "Databases, Factual",
+            "Electronic Health Records",
+            "Family Relations",
+            "Genetic Diseases, Inborn",
+            "Genotype",
+            "Humans",
+            "Pedigree",
+            "Phenotype",
+            "Quantitative Trait, Heritable"
+        ],
+        "Authors": [
+            {
+                "First Name": "Fernanda C G",
+                "Last Name": "Polubriaginof",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Rami",
+                "Last Name": "Vanguri",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Kayla",
+                "Last Name": "Quinnies",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA; Institute for Genomic Medicine, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Gillian M",
+                "Last Name": "Belbin",
+                "Affiliation": "Department of Genetics and Genomic Sciences, Mount Sinai Health System, New York, NY, USA."
+            },
+            {
+                "First Name": "Alexandre",
+                "Last Name": "Yahi",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Hojjat",
+                "Last Name": "Salmasian",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA; Value Institute, NewYork-Presbyterian Hospital, New York, NY, USA."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Lorberbaum",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA; Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Victor",
+                "Last Name": "Nwankwo",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Li",
+                "Last Name": "Li",
+                "Affiliation": "Department of Genetics and Genomic Sciences, Mount Sinai Health System, New York, NY, USA."
+            },
+            {
+                "First Name": "Mark M",
+                "Last Name": "Shervey",
+                "Affiliation": "Department of Genetics and Genomic Sciences, Mount Sinai Health System, New York, NY, USA."
+            },
+            {
+                "First Name": "Patricia",
+                "Last Name": "Glowe",
+                "Affiliation": "Department of Genetics and Genomic Sciences, Mount Sinai Health System, New York, NY, USA."
+            },
+            {
+                "First Name": "Iuliana",
+                "Last Name": "Ionita-Laza",
+                "Affiliation": "Mailman School of Public Health, Columbia University, New York, NY, USA; Department of Biostatistics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Mary",
+                "Last Name": "Simmerling",
+                "Affiliation": "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA; Quality and Patient Safety, NewYork-Presbyterian Hospital, New York, NY, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA; Medical Informatics Services, NewYork-Presbyterian Hospital, New York, NY; Observational Health Data Sciences and Informatics (OHDSI), New York, NY, USA."
+            },
+            {
+                "First Name": "Suzanne",
+                "Last Name": "Bakken",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA; School of Nursing, Columbia University, New York, NY, USA; Data Science Institute, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Goldstein",
+                "Affiliation": "Institute for Genomic Medicine, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Krzysztof",
+                "Last Name": "Kiryluk",
+                "Affiliation": "Department of Medicine, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Eimear E",
+                "Last Name": "Kenny",
+                "Affiliation": "Department of Genetics and Genomic Sciences, Mount Sinai Health System, New York, NY, USA."
+            },
+            {
+                "First Name": "Joel",
+                "Last Name": "Dudley",
+                "Affiliation": "Department of Genetics and Genomic Sciences, Mount Sinai Health System, New York, NY, USA."
+            },
+            {
+                "First Name": "David K",
+                "Last Name": "Vawdrey",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA; Value Institute, NewYork-Presbyterian Hospital, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA; Institute for Genomic Medicine, Columbia University, New York, NY, USA; Observational Health Data Sciences and Informatics (OHDSI), New York, NY, USA; Department of Medicine, Columbia University, New York, NY, USA; Department of Systems Biology, Columbia University, New York, NY, USA; Data Science Institute, Columbia University, New York, NY, USA. Electronic address: nick.tatonetti@columbia.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29313964",
+        "Title": "The Next Generation of Drug Safety Science: Coupling Detection, Corroboration, and Validation to Discover Novel Drug Effects and Drug-Drug Interactions.",
+        "Abstract": "Rare adverse drug reactions and drug-drug interactions (DDIs) are difficult to detect in randomized trials and impossible to prove using observational studies. We must ascribe to a new way of conducting research that has the efficiency of a retrospective analysis and the rigor of a prospective trial. This can be achieved by integrating observational data from humans with laboratory experiments in model systems. The former establishes clinical significance and the latter supports causality.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Data Mining",
+            "Databases, Factual",
+            "Drug Development",
+            "Drug Discovery",
+            "Drug Interactions",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Evidence-Based Medicine",
+            "Humans",
+            "Learning",
+            "Models, Animal",
+            "Models, Theoretical",
+            "Patient Safety",
+            "Pharmacovigilance",
+            "Reproducibility of Results",
+            "Risk Assessment",
+            "Translational Research, Biomedical"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Clinical pharmacology and therapeutics",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29040418",
+        "Title": "Translational medicine in the Age of Big Data.",
+        "Abstract": "The ability to collect, store and analyze massive amounts of molecular and clinical data is fundamentally transforming the scientific method and its application in translational medicine. Collecting observations has always been a prerequisite for discovery, and great leaps in scientific understanding are accompanied by an expansion of this ability. Particle physics, astronomy and climate science, for example, have all greatly benefited from the development of new technologies enabling the collection of larger and more diverse data. Unlike medicine, however, each of these fields also has a mature theoretical framework on which new data can be evaluated and incorporated-to say it another way, there are no 'first principals' from which a healthy human could be analytically derived. The worry, and it is a valid concern, is that, without a strong theoretical underpinning, the inundation of data will cause medical research to devolve into a haphazard enterprise without discipline or rigor. The Age of Big Data harbors tremendous opportunity for biomedical advances, but will also be treacherous and demanding on future scientists.",
+        "Keywords": [
+            "Big Data",
+            "biomedical informatics",
+            "data mining",
+            "observational analysis",
+            "translational bioinformatics",
+            "translational medicine"
+        ],
+        "MeSH terms": [
+            "Computational Biology",
+            "Data Mining",
+            "Databases, Factual",
+            "Humans",
+            "Information Storage and Retrieval",
+            "Medical Informatics",
+            "Precision Medicine",
+            "Translational Research, Biomedical"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Departments of Biomedical Informatics, Systems Biology, and Medicine, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Briefings in bioinformatics",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "29036387",
+        "Title": "Uncovering exposures responsible for birth season - disease effects: a global study.",
+        "Abstract": "Birth month and climate impact lifetime disease risk, while the underlying exposures remain largely elusive. We seek to uncover distal risk factors underlying these relationships by probing the relationship between global exposure variance and disease risk variance by birth season.",
+        "Keywords": [
+            "attention deficit hyperactivity disorder",
+            "electronic health records",
+            "environmental exposure",
+            "pregnancy",
+            "seasons"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Mary Regina",
+                "Last Name": "Boland",
+                "Affiliation": "Department of Biostatistics, Epidemiology and Informatics, University of Pennsylvania, Philadelphia, PA, USA."
+            },
+            {
+                "First Name": "Pradipta",
+                "Last Name": "Parhi",
+                "Affiliation": "Department of Earth and Environmental Engineering, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Li",
+                "Last Name": "Li",
+                "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+            },
+            {
+                "First Name": "Riccardo",
+                "Last Name": "Miotto",
+                "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Carroll",
+                "Affiliation": "Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN, USA."
+            },
+            {
+                "First Name": "Usman",
+                "Last Name": "Iqbal",
+                "Affiliation": "Observational Health Data Sciences and Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Phung-Anh Alex",
+                "Last Name": "Nguyen",
+                "Affiliation": "Observational Health Data Sciences and Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Martijn",
+                "Last Name": "Schuemie",
+                "Affiliation": "Observational Health Data Sciences and Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Seng Chan",
+                "Last Name": "You",
+                "Affiliation": "Observational Health Data Sciences and Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Donahue",
+                "Last Name": "Smith",
+                "Affiliation": "Department of Biomedical Informatics, University of Washington, Seattle, Washington, USA."
+            },
+            {
+                "First Name": "Sean",
+                "Last Name": "Mooney",
+                "Affiliation": "Department of Biomedical Informatics, University of Washington, Seattle, Washington, USA."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Ryan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Yu-Chuan Jack",
+                "Last Name": "Li",
+                "Affiliation": "Observational Health Data Sciences and Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Rae Woong",
+                "Last Name": "Park",
+                "Affiliation": "Observational Health Data Sciences and Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Josh",
+                "Last Name": "Denny",
+                "Affiliation": "Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN, USA."
+            },
+            {
+                "First Name": "Joel T",
+                "Last Name": "Dudley",
+                "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Gentine",
+                "Affiliation": "Department of Earth and Environmental Engineering, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28993650",
+        "Title": "Development of A Machine Learning Algorithm to Classify Drugs Of Unknown Fetal Effect.",
+        "Abstract": "Many drugs commonly prescribed during pregnancy lack a fetal safety recommendation - called FDA 'category C' drugs. This study aims to classify these drugs into harmful and safe categories using knowledge gained from chemoinformatics (i.e., pharmacological similarity with drugs of known fetal effect) and empirical data (i.e., derived from Electronic Health Records). Our fetal loss cohort contains 14,922 affected and 33,043 unaffected pregnancies and our congenital anomalies cohort contains 5,658 affected and 31,240 unaffected infants. We trained a random forest to classify drugs of unknown pregnancy class into harmful or safe categories, focusing on two distinct outcomes: fetal loss and congenital anomalies. Our models achieved an out-of-bag accuracy of 91% for fetal loss and 87% for congenital anomalies outperforming null models. Fifty-seven 'category C' medications were classified as harmful for fetal loss and eleven for congenital anomalies. This includes medications with documented harmful effects, including naproxen, ibuprofen and rubella live vaccine. We also identified several novel drugs, e.g., haloperidol, that increased the risk of fetal loss. Our approach provides important information on the harmfulness of 'category C' drugs. This is needed, as no FDA recommendation exists for these drugs' fetal safety.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Algorithms",
+            "Databases as Topic",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Embryo Loss",
+            "Female",
+            "Fetus",
+            "Humans",
+            "Infant",
+            "Machine Learning",
+            "Models, Theoretical",
+            "United States",
+            "United States Food and Drug Administration"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mary Regina",
+                "Last Name": "Boland",
+                "Affiliation": "Department of Biostatistics, Epidemiology and Informatics, University of Pennsylvania, Philadelphia, USA. bolandm@upenn.edu."
+            },
+            {
+                "First Name": "Fernanda",
+                "Last Name": "Polubriaginof",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, USA. nick.tatonetti@columbia.edu."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28914640",
+        "Title": "Machine learning: novel bioinformatics approaches for combating antimicrobial resistance.",
+        "Abstract": "Antimicrobial resistance (AMR) is a threat to global health and new approaches to combating AMR are needed. Use of machine learning in addressing AMR is in its infancy but has made promising steps. We reviewed the current literature on the use of machine learning for studying bacterial AMR.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Anti-Bacterial Agents",
+            "Bacterial Infections",
+            "Computational Biology",
+            "Drug Resistance, Bacterial",
+            "Humans",
+            "Machine Learning",
+            "Microbial Sensitivity Tests"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nenad",
+                "Last Name": "Macesic",
+                "Affiliation": "aDivision of Infectious Diseases, Columbia University Medical Center bDepartment of Biomedical Informatics, Columbia University, New York City, New York, USA cDepartment of Infectious Diseases, Austin Health, Heidelberg, Victoria, Australia."
+            },
+            {
+                "First Name": "Fernanda",
+                "Last Name": "Polubriaginof",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current opinion in infectious diseases",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28823923",
+        "Title": "Procedure prediction from symbolic Electronic Health Records via time intervals analytics.",
+        "Abstract": "Prediction of medical events, such as clinical procedures, is essential for preventing disease, understanding disease mechanism, and increasing patient quality of care. Although longitudinal clinical data from Electronic Health Records provides opportunities to develop predictive models, the use of these data faces significant challenges. Primarily, while the data are longitudinal and represent thousands of conceptual events having duration, they are also sparse, complicating the application of traditional analysis approaches. Furthermore, the framework presented here takes advantage of the events duration and gaps. International standards for electronic healthcare data represent data elements, such as procedures, conditions, and drug exposures, using eras, or time intervals. Such eras contain both an event and a duration and enable the application of time intervals mining - a relatively new subfield of data mining. In this study, we present Maitreya, a framework for time intervals analytics in longitudinal clinical data. Maitreya discovers frequent time intervals related patterns (TIRPs), which we use as prognostic markers for modelling clinical events. We introduce three novel TIRP metrics that are normalized versions of the horizontal-support, that represents the number of TIRP instances per patient. We evaluate Maitreya on 28 frequent and clinically important procedures, using the three novel TIRP representation metrics in comparison to no temporal representation and previous TIRPs metrics. We also evaluate the epsilon value that makes Allen's relations more flexible with several settings of 30, 60, 90 and 180days in comparison to the default zero. For twenty-two of these procedures, the use of temporal patterns as predictors was superior to non-temporal features, and the use of the vertically normalized horizontal support metric to represent TIRPs as features was most effective. The use of the epsilon value with thirty days was slightly better than the zero.",
+        "Keywords": [
+            "Electronic Health Records",
+            "Prediction",
+            "Temporal data mining",
+            "Time intervals mining"
+        ],
+        "MeSH terms": [
+            "Algorithms",
+            "Electronic Health Records",
+            "Humans",
+            "Time and Motion Studies"
+        ],
+        "Authors": [
+            {
+                "First Name": "Robert",
+                "Last Name": "Moskovitch",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, NY, USA; Department of Systems Biology, Columbia University, NY, USA; Department of Medicine, Columbia University, NY, USA; Observational Health Data Sciences and Informations (OHDSI), NY, USA; Department of Software and Information Systems Engineering, Ben Gurion Univeristy, Beer Sheva, Israel. Electronic address: robert.moskovitch@columbia.edu."
+            },
+            {
+                "First Name": "Fernanda",
+                "Last Name": "Polubriaginof",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, NY, USA; Department of Systems Biology, Columbia University, NY, USA; Department of Medicine, Columbia University, NY, USA; Observational Health Data Sciences and Informations (OHDSI), NY, USA."
+            },
+            {
+                "First Name": "Aviram",
+                "Last Name": "Weiss",
+                "Affiliation": "Department of Software and Information Systems Engineering, Ben Gurion Univeristy, Beer Sheva, Israel."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Ryan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, NY, USA."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, NY, USA; Department of Systems Biology, Columbia University, NY, USA; Department of Medicine, Columbia University, NY, USA; Observational Health Data Sciences and Informations (OHDSI), NY, USA. Electronic address: nick.tatonetti@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28694475",
+        "Title": "Climate Classification is an Important Factor in Assessing Quality-of-Care Across Hospitals.",
+        "Abstract": "Climate is a known modulator of disease, but its impact on hospital performance metrics remains unstudied. We assess the relationship between Köppen-Geiger climate classification and hospital performance metrics, specifically 30-day mortality, as reported in Hospital Compare, and collected for the period July 2013 through June 2014 (7/1/2013-06/30/2014). A hospital-level multivariate linear regression analysis was performed while controlling for known socioeconomic factors to explore the relationship between all-cause mortality and climate. Hospital performance scores were obtained from 4,524 hospitals belonging to 15 distinct Köppen-Geiger climates and 2,373 unique counties. Model results revealed that hospital performance metrics for mortality showed significant climate dependence (p < 0.001) after adjusting for socioeconomic factors. Climate is a significant factor in evaluating hospital 30-day mortality rates. These results demonstrate that climate classification is an important factor when comparing hospital performance across the United States.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Climate",
+            "Factor Analysis, Statistical",
+            "Geography",
+            "Hospital Mortality",
+            "Hospitals",
+            "Humans",
+            "Quality of Health Care",
+            "Reproducibility of Results",
+            "Socioeconomic Factors",
+            "United States"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mary Regina",
+                "Last Name": "Boland",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA. maryreginaboland@gmail.com."
+            },
+            {
+                "First Name": "Pradipta",
+                "Last Name": "Parhi",
+                "Affiliation": "Department of Earth and Environmental Engineering, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Gentine",
+                "Affiliation": "Department of Earth and Environmental Engineering, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA. nick.tatonetti@columbia.edu."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28385320",
+        "Title": "Reply: Combination Therapy With Ceftriaxone and Lansoprazole, Acquired Long QT Syndrome and Torsades de Pointes Risk.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Ceftriaxone",
+            "Electrocardiography",
+            "Humans",
+            "Lansoprazole",
+            "Long QT Syndrome",
+            "Torsades de Pointes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tal",
+                "Last Name": "Lorberbaum",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American College of Cardiology",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28103227",
+        "Title": "Ten Simple Rules to Enable Multi-site Collaborations through Data Sharing.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Cooperative Behavior",
+            "Guidelines as Topic",
+            "Humans",
+            "Information Dissemination"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mary Regina",
+                "Last Name": "Boland",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Konrad J",
+                "Last Name": "Karczewski",
+                "Affiliation": "Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, United States of America."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27896967",
+        "Title": "METHODS TO ENSURE THE REPRODUCIBILITY OF BIOMEDICAL RESEARCH.",
+        "Abstract": "Science is not done in a vacuum - across fields of biomedicine, scientists have built on previous research and used data published in previous papers. A mainstay of scientific inquiry is the publication of one's research and recognition for this work is given in the form of citations and notoriety - ideally given in proportion to the quality of the work. Academic incentives, however, may encourage individual researchers to prioritize career ambitions over scientific truth. Recently, the New England Journal of Medicine published a commentary calling scientists who repurpose data \"research parasites\" who misuse data generated by others to demonstrate alternative hypotheses. In our opinion, the concept of data hoarding not only runs contrary to the spirit of, but also hinders scientific progress. Scientific research is meant to seek objective truth, rather than promote a personal agenda, and the only way to do so is through maximum transparency and reproducibility, no matter who is using the data….",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Konrad J",
+                "Last Name": "Karczewski",
+                "Affiliation": "Massachusetts General Hospital, Boston, MA, USA2Broad Institute, Cambridge, MA, USA, konradjkarczewski@gmail.com."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arjun K",
+                "Last Name": "Manrai",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chirag J",
+                "Last Name": "Patel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "C",
+                "Last Name": "Titus Brown",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John P A",
+                "Last Name": "Ioannidis",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27737742",
+        "Title": "Coupling Data Mining and Laboratory Experiments to Discover Drug Interactions Causing QT Prolongation.",
+        "Abstract": "QT interval-prolonging drug-drug interactions (QT-DDIs) may increase the risk of life-threatening arrhythmia. Despite guidelines for testing from regulatory agencies, these interactions are usually discovered after drugs are marketed and may go undiscovered for years.",
+        "Keywords": [
+            "data mining",
+            "data science",
+            "drug-drug interaction",
+            "long QT syndrome"
+        ],
+        "MeSH terms": [
+            "Aged",
+            "Ceftriaxone",
+            "Cefuroxime",
+            "Data Mining",
+            "Drug Interactions",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Electronic Health Records",
+            "Electrophysiologic Techniques, Cardiac",
+            "Female",
+            "Humans",
+            "Lansoprazole",
+            "Long QT Syndrome",
+            "Male",
+            "Middle Aged",
+            "Patch-Clamp Techniques",
+            "Proton Pump Inhibitors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tal",
+                "Last Name": "Lorberbaum",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, New York; Department of Biomedical Informatics, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Kevin J",
+                "Last Name": "Sampson",
+                "Affiliation": "Department of Pharmacology, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Jeremy B",
+                "Last Name": "Chang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Vivek",
+                "Last Name": "Iyer",
+                "Affiliation": "Department of Cardiology, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Raymond L",
+                "Last Name": "Woosley",
+                "Affiliation": "Azcert, Inc., Oro Valley, Arizona."
+            },
+            {
+                "First Name": "Robert S",
+                "Last Name": "Kass",
+                "Affiliation": "Department of Pharmacology, Columbia University, New York, New York."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York. Electronic address: nick.tatonetti@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of the American College of Cardiology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27570672",
+        "Title": "Using a Novel Ontology to Inform the Discovery of Therapeutic Peptides from Animal Venoms.",
+        "Abstract": "Venoms and venom-derived compounds constitute a rich and largely unexplored source of potentially therapeutic compounds. To facilitate biomedical research, it is necessary to design a robust informatics infrastructure that will allow semantic computation of venom concepts in a standardized, consistent manner. We have designed an ontology of venom-related concepts - named Venom Ontology - that reuses an existing public data source: UniProt's Tox-Prot database. In addition to describing the ontology and its construction, we have performed three separate case studies demonstrating its utility: (1) An exploration of venom peptide similarity networks within specific genera; (2) A broad overview of the distribution of available data among common taxonomic groups spanning the known tree of life; and (3) An analysis of the distribution of venom complexity across those same taxonomic groups. Venom Ontology is publicly available on BioPortal at http://bioportal.bioontology.org/ontologies/CU-VO.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Romano",
+                "Affiliation": "Departments of Biomedical Informatics, Systems Biology, and Medicine, Columbia University Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Departments of Biomedical Informatics, Systems Biology, and Medicine, Columbia University Medical Center, New York, NY."
+            }
+        ],
+        "Journal": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27570668",
+        "Title": "In Search of 'Birth Month Genes': Using Existing Data Repositories to Locate Genes Underlying Birth Month-Disease Relationships.",
+        "Abstract": "Prenatal and perinatal exposures vary seasonally (e.g., sunlight, allergens) and many diseases are linked with variance in exposure. Epidemiologists often measure these changes using birth month as a proxy for seasonal variance. Likewise, Genome-Wide Association Studies have associated or implicated these same diseases with many genes. Both disparate data types (epidemiological and genetic) can provide key insights into the underlying disease biology. We developed an algorithm that links 1) epidemiological data from birth month studies with 2) genetic data from published gene-disease association studies. Our framework uses existing data repositories - PubMed, DisGeNET and Gene Ontology - to produce a bipartite network that connects enriched seasonally varying biofactorss with birth month dependent diseases (BMDDs) through their overlapping developmental gene sets. As a proof-of-concept, we investigate 7 known BMDDs and highlight three important biological networks revealed by our algorithm and explore some interesting genetic mechanisms potentially responsible for the seasonal contribution to BMDDs.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Mary Regina",
+                "Last Name": "Boland",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University; Department of Medicine, Columbia University; Department of Systems Biology, Columbia University; Observational Health Data Sciences and Informatics, Columbia University."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University; Department of Medicine, Columbia University; Department of Systems Biology, Columbia University; Observational Health Data Sciences and Informatics, Columbia University."
+            }
+        ],
+        "Journal": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27485444",
+        "Title": "Predicting G protein-coupled receptor downstream signaling by tissue expression.",
+        "Abstract": "G protein-coupled receptors (GPCRs) are central to how cells respond to their environment and a major class of pharmacological targets. However, comprehensive knowledge of which pathways are activated and deactivated by these essential sensors is largely unknown. To better understand the mechanism of GPCR signaling system, we integrated five independent genome-wide expression datasets, representing 275 human tissues and cell lines, with protein-protein interactions and functional pathway data.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Datasets as Topic",
+            "Gene Expression",
+            "Humans",
+            "Organ Specificity",
+            "Receptors, G-Protein-Coupled",
+            "Signal Transduction",
+            "beta-Arrestins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yun",
+                "Last Name": "Hao",
+                "Affiliation": "Departments of Biomedical Informatics, Systems Biology, and Medicine, Columbia University, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Departments of Biomedical Informatics, Systems Biology, and Medicine, Columbia University, New York, NY, 10032, USA."
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27439480",
+        "Title": "A novel, rapid method to compare the therapeutic windows of oral anticoagulants using the Hill coefficient.",
+        "Abstract": "A central challenge in designing and administering effective anticoagulants is achieving the proper therapeutic window and dosage for each patient. The Hill coefficient, nH, which measures the steepness of a dose-response relationship, may be a useful gauge of this therapeutic window. We sought to measure the Hill coefficient of available anticoagulants to gain insight into their therapeutic windows. We used a simple fluorometric in vitro assay to determine clotting activity in platelet poor plasma after exposure to various concentrations of anticoagulants. The Hill coefficient for argatroban was the lowest, at 1.7 ± 0.2 (95% confidence interval, CI), and the Hill coefficient for fondaparinux was the highest, at 4.5 ± 1.3 (95% CI). Thus, doubling the dose of fondaparinux from its IC50 would decrease coagulation activity by nearly a half, whereas doubling the dose of argatroban from its IC50 would decrease coagulation activity by merely one quarter. These results show a significant variation among the Hill coefficients, suggesting a similar variation in therapeutic windows among anticoagulants in our assay.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Administration, Oral",
+            "Anticoagulants",
+            "Arginine",
+            "Blood Coagulation",
+            "Blood Platelets",
+            "Dose-Response Relationship, Drug",
+            "Fluorometry",
+            "Fondaparinux",
+            "Humans",
+            "Inhibitory Concentration 50",
+            "Pipecolic Acids",
+            "Plasma",
+            "Polysaccharides",
+            "Sulfonamides",
+            "Thrombin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jeremy B",
+                "Last Name": "Chang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Kayla M",
+                "Last Name": "Quinnies",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Ronald",
+                "Last Name": "Realubit",
+                "Affiliation": "Columbia Genome Center, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Charles",
+                "Last Name": "Karan",
+                "Affiliation": "Columbia Genome Center, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Jacob H",
+                "Last Name": "Rand",
+                "Affiliation": "Department of Pathology and Laboratory Medicine, New York Presbyterian Hospital, Weill Cornell Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, New York, USA."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27429447",
+        "Title": "Prognosis of Clinical Outcomes with Temporal Patterns and Experiences with One Class Feature Selection.",
+        "Abstract": "Accurate prognosis of outcome events, such as clinical procedures or disease diagnosis, is central in medicine. The emergence of longitudinal clinical data, like the Electronic Health Records (EHR), represents an opportunity to develop automated methods for predicting patient outcomes. However, these data are highly dimensional and very sparse, complicating the application of predictive modeling techniques. Further, their temporal nature is not fully exploited by current methods, and temporal abstraction was recently used which results in symbolic time intervals representation. We present Maitreya, a framework for the prediction of outcome events that leverages these symbolic time intervals. Using Maitreya, learn predictive models based on the temporal patterns in the clinical records that are prognostic markers and use these markers to train predictive models for eight clinical procedures. In order to decrease the number of patterns that are used as features, we propose the use of three one class feature selection methods. We evaluate the performance of Maitreya under several parameter settings, including the one-class feature selection, and compare our results to that of atemporal approaches. In general, we found that the use of temporal patterns outperformed the atemporal methods, when representing the number of pattern occurrences.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Data Mining",
+            "Electronic Health Records",
+            "Humans",
+            "Medical Informatics",
+            "Prognosis",
+            "Time Factors",
+            "Treatment Outcome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Robert",
+                "Last Name": "Moskovitch",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hyunmi",
+                "Last Name": "Choi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Tatonetti",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "IEEE/ACM transactions on computational biology and bioinformatics",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27016383",
+        "Title": "Improving condition severity classification with an efficient active learning based framework.",
+        "Abstract": "Classification of condition severity can be useful for discriminating among sets of conditions or phenotypes, for example when prioritizing patient care or for other healthcare purposes. Electronic Health Records (EHRs) represent a rich source of labeled information that can be harnessed for severity classification. The labeling of EHRs is expensive and in many cases requires employing professionals with high level of expertise. In this study, we demonstrate the use of Active Learning (AL) techniques to decrease expert labeling efforts. We employ three AL methods and demonstrate their ability to reduce labeling efforts while effectively discriminating condition severity. We incorporate three AL methods into a new framework based on the original CAESAR (Classification Approach for Extracting Severity Automatically from Electronic Health Records) framework to create the Active Learning Enhancement framework (CAESAR-ALE). We applied CAESAR-ALE to a dataset containing 516 conditions of varying severity levels that were manually labeled by seven experts. Our dataset, called the \"CAESAR dataset,\" was created from the medical records of 1.9 million patients treated at Columbia University Medical Center (CUMC). All three AL methods decreased labelers' efforts compared to the learning methods applied by the original CAESER framework in which the classifier was trained on the entire set of conditions; depending on the AL strategy used in the current study, the reduction ranged from 48% to 64% that can result in significant savings, both in time and money. As for the PPV (precision) measure, CAESAR-ALE achieved more than 13% absolute improvement in the predictive capabilities of the framework when classifying conditions as severe. These results demonstrate the potential of AL methods to decrease the labeling efforts of medical experts, while increasing accuracy given the same (or even a smaller) number of acquired conditions. We also demonstrated that the methods included in the CAESAR-ALE framework (Exploitation and Combination_XA) are more robust to the use of human labelers with different levels of professional expertise.",
+        "Keywords": [
+            "Active learning",
+            "Condition",
+            "Electronic Health Records",
+            "Phenotyping",
+            "Severity"
+        ],
+        "MeSH terms": [
+            "Algorithms",
+            "Automation",
+            "Data Curation",
+            "Electronic Health Records",
+            "Humans",
+            "Problem-Based Learning"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nir",
+                "Last Name": "Nissim",
+                "Affiliation": "Information Systems Engineering, Ben-Gurion University of the Negev, Beer-Sheva, Israel; Malware Lab, Cyber Security Research Center, Ben-Gurion University of the Negev, Beer-Sheva, Israel. Electronic address: nirni@post.bgu.ac.il."
+            },
+            {
+                "First Name": "Mary Regina",
+                "Last Name": "Boland",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA; Observational Health Data Sciences and Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA; Department of Systems Biology, Columbia University, New York, NY, USA; Department of Medicine, Columbia University, New York, NY, USA; Observational Health Data Sciences and Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Yuval",
+                "Last Name": "Elovici",
+                "Affiliation": "Information Systems Engineering, Ben-Gurion University of the Negev, Beer-Sheva, Israel."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA; Observational Health Data Sciences and Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Yuval",
+                "Last Name": "Shahar",
+                "Affiliation": "Information Systems Engineering, Ben-Gurion University of the Negev, Beer-Sheva, Israel."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Moskovitch",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA; Department of Systems Biology, Columbia University, New York, NY, USA; Department of Medicine, Columbia University, New York, NY, USA; Observational Health Data Sciences and Informatics, Columbia University, New York, NY, USA. Electronic address: robert.moskovitch@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26946292",
+        "Title": "A Pharmacovigilance Signaling System Based on FDA Regulatory Action and Post-Marketing Adverse Event Reports.",
+        "Abstract": "Many serious drug adverse events (AEs) only manifest well after regulatory approval. Therefore, the development of signaling methods to use with post-approval AE databases appears vital to comprehensively assess real-world drug safety. However, with millions of potential drug-AE pairs to analyze, the issue of focus is daunting.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adverse Drug Reaction Reporting Systems",
+            "Databases, Factual",
+            "Drug Approval",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Humans",
+            "Pharmacovigilance",
+            "Product Surveillance, Postmarketing",
+            "United States",
+            "United States Food and Drug Administration"
+        ],
+        "Authors": [
+            {
+                "First Name": "Keith B",
+                "Last Name": "Hoffman",
+                "Affiliation": "Advera Health Analytics, Inc., 3663 N. Laughlin Road, Suite 102, Santa Rosa, CA, 95403, USA. keith@adverahealth.com."
+            },
+            {
+                "First Name": "Mo",
+                "Last Name": "Dimbil",
+                "Affiliation": "Advera Health Analytics, Inc., 3663 N. Laughlin Road, Suite 102, Santa Rosa, CA, 95403, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, USA."
+            },
+            {
+                "First Name": "Robert F",
+                "Last Name": "Kyle",
+                "Affiliation": "Advera Health Analytics, Inc., 3663 N. Laughlin Road, Suite 102, Santa Rosa, CA, 95403, USA."
+            }
+        ],
+        "Journal": "Drug safety",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26860921",
+        "Title": "An Integrative Data Science Pipeline to Identify Novel Drug Interactions that Prolong the QT Interval.",
+        "Abstract": "Drug-induced prolongation of the QT interval on the electrocardiogram (long QT syndrome, LQTS) can lead to a potentially fatal ventricular arrhythmia known as torsades de pointes (TdP). Over 40 drugs with both cardiac and non-cardiac indications are associated with increased risk of TdP, but drug-drug interactions contributing to LQTS (QT-DDIs) remain poorly characterized. Traditional methods for mining observational healthcare data are poorly equipped to detect QT-DDI signals due to low reporting numbers and lack of direct evidence for LQTS.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Data Mining",
+            "Drug Interactions",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Electrocardiography",
+            "Electronic Health Records",
+            "Female",
+            "Humans",
+            "Long QT Syndrome",
+            "Male",
+            "Risk Factors",
+            "Torsades de Pointes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tal",
+                "Last Name": "Lorberbaum",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Kevin J",
+                "Last Name": "Sampson",
+                "Affiliation": "Department of Pharmacology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Raymond L",
+                "Last Name": "Woosley",
+                "Affiliation": "AZCERT, Inc., Oro Valley, AZ, USA."
+            },
+            {
+                "First Name": "Robert S",
+                "Last Name": "Kass",
+                "Affiliation": "Department of Pharmacology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, 622 West 168th St. PH20, New York, NY, 10032, USA. nick.tatonetti@columbia.edu."
+            }
+        ],
+        "Journal": "Drug safety",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26601758",
+        "Title": "VenomKB, a new knowledge base for facilitating the validation of putative venom therapies.",
+        "Abstract": "Animal venoms have been used for therapeutic purposes since the dawn of recorded history. Only a small fraction, however, have been tested for pharmaceutical utility. Modern computational methods enable the systematic exploration of novel therapeutic uses for venom compounds. Unfortunately, there is currently no comprehensive resource describing the clinical effects of venoms to support this computational analysis. We present VenomKB, a new publicly accessible knowledge base and website that aims to act as a repository for emerging and putative venom therapies. Presently, it consists of three database tables: (1) Manually curated records of putative venom therapies supported by scientific literature, (2) automatically parsed MEDLINE articles describing compounds that may be venom derived, and their effects on the human body, and (3) automatically retrieved records from the new Semantic Medline resource that describe the effects of venom compounds on mammalian anatomy. Data from VenomKB may be selectively retrieved in a variety of popular data formats, are open-source, and will be continually updated as venom therapies become better understood.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Databases, Factual",
+            "Humans",
+            "Knowledge Bases",
+            "Venoms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Romano",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, New York 10032, USA."
+            }
+        ],
+        "Journal": "Scientific data",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26559926",
+        "Title": "Systems biology approaches for identifying adverse drug reactions and elucidating their underlying biological mechanisms.",
+        "Abstract": "Small molecules are indispensable to modern medical therapy. However, their use may lead to unintended, negative medical outcomes commonly referred to as adverse drug reactions (ADRs). These effects vary widely in mechanism, severity, and populations affected, making ADR prediction and identification important public health concerns. Current methods rely on clinical trials and postmarket surveillance programs to find novel ADRs; however, clinical trials are limited by small sample size, whereas postmarket surveillance methods may be biased and inherently leave patients at risk until sufficient clinical evidence has been gathered. Systems pharmacology, an emerging interdisciplinary field combining network and chemical biology, provides important tools to uncover and understand ADRs and may mitigate the drawbacks of traditional methods. In particular, network analysis allows researchers to integrate heterogeneous data sources and quantify the interactions between biological and chemical entities. Recent work in this area has combined chemical, biological, and large-scale observational health data to predict ADRs in both individual patients and global populations. In this review, we explore the rapid expansion of systems pharmacology in the study of ADRs. We enumerate the existing methods and strategies and illustrate progress in the field with a model framework that incorporates crucial data elements, such as diet and comorbidities, known to modulate ADR risk. Using this framework, we highlight avenues of research that may currently be underexplored, representing opportunities for future work.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Humans",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mary Regina",
+                "Last Name": "Boland",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Alexandra",
+                "Last Name": "Jacunski",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Lorberbaum",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Romano",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Moskovitch",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Wiley interdisciplinary reviews. Systems biology and medicine",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26451775",
+        "Title": "Connectivity Homology Enables Inter-Species Network Models of Synthetic Lethality.",
+        "Abstract": "Synthetic lethality is a genetic interaction wherein two otherwise nonessential genes cause cellular inviability when knocked out simultaneously. Drugs can mimic genetic knock-out effects; therefore, our understanding of promiscuous drugs, polypharmacology-related adverse drug reactions, and multi-drug therapies, especially cancer combination therapy, may be informed by a deeper understanding of synthetic lethality. However, the colossal experimental burden in humans necessitates in silico methods to guide the identification of synthetic lethal pairs. Here, we present SINaTRA (Species-INdependent TRAnslation), a network-based methodology that discovers genome-wide synthetic lethality in translation between species. SINaTRA uses connectivity homology, defined as biological connectivity patterns that persist across species, to identify synthetic lethal pairs. Importantly, our approach does not rely on genetic homology or structural and functional similarity, and it significantly outperforms models utilizing these data. We validate SINaTRA by predicting synthetic lethality in S. pombe using S. cerevisiae data, then identify over one million putative human synthetic lethal pairs to guide experimental approaches. We highlight the translational applications of our algorithm for drug discovery by identifying clusters of genes significantly enriched for single- and multi-drug cancer therapies.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Cell Survival",
+            "Computer Simulation",
+            "Fungal Proteins",
+            "Genes, Lethal",
+            "Models, Genetic",
+            "Protein Biosynthesis",
+            "RNA, Small Interfering",
+            "Saccharomyces",
+            "Sequence Homology, Nucleic Acid",
+            "Species Specificity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alexandra",
+                "Last Name": "Jacunski",
+                "Affiliation": "Integrated Program in Cellular, Molecular, and Biomedical Studies, Columbia University, New York, New York, United States of America; Department of Systems Biology, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Scott J",
+                "Last Name": "Dixon",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America; Department of Biomedical Informatics, Columbia University, New York, New York, United States of America; Department of Medicine, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26306268",
+        "Title": "Are All Vaccines Created Equal? Using Electronic Health Records to Discover Vaccines Associated With Clinician-Coded Adverse Events.",
+        "Abstract": "Adverse drug events (ADEs) are responsible for unnecessary patient deaths making them a major public health issue. Literature estimates 1% of ADEs recorded in Electronic Health Records (EHRs) are reported to federal databases making EHRs a vital source of ADE-related information. Using Columbia University Medical Center (CUMC)'s EHRs, we developed an algorithm to mine for vaccine-related ADEs occurring within 3 months of vaccination. In phase one, we measured the association between vaccinated patients with an ADE (cases) against those vaccinated without an ADE. To adjust for healthcare-process effects, phase two compared cases against those who returned to CUMC within 3 months without an ADE. We report 7 results passing multiplicity correction after demographic confounder adjustment. We observed an association, having some literature support, between swine flu vaccination and ADEs (H1N1v-like, OR=9.469, p<0.001; H1N1/H3N2, OR=3.207, p<0.001). Our algorithm could inform clinicians of the risks/benefits of vaccinations towards improving clinical care.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Mary Regina",
+                "Last Name": "Boland",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University ; Observational Health Data Sciences and Informatics, Columbia University."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University ; Department of Medicine, Columbia University ; Department of Systems Biology, Columbia University ; Observational Health Data Sciences and Informatics, Columbia University."
+            }
+        ],
+        "Journal": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26306239",
+        "Title": "A knowledge-based, automated method for phenotyping in the EHR using only clinical pathology reports.",
+        "Abstract": "The secondary use of electronic health records (EHR) represents unprecedented opportunities for biomedical discovery. Central to this goal is, EHR-phenotyping, also known as cohort identification, which remains a significant challenge. Complex phenotypes often require multivariate and multi-scale analyses, ultimately leading to manually created phenotype definitions. We present Ontology-driven Reports-based Phenotyping from Unique Signatures (ORPheUS), an automated approach to EHR-phenotyping. To do this we identify unique signatures of abnormal clinical pathology reports that correspond to pre-defined medical terms from biomedical ontologies. By using only the clinical pathology, or \"lab\", reports we are able to mitigate clinical biases enabling researchers to explore other dimensions of the EHR. We used ORPheUS to generate signatures for 858 diseases and validated against reference cohorts for Type 2 Diabetes Mellitus (T2DM) and Atrial Fibrillation (AF). Our results suggest that our approach, using solely clinical pathology reports, is an effective as a primary screening tool for automated clinical phenotyping.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Alexandre",
+                "Last Name": "Yahi",
+                "Affiliation": "Department of Biomedical Informatics, Department of Systems Biology, Department of Medicine, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Department of Systems Biology, Department of Medicine, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26068584",
+        "Title": "Improving Detection of Arrhythmia Drug-Drug Interactions in Pharmacovigilance Data through the Implementation of Similarity-Based Modeling.",
+        "Abstract": "Identification of Drug-Drug Interactions (DDIs) is a significant challenge during drug development and clinical practice. DDIs are responsible for many adverse drug effects (ADEs), decreasing patient quality of life and causing higher care expenses. DDIs are not systematically evaluated in pre-clinical or clinical trials and so the FDA U. S. Food and Drug Administration relies on post-marketing surveillance to monitor patient safety. However, existing pharmacovigilance algorithms show poor performance for detecting DDIs exhibiting prohibitively high false positive rates. Alternatively, methods based on chemical structure and pharmacological similarity have shown promise in adverse drug event detection. We hypothesize that the use of chemical biology data in a post hoc analysis of pharmacovigilance results will significantly improve the detection of dangerous interactions. Our model integrates a reference standard of DDIs known to cause arrhythmias with drug similarity data. To compare similarity between drugs we used chemical structure (both 2D and 3D molecular structure), adverse drug side effects, chemogenomic targets, drug indication classes, and known drug-drug interactions. We evaluated the method on external reference standards. Our results showed an enhancement of sensitivity, specificity and precision in different top positions with the use of similarity measures to rank the candidates extracted from pharmacovigilance data. For the top 100 DDI candidates, similarity-based modeling yielded close to twofold precision enhancement compared to the proportional reporting ratio (PRR). Moreover, the method helps in the DDI decision making through the identification of the DDI in the reference standard that generated the candidate.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Arrhythmias, Cardiac",
+            "Drug Interactions",
+            "Humans",
+            "Pharmacovigilance"
+        ],
+        "Authors": [
+            {
+                "First Name": "Santiago",
+                "Last Name": "Vilar",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States of America; Department of Systems Biology, Columbia University, New York, NY, United States of America; Observational Health Data Sciences and Informatics (OHDSI), New York, NY, United States of America."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Lorberbaum",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States of America; Department of Systems Biology, Columbia University, New York, NY, United States of America."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States of America; Observational Health Data Sciences and Informatics (OHDSI), New York, NY, United States of America."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States of America; Department of Systems Biology, Columbia University, New York, NY, United States of America; Observational Health Data Sciences and Informatics (OHDSI), New York, NY, United States of America; Department of Medicine, Columbia University, New York, NY, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26041386",
+        "Title": "Birth month affects lifetime disease risk: a phenome-wide method.",
+        "Abstract": "An individual's birth month has a significant impact on the diseases they develop during their lifetime. Previous studies reveal relationships between birth month and several diseases including atherothrombosis, asthma, attention deficit hyperactivity disorder, and myopia, leaving most diseases completely unexplored. This retrospective population study systematically explores the relationship between seasonal affects at birth and lifetime disease risk for 1688 conditions.",
+        "Keywords": [
+            "cardiovascular diseases",
+            "electronic health records",
+            "embryonic and fetal development",
+            "maternal exposure",
+            "personalized medicine",
+            "pregnancy",
+            "prenatal nutritional physiological phenomena",
+            "seasons"
+        ],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Algorithms",
+            "Cardiovascular Diseases",
+            "Data Mining",
+            "Disease",
+            "Electronic Health Records",
+            "Female",
+            "Humans",
+            "Incidence",
+            "Logistic Models",
+            "Male",
+            "Middle Aged",
+            "Pregnancy",
+            "Prenatal Exposure Delayed Effects",
+            "Risk",
+            "Seasons",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mary Regina",
+                "Last Name": "Boland",
+                "Affiliation": "Department of Biomedical Informatics Observational Health Data Sciences and Informatics (OHDSI)."
+            },
+            {
+                "First Name": "Zachary",
+                "Last Name": "Shahn",
+                "Affiliation": "Department of Statistics."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Madigan",
+                "Affiliation": "Observational Health Data Sciences and Informatics (OHDSI) Department of Statistics."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics Observational Health Data Sciences and Informatics (OHDSI)."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics Observational Health Data Sciences and Informatics (OHDSI) Department of Systems Biology Department of Medicine, Columbia University, New York, NY, USA nick.tatonetti@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25848530",
+        "Title": "Development and validation of a classification approach for extracting severity automatically from electronic health records.",
+        "Abstract": "Electronic Health Records (EHRs) contain a wealth of information useful for studying clinical phenotype-genotype relationships. Severity is important for distinguishing among phenotypes; however other severity indices classify patient-level severity (e.g., mild vs. acute dermatitis) rather than phenotype-level severity (e.g., acne vs. myocardial infarction). Phenotype-level severity is independent of the individual patient's state and is relative to other phenotypes. Further, phenotype-level severity does not change based on the individual patient. For example, acne is mild at the phenotype-level and relative to other phenotypes. Therefore, a given patient may have a severe form of acne (this is the patient-level severity), but this does not effect its overall designation as a mild phenotype at the phenotype-level.",
+        "Keywords": [
+            "Data mining",
+            "Electronic Health Records",
+            "Health status indicators",
+            "Outcome assessment (Health Care)",
+            "Phenotype"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Mary Regina",
+                "Last Name": "Boland",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY USA ; Observational Health Data Sciences and Informatics (OHDSI), Columbia University, 622 West 168th Street, PH-20, New York, NY USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY USA ; Observational Health Data Sciences and Informatics (OHDSI), Columbia University, 622 West 168th Street, PH-20, New York, NY USA ; Department of Systems Biology, Columbia University, New York, NY USA ; Department of Medicine, Columbia University, New York, NY USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY USA ; Observational Health Data Sciences and Informatics (OHDSI), Columbia University, 622 West 168th Street, PH-20, New York, NY USA."
+            }
+        ],
+        "Journal": "Journal of biomedical semantics",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25744369",
+        "Title": "3D pharmacophoric similarity improves multi adverse drug event identification in pharmacovigilance.",
+        "Abstract": "Adverse drugs events (ADEs) detection constitutes a considerable concern in patient safety and public health care. For this reason, it is important to develop methods that improve ADE signal detection in pharmacovigilance databases. Our objective is to apply 3D pharmacophoric similarity models to enhance ADE recognition in Offsides, a pharmacovigilance resource with drug-ADE associations extracted from the FDA Adverse Event Reporting System (FAERS). We developed a multi-ADE predictor implementing 3D drug similarity based on a pharmacophoric approach, with an ADE reference standard extracted from the SIDER database. The results showed that the application of our 3D multi-type ADE predictor to the pharmacovigilance data in Offsides improved ADE identification and generated enriched sets of drug-ADE signals. The global ROC curve for the Offsides ADE candidates ranked with the 3D similarity score showed an area of 0.7. The 3D predictor also allows the identification of the most similar drug that causes the ADE under study, which could provide hypotheses about mechanisms of action and ADE etiology. Our method is useful in drug development, screening potential adverse effects in experimental drugs, and in drug safety, applicable to the evaluation of ADE signals selected through pharmacovigilance data mining.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Databases, Factual",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Humans",
+            "Models, Theoretical",
+            "Pharmaceutical Preparations",
+            "Pharmacovigilance",
+            "ROC Curve",
+            "Reproducibility of Results"
+        ],
+        "Authors": [
+            {
+                "First Name": "Santiago",
+                "Last Name": "Vilar",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, NY, USA."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26958303",
+        "Title": "An Assessment of Family History Information Captured in an Electronic Health Record.",
+        "Abstract": "Family history is considered a core element of clinical care. In this study we assessed the quality of family history data captured in an established commercial electronic health record (EHR) at a large academic medical center. Because the EHR had no centralized location to store family history information, it was collected as part of clinical notes in structured or free-text format. We analyzed differences between 10,000 free-text and 9,121 structured family history observations. Each observation was classified according to disease presence/absence and family member affected (e.g., father, mother, etc.). The structured notes did not collect a complete family history as defined by standards endorsed by the U.S. Agency for Healthcare Research and Quality; the free-text notes contained more information than the structured notes, but still not enough to be considered \"complete.\" Several barriers remain for collecting complete, useful family history data in electronic health records.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Electronic Health Records",
+            "Family",
+            "Humans",
+            "Medical History Taking",
+            "Reference Standards"
+        ],
+        "Authors": [
+            {
+                "First Name": "Fernanda",
+                "Last Name": "Polubriaginof",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "David K",
+                "Last Name": "Vawdrey",
+                "Affiliation": "NewYork-Presbyterian Hospital, New York, NY, USA; Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25431152",
+        "Title": "State of the art and development of a drug-drug interaction large scale predictor based on 3D pharmacophoric similarity.",
+        "Abstract": "Co-administration of drugs is a primary cause of Adverse Drug Reactions (ADRs) and a drain on the health care industry costing billions of dollars and reducing quality of life. Drug-Drug Interactions (DDIs) account for as much as 30% of all ADRs. Unfortunately, DDIs are not systematically explored pre-clinically and are difficult to detect in post-marketing drug surveillance. For this reason, the detection and prediction of DDIs is an important problem in both drug development and pharmacovigilance. The comparison of the 3D drug structures provides a powerful tool for DDI prediction. In this article, we present the first large scale model for predicting DDIs using the drug's 3D molecular structure. In addition to identifying putative drug interactions we can also isolate the pharmacological or clinical effect associated with the predicted interactions. The model has good performance in two different hold-out validations and in external test sets. We found that the top scored drug pairs were significantly enriched for known clinically relevant interactions and that 3D structure data is providing significantly independent information from other approaches, including 2D structure (p=0.003). We demonstrated the usefulness of the proposed methodology to systematically identify pharmacokinetic and pharmacodynamic interactions, provided an exploratory tool that can be used for patient safety and pre-clinical toxicity screening, and reviewed the state of the art methods used to detect DDIs.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Databases, Pharmaceutical",
+            "Drug Interactions",
+            "Humans",
+            "Models, Molecular",
+            "Molecular Conformation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Santiago",
+                "Last Name": "Vilar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eugenio",
+                "Last Name": "Uriarte",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lourdes",
+                "Last Name": "Santana",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, 622 West 168th St. VC5, New York, NY 10032, USA. nick.tatonetti@columbia.edu."
+            }
+        ],
+        "Journal": "Current drug metabolism",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25122524",
+        "Title": "Similarity-based modeling in large-scale prediction of drug-drug interactions.",
+        "Abstract": "Drug-drug interactions (DDIs) are a major cause of adverse drug effects and a public health concern, as they increase hospital care expenses and reduce patients' quality of life. DDI detection is, therefore, an important objective in patient safety, one whose pursuit affects drug development and pharmacovigilance. In this article, we describe a protocol applicable on a large scale to predict novel DDIs based on similarity of drug interaction candidates to drugs involved in established DDIs. The method integrates a reference standard database of known DDIs with drug similarity information extracted from different sources, such as 2D and 3D molecular structure, interaction profile, target and side-effect similarities. The method is interpretable in that it generates drug interaction candidates that are traceable to pharmacological or clinical effects. We describe a protocol with applications in patient safety and preclinical toxicity screening. The time frame to implement this protocol is 5-7 h, with additional time potentially necessary, depending on the complexity of the reference standard DDI database and the similarity measures implemented.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Area Under Curve",
+            "Databases, Pharmaceutical",
+            "Drug Interactions",
+            "Models, Chemical",
+            "Molecular Structure",
+            "Patient Safety",
+            "Toxicity Tests"
+        ],
+        "Authors": [
+            {
+                "First Name": "Santiago",
+                "Last Name": "Vilar",
+                "Affiliation": "1] Department of Biomedical Informatics, Columbia University Medical Center, New York, New York, USA. [2] Department of Organic Chemistry, Faculty of Pharmacy, University of Santiago de Compostela, Santiago de Compostela, Spain."
+            },
+            {
+                "First Name": "Eugenio",
+                "Last Name": "Uriarte",
+                "Affiliation": "Department of Organic Chemistry, Faculty of Pharmacy, University of Santiago de Compostela, Santiago de Compostela, Spain."
+            },
+            {
+                "First Name": "Lourdes",
+                "Last Name": "Santana",
+                "Affiliation": "Department of Organic Chemistry, Faculty of Pharmacy, University of Santiago de Compostela, Santiago de Compostela, Spain."
+            },
+            {
+                "First Name": "Tal",
+                "Last Name": "Lorberbaum",
+                "Affiliation": "1] Department of Biomedical Informatics, Columbia University Medical Center, New York, New York, USA. [2] Department of Physiology and Cellular Biophysics, Columbia University Medical Center, New York, New York, USA. [3] Department of Systems Biology, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "1] Department of Biomedical Informatics, Columbia University Medical Center, New York, New York, USA. [2] Department of Systems Biology, Columbia University Medical Center, New York, New York, USA. [3] Department of Medicine, Columbia University Medical Center, New York, New York, USA."
+            }
+        ],
+        "Journal": "Nature protocols",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24516403",
+        "Title": "Coherent functional modules improve transcription factor target identification, cooperativity prediction, and disease association.",
+        "Abstract": "Transcription factors (TFs) are fundamental controllers of cellular regulation that function in a complex and combinatorial manner. Accurate identification of a transcription factor's targets is essential to understanding the role that factors play in disease biology. However, due to a high false positive rate, identifying coherent functional target sets is difficult. We have created an improved mapping of targets by integrating ChIP-Seq data with 423 functional modules derived from 9,395 human expression experiments. We identified 5,002 TF-module relationships, significantly improved TF target prediction, and found 30 high-confidence TF-TF associations, of which 14 are known. Importantly, we also connected TFs to diseases through these functional modules and identified 3,859 significant TF-disease relationships. As an example, we found a link between MEF2A and Crohn's disease, which we validated in an independent expression dataset. These results show the power of combining expression data and ChIP-Seq data to remove noise and better extract the associations between TFs, functional modules, and disease.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Cycle",
+            "Computational Biology",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation",
+            "Humans",
+            "Molecular Sequence Annotation",
+            "Protein Interaction Maps",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Konrad J",
+                "Last Name": "Karczewski",
+                "Affiliation": "Biomedical Informatics Training Program, Stanford University School of Medicine, Stanford, California, United States of America ; Department of Genetics, Stanford University School of Medicine, Stanford, California, United States of America."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Snyder",
+                "Affiliation": "Department of Genetics, Stanford University School of Medicine, Stanford, California, United States of America."
+            },
+            {
+                "First Name": "Russ B",
+                "Last Name": "Altman",
+                "Affiliation": "Department of Genetics, Stanford University School of Medicine, Stanford, California, United States of America ; Department of Bioengineering, Stanford University School of Medicine, Stanford, California, United States of America."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Department of Systems Biology, and Department of Medicine, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PLoS genetics",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24089409",
+        "Title": "High-throughput methods for combinatorial drug discovery.",
+        "Abstract": "A more nuanced approach to drug design is to use multiple drugs in combination to target interacting or complementary pathways. Drug combination treatments have shown higher efficacy, fewer side effects, and less toxicity compared to single-drug treatment. In this Review, we focus on the use of high-throughput biological measurements (genetics, transcripts, and chemogenetic interactions) and the computational methods they necessitate to further combinatorial drug design (CDD). We highlight the state-of-the-art analytical methods, including network analysis, integrative informatics, and dynamic molecular modeling, that have been used successfully in CDD. Finally, we present an exhaustive list of the publicly available data and methodological resources available to the community. Such next-generation technologies that enable the measurement of millions of cellular data points simultaneously may usher in a new paradigm in drug discovery, where medicine is viewed as a system of interacting genes and pathways rather than the result of an individual protein or gene.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Combinatorial Chemistry Techniques",
+            "Computational Biology",
+            "Drug Discovery",
+            "Drug Therapy, Combination",
+            "High-Throughput Screening Assays",
+            "Humans",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xiaochen",
+                "Last Name": "Sun",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Santiago",
+                "Last Name": "Vilar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Science translational medicine",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23876381",
+        "Title": "Response to 'Use of an algorithm for identifying hidden drug-drug interactions in adverse event reports' by Gooden et al.",
+        "Abstract": null,
+        "Keywords": [
+            "Clinical Evaluation",
+            "Data Mining",
+            "Drug Interactions"
+        ],
+        "MeSH terms": [
+            "Adverse Drug Reaction Reporting Systems",
+            "Algorithms",
+            "Drug Interactions",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Humans"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joshua C",
+                "Last Name": "Denny",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Russ B",
+                "Last Name": "Altman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23819817",
+        "Title": "Pathway analysis of genome-wide data improves warfarin dose prediction.",
+        "Abstract": "Many genome-wide association studies focus on associating single loci with target phenotypes. However, in the setting of rare variation, accumulating sufficient samples to assess these associations can be difficult. Moreover, multiple variations in a gene or a set of genes within a pathway may all contribute to the phenotype, suggesting that the aggregation of variations found over the gene or pathway may be useful for improving the power to detect associations.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Black or African American",
+            "Aryl Hydrocarbon Hydroxylases",
+            "Cytochrome P-450 CYP2C9",
+            "Dose-Response Relationship, Drug",
+            "Genome, Human",
+            "Genome-Wide Association Study",
+            "Genotype",
+            "Humans",
+            "Linkage Disequilibrium",
+            "Metabolic Networks and Pathways",
+            "Mixed Function Oxygenases",
+            "Models, Genetic",
+            "Polymorphism, Single Nucleotide",
+            "Vitamin K Epoxide Reductases",
+            "Warfarin",
+            "White People"
+        ],
+        "Authors": [
+            {
+                "First Name": "Roxana",
+                "Last Name": "Daneshjou",
+                "Affiliation": "Department of Genetics, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Konrad J",
+                "Last Name": "Karczewski",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hersh",
+                "Last Name": "Sagreiya",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephane",
+                "Last Name": "Bourgeois",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Katarzyna",
+                "Last Name": "Drozda",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James K",
+                "Last Name": "Burmester",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tatsuhiko",
+                "Last Name": "Tsunoda",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yusuke",
+                "Last Name": "Nakamura",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michiaki",
+                "Last Name": "Kubo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Tector",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nita A",
+                "Last Name": "Limdi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Larisa H",
+                "Last Name": "Cavallari",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Minoli",
+                "Last Name": "Perera",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Julie A",
+                "Last Name": "Johnson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Teri E",
+                "Last Name": "Klein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Russ B",
+                "Last Name": "Altman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC genomics",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23467469",
+        "Title": "Web-scale pharmacovigilance: listening to signals from the crowd.",
+        "Abstract": "Adverse drug events cause substantial morbidity and mortality and are often discovered after a drug comes to market. We hypothesized that Internet users may provide early clues about adverse drug events via their online information-seeking. We conducted a large-scale study of Web search log data gathered during 2010. We pay particular attention to the specific drug pairing of paroxetine and pravastatin, whose interaction was reported to cause hyperglycemia after the time period of the online logs used in the analysis. We also examine sets of drug pairs known to be associated with hyperglycemia and those not associated with hyperglycemia. We find that anonymized signals on drug interactions can be mined from search logs. Compared to analyses of other sources such as electronic health records (EHR), logs are inexpensive to collect and mine. The results demonstrate that logs of the search activities of populations of computer users can contribute to drug safety surveillance.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Data Mining",
+            "Drug Interactions",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Humans",
+            "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+            "Hyperglycemia",
+            "Information Storage and Retrieval",
+            "Internet",
+            "Paroxetine",
+            "Pharmacovigilance",
+            "Pravastatin",
+            "Product Surveillance, Postmarketing",
+            "ROC Curve",
+            "Selective Serotonin Reuptake Inhibitors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ryen W",
+                "Last Name": "White",
+                "Affiliation": "Microsoft Research, Redmond, Washington 98052, USA. ryenw@microsoft.com"
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nigam H",
+                "Last Name": "Shah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Russ B",
+                "Last Name": "Altman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Horvitz",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "22422992",
+        "Title": "Data-driven prediction of drug effects and interactions.",
+        "Abstract": "Adverse drug events remain a leading cause of morbidity and mortality around the world. Many adverse events are not detected during clinical trials before a drug receives approval for use in the clinic. Fortunately, as part of postmarketing surveillance, regulatory agencies and other institutions maintain large collections of adverse event reports, and these databases present an opportunity to study drug effects from patient population data. However, confounding factors such as concomitant medications, patient demographics, patient medical histories, and reasons for prescribing a drug often are uncharacterized in spontaneous reporting systems, and these omissions can limit the use of quantitative signal detection methods used in the analysis of such data. Here, we present an adaptive data-driven approach for correcting these factors in cases for which the covariates are unknown or unmeasured and combine this approach with existing methods to improve analyses of drug effects using three test data sets. We also present a comprehensive database of drug effects (Offsides) and a database of drug-drug interaction side effects (Twosides). To demonstrate the biological use of these new resources, we used them to identify drug targets, predict drug indications, and discover drug class interactions. We then corroborated 47 (P < 0.0001) of the drug class interactions using an independent analysis of electronic medical records. Our analysis suggests that combined treatment with selective serotonin reuptake inhibitors and thiazides is associated with significantly increased incidence of prolonged QT intervals. We conclude that confounding effects from covariates in observational clinical data can be controlled in data analyses and thus improve the detection and prediction of adverse drug effects and interactions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adverse Drug Reaction Reporting Systems",
+            "Drug Interactions",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Product Surveillance, Postmarketing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Biomedical Informatics Training Program, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Patrick P",
+                "Last Name": "Ye",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roxana",
+                "Last Name": "Daneshjou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Russ B",
+                "Last Name": "Altman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Science translational medicine",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21828005",
+        "Title": "Cooperative transcription factor associations discovered using regulatory variation.",
+        "Abstract": "Regulation of gene expression at the transcriptional level is achieved by complex interactions of transcription factors operating at their target genes. Dissecting the specific combination of factors that bind each target is a significant challenge. Here, we describe in detail the Allele Binding Cooperativity test, which uses variation in transcription factor binding among individuals to discover combinations of factors and their targets. We developed the ALPHABIT (a large-scale process to hunt for allele binding interacting transcription factors) pipeline, which includes statistical analysis of binding sites followed by experimental validation, and demonstrate that this method predicts transcription factors that associate with NFκB. Our method successfully identifies factors that have been known to work with NFκB (E2A, STAT1, IRF2), but whose global coassociation and sites of cooperative action were not known. In addition, we identify a unique coassociation (EBF1) that had not been reported previously. We present a general approach for discovering combinatorial models of regulation and advance our understanding of the genetic basis of variation in transcription factor binding.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alleles",
+            "Binding Sites",
+            "Chromatin Immunoprecipitation",
+            "Gene Expression Regulation",
+            "Humans",
+            "NF-kappa B",
+            "Protein Binding",
+            "Regulatory Sequences, Nucleic Acid",
+            "Software",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Konrad J",
+                "Last Name": "Karczewski",
+                "Affiliation": "Department of Genetics, Stanford University School of Medicine, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen G",
+                "Last Name": "Landt",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xinqiong",
+                "Last Name": "Yang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Teri",
+                "Last Name": "Slifer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Russ B",
+                "Last Name": "Altman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Snyder",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21676938",
+        "Title": "A novel signal detection algorithm for identifying hidden drug-drug interactions in adverse event reports.",
+        "Abstract": "Adverse drug events (ADEs) are common and account for 770 000 injuries and deaths each year and drug interactions account for as much as 30% of these ADEs. Spontaneous reporting systems routinely collect ADEs from patients on complex combinations of medications and provide an opportunity to discover unexpected drug interactions. Unfortunately, current algorithms for such \"signal detection\" are limited by underreporting of interactions that are not expected. We present a novel method to identify latent drug interaction signals in the case of underreporting.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adverse Drug Reaction Reporting Systems",
+            "Algorithms",
+            "Drug Interactions",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "False Positive Reactions",
+            "Humans",
+            "Logistic Models",
+            "ROC Curve",
+            "United States",
+            "United States Food and Drug Administration"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Biomedical Informatics Training Program, Stanford University, Stanford, California, USA."
+            },
+            {
+                "First Name": "Guy Haskin",
+                "Last Name": "Fernald",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Russ B",
+                "Last Name": "Altman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21044367",
+        "Title": "An integrative method for scoring candidate genes from association studies: application to warfarin dosing.",
+        "Abstract": "A key challenge in pharmacogenomics is the identification of genes whose variants contribute to drug response phenotypes, which can include severe adverse effects. Pharmacogenomics GWAS attempt to elucidate genotypes predictive of drug response. However, the size of these studies has severely limited their power and potential application. We propose a novel knowledge integration and SNP aggregation approach for identifying genes impacting drug response. Our SNP aggregation method characterizes the degree to which uncommon alleles of a gene are associated with drug response. We first use pre-existing knowledge sources to rank pharmacogenes by their likelihood to affect drug response. We then define a summary score for each gene based on allele frequencies and train linear and logistic regression classifiers to predict drug response phenotypes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Anticoagulants",
+            "Cytochrome P-450 Enzyme System",
+            "Dose-Response Relationship, Drug",
+            "Gene Frequency",
+            "Genome-Wide Association Study",
+            "Genotype",
+            "Logistic Models",
+            "Mixed Function Oxygenases",
+            "Pharmacogenetics",
+            "Polymorphism, Single Nucleotide",
+            "Vitamin K Epoxide Reductases",
+            "Warfarin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Biomedical Informatics Training Program, Stanford University School of Medicine, Stanford, CA, USA. nick.tatonetti@stanford.edu"
+            },
+            {
+                "First Name": "Joel T",
+                "Last Name": "Dudley",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hersh",
+                "Last Name": "Sagreiya",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Atul J",
+                "Last Name": "Butte",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Russ B",
+                "Last Name": "Altman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC bioinformatics",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19908383",
+        "Title": "Improving the prediction of pharmacogenes using text-derived drug-gene relationships.",
+        "Abstract": "A critical goal of pharmacogenomics research is to identify genes that can explain variation in drug response. We have previously reported a method that creates a genome-scale ranking of genes likely to interact with a drug. The algorithm uses information about drug structure and indications of use to rank the genes. Although the algorithm has good performance, its performance depends on a curated set of drug-gene relationships that is expensive to create and difficult to maintain. In this work, we assess the utility of text mining in extracting a network of drug-gene relationships automatically. This provides a valuable aggregate source of knowledge, subsequently used as input into the algorithm that ranks potential pharmacogenes. Using a drug-gene network created from sentence-level co-occurrence in the full text of scientific articles, we compared the performance to that of a network created by manual curation of those articles. Under a wide range of conditions, we show that a knowledge base derived from text-mining the literature performs as well as, and sometimes better than, a high-quality, manually curated knowledge base. We conclude that we can use relationships mined automatically from the literature as a knowledgebase for pharmacogenomics relationships. Additionally, when relationships are missed by text mining, our system can accurately extrapolate new relationships with 77.4% precision.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Computational Biology",
+            "Data Mining",
+            "Humans",
+            "Knowledge Bases",
+            "Pharmacogenetics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yael",
+                "Last Name": "Garten",
+                "Affiliation": "Stanford Biomedical Informatics Training Program, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Russ B",
+                "Last Name": "Altman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19723347",
+        "Title": "Predicting drug side-effects by chemical systems biology.",
+        "Abstract": "New approaches to predicting ligand similarity and protein interactions can explain unexpected observations of drug inefficacy or side-effects.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Binding Sites",
+            "Computational Biology",
+            "Drug Design",
+            "Drug Discovery",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Humans",
+            "Pharmaceutical Preparations",
+            "Protein Interaction Mapping",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Training Program in Biomedical Informatics, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Tianyun",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Russ B",
+                "Last Name": "Altman",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genome biology",
+        "PubDate": "2009"
+    }
+]

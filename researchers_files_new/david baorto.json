@@ -1,0 +1,165 @@
+[
+    {
+        "PMID": "22195135",
+        "Title": "Cross-mapping clinical notes between hospitals: an application of the LOINC Document Ontology.",
+        "Abstract": "Standardization of document titles is essential for management as the volume of electronic clinical notes increases. The two campuses of the New York Presbyterian Hospital have over 2,700 distinct document titles. The LOINC Document Ontology (DO) provides a standard for the naming of clinical documents in a multi-axis structure. We have represented the latest LOINC DO structure in the MED, and developed an automated process mapping the clinical documents from both the West (Columbia) and East (Cornell) campuses to the LOINC DO. We find that the LOINC DO can represent the majority of our documents, and about half of the documents map between campuses using the LOINC DO as a reference. We evaluated the possibility of using current LOINC codes in document exchange between different institutions. While there is clear success in the ability of the LOINC DO to represent documents and facilitate exchange we find there are granularity issues.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Hospital Information Systems",
+            "Hospitals, University",
+            "Humans",
+            "Logical Observation Identifiers Names and Codes",
+            "Medical Records Systems, Computerized",
+            "New York City",
+            "Systems Integration"
+        ],
+        "Authors": [
+            {
+                "First Name": "Li",
+                "Last Name": "Li",
+                "Affiliation": "New York Presbyterian Hospital, New York, NY, USA."
+            },
+            {
+                "First Name": "C Paul",
+                "Last Name": "Morrey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Baorto",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "19285571",
+        "Title": "A review of auditing methods applied to the content of controlled biomedical terminologies.",
+        "Abstract": "Although controlled biomedical terminologies have been with us for centuries, it is only in the last couple of decades that close attention has been paid to the quality of these terminologies. The result of this attention has been the development of auditing methods that apply formal methods to assessing whether terminologies are complete and accurate. We have performed an extensive literature review to identify published descriptions of these methods and have created a framework for characterizing them. The framework considers manual, systematic and heuristic methods that use knowledge (within or external to the terminology) to measure quality factors of different aspects of the terminology content (terms, semantic classification, and semantic relationships). The quality factors examined included concept orientation, consistency, non-redundancy, soundness and comprehensive coverage. We reviewed 130 studies that were retrieved based on keyword search on publications in PubMed, and present our assessment of how they fit into our framework. We also identify which terminologies have been audited with the methods and provide examples to illustrate each part of the framework.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Management Audit",
+            "Medical Informatics",
+            "Terminology as Topic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xinxin",
+                "Last Name": "Zhu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, 622 West 168th Street, VC-5, New York, NY 10032, USA. Katie.Zhu@dbmi.columbia.edu"
+            },
+            {
+                "First Name": "Jung-Wei",
+                "Last Name": "Fan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David M",
+                "Last Name": "Baorto",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "Cimino",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19285569",
+        "Title": "Practical experience with the maintenance and auditing of a large medical ontology.",
+        "Abstract": "The Medical Entities Dictionary (MED) has served as a unified terminology at New York Presbyterian Hospital and Columbia University for more than 20 years. It was initially created to allow the clinical data from the disparate information systems (e.g., radiology, pharmacy, and multiple laboratories, etc.) to be uniquely codified for storage in a single data repository, and functions as a real time terminology server for clinical applications and decision support tools. Being conceived as a knowledge base, the MED incorporates relationships among local terms, between local terms and external standards, and additional knowledge about terms in a semantic network structure. Over the past two decades, we have sought to develop methods to maintain, audit and improve the content of the MED, such that it remains true to its original design goals. This has resulted in a complex, multi-faceted process, with both manual and automated components. In this paper, we describe this process, with examples of its effectiveness. We believe that our process provides lessons for others who seek to maintain complex, concept-oriented controlled terminologies.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Management Audit",
+            "Medical Informatics",
+            "Terminology as Topic"
+        ],
+        "Authors": [
+            {
+                "First Name": "David",
+                "Last Name": "Baorto",
+                "Affiliation": "New York Presbyterian Hospital, 622 West 168th Street, VC-5, New York, NY 10032, USA. baorto@dbmi.columbia.edu"
+            },
+            {
+                "First Name": "Li",
+                "Last Name": "Li",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "Cimino",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18999229",
+        "Title": "Terminological reaction.",
+        "Abstract": "When the terminology services at our institution encountered the installation of a new multi-site laboratory information system (LIS), we pursued obtaining a regular dictionary feed to keep the central terminology up-to-date. What we didn't predict was the value added to the LIS implementation effort by a cooperative vocabulary strategy. In this report, we describe how preexisting terminology services were leveraged to facilitate the integration of 2 previously independent laboratories into a new cross-campus LIS.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Communication",
+            "Dictionaries, Medical as Topic",
+            "Hospital Administration",
+            "Interinstitutional Relations",
+            "Laboratories",
+            "New York",
+            "Vocabulary, Controlled"
+        ],
+        "Authors": [
+            {
+                "First Name": "David",
+                "Last Name": "Baorto",
+                "Affiliation": "New York Presbyterian Hospital, New York, NY, USA."
+            },
+            {
+                "First Name": "Tru V",
+                "Last Name": "Tran",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Virginia",
+                "Last Name": "Lorenzi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Dong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bulent",
+                "Last Name": "Oral",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bruce",
+                "Last Name": "Forman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adam D",
+                "Last Name": "Cheriff",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Curtis L",
+                "Last Name": "Cole",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+        "PubDate": "2008"
+    }
+]

@@ -1,0 +1,2417 @@
+[
+    {
+        "PMID": "38233648",
+        "Title": "High-throughput transcriptomics of 409 bacteria-drug pairs reveals drivers of gut microbiota perturbation.",
+        "Abstract": "Many drugs can perturb the gut microbiome, potentially leading to negative health consequences. However, mechanisms of most microorganism-drug responses have not been elucidated at the genetic level. Using high-throughput bacterial transcriptomics, we systematically characterized the gene expression profiles of prevalent human gut bacteria exposed to the most frequently prescribed orally administered pharmaceuticals. Across >400 drug-microorganism pairs, significant and reproducible transcriptional responses were observed, including pathways involved in multidrug resistance, metabolite transport, tartrate metabolism and riboflavin biosynthesis. Importantly, we discovered that statin-mediated upregulation of the AcrAB-TolC efflux pump in Bacteroidales species enhances microbial sensitivity to vitamin A and secondary bile acids. Moreover, gut bacteria carrying acrAB-tolC genes are depleted in patients taking simvastatin, suggesting that drug-efflux interactions generate collateral toxicity that depletes pump-containing microorganisms from patient microbiomes. This study provides a resource to further understand the drivers of drug-mediated microbiota shifts for better informed clinical interventions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Bacterial Proteins",
+            "Gastrointestinal Microbiome",
+            "Bacteria",
+            "Gene Expression Profiling",
+            "Anti-Bacterial Agents"
+        ],
+        "Authors": [
+            {
+                "First Name": "Deirdre",
+                "Last Name": "Ricaurte",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Yiming",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Ravi U",
+                "Last Name": "Sheth",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Diego Rivera",
+                "Last Name": "Gelsinger",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Kaufman",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA. harris.wang@columbia.edu."
+            }
+        ],
+        "Journal": "Nature microbiology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37127666",
+        "Title": "Fast and efficient template-mediated synthesis of genetic variants.",
+        "Abstract": "Efficient methods for the generation of specific mutations enable the study of functional variations in natural populations and lead to advances in genetic engineering applications. Here, we present a new approach, mutagenesis by template-guided amplicon assembly (MEGAA), for the rapid construction of kilobase-sized DNA variants. With this method, many mutations can be generated at a time to a DNA template at more than 90% efficiency per target in a predictable manner. We devised a robust and iterative protocol for an open-source laboratory automation robot that enables desktop production and long-read sequencing validation of variants. Using this system, we demonstrated the construction of 31 natural SARS-CoV2 spike gene variants and 10 recoded Escherichia coli genome fragments, with each 4 kb region containing up to 150 mutations. Furthermore, 125 defined combinatorial adeno-associated virus-2 cap gene variants were easily built using the system, which exhibited viral packaging enhancements of up to 10-fold compared with wild type. Thus, the MEGAA platform enables generation of multi-site sequence variants quickly, cheaply, and in a scalable manner for diverse applications in biotechnology.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "RNA, Viral",
+            "COVID-19",
+            "SARS-CoV-2",
+            "Mutation",
+            "DNA",
+            "Escherichia coli"
+        ],
+        "Authors": [
+            {
+                "First Name": "Liyuan",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Yiming",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA. hw2429@columbia.edu."
+            }
+        ],
+        "Journal": "Nature methods",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36805559",
+        "Title": "High-throughput microbial culturomics using automation and machine learning.",
+        "Abstract": "Pure bacterial cultures remain essential for detailed experimental and mechanistic studies in microbiome research, and traditional methods to isolate individual bacteria from complex microbial ecosystems are labor-intensive, difficult-to-scale and lack phenotype-genotype integration. Here we describe an open-source high-throughput robotic strain isolation platform for the rapid generation of isolates on demand. We develop a machine learning approach that leverages colony morphology and genomic data to maximize the diversity of microbes isolated and enable targeted picking of specific genera. Application of this platform on fecal samples from 20 humans yields personalized gut microbiome biobanks totaling 26,997 isolates that represented >80% of all abundant taxa. Spatial analysis on >100,000 visually captured colonies reveals cogrowth patterns between Ruminococcaceae, Bacteroidaceae, Coriobacteriaceae and Bifidobacteriaceae families that suggest important microbial interactions. Comparative analysis of 1,197 high-quality genomes from these biobanks shows interesting intra- and interpersonal strain evolution, selection and horizontal gene transfer. This culturomics framework should empower new research efforts to systematize the collection and quantitative analysis of imaging-based phenotypes with high-resolution genomics data for many emerging microbiome studies.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Genomics",
+            "Microbiota",
+            "Bacteria",
+            "Automation",
+            "Machine Learning"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yiming",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Ravi U",
+                "Last Name": "Sheth",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Shijie",
+                "Last Name": "Zhao",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Lucas A",
+                "Last Name": "Cohen",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Kendall",
+                "Last Name": "Dabaghi",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Moody",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Yiwei",
+                "Last Name": "Sun",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Deirdre",
+                "Last Name": "Ricaurte",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Miles",
+                "Last Name": "Richardson",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Florencia",
+                "Last Name": "Velez-Cortes",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Tomasz",
+                "Last Name": "Blazejewski",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Kaufman",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Carlotta",
+                "Last Name": "Ronda",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA. hw2429@columbia.edu."
+            }
+        ],
+        "Journal": "Nature biotechnology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36796333",
+        "Title": "What is the key challenge in engineering microbiomes?",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Microbiota",
+            "Engineering"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ophelia S",
+                "Last Name": "Venturelli",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sylvie",
+                "Last Name": "Estrela",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kerwyn Casey",
+                "Last Name": "Huang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rodrigo",
+                "Last Name": "Ledesma-Amaro",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alex J H",
+                "Last Name": "Fedorec",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bärbel",
+                "Last Name": "Stecher",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher E",
+                "Last Name": "Lawson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Amir",
+                "Last Name": "Zarrinpar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chun-Jun",
+                "Last Name": "Guo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Orkun S",
+                "Last Name": "Soyer",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell systems",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36468852",
+        "Title": "Characterization and Spatial Mapping of the Human Gut Metasecretome.",
+        "Abstract": "Bacterially secreted proteins play an important role in microbial physiology and ecology in many environments, including the mammalian gut. While gut microbes have been extensively studied over the past decades, little is known about the proteins that they secrete into the gastrointestinal tract. In this study, we developed and applied a computational pipeline to a comprehensive catalog of human-associated metagenome-assembled genomes in order to predict and analyze the bacterial metasecretome of the human gut, i.e., the collection of proteins secreted out of the cytoplasm by human gut bacteria. We identified the presence of large and diverse families of secreted carbohydrate-active enzymes and assessed their phylogenetic distributions across different taxonomic groups, which revealed an enrichment in ",
+        "Keywords": [
+            "gut microbiome",
+            "human microbiome",
+            "metagenomics"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Bacteria",
+            "Bacterial Proteins",
+            "Gastrointestinal Microbiome",
+            "Metagenome",
+            "Phylogeny"
+        ],
+        "Authors": [
+            {
+                "First Name": "Florencia",
+                "Last Name": "Velez-Cortes",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Harris",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "mSystems",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "36165439",
+        "Title": "Resurrecting essential amino acid biosynthesis in mammalian cells.",
+        "Abstract": "Major genomic deletions in independent eukaryotic lineages have led to repeated ancestral loss of biosynthesis pathways for nine of the twenty canonical amino acids. While the evolutionary forces driving these polyphyletic deletion events are not well understood, the consequence is that extant metazoans are unable to produce nine essential amino acids (EAAs). Previous studies have highlighted that EAA biosynthesis tends to be more energetically costly, raising the possibility that these pathways were lost from organisms with access to abundant EAAs. It is unclear whether present-day metazoans can reaccept these pathways to resurrect biosynthetic capabilities that were lost long ago or whether evolution has rendered EAA pathways incompatible with metazoan metabolism. Here, we report progress on a large-scale synthetic genomics effort to reestablish EAA biosynthetic functionality in mammalian cells. We designed codon-optimized biosynthesis pathways based on genes mined from ",
+        "Keywords": [
+            "Cricetulus griseus",
+            "cell biology",
+            "essential amino acids",
+            "genetics",
+            "genomics",
+            "synthetic biology",
+            "synthetic genomics"
+        ],
+        "MeSH terms": [
+            "Amino Acids",
+            "Amino Acids, Essential",
+            "Animals",
+            "CHO Cells",
+            "Cricetinae",
+            "Cricetulus",
+            "Escherichia coli",
+            "Genome",
+            "Mammals",
+            "Valine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Julie",
+                "Last Name": "Trolle",
+                "Affiliation": "Institute for Systems Genetics, Department of Biochemistry and Molecular Pharmacology, NYU Langone Health, New York, United States."
+            },
+            {
+                "First Name": "Ross M",
+                "Last Name": "McBee",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Kaufman",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Sudarshan",
+                "Last Name": "Pinglay",
+                "Affiliation": "Institute for Systems Genetics, Department of Biochemistry and Molecular Pharmacology, NYU Langone Health, New York, United States."
+            },
+            {
+                "First Name": "Henri",
+                "Last Name": "Berger",
+                "Affiliation": "Institute for Systems Genetics, Department of Biochemistry and Molecular Pharmacology, NYU Langone Health, New York, United States."
+            },
+            {
+                "First Name": "Sergei",
+                "Last Name": "German",
+                "Affiliation": "Institute for Systems Genetics, Department of Biochemistry and Molecular Pharmacology, NYU Langone Health, New York, United States."
+            },
+            {
+                "First Name": "Liyuan",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Michael J",
+                "Last Name": "Shen",
+                "Affiliation": "Institute for Systems Genetics, Department of Biochemistry and Molecular Pharmacology, NYU Langone Health, New York, United States."
+            },
+            {
+                "First Name": "Xinyi",
+                "Last Name": "Guo",
+                "Affiliation": "Department of Biology, New York University, New York, United States."
+            },
+            {
+                "First Name": "J Andrew",
+                "Last Name": "Martin",
+                "Affiliation": "Institute for Systems Genetics, Department of Biochemistry and Molecular Pharmacology, NYU Langone Health, New York, United States."
+            },
+            {
+                "First Name": "Michael E",
+                "Last Name": "Pacold",
+                "Affiliation": "Department of Radiation Oncology, NYU Langone Health, New York, United States."
+            },
+            {
+                "First Name": "Drew R",
+                "Last Name": "Jones",
+                "Affiliation": "Department of Biochemistry and Molecular Pharmacology, NYU Langone Health, New York, United States."
+            },
+            {
+                "First Name": "Jef D",
+                "Last Name": "Boeke",
+                "Affiliation": "Institute for Systems Genetics, Department of Biochemistry and Molecular Pharmacology, NYU Langone Health, New York, United States."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35107335",
+        "Title": "Are There Bad ICU Rooms? Temporal Relationship between Patient and ICU Room Microbiome, and Influence on Vancomycin-Resistant ",
+        "Abstract": "The gut microbiome of an individual can shape the local environmental surface microbiome. We sought to determine how the intensive care unit (ICU) patient gut microbiome shapes the ICU room surface microbiome, focusing on vancomycin-resistant ",
+        "Keywords": [
+            "gut microbiome",
+            "healthcare-associated infections",
+            "intensive care unit",
+            "vancomycin-resistant Enterococcus"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Cross Infection",
+            "Gastrointestinal Microbiome",
+            "Gram-Positive Bacterial Infections",
+            "Humans",
+            "Intensive Care Units",
+            "Prospective Studies",
+            "RNA, Ribosomal, 16S",
+            "Vancomycin",
+            "Vancomycin Resistance",
+            "Vancomycin-Resistant Enterococci"
+        ],
+        "Authors": [
+            {
+                "First Name": "Daniel E",
+                "Last Name": "Freedberg",
+                "Affiliation": "Division of Digestive and Liver Diseases, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Miles",
+                "Last Name": "Richardson",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Mary",
+                "Last Name": "Nattakom",
+                "Affiliation": "Department of Medicine, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Jacky",
+                "Last Name": "Cheung",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Elissa",
+                "Last Name": "Lynch",
+                "Affiliation": "Division of Digestive and Liver Diseases, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Philip",
+                "Last Name": "Zachariah",
+                "Affiliation": "Department of Pediatrics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "mSphere",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34857911",
+        "Title": "Engineering living and regenerative fungal-bacterial biocomposite structures.",
+        "Abstract": "Engineered living materials could have the capacity to self-repair and self-replicate, sense local and distant disturbances in their environment, and respond with functionalities for reporting, actuation or remediation. However, few engineered living materials are capable of both responsivity and use in macroscopic structures. Here we describe the development, characterization and engineering of a fungal-bacterial biocomposite grown on lignocellulosic feedstocks that can form mouldable, foldable and regenerative living structures. We have developed strategies to make human-scale biocomposite structures using mould-based and origami-inspired growth and assembly paradigms. Microbiome profiling of the biocomposite over multiple generations enabled the identification of a dominant bacterial component, Pantoea agglomerans, which was further isolated and developed into a new chassis. We introduced engineered P. agglomerans into native feedstocks to yield living blocks with new biosynthetic and sensing-reporting capabilities. Bioprospecting the native microbiota to develop engineerable chassis constitutes an important strategy to facilitate the development of living biomaterials with new properties and functionalities.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biocompatible Materials",
+            "Humans",
+            "Pantoea"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ross M",
+                "Last Name": "McBee",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Matt",
+                "Last Name": "Lucht",
+                "Affiliation": "Ecovative Design, Green Island, NY, USA."
+            },
+            {
+                "First Name": "Nikita",
+                "Last Name": "Mukhitov",
+                "Affiliation": "Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Miles",
+                "Last Name": "Richardson",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Tarun",
+                "Last Name": "Srinivasan",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Dechuan",
+                "Last Name": "Meng",
+                "Affiliation": "Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Haorong",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Kaufman",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Max",
+                "Last Name": "Reitman",
+                "Affiliation": "Ecovative Design, Green Island, NY, USA."
+            },
+            {
+                "First Name": "Christian",
+                "Last Name": "Munck",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Damen",
+                "Last Name": "Schaak",
+                "Affiliation": "Ecovative Design, Green Island, NY, USA. damen@ecovativedesign.com."
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Voigt",
+                "Affiliation": "Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA. hw2429@columbia.edu."
+            }
+        ],
+        "Journal": "Nature materials",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34739926",
+        "Title": "Engineering temporal dynamics in microbial communities.",
+        "Abstract": "Microbial communities are a key part to tackling global challenges in human health, environmental conservation, and sustainable agriculture in the coming decade. Recent advances in synthetic biology to study and modify microbial communities have led to important insights into their physiology and ecology. Understanding how targeted changes to microbial communities result in reproducible alterations of the community's intrinsic fluctuations and function is important for mechanistic reconstruction of microbiomes. Studies of synthetic microbial consortia and comparative analysis of communities in normal and disrupted states have revealed ecological principles that can be leveraged to engineer communities towards desired functions. Tools enabling temporal modulation and sensing of the community dynamics offer precise spatiotemporal control of functions, help to dissect microbial interaction networks, and improve predictions of population temporal dynamics. Here we discuss recent advances to manipulate microbiome dynamics through control of specific strain engraftment and abundance, modulation of cell-cell signaling for tuning population dynamics, infiltration of new functions in the existing community with in situ engineering, and in silico modeling of microbial consortia to predict community function and ecology.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Microbial Consortia",
+            "Microbial Interactions",
+            "Microbiota",
+            "Synthetic Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Carlotta",
+                "Last Name": "Ronda",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA; Department of Pathology and Cell Biology, Columbia University, New York, NY, USA. Electronic address: hw2429@columbia.edu."
+            }
+        ],
+        "Journal": "Current opinion in microbiology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "37982076",
+        "Title": "Exploiting interbacterial antagonism for microbiome engineering.",
+        "Abstract": "Interbacterial antagonism can significantly impact microbiome assembly and stability and can potentially be exploited to modulate microbes and microbial communities in diverse environments, ranging from natural habitats to industrial bioreactors. Here we highlight key mechanisms of interspecies antagonism that rely on direct cell-to-cell contact or diffusion of secreted biomolecules, and discuss recent advances to provide altered function and specificities for microbiome engineering. We further outline the use of ecological design principles based on antagonistic interactions for bottom-up assembly of synthetic microbial communities. Manipulating microbial communities through these negative interactions will be critical for understanding complex microbiome processes and properties and developing new applications of microbiome engineering.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Sung Sun",
+                "Last Name": "Yim",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Current opinion in biomedical engineering",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34433066",
+        "Title": "Systematic dissection of σ",
+        "Abstract": "Primary σ",
+        "Keywords": [
+            "MAGE",
+            "MAGE-seq",
+            "bacterial gene regulation",
+            "fitness landscapes",
+            "regulatory sequence library",
+            "saturation mutagenesis",
+            "sigma factors",
+            "synthetic biology",
+            "systems biology"
+        ],
+        "MeSH terms": [
+            "Bacteria",
+            "Bacterial Proteins",
+            "Base Sequence",
+            "Chromosome Mapping",
+            "Dissection",
+            "Escherichia coli",
+            "Gene Expression Regulation, Bacterial",
+            "Genes, Bacterial",
+            "Genomics",
+            "Promoter Regions, Genetic",
+            "Sigma Factor"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jimin",
+                "Last Name": "Park",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA; Integrated Program in Cellular, Molecular and Biomedical Studies, Columbia University Irving Medical Center, New York, NY, USA. Electronic address: jiminpark66@gmail.com."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA; Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New York, NY, USA. Electronic address: hw2429@columbia.edu."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34288650",
+        "Title": "High-Throughput Transcriptional Characterization of Regulatory Sequences from Bacterial Biosynthetic Gene Clusters.",
+        "Abstract": "Recent efforts to sequence, survey, and functionally characterize the diverse biosynthetic capabilities of bacteria have identified numerous Biosynthetic Gene Clusters (BGCs). Genes found within BGCs are typically transcriptionally silent, suggesting their expression is tightly regulated. To better elucidate the underlying mechanisms and principles that govern BGC regulation on a DNA sequence level, we employed high-throughput DNA synthesis and multiplexed reporter assays to build and to characterize a library of BGC-derived regulatory sequences. Regulatory sequence transcription levels were measured in the Actinobacteria ",
+        "Keywords": [
+            "Streptomyces",
+            "biosynthetic gene clusters",
+            "cell-free expression systems",
+            "oligonucleotide library synthesis",
+            "regulatory sequences",
+            "synthetic biology"
+        ],
+        "MeSH terms": [
+            "Bacterial Proteins",
+            "DNA, Bacterial",
+            "Gene Library",
+            "Mycobacterium bovis",
+            "Nucleotide Motifs",
+            "Regulatory Sequences, Nucleic Acid",
+            "Streptomyces",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jimin",
+                "Last Name": "Park",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, New York 10032, United States."
+            },
+            {
+                "First Name": "Sung Sun",
+                "Last Name": "Yim",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, New York 10032, United States."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, New York 10032, United States."
+            }
+        ],
+        "Journal": "ACS synthetic biology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33432236",
+        "Title": "Robust direct digital-to-biological data storage in living cells.",
+        "Abstract": "DNA has been the predominant information storage medium for biology and holds great promise as a next-generation high-density data medium in the digital era. Currently, the vast majority of DNA-based data storage approaches rely on in vitro DNA synthesis. As such, there are limited methods to encode digital data into the chromosomes of living cells in a single step. Here, we describe a new electrogenetic framework for direct storage of digital data in living cells. Using an engineered redox-responsive CRISPR adaptation system, we encoded binary data in 3-bit units into CRISPR arrays of bacterial cells by electrical stimulation. We demonstrate multiplex data encoding into barcoded cell populations to yield meaningful information storage and capacity up to 72 bits, which can be maintained over many generations in natural open environments. This work establishes a direct digital-to-biological data storage framework and advances our capacity for information exchange between silicon- and carbon-based entities.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Base Sequence",
+            "CRISPR-Cas Systems",
+            "Carbon",
+            "Cell Engineering",
+            "DNA",
+            "Electricity",
+            "Electrochemical Techniques",
+            "Electrons",
+            "Escherichia coli",
+            "Ferrocyanides",
+            "Humans",
+            "Information Storage and Retrieval",
+            "Oligonucleotide Array Sequence Analysis",
+            "Oxidation-Reduction",
+            "Sequence Analysis, DNA",
+            "Silicon"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sung Sun",
+                "Last Name": "Yim",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Ross M",
+                "Last Name": "McBee",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Alan M",
+                "Last Name": "Song",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Yiming",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Ravi U",
+                "Last Name": "Sheth",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA. hw2429@columbia.edu."
+            }
+        ],
+        "Journal": "Nature chemical biology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "32926785",
+        "Title": "Protecting Linear DNA Templates in Cell-Free Expression Systems from Diverse Bacteria.",
+        "Abstract": "Recent advances in cell-free systems have opened up new capabilities in synthetic biology from rapid prototyping of genetic circuits and metabolic pathways to portable diagnostics and biomanufacturing. A current bottleneck in cell-free systems, especially those employing non-",
+        "Keywords": [
+            "Chi",
+            "GamS",
+            "Ku",
+            "RecBCD",
+            "cell-free expression systems",
+            "linear DNA"
+        ],
+        "MeSH terms": [
+            "Bacteriophage lambda",
+            "Base Sequence",
+            "Cell-Free System",
+            "DNA, Bacterial",
+            "Enzyme Inhibitors",
+            "Escherichia coli",
+            "Escherichia coli Proteins",
+            "Exodeoxyribonuclease V",
+            "Exonucleases",
+            "Genes, Bacterial",
+            "Mycobacterium tuberculosis",
+            "Plasmids",
+            "Recombinant Proteins",
+            "Synthetic Biology",
+            "Transcription, Genetic",
+            "Viral Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sung Sun",
+                "Last Name": "Yim",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York 10027, United States."
+            },
+            {
+                "First Name": "Nathan I",
+                "Last Name": "Johns",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York 10027, United States."
+            },
+            {
+                "First Name": "Vincent",
+                "Last Name": "Noireaux",
+                "Affiliation": "School of Physics and Astronomy, University of Minnesota, Minneapolis, Minnesota 55455, United States."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York 10027, United States."
+            }
+        ],
+        "Journal": "ACS synthetic biology",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32657546",
+        "Title": "Programmable CRISPR-Cas transcriptional activation in bacteria.",
+        "Abstract": "Programmable gene activation enables fine-tuned regulation of endogenous and synthetic gene circuits to control cellular behavior. While CRISPR-Cas-mediated gene activation has been extensively developed for eukaryotic systems, similar strategies have been difficult to implement in bacteria. Here, we present a generalizable platform for screening and selection of functional bacterial CRISPR-Cas transcription activators. Using this platform, we identified a novel CRISPR activator, dCas9-AsiA, that could activate gene expression by more than 200-fold across genomic and plasmid targets with diverse promoters after directed evolution. The evolved dCas9-AsiA can simultaneously mediate activation and repression of bacterial regulons in E. coli. We further identified hundreds of promoters with varying basal expression that could be induced by dCas9-AsiA, which provides a rich resource of genetic parts for inducible gene activation. Finally, we show that dCas9-AsiA can be ported to other bacteria of clinical and bioindustrial relevance, thus enabling bacterial CRISPRa in more application areas. This work expands the toolbox for programmable gene regulation in bacteria and provides a useful resource for future engineering of other bacterial CRISPR-based gene regulators.",
+        "Keywords": [
+            "CRISPR tools",
+            "bacterial gene regulation",
+            "protein engineering",
+            "synthetic transcription activator"
+        ],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Bacteria",
+            "CRISPR-Cas Systems",
+            "Clustered Regularly Interspaced Short Palindromic Repeats",
+            "Directed Molecular Evolution",
+            "Escherichia coli",
+            "Gene Expression Regulation, Bacterial",
+            "Gene Library",
+            "Genes, Reporter",
+            "Promoter Regions, Genetic",
+            "Protein Engineering",
+            "RNA, Guide, CRISPR-Cas Systems",
+            "Sequence Alignment",
+            "Software",
+            "Transcription Factors",
+            "Transcription, Genetic",
+            "Viral Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hsing-I",
+                "Last Name": "Ho",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jennifer R",
+                "Last Name": "Fang",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jacky",
+                "Last Name": "Cheung",
+                "Affiliation": "Department of Computer Science and Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Molecular systems biology",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32514119",
+        "Title": "Genome and sequence determinants governing the expression of horizontally acquired DNA in bacteria.",
+        "Abstract": "While horizontal gene transfer is prevalent across the biosphere, the regulatory features that enable expression and functionalization of foreign DNA remain poorly understood. Here, we combine high-throughput promoter activity measurements and large-scale genomic analysis of regulatory regions to investigate the cross-compatibility of regulatory elements (REs) in bacteria. Functional characterization of thousands of natural REs in three distinct bacterial species revealed distinct expression patterns according to RE and recipient phylogeny. Host capacity to activate foreign promoters was proportional to their genomic GC content, while many low GC regulatory elements were both broadly active and had more transcription start sites across hosts. The difference in expression capabilities could be explained by the influence of the host GC content on the stringency of the AT-rich canonical σ70 motif necessary for transcription initiation. We further confirm the generalizability of this model and find widespread GC content adaptation of the σ70 motif in a set of 1,545 genomes from all major bacterial phyla. Our analysis identifies a key mechanism by which the strength of the AT-rich σ70 motif relative to a host's genomic GC content governs the capacity for expression of acquired DNA. These findings shed light on regulatory adaptation in the context of evolving genomic composition.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacteria",
+            "Base Composition",
+            "DNA",
+            "Gene Transfer, Horizontal",
+            "Genome, Bacterial",
+            "Transcription Initiation Site"
+        ],
+        "Authors": [
+            {
+                "First Name": "Antonio L C",
+                "Last Name": "Gomes",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Nathan I",
+                "Last Name": "Johns",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Anthony",
+                "Last Name": "Yang",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Florencia",
+                "Last Name": "Velez-Cortes",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Christopher S",
+                "Last Name": "Smillie",
+                "Affiliation": "Broad Institute, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Mark B",
+                "Last Name": "Smith",
+                "Affiliation": "Broad Institute, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Eric J",
+                "Last Name": "Alm",
+                "Affiliation": "Broad Institute, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA. hw2429@columbia.edu."
+            }
+        ],
+        "Journal": "The ISME journal",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31911609",
+        "Title": "Recording mobile DNA in the gut microbiota using an Escherichia coli CRISPR-Cas spacer acquisition platform.",
+        "Abstract": "The flow of genetic material between bacteria is central to the adaptation and evolution of bacterial genomes. However, our knowledge about DNA transfer within complex microbiomes is lacking, with most studies of horizontal gene transfer (HGT) relying on bioinformatic analyses of genetic elements maintained on evolutionary timescales or experimental measurements of phenotypically trackable markers. Here, we utilize the CRISPR-Cas spacer acquisition process to detect DNA acquisition events from complex microbiota in real-time and at nucleotide resolution. In this system, an E. coli recording strain is exposed to a microbial sample and spacers are acquired from transferred plasmids and permanently stored in genomic CRISPR arrays. Sequencing and analysis of acquired spacers enables identification of the transferred plasmids. This approach allowed us to identify individual mobile elements without relying on phenotypic markers or post-transfer replication. We found that HGT into the recording strain in human clinical fecal samples can be extensive and is driven by different plasmid types, with the IncX type being the most actively transferred.",
+        "Keywords": [],
+        "MeSH terms": [
+            "CRISPR-Cas Systems",
+            "Computational Biology",
+            "DNA, Bacterial",
+            "Escherichia coli",
+            "Feces",
+            "Gastrointestinal Microbiome",
+            "Gene Transfer, Horizontal",
+            "Humans",
+            "Interspersed Repetitive Sequences",
+            "Plasmids"
+        ],
+        "Authors": [
+            {
+                "First Name": "Christian",
+                "Last Name": "Munck",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Ravi U",
+                "Last Name": "Sheth",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Daniel E",
+                "Last Name": "Freedberg",
+                "Affiliation": "Department of Medicine, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA. hw2429@columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31879761",
+        "Title": "Scalable and cost-effective ribonuclease-based rRNA depletion for transcriptomics.",
+        "Abstract": "Bacterial RNA sequencing (RNA-seq) is a powerful approach for quantitatively delineating the global transcriptional profiles of microbes in order to gain deeper understanding of their physiology and function. Cost-effective bacterial RNA-seq requires efficient physical removal of ribosomal RNA (rRNA), which otherwise dominates transcriptomic reads. However, current methods to effectively deplete rRNA of diverse non-model bacterial species are lacking. Here, we describe a probe and ribonuclease based strategy for bacterial rRNA removal. We implemented the method using either chemically synthesized oligonucleotides or amplicon-based single-stranded DNA probes and validated the technique on three novel gut microbiota isolates from three distinct phyla. We further showed that different probe sets can be used on closely related species. We provide a detailed methods protocol, probe sets for >5000 common microbes from RefSeq, and an online tool to generate custom probe libraries. This approach lays the groundwork for large-scale and cost-effective bacterial transcriptomics studies.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacteria",
+            "Gene Expression Profiling",
+            "RNA, Bacterial",
+            "RNA, Ribosomal",
+            "RNA-Seq",
+            "Ribonucleases",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yiming",
+                "Last Name": "Huang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Ravi U",
+                "Last Name": "Sheth",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Kaufman",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31742433",
+        "Title": "An Engineered Cas-Transposon System for Programmable and Site-Directed DNA Transpositions.",
+        "Abstract": "Efficient site-directed insertion of heterologous DNA into a genome remains an outstanding challenge. Recombinases that can integrate kilobase-sized DNA constructs are difficult to reprogram to user-defined loci, while genomic insertion using CRISPR-Cas methods relies on inefficient host DNA repair machinery. Here, we describe a Cas-Transposon (CasTn) system for genomic insertions that uses a Himar1 transposase fused to a catalytically dead dCas9 nuclease to mediate programmable, site-directed transposition. Using cell-free ",
+        "Keywords": [],
+        "MeSH terms": [
+            "CRISPR-Associated Protein 9",
+            "CRISPR-Cas Systems",
+            "DNA Transposable Elements",
+            "Endonucleases",
+            "Escherichia coli",
+            "Gene Editing",
+            "Mutagenesis, Insertional",
+            "Recombination, Genetic",
+            "Transposases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sway P",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, New York."
+            }
+        ],
+        "Journal": "The CRISPR journal",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31464371",
+        "Title": "Multiplex transcriptional characterizations across diverse bacterial species using cell-free systems.",
+        "Abstract": "Cell-free expression systems enable rapid prototyping of genetic programs in vitro. However, current throughput of cell-free measurements is limited by the use of channel-limited fluorescent readouts. Here, we describe DNA Regulatory element Analysis by cell-Free Transcription and Sequencing (DRAFTS), a rapid and robust in vitro approach for multiplexed measurement of transcriptional activities from thousands of regulatory sequences in a single reaction. We employ this method in active cell lysates developed from ten diverse bacterial species. Interspecies analysis of transcriptional profiles from > 1,000 diverse regulatory sequences reveals functional differences in promoter activity that can be quantitatively modeled, providing a rich resource for tuning gene expression in diverse bacterial species. Finally, we examine the transcriptional capacities of dual-species hybrid lysates that can simultaneously harness gene expression properties of multiple organisms. We expect that this cell-free multiplex transcriptional measurement approach will improve genetic part prototyping in new bacterial chassis for synthetic biology.",
+        "Keywords": [
+            "cell-free expression systems",
+            "gene expression",
+            "massively parallel reporter assay",
+            "synthetic biology",
+            "transcription"
+        ],
+        "MeSH terms": [
+            "Actinobacteria",
+            "Firmicutes",
+            "Gene Library",
+            "High-Throughput Screening Assays",
+            "Promoter Regions, Genetic",
+            "Protein Biosynthesis",
+            "Proteobacteria",
+            "Subcellular Fractions",
+            "Synthetic Biology",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sung Sun",
+                "Last Name": "Yim",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Nathan I",
+                "Last Name": "Johns",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jimin",
+                "Last Name": "Park",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Antonio Lc",
+                "Last Name": "Gomes",
+                "Affiliation": "Department of Immunology, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Ross M",
+                "Last Name": "McBee",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Miles",
+                "Last Name": "Richardson",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Carlotta",
+                "Last Name": "Ronda",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Sway P",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Garenne",
+                "Affiliation": "School of Physics and Astronomy, University of Minnesota, Minneapolis, MN, USA."
+            },
+            {
+                "First Name": "Vincent",
+                "Last Name": "Noireaux",
+                "Affiliation": "School of Physics and Astronomy, University of Minnesota, Minneapolis, MN, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Molecular systems biology",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31395784",
+        "Title": "Synthetic sequence entanglement augments stability and containment of genetic information in cells.",
+        "Abstract": "In synthetic biology, methods for stabilizing genetically engineered functions and confining recombinant DNA to intended hosts are necessary to cope with natural mutation accumulation and pervasive lateral gene flow. We present a generalizable strategy to preserve and constrain genetic information through the computational design of overlapping genes. Overlapping a sequence with an essential gene altered its fitness landscape and produced a constrained evolutionary path, even for synonymous mutations. Embedding a toxin gene in a gene of interest restricted its horizontal propagation. We further demonstrated a multiplex and scalable approach to build and test >7500 overlapping sequence designs, yielding functional yet highly divergent variants from natural homologs. This work enables deeper exploration of natural and engineered overlapping genes and facilitates enhanced genetic stability and biocontainment in emerging applications.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacterial Proteins",
+            "DNA, Recombinant",
+            "Genes, Essential",
+            "Genes, Overlapping",
+            "Genetic Engineering",
+            "Genetic Fitness",
+            "Genomic Instability",
+            "Mutagenesis",
+            "Silent Mutation",
+            "Synthetic Biology",
+            "Threonine Dehydratase"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tomasz",
+                "Last Name": "Blazejewski",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Hsing-I",
+                "Last Name": "Ho",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA. hw2429@columbia.edu."
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31332325",
+        "Title": "Spatial metagenomic characterization of microbial biogeography in the gut.",
+        "Abstract": "Spatial structuring is important for the maintenance of natural ecological systems",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "DNA Barcoding, Taxonomic",
+            "DNA, Bacterial",
+            "Gastrointestinal Microbiome",
+            "Genome, Bacterial",
+            "Metagenome",
+            "Metagenomics",
+            "Mice",
+            "Microfluidic Analytical Techniques",
+            "RNA, Bacterial",
+            "RNA, Ribosomal, 16S",
+            "Sequence Analysis, DNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ravi U",
+                "Last Name": "Sheth",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Mingqiang",
+                "Last Name": "Li",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Weiqian",
+                "Last Name": "Jiang",
+                "Affiliation": "Department of Biomedical Engineering, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Sims",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Kam W",
+                "Last Name": "Leong",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA. hw2429@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature biotechnology",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30643213",
+        "Title": "Metagenomic engineering of the mammalian gut microbiome in situ.",
+        "Abstract": "Engineering of microbial communities in open environments remains challenging. Here we describe a platform used to identify and modify genetically tractable mammalian microbiota by engineering community-wide horizontal gene transfer events in situ. With this approach, we demonstrate that diverse taxa in the mouse gut microbiome can be modified directly with a desired genetic payload. In situ microbiome engineering in living animals allows novel capabilities to be introduced into established communities in their native milieu.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Separation",
+            "Escherichia coli",
+            "Female",
+            "Flow Cytometry",
+            "Gastrointestinal Microbiome",
+            "Gastrointestinal Tract",
+            "Gene Transfer Techniques",
+            "Genome",
+            "High-Throughput Nucleotide Sequencing",
+            "Metagenomics",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Microbiota",
+            "Plasmids",
+            "Protein Engineering",
+            "RNA, Ribosomal, 16S",
+            "Sequence Analysis, DNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Carlotta",
+                "Last Name": "Ronda",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Sway P",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Vitor",
+                "Last Name": "Cabral",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Stephanie J",
+                "Last Name": "Yaung",
+                "Affiliation": "Program in Medical Engineering and Medical Physics, Harvard-MIT Health Sciences and Technology, Massachusetts Institute of Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA. hw2429@columbia.edu."
+            }
+        ],
+        "Journal": "Nature methods",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30637352",
+        "Title": "Systematic and synthetic approaches to rewire regulatory networks.",
+        "Abstract": "Microbial gene regulatory networks are composed of cis- and trans-components that in concert act to control essential and adaptive cellular functions. Regulatory components and interactions evolve to adopt new configurations through mutations and network rewiring events, resulting in novel phenotypes that may benefit the cell. Advances in high-throughput DNA synthesis and sequencing have enabled the development of new tools and approaches to better characterize and perturb various elements of regulatory networks. Here, we highlight key recent approaches to systematically dissect the sequence space of cis-regulatory elements and trans-regulators as well as their inter-connections. These efforts yield fundamental insights into the architecture, robustness, and dynamics of gene regulation and provide models and design principles for building synthetic regulatory networks for a variety of practical applications.",
+        "Keywords": [
+            "Cis-regulatory elements",
+            "DNA synthesis",
+            "Gene regulation",
+            "Regulatory network rewiring",
+            "Trans-regulatory proteins"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jimin",
+                "Last Name": "Park",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, USA."
+            }
+        ],
+        "Journal": "Current opinion in systems biology",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "30237447",
+        "Title": "DNA-based memory devices for recording cellular events.",
+        "Abstract": "Measuring biological data across time and space is critical for understanding complex biological processes and for various biosurveillance applications. However, such data are often inaccessible or difficult to directly obtain. Less invasive, more robust and higher-throughput biological recording tools are needed to profile cells and their environments. DNA-based cellular recording is an emerging and powerful framework for tracking intracellular and extracellular biological events over time across living cells and populations. Here, we review and assess DNA recorders that utilize CRISPR nucleases, integrases and base-editing strategies, as well as recombinase and polymerase-based methods. Quantitative characterization, modelling and evaluation of these DNA-recording modalities can guide their design and implementation for specific application areas.",
+        "Keywords": [],
+        "MeSH terms": [
+            "CRISPR-Cas Systems",
+            "Computers, Molecular"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ravi U",
+                "Last Name": "Sheth",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA. hw2429@columbia.edu."
+            }
+        ],
+        "Journal": "Nature reviews. Genetics",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "30052624",
+        "Title": "Metagenomic mining of regulatory elements enables programmable species-selective gene expression.",
+        "Abstract": "Robust and predictably performing synthetic circuits rely on the use of well-characterized regulatory parts across different genetic backgrounds and environmental contexts. Here we report the large-scale metagenomic mining of thousands of natural 5' regulatory sequences from diverse bacteria, and their multiplexed gene expression characterization in industrially relevant microbes. We identified sequences with broad and host-specific expression properties that are robust in various growth conditions. We also observed substantial differences between species in terms of their capacity to utilize exogenous regulatory sequences. Finally, we demonstrate programmable species-selective gene expression that produces distinct and diverse output patterns in different microbes. Together, these findings provide a rich resource of characterized natural regulatory sequences and a framework that can be used to engineer synthetic gene circuits with unique and tunable cross-species functionality and properties, and also suggest the prospect of ultimately engineering complex behaviors at the community level.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Data Mining",
+            "Escherichia coli",
+            "Gene Expression Regulation",
+            "Genetic Engineering",
+            "Metabolic Engineering",
+            "Metabolic Networks and Pathways",
+            "Metagenomics",
+            "Regulatory Elements, Transcriptional",
+            "Species Specificity",
+            "Synthetic Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nathan I",
+                "Last Name": "Johns",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Antonio L C",
+                "Last Name": "Gomes",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Sung Sun",
+                "Last Name": "Yim",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Anthony",
+                "Last Name": "Yang",
+                "Affiliation": "School of Engineering and Applied Sciences, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Tomasz",
+                "Last Name": "Blazejewski",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Christopher S",
+                "Last Name": "Smillie",
+                "Affiliation": "Broad Institute, Cambridge, Massachusetts, USA."
+            },
+            {
+                "First Name": "Mark B",
+                "Last Name": "Smith",
+                "Affiliation": "Department of Biological Engineering, MIT, Cambridge, Massachusetts, USA."
+            },
+            {
+                "First Name": "Eric J",
+                "Last Name": "Alm",
+                "Affiliation": "Broad Institute, Cambridge, Massachusetts, USA."
+            },
+            {
+                "First Name": "Sriram",
+                "Last Name": "Kosuri",
+                "Affiliation": "Department of Chemistry and Biochemistry, University of California, Los Angeles, Los Angeles, California, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, New York, USA."
+            }
+        ],
+        "Journal": "Nature methods",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29170279",
+        "Title": "Multiplex recording of cellular events over time on CRISPR biological tape.",
+        "Abstract": "Although dynamics underlie many biological processes, our ability to robustly and accurately profile time-varying biological signals and regulatory programs remains limited. Here we describe a framework for storing temporal biological information directly in the genomes of a cell population. We developed a \"biological tape recorder\" in which biological signals trigger intracellular DNA production that is then recorded by the CRISPR-Cas adaptation system. This approach enables stable recording over multiple days and accurate reconstruction of temporal and lineage information by sequencing CRISPR arrays. We further demonstrate a multiplexing strategy to simultaneously record the temporal availability of three metabolites (copper, trehalose, and fucose) in the environment of a cell population over time. This work enables the temporal measurement of dynamic cellular states and environmental changes and suggests new applications for chronicling biological events on a large scale.",
+        "Keywords": [],
+        "MeSH terms": [
+            "CRISPR-Cas Systems",
+            "Cells",
+            "Copper",
+            "DNA",
+            "Fucose",
+            "Information Storage and Retrieval",
+            "Oligonucleotide Array Sequence Analysis",
+            "Trehalose"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ravi U",
+                "Last Name": "Sheth",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Sung Sun",
+                "Last Name": "Yim",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Felix L",
+                "Last Name": "Wu",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28287508",
+        "Title": "Live Imaging to Study Microtubule Dynamic Instability in Taxane-resistant Breast Cancers.",
+        "Abstract": "Taxanes such as docetaxel belong to a group of microtubule-targeting agents (MTAs) that are commonly relied upon to treat cancer. However, taxane resistance in cancerous cells drastically reduces the effectiveness of the drugs' long-term usage. Accumulated evidence suggests that the mechanisms underlying taxane resistance include both general mechanisms, such as the development of multidrug resistance due to the overexpression of drug-efflux proteins, and taxane-specific mechanisms, such as those that involve microtubule dynamics. Because taxanes target cell microtubules, measuring microtubule dynamic instability is an important step in determining the mechanisms of taxane resistance and provides insight into how to overcome this resistance. In the experiment, an in vivo method was used to measure microtubule dynamic instability. GFP-tagged α-tubulin was expressed and incorporated into microtubules in MCF-7 cells, allowing for the recording of the microtubule dynamics by time lapse using a sensitive camera. The results showed that, as opposed to the non-resistant parental MCF-7CC cells, the microtubule dynamics of docetaxel-resistant MCF-7TXT cells are insensitive to docetaxel treatment, which causes the resistance to docetaxel-induced mitotic arrest and apoptosis. This paper will outline this in vivo method of measuring microtubule dynamic instability.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Antineoplastic Agents",
+            "Apoptosis",
+            "Breast Neoplasms",
+            "Bridged-Ring Compounds",
+            "Diagnostic Imaging",
+            "Docetaxel",
+            "Drug Resistance, Neoplasm",
+            "Female",
+            "Humans",
+            "Microtubules",
+            "Taxoids",
+            "Tubulin",
+            "Tumor Cells, Cultured"
+        ],
+        "Authors": [
+            {
+                "First Name": "Richard",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Medical Genetics, Signal Transduction Research Group, Faculty of Medicine and Dentistry, University of Alberta."
+            },
+            {
+                "First Name": "Harris",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Medical Genetics, Signal Transduction Research Group, Faculty of Medicine and Dentistry, University of Alberta."
+            },
+            {
+                "First Name": "Zhixiang",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Medical Genetics, Signal Transduction Research Group, Faculty of Medicine and Dentistry, University of Alberta; zhixiang.wang@ualberta.ca."
+            }
+        ],
+        "Journal": "Journal of visualized experiments : JoVE",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27936040",
+        "Title": "A High-Throughput Strategy for Dissecting Mammalian Genetic Interactions.",
+        "Abstract": "Comprehensive delineation of complex cellular networks requires high-throughput interrogation of genetic interactions. To address this challenge, we describe the development of a multiplex combinatorial strategy to assess pairwise genetic interactions using CRISPR-Cas9 genome editing and next-generation sequencing. We characterize the performance of combinatorial genome editing and analysis using different promoter and gRNA designs and identified regions of the chimeric RNA that are compatible with next-generation sequencing preparation and quantification. This approach is an important step towards elucidating genetic networks relevant to human diseases and the development of more efficient Cas9-based therapeutics.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Base Sequence",
+            "CRISPR-Cas Systems",
+            "Gene Editing",
+            "Gene Regulatory Networks",
+            "HEK293 Cells",
+            "High-Throughput Nucleotide Sequencing",
+            "Humans",
+            "Promoter Regions, Genetic",
+            "RNA, Guide, CRISPR-Cas Systems"
+        ],
+        "Authors": [
+            {
+                "First Name": "Victoria B",
+                "Last Name": "Stockman",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Lila",
+                "Last Name": "Ghamsari",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Gorka",
+                "Last Name": "Lasso",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Barry",
+                "Last Name": "Honig",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Sagi D",
+                "Last Name": "Shapira",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27104615",
+        "Title": "The Role of Genome Accessibility in Transcription Factor Binding in Bacteria.",
+        "Abstract": "ChIP-seq enables genome-scale identification of regulatory regions that govern gene expression. However, the biological insights generated from ChIP-seq analysis have been limited to predictions of binding sites and cooperative interactions. Furthermore, ChIP-seq data often poorly correlate with in vitro measurements or predicted motifs, highlighting that binding affinity alone is insufficient to explain transcription factor (TF)-binding in vivo. One possibility is that binding sites are not equally accessible across the genome. A more comprehensive biophysical representation of TF-binding is required to improve our ability to understand, predict, and alter gene expression. Here, we show that genome accessibility is a key parameter that impacts TF-binding in bacteria. We developed a thermodynamic model that parameterizes ChIP-seq coverage in terms of genome accessibility and binding affinity. The role of genome accessibility is validated using a large-scale ChIP-seq dataset of the M. tuberculosis regulatory network. We find that accounting for genome accessibility led to a model that explains 63% of the ChIP-seq profile variance, while a model based in motif score alone explains only 35% of the variance. Moreover, our framework enables de novo ChIP-seq peak prediction and is useful for inferring TF-binding peaks in new experimental conditions by reducing the need for additional experiments. We observe that the genome is more accessible in intergenic regions, and that increased accessibility is positively correlated with gene expression and anti-correlated with distance to the origin of replication. Our biophysically motivated model provides a more comprehensive description of TF-binding in vivo from first principles towards a better representation of gene regulation in silico, with promising applications in systems biology.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bacteria",
+            "Biophysical Phenomena",
+            "Chromatin Immunoprecipitation",
+            "Computational Biology",
+            "Gene Regulatory Networks",
+            "Genome, Bacterial",
+            "Linear Models",
+            "Models, Biological",
+            "Mycobacterium tuberculosis",
+            "Protein Binding",
+            "Sequence Analysis, DNA",
+            "Systems Biology",
+            "Thermodynamics",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Antonio L C",
+                "Last Name": "Gomes",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27084981",
+        "Title": "Principles for designing synthetic microbial communities.",
+        "Abstract": "Advances in synthetic biology to build microbes with defined and controllable properties are enabling new approaches to design and program multispecies communities. This emerging field of synthetic ecology will be important for many areas of biotechnology, bioenergy and bioremediation. This endeavor draws upon knowledge from synthetic biology, systems biology, microbial ecology and evolution. Fully realizing the potential of this discipline requires the development of new strategies to control the intercellular interactions, spatiotemporal coordination, robustness, stability and biocontainment of synthetic microbial communities. Here, we review recent experimental, analytical and computational advances to study and build multi-species microbial communities with defined functions and behavior for various applications. We also highlight outstanding challenges and future directions to advance this field.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biodegradation, Environmental",
+            "Biotechnology",
+            "Ecosystem",
+            "Genetic Engineering",
+            "Microbial Consortia",
+            "Microbial Interactions",
+            "Organisms, Genetically Modified",
+            "Synthetic Biology",
+            "Systems Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Nathan I",
+                "Last Name": "Johns",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, USA; Integrated Program in Cellular, Molecular and Biomedical Studies, Columbia University Medical Center, New York, USA."
+            },
+            {
+                "First Name": "Tomasz",
+                "Last Name": "Blazejewski",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, USA; Integrated Program in Cellular, Molecular and Biomedical Studies, Columbia University Medical Center, New York, USA."
+            },
+            {
+                "First Name": "Antonio Lc",
+                "Last Name": "Gomes",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, USA; Department of Pathology and Cell Biology, Columbia University Medical Center, New York, USA. Electronic address: hw2429@columbia.edu."
+            }
+        ],
+        "Journal": "Current opinion in microbiology",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26916078",
+        "Title": "Manipulating Bacterial Communities by in situ Microbiome Engineering.",
+        "Abstract": "Microbial communities inhabit our entire planet and have a crucial role in biogeochemical processes, agriculture, biotechnology, and human health. Here, we argue that 'in situ microbiome engineering' represents a new paradigm of community-scale genetic and microbial engineering. We discuss contemporary applications of this approach to directly add, remove, or modify specific sets of functions and alter community-level properties in terrestrial, aquatic, and host-associated microbial communities. Specifically, we highlight emerging in situ genome engineering approaches as tractable techniques to manipulate microbial communities with high specificity and efficacy. Finally, we describe opportunities for technological innovation and ways to bridge existing knowledge gaps to accelerate the development of in situ approaches for microbiome manipulations.",
+        "Keywords": [
+            "genome engineering",
+            "microbial communities",
+            "microbiome engineering",
+            "phage",
+            "prebiotics",
+            "probiotics",
+            "synthetic biology",
+            "xenobiotics"
+        ],
+        "MeSH terms": [
+            "Bacteria",
+            "Microbiota",
+            "Probiotics",
+            "Safety"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ravi U",
+                "Last Name": "Sheth",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA; Integrated Program in Cellular, Molecular and Biomedical Studies, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Vitor",
+                "Last Name": "Cabral",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Sway P",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA; Integrated Program in Cellular, Molecular and Biomedical Studies, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY, USA; Department of Pathology and Cell Biology, Columbia University Medical Center, New York, NY, USA. Electronic address: hw2429@columbia.edu."
+            }
+        ],
+        "Journal": "Trends in genetics : TIG",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26222307",
+        "Title": "An Economic Framework of Microbial Trade.",
+        "Abstract": "A large fraction of microbial life on earth exists in complex communities where metabolic exchange is vital. Microbes trade essential resources to promote their own growth in an analogous way to countries that exchange goods in modern economic markets. Inspired by these similarities, we developed a framework based on general equilibrium theory (GET) from economics to predict the population dynamics of trading microbial communities. Our biotic GET (BGET) model provides an a priori theory of the growth benefits of microbial trade, yielding several novel insights relevant to understanding microbial ecology and engineering synthetic communities. We find that the economic concept of comparative advantage is a necessary condition for mutualistic trade. Our model suggests that microbial communities can grow faster when species are unable to produce essential resources that are obtained through trade, thereby promoting metabolic specialization and increased intercellular exchange. Furthermore, we find that species engaged in trade exhibit a fundamental tradeoff between growth rate and relative population abundance, and that different environments that put greater pressure on group selection versus individual selection will promote varying strategies along this growth-abundance spectrum. We experimentally tested this tradeoff using a synthetic consortium of Escherichia coli cells and found the results match the predictions of the model. This framework provides a foundation to study natural and engineered microbial communities through a new lens based on economic theories developed over the past century.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Escherichia coli",
+            "Microbial Consortia",
+            "Models, Biological"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joshua",
+                "Last Name": "Tasoff",
+                "Affiliation": "Department of Economics, Claremont Graduate University, Claremont, California, United States of America."
+            },
+            {
+                "First Name": "Michael T",
+                "Last Name": "Mee",
+                "Affiliation": "Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "24856730",
+        "Title": "Direct mutagenesis of thousands of genomic targets using microarray-derived oligonucleotides.",
+        "Abstract": "Multiplex Automated Genome Engineering (MAGE) allows simultaneous mutagenesis of multiple target sites in bacterial genomes using short oligonucleotides. However, large-scale mutagenesis requires hundreds to thousands of unique oligos, which are costly to synthesize and impossible to scale-up by traditional phosphoramidite column-based approaches. Here, we describe a novel method to amplify oligos from microarray chips for direct use in MAGE to perturb thousands of genomic sites simultaneously. We demonstrated the feasibility of large-scale mutagenesis by inserting T7 promoters upstream of 2585 operons in E. coli using this method, which we call Microarray-Oligonucleotide (MO)-MAGE. The resulting mutant library was characterized by high-throughput sequencing to show that all attempted insertions were estimated to have occurred at an average frequency of 0.02% per locus with 0.4 average insertions per cell. MO-MAGE enables cost-effective large-scale targeted genome engineering that should be useful for a variety of applications in synthetic biology and metabolic engineering.",
+        "Keywords": [
+            "MAGE",
+            "genome engineering",
+            "library synthesis",
+            "metabolic engineering",
+            "microarray"
+        ],
+        "MeSH terms": [
+            "Bacteriophage T7",
+            "Escherichia coli",
+            "Gene Library",
+            "Genetic Engineering",
+            "Genome, Bacterial",
+            "Metabolic Engineering",
+            "Mutagenesis",
+            "Oligonucleotide Array Sequence Analysis",
+            "Operon",
+            "Promoter Regions, Genetic",
+            "Synthetic Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mads T",
+                "Last Name": "Bonde",
+                "Affiliation": "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark , DK-2970 Hørsholm, Denmark."
+            },
+            {
+                "First Name": "Sriram",
+                "Last Name": "Kosuri",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hans J",
+                "Last Name": "Genee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kira",
+                "Last Name": "Sarup-Lytzen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George M",
+                "Last Name": "Church",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Morten O A",
+                "Last Name": "Sommer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "ACS synthetic biology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "24838875",
+        "Title": "Recent progress in engineering human-associated microbiomes.",
+        "Abstract": "Recent progress in molecular biology and genetics opens up the possibility of engineering a variety of biological systems, from single-cellular to multicellular organisms. The consortia of microbes that reside on the human body, the human-associated microbiota, are particularly interesting as targets for forward engineering and manipulation due to their relevance in health and disease. New technologies in analysis and perturbation of the human microbiota will lead to better diagnostic and therapeutic strategies against diseases of microbial origin or pathogenesis. Here, we discuss recent advances that are bringing us closer to realizing the true potential of an engineered human-associated microbial community.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Genetic Engineering",
+            "Host-Pathogen Interactions",
+            "Humans",
+            "Metagenomics",
+            "Microbiota",
+            "Models, Animal",
+            "Synthetic Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Stephanie J",
+                "Last Name": "Yaung",
+                "Affiliation": "Program in Medical Engineering Medical Physics, Harvard-MIT Health Sciences and Technology, Cambridge, MA, USA."
+            },
+            {
+                "First Name": "George M",
+                "Last Name": "Church",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Methods in molecular biology (Clifton, N.J.)",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24778240",
+        "Title": "Syntrophic exchange in synthetic microbial communities.",
+        "Abstract": "Metabolic crossfeeding is an important process that can broadly shape microbial communities. However, little is known about specific crossfeeding principles that drive the formation and maintenance of individuals within a mixed population. Here, we devised a series of synthetic syntrophic communities to probe the complex interactions underlying metabolic exchange of amino acids. We experimentally analyzed multimember, multidimensional communities of Escherichia coli of increasing sophistication to assess the outcomes of synergistic crossfeeding. We find that biosynthetically costly amino acids including methionine, lysine, isoleucine, arginine, and aromatics, tend to promote stronger cooperative interactions than amino acids that are cheaper to produce. Furthermore, cells that share common intermediates along branching pathways yielded more synergistic growth, but exhibited many instances of both positive and negative epistasis when these interactions scaled to higher dimensions. In more complex communities, we find certain members exhibiting keystone species-like behavior that drastically impact the community dynamics. Based on comparative genomic analysis of >6,000 sequenced bacteria from diverse environments, we present evidence suggesting that amino acid biosynthesis has been broadly optimized to reduce individual metabolic burden in favor of enhanced crossfeeding to support synergistic growth across the biosphere. These results improve our basic understanding of microbial syntrophy while also highlighting the utility and limitations of current modeling approaches to describe the dynamic complexities underlying microbial ecosystems. This work sets the foundation for future endeavors to resolve key questions in microbial ecology and evolution, and presents a platform to develop better and more robust engineered synthetic communities for industrial biotechnology.",
+        "Keywords": [
+            "amino acid exchange",
+            "population modeling",
+            "synthetic ecosystem"
+        ],
+        "MeSH terms": [
+            "Amino Acids",
+            "Amino Acids, Essential",
+            "Bacteria",
+            "Coculture Techniques",
+            "Ecology",
+            "Ecosystem",
+            "Escherichia coli",
+            "Gene Expression Regulation, Bacterial",
+            "Microbial Interactions",
+            "Models, Biological",
+            "Phylogeny",
+            "Temperature"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael T",
+                "Last Name": "Mee",
+                "Affiliation": "Department of Biomedical Engineering, Boston University, Boston, MA 02215;Department of Genetics, Harvard Medical School, Boston, MA 02115;"
+            },
+            {
+                "First Name": "James J",
+                "Last Name": "Collins",
+                "Affiliation": "Department of Biomedical Engineering, Boston University, Boston, MA 02215;Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115;Howard Hughes Medical Institute andCenter of Synthetic Biology, Boston University, Boston, MA 02215; and."
+            },
+            {
+                "First Name": "George M",
+                "Last Name": "Church",
+                "Affiliation": "Department of Genetics, Harvard Medical School, Boston, MA 02115;Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115; gchurch@genetics.med.harvard.edu hw2429@c2b2.columbia.edu."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032 gchurch@genetics.med.harvard.edu hw2429@c2b2.columbia.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24447372",
+        "Title": "Multiple mechanisms underlying acquired resistance to taxanes in selected docetaxel-resistant MCF-7 breast cancer cells.",
+        "Abstract": "Chemoresistance is a major factor involved in a poor response and reduced overall survival in patients with advanced breast cancer. Although extensive studies have been carried out to understand the mechanisms of chemoresistance, many questions remain unanswered.",
+        "Keywords": [],
+        "MeSH terms": [
+            "ATP Binding Cassette Transporter, Subfamily B",
+            "ATP Binding Cassette Transporter, Subfamily B, Member 1",
+            "Antineoplastic Agents, Phytogenic",
+            "Apoptosis",
+            "Breast Neoplasms",
+            "Docetaxel",
+            "Dose-Response Relationship, Drug",
+            "Doxorubicin",
+            "Drug Resistance, Neoplasm",
+            "Female",
+            "Humans",
+            "M Phase Cell Cycle Checkpoints",
+            "MCF-7 Cells",
+            "Microtubules",
+            "Paclitaxel",
+            "Protein Isoforms",
+            "Taxoids",
+            "Time Factors",
+            "Tubulin",
+            "Tubulin Modulators"
+        ],
+        "Authors": [
+            {
+                "First Name": "Harris",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "The",
+                "Last Name": "Vo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ali",
+                "Last Name": "Hajar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Li",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xinmei",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Amadeo M",
+                "Last Name": "Parissenti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David N",
+                "Last Name": "Brindley",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zhixiang",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Medical Genetics, University of Alberta, Edmonton, AB T6G 2H7, Canada. zhixiang.wang@ualberta.ca."
+            }
+        ],
+        "Journal": "BMC cancer",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "23340847",
+        "Title": "Genome-scale engineering for systems and synthetic biology.",
+        "Abstract": "Genome-modification technologies enable the rational engineering and perturbation of biological systems. Historically, these methods have been limited to gene insertions or mutations at random or at a few pre-defined locations across the genome. The handful of methods capable of targeted gene editing suffered from low efficiencies, significant labor costs, or both. Recent advances have dramatically expanded our ability to engineer cells in a directed and combinatorial manner. Here, we review current technologies and methodologies for genome-scale engineering, discuss the prospects for extending efficient genome modification to new hosts, and explore the implications of continued advances toward the development of flexibly programmable chasses, novel biochemistries, and safer organismal and ecological engineering.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Genetic Engineering",
+            "Genome",
+            "Models, Biological",
+            "Synthetic Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kevin M",
+                "Last Name": "Esvelt",
+                "Affiliation": "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115, USA. kevin.esvelt@wyss.harvard.edu"
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular systems biology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "22737598",
+        "Title": "Multiplexed in vivo His-tagging of enzyme pathways for in vitro single-pot multienzyme catalysis.",
+        "Abstract": "Protein pathways are dynamic and highly coordinated spatially and temporally, capable of performing a diverse range of complex chemistries and enzymatic reactions with precision and at high efficiency. Biotechnology aims to harvest these natural systems to construct more advanced in vitro reactions, capable of new chemistries and operating at high yield. Here, we present an efficient Multiplex Automated Genome Engineering (MAGE) strategy to simultaneously modify and co-purify large protein complexes and pathways from the model organism Escherichia coli to reconstitute functional synthetic proteomes in vitro. By application of over 110 MAGE cycles, we successfully inserted hexa-histidine sequences into 38 essential genes in vivo that encode for the entire translation machinery. Streamlined co-purification and reconstitution of the translation protein complex enabled protein synthesis in vitro. Our approach can be applied to a growing area of applications in in vitro one-pot multienzyme catalysis (MEC) to manipulate or enhance in vitro pathways such as natural product or carbohydrate biosynthesis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Biotechnology",
+            "Catalysis",
+            "Enzymes",
+            "Escherichia coli Proteins",
+            "Histidine",
+            "Metabolic Networks and Pathways",
+            "Protein Engineering",
+            "Synthetic Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Po-Yi",
+                "Last Name": "Huang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Xu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wilhelm",
+                "Last Name": "Haas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adam",
+                "Last Name": "Marblestone",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jun",
+                "Last Name": "Li",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steven P",
+                "Last Name": "Gygi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anthony C",
+                "Last Name": "Forster",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael C",
+                "Last Name": "Jewett",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George M",
+                "Last Name": "Church",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "ACS synthetic biology",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22722235",
+        "Title": "Engineering ecosystems and synthetic ecologies.",
+        "Abstract": "Microbial ecosystems play an important role in nature. Engineering these systems for industrial, medical, or biotechnological purposes are important pursuits for synthetic biologists and biological engineers moving forward. Here we provide a review of recent progress in engineering natural and synthetic microbial ecosystems. We highlight important forward engineering design principles, theoretical and quantitative models, new experimental and manipulation tools, and possible applications of microbial ecosystem engineering. We argue that simply engineering individual microbes will lead to fragile homogenous populations that are difficult to sustain, especially in highly heterogeneous and unpredictable environments. Instead, engineered microbial ecosystems are likely to be more robust and able to achieve complex tasks at the spatial and temporal resolution needed for truly programmable biology.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bioengineering",
+            "Biofilms",
+            "Computer Simulation",
+            "Ecology",
+            "Ecosystem",
+            "Gene Flow",
+            "Gene Transfer, Horizontal",
+            "Metabolic Networks and Pathways",
+            "Microbial Consortia",
+            "Models, Biological",
+            "Mutation",
+            "Synthetic Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael T",
+                "Last Name": "Mee",
+                "Affiliation": "Department of Biomedical Engineering, Boston University, MA, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular bioSystems",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22638574",
+        "Title": "Enhanced multiplex genome engineering through co-operative oligonucleotide co-selection.",
+        "Abstract": "Genome-scale engineering of living organisms requires precise and economical methods to efficiently modify many loci within chromosomes. One such example is the directed integration of chemically synthesized single-stranded deoxyribonucleic acid (oligonucleotides) into the chromosome of Escherichia coli during replication. Herein, we present a general co-selection strategy in multiplex genome engineering that yields highly modified cells. We demonstrate that disparate sites throughout the genome can be easily modified simultaneously by leveraging selectable markers within 500 kb of the target sites. We apply this technique to the modification of 80 sites in the E. coli genome.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Chromosomes, Bacterial",
+            "Escherichia coli",
+            "Genetic Engineering",
+            "Genome, Bacterial",
+            "Oligonucleotides"
+        ],
+        "Authors": [
+            {
+                "First Name": "Peter A",
+                "Last Name": "Carr",
+                "Affiliation": "The Center for Bits and Atoms, Massachusetts Institute of Technology, Cambridge, MA 02139, USA. carr@ll.mit.edu"
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bram",
+                "Last Name": "Sterling",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Farren J",
+                "Last Name": "Isaacs",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marc J",
+                "Last Name": "Lajoie",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Xu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George M",
+                "Last Name": "Church",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph M",
+                "Last Name": "Jacobson",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22484848",
+        "Title": "Genome-scale promoter engineering by coselection MAGE.",
+        "Abstract": "Multiplex automated genome engineering (MAGE) uses short oligonucleotides to scarlessly modify genomes; however, insertions >10 bases are still inefficient but can be improved substantially by selection of highly modified chromosomes. Here we describe 'coselection' MAGE (CoS-MAGE) to optimize biosynthesis of aromatic amino acid derivatives by combinatorially inserting multiple T7 promoters simultaneously into 12 genomic operons. Promoter libraries can be quickly generated to study gain-of-function epistatic interactions in gene networks.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Automation, Laboratory",
+            "Bacteriophage T7",
+            "Base Sequence",
+            "Chromosomes, Bacterial",
+            "Escherichia coli",
+            "Gene Regulatory Networks",
+            "Genetic Engineering",
+            "Genome",
+            "Genomics",
+            "Indigo Carmine",
+            "Indoles",
+            "Oligodeoxyribonucleotides",
+            "Promoter Regions, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, Massachusetts, USA. harris.wang@wyss.harvard.edu"
+            },
+            {
+                "First Name": "Hwangbeom",
+                "Last Name": "Kim",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Le",
+                "Last Name": "Cong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jaehwan",
+                "Last Name": "Jeong",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Duhee",
+                "Last Name": "Bang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George M",
+                "Last Name": "Church",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature methods",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21764749",
+        "Title": "Precise manipulation of chromosomes in vivo enables genome-wide codon replacement.",
+        "Abstract": "We present genome engineering technologies that are capable of fundamentally reengineering genomes from the nucleotide to the megabase scale. We used multiplex automated genome engineering (MAGE) to site-specifically replace all 314 TAG stop codons with synonymous TAA codons in parallel across 32 Escherichia coli strains. This approach allowed us to measure individual recombination frequencies, confirm viability for each modification, and identify associated phenotypes. We developed hierarchical conjugative assembly genome engineering (CAGE) to merge these sets of codon modifications into genomes with 80 precise changes, which demonstrate that these synonymous codon substitutions can be combined into higher-order strains without synthetic lethal effects. Our methods treat the chromosome as both an editable and an evolvable template, permitting the exploration of vast genetic landscapes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Chromosomes, Bacterial",
+            "Codon, Terminator",
+            "Conjugation, Genetic",
+            "Directed Molecular Evolution",
+            "Escherichia coli",
+            "Genetic Engineering",
+            "Genome, Bacterial",
+            "Genomic Instability",
+            "Mutagenesis, Site-Directed",
+            "Mutation",
+            "Phenotype",
+            "Recombination, Genetic",
+            "Templates, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Farren J",
+                "Last Name": "Isaacs",
+                "Affiliation": "Department of Genetics, Harvard Medical School, Boston, MA 02115, USA. farren.isaacs@yale.edu"
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Carr",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marc J",
+                "Last Name": "Lajoie",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bram",
+                "Last Name": "Sterling",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Laurens",
+                "Last Name": "Kraal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew C",
+                "Last Name": "Tolonen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tara A",
+                "Last Name": "Gianoulis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Daniel B",
+                "Last Name": "Goodman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nikos B",
+                "Last Name": "Reppas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher J",
+                "Last Name": "Emig",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Duhee",
+                "Last Name": "Bang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Samuel J",
+                "Last Name": "Hwang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael C",
+                "Last Name": "Jewett",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph M",
+                "Last Name": "Jacobson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George M",
+                "Last Name": "Church",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21609953",
+        "Title": "Modified bases enable high-efficiency oligonucleotide-mediated allelic replacement via mismatch repair evasion.",
+        "Abstract": "Genome engineering using single-stranded oligonucleotides is an efficient method for generating small chromosomal and episomal modifications in a variety of host organisms. The efficiency of this allelic replacement strategy is highly dependent on avoidance of the endogenous mismatch repair (MMR) machinery. However, global MMR inactivation generally results in significant accumulation of undesired background mutations. Here, we present a novel strategy using oligos containing chemically modified bases (2'-Fluoro-Uridine, 5-Methyl-deoxyCytidine, 2,6-Diaminopurine or Iso-deoxyGuanosine) in place of the standard T, C, A or G to avoid mismatch detection and repair, which we tested in Escherichia coli. This strategy increases transient allelic-replacement efficiencies by up to 20-fold, while maintaining a 100-fold lower background mutation level. We further show that the mismatched bases between the full length oligo and the chromosome are often not incorporated at the target site, probably due to nuclease activity at the 5' and 3' termini of the oligo. These results further elucidate the mechanism of oligo-mediated allelic replacement (OMAR) and enable improved methodologies for efficient, large-scale engineering of genomes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alleles",
+            "DNA Mismatch Repair",
+            "Escherichia coli Proteins",
+            "Genetic Engineering",
+            "MutS DNA Mismatch-Binding Protein",
+            "Oligonucleotides"
+        ],
+        "Authors": [
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Wyss Institute for Biologically Inspired Engineering, Harvard University, Department of Genetics, Harvard Medical School, Harvard University, Boston, MA 02115, USA. hhwang@genetics.med.harvard.edu"
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Xu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ashley J",
+                "Last Name": "Vonner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Church",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21601688",
+        "Title": "Multiplexed genome engineering and genotyping methods applications for synthetic biology and metabolic engineering.",
+        "Abstract": "Engineering at the scale of whole genomes requires fundamentally new molecular biology tools. Recent advances in recombineering using synthetic oligonucleotides enable the rapid generation of mutants at high efficiency and specificity and can be implemented at the genome scale. With these techniques, libraries of mutants can be generated, from which individuals with functionally useful phenotypes can be isolated. Furthermore, populations of cells can be evolved in situ by directed evolution using complex pools of oligonucleotides. Here, we discuss ways to utilize these multiplexed genome engineering methods, with special emphasis on experimental design and implementation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Base Sequence",
+            "Chromosomes",
+            "Genetic Engineering",
+            "Genome",
+            "Genotype",
+            "Molecular Biology",
+            "Molecular Sequence Data",
+            "Oligonucleotides",
+            "Polymerase Chain Reaction",
+            "Recombination, Genetic",
+            "Synthetic Biology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Genetics, Harvard Medical School, Boston, Massachusetts, USA."
+            },
+            {
+                "First Name": "George M",
+                "Last Name": "Church",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Methods in enzymology",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "20671114",
+        "Title": "Synthetic genomes for synthetic biology.",
+        "Abstract": "A genome synthesized entirely from scratch has been used to replace the native genome of a living cell, thus creating a new cell. This achievement marks a new frontier in synthetic biology to design and create genomes for organisms with few genetic tools and for applications in areas of energy, health care and the environment.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Escherichia coli",
+            "Genes, Synthetic",
+            "Genetic Engineering",
+            "Genome, Bacterial",
+            "Mycoplasma mycoides"
+        ],
+        "Authors": [
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Genetics, Harvard Medical School, 77 Avenue Louis Pasteur, Boston, MA 02115, USA. hhwang@genetics.med.harvard.edu"
+            }
+        ],
+        "Journal": "Journal of molecular cell biology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19633652",
+        "Title": "Programming cells by multiplex genome engineering and accelerated evolution.",
+        "Abstract": "The breadth of genomic diversity found among organisms in nature allows populations to adapt to diverse environments. However, genomic diversity is difficult to generate in the laboratory and new phenotypes do not easily arise on practical timescales. Although in vitro and directed evolution methods have created genetic variants with usefully altered phenotypes, these methods are limited to laborious and serial manipulation of single genes and are not used for parallel and continuous directed evolution of gene networks or genomes. Here, we describe multiplex automated genome engineering (MAGE) for large-scale programming and evolution of cells. MAGE simultaneously targets many locations on the chromosome for modification in a single cell or across a population of cells, thus producing combinatorial genomic diversity. Because the process is cyclical and scalable, we constructed prototype devices that automate the MAGE technology to facilitate rapid and continuous generation of a diverse set of genetic changes (mismatches, insertions, deletions). We applied MAGE to optimize the 1-deoxy-D-xylulose-5-phosphate (DXP) biosynthesis pathway in Escherichia coli to overproduce the industrially important isoprenoid lycopene. Twenty-four genetic components in the DXP pathway were modified simultaneously using a complex pool of synthetic DNA, creating over 4.3 billion combinatorial genomic variants per day. We isolated variants with more than fivefold increase in lycopene production within 3 days, a significant improvement over existing metabolic engineering techniques. Our multiplex approach embraces engineering in the context of evolution by expediting the design and evolution of organisms with new and improved properties.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alleles",
+            "Biotechnology",
+            "Carotenoids",
+            "Chromosomes, Bacterial",
+            "DNA",
+            "Directed Molecular Evolution",
+            "Escherichia coli",
+            "Genetic Variation",
+            "Genome, Bacterial",
+            "Lycopene",
+            "Pentosephosphates"
+        ],
+        "Authors": [
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Genetics, Harvard Medical School, Boston, Massachusetts 02115, USA."
+            },
+            {
+                "First Name": "Farren J",
+                "Last Name": "Isaacs",
+                "Affiliation": "Department of Genetics, Harvard Medical School, Boston, Massachusetts 02115, USA."
+            },
+            {
+                "First Name": "Peter A",
+                "Last Name": "Carr",
+                "Affiliation": "The Center for Bits and Atoms, Cambridge, Massachusetts 02139, USA."
+            },
+            {
+                "First Name": "Zachary Z",
+                "Last Name": "Sun",
+                "Affiliation": "Harvard College, Cambridge, Massachusetts 02138, USA."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Xu",
+                "Affiliation": "Harvard College, Cambridge, Massachusetts 02138, USA."
+            },
+            {
+                "First Name": "Craig R",
+                "Last Name": "Forest",
+                "Affiliation": "George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, USA."
+            },
+            {
+                "First Name": "George M",
+                "Last Name": "Church",
+                "Affiliation": "Department of Genetics, Harvard Medical School, Boston, Massachusetts 02115, USA."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18383248",
+        "Title": "Physiological noise in MR images: an indicator of the tissue response to ischemia?",
+        "Abstract": "To determine whether measuring signal intensity (SI) fluctuations in MRI time series data from acute stroke patients would identify ischemic tissue.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Aged",
+            "Brain",
+            "Cerebrovascular Circulation",
+            "Female",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Magnetic Resonance Angiography",
+            "Male",
+            "Stroke",
+            "Vasomotor System"
+        ],
+        "Authors": [
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Medical Engineering Medical Physics Program, Division of Health Sciences and Technology, Harvard University-Massachusetts Institute of Technology, Cambridge, Massachusetts, USA."
+            },
+            {
+                "First Name": "Nina M",
+                "Last Name": "Menezes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ming Wang",
+                "Last Name": "Zhu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hakan",
+                "Last Name": "Ay",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Walter J",
+                "Last Name": "Koroshetz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hannu J",
+                "Last Name": "Aronen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jari O",
+                "Last Name": "Karonen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yawu",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Juho",
+                "Last Name": "Nuutinen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lawrence L",
+                "Last Name": "Wald",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "A Gregory",
+                "Last Name": "Sorensen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of magnetic resonance imaging : JMRI",
+        "PubDate": "2008"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "PMID": "38835626",
+        "Title": "Rethinking Human-AI Collaboration in Complex Medical Decision Making: A Case Study in Sepsis Diagnosis.",
+        "Abstract": "Today's AI systems for medical decision support often succeed on benchmark datasets in research papers but fail in real-world deployment. This work focuses on the decision making of sepsis, an acute life-threatening systematic infection that requires an early diagnosis with high uncertainty from the clinician. Our aim is to explore the design requirements for AI systems that can support clinical experts in making better decisions for the early diagnosis of sepsis. The study begins with a formative study investigating why clinical experts abandon an existing AI-powered Sepsis predictive module in their electrical health record (EHR) system. We argue that a human-centered AI system needs to support human experts in the intermediate stages of a medical decision-making process (e.g., generating hypotheses or gathering data), instead of focusing only on the final decision. Therefore, we build SepsisLab based on a state-of-the-art AI algorithm and extend it to predict the future projection of sepsis development, visualize the prediction uncertainty, and propose actionable suggestions (i.e., which additional laboratory tests can be collected) to reduce such uncertainty. Through heuristic evaluation with six clinicians using our prototype system, we demonstrate that SepsisLab enables a promising human-AI collaboration paradigm for the future of AI-assisted sepsis diagnosis and other high-stakes medical decision making.",
+        "Keywords": [
+            "Human-AI collaboration",
+            "Medical decision making",
+            "Sepsis diagnosis"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Shao",
+                "Last Name": "Zhang",
+                "Affiliation": "Northeastern University, Boston, Massachusetts, United States."
+            },
+            {
+                "First Name": "Jianing",
+                "Last Name": "Yu",
+                "Affiliation": "Northeastern University, Boston, Massachusetts, United States."
+            },
+            {
+                "First Name": "Xuhai",
+                "Last Name": "Xu",
+                "Affiliation": "Massachusetts Institute of Technology, Cambridge, Massachusetts, United States."
+            },
+            {
+                "First Name": "Changchang",
+                "Last Name": "Yin",
+                "Affiliation": "The Ohio State University, Columbus, Ohio, United States."
+            },
+            {
+                "First Name": "Yuxuan",
+                "Last Name": "Lu",
+                "Affiliation": "Northeastern University, Boston, Massachusetts, United States."
+            },
+            {
+                "First Name": "Bingsheng",
+                "Last Name": "Yao",
+                "Affiliation": "Rensselaer Polytechnic Institute, Troy, New York, United States."
+            },
+            {
+                "First Name": "Melanie",
+                "Last Name": "Tory",
+                "Affiliation": "Northeastern University, Portland, Maine, United States."
+            },
+            {
+                "First Name": "Lace M",
+                "Last Name": "Padilla",
+                "Affiliation": "Northeastern University, Boston, Massachusetts, United States."
+            },
+            {
+                "First Name": "Jeffrey",
+                "Last Name": "Caterino",
+                "Affiliation": "The Ohio State University Wexner Medical Center, Columbus, Ohio, United States."
+            },
+            {
+                "First Name": "Ping",
+                "Last Name": "Zhang",
+                "Affiliation": "The Ohio State University, Columbus, Ohio, United States."
+            },
+            {
+                "First Name": "Dakuo",
+                "Last Name": "Wang",
+                "Affiliation": "Northeastern University, Boston, Massachusetts, United States."
+            }
+        ],
+        "Journal": "Proceedings of the SIGCHI conference on human factors in computing systems. CHI Conference",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "36085850",
+        "Title": "Detecting Physiological Responses Using Multimodal Earbud Sensors.",
+        "Abstract": "Continuous stress exposure negatively impacts mental and physical well-being. Physiological arousal due to stress affects heartbeat frequency, changes breathing pattern and peripheral temperature, among several other bodily responses. Traditionally stress detection is performed by collecting signals such as electrocardiogram (ECG), respiration, and skin conductance response using uncomfortable sensors such as a chestband. In this study, we use earbuds that passively measure photoplethysmography (PPG), core body temperature, and inertial measurements. We have conducted a lab study exposing 18 participants to an evaluated speech task and additional tasks aimed at increasing stress or promoting relaxation. We simultaneously collected PPG, ECG, impedance cardiography (ICG), and blood pressure using laboratory grade equipment as reference measurements. We show that the earbud PPG sensor can reliably capture heart rate and heart rate variability. We further show that earbud signals can be used to classify the physiological responses associated with stress with 91.30% recall, 80.52% precision, and 85.12% F1-score using a random forest classifier with leave-one-subject-out cross-validation. The accuracy can further be improved through multi-modal sensing. These findings demonstrate the feasibility of using earbuds for passively monitoring users' physiological responses.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Blood Pressure",
+            "Cardiography, Impedance",
+            "Electrocardiography",
+            "Heart Rate",
+            "Humans",
+            "Photoplethysmography"
+        ],
+        "Authors": [
+            {
+                "First Name": "Md Mahbubur",
+                "Last Name": "Rahman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xuhai",
+                "Last Name": "Xu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Viswam",
+                "Last Name": "Nathan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tousif",
+                "Last Name": "Ahmed",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mohsin Yusuf",
+                "Last Name": "Ahmed",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dan",
+                "Last Name": "McCaffrey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jilong",
+                "Last Name": "Kuang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Trevor",
+                "Last Name": "Cowell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Moore",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wendy Berry",
+                "Last Name": "Mendes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jun Alex",
+                "Last Name": "Gao",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+        "PubDate": "2022"
+    }
+]

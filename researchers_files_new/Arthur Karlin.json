@@ -1,0 +1,486 @@
+[
+    {
+        "PMID": "26123196",
+        "Title": "Membrane potential and Ca2+ concentration dependence on pressure and vasoactive agents in arterial smooth muscle: A model.",
+        "Abstract": "Arterial smooth muscle (SM) cells respond autonomously to changes in intravascular pressure, adjusting tension to maintain vessel diameter. The values of membrane potential (Vm) and sarcoplasmic Ca(2+) concentration (Ca(in)) within minutes of a change in pressure are the results of two opposing pathways, both of which use Ca(2+) as a signal. This works because the two Ca(2+)-signaling pathways are confined to distinct microdomains in which the Ca(2+) concentrations needed to activate key channels are transiently higher than Ca(in). A mathematical model of an isolated arterial SM cell is presented that incorporates the two types of microdomains. The first type consists of junctions between cisternae of the peripheral sarcoplasmic reticulum (SR), containing ryanodine receptors (RyRs), and the sarcolemma, containing voltage- and Ca(2+)-activated K(+) (BK) channels. These junctional microdomains promote hyperpolarization, reduced Ca(in), and relaxation. The second type is postulated to form around stretch-activated nonspecific cation channels and neighboring Ca(2+)-activated Cl(-) channels, and promotes the opposite (depolarization, increased Ca(in), and contraction). The model includes three additional compartments: the sarcoplasm, the central SR lumen, and the peripheral SR lumen. It incorporates 37 protein components. In addition to pressure, the model accommodates inputs of α- and β-adrenergic agonists, ATP, 11,12-epoxyeicosatrienoic acid, and nitric oxide (NO). The parameters of the equations were adjusted to obtain a close fit to reported Vm and Ca(in) as functions of pressure, which have been determined in cerebral arteries. The simulations were insensitive to ± 10% changes in most of the parameters. The model also simulated the effects of inhibiting RyR, BK, or voltage-activated Ca(2+) channels on Vm and Ca(in). Deletion of BK β1 subunits is known to increase arterial-SM tension. In the model, deletion of β1 raised Ca(in) at all pressures, and these increases were reversed by NO.",
+        "Keywords": [],
+        "MeSH terms": [
+            "8,11,14-Eicosatrienoic Acid",
+            "Adenosine Triphosphate",
+            "Arteries",
+            "Calcium",
+            "Calcium Channels",
+            "Calcium Signaling",
+            "Cardiovascular Agents",
+            "Chloride Channels",
+            "Large-Conductance Calcium-Activated Potassium Channels",
+            "Membrane Potentials",
+            "Models, Theoretical",
+            "Muscle, Smooth, Vascular",
+            "Myocytes, Smooth Muscle",
+            "Nitric Oxide",
+            "Pressure",
+            "Ryanodine Receptor Calcium Release Channel",
+            "Sarcolemma",
+            "Sarcoplasmic Reticulum"
+        ],
+        "Authors": [
+            {
+                "First Name": "Arthur",
+                "Last Name": "Karlin",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Department of Physiology and Cellular Biophysics, and Department of Neurology, College of Physicians and Surgeons, Columbia University, New York, NY 10032 ak12@columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of general physiology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25667410",
+        "Title": "Positions of the cytoplasmic end of BK α S0 helix relative to S1-S6 and of β1 TM1 and TM2 relative to S0-S6.",
+        "Abstract": "The large-conductance, voltage- and Ca(2+)-gated K(+) (BK) channel consists of four α subunits, which form a voltage- and Ca(2+)-gated channel, and up to four modulatory β subunits. The β1 subunit is expressed in smooth muscle, where it slows BK channel kinetics and shifts the conductance-voltage (G-V) curve to the left at [Ca(2+)] > 2 µM. In addition to the six transmembrane (TM) helices, S1-S6, conserved in all voltage-dependent K(+) channels, BK α has a unique seventh TM helix, S0, which may contribute to the unusual rightward shift in the G-V curve of BK α in the absence of β1 and to a leftward shift in its presence. Such a role is supported by the close proximity of S0 to S3 and S4 in the voltage-sensing domain. Furthermore, on the extracellular side of the membrane, one of the two TM helices of β1, TM2, is adjacent to S0. We have now analyzed induced disulfide bond formation between substituted Cys residues on the cytoplasmic side of the membrane. There, in contrast, S0 is closest to the S2-S3 loop, from which position it is displaced on the addition of β1. The cytoplasmic ends of β1 TM1 and TM2 are adjacent and are located between the S2-S3 loop of one α subunit and S1 of a neighboring α subunit and are not adjacent to S0; i.e., S0 and TM2 have different trajectories through the membrane. In the absence of β1, 70% of disulfide bonding of W43C (S0) and L175C (S2-S3) has no effect on V50 for activation, implying that the cytoplasmic end of S0 and the S2-S3 loop move in concert, if at all, during activation. Otherwise, linking them together in one state would obstruct the transition to the other state, which would certainly change V50.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Sequence",
+            "Amino Acid Substitution",
+            "Animals",
+            "Cysteine",
+            "HEK293 Cells",
+            "Humans",
+            "Ion Channel Gating",
+            "Large-Conductance Calcium-Activated Potassium Channels",
+            "Mice",
+            "Molecular Sequence Data",
+            "Protein Structure, Tertiary"
+        ],
+        "Authors": [
+            {
+                "First Name": "Guoxia",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Medicine, Division of Cardiology; Department of Pharmacology; and Department of Biochemistry, Department of Physiology, and Department of Neurology, Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, New York, NY 10032 Department of Medicine, Division of Cardiology; Department of Pharmacology; and Department of Biochemistry, Department of Physiology, and Department of Neurology, Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Sergey I",
+                "Last Name": "Zakharov",
+                "Affiliation": "Department of Medicine, Division of Cardiology; Department of Pharmacology; and Department of Biochemistry, Department of Physiology, and Department of Neurology, Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, New York, NY 10032 Department of Medicine, Division of Cardiology; Department of Pharmacology; and Department of Biochemistry, Department of Physiology, and Department of Neurology, Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Yongneng",
+                "Last Name": "Yao",
+                "Affiliation": "Department of Medicine, Division of Cardiology; Department of Pharmacology; and Department of Biochemistry, Department of Physiology, and Department of Neurology, Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, New York, NY 10032 Department of Medicine, Division of Cardiology; Department of Pharmacology; and Department of Biochemistry, Department of Physiology, and Department of Neurology, Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, New York, NY 10032 Department of Medicine, Division of Cardiology; Department of Pharmacology; and Department of Biochemistry, Department of Physiology, and Department of Neurology, Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Steven O",
+                "Last Name": "Marx",
+                "Affiliation": "Department of Medicine, Division of Cardiology; Department of Pharmacology; and Department of Biochemistry, Department of Physiology, and Department of Neurology, Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, New York, NY 10032 Department of Medicine, Division of Cardiology; Department of Pharmacology; and Department of Biochemistry, Department of Physiology, and Department of Neurology, Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, New York, NY 10032 sm460@columbia.edu ak12@columbia.edu."
+            },
+            {
+                "First Name": "Arthur",
+                "Last Name": "Karlin",
+                "Affiliation": "Department of Medicine, Division of Cardiology; Department of Pharmacology; and Department of Biochemistry, Department of Physiology, and Department of Neurology, Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, New York, NY 10032 Department of Medicine, Division of Cardiology; Department of Pharmacology; and Department of Biochemistry, Department of Physiology, and Department of Neurology, Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, New York, NY 10032 Department of Medicine, Division of Cardiology; Department of Pharmacology; and Department of Biochemistry, Department of Physiology, and Department of Neurology, Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, New York, NY 10032 sm460@columbia.edu ak12@columbia.edu."
+            }
+        ],
+        "Journal": "The Journal of general physiology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "20385746",
+        "Title": "Location of modulatory beta subunits in BK potassium channels.",
+        "Abstract": "Large-conductance voltage- and calcium-activated potassium (BK) channels contain four pore-forming alpha subunits and four modulatory beta subunits. From the extents of disulfide cross-linking in channels on the cell surface between cysteine (Cys) substituted for residues in the first turns in the membrane of the S0 transmembrane (TM) helix, unique to BK alpha, and of the voltage-sensing domain TM helices S1-S4, we infer that S0 is next to S3 and S4, but not to S1 and S2. Furthermore, of the two beta1 TM helices, TM2 is next to S0, and TM1 is next to TM2. Coexpression of alpha with two substituted Cys's, one in S0 and one in S2, and beta1 also with two substituted Cys's, one in TM1 and one in TM2, resulted in two alphas cross-linked by one beta. Thus, each beta lies between and can interact with the voltage-sensing domains of two adjacent alpha subunits.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Membrane",
+            "Cells, Cultured",
+            "Cysteine",
+            "Disulfides",
+            "Humans",
+            "Kidney",
+            "Large-Conductance Calcium-Activated Potassium Channels",
+            "Mice",
+            "Models, Molecular",
+            "Protein Structure, Tertiary",
+            "Protein Subunits",
+            "Transfection"
+        ],
+        "Authors": [
+            {
+                "First Name": "Guoxia",
+                "Last Name": "Liu",
+                "Affiliation": "Division of Cardiology, Department of Medicine, LaGuardia Community College, Long Island City, NY 11101, USA."
+            },
+            {
+                "First Name": "Xiaowei",
+                "Last Name": "Niu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roland S",
+                "Last Name": "Wu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Neelesh",
+                "Last Name": "Chudasama",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yongneng",
+                "Last Name": "Yao",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xin",
+                "Last Name": "Jin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Weinberg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sergey I",
+                "Last Name": "Zakharov",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Howard",
+                "Last Name": "Motoike",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steven O",
+                "Last Name": "Marx",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arthur",
+                "Last Name": "Karlin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of general physiology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "15353554",
+        "Title": "Determination of the critical concentration of neutrophils required to block bacterial growth in tissues.",
+        "Abstract": "We showed previously that the competition between bacterial killing by neutrophils and bacterial growth in stirred serum-containing suspensions could be modeled as the competition between a first-order reaction (bacterial growth) and a second-order reaction (bacterial killing by neutrophils). The model provided a useful parameter, the critical neutrophil concentration (CNC), below which bacterial concentration increased and above which it decreased, independent of the initial bacterial concentration. We report here that this model applies to neutrophil killing of bacteria in three-dimensional fibrin matrices and in rabbit dermis. We measured killing of 10(3)-10(8) colony forming units/ml Staphylococcus epidermidis by 10(5)-10(8) human neutrophils/ml in fibrin gels. The CNC was approximately 4 x 10(6) neutrophils/ml gel in the presence of normal serum and approximately 1.6 x 10(7) neutrophils/ml gel in the presence of C5-deficient serum. Application of our model to published data of others on killing of approximately 5 x 10(7) to 2 x 10(8) E. coli/ml rabbit dermis yielded CNCs from approximately 4 x 10(6) to approximately 8 x 10(6) neutrophils/ml dermis. Thus, in disparate tissues and tissuelike environments, our model fits the kinetics of bacterial killing and gives similar lower limits (CNCs) to the neutrophil concentration required to control bacterial growth.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Division",
+            "Culture Media",
+            "Escherichia coli",
+            "Fibrin",
+            "Humans",
+            "Kinetics",
+            "Microscopy, Confocal",
+            "Neutrophils",
+            "Rabbits",
+            "Skin",
+            "Staphylococcus epidermidis",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yongmei",
+                "Last Name": "Li",
+                "Affiliation": "Dept. of Physiology and Cellular Biophysics, College of Physicians and Surgeons, Columbia University, 630 W. 168th St., New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Arthur",
+                "Last Name": "Karlin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John D",
+                "Last Name": "Loike",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Samuel C",
+                "Last Name": "Silverstein",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of experimental medicine",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "15211752",
+        "Title": "Transfer in SDS of biotinylated proteins from acrylamide gels to an avidin-coated membrane filter.",
+        "Abstract": "Avidin was covalently linked to aldehyde-derivatized polyethersulfone membrane filters. These filters were used in Western blot analysis of proteins reacted with biotinylation reagents and electrophoresed in sodium dodecyl sulfate (SDS) on polyacrylamide gels. Electrophoretic transfer from the gels to these filters was in 0.1% SDS, in which the covalently bound avidin retained its biotin-binding capacity. We compared Western blots on avidin-coated membrane filters of biotinylated and nonbiotinylated forms of mouse immunoglobulin G (IgG), mouse IgG heavy chain, muscle-type acetylcholine receptor alpha subunit, and fused alpha and beta subunits of receptor. Biotinylated proteins were captured with high specificity compared to their nonbiotinylated counterparts and sensitively detected on the avidin-coated membranes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acrylamides",
+            "Avidin",
+            "Biotinylation",
+            "Blotting, Western",
+            "Coated Materials, Biocompatible",
+            "Electrophoresis, Polyacrylamide Gel",
+            "Gels",
+            "Membranes, Artificial",
+            "Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Arthur",
+                "Last Name": "Karlin",
+                "Affiliation": "Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, 630 West 168th Street, New York, NY 10032, USA. ak12@columbia.edu"
+            },
+            {
+                "First Name": "Chaojian",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jing",
+                "Last Name": "Li",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Qiang",
+                "Last Name": "Xu",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BioTechniques",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "15046715",
+        "Title": "A touching picture of nicotinic binding.",
+        "Abstract": "The snail acetylcholine binding protein (AChBP) is homologous to the extracellular domains of the nicotinic ACh receptors. In this issue of Neuron, Celie et al. show how the crystal structures of AChBP in complexes with carbamylcholine and nicotine reveal the basis for agonist recognition by ACh receptors.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acetylcholine",
+            "Animals",
+            "Binding Sites",
+            "Carrier Proteins",
+            "Humans",
+            "Ligands",
+            "Nicotine",
+            "Nicotinic Agonists",
+            "Protein Structure, Tertiary",
+            "Receptors, Nicotinic",
+            "Synaptic Transmission"
+        ],
+        "Authors": [
+            {
+                "First Name": "Arthur",
+                "Last Name": "Karlin",
+                "Affiliation": "Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Neuron",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "12644710",
+        "Title": "Structural effects of quinacrine binding in the open channel of the acetylcholine receptor.",
+        "Abstract": "Noncompetitive inhibitors of the nicotinic acetylcholine (ACh) receptors suppress cation flux directly by binding in and blocking the open channel or indirectly by stabilizing closed states of the receptor. The lidocaine derivative QX-314 and the acridine derivative quinacrine act directly as open channel blockers, but can act indirectly as well. The binding site for quinacrine in the open channel of mouse-muscle ACh receptor was mapped in cysteine-substituted mutants of the alpha subunit expressed with wild-type beta, gamma, and delta subunits. In the open state, substituted cysteines in the inner half of the second membrane-spanning segment (M2), but not in the outer half, were protected by quinacrine from reaction with 2-aminoethyl methanethiosulfonate. In addition, an alkylating derivative, quinacrine mustard, affinity labeled a subset of the substituted cysteines in M2, but only in the open state. These results, mapped onto a model of the open channel surrounded by five alpha-helical M2s, imply that quinacrine binds midway down M2 in the same site previously mapped for QX-314. A cysteine substituted for a residue in the outer third of alphaM1, which reacted with 2-aminoethyl methanethiosulfonate only in the presence of ACh, reacted faster in the additional presence of quinacrine or QX-314. It is proposed that channel opening involves both the opening of the resting gate at the inner end of M2 and the removal of an obstruction formed by the outer end of M1 that retards diffusion of blockers into the closed channel. Blocker binding in the open channel causes a further change in structure.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Substitution",
+            "Animals",
+            "Binding Sites",
+            "Cysteine",
+            "Female",
+            "Kinetics",
+            "Mice",
+            "Models, Molecular",
+            "Mutagenesis, Site-Directed",
+            "Oocytes",
+            "Protein Structure, Secondary",
+            "Protein Subunits",
+            "Quinacrine",
+            "Quinacrine Mustard",
+            "Receptors, Cholinergic",
+            "Recombinant Proteins",
+            "Xenopus laevis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yong",
+                "Last Name": "Yu",
+                "Affiliation": "Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Lei",
+                "Last Name": "Shi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arthur",
+                "Last Name": "Karlin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12533666",
+        "Title": "A photochemical approach to the lipid accessibility of engineered cysteinyl residues.",
+        "Abstract": "Ordinary electrophilic reagents react too slowly in a nonpolar environment to be useful for the determination of the accessibility to lipid of continuous stretches of residues mutated to cysteine. By contrast, photoactivated 5-iodonaphthyl-1-azide (INA) reacted readily with 2-mercaptoethanol and dodecanethiol in nonpolar solvents and in liposomes. Continuous stretches of residues in the amphipathic N-terminal helix and first transmembrane helix of the bacterial potassium channel KcsA were replaced with cysteine, and the mutants were expressed in Escherichia coli and isolated in inner membranes. These membranes were dissolved in detergent and reconstituted into asolectin liposomes incorporating INA. The extent of light-induced reaction of INA with each cysteine was assayed by subsequent reaction with the gel-shifting, SH-specific methoxy-polyethylene glycol-2-pyridine disulfide. The pattern of apparent second-order rate constants for the photoreactions of eight substituted cysteines in the N-terminal helix conformed to other measures of lipid exposure. The pattern of the rate constants for the photoreactions of 15 cysteines in the first transmembrane helix had peaks every third residue, which partly conformed to other measures of lipid exposure.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Azides",
+            "Bacterial Proteins",
+            "Cysteine",
+            "Disulfides",
+            "Dose-Response Relationship, Drug",
+            "Electrophoresis, Polyacrylamide Gel",
+            "Escherichia coli",
+            "Kinetics",
+            "Light",
+            "Lipid Metabolism",
+            "Lipids",
+            "Liposomes",
+            "Mercaptoethanol",
+            "Models, Molecular",
+            "Mutagenesis",
+            "Photochemistry",
+            "Potassium",
+            "Potassium Channels",
+            "Protein Binding",
+            "Protein Structure, Tertiary",
+            "Sulfhydryl Compounds"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jing",
+                "Last Name": "Li",
+                "Affiliation": "Center for Molecular Recognition, College of Physicians and Surgeons, Columbia University, 630 West 168th Street, New York, NY 10032."
+            },
+            {
+                "First Name": "Lei",
+                "Last Name": "Shi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arthur",
+                "Last Name": "Karlin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12189213",
+        "Title": "Reactions of cysteines substituted in the amphipathic N-terminal tail of a bacterial potassium channel with hydrophilic and hydrophobic maleimides.",
+        "Abstract": "Single cysteine-substitution mutants of KcsA, a K(+) channel from Streptomyces lividans, were expressed in Escherichia coli, and inner membranes were isolated. The rate constants for the reactions of these cysteines with three maleimides of increasing hydrophobicity, 4-(N-maleimido)phenyltrimethylammonium, N-phenylmaleimide, and N-(1-pyrenyl)maleimide, were determined by back titration of the remaining cysteines with methoxypolyethylene glycol-2-pyridine disulfide (M(r) 3,000) and quantitation of the fraction of gel-shifted KcsA as a function of reaction time. The patterns of the rate constants for the reactions of all three reagents with eight consecutive cysteines in the partially lipid-immersed amphipathic N-terminal tail helix were the same, with cysteines on the hydrophilic side of the helix reacting faster than Cys on the hydrophobic side. The results are consistent with the tail helix lying with its long axis in the lipid-water interface and with the orientation of the helix fluctuating around this axis. The patterns of the rate constants for the three reagents were similar to the pattern of the probabilities that the substituted cysteines were exposed to water, based on the sum of the free energies of transfer from water to octanol of all of the residues exposed to lipid in each orientation of the helix.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cysteine",
+            "Kinetics",
+            "Maleimides",
+            "Models, Molecular",
+            "Potassium Channels"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jing",
+                "Last Name": "Li",
+                "Affiliation": "Center for Molecular Recognition, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Qiang",
+                "Last Name": "Xu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "D Marien",
+                "Last Name": "Cortes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eduardo",
+                "Last Name": "Perozo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Aaron",
+                "Last Name": "Laskey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arthur",
+                "Last Name": "Karlin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "12060772",
+        "Title": "A critical concentration of neutrophils is required for effective bacterial killing in suspension.",
+        "Abstract": "We have examined the effect of neutrophil concentration on killing of a clinical isolate of Staphylococcus epidermidis. Human neutrophils at concentrations varying from 10(5) to 10(7) per ml were mixed in suspension with S. epidermidis at concentrations varying from 10(3) to 10(8) colony-forming units/ml, and the concentration of viable bacteria was assayed after various times at 37 degrees C. The rate of bacterial killing depended on the concentration of neutrophils and not on the ratio of neutrophils to bacteria. Below a critical concentration of neutrophils, bacteria growth was greater than neutrophil killing of bacteria even when the ratio of neutrophils to bacteria was 100:1. We fitted the time course of bacterial concentration and its dependence on neutrophil concentration with an exponential function, the exponent of which is (-kp + g)t, where k is the second-order rate constant for bacterial killing, p is the neutrophil concentration, g is the first-order rate constant for bacterial growth, and t is time. We found that k approximately 2 x 10(-8) ml per neutrophil per min, and g approximately 8 x 10(-3)/min. Only when p is greater than g/k, which we call the critical neutrophil concentration, does the bacterial concentration fall. Under optimal assay conditions, the critical neutrophil concentration was 3-4 x 10(5) per ml, a value very close to that (< or =5 x 10(5) per ml) known to predispose humans to bacterial and fungal infections.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Blood Bactericidal Activity",
+            "Colony-Forming Units Assay",
+            "Humans",
+            "In Vitro Techniques",
+            "Kinetics",
+            "Neutrophils",
+            "Staphylococcus epidermidis",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yongmei",
+                "Last Name": "Li",
+                "Affiliation": "Department of Physiology and Cellular Biophysics, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Arthur",
+                "Last Name": "Karlin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John D",
+                "Last Name": "Loike",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Samuel C",
+                "Last Name": "Silverstein",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "11836518",
+        "Title": "Emerging structure of the nicotinic acetylcholine receptors.",
+        "Abstract": "The conversion of acetylcholine binding into ion conduction across the membrane is becoming more clearly understood in terms of the structure of the receptor and its transitions. A high-resolution structure of a protein that is homologous to the extracellular domain of the receptor has revealed the binding sites and subunit interfaces in great detail. Although the structures of the membrane and cytoplasmic domains are less well determined, the channel lining and the determinants of selectivity have been mapped. The location and structure of the gates, and the coupling between binding sites and gates, remain to be established.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acetylcholine",
+            "Animals",
+            "Binding Sites",
+            "Carrier Proteins",
+            "Cell Membrane",
+            "Humans",
+            "Ion Channels",
+            "Ligands",
+            "Protein Structure, Tertiary",
+            "Receptors, Nicotinic",
+            "Synaptic Transmission"
+        ],
+        "Authors": [
+            {
+                "First Name": "Arthur",
+                "Last Name": "Karlin",
+                "Affiliation": "Center for Molecular Recognition, Department of Biochemistry and Molecular Biophysics, Columbia University, New York, New York 10032, USA. ak12@columbia.edu"
+            }
+        ],
+        "Journal": "Nature reviews. Neuroscience",
+        "PubDate": "2002"
+    }
+]

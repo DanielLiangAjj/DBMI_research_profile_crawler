@@ -1,0 +1,2057 @@
+[
+    {
+        "PMID": "38352411",
+        "Title": "Predicting the DNA binding specificity of mutated transcription factors using family-level biophysically interpretable machine learning.",
+        "Abstract": "Sequence-specific interactions of transcription factors (TFs) with genomic DNA underlie many cellular processes. High-throughput ",
+        "Keywords": [
+            "DNA binding specificity",
+            "basic helix-loop-helix (bHLH) family",
+            "biophysically interpretable machine learning",
+            "functional impact of missense mutations",
+            "transcription factors"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Shaoxun",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Pilar",
+                "Last Name": "Gomez-Alcala",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Christ",
+                "Last Name": "Leemans",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "William J",
+                "Last Name": "Glassford",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Richard S",
+                "Last Name": "Mann",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38168434",
+        "Title": "Benchmarking DNA binding affinity models using allele-specific transcription factor binding data.",
+        "Abstract": "Transcription factors (TFs) bind to DNA in a highly sequence-specific manner. This specificity can manifest itself ",
+        "Keywords": [
+            "CTCF",
+            "ChIP-seq",
+            "DNA binding specificity",
+            "Gene expression regulation",
+            "allele-specific binding",
+            "biophysically interpretable machine learning",
+            "motif discovery",
+            "non-coding genetic variation",
+            "statistical modeling",
+            "transcription factors"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Xiaoting",
+                "Last Name": "Li",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Lucas A N",
+                "Last Name": "Melo",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37719147",
+        "Title": "Identifying genetic regulatory variants that affect transcription factor activity.",
+        "Abstract": "Genetic variants affecting gene expression levels in humans have been mapped in the Genotype-Tissue Expression (GTEx) project. ",
+        "Keywords": [
+            "RNA-seq data",
+            "aQTL",
+            "beta-binomial distribution",
+            "gene regulation",
+            "generalized linear model",
+            "genetic variation",
+            "genome-wide association",
+            "quantitative trait locus",
+            "trans-acting genetic variation",
+            "transcription factor activity",
+            "transcription factor perturbation signatures"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Xiaoting",
+                "Last Name": "Li",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Tuuli",
+                "Last Name": "Lappalainen",
+                "Affiliation": "New York Genome Center, New York, NY 10013, USA."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            }
+        ],
+        "Journal": "Cell genomics",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37013986",
+        "Title": "Defining the fine structure of promoter activity on a genome-wide scale with CISSECTOR.",
+        "Abstract": "Classic promoter mutagenesis strategies can be used to study how proximal promoter regions regulate the expression of particular genes of interest. This is a laborious process, in which the smallest sub-region of the promoter still capable of recapitulating expression in an ectopic setting is first identified, followed by targeted mutation of putative transcription factor binding sites. Massively parallel reporter assays such as survey of regulatory elements (SuRE) provide an alternative way to study millions of promoter fragments in parallel. Here we show how a generalized linear model (GLM) can be used to transform genome-scale SuRE data into a high-resolution genomic track that quantifies the contribution of local sequence to promoter activity. This coefficient track helps identify regulatory elements and can be used to predict promoter activity of any sub-region in the genome. It thus allows in silico dissection of any promoter in the human genome to be performed. We developed a web application, available at cissector.nki.nl, that lets researchers easily perform this analysis as a starting point for their research into any promoter of interest.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Binding Sites",
+            "Genome, Human",
+            "Promoter Regions, Genetic",
+            "Protein Binding",
+            "Regulatory Sequences, Nucleic Acid",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Vincent D",
+                "Last Name": "FitzPatrick",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Christ",
+                "Last Name": "Leemans",
+                "Affiliation": "Division of Gene Regulation, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands."
+            },
+            {
+                "First Name": "Joris",
+                "Last Name": "van Arensbergen",
+                "Affiliation": "Division of Gene Regulation, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands."
+            },
+            {
+                "First Name": "Bas",
+                "Last Name": "van Steensel",
+                "Affiliation": "Division of Gene Regulation, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35606422",
+        "Title": "Prediction of protein-ligand binding affinity from sequencing data with interpretable machine learning.",
+        "Abstract": "Protein-ligand interactions are increasingly profiled at high throughput using affinity selection and massively parallel sequencing. However, these assays do not provide the biophysical parameters that most rigorously quantify molecular interactions. Here we describe a flexible machine learning method, called ProBound, that accurately defines sequence recognition in terms of equilibrium binding constants or kinetic rates. This is achieved using a multi-layered maximum-likelihood framework that models both the molecular interactions and the data generation process. We show that ProBound quantifies transcription factor (TF) behavior with models that predict binding affinity over a range exceeding that of previous resources; captures the impact of DNA modifications and conformational flexibility of multi-TF complexes; and infers specificity directly from in vivo data such as ChIP-seq without peak calling. When coupled with an assay called K",
+        "Keywords": [],
+        "MeSH terms": [
+            "Binding Sites",
+            "Chromatin Immunoprecipitation",
+            "DNA",
+            "Ligands",
+            "Machine Learning",
+            "Protein Binding",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "H Tomas",
+                "Last Name": "Rube",
+                "Affiliation": "Department of Bioengineering, University of California, Merced, Merced, CA, USA."
+            },
+            {
+                "First Name": "Chaitanya",
+                "Last Name": "Rastogi",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Siqian",
+                "Last Name": "Feng",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Judith F",
+                "Last Name": "Kribelbauer",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Allyson",
+                "Last Name": "Li",
+                "Affiliation": "Department of Chemistry, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Basheer",
+                "Last Name": "Becerra",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Lucas A N",
+                "Last Name": "Melo",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Bach Viet",
+                "Last Name": "Do",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Xiaoting",
+                "Last Name": "Li",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Hammaad H",
+                "Last Name": "Adam",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Neel H",
+                "Last Name": "Shah",
+                "Affiliation": "Department of Chemistry, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Richard S",
+                "Last Name": "Mann",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA. hjb2004@columbia.edu."
+            }
+        ],
+        "Journal": "Nature biotechnology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "31689433",
+        "Title": "Toward a Mechanistic Understanding of DNA Methylation Readout by Transcription Factors.",
+        "Abstract": "Epigenetic DNA modification impacts gene expression, but the underlying molecular mechanisms are only partly understood. Adding a methyl group to a cytosine base locally modifies the structural features of DNA in multiple ways, which may change the interaction with DNA-binding transcription factors (TFs) and trigger a cascade of downstream molecular events. Cells can be probed using various functional genomics assays, but it is difficult to disentangle the confounded effects of DNA modification on TF binding, chromatin accessibility, intranuclear variation in local TF concentration, and rate of transcription. Here we discuss how high-throughput in vitro profiling of protein-DNA interactions has enabled comprehensive characterization and quantification of the methylation sensitivity of TFs. Despite the limited structural data for DNA containing methylated cytosine, automated analysis of structural information in the Protein Data Bank (PDB) shows how 5-methylcytosine (5mC) can be recognized in various ways by amino acid side chains. We discuss how a context-dependent effect of methylation on DNA groove geometry can affect DNA binding by homeodomain proteins and how principled modeling of ChIP-seq data can overcome the confounding that makes the interpretation of in vivo data challenging. The emerging picture is that epigenetic modifications affect TF binding in a highly context-specific manner, with a direction and effect size that depend critically on their position within the TF binding site and the amino acid sequence of the TF. With this improved mechanistic knowledge, we have come closer to understanding how cells use DNA modification to acquire, retain, and change their identity.",
+        "Keywords": [
+            "Confounding effects in the analysis of in vivo binding data (ChIP-seq)",
+            "Epigenetic modification of DNA",
+            "High-throughput in vitro assays",
+            "Quantifying the effect of cytosine methylation on transcription factor binding",
+            "Structural mechanisms including the effect of methylation on DNA shape"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Judith F",
+                "Last Name": "Kribelbauer",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA; Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA; Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Xiang-Jun",
+                "Last Name": "Lu",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Remo",
+                "Last Name": "Rohs",
+                "Affiliation": "Quantitative and Computational Biology, Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089, USA; Department of Chemistry, University of Southern California, Los Angeles, CA 90089, USA; Department of Physics & Astronomy, University of Southern California, Los Angeles, CA 90089, USA; Department of Computer Science, University of Southern California, Los Angeles, CA 90089, USA."
+            },
+            {
+                "First Name": "Richard S",
+                "Last Name": "Mann",
+                "Affiliation": "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY 10027, USA; Department of Systems Biology, Columbia University, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032, USA; Department of Neuroscience, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA; Department of Systems Biology, Columbia University, New York, NY 10032, USA. Electronic address: hjb2004@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of molecular biology",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31283382",
+        "Title": "Low-Affinity Binding Sites and the Transcription Factor Specificity Paradox in Eukaryotes.",
+        "Abstract": "Eukaryotic transcription factors (TFs) from the same structural family tend to bind similar DNA sequences, despite the ability of these TFs to execute distinct functions in vivo. The cell partly resolves this specificity paradox through combinatorial strategies and the use of low-affinity binding sites, which are better able to distinguish between similar TFs. However, because these sites have low affinity, it is challenging to understand how TFs recognize them in vivo. Here, we summarize recent findings and technological advancements that allow for the quantification and mechanistic interpretation of TF recognition across a wide range of affinities. We propose a model that integrates insights from the fields of genetics and cell biology to provide further conceptual understanding of TF binding specificity. We argue that in eukaryotes, target specificity is driven by an inhomogeneous 3D nuclear distribution of TFs and by variation in DNA binding affinity such that locally elevated TF concentration allows low-affinity binding sites to be functional.",
+        "Keywords": [
+            "3D genome architecture",
+            "local transcription factor concentration",
+            "low-affinity binding sites",
+            "phase separation",
+            "suboptimal binding sites",
+            "transcription regulation",
+            "transcriptional hubs"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Binding Sites",
+            "Eukaryota",
+            "Gene Expression Regulation",
+            "Humans",
+            "Regulatory Sequences, Nucleic Acid",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Judith F",
+                "Last Name": "Kribelbauer",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA; email: hjb2004@columbia.edu."
+            },
+            {
+                "First Name": "Chaitanya",
+                "Last Name": "Rastogi",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA; email: hjb2004@columbia.edu."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA; email: hjb2004@columbia.edu."
+            },
+            {
+                "First Name": "Richard S",
+                "Last Name": "Mann",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10031, USA; email: rsm10@columbia.edu."
+            }
+        ],
+        "Journal": "Annual review of cell and developmental biology",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "29610332",
+        "Title": "Accurate and sensitive quantification of protein-DNA binding affinity.",
+        "Abstract": "Transcription factors (TFs) control gene expression by binding to genomic DNA in a sequence-specific manner. Mutations in TF binding sites are increasingly found to be associated with human disease, yet we currently lack robust methods to predict these sites. Here, we developed a versatile maximum likelihood framework named No Read Left Behind (NRLB) that infers a biophysical model of protein-DNA recognition across the full affinity range from a library of in vitro selected DNA binding sites. NRLB predicts human Max homodimer binding in near-perfect agreement with existing low-throughput measurements. It can capture the specificity of the p53 tetramer and distinguish multiple binding modes within a single sample. Additionally, we confirm that newly identified low-affinity enhancer binding sites are functional in vivo, and that their contribution to gene expression matches their predicted affinity. Our results establish a powerful paradigm for identifying protein binding sites and interpreting gene regulatory sequences in eukaryotic genomes.",
+        "Keywords": [
+            "SELEX",
+            "computational modeling",
+            "enhancer assays",
+            "low-affinity binding sites",
+            "transcription factors"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Binding Sites",
+            "DNA",
+            "DNA Footprinting",
+            "DNA-Binding Proteins",
+            "Datasets as Topic",
+            "Drosophila Proteins",
+            "Electrophoretic Mobility Shift Assay",
+            "Enhancer Elements, Genetic",
+            "Gene Library",
+            "Homeodomain Proteins",
+            "Humans",
+            "Models, Molecular",
+            "Protein Binding",
+            "Protein Conformation",
+            "Recombinant Proteins",
+            "Transcription Factors",
+            "Tumor Suppressor Protein p53"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chaitanya",
+                "Last Name": "Rastogi",
+                "Affiliation": "Department of Applied Physics, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "H Tomas",
+                "Last Name": "Rube",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Judith F",
+                "Last Name": "Kribelbauer",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Crocker",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA 20147."
+            },
+            {
+                "First Name": "Ryan E",
+                "Last Name": "Loker",
+                "Affiliation": "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Gabriella D",
+                "Last Name": "Martini",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032."
+            },
+            {
+                "First Name": "Oleg",
+                "Last Name": "Laptenko",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "William A",
+                "Last Name": "Freed-Pastor",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Prives",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "David L",
+                "Last Name": "Stern",
+                "Affiliation": "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA 20147."
+            },
+            {
+                "First Name": "Richard S",
+                "Last Name": "Mann",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032; rsm10@columbia.edu hjb2004@columbia.edu."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, NY 10032; rsm10@columbia.edu hjb2004@columbia.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29472273",
+        "Title": "A unified approach for quantifying and interpreting DNA shape readout by transcription factors.",
+        "Abstract": "Transcription factors (TFs) interpret DNA sequence by probing the chemical and structural properties of the nucleotide polymer. DNA shape is thought to enable a parsimonious representation of dependencies between nucleotide positions. Here, we propose a unified mathematical representation of the DNA sequence dependence of shape and TF binding, respectively, which simplifies and enhances analysis of shape readout. First, we demonstrate that linear models based on mononucleotide features alone account for 60-70% of the variance in minor groove width, roll, helix twist, and propeller twist. This explains why simple scoring matrices that ignore all dependencies between nucleotide positions can partially account for DNA shape readout by a TF Adding dinucleotide features as sequence-to-shape predictors to our model, we can almost perfectly explain the shape parameters. Building on this observation, we developed a ",
+        "Keywords": [
+            "DNA binding specificity",
+            "DNA shape",
+            "sequence‐readout mechanisms",
+            "statistical analysis",
+            "transcription factors"
+        ],
+        "MeSH terms": [
+            "Binding Sites",
+            "Computational Biology",
+            "DNA",
+            "Models, Molecular",
+            "Models, Theoretical",
+            "Nucleic Acid Conformation",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "H Tomas",
+                "Last Name": "Rube",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Chaitanya",
+                "Last Name": "Rastogi",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Judith F",
+                "Last Name": "Kribelbauer",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA hjb2004@columbia.edu."
+            }
+        ],
+        "Journal": "Molecular systems biology",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28691107",
+        "Title": "Network-based approaches that exploit inferred transcription factor activity to analyze the impact of genetic variation on gene expression.",
+        "Abstract": "Over the past decade, a number of methods have emerged for inferring protein-level transcription factor activities in individual samples based on prior information about the structure of the gene regulatory network. We discuss how this has enabled new methods for dissecting trans-acting mechanisms that underpin genetic variation in gene expression.",
+        "Keywords": [
+            "QTL mapping",
+            "gene regulatory networks",
+            "systems genetics",
+            "transcription factor activity"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "Helen C",
+                "Last Name": "Causton",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Medical Center, New York, NY 10032."
+            },
+            {
+                "First Name": "Mina",
+                "Last Name": "Fazlollahi",
+                "Affiliation": "Department of Genetics and Genomic Sciences, Mount Sinai School of Medicine, New York, NY 10029."
+            },
+            {
+                "First Name": "Eunjee",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Genetics and Genomic Sciences, Mount Sinai School of Medicine, New York, NY 10029."
+            },
+            {
+                "First Name": "Ivor",
+                "Last Name": "Muroff",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027."
+            }
+        ],
+        "Journal": "Current opinion in systems biology",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28614722",
+        "Title": "Quantitative Analysis of the DNA Methylation Sensitivity of Transcription Factor Complexes.",
+        "Abstract": "Although DNA modifications play an important role in gene regulation, the underlying mechanisms remain elusive. We developed EpiSELEX-seq to probe the sensitivity of transcription factor binding to DNA modification in vitro using massively parallel sequencing. Feature-based modeling quantifies the effect of cytosine methylation (",
+        "Keywords": [
+            "5-methyl-cytosine",
+            "ChIP-seq data",
+            "SELEX-seq",
+            "bZIP",
+            "basic leucine zipper proteins",
+            "bisulfite sequencing",
+            "epigenetic DNA modification",
+            "epigenomics",
+            "high-throughput in vitro protein-DNA interaction profiling",
+            "human Hox protein complexes",
+            "integrative analysis",
+            "methylome",
+            "transcription factors",
+            "tumor suppressor protein p53"
+        ],
+        "MeSH terms": [
+            "DNA Methylation",
+            "Epigenesis, Genetic",
+            "Epigenomics",
+            "Gene Expression Regulation",
+            "Humans",
+            "Protein Binding",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Judith F",
+                "Last Name": "Kribelbauer",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA; Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Oleg",
+                "Last Name": "Laptenko",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Siying",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA; Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Gabriella D",
+                "Last Name": "Martini",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "William A",
+                "Last Name": "Freed-Pastor",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA; David H. Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02142, USA."
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Prives",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Richard S",
+                "Last Name": "Mann",
+                "Affiliation": "Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Department of Biochemistry and Molecular Biophysics, Columbia University Medical Center, New York, NY 10032, USA. Electronic address: rsm10@cumc.columbia.edu."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA; Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA. Electronic address: hjb2004@columbia.edu."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "26966232",
+        "Title": "Identifying genetic modulators of the connectivity between transcription factors and their transcriptional targets.",
+        "Abstract": "Regulation of gene expression by transcription factors (TFs) is highly dependent on genetic background and interactions with cofactors. Identifying specific context factors is a major challenge that requires new approaches. Here we show that exploiting natural variation is a potent strategy for probing functional interactions within gene regulatory networks. We developed an algorithm to identify genetic polymorphisms that modulate the regulatory connectivity between specific transcription factors and their target genes in vivo. As a proof of principle, we mapped connectivity quantitative trait loci (cQTLs) using parallel genotype and gene expression data for segregants from a cross between two strains of the yeast Saccharomyces cerevisiae We identified a nonsynonymous mutation in the DIG2 gene as a cQTL for the transcription factor Ste12p and confirmed this prediction empirically. We also identified three polymorphisms in TAF13 as putative modulators of regulation by Gcn4p. Our method has potential for revealing how genetic differences among individuals influence gene regulatory networks in any organism for which gene expression and genotype data are available along with information on binding preferences for transcription factors.",
+        "Keywords": [
+            "cofactor interactions",
+            "genetic variation in gene expression",
+            "quantitative trait locus mapping",
+            "transcription factors"
+        ],
+        "MeSH terms": [
+            "Algorithms",
+            "Basic-Leucine Zipper Transcription Factors",
+            "Gene Expression Regulation, Fungal",
+            "Gene Ontology",
+            "Gene Regulatory Networks",
+            "Genes, Mating Type, Fungal",
+            "Models, Genetic",
+            "Mutation",
+            "Promoter Regions, Genetic",
+            "Quantitative Trait Loci",
+            "Reproducibility of Results",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mina",
+                "Last Name": "Fazlollahi",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027; Department of Systems Biology, Columbia University, New York, NY 10032;"
+            },
+            {
+                "First Name": "Ivor",
+                "Last Name": "Muroff",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027;"
+            },
+            {
+                "First Name": "Eunjee",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027;"
+            },
+            {
+                "First Name": "Helen C",
+                "Last Name": "Causton",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Medical Center, New York, NY 10032 hc2415@cumc.columbia.edu hjb2004@columbia.edu."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027; Department of Systems Biology, Columbia University, New York, NY 10032; hc2415@cumc.columbia.edu hjb2004@columbia.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26701911",
+        "Title": "Building accurate sequence-to-affinity models from high-throughput in vitro protein-DNA binding data using FeatureREDUCE.",
+        "Abstract": "Transcription factors are crucial regulators of gene expression. Accurate quantitative definition of their intrinsic DNA binding preferences is critical to understanding their biological function. High-throughput in vitro technology has recently been used to deeply probe the DNA binding specificity of hundreds of eukaryotic transcription factors, yet algorithms for analyzing such data have not yet fully matured. Here, we present a general framework (FeatureREDUCE) for building sequence-to-affinity models based on a biophysically interpretable and extensible model of protein-DNA interaction that can account for dependencies between nucleotides within the binding interface or multiple modes of binding. When training on protein binding microarray (PBM) data, we use robust regression and modeling of technology-specific biases to infer specificity models of unprecedented accuracy and precision. We provide quantitative validation of our results by comparing to gold-standard data when available.",
+        "Keywords": [
+            "DNA binding specificity",
+            "biophysical model",
+            "computational biology",
+            "none",
+            "protein binding microarray technology",
+            "systems biology",
+            "transcription factor"
+        ],
+        "MeSH terms": [
+            "Base Sequence",
+            "Binding Sites",
+            "Biophysical Phenomena",
+            "Computational Biology",
+            "DNA",
+            "Microarray Analysis",
+            "Models, Theoretical",
+            "Protein Binding",
+            "Software",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Todd R",
+                "Last Name": "Riley",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Allan",
+                "Last Name": "Lazarovici",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Richard S",
+                "Last Name": "Mann",
+                "Affiliation": "Department of Systems Biology, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26184874",
+        "Title": "DSSR: an integrated software tool for dissecting the spatial structure of RNA.",
+        "Abstract": "Insight into the three-dimensional architecture of RNA is essential for understanding its cellular functions. However, even the classic transfer RNA structure contains features that are overlooked by existing bioinformatics tools. Here we present DSSR (Dissecting the Spatial Structure of RNA), an integrated and automated tool for analyzing and annotating RNA tertiary structures. The software identifies canonical and noncanonical base pairs, including those with modified nucleotides, in any tautomeric or protonation state. DSSR detects higher-order coplanar base associations, termed multiplets. It finds arrays of stacked pairs, classifies them by base-pair identity and backbone connectivity, and distinguishes a stem of covalently connected canonical pairs from a helix of stacked pairs of arbitrary type/linkage. DSSR identifies coaxial stacking of multiple stems within a single helix and lists isolated canonical pairs that lie outside of a stem. The program characterizes 'closed' loops of various types (hairpin, bulge, internal, and junction loops) and pseudoknots of arbitrary complexity. Notably, DSSR employs isolated pairs and the ends of stems, whether pseudoknotted or not, to define junction loops. This new, inclusive definition provides a novel perspective on the spatial organization of RNA. Tests on all nucleic acid structures in the Protein Data Bank confirm the efficiency and robustness of the software, and applications to representative RNA molecules illustrate its unique features. DSSR and related materials are freely available at http://x3dna.org/.",
+        "Keywords": [],
+        "MeSH terms": [
+            "CRISPR-Associated Proteins",
+            "DNA",
+            "Databases, Protein",
+            "Molecular Sequence Annotation",
+            "Nucleic Acid Conformation",
+            "RNA",
+            "RNA, Catalytic",
+            "RNA, Fungal",
+            "RNA, Transfer, Phe",
+            "RNA, Viral",
+            "Riboswitch",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xiang-Jun",
+                "Last Name": "Lu",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA xiangjun@x3dna.org."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA Department of Systems Biology, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wilma K",
+                "Last Name": "Olson",
+                "Affiliation": "Department of Chemistry and Chemical Biology, Rutgers - The State University of New Jersey, Piscataway, NJ 08854, USA."
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25617355",
+        "Title": "Recent progress in understanding transcription factor binding specificity.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Chromatin",
+            "DNA",
+            "Epigenesis, Genetic",
+            "Humans",
+            "Oligonucleotide Array Sequence Analysis",
+            "Protein Binding",
+            "SELEX Aptamer Technique",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, 1212 Amsterdam Ave, MC 2441, New York, NY 10027, USA hjb2004@columbia.edu."
+            }
+        ],
+        "Journal": "Briefings in functional genomics",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25160912",
+        "Title": "In search of the determinants of enhancer-promoter interaction specificity.",
+        "Abstract": "Although it was originally believed that enhancers activate only the nearest promoter, recent global analyses enabled by high-throughput technology suggest that the network of enhancer-promoter interactions is far more complex. The mechanisms that determine the specificity of enhancer-promoter interactions are still poorly understood, but they are thought to include biochemical compatibility, constraints imposed by the three-dimensional architecture of chromosomes, insulator elements, and possibly the effects of local chromatin composition. In this review, we assess the current insights into these determinants, and highlight the functional genomic approaches that will lead the way towards better mechanistic understanding.",
+        "Keywords": [
+            "biochemical compatibility",
+            "chromosome architecture",
+            "enhancer–promoter interaction",
+            "gene regulation"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Chromatin",
+            "Chromosomes",
+            "Enhancer Elements, Genetic",
+            "Gene Expression Regulation",
+            "Humans",
+            "Insulator Elements",
+            "Promoter Regions, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joris",
+                "Last Name": "van Arensbergen",
+                "Affiliation": "Division of Gene Regulation, Netherlands Cancer Institute, 1066 CX Amsterdam, The Netherlands."
+            },
+            {
+                "First Name": "Bas",
+                "Last Name": "van Steensel",
+                "Affiliation": "Division of Gene Regulation, Netherlands Cancer Institute, 1066 CX Amsterdam, The Netherlands. Electronic address: b.v.steensel@nki.nl."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA; Center for Computational Biology and Bioinformatics, Columbia University, New York, NY 10032, USA. Electronic address: hjb2004@columbia.edu."
+            }
+        ],
+        "Journal": "Trends in cell biology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25151169",
+        "Title": "SELEX-seq: a method for characterizing the complete repertoire of binding site preferences for transcription factor complexes.",
+        "Abstract": "The closely related members of the Hox family of homeodomain transcription factors have similar DNA-binding preferences as monomers, yet carry out distinct functions in vivo. Transcription factors often bind DNA as multiprotein complexes, raising the possibility that complex formation might modify their DNA-binding specificities. To test this hypothesis we developed a new experimental and computational platform, termed SELEX-seq, to characterize DNA-binding specificities of Hox-based multiprotein complexes. We found that complex formation with the same cofactor reveals latent specificities that are not observed for monomeric Hox factors. The findings from this in vitro platform are consistent with in vivo data, and the \"latent specificity\" concept serves as a precedent for how the specificities of similar transcription factors might be distinguished in vivo. Importantly, the SELEX-seq platform is flexible and can be used to determine the relative affinities to any DNA sequence for any transcription factor or multiprotein complex.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Binding Sites",
+            "Computational Biology",
+            "DNA",
+            "Electrophoretic Mobility Shift Assay",
+            "High-Throughput Nucleotide Sequencing",
+            "SELEX Aptamer Technique",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Todd R",
+                "Last Name": "Riley",
+                "Affiliation": "Department of Biological Sciences, Columbia University, 1212 Amsterdam Avenue, MC 2441, New York, NY, 10027, USA."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Slattery",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Namiko",
+                "Last Name": "Abe",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chaitanya",
+                "Last Name": "Rastogi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dahong",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard S",
+                "Last Name": "Mann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Methods in molecular biology (Clifton, N.J.)",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24947676",
+        "Title": "Characterizing a collective and dynamic component of chromatin immunoprecipitation enrichment profiles in yeast.",
+        "Abstract": "Recent chromatin immunoprecipitation (ChIP) experiments in fly, mouse, and human have revealed the existence of high-occupancy target (HOT) regions or \"hotspots\" that show enrichment across many assayed DNA-binding proteins. Similar co-enrichment observed in yeast so far has been treated as artifactual, and has not been fully characterized.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Chromatin",
+            "Chromatin Immunoprecipitation",
+            "Nucleosomes",
+            "RNA, Untranslated",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lucas D",
+                "Last Name": "Ward",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Junbai",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, 1212 Amsterdam Ave, New York, NY 10027, USA. hjb2004@columbia.edu."
+            }
+        ],
+        "Journal": "BMC genomics",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24938291",
+        "Title": "Harnessing natural sequence variation to dissect posttranscriptional regulatory networks in yeast.",
+        "Abstract": "Understanding how genomic variation influences phenotypic variation through the molecular networks of the cell is one of the central challenges of biology. Transcriptional regulation has received much attention, but equally important is the posttranscriptional regulation of mRNA stability. Here we applied a systems genetics approach to dissect posttranscriptional regulatory networks in the budding yeast Saccharomyces cerevisiae. Quantitative sequence-to-affinity models were built from high-throughput in vivo RNA binding protein (RBP) binding data for 15 yeast RBPs. Integration of these models with genome-wide mRNA expression data allowed us to estimate protein-level RBP regulatory activity for individual segregants from a genetic cross between two yeast strains. Treating these activities as a quantitative trait, we mapped trans-acting loci (activity quantitative trait loci, or aQTLs) that act via posttranscriptional regulation of transcript stability. We predicted and experimentally confirmed that a coding polymorphism at the IRA2 locus modulates Puf4p activity. Our results also indicate that Puf3p activity is modulated by distinct loci, depending on whether it acts via the 5' or the 3' untranslated region of its target mRNAs. Together, our results validate a general strategy for dissecting the connectivity between posttranscriptional [corrected] regulators and their upstream signaling pathways.",
+        "Keywords": [
+            "Pumilio/FBF homology domain proteins (Puf3p Puf4p)",
+            "RNA-binding proteins",
+            "cis-regulatory analysis",
+            "inference of protein-level regulatory activity",
+            "quantitative trait locus (QTL) mapping"
+        ],
+        "MeSH terms": [
+            "Gene Expression Regulation, Fungal",
+            "Genetic Variation",
+            "Protein Interaction Maps",
+            "Quantitative Trait Loci",
+            "RNA, Messenger",
+            "RNA-Binding Proteins",
+            "Real-Time Polymerase Chain Reaction",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mina",
+                "Last Name": "Fazlollahi",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, New York 10027 Department of Systems Biology, Columbia University, New York, New York 10032."
+            },
+            {
+                "First Name": "Eunjee",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, New York 10027."
+            },
+            {
+                "First Name": "Ivor",
+                "Last Name": "Muroff",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, New York 10027."
+            },
+            {
+                "First Name": "Xiang-Jun",
+                "Last Name": "Lu",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, New York 10027."
+            },
+            {
+                "First Name": "Pilar",
+                "Last Name": "Gomez-Alcala",
+                "Affiliation": "Electrical Engineering Department, Columbia University, New York, New York 10027."
+            },
+            {
+                "First Name": "Helen C",
+                "Last Name": "Causton",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, New York 10027 hjb2004@columbia.edu hc2415@columbia.edu."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, New York 10027 Department of Systems Biology, Columbia University, New York, New York 10032 hjb2004@columbia.edu hc2415@columbia.edu."
+            }
+        ],
+        "Journal": "G3 (Bethesda, Md.)",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24706889",
+        "Title": "Identifying regulatory mechanisms underlying tumorigenesis using locus expression signature analysis.",
+        "Abstract": "Retroviral insertional mutagenesis is a powerful tool for identifying putative cancer genes in mice. To uncover the regulatory mechanisms by which common insertion loci affect downstream processes, we supplemented genotyping data with genome-wide mRNA expression profiling data for 97 tumors induced by retroviral insertional mutagenesis. We developed locus expression signature analysis, an algorithm to construct and interpret the differential gene expression signature associated with each common insertion locus. Comparing locus expression signatures to promoter affinity profiles allowed us to build a detailed map of transcription factors whose protein-level regulatory activity is modulated by a particular locus. We also predicted a large set of drugs that might mitigate the effect of the insertion on tumorigenesis. Taken together, our results demonstrate the potential of a locus-specific signature approach for identifying mammalian regulatory mechanisms in a cancer context.",
+        "Keywords": [
+            "computational cancer biology",
+            "data integration",
+            "gene regulatory network",
+            "genome-wide expression profiling",
+            "transcription factor activity"
+        ],
+        "MeSH terms": [
+            "Analysis of Variance",
+            "Animals",
+            "Carcinogenesis",
+            "Cluster Analysis",
+            "Computational Biology",
+            "DNA Damage",
+            "Enzyme Inhibitors",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Neoplastic",
+            "Gene Ontology",
+            "Gene Regulatory Networks",
+            "Genetic Variation",
+            "High-Throughput Screening Assays",
+            "Mice",
+            "Neoplasms",
+            "Phosphoinositide-3 Kinase Inhibitors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eunjee",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027."
+            },
+            {
+                "First Name": "Jeroen",
+                "Last Name": "de Ridder",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jaap",
+                "Last Name": "Kool",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lodewyk F A",
+                "Last Name": "Wessels",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24398388",
+        "Title": "DAF-16 and PQM-1: partners in longevity.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Age Factors",
+            "Aging",
+            "Animals",
+            "Caenorhabditis elegans",
+            "Caenorhabditis elegans Proteins",
+            "Forkhead Transcription Factors",
+            "Genotype",
+            "Longevity",
+            "Models, Animal",
+            "Phenotype",
+            "Signal Transduction",
+            "Trans-Activators",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ronald G",
+                "Last Name": "Tepper",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Coleen T",
+                "Last Name": "Murphy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Aging",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "23911329",
+        "Title": "PQM-1 complements DAF-16 as a key transcriptional regulator of DAF-2-mediated development and longevity.",
+        "Abstract": "Reduced insulin/IGF-1-like signaling (IIS) extends C. elegans lifespan by upregulating stress response (class I) and downregulating other (class II) genes through a mechanism that depends on the conserved transcription factor DAF-16/FOXO. By integrating genome-wide mRNA expression responsiveness to DAF-16 with genome-wide in vivo binding data for a compendium of transcription factors, we discovered that PQM-1 is the elusive transcriptional activator that directly controls development (class II) genes by binding to the DAF-16-associated element (DAE). DAF-16 directly regulates class I genes only, through the DAF-16-binding element (DBE). Loss of PQM-1 suppresses daf-2 longevity and further slows development. Surprisingly, the nuclear localization of PQM-1 and DAF-16 is controlled by IIS in opposite ways and was also found to be mutually antagonistic. We observe progressive loss of nuclear PQM-1 with age, explaining declining expression of PQM-1 targets. Together, our data suggest an elegant mechanism for balancing stress response and development.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Caenorhabditis elegans",
+            "Caenorhabditis elegans Proteins",
+            "Forkhead Transcription Factors",
+            "Gene Expression Regulation, Developmental",
+            "Longevity",
+            "Receptor, Insulin",
+            "Regulatory Sequences, Nucleic Acid",
+            "Trans-Activators",
+            "Transcription Factors",
+            "Transcriptional Activation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ronald G",
+                "Last Name": "Tepper",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Jasmine",
+                "Last Name": "Ashraf",
+                "Affiliation": "Lewis-Sigler Institute for Integrative Genomics and Dept. of Molecular Biology, Princeton University, Princeton, NJ 08544, USA."
+            },
+            {
+                "First Name": "Rachel",
+                "Last Name": "Kaletsky",
+                "Affiliation": "Lewis-Sigler Institute for Integrative Genomics and Dept. of Molecular Biology, Princeton University, Princeton, NJ 08544, USA."
+            },
+            {
+                "First Name": "Gunnar",
+                "Last Name": "Kleemann",
+                "Affiliation": "Lewis-Sigler Institute for Integrative Genomics and Dept. of Molecular Biology, Princeton University, Princeton, NJ 08544, USA."
+            },
+            {
+                "First Name": "Coleen T",
+                "Last Name": "Murphy",
+                "Affiliation": "Lewis-Sigler Institute for Integrative Genomics and Dept. of Molecular Biology, Princeton University, Princeton, NJ 08544, USA."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23576721",
+        "Title": "Probing DNA shape and methylation state on a genomic scale with DNase I.",
+        "Abstract": "DNA binding proteins find their cognate sequences within genomic DNA through recognition of specific chemical and structural features. Here we demonstrate that high-resolution DNase I cleavage profiles can provide detailed information about the shape and chemical modification status of genomic DNA. Analyzing millions of DNA backbone hydrolysis events on naked genomic DNA, we show that the intrinsic rate of cleavage by DNase I closely tracks the width of the minor groove. Integration of these DNase I cleavage data with bisulfite sequencing data for the same cell type's genome reveals that cleavage directly adjacent to cytosine-phosphate-guanine (CpG) dinucleotides is enhanced at least eightfold by cytosine methylation. This phenomenon we show to be attributable to methylation-induced narrowing of the minor groove. Furthermore, we demonstrate that it enables simultaneous mapping of DNase I hypersensitivity and regional DNA methylation levels using dense in vivo cleavage data. Taken together, our results suggest a general mechanism by which CpG methylation can modulate protein-DNA interaction strength via the remodeling of DNA shape.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cells, Cultured",
+            "CpG Islands",
+            "DNA",
+            "DNA Methylation",
+            "Deoxyribonuclease I",
+            "Genomics",
+            "Humans",
+            "Models, Genetic",
+            "Models, Molecular",
+            "Nucleic Acid Conformation",
+            "Sequence Analysis, DNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Allan",
+                "Last Name": "Lazarovici",
+                "Affiliation": "Department of Electrical Engineering and Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Tianyin",
+                "Last Name": "Zhou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anthony",
+                "Last Name": "Shafer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ana Carolina",
+                "Last Name": "Dantas Machado",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Todd R",
+                "Last Name": "Riley",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard",
+                "Last Name": "Sandstrom",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Peter J",
+                "Last Name": "Sabo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yan",
+                "Last Name": "Lu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Remo",
+                "Last Name": "Rohs",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John A",
+                "Last Name": "Stamatoyannopoulos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "22696683",
+        "Title": "Perturbation-based analysis and modeling of combinatorial regulation in the yeast sulfur assimilation pathway.",
+        "Abstract": "In yeast, the pathways of sulfur assimilation are combinatorially controlled by five transcriptional regulators (three DNA-binding proteins [Met31p, Met32p, and Cbf1p], an activator [Met4p], and a cofactor [Met28p]) and a ubiquitin ligase subunit (Met30p). This regulatory system exerts combinatorial control not only over sulfur assimilation and methionine biosynthesis, but also on many other physiological functions in the cell. Recently we characterized a gene induction system that, upon the addition of an inducer, results in near-immediate transcription of a gene of interest under physiological conditions. We used this to perturb levels of single transcription factors during steady-state growth in chemostats, which facilitated distinction of direct from indirect effects of individual factors dynamically through quantification of the subsequent changes in genome-wide patterns of gene expression. We were able to show directly that Cbf1p acts sometimes as a repressor and sometimes as an activator. We also found circumstances in which Met31p/Met32p function as repressors, as well as those in which they function as activators. We elucidated and numerically modeled feedback relationships among the regulators, notably feedforward regulation of Met32p (but not Met31p) by Met4p that generates dynamic differences in abundance that can account for the differences in function of these two proteins despite their identical binding sites.",
+        "Keywords": [],
+        "MeSH terms": [
+            "5-Methyltetrahydrofolate-Homocysteine S-Methyltransferase",
+            "Basic Helix-Loop-Helix Leucine Zipper Transcription Factors",
+            "Binding Sites",
+            "DNA-Binding Proteins",
+            "F-Box Proteins",
+            "Gene Expression Regulation, Fungal",
+            "Genome, Fungal",
+            "Methionine",
+            "Protein Binding",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins",
+            "Sulfur",
+            "Transcription Factors",
+            "Transcription, Genetic",
+            "Ubiquitin",
+            "Ubiquitin-Protein Ligase Complexes"
+        ],
+        "Authors": [
+            {
+                "First Name": "R Scott",
+                "Last Name": "McIsaac",
+                "Affiliation": "The Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, NJ 08544, USA. rmcisaac@princeton.edu"
+            },
+            {
+                "First Name": "Allegra A",
+                "Last Name": "Petti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Botstein",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular biology of the cell",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "20865005",
+        "Title": "Identifying the genetic determinants of transcription factor activity.",
+        "Abstract": "Analysis of parallel genotyping and expression profiling data has shown that mRNA expression levels are highly heritable. Currently, only a tiny fraction of this genetic variance can be mechanistically accounted for. The influence of trans-acting polymorphisms on gene expression traits is often mediated by transcription factors (TFs). We present a method that exploits prior knowledge about the in vitro DNA-binding specificity of a TF in order to map the loci ('aQTLs') whose inheritance modulates its protein-level regulatory activity. Genome-wide regression of differential mRNA expression on predicted promoter affinity is used to estimate segregant-specific TF activity, which is subsequently mapped as a quantitative phenotype. In budding yeast, our method identifies six times as many locus-TF associations and more than twice as many trans-acting loci as all existing methods combined. Application to mouse data from an F2 intercross identified an aQTL on chromosome VII modulating the activity of Zscan4 in liver cells. Our method has greatly improved statistical power over existing methods, is mechanism based, strictly causal, computationally efficient, and generally applicable.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alleles",
+            "Animals",
+            "Chromosomes",
+            "Crosses, Genetic",
+            "Genome",
+            "Humans",
+            "Liver",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Inbred DBA",
+            "Models, Genetic",
+            "Quantitative Trait Loci",
+            "Regression Analysis",
+            "Saccharomycetales",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Eunjee",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular systems biology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20223772",
+        "Title": "The RNA backbone plays a crucial role in mediating the intrinsic stability of the GpU dinucleotide platform and the GpUpA/GpA miniduplex.",
+        "Abstract": "The side-by-side interactions of nucleobases contribute to the organization of RNA, forming the planar building blocks of helices and mediating chain folding. Dinucleotide platforms, formed by side-by-side pairing of adjacent bases, frequently anchor helices against loops. Surprisingly, GpU steps account for over half of the dinucleotide platforms observed in RNA-containing structures. Why GpU should stand out from other dinucleotides in this respect is not clear from the single well-characterized H-bond found between the guanine N2 and the uracil O4 groups. Here, we describe how an RNA-specific H-bond between O2'(G) and O2P(U) adds to the stability of the GpU platform. Moreover, we show how this pair of oxygen atoms forms an out-of-plane backbone 'edge' that is specifically recognized by a non-adjacent guanine in over 90% of the cases, leading to the formation of an asymmetric miniduplex consisting of 'complementary' GpUpA and GpA subunits. Together, these five nucleotides constitute the conserved core of the well-known loop-E motif. The backbone-mediated intrinsic stabilities of the GpU dinucleotide platform and the GpUpA/GpA miniduplex plausibly underlie observed evolutionary constraints on base identity. We propose that they may also provide a reason for the extreme conservation of GpU observed at most 5'-splice sites.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adenine Nucleotides",
+            "Evolution, Molecular",
+            "Guanine Nucleotides",
+            "Hydrogen Bonding",
+            "Models, Molecular",
+            "RNA",
+            "RNA Stability",
+            "Uracil Nucleotides"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xiang-Jun",
+                "Last Name": "Lu",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA. xl2134@columbia.edu"
+            },
+            {
+                "First Name": "Wilma K",
+                "Last Name": "Olson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "18769540",
+        "Title": "Inferring condition-specific modulation of transcription factor activity in yeast through regulon-based analysis of genomewide expression.",
+        "Abstract": "A key goal of systems biology is to understand how genomewide mRNA expression levels are controlled by transcription factors (TFs) in a condition-specific fashion. TF activity is frequently modulated at the post-translational level through ligand binding, covalent modification, or changes in sub-cellular localization. In this paper, we demonstrate how prior information about regulatory network connectivity can be exploited to infer condition-specific TF activity as a hidden variable from the genomewide mRNA expression pattern in the yeast Saccharomyces cerevisiae.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Physiological Phenomena",
+            "Gene Expression",
+            "Gene Expression Regulation, Fungal",
+            "Genome, Fungal",
+            "Green Fluorescent Proteins",
+            "Microscopy, Fluorescence",
+            "Models, Biological",
+            "Models, Genetic",
+            "Promoter Regions, Genetic",
+            "RNA, Messenger",
+            "Regulon",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins",
+            "Transcription Factors",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "André",
+                "Last Name": "Boorsma",
+                "Affiliation": "Swammerdam Institute for Life Sciences, University of Amsterdam, BioCentrum Amsterdam, Amsterdam, The Netherlands."
+            },
+            {
+                "First Name": "Xiang-Jun",
+                "Last Name": "Lu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Zakrzewska",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Frans M",
+                "Last Name": "Klis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18586710",
+        "Title": "Predicting functional transcription factor binding through alignment-free and affinity-based analysis of orthologous promoter sequences.",
+        "Abstract": "The identification of transcription factor (TF) binding sites and the regulatory circuitry that they define is currently an area of intense research. Data from whole-genome chromatin immunoprecipitation (ChIP-chip), whole-genome expression microarrays, and sequencing of multiple closely related genomes have all proven useful. By and large, existing methods treat the interpretation of functional data as a classification problem (between bound and unbound DNA), and the analysis of comparative data as a problem of local alignment (to recover phylogenetic footprints of presumably functional elements). Both of these approaches suffer from the inability to model and detect low-affinity binding sites, which have recently been shown to be abundant and functional.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Binding Sites",
+            "Promoter Regions, Genetic",
+            "Protein Binding",
+            "Sequence Alignment",
+            "Sequence Analysis",
+            "Sequence Homology, Nucleic Acid",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lucas D",
+                "Last Name": "Ward",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17947326",
+        "Title": "TransfactomeDB: a resource for exploring the nucleotide sequence specificity and condition-specific regulatory activity of trans-acting factors.",
+        "Abstract": "Accurate and comprehensive information about the nucleotide sequence specificity of trans-acting factors (TFs) is essential for computational and experimental analyses of gene regulatory networks. We present the Yeast Transfactome Database, a repository of sequence specificity models and condition-specific regulatory activities for a large number of DNA- and RNA-binding proteins in Saccharomyces cerevisiae. The sequence specificities in TransfactomeDB, represented as position-specific affinity matrices (PSAMs), are directly estimated from genomewide measurements of TF-binding using our previously published MatrixREDUCE algorithm, which is based on a biophysical model. For each mRNA expression profile in the NCBI Gene Expression Omnibus, we used sequence-based regression analysis to estimate the post-translational regulatory activity of each TF for which a PSAM is available. The trans-factor activity profiles across multiple experiments available in TransfactomeDB allow the user to explore potential regulatory roles of hundreds of TFs in any of thousands of microarray experiments. Our resource is freely available at http://bussemakerlab.org/TransfactomeDB/",
+        "Keywords": [],
+        "MeSH terms": [
+            "Binding Sites",
+            "DNA-Binding Proteins",
+            "Databases, Nucleic Acid",
+            "Gene Expression Profiling",
+            "Genome, Fungal",
+            "Internet",
+            "RNA-Binding Proteins",
+            "Regulatory Sequences, Nucleic Acid",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Barrett C",
+                "Last Name": "Foat",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, New York 10027, USA."
+            },
+            {
+                "First Name": "Ronald G",
+                "Last Name": "Tepper",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17903287",
+        "Title": "Dissecting complex transcriptional responses using pathway-level scores based on prior information.",
+        "Abstract": "The genomewide pattern of changes in mRNA expression measured using DNA microarrays is typically a complex superposition of the response of multiple regulatory pathways to changes in the environment of the cells. The use of prior information, either about the function of the protein encoded by each gene, or about the physical interactions between regulatory factors and the sequences controlling its expression, has emerged as a powerful approach for dissecting complex transcriptional responses.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Computational Biology",
+            "Computer Simulation",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation",
+            "Information Storage and Retrieval",
+            "Models, Biological",
+            "Oligonucleotide Array Sequence Analysis",
+            "Proteome",
+            "Signal Transduction",
+            "Transcription Factors",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, 1212 Amsterdam Avenue, MC 2441, New York, NY 10027, USA. hjb2004@columbia.edu"
+            },
+            {
+                "First Name": "Lucas D",
+                "Last Name": "Ward",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andre",
+                "Last Name": "Boorsma",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC bioinformatics",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17311525",
+        "Title": "Predictive modeling of genome-wide mRNA expression: from modules to molecules.",
+        "Abstract": "Various algorithms are available for predicting mRNA expression and modeling gene regulatory processes. They differ in whether they rely on the existence of modules of coregulated genes or build a model that applies to all genes, whether they represent regulatory activities as hidden variables or as mRNA levels, and whether they implicitly or explicitly model the complex cis-regulatory logic of multiple interacting transcription factors binding the same DNA. The fact that functional genomics data of different types reflect the same molecular processes provides a natural strategy for integrative computational analysis. One promising avenue toward an accurate and comprehensive model of gene regulation combines biophysical modeling of the interactions among proteins, DNA, and RNA with the use of large-scale functional genomics data to estimate regulatory network connectivity and activity parameters. As the ability of these models to represent complex cis-regulatory logic increases, the need for approaches based on cross-species conservation may diminish.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Base Sequence",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation",
+            "Genome",
+            "Humans",
+            "Macromolecular Substances",
+            "Models, Theoretical",
+            "Molecular Conformation",
+            "Molecular Sequence Data",
+            "RNA Processing, Post-Transcriptional",
+            "RNA, Messenger",
+            "Transcription Factors",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, New York 10027, USA. hjb2004@columbia.edu"
+            },
+            {
+                "First Name": "Barrett C",
+                "Last Name": "Foat",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lucas D",
+                "Last Name": "Ward",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annual review of biophysics and biomolecular structure",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17255947",
+        "Title": "HP1 controls genomic targeting of four novel heterochromatin proteins in Drosophila.",
+        "Abstract": "Heterochromatin is important for the maintenance of genome stability and regulation of gene expression; yet our knowledge of heterochromatin structure and function is incomplete. We identified four novel Drosophila heterochromatin proteins (HPs). Three of these proteins (HP3, HP4 and HP5) interact directly with HP1, whereas HP6 in turn binds to each of these three proteins. Immunofluorescence microscopy and genome-wide mapping of in vivo binding sites shows that all four proteins are components of heterochromatin. Depletion of HP1 causes redistribution of all four proteins, indicating that HP1 is essential for their heterochromatic targeting. Finally, mutants of HP4 and HP5 are dominant suppressors of position effect variegation, demonstrating their importance in heterochromatic gene silencing. These results indicate that HP1 acts as a docking platform for several mediator proteins that contribute to heterochromatin function.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Line",
+            "Chromosomal Proteins, Non-Histone",
+            "Chromosome Mapping",
+            "DNA Primers",
+            "Drosophila",
+            "Drosophila Proteins",
+            "Gene Silencing",
+            "Heterochromatin",
+            "Microarray Analysis",
+            "Microscopy, Fluorescence",
+            "RNA Interference",
+            "Two-Hybrid System Techniques"
+        ],
+        "Authors": [
+            {
+                "First Name": "Frauke",
+                "Last Name": "Greil",
+                "Affiliation": "Department of Molecular Biology, Netherlands Cancer Institute, Amsterdam, The Netherlands."
+            },
+            {
+                "First Name": "Elzo",
+                "Last Name": "de Wit",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bas",
+                "Last Name": "van Steensel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The EMBO journal",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "16873464",
+        "Title": "Statistical mechanical modeling of genome-wide transcription factor occupancy data by MatrixREDUCE.",
+        "Abstract": "Regulation of gene expression by a transcription factor requires physical interaction between the factor and the DNA, which can be described by a statistical mechanical model. Based on this model, we developed the MatrixREDUCE algorithm, which uses genome-wide occupancy data for a transcription factor (e.g. ChIP-chip) and associated nucleotide sequences to discover the sequence-specific binding affinity of the transcription factor. Advantages of our approach are that the information for all probes on the microarray is efficiently utilized because there is no need to delineate \"bound\" and \"unbound\" sequences, and that, unlike information content-based methods, it does not require a background sequence model.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Base Sequence",
+            "Binding Sites",
+            "Biomechanical Phenomena",
+            "Chromosome Mapping",
+            "Computer Simulation",
+            "DNA",
+            "Models, Genetic",
+            "Models, Statistical",
+            "Molecular Sequence Data",
+            "Protein Binding",
+            "Sequence Alignment",
+            "Sequence Analysis, DNA",
+            "Software",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Barrett C",
+                "Last Name": "Foat",
+                "Affiliation": "Department of Biological Sciences, Columbia University New York, NY 10027, USA."
+            },
+            {
+                "First Name": "Alexandre V",
+                "Last Name": "Morozov",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16859498",
+        "Title": "Detecting transcriptionally active regions using genomic tiling arrays.",
+        "Abstract": "We have developed a method for interpreting genomic tiling array data, implemented as the program TranscriptionDetector. Probed loci expressed above background are identified by combining replicates in a way that makes minimal assumptions about the data. We performed medium-resolution Anopheles gambiae tiling array experiments and found extensive transcription of both coding and non-coding regions. Our method also showed improved detection of transcriptional units when applied to high-density tiling array data for ten human chromosomes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Anopheles",
+            "Chromosomes, Human",
+            "Genomics",
+            "Humans",
+            "Nucleic Acid Hybridization",
+            "Sensitivity and Specificity",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gabor",
+                "Last Name": "Halasz",
+                "Affiliation": "Department of Biological Sciences, Columbia University, 1212 Amsterdam Avenue, New York, NY 10027, USA. gh74@columbia.edu"
+            },
+            {
+                "First Name": "Marinus F",
+                "Last Name": "van Batenburg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joelle",
+                "Last Name": "Perusse",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sujun",
+                "Last Name": "Hua",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiang-Jun",
+                "Last Name": "Lu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kevin P",
+                "Last Name": "White",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genome biology",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16738558",
+        "Title": "Modeling gene expression control using Omes Law.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Gene Expression Regulation",
+            "Models, Genetic",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular systems biology",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16317069",
+        "Title": "Profiling condition-specific, genome-wide regulation of mRNA stability in yeast.",
+        "Abstract": "The steady-state abundance of an mRNA is determined by the balance between transcription and decay. Although regulation of transcription has been well studied both experimentally and computationally, regulation of transcript stability has received little attention. We developed an algorithm, MatrixREDUCE, that discovers the position-specific affinity matrices for unknown RNA-binding factors and infers their condition-specific activities, using only genomic sequence data and steady-state mRNA expression data as input. We identified and computationally characterized the binding sites for six mRNA stability regulators in Saccharomyces cerevisiae, which include two members of the Pumilio-homology domain (Puf) family of RNA-binding proteins, Puf3p and Puf4p. We provide computational and experimental evidence that regulation of mRNA stability by these factors is modulated in response to a variety of environmental stimuli.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Fungal",
+            "Genome, Fungal",
+            "Oligonucleotide Array Sequence Analysis",
+            "Protein Folding",
+            "Protein Serine-Threonine Kinases",
+            "RNA Stability",
+            "RNA-Binding Proteins",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Barrett C",
+                "Last Name": "Foat",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA."
+            },
+            {
+                "First Name": "S Sean",
+                "Last Name": "Houshmandi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wendy M",
+                "Last Name": "Olivas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15980543",
+        "Title": "T-profiler: scoring the activity of predefined groups of genes using gene expression data.",
+        "Abstract": "One of the key challenges in the analysis of gene expression data is how to relate the expression level of individual genes to the underlying transcriptional programs and cellular state. Here we describe T-profiler, a tool that uses the t-test to score changes in the average activity of predefined groups of genes. The gene groups are defined based on Gene Ontology categorization, ChIP-chip experiments, upstream matches to a consensus transcription factor binding motif or location on the same chromosome. If desired, an iterative procedure can be used to select a single, optimal representative from sets of overlapping gene groups. T-profiler makes it possible to interpret microarray data in a way that is both intuitive and statistically rigorous, without the need to combine experiments or choose parameters. Currently, gene expression data from Saccharomyces cerevisiae and Candida albicans are supported. Users can upload their microarray data for analysis on the web at http://www.t-profiler.org.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Candida albicans",
+            "Gene Expression Profiling",
+            "Internet",
+            "Oligonucleotide Array Sequence Analysis",
+            "Saccharomyces cerevisiae",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "André",
+                "Last Name": "Boorsma",
+                "Affiliation": "Swammerdam Institute for Life Sciences-Microbiology, University of Amsterdam, Biocentrum Amsterdam, Nieuwe Achtergracht 166, 1018 WV Amsterdam, The Netherlands."
+            },
+            {
+                "First Name": "Barrett C",
+                "Last Name": "Foat",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Vis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Frans",
+                "Last Name": "Klis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15113405",
+        "Title": "Defining transcriptional networks through integrative modeling of mRNA expression and transcription factor binding data.",
+        "Abstract": "Functional genomics studies are yielding information about regulatory processes in the cell at an unprecedented scale. In the yeast S. cerevisiae, DNA microarrays have not only been used to measure the mRNA abundance for all genes under a variety of conditions but also to determine the occupancy of all promoter regions by a large number of transcription factors. The challenge is to extract useful information about the global regulatory network from these data.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Computational Biology",
+            "DNA, Fungal",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Fungal",
+            "Genes, Fungal",
+            "Models, Genetic",
+            "Oligonucleotide Array Sequence Analysis",
+            "Promoter Regions, Genetic",
+            "RNA, Fungal",
+            "RNA, Messenger",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins",
+            "Transcription Factors",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Feng",
+                "Last Name": "Gao",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, New York 10027, USA. fg2037@columbia.edu"
+            },
+            {
+                "First Name": "Barrett C",
+                "Last Name": "Foat",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC bioinformatics",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "12824350",
+        "Title": "REDUCE: An online tool for inferring cis-regulatory elements and transcriptional module activities from microarray data.",
+        "Abstract": "REDUCE is a motif-based regression method for microarray analysis. The only required inputs are (i) a single genome-wide set of absolute or relative mRNA abundances and (ii) the DNA sequence of the regulatory region associated with each gene that is probed. Currently supported organisms are yeast, worm and fly; it is an open question whether in its current incarnation our approach can be used for mouse or human. REDUCE uses unbiased statistics to identify oligonucleotide motifs whose occurrence in the regulatory region of a gene correlates with the level of mRNA expression. Regression analysis is used to infer the activity of the transcriptional module associated with each motif. REDUCE is available online at http://bussemaker.bio.columbia.edu/reduce/. This web site provides functionality for the upload and management of microarray data. REDUCE analysis results can be viewed and downloaded, and optionally be shared with other users or made publicly accessible.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Animals",
+            "Binding Sites",
+            "Database Management Systems",
+            "Drosophila melanogaster",
+            "Gene Expression Profiling",
+            "Internet",
+            "Oligonucleotide Array Sequence Analysis",
+            "RNA, Messenger",
+            "Regression Analysis",
+            "Regulatory Sequences, Nucleic Acid",
+            "Saccharomyces cerevisiae",
+            "Sequence Analysis, DNA",
+            "Software",
+            "Software Design",
+            "Transcription Factors",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Crispin",
+                "Last Name": "Roven",
+                "Affiliation": "Department of Biological Sciences, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12682375",
+        "Title": "Revisiting the codon adaptation index from a whole-genome perspective: analyzing the relationship between gene expression and codon occurrence in yeast using a variety of models.",
+        "Abstract": "Highly expressed genes in many bacteria and small eukaryotes often have a strong compositional bias, in terms of codon usage. Two widely used numerical indices, the codon adaptation index (CAI) and the codon usage, use this bias to predict the expression level of genes. When these indices were first introduced, they were based on fairly simple assumptions about which genes are most highly expressed: the CAI was originally based on the codon composition of a set of only 24 highly expressed genes, and the codon usage on assumptions about which functional classes of genes are highly expressed in fast-growing bacteria. Given the recent advent of genome-wide expression data, we should be able to improve on these assumptions. Here, we measure, in yeast, the degree to which consideration of the current genome-wide expression data sets improves the performance of both numerical indices. Indeed, we find that by changing the parameterization of each model its correlation with actual expression levels can be somewhat improved, although both indices are fairly insensitive to the exact way they are parameterized. This insensitivity indicates a consistent codon bias amongst highly expressed genes. We also attempt direct linear regression of codon composition against genome-wide expression levels (and protein abundance data). This has some similarity with the CAI formalism and yields an alternative model for the prediction of expression levels based on the coding sequences of genes. More information is available at http://bioinfo.mbb.yale.edu/expression/codons.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Codon",
+            "Computational Biology",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Fungal",
+            "Genome",
+            "Genome, Fungal",
+            "Models, Genetic",
+            "Saccharomyces cerevisiae"
+        ],
+        "Authors": [
+            {
+                "First Name": "Ronald",
+                "Last Name": "Jansen",
+                "Affiliation": "Department of Molecular Biophysics and Biochemistry, 266 Whitney Avenue, Yale University, PO Box 208114, New Haven, CT 06520, USA."
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Gerstein",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12601174",
+        "Title": "Genomewide analysis of Drosophila GAGA factor target genes reveals context-dependent DNA binding.",
+        "Abstract": "The association of sequence-specific DNA-binding factors with their cognate target sequences in vivo depends on the local molecular context, yet this context is poorly understood. To address this issue, we have performed genomewide mapping of in vivo target genes of Drosophila GAGA factor (GAF). The resulting list of approximately 250 target genes indicates that GAF regulates many cellular pathways. We applied unbiased motif-based regression analysis to identify the sequence context that determines GAF binding. Our results confirm that GAF selectively associates with (GA)(n) repeat elements in vivo. GAF binding occurs in upstream regulatory regions, but less in downstream regions. Surprisingly, GAF binds abundantly to introns but is virtually absent from exons, even though the density of (GA)(n) is roughly the same. Intron binding occurs equally frequently in last introns compared with first introns, suggesting that GAF may not only regulate transcription initiation, but possibly also elongation. We provide evidence for cooperative binding of GAF to closely spaced (GA)(n) elements and explain the lack of GAF binding to exons by the absence of such closely spaced GA repeats. Our approach for revealing determinants of context-dependent DNA binding will be applicable to many other transcription factors.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Amino Acid Motifs",
+            "Animals",
+            "Chromatin",
+            "DNA",
+            "DNA Methylation",
+            "DNA, Complementary",
+            "DNA-Binding Proteins",
+            "Drosophila",
+            "Drosophila Proteins",
+            "Exons",
+            "Expressed Sequence Tags",
+            "Genome",
+            "Homeodomain Proteins",
+            "Introns",
+            "Oligonucleotide Array Sequence Analysis",
+            "Protein Binding",
+            "Regression Analysis",
+            "Software",
+            "Time Factors",
+            "Transcription Factors",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Bas",
+                "Last Name": "van Steensel",
+                "Affiliation": "Netherlands Cancer Institute, 1066 CX, Amsterdam, The Netherlands. b.v.steensel@nki.nl"
+            },
+            {
+                "First Name": "Jeffrey",
+                "Last Name": "Delrow",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12537548",
+        "Title": "Hap4p overexpression in glucose-grown Saccharomyces cerevisiae induces cells to enter a novel metabolic state.",
+        "Abstract": "Metabolic and regulatory gene networks generally tend to be stable. However, we have recently shown that overexpression of the transcriptional activator Hap4p in yeast causes cells to move to a state characterized by increased respiratory activity. To understand why overexpression of HAP4 is able to override the signals that normally result in glucose repression of mitochondrial function, we analyzed in detail the changes that occur in these cells.",
+        "Keywords": [],
+        "MeSH terms": [
+            "CCAAT-Binding Factor",
+            "Cell Division",
+            "Gene Expression Regulation, Fungal",
+            "Genes, Fungal",
+            "Glucose",
+            "Mitochondria",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins",
+            "Transcription Factors",
+            "Transcription, Genetic",
+            "Up-Regulation",
+            "Zinc"
+        ],
+        "Authors": [
+            {
+                "First Name": "Romeo",
+                "Last Name": "Lascaris",
+                "Affiliation": "Swammerdam Institute for Life Sciences, University of Amsterdam, 1098 SM Amsterdam, The Netherlands. r.lascaris@nki.nl"
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "André",
+                "Last Name": "Boorsma",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Matt",
+                "Last Name": "Piper",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hans",
+                "Last Name": "van der Spek",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Les",
+                "Last Name": "Grivell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jolanda",
+                "Last Name": "Blom",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genome biology",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12181346",
+        "Title": "Dissection of transient oxidative stress response in Saccharomyces cerevisiae by using DNA microarrays.",
+        "Abstract": "Yeast cells were grown in glucose-limited chemostat cultures and forced to switch to a new carbon source, the fatty acid oleate. Alterations in gene expression were monitored using DNA microarrays combined with bioinformatics tools, among which was included the recently developed algorithm REDUCE. Immediately after the switch to oleate, a transient and very specific stress response was observed, followed by the up-regulation of genes encoding peroxisomal enzymes required for fatty acid metabolism. The stress response included up-regulation of genes coding for enzymes to keep thioredoxin and glutathione reduced, as well as enzymes required for the detoxification of reactive oxygen species. Among the genes coding for various isoenzymes involved in these processes, only a specific subset was expressed. Not the general stress transcription factors Msn2 and Msn4, but rather the specific factor Yap1p seemed to be the main regulator of the stress response. We ascribe the initiation of the oxidative stress response to a combination of poor redox flux and fatty acid-induced uncoupling of the respiratory chain during the metabolic reprogramming phase.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Active Transport, Cell Nucleus",
+            "Algorithms",
+            "DNA-Binding Proteins",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Fungal",
+            "Genes, Fungal",
+            "Oleic Acid",
+            "Oligonucleotide Array Sequence Analysis",
+            "Oxidation-Reduction",
+            "Oxidative Stress",
+            "Peroxisomes",
+            "RNA, Messenger",
+            "Reactive Oxygen Species",
+            "Recombinant Fusion Proteins",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae Proteins",
+            "Time Factors",
+            "Transcription Factors",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Marian Groot",
+                "Last Name": "Koerkamp",
+                "Affiliation": "Department of Biochemistry, Academic Medical Center, University of Amsterdam, The Netherlands."
+            },
+            {
+                "First Name": "Martijn",
+                "Last Name": "Rep",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harmen J",
+                "Last Name": "Bussemaker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Guy P M A",
+                "Last Name": "Hardy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adri",
+                "Last Name": "Mul",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kasia",
+                "Last Name": "Piekarska",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cristina Al-Khalili",
+                "Last Name": "Szigyarto",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joost M Teixeira",
+                "Last Name": "De Mattos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Henk F",
+                "Last Name": "Tabak",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular biology of the cell",
+        "PubDate": "2002"
+    }
+]

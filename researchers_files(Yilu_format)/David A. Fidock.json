@@ -1,5 +1,104 @@
 [
     {
+        "PMID": "39137783",
+        "Title": "Mixed alkyl/aryl phosphonates identify metabolic serine hydrolases as antimalarial targets.",
+        "Abstract": "Malaria, caused by Plasmodium falciparum, remains a significant health burden. One major barrier for developing antimalarial drugs is the ability of the parasite to rapidly generate resistance. We previously demonstrated that salinipostin A (SalA), a natural product, potently kills parasites by inhibiting multiple lipid metabolizing serine hydrolases, a mechanism that results in a low propensity for resistance. Given the difficulty of employing natural products as therapeutic agents, we synthesized a small library of lipidic mixed alkyl/aryl phosphonates as bioisosteres of SalA. Two constitutional isomers exhibited divergent antiparasitic potencies that enabled the identification of therapeutically relevant targets. The active compound kills parasites through a mechanism that is distinct from both SalA and the pan-lipase inhibitor orlistat and shows synergistic killing with orlistat. Our compound induces only weak resistance, attributable to mutations in a single protein involved in multidrug resistance. These data suggest that mixed alkyl/aryl phosphonates are promising, synthetically tractable antimalarials.",
+        "Keywords": [
+            "Plasmodium falciparum",
+            "activity-based probes",
+            "alky/aryl phosphonates",
+            "covalent probes",
+            "drug resistance",
+            "lipid metabolism",
+            "serine hydrolases"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "John M",
+                "Last Name": "Bennett",
+                "Affiliation": "Department of Chemistry, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Sunil K",
+                "Last Name": "Narwal",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Medical Center, New York, NY, USA; Center for Malaria Therapeutics and Antimicrobial Resistance, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Stephanie",
+                "Last Name": "Kabeche",
+                "Affiliation": "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Abegg",
+                "Affiliation": "Department of Chemistry, University of Illinois Chicago, Chicago, IL, USA."
+            },
+            {
+                "First Name": "Vandana",
+                "Last Name": "Thathy",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Medical Center, New York, NY, USA; Center for Malaria Therapeutics and Antimicrobial Resistance, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Fiona",
+                "Last Name": "Hackett",
+                "Affiliation": "Malaria Biochemistry Laboratory, Francis Crick Institute, London NW1 1AT, UK."
+            },
+            {
+                "First Name": "Tomas",
+                "Last Name": "Yeo",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Medical Center, New York, NY, USA; Center for Malaria Therapeutics and Antimicrobial Resistance, Columbia University Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Veronica L",
+                "Last Name": "Li",
+                "Affiliation": "Department of Chemistry, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Ryan",
+                "Last Name": "Muir",
+                "Affiliation": "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Franco",
+                "Last Name": "Faucher",
+                "Affiliation": "Department of Chemistry, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Scott",
+                "Last Name": "Lovell",
+                "Affiliation": "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Michael J",
+                "Last Name": "Blackman",
+                "Affiliation": "Malaria Biochemistry Laboratory, Francis Crick Institute, London NW1 1AT, UK; Faculty of Infectious and Tropical Diseases, London School of Hygiene & Tropical Medicine, London, UK."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Adibekian",
+                "Affiliation": "Department of Chemistry, University of Illinois Chicago, Chicago, IL, USA."
+            },
+            {
+                "First Name": "Ellen",
+                "Last Name": "Yeh",
+                "Affiliation": "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA, USA; Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA; Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, CA, USA."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Fidock",
+                "Affiliation": "Department of Microbiology and Immunology, Columbia University Medical Center, New York, NY, USA; Center for Malaria Therapeutics and Antimicrobial Resistance, Columbia University Medical Center, New York, NY, USA; Division of Infectious Diseases, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Bogyo",
+                "Affiliation": "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA; Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, CA, USA. Electronic address: mbogyo@stanford.edu."
+            }
+        ],
+        "Journal": "Cell chemical biology",
+        "PubDate": "2024"
+    },
+    {
         "PMID": "39084225",
         "Title": "Identification of potent and reversible piperidine carboxamides that are species-selective orally active proteasome inhibitors to treat malaria.",
         "Abstract": "Malaria remains a global health concern as drug resistance threatens treatment programs. We identified a piperidine carboxamide (SW042) with anti-malarial activity by phenotypic screening. Selection of SW042-resistant Plasmodium falciparum (Pf) parasites revealed point mutations in the Pf_proteasome \u03b25 active-site (Pf\u03b25). A potent analog (SW584) showed efficacy in a mouse model of human malaria after oral dosing. SW584 had a low propensity to generate resistance (minimum inoculum for resistance [MIR] >10",
@@ -10,7 +109,22 @@
             "plasmodium",
             "proteasome"
         ],
-        "MeSH terms": [],
+        "MeSH terms": [
+            "Piperidines",
+            "Plasmodium falciparum",
+            "Animals",
+            "Antimalarials",
+            "Humans",
+            "Mice",
+            "Proteasome Inhibitors",
+            "Administration, Oral",
+            "Proteasome Endopeptidase Complex",
+            "Malaria",
+            "Amides",
+            "Malaria, Falciparum",
+            "Female",
+            "Molecular Structure"
+        ],
         "Authors": [
             {
                 "First Name": "Aloysus",
@@ -197,7 +311,20 @@
             "Plasmodium",
             "Pyrazolopyridine"
         ],
-        "MeSH terms": [],
+        "MeSH terms": [
+            "Antimalarials",
+            "Plasmodium falciparum",
+            "Structure-Activity Relationship",
+            "Pyrazoles",
+            "Animals",
+            "Pyridines",
+            "Mice",
+            "Parasitic Sensitivity Tests",
+            "Molecular Structure",
+            "Drug Resistance",
+            "Dose-Response Relationship, Drug",
+            "Humans"
+        ],
         "Authors": [
             {
                 "First Name": "Petar P S",
@@ -777,7 +904,16 @@
         "Title": "The emergence of artemisinin partial resistance in Africa: how do we respond?",
         "Abstract": "Malaria remains one of the most important infectious diseases in the world, with the greatest burden in sub-Saharan Africa, primarily from Plasmodium falciparum infection. The treatment and control of malaria is challenged by resistance to most available drugs, but partial resistance to artemisinins (ART-R), the most important class for the treatment of malaria, was until recently confined to southeast Asia. This situation has changed, with the emergence of ART-R in multiple countries in eastern Africa. ART-R is mediated primarily by single point mutations in the P falciparum kelch13 protein, with several mutations present in African parasites that are now validated resistance mediators based on clinical and laboratory criteria. Major priorities at present are the expansion of genomic surveillance for ART-R mutations across the continent, more frequent testing of the efficacies of artemisinin-based regimens against uncomplicated and severe malaria in trials, more regular assessment of ex-vivo antimalarial drug susceptibilities, consideration of changes in treatment policy to deter the spread of ART-R, and accelerated development of new antimalarial regimens to overcome the impacts of ART-R. The emergence of ART-R in Africa is an urgent concern, and it is essential that we increase efforts to characterise its spread and mitigate its impact.",
         "Keywords": [],
-        "MeSH terms": [],
+        "MeSH terms": [
+            "Artemisinins",
+            "Humans",
+            "Antimalarials",
+            "Malaria, Falciparum",
+            "Drug Resistance",
+            "Plasmodium falciparum",
+            "Africa",
+            "Protozoan Proteins"
+        ],
         "Authors": [
             {
                 "First Name": "Philip J",

@@ -1,5 +1,37 @@
 [
     {
+        "PMID": "39190984",
+        "Title": "Induction of homologous recombination by site-specific replication stress.",
+        "Abstract": "DNA replication stress is one of the primary causes of genome instability. In response to replication stress, cells can employ replication restart mechanisms that rely on homologous recombination to resume replication fork progression and preserve genome integrity. In this review, we provide an overview of various methods that have been developed to induce site-specific replication fork stalling or collapse in eukaryotic cells. In particular, we highlight recent studies of mechanisms of replication-associated recombination resulting from site-specific protein-DNA barriers and single-strand breaks, and we discuss the contributions of these findings to our understanding of the consequences of these forms of stress on genome stability.",
+        "Keywords": [
+            "Double-strand break (DSB)",
+            "Homologous recombination",
+            "Rad51",
+            "Replication restart",
+            "Replication stress"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Marina K",
+                "Last Name": "Triplett",
+                "Affiliation": "Integrated Program in Cellular, Molecular, and Biomedical Studies, Columbia University Irving Medical Center,\u00a0New York,\u00a0NY 10032,\u00a0United States; Department of Microbiology & Immunology, Columbia University Irving Medical Center,\u00a0New York,\u00a0NY 10032,\u00a0United States."
+            },
+            {
+                "First Name": "Matthew J",
+                "Last Name": "Johnson",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University Irving Medical Center,\u00a0New York,\u00a0NY 10032,\u00a0United States; Program in Biological Sciences, Columbia University,\u00a0New York,\u00a0NY 10027,\u00a0United States."
+            },
+            {
+                "First Name": "Lorraine S",
+                "Last Name": "Symington",
+                "Affiliation": "Department of Microbiology & Immunology, Columbia University Irving Medical Center,\u00a0New York,\u00a0NY 10032,\u00a0United States; Department of Genetics & Development, Columbia University Irving Medical Center,\u00a0New York,\u00a0NY 10032,\u00a0United States. Electronic address: lss5@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "DNA repair",
+        "PubDate": "2024"
+    },
+    {
         "PMID": "38948862",
         "Title": "Strand asymmetry in the repair of replication dependent double-strand breaks.",
         "Abstract": "Single-strand breaks (SSBs) are one of the most common endogenous lesions and have the potential to give rise to cytotoxic double-strand breaks (DSBs) during DNA replication. To investigate the mechanism of replication fork collapse at SSBs and subsequent repair, we employed Cas9 nickase (nCas9) to generate site and strand-specific nicks in the budding yeast genome. We show that nCas9-induced nicks are converted to mostly double-ended DSBs during S-phase. We find that repair of replication-dependent DSBs requires homologous recombination (HR) and is independent of canonical non-homologous end joining. Consistent with a strong bias to repair these lesions using a sister chromatid template, we observe minimal induction of inter-chromosomal HR by nCas9. Using nCas9 and a gRNA to nick either the leading or lagging strand template, we carried out a genome-wide screen to identify factors necessary for the repair of replication-dependent DSBs. All the core HR genes were recovered in the screen with both gRNAs, but we recovered components of the replication-coupled nucleosome assembly (RCNA) pathway with only the gRNA targeting the leading strand template. By use of additional gRNAs, we find that the RCNA pathway is especially important to repair a leading strand fork collapse.",

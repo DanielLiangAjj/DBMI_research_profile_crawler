@@ -1,0 +1,1626 @@
+[
+    {
+        "PMID": "38697494",
+        "Title": "Criteria2Query 3.0: Leveraging generative large language models for clinical trial eligibility query generation.",
+        "Abstract": "Automated identification of eligible patients is a bottleneck of clinical research. We propose Criteria2Query (C2Q) 3.0, a system that leverages GPT-4 for the semi-automatic transformation of clinical trial eligibility criteria text into executable clinical database queries.",
+        "Keywords": [
+            "Artificial intelligence",
+            "ChatGPT",
+            "Eligibility prescreening",
+            "Human–computer collaboration",
+            "Large language models"
+        ],
+        "MeSH terms": [
+            "Clinical Trials as Topic",
+            "Humans",
+            "Natural Language Processing",
+            "Software",
+            "Patient Selection"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jimyung",
+                "Last Name": "Park",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Yilu",
+                "Last Name": "Fang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Casey",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Gongbo",
+                "Last Name": "Zhang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Betina",
+                "Last Name": "Idnay",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Fangyi",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Feng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Rebecca",
+                "Last Name": "Shyu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Emily R",
+                "Last Name": "Gordon",
+                "Affiliation": "Columbia University Vagelos College of Physicians and Surgeons, New York, United States."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Spotnitz",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, United States."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, United States. Electronic address: cw2384@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38061257",
+        "Title": "Applying unsupervised machine learning approaches to characterize autologous breast reconstruction patient subgroups: an NSQIP analysis of 14,274 patients.",
+        "Abstract": "Autologous breast reconstruction is composed of diverse techniques and results in a variety of outcome trajectories. We propose employing an unsupervised machine learning method to characterize such heterogeneous patterns in large-scale datasets.",
+        "Keywords": [
+            "Autologous",
+            "Breast reconstruction",
+            "Clustering",
+            "Machine learning",
+            "Unsupervised"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Female",
+            "Unsupervised Machine Learning",
+            "Retrospective Studies",
+            "Mammaplasty",
+            "Postoperative Complications",
+            "Free Tissue Flaps",
+            "Breast Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dylan K",
+                "Last Name": "Kim",
+                "Affiliation": "Division of Plastic and Reconstructive Surgery, Department of Surgery, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "George S",
+                "Last Name": "Corpuz",
+                "Affiliation": "Division of Plastic and Reconstructive Surgery, Department of Surgery, Columbia University Irving Medical Center, New York, NY, USA; Division of Plastic and Reconstructive Surgery, Department of Surgery, Weill Cornell Medicine, New York, NY USA."
+            },
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Christine H",
+                "Last Name": "Rohde",
+                "Affiliation": "Division of Plastic and Reconstructive Surgery, Department of Surgery, Columbia University Irving Medical Center, New York, NY, USA. Electronic address: chr2111@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Journal of plastic, reconstructive & aesthetic surgery : JPRAS",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37350869",
+        "Title": "Can Race-sensitive Biomedical Embeddings Improve Healthcare Predictive Models?",
+        "Abstract": "This reproducibility study presents an algorithm to weigh in race distribution data of clinical research study samples when training biomedical embeddings. We extracted 12,864 PubMed abstracts published between January 1",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Hao",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics."
+            },
+            {
+                "First Name": "Nour",
+                "Last Name": "Moustafa-Fahmy",
+                "Affiliation": "Department of Statistics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Casey",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics."
+            }
+        ],
+        "Journal": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36255273",
+        "Title": "Clinical and temporal characterization of COVID-19 subgroups using patient vector embeddings of electronic health records.",
+        "Abstract": "To identify and characterize clinical subgroups of hospitalized Coronavirus Disease 2019 (COVID-19) patients.",
+        "Keywords": [
+            "COVID-19",
+            "SARS-CoV-2",
+            "cluster analysis",
+            "unsupervised machine learning"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Female",
+            "Middle Aged",
+            "Aged",
+            "Male",
+            "COVID-19",
+            "SARS-CoV-2",
+            "Electronic Health Records",
+            "Hospitalization",
+            "Cardiovascular Diseases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Jason E",
+                "Last Name": "Zucker",
+                "Affiliation": "Division of Infectious Diseases, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Po-Hsiang",
+                "Last Name": "Chiu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Yilu",
+                "Last Name": "Fang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35998640",
+        "Title": "OARD: Open annotations for rare diseases and their phenotypes based on real-world data.",
+        "Abstract": "Diagnosis for rare genetic diseases often relies on phenotype-driven methods, which hinge on the accuracy and completeness of the rare disease phenotypes in the underlying annotation knowledgebase. Existing knowledgebases are often manually curated with additional annotations found in published case reports. Despite their potential, real-world data such as electronic health records (EHRs) have not been fully exploited to derive rare disease annotations. Here, we present open annotation for rare diseases (OARD), a real-world-data-derived resource with annotation for rare-disease-related phenotypes. This resource is derived from the EHRs of two academic health institutions containing more than 10 million individuals spanning wide age ranges and different disease subgroups. By leveraging ontology mapping and advanced natural-language-processing (NLP) methods, OARD automatically and efficiently extracts concepts for both rare diseases and their phenotypic traits from billing codes and lab tests as well as over 100 million clinical narratives. The rare disease prevalence derived by OARD is highly correlated with those annotated in the original rare disease knowledgebase. By performing association analysis, we identified more than 1 million novel disease-phenotype association pairs that were previously missed by human annotation, and >60% were confirmed true associations via manual review of a list of sampled pairs. Compared to the manual curated annotation, OARD is 100% data driven and its pipeline can be shared across different institutions. By supporting privacy-preserving sharing of aggregated summary statistics, such as term frequencies and disease-phenotype associations, it fills an important gap to facilitate data-driven research in the rare disease community.",
+        "Keywords": [
+            "electronic health records",
+            "human phenotype ontology",
+            "knowledge graph",
+            "natural language processing",
+            "open data sharing",
+            "phenotype association",
+            "rare disease"
+        ],
+        "MeSH terms": [
+            "Electronic Health Records",
+            "Humans",
+            "Natural Language Processing",
+            "Phenotype",
+            "Rare Diseases"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cong",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jim M",
+                "Last Name": "Havrilla",
+                "Affiliation": "Raymond G. Perelman Center for Cellular and Molecular Therapeutics, Children's Hospital of Philadelphia, Philadelphia, PA 19104, USA."
+            },
+            {
+                "First Name": "Jordan G",
+                "Last Name": "Nestor",
+                "Affiliation": "Division of Nephrology, Department of Medicine, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Matthew E",
+                "Last Name": "Spotnitz",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Andrew S",
+                "Last Name": "Geneslaw",
+                "Affiliation": "Raymond G. Perelman Center for Cellular and Molecular Therapeutics, Children's Hospital of Philadelphia, Philadelphia, PA 19104, USA."
+            },
+            {
+                "First Name": "Yu",
+                "Last Name": "Hu",
+                "Affiliation": "Raymond G. Perelman Center for Cellular and Molecular Therapeutics, Children's Hospital of Philadelphia, Philadelphia, PA 19104, USA."
+            },
+            {
+                "First Name": "Wendy K",
+                "Last Name": "Chung",
+                "Affiliation": "Department of Pediatrics, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Kai",
+                "Last Name": "Wang",
+                "Affiliation": "Raymond G. Perelman Center for Cellular and Molecular Therapeutics, Children's Hospital of Philadelphia, Philadelphia, PA 19104, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA. Electronic address: cw2384@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "American journal of human genetics",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35673202",
+        "Title": "Towards Better Diagnosis Prediction Using Bidirectional Recurrent Neural Networks.",
+        "Abstract": "Bidirectional recurrent neural networks (RNN) improved performance of various natural language processing tasks and recently have been used for diagnosis prediction. Advantages of general bidirectional RNN, however, are not readily applied to diagnosis prediction task. In this study, we present a simple way to efficiently apply bidirectional RNN for diagnosis prediction without using any additional networks or parameters.",
+        "Keywords": [
+            "Data Science",
+            "Deep Learning",
+            "Neural Networks"
+        ],
+        "MeSH terms": [
+            "Natural Language Processing",
+            "Neural Networks, Computer"
+        ],
+        "Authors": [
+            {
+                "First Name": "Junghwan",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Cong",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Casey",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Studies in health technology and informatics",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35673021",
+        "Title": "Evaluation of Criteria2Query: Towards Augmented Intelligence for Cohort Identification.",
+        "Abstract": "Electronic healthcare records data promises to improve the efficiency of patient eligibility screening, which is an important factor in the success of clinical trials and observational studies. To bridge the sociotechnical gap in cohort identification by end-users, who are clinicians or researchers unfamiliar with underlying EHR databases, we previously developed a natural language query interface named Criteria2Query (C2Q) that automatically transforms free-text eligibility criteria to executable database queries. In this study, we present a comprehensive evaluation of C2Q to generate more actionable insights to inform the design and evaluation of future natural language user interfaces for clinical databases, towards the realization of Augmented Intelligence (AI) for clinical cohort definition via e-screening.",
+        "Keywords": [
+            "Artificial Intelligence (AI)",
+            "Clinical Trial",
+            "Natural Language Processing"
+        ],
+        "MeSH terms": [
+            "Artificial Intelligence",
+            "Databases, Factual",
+            "Eligibility Determination",
+            "Humans",
+            "Intelligence",
+            "Natural Language Processing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cong",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Hao",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Casey",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Roger",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Alex",
+                "Last Name": "Butler",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Junghwan",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jaehyun",
+                "Last Name": "Kim",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Ning",
+                "Last Name": "Shang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "Studies in health technology and informatics",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35486806",
+        "Title": "Risk Factors Associated With SARS-CoV-2 Breakthrough Infections in Fully mRNA-Vaccinated Individuals: Retrospective Analysis.",
+        "Abstract": "COVID-19 messenger RNA (mRNA) vaccines have demonstrated efficacy and effectiveness in preventing symptomatic COVID-19, while being relatively safe in trial studies. However, vaccine breakthrough infections have been reported.",
+        "Keywords": [
+            "COVID-19",
+            "electronic health records",
+            "medical informatics",
+            "real-word evidence",
+            "vaccination"
+        ],
+        "MeSH terms": [
+            "2019-nCoV Vaccine mRNA-1273",
+            "Adult",
+            "BNT162 Vaccine",
+            "COVID-19",
+            "Female",
+            "Humans",
+            "Male",
+            "New York City",
+            "Retrospective Studies",
+            "Risk Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cong",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Junghwan",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Casey",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Ali",
+                "Last Name": "Soroush",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "James R",
+                "Last Name": "Rogers",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Jae Hyun",
+                "Last Name": "Kim",
+                "Affiliation": "School of Pharmacy, Jeonbuk National University, Jeonju, Republic of Korea."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Jason",
+                "Last Name": "Zucker",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Yehoshua",
+                "Last Name": "Perl",
+                "Affiliation": "Department of Computer Science, New Jersey Institute of Technology, Newark, NJ, United States."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, United States."
+            }
+        ],
+        "Journal": "JMIR public health and surveillance",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35189334",
+        "Title": "Leveraging electronic health record data for clinical trial planning by assessing eligibility criteria's impact on patient count and safety.",
+        "Abstract": "To present an approach on using electronic health record (EHR) data that assesses how different eligibility criteria, either individually or in combination, can impact patient count and safety (exemplified by all-cause hospitalization risk) and further assist with criteria selection for prospective clinical trials.",
+        "Keywords": [
+            "Clinical research informatics",
+            "Clinical trials (as topic)",
+            "Electronic health records",
+            "Outcome assessment",
+            "Patient recruitment"
+        ],
+        "MeSH terms": [
+            "Electronic Health Records",
+            "Eligibility Determination",
+            "HIV Infections",
+            "Humans",
+            "Patient Selection",
+            "Prospective Studies"
+        ],
+        "Authors": [
+            {
+                "First Name": "James R",
+                "Last Name": "Rogers",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Jovana",
+                "Last Name": "Pavisic",
+                "Affiliation": "Department of Pediatrics, Division of Pediatric Hematology, Oncology, and Stem Cell Transplantation, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Cong",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "Ali",
+                "Last Name": "Soroush",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States; Division of Gastroenterology, Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States."
+            },
+            {
+                "First Name": "Ying",
+                "Last Name": "Kuen Cheung",
+                "Affiliation": "Department of Biostatistics, Columbia University, New York, NY, United States."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States; Medical Informatics Services, New York-Presbyterian Hospital, New York, NY, United States."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, United States. Electronic address: chunhua@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34642696",
+        "Title": "A Retrospective Analysis of COVID-19 mRNA Vaccine Breakthrough Infections - Risk Factors and Vaccine Effectiveness.",
+        "Abstract": "Little is known about COVID vaccine breakthrough infections and their risk factors.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Cong",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York NY 10032, USA."
+            },
+            {
+                "First Name": "Junghwan",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York NY 10032, USA."
+            },
+            {
+                "First Name": "Casey",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York NY 10032, USA."
+            },
+            {
+                "First Name": "Ali",
+                "Last Name": "Soroush",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York NY 10032, USA."
+            },
+            {
+                "First Name": "James R",
+                "Last Name": "Rogers",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York NY 10032, USA."
+            },
+            {
+                "First Name": "Jae Hyun",
+                "Last Name": "Kim",
+                "Affiliation": "School of Pharmacy, Jeonbuk National University, Jeonju, South Korea."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York NY 10032, USA."
+            },
+            {
+                "First Name": "Jason",
+                "Last Name": "Zucker",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York NY 10032, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York NY 10032, USA."
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34624661",
+        "Title": "The potential role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials.",
+        "Abstract": "Cardiovascular outcome trials (CVOTs) include patients with high risks for cardiovascular events based on specific inclusion criteria. Little is known about the impact of such inclusion criteria on patient accrual and the incidence rate of cardiovascular events.",
+        "Keywords": [
+            "Cardiovascular outcome trials",
+            "Clinical trial",
+            "Electronic health records",
+            "Eligibility criteria",
+            "Major adverse cardiovascular events"
+        ],
+        "MeSH terms": [
+            "Cardiovascular Diseases",
+            "Diabetes Mellitus",
+            "Electronic Health Records",
+            "Humans",
+            "Hypertension",
+            "Myocardial Infarction",
+            "Risk Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jae Hyun",
+                "Last Name": "Kim",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alex M",
+                "Last Name": "Butler",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yingcheng",
+                "Last Name": "Sun",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Mathew S",
+                "Last Name": "Maurer",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA. Electronic address: chunhua@columbia.edu."
+            }
+        ],
+        "Journal": "International journal of medical informatics",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34457152",
+        "Title": "Severity Prediction for COVID-19 Patients via Recurrent Neural Networks.",
+        "Abstract": "The novel coronavirus disease-2019 (COVID-19) pandemic has threatened the health of tens of millions of people worldwide and imposed heavy burden on global healthcare systems. In this paper, we propose a model to predict whether a patient infected with COVID-19 will develop severe outcomes based only on the patient's historical electronic health records (EHR) prior to hospital admission using recurrent neural networks. The model predicts risk score that represents the probability for a patient to progress into severe status (mechanical ventilation, tracheostomy, or death) after being infected with COVID-19. The model achieved 0.846 area under the receiver operating characteristic curve in predicting patients' outcomes averaged over 5-fold cross validation. While many of the existing models use features obtained after diagnosis of COVID-19, our proposed model only utilizes a patient's historical EHR to enable proactive risk management at the time of hospital admission.",
+        "Keywords": [],
+        "MeSH terms": [
+            "COVID-19",
+            "Humans",
+            "Neural Networks, Computer",
+            "Pandemics",
+            "ROC Curve",
+            "Retrospective Studies",
+            "SARS-CoV-2"
+        ],
+        "Authors": [
+            {
+                "First Name": "Junghwan",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, N.Y."
+            },
+            {
+                "First Name": "Casey",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, N.Y."
+            },
+            {
+                "First Name": "Jae Hyun",
+                "Last Name": "Kim",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, N.Y."
+            },
+            {
+                "First Name": "Cong",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, N.Y."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, N.Y."
+            }
+        ],
+        "Journal": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34389867",
+        "Title": "From clinical trials to clinical practice: How long are drugs tested and then used by patients?",
+        "Abstract": "Evidence is scarce regarding the safety of long-term drug use, especially for drugs treating chronic diseases. To bridge this knowledge gap, this research investigated the differences in drug exposure between clinical trials and clinical practice.",
+        "Keywords": [
+            "evidence-based medicine",
+            "follow-up studies",
+            "prescription drug overuse",
+            "randomized controlled trials",
+            "validation study"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Pharmaceutical Preparations"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chi",
+                "Last Name": "Yuan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Patrick B",
+                "Last Name": "Ryan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Jae Hyun",
+                "Last Name": "Kim",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Ziran",
+                "Last Name": "Li",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33501460",
+        "Title": "Severity Prediction for COVID-19 Patients via Recurrent Neural Networks.",
+        "Abstract": "The novel coronavirus disease-2019 (COVID-19) pandemic has threatened the health of tens of millions of people worldwide and imposed heavy burden on global healthcare systems. In this paper, we propose a model to predict whether a patient infected with COVID-19 will develop severe outcomes based only on the patient's historical electronic health records (EHR) prior to hospital admission using recurrent neural networks. The model predicts risk score that represents the probability for a patient to progress into severe status (mechanical ventilation, tracheostomy, or death) after being infected with COVID-19. The model achieved 0.846 area under the receiver operating characteristic curve in predicting patients' outcomes averaged over 5-fold cross validation. While many of the existing models use features obtained after diagnosis of COVID-19, our proposed model only utilizes a patient's historical EHR to enable proactive risk management at the time of hospital admission.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Junghwan",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, N.Y."
+            },
+            {
+                "First Name": "Casey",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, N.Y."
+            },
+            {
+                "First Name": "Jae Hyun",
+                "Last Name": "Kim",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, N.Y."
+            },
+            {
+                "First Name": "Cong",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, N.Y."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, N.Y."
+            }
+        ],
+        "Journal": "medRxiv : the preprint server for health sciences",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33260201",
+        "Title": "Towards clinical data-driven eligibility criteria optimization for interventional COVID-19 clinical trials.",
+        "Abstract": "This research aims to evaluate the impact of eligibility criteria on recruitment and observable clinical outcomes of COVID-19 clinical trials using electronic health record (EHR) data.",
+        "Keywords": [
+            "COVID-19, criteria optimization ",
+            "clinical trial",
+            "eligibility criteria",
+            "real-world data"
+        ],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Aged, 80 and over",
+            "COVID-19",
+            "Clinical Trials as Topic",
+            "Electronic Health Records",
+            "Eligibility Determination",
+            "Female",
+            "Hospital Mortality",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Oxygen",
+            "Patient Selection",
+            "Pregnancy",
+            "Research Design",
+            "Respiration, Artificial",
+            "SARS-CoV-2",
+            "Tracheostomy",
+            "Treatment Outcome",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jae Hyun",
+                "Last Name": "Kim",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Cong",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Cynthia",
+                "Last Name": "Sung",
+                "Affiliation": "Health Services and Systems Research, Duke-NUS Medical School, Singapore."
+            },
+            {
+                "First Name": "Alex M",
+                "Last Name": "Butler",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Latoya A",
+                "Last Name": "Stewart",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Lyudmila",
+                "Last Name": "Ena",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "James R",
+                "Last Name": "Rogers",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Junghwan",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Ostropolets",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Patrick B",
+                "Last Name": "Ryan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Hao",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Shing M",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Biostatistics, Mailman School of Public Health, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Mitchell S V",
+                "Last Name": "Elkind",
+                "Affiliation": "Department of Neurology, Vagelos College of Physicians and Surgeons, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "31655273",
+        "Title": "Ensembles of natural language processing systems for portable phenotyping solutions.",
+        "Abstract": "Manually curating standardized phenotypic concepts such as Human Phenotype Ontology (HPO) terms from narrative text in electronic health records (EHRs) is time consuming and error prone. Natural language processing (NLP) techniques can facilitate automated phenotype extraction and thus improve the efficiency of curating clinical phenotypes from clinical texts. While individual NLP systems can perform well for a single cohort, an ensemble-based method might shed light on increasing the portability of NLP pipelines across different cohorts.",
+        "Keywords": [
+            "Concept recognition",
+            "Ensemble method",
+            "Evaluation",
+            "Human phenotype ontology",
+            "Natural language processing",
+            "Reproducibility"
+        ],
+        "MeSH terms": [
+            "Datasets as Topic",
+            "Electronic Health Records",
+            "Humans",
+            "Natural Language Processing",
+            "Phenotype",
+            "Reproducibility of Results"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cong",
+                "Last Name": "Liu",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "James R",
+                "Last Name": "Rogers",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Ziran",
+                "Last Name": "Li",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Junghwan",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alex M",
+                "Last Name": "Butler",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Ning",
+                "Last Name": "Shang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Fabricio Sampaio Peres",
+                "Last Name": "Kury",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Liwei",
+                "Last Name": "Wang",
+                "Affiliation": "Division of Biomedical Statistics and Informatics, Mayo Clinic, Rochester, MN 55901, USA."
+            },
+            {
+                "First Name": "Feichen",
+                "Last Name": "Shen",
+                "Affiliation": "Division of Biomedical Statistics and Informatics, Mayo Clinic, Rochester, MN 55901, USA."
+            },
+            {
+                "First Name": "Hongfang",
+                "Last Name": "Liu",
+                "Affiliation": "Division of Biomedical Statistics and Informatics, Mayo Clinic, Rochester, MN 55901, USA."
+            },
+            {
+                "First Name": "Lyudmila",
+                "Last Name": "Ena",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Friedman",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA. Electronic address: cw2384@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "31437950",
+        "Title": "Detecting Systemic Data Quality Issues in Electronic Health Records.",
+        "Abstract": "Secondary analysis of electronic health records for clinical research faces significant challenges due to known data quality issues in health data observationally collected for clinical care and the data biases caused by standard healthcare processes. In this manuscript, we contribute methodology for data quality assessment by plotting domain-level (conditions (diagnoses), drugs, and procedures) aggregate statistics and concept-level temporal frequencies (i.e., annual prevalence rates of clinical concepts). We detect common temporal patterns in concept frequencies by normalizing and clustering annual concept frequencies using K-means clustering. We apply these methods to the Columbia University Irving Medical Center Observational Medical Outcomes Partnership database. The resulting domain-aggregate and cluster plots show a variety of patterns. We review the patterns found in the condition domain and investigate the processes that shape them. We find that these patterns suggest data quality issues influenced by system-wide factors that affect individual concept frequencies.",
+        "Keywords": [
+            "Cluster Analysis",
+            "Data Accuracy",
+            "Electronic Health Records"
+        ],
+        "MeSH terms": [
+            "Cluster Analysis",
+            "Data Accuracy",
+            "Databases, Factual",
+            "Delivery of Health Care",
+            "Electronic Health Records"
+        ],
+        "Authors": [
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA."
+            }
+        ],
+        "Journal": "Studies in health technology and informatics",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30753493",
+        "Title": "Criteria2Query: a natural language interface to clinical databases for cohort definition.",
+        "Abstract": "Cohort definition is a bottleneck for conducting clinical research and depends on subjective decisions by domain experts. Data-driven cohort definition is appealing but requires substantial knowledge of terminologies and clinical data models. Criteria2Query is a natural language interface that facilitates human-computer collaboration for cohort definition and execution using clinical databases.",
+        "Keywords": [
+            "cohort definition",
+            "common data model",
+            "natural language interfaces to database",
+            "natural language processing"
+        ],
+        "MeSH terms": [
+            "Clinical Trials as Topic",
+            "Databases as Topic",
+            "Eligibility Determination",
+            "Humans",
+            "Information Storage and Retrieval",
+            "Machine Learning",
+            "Natural Language Processing",
+            "Patient Selection",
+            "User-Computer Interface"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chi",
+                "Last Name": "Yuan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Patrick B",
+                "Last Name": "Ryan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Casey",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Yixuan",
+                "Last Name": "Guo",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Ziran",
+                "Last Name": "Li",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Jill",
+                "Last Name": "Hardin",
+                "Affiliation": "Epidemiology Analytics, Janssen Research and Development, Titusville, New Jersey, USA."
+            },
+            {
+                "First Name": "Rupa",
+                "Last Name": "Makadia",
+                "Affiliation": "Epidemiology Analytics, Janssen Research and Development, Titusville, New Jersey, USA."
+            },
+            {
+                "First Name": "Peng",
+                "Last Name": "Jin",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Ning",
+                "Last Name": "Shang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Tian",
+                "Last Name": "Kang",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            }
+        ],
+        "Journal": "Journal of the American Medical Informatics Association : JAMIA",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30480666",
+        "Title": "Columbia Open Health Data, clinical concept prevalence and co-occurrence from electronic health records.",
+        "Abstract": "Columbia Open Health Data (COHD) is a publicly accessible database of electronic health record (EHR) prevalence and co-occurrence frequencies between conditions, drugs, procedures, and demographics. COHD was derived from Columbia University Irving Medical Center's Observational Health Data Sciences and Informatics (OHDSI) database. The lifetime dataset, derived from all records, contains 36,578 single concepts (11,952 conditions, 12,334 drugs, and 10,816 procedures) and 32,788,901 concept pairs from 5,364,781 patients. The 5-year dataset, derived from records from 2013-2017, contains 29,964 single concepts (10,159 conditions, 10,264 drugs, and 8,270 procedures) and 15,927,195 concept pairs from 1,790,431 patients. Exclusion of rare concepts (count ≤ 10) and Poisson randomization enable data sharing by eliminating risks to patient privacy. EHR prevalences are informative of healthcare consumption rates. Analysis of co-occurrence frequencies via relative frequency analysis and observed-expected frequency ratio are informative of associations between clinical concepts, useful for biomedical research tasks such as drug repurposing and pharmacovigilance. COHD is publicly accessible through a web application-programming interface (API) and downloadable from the Figshare repository. The code is available on GitHub.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Data Analysis",
+            "Data Mining",
+            "Databases, Factual",
+            "Electronic Health Records",
+            "Humans",
+            "Patients"
+        ],
+        "Authors": [
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, NY, USA."
+            },
+            {
+                "First Name": "Michel",
+                "Last Name": "Dumontier",
+                "Affiliation": "Institute of Data Science, Maastricht University, Maastricht, The Netherlands."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, NY, USA."
+            },
+            {
+                "First Name": "Nicholas P",
+                "Last Name": "Tatonetti",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, NY, USA."
+            },
+            {
+                "First Name": "Chunhua",
+                "Last Name": "Weng",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, NY, USA."
+            }
+        ],
+        "Journal": "Scientific data",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29072980",
+        "Title": "Focal Liver Lesions: Computer-aided Diagnosis by Using Contrast-enhanced US Cine Recordings.",
+        "Abstract": "Purpose To assess the performance of computer-aided diagnosis (CAD) systems and to determine the dominant ultrasonographic (US) features when classifying benign versus malignant focal liver lesions (FLLs) by using contrast material-enhanced US cine clips. Materials and Methods One hundred six US data sets in all subjects enrolled by three centers from a multicenter trial that included 54 malignant, 51 benign, and one indeterminate FLL were retrospectively analyzed. The 105 benign or malignant lesions were confirmed at histologic examination, contrast-enhanced computed tomography (CT), dynamic contrast-enhanced magnetic resonance (MR) imaging, and/or 6 or more months of clinical follow-up. Data sets included 3-minute cine clips that were automatically corrected for in-plane motion and automatically filtered out frames acquired off plane. B-mode and contrast-specific features were automatically extracted on a pixel-by-pixel basis and analyzed by using an artificial neural network (ANN) and a support vector machine (SVM). Areas under the receiver operating characteristic curve (AUCs) for CAD were compared with those for one experienced and one inexperienced blinded reader. A third observer graded cine quality to assess its effects on CAD performance. Results CAD, the inexperienced observer, and the experienced observer were able to analyze 95, 100, and 102 cine clips, respectively. The AUCs for the SVM, ANN, and experienced and inexperienced observers were 0.883 (95% confidence interval [CI]: 0.793, 0.940), 0.829 (95% CI: 0.724, 0.901), 0.843 (95% CI: 0.756, 0.903), and 0.702 (95% CI: 0.586, 0.782), respectively; only the difference between SVM and the inexperienced observer was statistically significant. Accuracy improved from 71.3% (67 of 94; 95% CI: 60.6%, 79.8%) to 87.7% (57 of 65; 95% CI: 78.5%, 93.8%) and from 80.9% (76 of 94; 95% CI: 72.3%, 88.3%) to 90.3% (65 of 72; 95% CI: 80.6%, 95.8%) when CAD was in agreement with the inexperienced reader and when it was in agreement with the experienced reader, respectively. B-mode heterogeneity and contrast material washout were the most discriminating features selected by CAD for all iterations. CAD selected time-based time-intensity curve (TIC) features 99.0% (207 of 209) of the time to classify FLLs, versus 1.0% (two of 209) of the time for intensity-based features. None of the 15 video-quality criteria had a statistically significant effect on CAD accuracy-all P values were greater than the Holm-Sidak α-level correction for multiple comparisons. Conclusion CAD systems classified benign and malignant FLLs with an accuracy similar to that of an expert reader. CAD improved the accuracy of both readers. Time-based features of TIC were more discriminating than intensity-based features. ",
+        "Keywords": [],
+        "MeSH terms": [
+            "Contrast Media",
+            "Humans",
+            "Image Interpretation, Computer-Assisted",
+            "Liver Neoplasms",
+            "ROC Curve",
+            "Retrospective Studies",
+            "Ultrasonography"
+        ],
+        "Authors": [
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "From the Department of Electrical and Computer Engineering (C.N.T.), Departments of Medicine and Radiology (Y.K.), Department of Radiology (M.E.), and Department of Chemistry and Biochemistry (A.C.K.), University of California, San Diego, La Jolla, Calif; Department of Radiology and Research Institute of Radiological Science, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea (Y.T.O.); Department of Radiology, University of Alabama at Birmingham, Birmingham, Ala (M.L.R.); Southwoods Imaging, Youngstown, Ohio and Northeastern Ohio Medical University, Rootstown, Ohio (R.G.B.); and Department of Radiology, University of Texas Southwestern Medical Center, 5323 Harry Hines Blvd, Room D1.204, Dallas, TX 75390-8514 (R.F.M.)."
+            },
+            {
+                "First Name": "Yuko",
+                "Last Name": "Kono",
+                "Affiliation": "From the Department of Electrical and Computer Engineering (C.N.T.), Departments of Medicine and Radiology (Y.K.), Department of Radiology (M.E.), and Department of Chemistry and Biochemistry (A.C.K.), University of California, San Diego, La Jolla, Calif; Department of Radiology and Research Institute of Radiological Science, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea (Y.T.O.); Department of Radiology, University of Alabama at Birmingham, Birmingham, Ala (M.L.R.); Southwoods Imaging, Youngstown, Ohio and Northeastern Ohio Medical University, Rootstown, Ohio (R.G.B.); and Department of Radiology, University of Texas Southwestern Medical Center, 5323 Harry Hines Blvd, Room D1.204, Dallas, TX 75390-8514 (R.F.M.)."
+            },
+            {
+                "First Name": "Mohammad",
+                "Last Name": "Eghtedari",
+                "Affiliation": "From the Department of Electrical and Computer Engineering (C.N.T.), Departments of Medicine and Radiology (Y.K.), Department of Radiology (M.E.), and Department of Chemistry and Biochemistry (A.C.K.), University of California, San Diego, La Jolla, Calif; Department of Radiology and Research Institute of Radiological Science, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea (Y.T.O.); Department of Radiology, University of Alabama at Birmingham, Birmingham, Ala (M.L.R.); Southwoods Imaging, Youngstown, Ohio and Northeastern Ohio Medical University, Rootstown, Ohio (R.G.B.); and Department of Radiology, University of Texas Southwestern Medical Center, 5323 Harry Hines Blvd, Room D1.204, Dallas, TX 75390-8514 (R.F.M.)."
+            },
+            {
+                "First Name": "Young Taik",
+                "Last Name": "Oh",
+                "Affiliation": "From the Department of Electrical and Computer Engineering (C.N.T.), Departments of Medicine and Radiology (Y.K.), Department of Radiology (M.E.), and Department of Chemistry and Biochemistry (A.C.K.), University of California, San Diego, La Jolla, Calif; Department of Radiology and Research Institute of Radiological Science, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea (Y.T.O.); Department of Radiology, University of Alabama at Birmingham, Birmingham, Ala (M.L.R.); Southwoods Imaging, Youngstown, Ohio and Northeastern Ohio Medical University, Rootstown, Ohio (R.G.B.); and Department of Radiology, University of Texas Southwestern Medical Center, 5323 Harry Hines Blvd, Room D1.204, Dallas, TX 75390-8514 (R.F.M.)."
+            },
+            {
+                "First Name": "Michelle L",
+                "Last Name": "Robbin",
+                "Affiliation": "From the Department of Electrical and Computer Engineering (C.N.T.), Departments of Medicine and Radiology (Y.K.), Department of Radiology (M.E.), and Department of Chemistry and Biochemistry (A.C.K.), University of California, San Diego, La Jolla, Calif; Department of Radiology and Research Institute of Radiological Science, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea (Y.T.O.); Department of Radiology, University of Alabama at Birmingham, Birmingham, Ala (M.L.R.); Southwoods Imaging, Youngstown, Ohio and Northeastern Ohio Medical University, Rootstown, Ohio (R.G.B.); and Department of Radiology, University of Texas Southwestern Medical Center, 5323 Harry Hines Blvd, Room D1.204, Dallas, TX 75390-8514 (R.F.M.)."
+            },
+            {
+                "First Name": "Richard G",
+                "Last Name": "Barr",
+                "Affiliation": "From the Department of Electrical and Computer Engineering (C.N.T.), Departments of Medicine and Radiology (Y.K.), Department of Radiology (M.E.), and Department of Chemistry and Biochemistry (A.C.K.), University of California, San Diego, La Jolla, Calif; Department of Radiology and Research Institute of Radiological Science, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea (Y.T.O.); Department of Radiology, University of Alabama at Birmingham, Birmingham, Ala (M.L.R.); Southwoods Imaging, Youngstown, Ohio and Northeastern Ohio Medical University, Rootstown, Ohio (R.G.B.); and Department of Radiology, University of Texas Southwestern Medical Center, 5323 Harry Hines Blvd, Room D1.204, Dallas, TX 75390-8514 (R.F.M.)."
+            },
+            {
+                "First Name": "Andrew C",
+                "Last Name": "Kummel",
+                "Affiliation": "From the Department of Electrical and Computer Engineering (C.N.T.), Departments of Medicine and Radiology (Y.K.), Department of Radiology (M.E.), and Department of Chemistry and Biochemistry (A.C.K.), University of California, San Diego, La Jolla, Calif; Department of Radiology and Research Institute of Radiological Science, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea (Y.T.O.); Department of Radiology, University of Alabama at Birmingham, Birmingham, Ala (M.L.R.); Southwoods Imaging, Youngstown, Ohio and Northeastern Ohio Medical University, Rootstown, Ohio (R.G.B.); and Department of Radiology, University of Texas Southwestern Medical Center, 5323 Harry Hines Blvd, Room D1.204, Dallas, TX 75390-8514 (R.F.M.)."
+            },
+            {
+                "First Name": "Robert F",
+                "Last Name": "Mattrey",
+                "Affiliation": "From the Department of Electrical and Computer Engineering (C.N.T.), Departments of Medicine and Radiology (Y.K.), Department of Radiology (M.E.), and Department of Chemistry and Biochemistry (A.C.K.), University of California, San Diego, La Jolla, Calif; Department of Radiology and Research Institute of Radiological Science, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea (Y.T.O.); Department of Radiology, University of Alabama at Birmingham, Birmingham, Ala (M.L.R.); Southwoods Imaging, Youngstown, Ohio and Northeastern Ohio Medical University, Rootstown, Ohio (R.G.B.); and Department of Radiology, University of Texas Southwestern Medical Center, 5323 Harry Hines Blvd, Room D1.204, Dallas, TX 75390-8514 (R.F.M.)."
+            }
+        ],
+        "Journal": "Radiology",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28829305",
+        "Title": "Extended Lifetime In Vivo Pulse Stimulated Ultrasound Imaging.",
+        "Abstract": "An on-demand long-lived ultrasound contrast agent that can be activated with single pulse stimulated imaging (SPSI) has been developed using hard shell liquid perfluoropentane filled silica 500-nm nanoparticles for tumor ultrasound imaging. SPSI was tested on LnCAP prostate tumor models in mice; tumor localization was observed after intravenous (IV) injection of the contrast agent. Consistent with enhanced permeability and retention, the silica nanoparticles displayed an extended imaging lifetime of 3.3±1 days (mean±standard deviation). With added tumor specific folate functionalization, the useful lifetime was extended to 12 ± 2 days; in contrast to ligand-based tumor targeting, the effect of the ligands in this application is enhanced nanoparticle retention by the tumor. This paper demonstrates for the first time that IV injected functionalized silica contrast agents can be imaged with an in vivo lifetime ~500 times longer than current microbubble-based contrast agents. Such functionalized long-lived contrast agents may lead to new applications in tumor monitoring and therapy.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Contrast Media",
+            "Male",
+            "Mice",
+            "Microbubbles",
+            "Nanoparticles",
+            "Neoplasms, Experimental",
+            "Prostatic Neoplasms",
+            "Tissue Distribution",
+            "Ultrasonography"
+        ],
+        "Authors": [
+            {
+                "First Name": "James",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher V",
+                "Last Name": "Barback",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joi",
+                "Last Name": "Weeks",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Natalie",
+                "Last Name": "Gude",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert F",
+                "Last Name": "Mattrey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah L",
+                "Last Name": "Blair",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "William C",
+                "Last Name": "Trogler",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hotaik",
+                "Last Name": "Lee",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew C",
+                "Last Name": "Kummel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "IEEE transactions on medical imaging",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28001041",
+        "Title": "Ultrasound Responsive Macrophase-Segregated Microcomposite Films for in Vivo Biosensing.",
+        "Abstract": "Ultrasound imaging is a safe, low-cost, and in situ method for detecting in vivo medical devices. A poly(methyl-2-cyanoacrylate) film containing 2 μm boron-doped, calcined, porous silica microshells was developed as an ultrasound imaging marker for multiple medical devices. A macrophase separation drove the gas-filled porous silica microshells to the top surface of the polymer film by controlled curing of the cyanoacrylate glue and the amount of microshell loading. A thin film of polymer blocked the wall pores of the microshells to seal air in their hollow core, which served as an ultrasound contrast agent. The ultrasound activity disappeared when curing conditions were modified to prevent the macrophase segregation. Phase segregated films were attached to multiple surgical tools and needles and gave strong color Doppler signals in vitro and in vivo with the use of a clinical ultrasound imaging instrument. Postprocessing of the simultaneous color Doppler and B-mode images can be used for autonomous identification of implanted surgical items by correlating the two images. The thin films were also hydrophobic, thereby extending the lifetime of ultrasound signals to hours of imaging in tissues by preventing liquid penetration. This technology can be used as a coating to guide the placement of implantable medical devices or used to image and help remove retained surgical items.",
+        "Keywords": [
+            "cyanoacrylate",
+            "in vivo medical devices",
+            "macrophase segregated film",
+            "silica microshells",
+            "ultrasound imaging"
+        ],
+        "MeSH terms": [
+            "Biosensing Techniques",
+            "Contrast Media",
+            "Porosity",
+            "Silicon Dioxide",
+            "Ultrasonography"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jian",
+                "Last Name": "Yang",
+                "Affiliation": "Department of Chemistry and Biochemistry, ‡Department of Nanoengineering, §Department of Computer, ∥Department of Surgery, ⊥Department of Radiology, and #Materials Science and Engineering Program, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093, United States."
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Chemistry and Biochemistry, ‡Department of Nanoengineering, §Department of Computer, ∥Department of Surgery, ⊥Department of Radiology, and #Materials Science and Engineering Program, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093, United States."
+            },
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "Department of Chemistry and Biochemistry, ‡Department of Nanoengineering, §Department of Computer, ∥Department of Surgery, ⊥Department of Radiology, and #Materials Science and Engineering Program, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093, United States."
+            },
+            {
+                "First Name": "Erin",
+                "Last Name": "Ward",
+                "Affiliation": "Department of Chemistry and Biochemistry, ‡Department of Nanoengineering, §Department of Computer, ∥Department of Surgery, ⊥Department of Radiology, and #Materials Science and Engineering Program, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093, United States."
+            },
+            {
+                "First Name": "Christopher V",
+                "Last Name": "Barback",
+                "Affiliation": "Department of Chemistry and Biochemistry, ‡Department of Nanoengineering, §Department of Computer, ∥Department of Surgery, ⊥Department of Radiology, and #Materials Science and Engineering Program, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093, United States."
+            },
+            {
+                "First Name": "Tsai-Wen",
+                "Last Name": "Sung",
+                "Affiliation": "Department of Chemistry and Biochemistry, ‡Department of Nanoengineering, §Department of Computer, ∥Department of Surgery, ⊥Department of Radiology, and #Materials Science and Engineering Program, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093, United States."
+            },
+            {
+                "First Name": "Natalie",
+                "Last Name": "Mendez",
+                "Affiliation": "Department of Chemistry and Biochemistry, ‡Department of Nanoengineering, §Department of Computer, ∥Department of Surgery, ⊥Department of Radiology, and #Materials Science and Engineering Program, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093, United States."
+            },
+            {
+                "First Name": "Sarah L",
+                "Last Name": "Blair",
+                "Affiliation": "Department of Chemistry and Biochemistry, ‡Department of Nanoengineering, §Department of Computer, ∥Department of Surgery, ⊥Department of Radiology, and #Materials Science and Engineering Program, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093, United States."
+            },
+            {
+                "First Name": "Andrew C",
+                "Last Name": "Kummel",
+                "Affiliation": "Department of Chemistry and Biochemistry, ‡Department of Nanoengineering, §Department of Computer, ∥Department of Surgery, ⊥Department of Radiology, and #Materials Science and Engineering Program, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093, United States."
+            },
+            {
+                "First Name": "William C",
+                "Last Name": "Trogler",
+                "Affiliation": "Department of Chemistry and Biochemistry, ‡Department of Nanoengineering, §Department of Computer, ∥Department of Surgery, ⊥Department of Radiology, and #Materials Science and Engineering Program, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093, United States."
+            }
+        ],
+        "Journal": "ACS applied materials & interfaces",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "24901545",
+        "Title": "2-tier in-plane motion correction and out-of-plane motion filtering for contrast-enhanced ultrasound.",
+        "Abstract": "Contrast-enhanced ultrasound (CEUS) cines of focal liver lesions (FLLs) can be quantitatively analyzed to measure tumor perfusion on a pixel-by-pixel basis for diagnostic indication. However, CEUS cines acquired freehand and during free breathing cause nonuniform in-plane and out-of-plane motion from frame to frame. These motions create fluctuations in the time-intensity curves (TICs), reducing the accuracy of quantitative measurements. Out-of-plane motion cannot be corrected by image registration in 2-dimensional CEUS and degrades the quality of in-plane motion correction (IPMC). A 2-tier IPMC strategy and adaptive out-of-plane motion filter (OPMF) are proposed to provide a stable correction of nonuniform motion to reduce the impact of motion on quantitative analyses.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Contrast Media",
+            "Humans",
+            "Image Enhancement",
+            "Image Processing, Computer-Assisted",
+            "Liver",
+            "Liver Neoplasms",
+            "Motion",
+            "Phospholipids",
+            "Reproducibility of Results",
+            "Respiration",
+            "Retrospective Studies",
+            "Sulfur Hexafluoride",
+            "Ultrasonography"
+        ],
+        "Authors": [
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "From the *Department of Electrical and Computer Engineering, University of California, San Diego, La Jolla; †University of Texas MD Anderson Cancer Center, Houston; ‡MRI Institute, Department of Radiology, University of California, San Diego, Medical Center; §Moores Cancer Center, University of California, San Diego, La Jolla; ∥Departments of Medicine and Radiology, University of California, San Diego, Medical Center; and ¶Department of Chemistry and Biochemistry, University of California, San Diego, La Jolla."
+            },
+            {
+                "First Name": "Mohammad",
+                "Last Name": "Eghtedari",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert F",
+                "Last Name": "Mattrey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuko",
+                "Last Name": "Kono",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew C",
+                "Last Name": "Kummel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Investigative radiology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "23616935",
+        "Title": "Integrated processing of contrast pulse sequencing ultrasound imaging for enhanced active contrast of hollow gas filled silica nanoshells and microshells.",
+        "Abstract": "In recent years, there have been increasing developments in the field of contrast-enhanced ultrasound both in the creation of new contrast agents and in imaging modalities. These contrast agents have been employed to study tumor vasculature in order to improve cancer detection and diagnosis. An in vivo study is presented of ultrasound imaging of gas filled hollow silica microshells and nanoshells which have been delivered intraperitoneally to an IGROV-1 tumor bearing mouse. In contrast to microbubbles, this formulation of microshells provided strong ultrasound imaging signals by shell disruption and release of gas. Imaging of the microshells in an animal model was facilitated by novel image processing. Although the particle signal could be identified by eye under live imaging, high background obfuscated the particle signal in still images and near the borders of the tumor with live images. Image processing techniques were developed that employed the transient nature of the particle signal to selectively filter out the background signal. By applying image registration, high-pass, median, threshold, and motion filtering, a short video clip of the particle signal was compressed into a single image, thereby resolving the silica shells within the tumor. © 2012 American Vacuum Society.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "University of California, San Diego, Department of Electrical and Computer Engineering, 9500 Gilman Drive Mail Code 0407, La Jolla, California 92093."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Liberman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "H",
+                "Last Name": "Paul Martinez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher V",
+                "Last Name": "Barback",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert F",
+                "Last Name": "Mattrey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah L",
+                "Last Name": "Blair",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "William C",
+                "Last Name": "Trogler",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew C",
+                "Last Name": "Kummel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zhe",
+                "Last Name": "Wu",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of vacuum science and technology. B, Nanotechnology & microelectronics : materials, processing, measurement, & phenomena : JVST B",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "23616934",
+        "Title": "Automating tumor classification with pixel-by-pixel contrast-enhanced ultrasound perfusion kinetics.",
+        "Abstract": "Contrast-enhanced ultrasound (CEUS) enables highly specific time-resolved imaging of vasculature by intravenous injection of ∼2 μm gas filled microbubbles. To develop a quantitative automated diagnosis of breast tumors with CEUS, breast tumors were induced in rats by administration of N-ethyl-N-nitrosourea. A bolus injection of microbubbles was administered and CEUS videos of each tumor were acquired for at least 3 min. The time-intensity curve of each pixel within a region of interest (ROI) was analyzed to measure kinetic parameters associated with the wash-in, peak enhancement, and wash-out phases of microbubble bolus injections since it was expected that the aberrant vascularity of malignant tumors will result in faster and more diverse perfusion kinetics versus those of benign lesions. Parameters were classified using linear discriminant analysis to differentiate between benign and malignant tumors and improve diagnostic accuracy. Preliminary results with a small dataset (10 tumors, 19 videos) show 100% accuracy with fivefold cross-validation testing using as few as two choice variables for training and validation. Several of the parameters which provided the best differentiation between malignant and benign tumors employed comparative analysis of all the pixels in the ROI including enhancement coverage, fractional enhancement coverage times, and the standard deviation of the envelope curve difference normalized to the mean of the peak frame. Analysis of combinations of five variables demonstrated that pixel-by-pixel analysis produced the most robust information for tumor diagnostics and achieved 5 times greater separation of benign and malignant cases than ROI-based analysis.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": "University of California, San Diego, Department of Electrical and Computer Engineering, 9500 Gilman Drive Mail Code 0407, La Jolla, California 92093."
+            },
+            {
+                "First Name": "Yuko",
+                "Last Name": "Kono",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher V",
+                "Last Name": "Barback",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert F",
+                "Last Name": "Mattrey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew C",
+                "Last Name": "Kummel",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of vacuum science and technology. B, Nanotechnology & microelectronics : materials, processing, measurement, & phenomena : JVST B",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22498299",
+        "Title": "Hollow silica and silica-boron nano/microparticles for contrast-enhanced ultrasound to detect small tumors.",
+        "Abstract": "Diagnosing tumors at an early stage when they are easily curable and may not require systemic chemotherapy remains a challenge to clinicians. In order to improve early cancer detection, gas filled hollow boron-doped silica particles have been developed, which can be used for ultrasound-guided breast conservation therapy. The particles are synthesized using a polystyrene template and subsequently calcinated to create hollow, rigid nanoporous microspheres. The microshells are filled with perfluoropentane vapor. Studies were performed in phantoms to optimize particle concentration, injection dose, and the ultrasound settings such as pulse frequency and mechanical index. In vitro studies have shown that these particles can be continuously imaged by US up to 48 min and their signal lifetime persisted for 5 days. These particles could potentially be given by intravenous injection and, in conjunction with contrast-enhanced ultrasound, be utilized as a screening tool to detect smaller breast cancers before they are detectible by traditional mammography.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Boron",
+            "Contrast Media",
+            "Humans",
+            "Microscopy, Electron, Scanning",
+            "Nanoparticles",
+            "Neoplasms",
+            "Silicon Dioxide",
+            "Ultrasonography"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alexander",
+                "Last Name": "Liberman",
+                "Affiliation": "University of California, San Diego, Materials Science and Engineering Program, La Jolla, CA 92093, USA."
+            },
+            {
+                "First Name": "H Paul",
+                "Last Name": "Martinez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher V",
+                "Last Name": "Barback",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert F",
+                "Last Name": "Mattrey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yuko",
+                "Last Name": "Kono",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah L",
+                "Last Name": "Blair",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "William C",
+                "Last Name": "Trogler",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew C",
+                "Last Name": "Kummel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zhe",
+                "Last Name": "Wu",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Biomaterials",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21525740",
+        "Title": "Quantitative automated image analysis system with automated debris filtering for the detection of breast carcinoma cells.",
+        "Abstract": "To develop an intraoperative method for margin status evaluation during breast conservation therapy (BCT) using an automated analysis of imprint cytology specimens.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Automation",
+            "Breast Neoplasms",
+            "Diagnostic Imaging",
+            "Female",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Prospective Studies",
+            "Reproducibility of Results"
+        ],
+        "Authors": [
+            {
+                "First Name": "David T",
+                "Last Name": "Martin",
+                "Affiliation": "Department of Electrical and Computer Engineering, University of California San Diego, San Diego, CA 92161, USA."
+            },
+            {
+                "First Name": "Sergio",
+                "Last Name": "Sandoval",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Casey N",
+                "Last Name": "Ta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Manuel E",
+                "Last Name": "Ruidiaz",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maria Jose",
+                "Last Name": "Cortes-Mateos",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Davorka",
+                "Last Name": "Messmer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew C",
+                "Last Name": "Kummel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah L",
+                "Last Name": "Blair",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jessica",
+                "Last Name": "Wang-Rodriguez",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Acta cytologica",
+        "PubDate": "2011"
+    }
+]

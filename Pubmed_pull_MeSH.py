@@ -15,6 +15,60 @@ PUBMED_FETCH_API_ENDPOINT = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetc
 load_dotenv()
 PUBMED_API_KEY = os.getenv("PubMed_API_KEY")
 
+import os
+import json
+
+def check_and_repull_if_empty(output_dir, name_variants):
+    # Define the file path
+    output_path = os.path.join(output_dir, f'{name_variants[0]}.json')
+
+    # Check if the file exists and is empty (i.e., contains [])
+    if os.path.exists(output_path):
+        with open(output_path, 'r', encoding='utf-8') as json_file:
+            data = json.load(json_file)
+            if data == []:  # If the file contains an empty list
+                print(f"File {output_path} is empty, repulling data for {name_variants[0]}...")
+                success = repull_data(output_path, name_variants)
+                return success
+            else:
+                print(f"File {output_path} is not empty, skipping repull for {name_variants[0]}.")
+                return True
+    else:
+        print(f"File {output_path} does not exist, pulling data for the first time.")
+        success = repull_data(output_path, name_variants)
+        return success
+
+
+def repull_data(output_path, name_variants):
+    # Repull data from PubMed
+    pmids = []
+    for author_name in name_variants:
+        print(f"Searching articles for {author_name}")
+        search_results = search_pubmed_by_author(author_name)
+        pmids = search_results['esearchresult']['idlist']
+
+        if pmids:
+            print(f"{len(pmids)} articles found for {author_name}")
+            break  # Exit the loop if we found any articles
+
+    if not pmids:
+        print(f"No articles found for any variants of name: {name_variants}")
+        return False  # Return False if no data is found
+
+    # Get details for the found PMIDs with error handling
+    all_details = fetch_pubmed_article_details(pmids)
+
+    # Process the data into the required format
+    articles = parse_article_details(all_details, name_variants)
+
+    # Save the new articles to the output path (overwrite the empty file)
+    with open(output_path, 'w', encoding='utf-8') as output_file:
+        json.dump(articles, output_file, indent=4)
+
+    print(f"Data repulled and saved to {output_path}")
+    return True  # Return True indicating success
+
+
 def search_pubmed_by_author(author_name, max_retries=5):
     params = {
         "db": "pubmed",
@@ -73,7 +127,7 @@ def fetch_pubmed_article_details(pmids):
 
     return all_details
 
-def parse_article_details(xml_data):
+def parse_article_details(xml_data, author_name_variants):
     articles = []
     for chunk in xml_data:
         root = ET.fromstring(chunk)
@@ -94,20 +148,31 @@ def parse_article_details(xml_data):
                     "Last Name": last_name,
                     "Affiliation": affiliation
                 })
-
-            journal = article.findtext('.//Journal/Title')
-            pub_date = article.findtext('.//PubDate/Year')
-            print(f"{len(mesh_terms)} found")
-            articles.append({
-                "PMID": pmid,
-                "Title": title,
-                "Abstract": abstract,
-                "Keywords": keywords,
-                "MeSH terms": mesh_terms,
-                "Authors": authors_list,
-                "Journal": journal,
-                "PubDate": pub_date
-            })
+            if authors_list:
+                normalized_author_list = [f"{author['First Name']} {author['Last Name']}".lower().strip() for author in
+                                          authors_list]
+                author_in_top_3 = any(
+                    any(variant in normalized_author_list[i] for variant in author_name_variants)
+                    for i in range(min(3, len(authors_list)))  # Top 3 authors
+                )
+                author_in_senior_position = any(
+                    variant in normalized_author_list[-1]
+                    for variant in author_name_variants
+                )
+                if author_in_top_3 or author_in_senior_position:
+                    journal = article.findtext('.//Journal/Title')
+                    pub_date = article.findtext('.//PubDate/Year')
+                    print(f"{len(mesh_terms)} found")
+                    articles.append({
+                        "PMID": pmid,
+                        "Title": title,
+                        "Abstract": abstract,
+                        "Keywords": keywords,
+                        "MeSH terms": mesh_terms,
+                        "Authors": authors_list,
+                        "Journal": journal,
+                        "PubDate": pub_date
+                    })
 
     return articles
 
@@ -124,22 +189,24 @@ def drop_middle_name(name):
     else:
         return ""
 
-def names_to_search(set):
+def names_to_search(name_set):
+    print(name_set)
     res = []
-    folder_path = 'researchers_files(Yilu_format)'
+    folder_path = 'researchers_files_new'
     name_list = []
     for filename in os.listdir(folder_path):
         if filename.endswith('.json'):
             name_list.append(os.path.splitext(filename)[0])
-    for i in set:
-        if i not in name_list and i != "N/A":
-            normalized_name = normalize_name(i)
+    for name in name_set:
+        if name not in name_list and name != "N/A":
+            normalized_name = normalize_name(name)
             dropped_middle_name = drop_middle_name(normalized_name)
             if dropped_middle_name != "":
-                res.append([normalized_name,dropped_middle_name])
+                res.append([normalized_name, dropped_middle_name])
             else:
                 res.append([normalized_name])
     return res
+
 
 def main():
     comparison_csv_path = "columbia_research_faculty_extracted.csv"
@@ -148,28 +215,42 @@ def main():
 
     # Load the names from the comparison CSV file
     comparison_names = []
-    # with open(comparison_csv_path, mode='r', newline='', encoding='utf-8') as csv_file:
-    #     csv_reader = csv.DictReader(csv_file)
-    #     for row in csv_reader:
-    #         comparison_names.append(row['Name'])
-    with open(comparison_json_path, 'r') as scraper_file:
-        scraper_data = json.load(scraper_file)
-    for name in scraper_data:
-        capitalized_name = ""
-        for i in range(len(name)):
-            if i != 0 and name[i - 1] == " ":
-                capitalized_name += name[i].upper()
-            elif i == 0:
-                capitalized_name += name[i].upper()
-            else:
-                capitalized_name += name[i]
-        comparison_names.append(capitalized_name)
+    with open(comparison_csv_path, mode='r', newline='', encoding='utf-8') as csv_file:
+        csv_reader = csv.DictReader(csv_file)
+        for row in csv_reader:
+            comparison_names.append(row['Name'])
+    # with open(comparison_json_path, 'r') as scraper_file:
+    #     scraper_data = json.load(scraper_file)
+    #     comparison_names = list(scraper_data.keys())
+    target_lst = ["Chunhua Weng", "Gamze Gürsoy", "Sarah Collins Rossetti", "George Hripcsak", "Patrick Ryan", "Krzysztof Kiryluk",
+                  "Karen Marder", "Henry Ginsberg", "Ian Kronish", "Samuel Sternberg", "Hashim M. Al-Hashimi", "Shuang Wang",
+                  "Zhezhen Jin", "Ying Wei", "Yuanjia Wang", "Soojin Park", "Yiming Luo", "Cong Liu", "Elizabeth Cohn"]
+    for i in range(len(target_lst)):
+        target_lst[i] = target_lst[i].lower()
+    for name in comparison_names:
+        if name in target_lst:
+            print(name)
+            capitalized_name = ""
+            for i in range(len(name)):
+                if i != 0 and name[i - 1] == " ":
+                    capitalized_name += name[i].upper()
+                elif i == 0:
+                    capitalized_name += name[i].upper()
+                else:
+                    capitalized_name += name[i]
+            comparison_names.append(capitalized_name)
 
     names = names_to_search(comparison_names)
-
+    print(names)
+    output_dir = 'researchers_files_new'
+    os.makedirs(output_dir, exist_ok=True)
     for name_variants in names:
         print(f"Trying names: {name_variants}")
-
+        success = check_and_repull_if_empty(output_dir, name_variants)
+        if not success:
+            non_existing_name.append(name_variants)
+        print(f"Failed to search for: {non_existing_name}")
+        print("=======================================================")
         pmids = []
         for author_name in name_variants:
             print(f"Searching articles for {author_name}")
@@ -219,16 +300,16 @@ def main():
                 raise HTTPError(f"Failed to fetch after {max_retries} attempts. Status code: {response.status_code}")
 
         # Process the data into the required format
-        articles = parse_article_details(all_details)
+        articles = parse_article_details(all_details, name_variants)
 
         # Output the results
-        output_dir = 'researchers_files(Yilu_format)'
+        output_dir = 'researchers_files_new'
         os.makedirs(output_dir, exist_ok=True)
         output_path = os.path.join(output_dir, f'{name_variants[0]}.json')
 
         with open(output_path, 'w', encoding='utf-8') as output_file:
             json.dump(articles, output_file, indent=4)
-
+        print(len(articles))
         print(f"Data saved to {output_path}")
         print(f"Failed to search for: {non_existing_name}")
         print("=======================================================")

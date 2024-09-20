@@ -1,0 +1,609 @@
+[
+    {
+        "PMID": "33750362",
+        "Title": "Research on aging during the Venezuelan humanitarian crisis: the experience of the Maracaibo aging study.",
+        "Abstract": "Venezuela is in the throes of a complex humanitarian crisis that is one of the worst in decades to impact any country outside of wartime. This case analysis describes the challenges faced by the ongoing Maracaibo Aging Study (MAS) during the deteriorating conditions in Venezuela. When the MAS began in 1997, it focused on memory-related disorders. Since then, strategic planning and proactive community participation allowed us to anticipate and address logistical, funding, and ethical challenges, and facilitated the enrollment and retention of more than 2500 subjects over 55 years of age. All participants, who are residents of the city of Maracaibo, Venezuela, underwent various assessments on several occasions. Here, we discuss how our approach to implementing a longitudinal, population-based study of age-related conditions has allowed our research program to continue throughout this period of political, economic, and social upheaval.",
+        "Keywords": [
+            "Aging",
+            "Alzheimer’s",
+            "Dementia",
+            "Elderly",
+            "Ethical challenges",
+            "Humanitarian crisis",
+            "Low-and-middle income countries",
+            "Research",
+            "Venezuela",
+            "Vulnerable populations"
+        ],
+        "MeSH terms": [
+            "Aging",
+            "Community Participation",
+            "Hispanic or Latino",
+            "Humans",
+            "Research Personnel",
+            "Venezuela"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gladys E",
+                "Last Name": "Maestre",
+                "Affiliation": "Department of Neuroscience, University of Texas Rio Grande Valley School of Medicine, One West University Blvd, BROBL, Rm. 106, Brownsville, TX, 78520, USA. gladys.maestre@utrgv.edu."
+            },
+            {
+                "First Name": "Rosa V",
+                "Last Name": "Pirela",
+                "Affiliation": "Department of Human Genetics, University of Texas Rio Grande Valley School of Medicine, Brownsville, TX, USA."
+            },
+            {
+                "First Name": "Carmen L",
+                "Last Name": "Paz",
+                "Affiliation": "Laboratory of Neurosciences, University of Zulia, Maracaibo, Venezuela."
+            },
+            {
+                "First Name": "Jesus D",
+                "Last Name": "Melgarejo",
+                "Affiliation": "Laboratory of Neurosciences, University of Zulia, Maracaibo, Venezuela."
+            },
+            {
+                "First Name": "Luis J",
+                "Last Name": "Mena",
+                "Affiliation": "Universidad Politécnica de Sinaloa, Mazatlán, Mexico."
+            },
+            {
+                "First Name": "Carlos A",
+                "Last Name": "Chavez",
+                "Affiliation": "Laboratory of Neurosciences, University of Zulia, Maracaibo, Venezuela."
+            },
+            {
+                "First Name": "Reinier",
+                "Last Name": "Leendertz",
+                "Affiliation": "Laboratory of Neurosciences, University of Zulia, Maracaibo, Venezuela."
+            },
+            {
+                "First Name": "Michele",
+                "Last Name": "Petitto",
+                "Affiliation": "Laboratory of Neurosciences, University of Zulia, Maracaibo, Venezuela."
+            },
+            {
+                "First Name": "Eglé",
+                "Last Name": "Silva",
+                "Affiliation": "Cardiovascular Institute (IECLUZ), University of Zulia, Maracaibo, Zulia, Venezuela."
+            },
+            {
+                "First Name": "Gustavo E",
+                "Last Name": "Calmón",
+                "Affiliation": "Cardiovascular Institute (IECLUZ), University of Zulia, Maracaibo, Zulia, Venezuela."
+            },
+            {
+                "First Name": "Lama",
+                "Last Name": "Al-Aswad",
+                "Affiliation": "Department of Ophthalmology, Grossman School of Medicine, New York University, New York, NY, USA."
+            },
+            {
+                "First Name": "Joseph H",
+                "Last Name": "Lee",
+                "Affiliation": "Sergievsky Center, College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Terwilliger",
+                "Affiliation": "Sergievsky Center, College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+            }
+        ],
+        "Journal": "BMC public health",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "22082140",
+        "Title": "On the validity of the likelihood ratio test and consistency of resulting parameter estimates in joint linkage and linkage disequilibrium analysis under improperly specified parametric models.",
+        "Abstract": "It has been shown that parametric analysis of linkage disequilibrium conditional on linkage using an overly deterministic model can be optimal for family-based association analysis. However, if one applies this strategy carelessly, there is a risk of false inference. We analyse properties of such likelihood ratio tests when the assumed disease mode of inheritance is inaccurate. Under some conditions, problems result if one is not careful to consider what null hypothesis is being tested. We show that: (a) tests for which the null hypothesis assumes the absence of both linkage and association are independent of the true mode of inheritance; (b) likelihood ratio tests assuming either linkage or association under the null hypothesis may depend on the true mode of inheritance, leading to inconsistent parameter estimates, in particular under extremely deterministic models; (c) this problem cannot be eliminated by increasing sample size or adding population controls--as sample size increases, the chance of false positive inference goes to 100%; (d) this issue can lead to systematic false positive inference of association in regions of linkage. This is important because highly deterministic models are often used intentionally in model-based analyses because they can have more power than the true model, and are implicit in many model-free analysis methods.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bias",
+            "False Positive Reactions",
+            "Family",
+            "Genetic Linkage",
+            "Genotype",
+            "Humans",
+            "Likelihood Functions",
+            "Linkage Disequilibrium",
+            "Models, Genetic",
+            "Models, Statistical",
+            "Phenotype"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tero",
+                "Last Name": "Hiekkalinna",
+                "Affiliation": "Institute for Molecular Medicine Finland, University of Helsinki, Finland. tero.hiekkalinna@helsinki.fi"
+            },
+            {
+                "First Name": "Harald H H",
+                "Last Name": "Göring",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Terwilliger",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annals of human genetics",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21934707",
+        "Title": "On the statistical properties of family-based association tests in datasets containing both pedigrees and unrelated case-control samples.",
+        "Abstract": "A common approach to genetic mapping of loci for complex diseases is to perform a genome-wide association study (GWAS) by analyzing a vast number of SNP markers in cohorts of unrelated cases and controls. A direct motivation for the case-control design is that unrelated, affected individuals can be easier to collect than large families with multiple affected persons in the Western world. Despite its higher potential power, investigators have not actively pursued family ascertainment in part because of a dearth of methods for analyzing such correlated data on a large scale. We examine the statistical properties of several commonly used family-based association tests, as to their performance using real-life mixtures of families and singletons taken from our own migraine and schizophrenia studies, as well as population-based data for a complex trait simulated with the evolutionary phenogenetic simulator, ForSim. In virtually every situation, the full likelihood-based methods in the PSEUDOMARKER program outperformed those implemented in FBAT, GENEHUNTER TDT, PLINK (family-based options), HRR/HHRR, QTDT, TRANSMIT, UNPHASED, MENDEL, and LAMP. We further show that GWAS is much more powerful when family samples are used rather than unrelateds, on a genotype-by-genotype basis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bias",
+            "Biometry",
+            "Family Health",
+            "Genetic Linkage",
+            "Genetic Predisposition to Disease",
+            "Genetic Testing",
+            "Genome-Wide Association Study",
+            "Humans",
+            "Linkage Disequilibrium",
+            "Migraine Disorders",
+            "Pedigree",
+            "Schizophrenia",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tero",
+                "Last Name": "Hiekkalinna",
+                "Affiliation": "Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Harald H H",
+                "Last Name": "Göring",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brian",
+                "Last Name": "Lambert",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kenneth M",
+                "Last Name": "Weiss",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Petri",
+                "Last Name": "Norrgrann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alejandro A",
+                "Last Name": "Schäffer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Terwilliger",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "European journal of human genetics : EJHG",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "21811076",
+        "Title": "PSEUDOMARKER: a powerful program for joint linkage and/or linkage disequilibrium analysis on mixtures of singletons and related individuals.",
+        "Abstract": "A decade ago, there was widespread enthusiasm for the prospects of genome-wide association studies to identify common variants related to common chronic diseases using samples of unrelated individuals from populations. Although technological advancements allow us to query more than a million SNPs across the genome at low cost, a disappointingly small fraction of the genetic portion of common disease etiology has been uncovered. This has led to the hypothesis that less frequent variants might be involved, stimulating a renaissance of the traditional approach of seeking genes using multiplex families from less diverse populations. However, by using the modern genotyping and sequencing technology, we can now look not just at linkage, but jointly at linkage and linkage disequilibrium (LD) in such samples. Software methods that can look simultaneously at linkage and LD in a powerful and robust manner have been lacking. Most algorithms cannot jointly analyze datasets involving families of varying structures in a statistically or computationally efficient manner. We have implemented previously proposed statistical algorithms in a user-friendly software package, PSEUDOMARKER. This paper is an announcement of this software package. We describe the motivation behind the approach, the statistical methods, and software, and we briefly demonstrate PSEUDOMARKER's advantages over other packages by example.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Case-Control Studies",
+            "Chromosome Mapping",
+            "Gene Frequency",
+            "Genetic Linkage",
+            "Genetic Loci",
+            "Genome-Wide Association Study",
+            "Humans",
+            "Likelihood Functions",
+            "Linkage Disequilibrium",
+            "Research Design",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tero",
+                "Last Name": "Hiekkalinna",
+                "Affiliation": "Institute for Molecular Medicine Finland (FIMM), University of Helsinki. tero.hiekkalinna @ helsinki.fi"
+            },
+            {
+                "First Name": "Alejandro A",
+                "Last Name": "Schäffer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brian",
+                "Last Name": "Lambert",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Petri",
+                "Last Name": "Norrgrann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harald H H",
+                "Last Name": "Göring",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Terwilliger",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Human heredity",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "20504192",
+        "Title": "Update to Terwilliger and Göring's \"Gene mapping in the 20th and 21st centuries\" (2000): gene mapping when rare variants are common and common variants are rare.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Chromosome Mapping",
+            "Humans",
+            "Models, Genetic",
+            "Research Design"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Terwilliger",
+                "Affiliation": "Department of Psychiatry, Department of Genetics and Development, and Columbia Genome Center, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Harald H H",
+                "Last Name": "Göring",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Human biology",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "20504191",
+        "Title": "Gene mapping in the 20th and 21st centuries: statistical methods, data analysis, and experimental design. 2000.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Chromosome Mapping",
+            "Gene Frequency",
+            "Genotype",
+            "History, 21st Century",
+            "Humans",
+            "Linkage Disequilibrium",
+            "Models, Genetic",
+            "Mutation",
+            "Phenotype",
+            "Polymorphism, Genetic",
+            "Research Design",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Terwilliger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harald H H",
+                "Last Name": "Göring",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Human biology",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19086037",
+        "Title": "Linkage analysis of schizophrenia controlling for population substructure.",
+        "Abstract": "Etiological heterogeneity and complexity has hampered attempts to identify predisposing genes for schizophrenia. We sought to minimize the number of segregating genes involved by focusing on a population isolate with elevated disease prevalence. We exploited the well-established population history, and searched for disease susceptibility loci in families from two alternative founder lineages. We studied 28 schizophrenia pedigrees (123 nuclear families) from an outlying municipality on the eastern border of Finland. We divided the families based on their genealogy and defined two routes of immigration: southern and northern. We examined the kinship coefficients and allele frequency distributions within each group, and performed a linkage analysis based on 497 microsatellite markers across the genome. A high degree of historical relatedness was demonstrated by higher sharing of alleles than predicted by the relationships we identified within the previous four generations alone, as would be expected. Between the two subpopulations, allele frequencies were significantly different, consistent with their isolated genealogies. The southern families showed some evidence of linkage in a schizophrenia locus at 4q23 (Z = 3.3) near our previous finding with quantitative variation in verbal learning and memory [Paunio et al. (2004); Hum Mol Genet 13: 1693-1702], while the northern pedigrees gave most significant evidence on 10q21 (Z = 2.53). Joint analysis of families from both lineages suggested evidence of linkage only at 3p14 (Z = 3.18). Thus the detailed genealogical information led us to identification of distinct linkage signals for schizophrenia susceptibility loci between the three analyses we performed.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alleles",
+            "Chromosomes, Human, Pair 10",
+            "Chromosomes, Human, Pair 3",
+            "Chromosomes, Human, Pair 4",
+            "Finland",
+            "Founder Effect",
+            "Gene Frequency",
+            "Genetic Linkage",
+            "Genetic Predisposition to Disease",
+            "Genetics, Population",
+            "Genome, Human",
+            "Humans",
+            "Microsatellite Repeats",
+            "Pedigree",
+            "Schizophrenia"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tiina",
+                "Last Name": "Paunio",
+                "Affiliation": "Department of Molecular Medicine, National Public Health Institute, Helsinki, Finland."
+            },
+            {
+                "First Name": "Ritva",
+                "Last Name": "Arajärvi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Terwilliger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tero",
+                "Last Name": "Hiekkalinna",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Perttu",
+                "Last Name": "Haimi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Timo",
+                "Last Name": "Partonen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jouko",
+                "Last Name": "Lönnqvist",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Leena",
+                "Last Name": "Peltonen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Teppo",
+                "Last Name": "Varilo",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18565989",
+        "Title": "ForSim: a tool for exploring the genetic architecture of complex traits with controlled truth.",
+        "Abstract": "Many important problems in biology involve complex traits affected by multiple coding or regulatory parts of the genome. How well the underlying genetic architecture can be inferred by statistical methods such as mapping and association studies are active research areas. ForSim is a flexible forward evolutionary simulation tool for exploring the consequences of evolution by phenotype, whereby demographic, chance, behavioral and selective effects mold genetic architecture. Simulation is useful for exploring these issues as well as the choice of study design inferential methods.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Artifacts",
+            "Chromosome Mapping",
+            "Evolution, Molecular",
+            "Models, Genetic",
+            "Quantitative Trait Loci",
+            "Quantitative Trait, Heritable",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Brian W",
+                "Last Name": "Lambert",
+                "Affiliation": "Department of Anthropology, Penn State University, University Park, PA, USA. bwl1@psu.edu"
+            },
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Terwilliger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kenneth M",
+                "Last Name": "Weiss",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "16479260",
+        "Title": "An utter refutation of the \"fundamental theorem of the HapMap\".",
+        "Abstract": "The International HapMap Project was proposed in order to quantify linkage disequilibrium (LD) relationships among human DNA polymorphisms in an assortment of populations, in order to facilitate the process of selecting a minimal set of markers that could capture most of the signal from the untyped markers in a genome-wide association study. The central dogma can be summarized by the argument that if a marker is in tight LD with a polymorphism that directly impacts disease risk, as measured by the metric r(2), then one would be able to detect an association between the marker and disease with sample size that was increased by a factor of 1/r(2) over that needed to detect the effect of the functional variant directly. This \"fundamental theorem\" holds, however, only if one assumes that the LD between loci and the etiological effect of the functional variant are independent of each other, that they are statistically independent of all other etiological factors (in exposure and action), that sampling is prospective, and that the estimates of r(2) are accurate. None of these are standard operating assumptions, however. We describe the ramifications of these implicit assumptions, and provide simple examples in which the effects of a functional variant could be unequivocally detected if it were directly genotyped, even as markers in high LD with the functional variant would never show association with disease, even in infinite sample sizes. Both theoretical and empirical refutation of the central dogma of genome-wide association studies is thus presented.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Chromosome Mapping",
+            "Haplotypes",
+            "Humans",
+            "Linkage Disequilibrium",
+            "Polymorphism, Single Nucleotide",
+            "Sample Size",
+            "Selection Bias"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Terwilliger",
+                "Affiliation": "Department of Genetics and Development, Columbia University, New York, NY, USA. joseph.terwilliger@helsinki.fi"
+            },
+            {
+                "First Name": "Tero",
+                "Last Name": "Hiekkalinna",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "European journal of human genetics : EJHG",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16401639",
+        "Title": "Prostatic intraepithelial neoplasia and adenocarcinoma in mice expressing a probasin-Neu oncogenic transgene.",
+        "Abstract": "NEU (ERBB2) and other members of the epidermal growth factor receptor (EGFR) family have been implicated in human prostate cancer (CAP) development and progression to an androgen-independent state, but the extent of involvement and precise role of this signaling pathway remain unclear. To begin addressing such open questions in an animal model, we have developed a transgenic line in which an oncogenic Neu cDNA (Neu*) driven by the probasin gene promoter is overexpressed in the mouse prostate and causes development of prostatic intraepithelial neoplasia (PIN) that progresses to invasive carcinoma. Expression profiling using microarrays, which was selectively validated and extended by immunophenotyping of Neu*-induced PIN and CAP, led to the identification of some novel biomarkers and also revealed increased expression of Egfr, Erbb3 and phosphorylated androgen receptor. In view of this information from our mouse model, which can be used to analyze further the role of Erbb signaling in prostatic tumorigenesis, we examined human prostate cancer tissue arrays by immunohistochemistry. Based on statistical analyses of the results, we propose the testable hypothesis that ERBB3, shown to be expressed in 86% of the human CAP cases that we examined, is the pivotal element of the Erbb pathway promoting tumorigenesis by heterodimerization with NEU or EGFR, while a NEU/EGFR dimer does not appear to play a significant role in CAP.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adenocarcinoma",
+            "Animals",
+            "ErbB Receptors",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Neoplastic",
+            "Humans",
+            "Immunophenotyping",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Transgenic",
+            "Phosphorylation",
+            "Prostatic Intraepithelial Neoplasia",
+            "Receptor, ErbB-2",
+            "Receptor, ErbB-3",
+            "Time Factors",
+            "Transgenes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zhe",
+                "Last Name": "Li",
+                "Affiliation": "Department of Genetics and Development, Genome Center and Institute for Cancer Genetics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Matthias",
+                "Last Name": "Szabolcs",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Terwilliger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Argiris",
+                "Last Name": "Efstratiadis",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Carcinogenesis",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "15836805",
+        "Title": "AUTOGSCAN: powerful tools for automated genome-wide linkage and linkage disequilibrium analysis.",
+        "Abstract": "Genome-wide linkage analysis using multiple traits and statistical software packages is a tedious process which requires a significant amount of manual file manipulation. Different linkage analysis programs require different input file formats, making the task of analyzing data with multiple methods even more time-consuming. We have developed a software tool, AUTOGSCAN, that automates file formatting, the running of statistical analyses, and the summarizing of resulting statistics for whole genome scans with a push of a button, using several independent, and often idiosyncratic, statistical software packages such as MERLIN, SOLAR and GENEHUNTER. We also describe a program, ANALYZE, designed to run qualitative linkage analysis with several different statistical strategies and programs to efficiently screen for linkage and linkage disequilibrium for a given discrete trait. The ANALYZE program can also be used by AUTOGSCAN in a genome-wide sense.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Genetic Linkage",
+            "Genome, Human",
+            "Humans",
+            "Linkage Disequilibrium",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tero",
+                "Last Name": "Hiekkalinna",
+                "Affiliation": "Department of Molecular Medicine, National Public Health Institute, Helsinki, Finland."
+            },
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Terwilliger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sampo",
+                "Last Name": "Sammalisto",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Leena",
+                "Last Name": "Peltonen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Markus",
+                "Last Name": "Perola",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Twin research and human genetics : the official journal of the International Society for Twin Studies",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "14649335",
+        "Title": "Confounding, ascertainment bias, and the blind quest for a genetic 'fountain of youth'.",
+        "Abstract": "Many promises have been made about the impact of the Human Genome Project on clinical practice and public health, yet despite massively funded efforts over the past decade, little headway has been made in elucidating the specific genetic factors which have major impact on the risk of developing common complex traits. There are two fundamental reasons for this abject failure as follows: 1) studies have been inadequately designed to identify such genetic risk factors; 2) the genetic factors that do exist are individually of small marginal importance, and are characterized by extensive heterogeneity. If 2) is the truth, there is little we can do about it, so we emphasize the importance of 1) in this article, while recognizing that 2) probably is not far from the truth. Genetic studies, in contrast to epidemiological studies, use confounding and ascertainment bias to help identify weak etiologic signal due to genes, since gene mapping is fundamentally a hypothesis-free science. This strategy makes it possible to identify genetic risk factors, but makes it impossible to quantify the size of their effect on risk. Classical epidemiological study designs are of minimal value for gene identification, but may be of use in estimation of the effect size of genetic risk factors once they are identified in more appropriately designed genetic studies. However, if the effects are so weak that we need this strong, systematic ascertainment bias to find them, their relevance to public health may be of questionable immediate value, raising many questions about the rhetoric and promises being made to the public as justification for 'big science' approaches to dissecting the hypothetical role of genes in complex traits.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Environmental Exposure",
+            "Epidemiology",
+            "Genetic Linkage",
+            "Genetic Research",
+            "Genetic Variation",
+            "Genetics",
+            "Genetics, Medical",
+            "Humans",
+            "Linkage Disequilibrium",
+            "Models, Animal",
+            "Molecular Biology",
+            "Public Health",
+            "Stochastic Processes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Terwilliger",
+                "Affiliation": "Department of Psychiatry, Columbia Genome Center, Columbia University, New York, NY 10032, USA. jdt3@columbia.edu"
+            },
+            {
+                "First Name": "Kenneth M",
+                "Last Name": "Weiss",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annals of medicine",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12433588",
+        "Title": "A bias-ed assessment of the use of SNPs in human complex traits.",
+        "Abstract": "Although many biotechnological advancements have been made in the past decade, there has been very limited success in unraveling the genetic component of complex traits. Heavily invested research has been initiated based on etiological models of unrealistic simplicity and conducted under poor experimental designs, on data sets of insufficient size, leading to an overestimation of the effect sizes of genetic variants and the quantity and quality of linkage disequilibrium (LD). Arguments about whether families or unrelated individuals provide more power for gene mapping have been erroneously debated as issues of whether linkage or LD are more detectable sorts of correlation. Although the latter issue may be subject to debate, there is no doubt that family-based analysis is more powerful for detecting linkage and/or LD. If the recent advances in biotechnology are to be exploited effectively, vastly improved study designs will be imperative, as the reasons for the lack of success to date have much more to do with biology than technology, an issue that has become increasingly clear with the findings of the past years.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Bias",
+            "Chromosome Mapping",
+            "Humans",
+            "Linkage Disequilibrium",
+            "Multifactorial Inheritance",
+            "Polymorphism, Single Nucleotide",
+            "Research Design"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joseph D",
+                "Last Name": "Terwilliger",
+                "Affiliation": "Columbia University, Department of Psychiatry and Columbia Genome Center, New York State Psychiatric Institute, Division of Molecular Genetics 1150 St Nicholas Avenue, Room 520-C, New York, New York 10032, USA. jdt3@columbia.edu"
+            },
+            {
+                "First Name": "Fatemeh",
+                "Last Name": "Haghighi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tero S",
+                "Last Name": "Hiekkalinna",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Harald H H",
+                "Last Name": "Göring",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current opinion in genetics & development",
+        "PubDate": "2002"
+    }
+]

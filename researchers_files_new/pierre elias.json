@@ -1,0 +1,1906 @@
+[
+    {
+        "PMID": "39081946",
+        "Title": "Simple models vs. deep learning in detecting low ejection fraction from the electrocardiogram.",
+        "Abstract": "Deep learning methods have recently gained success in detecting left ventricular systolic dysfunction (LVSD) from electrocardiogram (ECG) waveforms. Despite their high level of accuracy, they are difficult to interpret and deploy broadly in the clinical setting. In this study, we set out to determine whether simpler models based on standard ECG measurements could detect LVSD with similar accuracy to that of deep learning models.",
+        "Keywords": [
+            "Artificial intelligence",
+            "Deep learning",
+            "Electrocardiograms",
+            "Explainability",
+            "Interpretability"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "John Weston",
+                "Last Name": "Hughes",
+                "Affiliation": "Department of Computer Science, Stanford University, 353 Jane Stanford Way, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Sulaiman",
+                "Last Name": "Somani",
+                "Affiliation": "Department of Medicine, Stanford University, 1265 Pasteur Dr, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, 622 W 168th St, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Tooley",
+                "Affiliation": "Department of Medicine, Stanford University, 1265 Pasteur Dr, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Albert J",
+                "Last Name": "Rogers",
+                "Affiliation": "Department of Medicine, Stanford University, 1265 Pasteur Dr, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Timothy",
+                "Last Name": "Poterucha",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, 622 W 168th St, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Christopher M",
+                "Last Name": "Haggerty",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, 622 W 168th St, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Salerno",
+                "Affiliation": "Department of Medicine, Stanford University, 1265 Pasteur Dr, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Ouyang",
+                "Affiliation": "Cedars-Sinai Medical Center, Department of Cardiology, Smidt Heart Institute, 127 S San Vicente Blvd Pavilion, Suite A3600, Los Angeles, CA 90048, USA."
+            },
+            {
+                "First Name": "Euan",
+                "Last Name": "Ashley",
+                "Affiliation": "Department of Medicine, Stanford University, 1265 Pasteur Dr, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Zou",
+                "Affiliation": "Department of Biomedical Data Science, Stanford University, 1265 Welch Road, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Marco V",
+                "Last Name": "Perez",
+                "Affiliation": "Department of Medicine, Stanford University, 1265 Pasteur Dr, Stanford, CA 94305, USA."
+            }
+        ],
+        "Journal": "European heart journal. Digital health",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38593946",
+        "Title": "Artificial Intelligence for Cardiovascular Care-Part 1: Advances: JACC Review Topic of the Week.",
+        "Abstract": "Recent artificial intelligence (AI) advancements in cardiovascular care offer potential enhancements in diagnosis, treatment, and outcomes. Innovations to date focus on automating measurements, enhancing image quality, and detecting diseases using novel methods. Applications span wearables, electrocardiograms, echocardiography, angiography, genetics, and more. AI models detect diseases from electrocardiograms at accuracy not previously achieved by technology or human experts, including reduced ejection fraction, valvular heart disease, and other cardiomyopathies. However, AI's unique characteristics necessitate rigorous validation by addressing training methods, real-world efficacy, equity concerns, and long-term reliability. Despite an exponentially growing number of studies in cardiovascular AI, trials showing improvement in outcomes remain lacking. A number are currently underway. Embracing this rapidly evolving technology while setting a high evaluation benchmark will be crucial for cardiology to leverage AI to enhance patient care and the provider experience.",
+        "Keywords": [
+            "artificial intelligence",
+            "cardiac imaging",
+            "deep learning",
+            "digital health",
+            "innovation",
+            "large language models",
+            "machine learning"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Artificial Intelligence",
+            "Cardiovascular Diseases",
+            "Cardiology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Seymour, Paul and Gloria Milstein Division of Cardiology, Columbia University Irving Medical Center, New York, New York, USA; Department of Biomedical Informatics Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Sneha S",
+                "Last Name": "Jain",
+                "Affiliation": "Division of Cardiology, Stanford University School of Medicine, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "Timothy",
+                "Last Name": "Poterucha",
+                "Affiliation": "Seymour, Paul and Gloria Milstein Division of Cardiology, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Randazzo",
+                "Affiliation": "Division of Cardiology, University of Chicago Medical Center, Chicago, Illinois, USA."
+            },
+            {
+                "First Name": "Francisco",
+                "Last Name": "Lopez Jimenez",
+                "Affiliation": "Department of Cardiology, Mayo Clinic College of Medicine, Rochester, Minnesota, USA."
+            },
+            {
+                "First Name": "Rohan",
+                "Last Name": "Khera",
+                "Affiliation": "Division of Cardiology, Yale School of Medicine, New Haven, Connecticut, USA."
+            },
+            {
+                "First Name": "Marco",
+                "Last Name": "Perez",
+                "Affiliation": "Division of Cardiology, Stanford University School of Medicine, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Ouyang",
+                "Affiliation": "Division of Cardiology, Cedars-Sinai Medical Center, Los Angeles, California, USA."
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Pirruccello",
+                "Affiliation": "Division of Cardiology, University of California-San Francisco, San Francisco, California, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Salerno",
+                "Affiliation": "Division of Cardiology, Stanford University School of Medicine, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Einstein",
+                "Affiliation": "Seymour, Paul and Gloria Milstein Division of Cardiology, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Avram",
+                "Affiliation": "Division of Cardiology, Montreal Heart Institute, Montreal, Quebec, Canada."
+            },
+            {
+                "First Name": "Geoffrey H",
+                "Last Name": "Tison",
+                "Affiliation": "Division of Cardiology, University of California-San Francisco, San Francisco, California, USA."
+            },
+            {
+                "First Name": "Girish",
+                "Last Name": "Nadkarni",
+                "Affiliation": "Icahn School of Medicine at Mount Sinai, New York, New York, USA."
+            },
+            {
+                "First Name": "Vivek",
+                "Last Name": "Natarajan",
+                "Affiliation": "Google Health, Mountain View, California, USA."
+            },
+            {
+                "First Name": "Emma",
+                "Last Name": "Pierson",
+                "Affiliation": "Department of Computer Science, Cornell Tech, New York, New York, USA."
+            },
+            {
+                "First Name": "Ashley",
+                "Last Name": "Beecy",
+                "Affiliation": "NewYork-Presbyterian Health System, New York, New York, USA; Division of Cardiology, Weill Cornell Medical College, New York, New York, USA."
+            },
+            {
+                "First Name": "Deepa",
+                "Last Name": "Kumaraiah",
+                "Affiliation": "Seymour, Paul and Gloria Milstein Division of Cardiology, Columbia University Irving Medical Center, New York, New York, USA; NewYork-Presbyterian Health System, New York, New York, USA."
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Haggerty",
+                "Affiliation": "Department of Biomedical Informatics Columbia University Irving Medical Center, New York, New York, USA; NewYork-Presbyterian Health System, New York, New York, USA."
+            },
+            {
+                "First Name": "Jennifer N",
+                "Last Name": "Avari Silva",
+                "Affiliation": "Division of Cardiology, Washington University School of Medicine, St Louis, Missouri, USA."
+            },
+            {
+                "First Name": "Thomas M",
+                "Last Name": "Maddox",
+                "Affiliation": "Division of Cardiology, Washington University School of Medicine, St Louis, Missouri, USA. Electronic address: thomas.maddox@bjc.org."
+            }
+        ],
+        "Journal": "Journal of the American College of Cardiology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38593945",
+        "Title": "Artificial Intelligence in Cardiovascular Care-Part 2: Applications: JACC Review Topic of the Week.",
+        "Abstract": "Recent artificial intelligence (AI) advancements in cardiovascular care offer potential enhancements in effective diagnosis, treatment, and outcomes. More than 600 U.S. Food and Drug Administration-approved clinical AI algorithms now exist, with 10% focusing on cardiovascular applications, highlighting the growing opportunities for AI to augment care. This review discusses the latest advancements in the field of AI, with a particular focus on the utilization of multimodal inputs and the field of generative AI. Further discussions in this review involve an approach to understanding the larger context in which AI-augmented care may exist, and include a discussion of the need for rigorous evaluation, appropriate infrastructure for deployment, ethics and equity assessments, regulatory oversight, and viable business cases for deployment. Embracing this rapidly evolving technology while setting an appropriately high evaluation benchmark with careful and patient-centered implementation will be crucial for cardiology to leverage AI to enhance patient care and the provider experience.",
+        "Keywords": [
+            "artificial intelligence",
+            "cardiac imaging",
+            "clinical trials",
+            "deep learning",
+            "digital health",
+            "generative AI",
+            "health equity",
+            "implementation science",
+            "innovation",
+            "large language models",
+            "machine learning"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Artificial Intelligence",
+            "Cardiovascular Diseases",
+            "Cardiology"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sneha S",
+                "Last Name": "Jain",
+                "Affiliation": "Division of Cardiology, Stanford University School of Medicine, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Seymour, Paul and Gloria Milstein Division of Cardiology, Columbia University Irving Medical Center, New York, New York, USA; Department of Biomedical Informatics Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Timothy",
+                "Last Name": "Poterucha",
+                "Affiliation": "Seymour, Paul and Gloria Milstein Division of Cardiology, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Randazzo",
+                "Affiliation": "Division of Cardiology, University of Chicago Medical Center, Chicago, Illinois, USA."
+            },
+            {
+                "First Name": "Francisco",
+                "Last Name": "Lopez Jimenez",
+                "Affiliation": "Department of Cardiology, Mayo Clinic College of Medicine, Rochester, Minnesota, USA."
+            },
+            {
+                "First Name": "Rohan",
+                "Last Name": "Khera",
+                "Affiliation": "Division of Cardiology, Yale School of Medicine, New Haven, Connecticut, USA."
+            },
+            {
+                "First Name": "Marco",
+                "Last Name": "Perez",
+                "Affiliation": "Division of Cardiology, Stanford University School of Medicine, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Ouyang",
+                "Affiliation": "Division of Cardiology, Cedars-Sinai Medical Center, Los Angeles, California, USA."
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Pirruccello",
+                "Affiliation": "Division of Cardiology, University of California San Francisco, San Francisco, California, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Salerno",
+                "Affiliation": "Division of Cardiology, Stanford University School of Medicine, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Einstein",
+                "Affiliation": "Seymour, Paul and Gloria Milstein Division of Cardiology, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Avram",
+                "Affiliation": "Division of Cardiology, Montreal Heart Institute, Montreal, Quebec, Canada."
+            },
+            {
+                "First Name": "Geoffrey H",
+                "Last Name": "Tison",
+                "Affiliation": "Division of Cardiology, University of California San Francisco, San Francisco, California, USA."
+            },
+            {
+                "First Name": "Girish",
+                "Last Name": "Nadkarni",
+                "Affiliation": "Icahn School of Medicine at Mount Sinai, New York, New York, USA."
+            },
+            {
+                "First Name": "Vivek",
+                "Last Name": "Natarajan",
+                "Affiliation": "Google Health, Mountain View, California, USA."
+            },
+            {
+                "First Name": "Emma",
+                "Last Name": "Pierson",
+                "Affiliation": "Department of Computer Science, Cornell Tech, New York, New York, USA."
+            },
+            {
+                "First Name": "Ashley",
+                "Last Name": "Beecy",
+                "Affiliation": "NewYork-Presbyterian Health System, New York, New York, USA; Division of Cardiology, Weill Cornell Medical College, New York, New York, USA."
+            },
+            {
+                "First Name": "Deepa",
+                "Last Name": "Kumaraiah",
+                "Affiliation": "Seymour, Paul and Gloria Milstein Division of Cardiology, Columbia University Irving Medical Center, New York, New York, USA; NewYork-Presbyterian Health System, New York, New York, USA."
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Haggerty",
+                "Affiliation": "Department of Biomedical Informatics Columbia University Irving Medical Center, New York, New York, USA; NewYork-Presbyterian Health System, New York, New York, USA."
+            },
+            {
+                "First Name": "Jennifer N",
+                "Last Name": "Avari Silva",
+                "Affiliation": "Division of Cardiology, Washington University School of Medicine, St Louis, Missouri, USA."
+            },
+            {
+                "First Name": "Thomas M",
+                "Last Name": "Maddox",
+                "Affiliation": "Division of Cardiology, Washington University School of Medicine, St Louis, Missouri, USA. Electronic address: thomas.maddox@bjc.org."
+            }
+        ],
+        "Journal": "Journal of the American College of Cardiology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38503537",
+        "Title": "Deep learning to detect left ventricular structural abnormalities in chest X-rays.",
+        "Abstract": "Early identification of cardiac structural abnormalities indicative of heart failure is crucial to improving patient outcomes. Chest X-rays (CXRs) are routinely conducted on a broad population of patients, presenting an opportunity to build scalable screening tools for structural abnormalities indicative of Stage B or worse heart failure with deep learning methods. In this study, a model was developed to identify severe left ventricular hypertrophy (SLVH) and dilated left ventricle (DLV) using CXRs.",
+        "Keywords": [
+            "Chest X-rays",
+            "Deep learning",
+            "Dilated left ventricle",
+            "Early detection",
+            "Heart failure",
+            "Left ventricular hypertrophy"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Deep Learning",
+            "Hypertrophy, Left Ventricular",
+            "Radiography, Thoracic",
+            "Female",
+            "Male",
+            "Middle Aged",
+            "Echocardiography",
+            "Aged",
+            "Heart Failure",
+            "Heart Ventricles",
+            "ROC Curve"
+        ],
+        "Authors": [
+            {
+                "First Name": "Shreyas",
+                "Last Name": "Bhave",
+                "Affiliation": "Division of Cardiology and Department of Biomedical Informatics, Columbia University Irving Medical Center, 622 West 168th Street, PH20, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Victor",
+                "Last Name": "Rodriguez",
+                "Affiliation": "Division of Cardiology and Department of Biomedical Informatics, Columbia University Irving Medical Center, 622 West 168th Street, PH20, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Timothy",
+                "Last Name": "Poterucha",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Simukayi",
+                "Last Name": "Mutasa",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Dwight",
+                "Last Name": "Aberle",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Kathleen M",
+                "Last Name": "Capaccione",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Yibo",
+                "Last Name": "Chen",
+                "Affiliation": "Inova Fairfax Hospital Imaging Center, Inova Fairfax Medical Campus, Falls Church, VA, USA."
+            },
+            {
+                "First Name": "Belinda",
+                "Last Name": "Dsouza",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Shifali",
+                "Last Name": "Dumeer",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Jonathan",
+                "Last Name": "Goldstein",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Aaron",
+                "Last Name": "Hodes",
+                "Affiliation": "Hackensack Radiology Group, Hackensack Meridian School of Medicine, Nutley, NJ, USA."
+            },
+            {
+                "First Name": "Jay",
+                "Last Name": "Leb",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Lungren",
+                "Affiliation": "Department of Radiology, University of California, SanFrancisco, CA, USA."
+            },
+            {
+                "First Name": "Mitchell",
+                "Last Name": "Miller",
+                "Affiliation": "Hackensack Radiology Group, Hackensack Meridian School of Medicine, Nutley, NJ, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Monoky",
+                "Affiliation": "Hackensack Radiology Group, Hackensack Meridian School of Medicine, Nutley, NJ, USA."
+            },
+            {
+                "First Name": "Benjamin",
+                "Last Name": "Navot",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Kapil",
+                "Last Name": "Wattamwar",
+                "Affiliation": "Division of Vascular and Interventional Radiology, Department of Radiology, Montefiore Medical Center, Bronx, NY, USA."
+            },
+            {
+                "First Name": "Anoop",
+                "Last Name": "Wattamwar",
+                "Affiliation": "Hackensack Radiology Group, Hackensack Meridian School of Medicine, Nutley, NJ, USA."
+            },
+            {
+                "First Name": "Kevin",
+                "Last Name": "Clerkin",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Ouyang",
+                "Affiliation": "Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Euan",
+                "Last Name": "Ashley",
+                "Affiliation": "Stanford Center for Inherited Cardiovascular Disease, Stanford University School of Medicine, Palo Alto, CA, USA."
+            },
+            {
+                "First Name": "Veli K",
+                "Last Name": "Topkara",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Mathew",
+                "Last Name": "Maurer",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Einstein",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Nir",
+                "Last Name": "Uriel",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Shunichi",
+                "Last Name": "Homma",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Allan",
+                "Last Name": "Schwartz",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 630 West 168th Street, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Diego",
+                "Last Name": "Jaramillo",
+                "Affiliation": "Department of Radiology, Columbia University Irving Medical Center, NewYork, NY, USA."
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": "Division of Cardiology and Department of Biomedical Informatics, Columbia University Irving Medical Center, 622 West 168th Street, PH20, NewYork, NY 10032, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Division of Cardiology and Department of Biomedical Informatics, Columbia University Irving Medical Center, 622 West 168th Street, PH20, NewYork, NY 10032, USA."
+            }
+        ],
+        "Journal": "European heart journal",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38445511",
+        "Title": "Impact of cardiac size on diagnostic performance of single-photon emission computed tomography myocardial perfusion imaging: insights from the REgistry of Fast Myocardial Perfusion Imaging with NExt generation single-photon emission computed tomography.",
+        "Abstract": "Variation in diagnostic performance of single-photon emission computed tomography (SPECT) myocardial perfusion imaging (MPI) has been observed, yet the impact of cardiac size has not been well characterized. We assessed whether low left ventricular volume influences SPECT MPI's ability to detect obstructive coronary artery disease (CAD) and its interaction with age and sex.",
+        "Keywords": [
+            "SPECT MPI",
+            "diagnostic performance",
+            "left ventricular size"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Male",
+            "Female",
+            "Middle Aged",
+            "Myocardial Perfusion Imaging",
+            "Aged",
+            "Registries",
+            "Tomography, Emission-Computed, Single-Photon",
+            "Coronary Artery Disease",
+            "Organ Size",
+            "Sex Factors",
+            "Coronary Angiography",
+            "ROC Curve",
+            "Age Factors",
+            "Sensitivity and Specificity"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael J",
+                "Last Name": "Randazzo",
+                "Affiliation": "Section of Cardiology, Department of Medicine, University of Chicago Medical Center, Chicago, IL, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Seymour, Paul and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 622 West 168th Street, PH 10-203, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Poterucha",
+                "Affiliation": "Seymour, Paul and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 622 West 168th Street, PH 10-203, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Tali",
+                "Last Name": "Sharir",
+                "Affiliation": "Department of Nuclear Cardiology, Assuta Medical Centers, Tel Aviv, Israel."
+            },
+            {
+                "First Name": "Matthews B",
+                "Last Name": "Fish",
+                "Affiliation": "Sacred Heart Medical Center, Oregon Heart and Vascular Institute, Springfield, OR, USA."
+            },
+            {
+                "First Name": "Terrence D",
+                "Last Name": "Ruddy",
+                "Affiliation": "Division of Cardiology, University of Ottawa Heart Institute, Ottawa, ON, Canada."
+            },
+            {
+                "First Name": "Philipp A",
+                "Last Name": "Kaufmann",
+                "Affiliation": "Department of Nuclear Medicine, Cardiac Imaging, University Hospital Zurich, Zurich, Switzerland."
+            },
+            {
+                "First Name": "Albert J",
+                "Last Name": "Sinusas",
+                "Affiliation": "Section of Cardiovascular Medicine, Department of Internal Medicine, Yale University School of Medicine, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Edward J",
+                "Last Name": "Miller",
+                "Affiliation": "Section of Cardiovascular Medicine, Department of Internal Medicine, Yale University School of Medicine, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Timothy",
+                "Last Name": "Bateman",
+                "Affiliation": "Cardiovascular Imaging Technologies LLC, Kansas City, MO, USA."
+            },
+            {
+                "First Name": "Sharmila",
+                "Last Name": "Dorbala",
+                "Affiliation": "Division of Nuclear Medicine and Molecular Imaging, Department of Radiology, Brigham and Women's Hospital, Boston, MA, USA."
+            },
+            {
+                "First Name": "Marcelo",
+                "Last Name": "Di Carli",
+                "Affiliation": "Division of Nuclear Medicine and Molecular Imaging, Department of Radiology, Brigham and Women's Hospital, Boston, MA, USA."
+            },
+            {
+                "First Name": "Michelle",
+                "Last Name": "Castillo",
+                "Affiliation": "Seymour, Paul and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 622 West 168th Street, PH 10-203, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Joanna X",
+                "Last Name": "Liang",
+                "Affiliation": "Department of Imaging, Medicine, and Biomedical Sciences, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Robert J H",
+                "Last Name": "Miller",
+                "Affiliation": "Department of Imaging, Medicine, and Biomedical Sciences, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Damini",
+                "Last Name": "Dey",
+                "Affiliation": "Department of Imaging, Medicine, and Biomedical Sciences, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Daniel S",
+                "Last Name": "Berman",
+                "Affiliation": "Department of Imaging, Medicine, and Biomedical Sciences, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Piotr J",
+                "Last Name": "Slomka",
+                "Affiliation": "Department of Imaging, Medicine, and Biomedical Sciences, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Einstein",
+                "Affiliation": "Seymour, Paul and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, NewYork-Presbyterian Hospital, 622 West 168th Street, PH 10-203, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "European heart journal. Cardiovascular Imaging",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37354991",
+        "Title": "Left Ventricular Function and Dimensions Are Altered Early in Infants Developing Brain Injury in the Setting of Neonatal Encephalopathy.",
+        "Abstract": "We evaluated the association between left cardiac 3-dimensional echocardiographic parameters and brain injury in a single-center prospective study of neonates with neonatal encephalopathy. On day 2 of life, neonates with brain injury had greater left ventricle end-diastolic and stroke volume but also greater peak global circumferential strain detected by 3-dimensional echocardiogram.",
+        "Keywords": [
+            "3D echocardiography",
+            "left ventricular function and dimensions",
+            "neonatal encephalopathy",
+            "speckle tracking echocardiography",
+            "therapeutic hypothermia"
+        ],
+        "MeSH terms": [
+            "Infant, Newborn",
+            "Humans",
+            "Infant",
+            "Ventricular Function, Left",
+            "Prospective Studies",
+            "Echocardiography",
+            "Echocardiography, Three-Dimensional",
+            "Stroke Volume",
+            "Heart Ventricles",
+            "Brain Injuries",
+            "Ventricular Dysfunction, Left"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Division of Neonatology, Montreal Children's Hospital, Montreal, QC, Canada; McGill University Health Centre - Research Institute, Montreal, QC, Canada."
+            },
+            {
+                "First Name": "Anie",
+                "Last Name": "Lapointe",
+                "Affiliation": "Division of Neonatology, CHU Sainte-Justine, Montreal, QC, Canada."
+            },
+            {
+                "First Name": "Pia",
+                "Last Name": "Wintermark",
+                "Affiliation": "Division of Neonatology, Montreal Children's Hospital, Montreal, QC, Canada; McGill University Health Centre - Research Institute, Montreal, QC, Canada."
+            },
+            {
+                "First Name": "Shiran Sara",
+                "Last Name": "Moore",
+                "Affiliation": "Division of Neonatology, Montreal Children's Hospital, Montreal, QC, Canada; McGill University Health Centre - Research Institute, Montreal, QC, Canada; Dana Dwek Children's Hospital, Tel Aviv Sourasky Medical Center, Tel Aviv, Israel."
+            },
+            {
+                "First Name": "Daniela",
+                "Last Name": "Villegas Martinez",
+                "Affiliation": "Division of Neonatology, Montreal Children's Hospital, Montreal, QC, Canada; McGill University Health Centre - Research Institute, Montreal, QC, Canada."
+            },
+            {
+                "First Name": "Jessica",
+                "Last Name": "Simoneau",
+                "Affiliation": "Division of Neonatology, Montreal Children's Hospital, Montreal, QC, Canada; McGill University Health Centre - Research Institute, Montreal, QC, Canada."
+            },
+            {
+                "First Name": "Gabriel",
+                "Last Name": "Altit",
+                "Affiliation": "Division of Neonatology, Montreal Children's Hospital, Montreal, QC, Canada; McGill University Health Centre - Research Institute, Montreal, QC, Canada. Electronic address: gabriel.altit@mcgill.ca."
+            }
+        ],
+        "Journal": "The Journal of pediatrics",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35926935",
+        "Title": "Deep Learning Electrocardiographic Analysis for Detection of Left-Sided Valvular Heart Disease.",
+        "Abstract": "Valvular heart disease is an important contributor to cardiovascular morbidity and mortality and remains underdiagnosed. Deep learning analysis of electrocardiography (ECG) may be useful in detecting aortic stenosis (AS), aortic regurgitation (AR), and mitral regurgitation (MR).",
+        "Keywords": [
+            "aortic regurgitation",
+            "aortic stenosis",
+            "artificial intelligence",
+            "deep learning",
+            "mitral regurgitation",
+            "valvular heart disease"
+        ],
+        "MeSH terms": [
+            "Aortic Valve Insufficiency",
+            "Aortic Valve Stenosis",
+            "Deep Learning",
+            "Electrocardiography",
+            "Heart Valve Diseases",
+            "Humans",
+            "Mitral Valve Insufficiency"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Poterucha",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Vijay",
+                "Last Name": "Rajaram",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Luca Matos",
+                "Last Name": "Moller",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Victor",
+                "Last Name": "Rodriguez",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Shreyas",
+                "Last Name": "Bhave",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA."
+            },
+            {
+                "First Name": "Rebecca T",
+                "Last Name": "Hahn",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Geoffrey",
+                "Last Name": "Tison",
+                "Affiliation": "Division of Cardiology, University of California-San Francisco, San Francisco, California, USA."
+            },
+            {
+                "First Name": "Sean A",
+                "Last Name": "Abreau",
+                "Affiliation": "Division of Cardiology, University of California-San Francisco, San Francisco, California, USA."
+            },
+            {
+                "First Name": "Joshua",
+                "Last Name": "Barrios",
+                "Affiliation": "Division of Cardiology, University of California-San Francisco, San Francisco, California, USA."
+            },
+            {
+                "First Name": "Jessica Nicole",
+                "Last Name": "Torres",
+                "Affiliation": "Division of Cardiology, Stanford University, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "J Weston",
+                "Last Name": "Hughes",
+                "Affiliation": "Division of Cardiology, Stanford University, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "Marco V",
+                "Last Name": "Perez",
+                "Affiliation": "Division of Cardiology, Stanford University, Palo Alto, California, USA."
+            },
+            {
+                "First Name": "Joshua",
+                "Last Name": "Finer",
+                "Affiliation": "NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Susheel",
+                "Last Name": "Kodali",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Omar",
+                "Last Name": "Khalique",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Nadira",
+                "Last Name": "Hamid",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Allan",
+                "Last Name": "Schwartz",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Shunichi",
+                "Last Name": "Homma",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Deepa",
+                "Last Name": "Kumaraiah",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "David J",
+                "Last Name": "Cohen",
+                "Affiliation": "Cardiovascular Research Foundation, New York, New York, USA; Department of Cardiology, St. Francis Hospital, Roslyn, New York, USA."
+            },
+            {
+                "First Name": "Mathew S",
+                "Last Name": "Maurer",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Einstein",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Tamim",
+                "Last Name": "Nazif",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA."
+            },
+            {
+                "First Name": "Martin B",
+                "Last Name": "Leon",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center and NewYork-Presbyterian Hospital, New York, New York, USA; Cardiovascular Research Foundation, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler J",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, USA. Electronic address: adler.perotte@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of the American College of Cardiology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34949101",
+        "Title": "Machine Learning-Based Prediction of Myocardial Recovery in Patients With Left Ventricular Assist Device Support.",
+        "Abstract": "Prospective studies demonstrate that aggressive pharmacological therapy combined with pump speed optimization may result in myocardial recovery in larger numbers of patients supported with left ventricular assist device (LVAD). This study sought to determine whether the use of machine learning (ML) based models predict LVAD patients with myocardial recovery resulting in pump explant.",
+        "Keywords": [
+            "heart failure",
+            "incidence",
+            "machine learning",
+            "prospective studies",
+            "risk factors"
+        ],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Cohort Studies",
+            "Heart Failure",
+            "Heart Ventricles",
+            "Heart-Assist Devices",
+            "Humans",
+            "Incidence",
+            "Machine Learning",
+            "Middle Aged",
+            "Myocardium",
+            "Prospective Studies",
+            "Registries",
+            "Young Adult"
+        ],
+        "Authors": [
+            {
+                "First Name": "Veli K",
+                "Last Name": "Topkara",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Rashmi",
+                "Last Name": "Jain",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Gabriel",
+                "Last Name": "Sayer",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Burkhoff",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Nir",
+                "Last Name": "Uriel",
+                "Affiliation": "Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            }
+        ],
+        "Journal": "Circulation. Heart failure",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34023264",
+        "Title": "False Positive 99mTc-Pyrophosphate Scanning Leading to Inappropriate Tafamidis Prescriptions.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Amyloid Neuropathies, Familial",
+            "Benzoxazoles",
+            "Humans",
+            "Predictive Value of Tests",
+            "Prescriptions",
+            "Technetium Tc 99m Pyrophosphate"
+        ],
+        "Authors": [
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Poterucha",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Frederick L",
+                "Last Name": "Ruberg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Albert",
+                "Last Name": "DeLuca",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mona",
+                "Last Name": "Kinkhabwala",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lynne L",
+                "Last Name": "Johnson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jan M",
+                "Last Name": "Griffin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Shivda",
+                "Last Name": "Pandey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Einstein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mathew S",
+                "Last Name": "Maurer",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "JACC. Cardiovascular imaging",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33554609",
+        "Title": "Metformin Is Associated With a Lower Risk of Atrial Fibrillation and Ventricular Arrhythmias Compared With Sulfonylureas: An Observational Study.",
+        "Abstract": "[Figure: see text].",
+        "Keywords": [
+            "atrial fibrillation",
+            "metformin",
+            "propensity score",
+            "thiazolidinediones",
+            "ventricular fibrillation"
+        ],
+        "MeSH terms": [
+            "Administration, Oral",
+            "Atrial Fibrillation",
+            "Databases, Factual",
+            "Diabetes Mellitus, Type 2",
+            "Drug Therapy, Combination",
+            "Humans",
+            "Hypoglycemic Agents",
+            "Metformin",
+            "Retrospective Studies",
+            "Risk Assessment",
+            "Risk Factors",
+            "Sulfonylurea Compounds",
+            "Tachycardia, Ventricular",
+            "Time Factors",
+            "Treatment Outcome",
+            "Ventricular Fibrillation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Anna",
+                "Last Name": "Ostropolets",
+                "Affiliation": "Department of Biomedical Informatics (A.O., G.H.), College of Physicians and Surgeons of Columbia University, NY."
+            },
+            {
+                "First Name": "Pierre A",
+                "Last Name": "Elias",
+                "Affiliation": "Department of Medicine (P.A.E., M.V.R., E.Y.W., U.B.P., G.H., J.P.M.), College of Physicians and Surgeons of Columbia University, NY."
+            },
+            {
+                "First Name": "Michael V",
+                "Last Name": "Reyes",
+                "Affiliation": "Department of Medicine (P.A.E., M.V.R., E.Y.W., U.B.P., G.H., J.P.M.), College of Physicians and Surgeons of Columbia University, NY."
+            },
+            {
+                "First Name": "Elain Y",
+                "Last Name": "Wan",
+                "Affiliation": "Department of Medicine (P.A.E., M.V.R., E.Y.W., U.B.P., G.H., J.P.M.), College of Physicians and Surgeons of Columbia University, NY."
+            },
+            {
+                "First Name": "Utpal B",
+                "Last Name": "Pajvani",
+                "Affiliation": "Department of Medicine (P.A.E., M.V.R., E.Y.W., U.B.P., G.H., J.P.M.), College of Physicians and Surgeons of Columbia University, NY."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics (A.O., G.H.), College of Physicians and Surgeons of Columbia University, NY."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Morrow",
+                "Affiliation": "Department of Medicine (P.A.E., M.V.R., E.Y.W., U.B.P., G.H., J.P.M.), College of Physicians and Surgeons of Columbia University, NY."
+            }
+        ],
+        "Journal": "Circulation. Arrhythmia and electrophysiology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33221204",
+        "Title": "Diagnosing Transthyretin Cardiac Amyloidosis by Technetium Tc 99m Pyrophosphate: A Test in Evolution.",
+        "Abstract": "This study aimed to characterize trends in technetium Tc 99m pyrophosphate (",
+        "Keywords": [
+            "cardiac amyloidosis",
+            "cardiac scintigraphy",
+            "heart failure with preserved ejection fraction",
+            "transthyretin amyloidosis"
+        ],
+        "MeSH terms": [
+            "Aged",
+            "Amyloidosis",
+            "Female",
+            "Humans",
+            "Male",
+            "Prealbumin",
+            "Predictive Value of Tests",
+            "Technetium Tc 99m Pyrophosphate"
+        ],
+        "Authors": [
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Poterucha",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Sabahat",
+                "Last Name": "Bokhari",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Einstein",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA; Department of Radiology, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Albert",
+                "Last Name": "DeLuca",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Mona",
+                "Last Name": "Kinkhabwala",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Lynne L",
+                "Last Name": "Johnson",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Kathleen R",
+                "Last Name": "Flaherty",
+                "Affiliation": "Department of Psychiatry and Behavioral Sciences, Memorial Sloan Kettering Cancer Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Sunil E",
+                "Last Name": "Saith",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Jan M",
+                "Last Name": "Griffin",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Mathew S",
+                "Last Name": "Maurer",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, New York, USA. Electronic address: msm10@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "JACC. Cardiovascular imaging",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33169643",
+        "Title": "Admission Cardiac Diagnostic Testing with Electrocardiography and Troponin Measurement Prognosticates Increased 30-Day Mortality in COVID-19.",
+        "Abstract": "Background Cardiovascular involvement in coronavirus disease 2019 (COVID-19) is common and leads to worsened mortality. Diagnostic cardiovascular studies may be helpful for resource appropriation and identifying patients at increased risk for death. Methods and Results We analyzed 887 patients (aged 64±17 years) admitted with COVID-19 from March 1 to April 3, 2020 in New York City with 12 lead electrocardiography within 2 days of diagnosis. Demographics, comorbidities, and laboratory testing, including high sensitivity cardiac troponin T (hs-cTnT), were abstracted. At 30 days follow-up, 556 patients (63%) were living without requiring mechanical ventilation, 123 (14%) were living and required mechanical ventilation, and 203 (23%) had expired. Electrocardiography findings included atrial fibrillation or atrial flutter (AF/AFL) in 46 (5%) and ST-T wave changes in 306 (38%). 27 (59%) patients with AF/AFL expired as compared to 181 (21%) of 841 with other non-life-threatening rhythms (",
+        "Keywords": [
+            "COVID‐19",
+            "arrhythmia",
+            "atrial fibrillation",
+            "troponin"
+        ],
+        "MeSH terms": [
+            "Atrial Fibrillation",
+            "Biomarkers",
+            "COVID-19",
+            "Comorbidity",
+            "Electrocardiography",
+            "Female",
+            "Follow-Up Studies",
+            "Heart Rate",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "New York City",
+            "Prognosis",
+            "Retrospective Studies",
+            "Risk Assessment",
+            "Risk Factors",
+            "SARS-CoV-2",
+            "Troponin T"
+        ],
+        "Authors": [
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Poterucha",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Sneha S",
+                "Last Name": "Jain",
+                "Affiliation": "Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Gabriel",
+                "Last Name": "Sayer",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Bjorn",
+                "Last Name": "Redfors",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Burkhoff",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Hannah",
+                "Last Name": "Rosenblum",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Ersilia M",
+                "Last Name": "DeFilippis",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Aakriti",
+                "Last Name": "Gupta",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Lawlor",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Mahesh V",
+                "Last Name": "Madhavan",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Jan",
+                "Last Name": "Griffin",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Jayant",
+                "Last Name": "Raikhelkar",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Fried",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Kevin J",
+                "Last Name": "Clerkin",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Kim",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Mathew S",
+                "Last Name": "Maurer",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Deepak",
+                "Last Name": "Saluja",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "José",
+                "Last Name": "Dizon",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Frederick A",
+                "Last Name": "Ehlert",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Morrow",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Hirad",
+                "Last Name": "Yarmohammadi",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Angelo B",
+                "Last Name": "Biviano",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Hasan",
+                "Last Name": "Garan",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "LeRoy",
+                "Last Name": "Rabbani",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Martin B",
+                "Last Name": "Leon",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Allan",
+                "Last Name": "Schwartz",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Nir",
+                "Last Name": "Uriel",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            },
+            {
+                "First Name": "Elaine Y",
+                "Last Name": "Wan",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology Department of Medicine Columbia University Irving Medical Center New York NY."
+            }
+        ],
+        "Journal": "Journal of the American Heart Association",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33118142",
+        "Title": "The importance of SPECT cardiac reconstruction for accurate ",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Amyloidosis",
+            "Cardiomyopathies",
+            "Diphosphates",
+            "Humans",
+            "Prealbumin",
+            "Technetium Tc 99m Pyrophosphate",
+            "Tomography, Emission-Computed, Single-Photon"
+        ],
+        "Authors": [
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Poterucha",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, 177 Fort Washington Ave, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, 177 Fort Washington Ave, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Frederick L",
+                "Last Name": "Ruberg",
+                "Affiliation": "Section of Cardiovascular Medicine, Department of Medicine, Boston University School of Medicine, Boston Medical Center, Boston, MA, USA."
+            },
+            {
+                "First Name": "Albert",
+                "Last Name": "DeLuca",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, 177 Fort Washington Ave, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Mona",
+                "Last Name": "Kinkhabwala",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, 177 Fort Washington Ave, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Lynne L",
+                "Last Name": "Johnson",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, 177 Fort Washington Ave, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Mathew S",
+                "Last Name": "Maurer",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, 177 Fort Washington Ave, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Andrew J",
+                "Last Name": "Einstein",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, 177 Fort Washington Ave, New York, NY, 10032, USA. ae2214@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Journal of nuclear cardiology : official publication of the American Society of Nuclear Cardiology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "33012341",
+        "Title": "The Prognostic Value of Electrocardiogram at Presentation to Emergency Department in Patients With COVID-19.",
+        "Abstract": "To study whether combining vital signs and electrocardiogram (ECG) analysis can improve early prognostication.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Arrhythmias, Cardiac",
+            "Betacoronavirus",
+            "COVID-19",
+            "Coronavirus Infections",
+            "Electrocardiography",
+            "Emergency Service, Hospital",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Pandemics",
+            "Pneumonia, Viral",
+            "Prognosis",
+            "SARS-CoV-2",
+            "Time-to-Treatment"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Timothy J",
+                "Last Name": "Poterucha",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Sneha S",
+                "Last Name": "Jain",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Gabriel",
+                "Last Name": "Sayer",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Jayant",
+                "Last Name": "Raikhelkar",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Justin",
+                "Last Name": "Fried",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Kevin",
+                "Last Name": "Clerkin",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Jan",
+                "Last Name": "Griffin",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Ersilia M",
+                "Last Name": "DeFilippis",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Aakriti",
+                "Last Name": "Gupta",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY; Cardiovascular Research Foundation, New York, NY."
+            },
+            {
+                "First Name": "Matthew",
+                "Last Name": "Lawlor",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Mahesh",
+                "Last Name": "Madhavan",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Hannah",
+                "Last Name": "Rosenblum",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Zachary B",
+                "Last Name": "Roth",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Karthik",
+                "Last Name": "Natarajan",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "George",
+                "Last Name": "Hripcsak",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Adler",
+                "Last Name": "Perotte",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Elaine Y",
+                "Last Name": "Wan",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Amardeep",
+                "Last Name": "Saluja",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Jose",
+                "Last Name": "Dizon",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Frederick",
+                "Last Name": "Ehlert",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "John P",
+                "Last Name": "Morrow",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Hirad",
+                "Last Name": "Yarmohammadi",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Deepa",
+                "Last Name": "Kumaraiah",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Bjorn",
+                "Last Name": "Redfors",
+                "Affiliation": "Cardiovascular Research Foundation, New York, NY."
+            },
+            {
+                "First Name": "Nicholas",
+                "Last Name": "Gavin",
+                "Affiliation": "Department of Emergency Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Ajay",
+                "Last Name": "Kirtane",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Cardiovascular Research Foundation, New York, NY."
+            },
+            {
+                "First Name": "Leroy",
+                "Last Name": "Rabbani",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Dan",
+                "Last Name": "Burkhoff",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Jeffrey",
+                "Last Name": "Moses",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Allan",
+                "Last Name": "Schwartz",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Martin",
+                "Last Name": "Leon",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY; Cardiovascular Research Foundation, New York, NY."
+            },
+            {
+                "First Name": "Nir",
+                "Last Name": "Uriel",
+                "Affiliation": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, Columbia University Irving Medical Center, New York, NY; Department of Medicine, Columbia University Irving Medical Center, New York, NY; Division of Cardiology, Department of Medicine, Weill Cornell University Medical Center, New York, NY. Electronic address: nu2126@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Mayo Clinic proceedings",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31777057",
+        "Title": "Evaluating the Impact of Interruptive Alerts within a Health System: Use, Response Time, and Cumulative Time Burden.",
+        "Abstract": "Health systems often employ interruptive alerts through the electronic health record to improve patient care. However, concerns of \"alert fatigue\" have been raised, highlighting the importance of understanding the time burden and impact of these alerts on providers.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Electronic Health Records",
+            "Health Personnel",
+            "Humans",
+            "Medical Order Entry Systems",
+            "Time Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, New York, United States."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Peterson",
+                "Affiliation": "Duke Clinical Research Institute, Duke University, Durham, North Carolina, United States."
+            },
+            {
+                "First Name": "Bob",
+                "Last Name": "Wachter",
+                "Affiliation": "Department of Medicine, University of California, San Francisco, California, United States."
+            },
+            {
+                "First Name": "Cary",
+                "Last Name": "Ward",
+                "Affiliation": "Duke Clinical Research Institute, Duke University, Durham, North Carolina, United States."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Poon",
+                "Affiliation": "Duke Health Technology Solutions, Duke University School of Medicine, Duke University, Durham, North Carolina, United States."
+            },
+            {
+                "First Name": "Ann Marie",
+                "Last Name": "Navar",
+                "Affiliation": "Duke Clinical Research Institute, Duke University, Durham, North Carolina, United States."
+            }
+        ],
+        "Journal": "Applied clinical informatics",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "28411291",
+        "Title": "Automating Venous Thromboembolism Risk Calculation Using Electronic Health Record Data upon Hospital Admission: The Automated Padua Prediction Score.",
+        "Abstract": "Venous thromboembolism (VTE) risk scores assist providers in determining the relative benefit of prophylaxis for individual patients. While automated risk calculation using simpler electronic health record (EHR) data is feasible, it lacks clinical nuance and may be less predictive. Automated calculation of the Padua Prediction Score (PPS), requiring more complex input such as recent medical events and clinical status, may save providers time and increase risk score use.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Anticoagulants",
+            "Cohort Studies",
+            "Electronic Health Records",
+            "Hospitalization",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Patient Admission",
+            "Risk Assessment",
+            "Venous Thromboembolism"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, New York, USA."
+            },
+            {
+                "First Name": "Raman",
+                "Last Name": "Khanna",
+                "Affiliation": "Division of Hospital Medicine, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Adams",
+                "Last Name": "Dudley",
+                "Affiliation": "Philip R. Lee Institute for Health Policy Studies, University of California, San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Jason",
+                "Last Name": "Davies",
+                "Affiliation": "Department of Neurological Surgery, University of California, San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Ronald",
+                "Last Name": "Jacolbia",
+                "Affiliation": "Division of Hospital Medicine, University of California San Francisco, San Francisco, CA, USA."
+            },
+            {
+                "First Name": "Kara",
+                "Last Name": "McArthur",
+                "Affiliation": "Abramson Center for the Future of Health, University of Houston, Houston, TX, USA."
+            },
+            {
+                "First Name": "Andrew D",
+                "Last Name": "Auerbach",
+                "Affiliation": "Division of Hospital Medicine, University of California San Francisco, San Francisco, CA, USA."
+            }
+        ],
+        "Journal": "Journal of hospital medicine",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "26268527",
+        "Title": "Metadata Correction: A Web-Based Tool for Patient Triage in Emergency Department Settings: Validation Using the Emergency Severity Index.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Duke Clinical Research Institute, Duke University School of Medicine, Durham, NC, United States. pierre.elias@duke.edu."
+            },
+            {
+                "First Name": "Ash",
+                "Last Name": "Damle",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Cassale",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kim",
+                "Last Name": "Branson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nick",
+                "Last Name": "Peterson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chaitanya",
+                "Last Name": "Churi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ravi",
+                "Last Name": "Komatireddy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jamison",
+                "Last Name": "Feramisco",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "JMIR medical informatics",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26063343",
+        "Title": "A Web-Based Tool for Patient Triage in Emergency Department Settings: Validation Using the Emergency Severity Index.",
+        "Abstract": "We evaluated the concordance between triage scores generated by a novel Internet clinical decision support tool, Clinical GPS (cGPS) (Lumiata Inc, San Mateo, CA), and the Emergency Severity Index (ESI), a well-established and clinically validated patient severity scale in use today. Although the ESI and cGPS use different underlying algorithms to calculate patient severity, both utilize a five-point integer scale with level 1 representing the highest severity.",
+        "Keywords": [
+            "clinical decision support",
+            "differential diagnosis",
+            "emergency severity index",
+            "triage"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Duke Clinical Research Institute, Duke University School of Medicine, Durham, NC, United States. pierre.elias@duke.edu."
+            },
+            {
+                "First Name": "Ash",
+                "Last Name": "Damle",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Casale",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kim",
+                "Last Name": "Branson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chaitanya",
+                "Last Name": "Churi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ravi",
+                "Last Name": "Komatireddy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jamison",
+                "Last Name": "Feramisco",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "JMIR medical informatics",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25847653",
+        "Title": "Insensible losses: when the medical community forgets the family.",
+        "Abstract": null,
+        "Keywords": [
+            "Ethical Issues",
+            "Health Professions Education",
+            "Organization and Delivery of Care",
+            "Personal Experience (- Narrative Matters-)"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Intensive Care Units",
+            "Patient Care Team",
+            "Patient Handoff",
+            "Professional-Family Relations",
+            "Stroke",
+            "Students, Medical",
+            "Truth Disclosure"
+        ],
+        "Authors": [
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Pierre Elias (pierre.elias@duke.edu) is a medical student at Duke University School of Medicine and served as a TEDMED research scholar. He is currently a visiting researcher in the Division of Hospital Medicine at the University of California, San Francisco. This article was written with the thoughts, guidance, and mentorship of physician Bob Wachter, to whom a great deal of thanks is owed. Without Wachter, the author notes, he would not have seen the path to better medicine that lies hidden beneath tragedy. Names in this essay were changed to protect patient privacy."
+            }
+        ],
+        "Journal": "Health affairs (Project Hope)",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "23588200",
+        "Title": "Investigation momentum: the relentless pursuit to resolve uncertainty.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Aged",
+            "Biomarkers, Tumor",
+            "Biopsy",
+            "Decision Making",
+            "Early Detection of Cancer",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Patient Participation",
+            "Patients",
+            "Physicians",
+            "Practice Patterns, Physicians'",
+            "Prostate-Specific Antigen",
+            "Prostatic Neoplasms",
+            "Uncertainty",
+            "Unnecessary Procedures"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sunita",
+                "Last Name": "Sah",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dan",
+                "Last Name": "Ariely",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "JAMA internal medicine",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "25075232",
+        "Title": "InSpire to Promote Lung Assessment in Youth: Evolving the Self-Management Paradigms of Young People With Asthma.",
+        "Abstract": "Asthma is the most common chronic disease in childhood, disproportionately affecting urban, minority, and disadvantaged children. Individualized care plans supported by daily lung-function monitoring can reduce morbidity and mortality. However, despite 20 years of interventions to increase adherence, only 50% of US youth accurately follow their care plans, which leads to millions of preventable hospitalizations, emergency room visits, and sick days every year. We present a feasibility study of a novel, user-centered approach to increasing young people's lung-function monitoring and asthma self-care. Promoting Lung Assessment in Youth (PLAY) helps young people become active managers of their asthma through the Web 2.0 principles of participation, cocreation, and information sharing. Specifically, PLAY combines an inexpensive, portable spirometer with the motivational power and convenience of mobile phones and virtual-community gaming.",
+        "Keywords": [
+            "chronic disease management",
+            "gamification",
+            "mobile phones",
+            "pediatric asthma",
+            "spirometry"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Pierre",
+                "Last Name": "Elias",
+                "Affiliation": "Duke University School of Medicine Durham, NC United States."
+            },
+            {
+                "First Name": "Nithin O",
+                "Last Name": "Rajan",
+                "Affiliation": "BSX Athletics Houston, TX United States."
+            },
+            {
+                "First Name": "Kara",
+                "Last Name": "McArthur",
+                "Affiliation": "The Abramson Center for the Future of Health Houston, TX United States."
+            },
+            {
+                "First Name": "Clifford C",
+                "Last Name": "Dacso",
+                "Affiliation": "The Abramson Center for the Future of Health Houston, TX United States ; Baylor College of Medicine Houston, TX United States."
+            }
+        ],
+        "Journal": "Medicine 2.0",
+        "PubDate": "2013"
+    }
+]

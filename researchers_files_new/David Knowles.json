@@ -1,0 +1,2024 @@
+[
+    {
+        "PMID": "37905013",
+        "Title": "Large-scale causal discovery using interventional data sheds light on the regulatory network architecture of blood traits.",
+        "Abstract": "Inference of directed biological networks is an important but notoriously challenging problem. We introduce ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Brielin C",
+                "Last Name": "Brown",
+                "Affiliation": "New York Genome Center, New York, NY, USA."
+            },
+            {
+                "First Name": "John A",
+                "Last Name": "Morris",
+                "Affiliation": "New York Genome Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Tuuli",
+                "Last Name": "Lappalainen",
+                "Affiliation": "New York Genome Center, New York, NY, USA."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": "New York Genome Center, New York, NY, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "37745416",
+        "Title": "Cas13d-mediated isoform-specific RNA knockdown with a unified computational and experimental toolbox.",
+        "Abstract": "Alternative splicing is an essential mechanism for diversifying proteins, in which mature RNA isoforms produce proteins with potentially distinct functions. Two major challenges in characterizing the cellular function of isoforms are the lack of experimental methods to specifically and efficiently modulate isoform expression and computational tools for complex experimental design. To address these gaps, we developed and methodically tested a strategy which pairs the RNA-targeting CRISPR/Cas13d system with guide RNAs that span exon-exon junctions in the mature RNA. We performed a high-throughput essentiality screen, quantitative RT-PCR assays, and PacBio long read sequencing to affirm our ability to specifically target and robustly knockdown individual RNA isoforms. In parallel, we provide computational tools for experimental design and screen analysis. Considering all possible splice junctions annotated in GENCODE for multi-isoform genes and our gRNA efficacy predictions, we estimate that our junction-centric strategy can uniquely target up to 89% of human RNA isoforms, including 50,066 protein-coding and 11,415 lncRNA isoforms. Importantly, this specificity spans all splicing and transcriptional events, including exon skipping and inclusion, alternative 5' and 3' splice sites, and alternative starts and ends.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Megan D",
+                "Last Name": "Schertzer",
+                "Affiliation": "New York Genome Center, New York, NY."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Stirn",
+                "Affiliation": "New York Genome Center, New York, NY."
+            },
+            {
+                "First Name": "Keren",
+                "Last Name": "Isaev",
+                "Affiliation": "New York Genome Center, New York, NY."
+            },
+            {
+                "First Name": "Laura",
+                "Last Name": "Pereira",
+                "Affiliation": "New York Genome Center, New York, NY."
+            },
+            {
+                "First Name": "Anjali",
+                "Last Name": "Das",
+                "Affiliation": "New York Genome Center, New York, NY."
+            },
+            {
+                "First Name": "Claire",
+                "Last Name": "Harbison",
+                "Affiliation": "New York Genome Center, New York, NY."
+            },
+            {
+                "First Name": "Stella H",
+                "Last Name": "Park",
+                "Affiliation": "New York Genome Center, New York, NY."
+            },
+            {
+                "First Name": "Hans-Hermann",
+                "Last Name": "Wessels",
+                "Affiliation": "New York Genome Center, New York, NY."
+            },
+            {
+                "First Name": "Neville E",
+                "Last Name": "Sanjana",
+                "Affiliation": "New York Genome Center, New York, NY."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": "New York Genome Center, New York, NY."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36794924",
+        "Title": "LDmat: efficiently queryable compression of linkage disequilibrium matrices.",
+        "Abstract": "Linkage disequilibrium (LD) matrices derived from large populations are widely used in population genetics in fine-mapping, LD score regression, and linear mixed models for Genome-wide Association Studies (GWAS). However, these matrices can reach large sizes when they are derived from millions of individuals; hence, moving, sharing and extracting granular information from this large amount of data can be cumbersome.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Linkage Disequilibrium",
+            "Software",
+            "Genome-Wide Association Study",
+            "Data Compression",
+            "Genome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Rockwell J",
+                "Last Name": "Weiner",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Chirag",
+                "Last Name": "Lakhani",
+                "Affiliation": "New York Genome Center, New York, NY 10013, USA."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": "New York Genome Center, New York, NY 10013, USA."
+            },
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36656803",
+        "Title": "Using epigenomics to understand cellular responses to environmental influences in diseases.",
+        "Abstract": "It is a generally accepted model that environmental influences can exert their effects, at least in part, by changing the molecular regulators of transcription that are described as epigenetic. As there is biochemical evidence that some epigenetic regulators of transcription can maintain their states long term and through cell division, an epigenetic model encompasses the idea of maintenance of the effect of an exposure long after it is no longer present. The evidence supporting this model is mostly from the observation of alterations of molecular regulators of transcription following exposures. With the understanding that the interpretation of these associations is more complex than originally recognised, this model may be oversimplistic; therefore, adopting novel perspectives and experimental approaches when examining how environmental exposures are linked to phenotypes may prove worthwhile. In this review, we have chosen to use the example of nonalcoholic fatty liver disease (NAFLD), a common, complex human disease with strong environmental and genetic influences. We describe how epigenomic approaches combined with emerging functional genetic and single-cell genomic techniques are poised to generate new insights into the pathogenesis of environmentally influenced human disease phenotypes exemplified by NAFLD.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Non-alcoholic Fatty Liver Disease",
+            "Epigenesis, Genetic",
+            "Epigenomics",
+            "Environmental Exposure",
+            "Phenotype"
+        ],
+        "Authors": [
+            {
+                "First Name": "Julia J",
+                "Last Name": "Wattacheril",
+                "Affiliation": "Department of Medicine, Center for Liver Disease and Transplantation, Columbia University Irving Medical Center, New York Presbyterian Hospital, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Srilakshmi",
+                "Last Name": "Raj",
+                "Affiliation": "Division of Genomics, Department of Genetics, Albert Einstein College of Medicine, Bronx, New York, United States of America."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": "New York Genome Center, New York, New York, United States of America."
+            },
+            {
+                "First Name": "John M",
+                "Last Name": "Greally",
+                "Affiliation": "Division of Genomics, Department of Genetics, Albert Einstein College of Medicine, Bronx, New York, United States of America."
+            }
+        ],
+        "Journal": "PLoS genetics",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36265006",
+        "Title": "Deep mendelian randomization: Investigating the causal knowledge of genomic deep learning models.",
+        "Abstract": "Multi-task deep learning (DL) models can accurately predict diverse genomic marks from sequence, but whether these models learn the causal relationships between genomic marks is unknown. Here, we describe Deep Mendelian Randomization (DeepMR), a method for estimating causal relationships between genomic marks learned by genomic DL models. By combining Mendelian randomization with in silico mutagenesis, DeepMR obtains local (locus specific) and global estimates of (an assumed) linear causal relationship between marks. In a simulation designed to test recovery of pairwise causal relations between transcription factors (TFs), DeepMR gives accurate and unbiased estimates of the 'true' global causal effect, but its coverage decays in the presence of sequence-dependent confounding. We then apply DeepMR to examine the global relationships learned by a state-of-the-art DL model, BPNet, between TFs involved in reprogramming. DeepMR's causal effect estimates validate previously hypothesized relationships between TFs and suggest new relationships for future investigation.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Mendelian Randomization Analysis",
+            "Deep Learning",
+            "Causality",
+            "Research Design",
+            "Genomics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Stephen",
+                "Last Name": "Malina",
+                "Affiliation": "Department of Computer Science, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Cizin",
+                "Affiliation": "Department of Computer Science, Columbia University, New York, New York, United States of America."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": "Department of Computer Science, Columbia University, New York, New York, United States of America."
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35818448",
+        "Title": "A method to extract slip system dependent information for crystal plasticity models.",
+        "Abstract": "A tool to implement a length scale dependency to classical crystal plasticity simulations is presented. Classical crystal plasticity models do not include a size effect; therefore, the size of the grain does not influence the simulated deformation. Classical crystal plasticity advancements have been through the inclusion of stress or strain gradient based constitutive models to improve the simulation of length scale dependent deformation. However, this tool presents an alternative to implementing a length scale, where the influence of slip pile-up in the form of dislocations at grain boundaries as a potential to explaining the Hall-Petch effect in materials. This is achieved by calculating the slip distance in adjacent grains for each slip system, by assuming the total slip length spans the grain in the slip direction. These calculations can occur in two ways. The first is the analysis occurs at the start of the simulation, therefore, only occurs once. If this approach is used, the computational cost of this tool is minute. However, if the simulations consider large deformations, during which it is expected that the grains are going to undergo large rotations, then it would be advantageous to the have the tool recalculate the information during the analysis. Consequently, the computational cost would depend on the resolution of the modelled geometry, the number of grains, and the number of slip systems. The tool also provides a capability to develop constitutive models based on complex grain boundary features which can be implemented in classical crystal plasticity models and gradient based crystal plasticity models. The described calculation process is implemented through a Fortran subroutine, which has been designed to be easily used in crystal plasticity simulations. The presented tool also includes Python code designed to link with microstructures built using DREAM.3D to extract the required input data to the Fortran subroutine. The proposed tool is not limited to classical crystal plasticity formulations, instead the data extracted and outputted from the Fortran subroutine can be used to serve alternative purposes in both stress and strain gradient crystal plasticity models. The proposed tool can be modified to extract additional data to that presented. The slip distance in the adjacent grain, the distance from the grain boundary of the current calculation point, and the interaction between slip systems between grains can be used in any crystal plasticity constitutive models.",
+        "Keywords": [
+            "Crystal plasticity",
+            "Grain boundary",
+            "Grain size effect",
+            "Misorientation",
+            "Slip distance",
+            "Slip system interaction"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Dylan",
+                "Last Name": "Agius",
+                "Affiliation": "Solid Mechanics Research Group, Department of Mechanical Engineering, University of Bristol, United Kingdom."
+            },
+            {
+                "First Name": "Abdullah Al",
+                "Last Name": "Mamun",
+                "Affiliation": "Solid Mechanics Research Group, Department of Mechanical Engineering, University of Bristol, United Kingdom."
+            },
+            {
+                "First Name": "Christopher",
+                "Last Name": "Truman",
+                "Affiliation": "Solid Mechanics Research Group, Department of Mechanical Engineering, University of Bristol, United Kingdom."
+            },
+            {
+                "First Name": "Mahmoud",
+                "Last Name": "Mostafavi",
+                "Affiliation": "Solid Mechanics Research Group, Department of Mechanical Engineering, University of Bristol, United Kingdom."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Knowles",
+                "Affiliation": "Solid Mechanics Research Group, Department of Mechanical Engineering, University of Bristol, United Kingdom."
+            }
+        ],
+        "Journal": "MethodsX",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34861175",
+        "Title": "Welch-weighted Egger regression reduces false positives due to correlated pleiotropy in Mendelian randomization.",
+        "Abstract": "Modern population-scale biobanks contain simultaneous measurements of many phenotypes, providing unprecedented opportunity to study the relationship between biomarkers and disease. However, inferring causal effects from observational data is notoriously challenging. Mendelian randomization (MR) has recently received increased attention as a class of methods for estimating causal effects using genetic associations. However, standard methods result in pervasive false positives when two traits share a heritable, unobserved common cause. This is the problem of correlated pleiotropy. Here, we introduce a flexible framework for simulating traits with a common genetic confounder that generalizes recently proposed models, as well as a simple approach we call Welch-weighted Egger regression (WWER) for estimating causal effects. We show in comprehensive simulations that our method substantially reduces false positives due to correlated pleiotropy while being fast enough to apply to hundreds of phenotypes. We apply our method first to a subset of the UK Biobank consisting of blood traits and inflammatory disease, and then to a broader set of 411 heritable phenotypes. We detect many effects with strong literature support, as well as numerous behavioral effects that appear to stem from physician advice given to people at high risk for disease. We conclude that WWER is a powerful tool for exploratory data analysis in ever-growing databases of genotypes and phenotypes.",
+        "Keywords": [
+            "Mendelian randomization",
+            "UK Biobank",
+            "computational methods",
+            "exploratory data analysis",
+            "pleiotropy"
+        ],
+        "MeSH terms": [
+            "Computer Simulation",
+            "False Positive Reactions",
+            "Female",
+            "Genetic Pleiotropy",
+            "Humans",
+            "Inflammation",
+            "Male",
+            "Mendelian Randomization Analysis",
+            "Models, Genetic",
+            "Phenotype",
+            "Polymorphism, Single Nucleotide",
+            "Regression Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Brielin C",
+                "Last Name": "Brown",
+                "Affiliation": "Data Science Institute, Columbia University, New York, NY 10027, USA; New York Genome Center, New York, NY 10013, USA. Electronic address: bb2991@columbia.edu."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": "Data Science Institute, Columbia University, New York, NY 10027, USA; New York Genome Center, New York, NY 10013, USA; Department of Computer Science, Columbia University, New York, NY 10027, USA; Department of Systems Biology, Columbia University, New York, NY 10027, USA. Electronic address: dak2173@columbia.edu."
+            }
+        ],
+        "Journal": "American journal of human genetics",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "31136571",
+        "Title": "Sparse discriminative latent characteristics for predicting cancer drug sensitivity from genomic features.",
+        "Abstract": "Drug screening studies typically involve assaying the sensitivity of a range of cancer cell lines across an array of anti-cancer therapeutics. Alongside these sensitivity measurements high dimensional molecular characterizations of the cell lines are typically available, including gene expression, copy number variation and genomic mutations. We propose a sparse multitask regression model which learns discriminative latent characteristics that predict drug sensitivity and are associated with specific molecular features. We use ideas from Bayesian nonparametrics to automatically infer the appropriate number of these latent characteristics. The resulting analysis couples high predictive performance with interpretability since each latent characteristic involves a typically small set of drugs, cell lines and genomic features. Our model uncovers a number of drug-gene sensitivity associations missed by single gene analyses. We functionally validate one such novel association: that increased expression of the cell-cycle regulator C/EBPδ decreases sensitivity to the histone deacetylase (HDAC) inhibitor panobinostat.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Antineoplastic Agents",
+            "Bayes Theorem",
+            "Biomarkers, Pharmacological",
+            "CCAAT-Enhancer-Binding Protein-delta",
+            "Cell Line, Tumor",
+            "DNA Copy Number Variations",
+            "Forecasting",
+            "Genome",
+            "Genomics",
+            "Histone Deacetylase Inhibitors",
+            "Humans",
+            "Neoplasms",
+            "Panobinostat",
+            "Regression Analysis",
+            "Statistics, Nonparametric"
+        ],
+        "Authors": [
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": "Department of Radiology, Stanford University School of Medicine, Stanford, California, USA."
+            },
+            {
+                "First Name": "Gina",
+                "Last Name": "Bouchard",
+                "Affiliation": "Department of Radiology, Stanford University School of Medicine, Stanford, California, USA."
+            },
+            {
+                "First Name": "Sylvia",
+                "Last Name": "Plevritis",
+                "Affiliation": "Department of Radiology, Stanford University School of Medicine, Stanford, California, USA."
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "29737278",
+        "Title": "Determining the genetic basis of anthracycline-cardiotoxicity by molecular response QTL mapping in induced cardiomyocytes.",
+        "Abstract": "Anthracycline-induced cardiotoxicity (ACT) is a key limiting factor in setting optimal chemotherapy regimes, with almost half of patients expected to develop congestive heart failure given high doses. However, the genetic basis of sensitivity to anthracyclines remains unclear. We created a panel of iPSC-derived cardiomyocytes from 45 individuals and performed RNA-seq after 24 hr exposure to varying doxorubicin dosages. The transcriptomic response is substantial: the majority of genes are differentially expressed and over 6000 genes show evidence of differential splicing, the later driven by reduced splicing fidelity in the presence of doxorubicin. We show that inter-individual variation in transcriptional response is predictive of in vitro cell damage, which in turn is associated with in vivo ACT risk. We detect 447 response-expression quantitative trait loci (QTLs) and 42 response-splicing QTLs, which are enriched in lower ACT GWAS [Formula: see text]-values, supporting the in vivo relevance of our map of genetic regulation of cellular response to anthracyclines.",
+        "Keywords": [
+            "Doxorubicin",
+            "anthracycline-induced toxicity",
+            "evolutionary biology",
+            "genetics",
+            "genomics",
+            "human",
+            "human biology",
+            "iPSC-derived differentiated cells",
+            "medicine",
+            "oxidative damage",
+            "response expression QTL"
+        ],
+        "MeSH terms": [
+            "Anthracyclines",
+            "Cardiotoxicity",
+            "Cells, Cultured",
+            "Doxorubicin",
+            "Gene Expression Profiling",
+            "Genome-Wide Association Study",
+            "Humans",
+            "Myocytes, Cardiac",
+            "Quantitative Trait Loci",
+            "Sequence Analysis, RNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, United States."
+            },
+            {
+                "First Name": "Courtney K",
+                "Last Name": "Burrows",
+                "Affiliation": "Department of Human Genetics, University of Chicago, Chicago, United States."
+            },
+            {
+                "First Name": "John D",
+                "Last Name": "Blischak",
+                "Affiliation": "Department of Human Genetics, University of Chicago, Chicago, United States."
+            },
+            {
+                "First Name": "Kristen M",
+                "Last Name": "Patterson",
+                "Affiliation": "Department of Human Genetics, University of Chicago, Chicago, United States."
+            },
+            {
+                "First Name": "Daniel J",
+                "Last Name": "Serie",
+                "Affiliation": "Department of Health Sciences Research, Mayo Clinic, Jacksonville, United States."
+            },
+            {
+                "First Name": "Nadine",
+                "Last Name": "Norton",
+                "Affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, United States."
+            },
+            {
+                "First Name": "Carole",
+                "Last Name": "Ober",
+                "Affiliation": "Department of Human Genetics, University of Chicago, Chicago, United States."
+            },
+            {
+                "First Name": "Jonathan K",
+                "Last Name": "Pritchard",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, United States."
+            },
+            {
+                "First Name": "Yoav",
+                "Last Name": "Gilad",
+                "Affiliation": "Department of Human Genetics, University of Chicago, Chicago, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29659628",
+        "Title": "Interactions between genetic variation and cellular environment in skeletal muscle gene expression.",
+        "Abstract": "From whole organisms to individual cells, responses to environmental conditions are influenced by genetic makeup, where the effect of genetic variation on a trait depends on the environmental context. RNA-sequencing quantifies gene expression as a molecular trait, and is capable of capturing both genetic and environmental effects. In this study, we explore opportunities of using allele-specific expression (ASE) to discover cis-acting genotype-environment interactions (GxE)-genetic effects on gene expression that depend on an environmental condition. Treating 17 common, clinical traits as approximations of the cellular environment of 267 skeletal muscle biopsies, we identify 10 candidate environmental response expression quantitative trait loci (reQTLs) across 6 traits (12 unique gene-environment trait pairs; 10% FDR per trait) including sex, systolic blood pressure, and low-density lipoprotein cholesterol. Although using ASE is in principle a promising approach to detect GxE effects, replication of such signals can be challenging as validation requires harmonization of environmental traits across cohorts and a sufficient sampling of heterozygotes for a transcribed SNP. Comprehensive discovery and replication will require large human transcriptome datasets, or the integration of multiple transcribed SNPs, coupled with standardized clinical phenotyping.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cellular Microenvironment",
+            "Energy Metabolism",
+            "Gene Expression Regulation",
+            "Gene-Environment Interaction",
+            "Genetic Association Studies",
+            "Genetic Variation",
+            "Genotype",
+            "Humans",
+            "Muscle Fibers, Skeletal",
+            "Muscle, Skeletal",
+            "Phenotype",
+            "Polymorphism, Single Nucleotide",
+            "Quantitative Trait Loci"
+        ],
+        "Authors": [
+            {
+                "First Name": "D Leland",
+                "Last Name": "Taylor",
+                "Affiliation": "National Human Genome Research Institute, National Institutes of Health, Bethesda, United States of America."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": "Department of Computer Science, Stanford University, Stanford, California, United States of America."
+            },
+            {
+                "First Name": "Laura J",
+                "Last Name": "Scott",
+                "Affiliation": "Department of Biostatistics and Center for Statistical Genetics, University of Michigan, Ann Arbor, Michigan, United States of America."
+            },
+            {
+                "First Name": "Andrea H",
+                "Last Name": "Ramirez",
+                "Affiliation": "Department of Medicine, Vanderbilt University Medical Center, Tennessee, United States of America."
+            },
+            {
+                "First Name": "Francesco Paolo",
+                "Last Name": "Casale",
+                "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire, United Kingdom."
+            },
+            {
+                "First Name": "Brooke N",
+                "Last Name": "Wolford",
+                "Affiliation": "Department of Computational Medicine & Bioinformatics, University of Michigan, Ann Arbor, Michigan, United States of America."
+            },
+            {
+                "First Name": "Li",
+                "Last Name": "Guan",
+                "Affiliation": "Department of Computational Medicine & Bioinformatics, University of Michigan, Ann Arbor, Michigan, United States of America."
+            },
+            {
+                "First Name": "Arushi",
+                "Last Name": "Varshney",
+                "Affiliation": "Department of Human Genetics, University of Michigan, Ann Arbor, Michigan, United States of America."
+            },
+            {
+                "First Name": "Ricardo D'Oliveira",
+                "Last Name": "Albanus",
+                "Affiliation": "Department of Computational Medicine & Bioinformatics, University of Michigan, Ann Arbor, Michigan, United States of America."
+            },
+            {
+                "First Name": "Stephen C J",
+                "Last Name": "Parker",
+                "Affiliation": "Department of Computational Medicine & Bioinformatics, University of Michigan, Ann Arbor, Michigan, United States of America."
+            },
+            {
+                "First Name": "Narisu",
+                "Last Name": "Narisu",
+                "Affiliation": "National Human Genome Research Institute, National Institutes of Health, Bethesda, United States of America."
+            },
+            {
+                "First Name": "Peter S",
+                "Last Name": "Chines",
+                "Affiliation": "National Human Genome Research Institute, National Institutes of Health, Bethesda, United States of America."
+            },
+            {
+                "First Name": "Michael R",
+                "Last Name": "Erdos",
+                "Affiliation": "National Human Genome Research Institute, National Institutes of Health, Bethesda, United States of America."
+            },
+            {
+                "First Name": "Ryan P",
+                "Last Name": "Welch",
+                "Affiliation": "Department of Biostatistics and Center for Statistical Genetics, University of Michigan, Ann Arbor, Michigan, United States of America."
+            },
+            {
+                "First Name": "Leena",
+                "Last Name": "Kinnunen",
+                "Affiliation": "Department of Public Health Solutions, National Institute for Health and Welfare, Helsinki, Finland."
+            },
+            {
+                "First Name": "Jouko",
+                "Last Name": "Saramies",
+                "Affiliation": "South Karelia Social and Health Care District, Lappeenranta, Finland."
+            },
+            {
+                "First Name": "Jouko",
+                "Last Name": "Sundvall",
+                "Affiliation": "Department of Public Health Solutions, National Institute for Health and Welfare, Helsinki, Finland."
+            },
+            {
+                "First Name": "Timo A",
+                "Last Name": "Lakka",
+                "Affiliation": "Institute of Biomedicine/Physiology, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Markku",
+                "Last Name": "Laakso",
+                "Affiliation": "Department of Medicine, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Jaakko",
+                "Last Name": "Tuomilehto",
+                "Affiliation": "Department of Public Health Solutions, National Institute for Health and Welfare, Helsinki, Finland."
+            },
+            {
+                "First Name": "Heikki A",
+                "Last Name": "Koistinen",
+                "Affiliation": "Department of Public Health Solutions, National Institute for Health and Welfare, Helsinki, Finland."
+            },
+            {
+                "First Name": "Oliver",
+                "Last Name": "Stegle",
+                "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire, United Kingdom."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Boehnke",
+                "Affiliation": "Department of Biostatistics and Center for Statistical Genetics, University of Michigan, Ann Arbor, Michigan, United States of America."
+            },
+            {
+                "First Name": "Ewan",
+                "Last Name": "Birney",
+                "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire, United Kingdom."
+            },
+            {
+                "First Name": "Francis S",
+                "Last Name": "Collins",
+                "Affiliation": "National Human Genome Research Institute, National Institutes of Health, Bethesda, United States of America."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29229983",
+        "Title": "Annotation-free quantification of RNA splicing using LeafCutter.",
+        "Abstract": "The excision of introns from pre-mRNA is an essential step in mRNA processing. We developed LeafCutter to study sample and population variation in intron splicing. LeafCutter identifies variable splicing events from short-read RNA-seq data and finds events of high complexity. Our approach obviates the need for transcript annotations and circumvents the challenges in estimating relative isoform or exon usage in complex splicing events. LeafCutter can be used both to detect differential splicing between sample groups and to map splicing quantitative trait loci (sQTLs). Compared with contemporary methods, our approach identified 1.4-2.1 times more sQTLs, many of which helped us ascribe molecular effects to disease-associated variants. Transcriptome-wide associations between LeafCutter intron quantifications and 40 complex traits increased the number of associated disease genes at a 5% false discovery rate by an average of 2.1-fold compared with that detected through the use of gene expression levels alone. LeafCutter is fast, scalable, easy to use, and available online.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alternative Splicing",
+            "Animals",
+            "Disease",
+            "Gene Expression Profiling",
+            "Genetic Variation",
+            "Introns",
+            "Molecular Sequence Annotation",
+            "Quantitative Trait Loci",
+            "Sequence Analysis, RNA",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yang I",
+                "Last Name": "Li",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA. yangili1@uchicago.edu."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA. dak33@stanford.edu."
+            },
+            {
+                "First Name": "Jack",
+                "Last Name": "Humphrey",
+                "Affiliation": "UCL Genetics Institute, Gower Street, London, UK."
+            },
+            {
+                "First Name": "Alvaro N",
+                "Last Name": "Barbeira",
+                "Affiliation": "Section of Genetic Medicine, Department of Medicine, The University of Chicago, Chicago, IL, USA."
+            },
+            {
+                "First Name": "Scott P",
+                "Last Name": "Dickinson",
+                "Affiliation": "Section of Genetic Medicine, Department of Medicine, The University of Chicago, Chicago, IL, USA."
+            },
+            {
+                "First Name": "Hae Kyung",
+                "Last Name": "Im",
+                "Affiliation": "Section of Genetic Medicine, Department of Medicine, The University of Chicago, Chicago, IL, USA."
+            },
+            {
+                "First Name": "Jonathan K",
+                "Last Name": "Pritchard",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA. pritch@stanford.edu."
+            }
+        ],
+        "Journal": "Nature genetics",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29106824",
+        "Title": "Inferring Relevant Cell Types for Complex Traits by Using Single-Cell Gene Expression.",
+        "Abstract": "Previous studies have prioritized trait-relevant cell types by looking for an enrichment of genome-wide association study (GWAS) signal within functional regions. However, these studies are limited in cell resolution by the lack of functional annotations from difficult-to-characterize or rare cell populations. Measurement of single-cell gene expression has become a popular method for characterizing novel cell types, and yet limited work has linked single-cell RNA sequencing (RNA-seq) to phenotypes of interest. To address this deficiency, we present RolyPoly, a regression-based polygenic model that can prioritize trait-relevant cell types and genes from GWAS summary statistics and gene expression data. RolyPoly is designed to use expression data from either bulk tissue or single-cell RNA-seq. In this study, we demonstrated RolyPoly's accuracy through simulation and validated previously known tissue-trait associations. We discovered a significant association between microglia and late-onset Alzheimer disease and an association between schizophrenia and oligodendrocytes and replicating fetal cortical cells. Additionally, RolyPoly computes a trait-relevance score for each gene to reflect the importance of expression specific to a cell type. We found that differentially expressed genes in the prefrontal cortex of individuals with Alzheimer disease were significantly enriched with genes ranked highly by RolyPoly gene scores. Overall, our method represents a powerful framework for understanding the effect of common variants on cell types contributing to complex traits.",
+        "Keywords": [
+            "GWAS",
+            "complex traits",
+            "neuropsychiatric disease",
+            "single-cell gene expression"
+        ],
+        "MeSH terms": [
+            "Alzheimer Disease",
+            "Computer Simulation",
+            "Fetus",
+            "Genome-Wide Association Study",
+            "Humans",
+            "Microglia",
+            "Models, Genetic",
+            "Oligodendroglia",
+            "Prefrontal Cortex",
+            "Quantitative Trait Loci",
+            "Schizophrenia",
+            "Single-Cell Analysis",
+            "Software",
+            "Transcriptome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Diego",
+                "Last Name": "Calderon",
+                "Affiliation": "Program in Biomedical Informatics, Stanford University, Stanford, CA 94305, USA. Electronic address: dcal@stanford.edu."
+            },
+            {
+                "First Name": "Anand",
+                "Last Name": "Bhaskar",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA 94305, USA; Howard Hughes Medical Institute, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA 94305, USA; Department of Radiology, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Golan",
+                "Affiliation": "Faculty of Industrial Engineering & Management, Technion, Haifa 3200003, Israel."
+            },
+            {
+                "First Name": "Towfique",
+                "Last Name": "Raj",
+                "Affiliation": "Department of Neuroscience, Mount Sinai School of Medicine, New York, NY 10029, USA; Department of Genetics and Genomic Sciences, Mount Sinai School of Medicine, New York, NY 10029, USA."
+            },
+            {
+                "First Name": "Audrey Q",
+                "Last Name": "Fu",
+                "Affiliation": "Department of Statistical Science, University of Idaho, Moscow, ID 83844, USA."
+            },
+            {
+                "First Name": "Jonathan K",
+                "Last Name": "Pritchard",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA 94305, USA; Howard Hughes Medical Institute, Stanford University, Stanford, CA 94305, USA; Department of Biology, Stanford University, Stanford, CA 94305, USA."
+            }
+        ],
+        "Journal": "American journal of human genetics",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28530654",
+        "Title": "Allele-specific expression reveals interactions between genetic variation and environment.",
+        "Abstract": "Identifying interactions between genetics and the environment (GxE) remains challenging. We have developed EAGLE, a hierarchical Bayesian model for identifying GxE interactions based on associations between environmental variables and allele-specific expression. Combining whole-blood RNA-seq with extensive environmental annotations collected from 922 human individuals, we identified 35 GxE interactions, compared with only four using standard GxE interaction testing. EAGLE provides new opportunities for researchers to identify GxE interactions using functional genomic data.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Alleles",
+            "Cohort Studies",
+            "Epigenesis, Genetic",
+            "Female",
+            "Gene Expression Regulation",
+            "Genetic Variation",
+            "Humans",
+            "Male",
+            "Models, Genetic",
+            "Quantitative Trait Loci"
+        ],
+        "Authors": [
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": "Department of Genetics, Stanford University School of Medicine, Stanford, California, USA."
+            },
+            {
+                "First Name": "Joe R",
+                "Last Name": "Davis",
+                "Affiliation": "Department of Genetics, Stanford University School of Medicine, Stanford, California, USA."
+            },
+            {
+                "First Name": "Hilary",
+                "Last Name": "Edgington",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Anil",
+                "Last Name": "Raj",
+                "Affiliation": "Department of Genetics, Stanford University School of Medicine, Stanford, California, USA."
+            },
+            {
+                "First Name": "Marie-Julie",
+                "Last Name": "Favé",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Xiaowei",
+                "Last Name": "Zhu",
+                "Affiliation": "Department of Psychiatry, Stanford University School of Medicine, Stanford, California, USA."
+            },
+            {
+                "First Name": "James B",
+                "Last Name": "Potash",
+                "Affiliation": "Department of Psychiatry, University of Iowa Hospitals &Clinics, Iowa City, Iowa, USA."
+            },
+            {
+                "First Name": "Myrna M",
+                "Last Name": "Weissman",
+                "Affiliation": "Department of Psychiatry, Columbia University and New York State Psychiatric Institute, New York, New York, USA."
+            },
+            {
+                "First Name": "Jianxin",
+                "Last Name": "Shi",
+                "Affiliation": "Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, Maryland, USA."
+            },
+            {
+                "First Name": "Douglas F",
+                "Last Name": "Levinson",
+                "Affiliation": "Department of Psychiatry, Stanford University School of Medicine, Stanford, California, USA."
+            },
+            {
+                "First Name": "Philip",
+                "Last Name": "Awadalla",
+                "Affiliation": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Sara",
+                "Last Name": "Mostafavi",
+                "Affiliation": "Department of Statistics, University of British Columbia, Vancouver, British Columbia, Canada."
+            },
+            {
+                "First Name": "Stephen B",
+                "Last Name": "Montgomery",
+                "Affiliation": "Department of Genetics, Stanford University School of Medicine, Stanford, California, USA."
+            },
+            {
+                "First Name": "Alexis",
+                "Last Name": "Battle",
+                "Affiliation": "Department of Computer Science, Johns Hopkins University, Baltimore, Maryland, USA."
+            }
+        ],
+        "Journal": "Nature methods",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28515078",
+        "Title": "Shifting Quaternary migration patterns in the Bahamian archipelago: Evidence from the ",
+        "Abstract": "The Bahamas archipelago is formed by young, tectonically stable carbonate banks that harbor direct geological evidence of global ice-volume changes. We sought to detect signatures of major changes on gene flow patterns and reconstruct the phylogeographic history of the monophyletic ",
+        "Keywords": [
+            "Cycadales",
+            "Zamiaceae",
+            "climate change",
+            "cycad",
+            "gene flow",
+            "gymnosperm",
+            "ice ages",
+            "island biogeography",
+            "paleo-province",
+            "population genetics"
+        ],
+        "MeSH terms": [
+            "Bahamas",
+            "Biodiversity",
+            "Genetic Variation",
+            "Islands",
+            "Microsatellite Repeats",
+            "Phylogeny",
+            "Phylogeography",
+            "Zamiaceae"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dayana E",
+                "Last Name": "Salas-Leiva",
+                "Affiliation": "International Center for Tropical Botany, Department of Biological Sciences, 11200 S.W. 8th Street, Florida International University, Miami, Florida 33199 USA."
+            },
+            {
+                "First Name": "Alan W",
+                "Last Name": "Meerow",
+                "Affiliation": "USDA-ARS-SHRS, 13601 Old Cutler Road, Miami, Florida 33158 USA alan.meerow@ars.usda.gov."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Calonje",
+                "Affiliation": "Montgomery Botanical Center, 11901 Old Cutler Road, Coral Gables, Florida 33156 USA."
+            },
+            {
+                "First Name": "Javier",
+                "Last Name": "Francisco-Ortega",
+                "Affiliation": "International Center for Tropical Botany, Department of Biological Sciences, 11200 S.W. 8th Street, Florida International University, Miami, Florida 33199 USA."
+            },
+            {
+                "First Name": "M Patrick",
+                "Last Name": "Griffith",
+                "Affiliation": "Montgomery Botanical Center, 11901 Old Cutler Road, Coral Gables, Florida 33156 USA."
+            },
+            {
+                "First Name": "Kyoko",
+                "Last Name": "Nakamura",
+                "Affiliation": "USDA-ARS-SHRS, 13601 Old Cutler Road, Miami, Florida 33158 USA."
+            },
+            {
+                "First Name": "Vanessa",
+                "Last Name": "Sánchez",
+                "Affiliation": "USDA-ARS-SHRS, 13601 Old Cutler Road, Miami, Florida 33158 USA."
+            },
+            {
+                "First Name": "Lindy",
+                "Last Name": "Knowles",
+                "Affiliation": "Bahamas National Trust, P. O. Box N-4105, Bay Street Business Centre, Bay Street, Nassau."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Knowles",
+                "Affiliation": "The Bahamas, Bahamas National Trust, Abaco National Park, P.O. Box AB-20953, Marsh Harbour, Abaco, The Bahamas."
+            }
+        ],
+        "Journal": "American journal of botany",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "26749306",
+        "Title": "An Efficient Multiple-Testing Adjustment for eQTL Studies that Accounts for Linkage Disequilibrium between Variants.",
+        "Abstract": "Methods for multiple-testing correction in local expression quantitative trait locus (cis-eQTL) studies are a trade-off between statistical power and computational efficiency. Bonferroni correction, though computationally trivial, is overly conservative and fails to account for linkage disequilibrium between variants. Permutation-based methods are more powerful, though computationally far more intensive. We present an alternative correction method called eigenMT, which runs over 500 times faster than permutations and has adjusted p values that closely approximate empirical ones. To achieve this speed while also maintaining the accuracy of permutation-based methods, we estimate the effective number of independent variants tested for association with a particular gene, termed Meff, by using the eigenvalue decomposition of the genotype correlation matrix. We employ a regularized estimator of the correlation matrix to ensure Meff is robust and yields adjusted p values that closely approximate p values from permutations. Finally, using a common genotype matrix, we show that eigenMT can be applied with even greater efficiency to studies across tissues or conditions. Our method provides a simpler, more efficient approach to multiple-testing correction than existing methods and fits within existing pipelines for eQTL discovery.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Linkage Disequilibrium",
+            "Quantitative Trait Loci"
+        ],
+        "Authors": [
+            {
+                "First Name": "Joe R",
+                "Last Name": "Davis",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Laure",
+                "Last Name": "Fresard",
+                "Affiliation": "Department of Pathology, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": "Department of Computer Science, Stanford University, Stanford 94305, CA, USA."
+            },
+            {
+                "First Name": "Mauro",
+                "Last Name": "Pala",
+                "Affiliation": "Istituto di Ricerca Genetica e Biomedica, Consiglio Nazionale delle Ricerche, Monserrato 09042, Italy."
+            },
+            {
+                "First Name": "Carlos D",
+                "Last Name": "Bustamante",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Alexis",
+                "Last Name": "Battle",
+                "Affiliation": "Department of Computer Science, Johns Hopkins University, Baltimore, MD 21218, USA."
+            },
+            {
+                "First Name": "Stephen B",
+                "Last Name": "Montgomery",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA 94305, USA; Department of Pathology, Stanford University, Stanford, CA 94305, USA. Electronic address: smontgom@stanford.edu."
+            }
+        ],
+        "Journal": "American journal of human genetics",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26353254",
+        "Title": "Relational Learning and Network Modelling Using Infinite Latent Attribute Models.",
+        "Abstract": "Latent variable models for network data extract a summary of the relational structure underlying an observed network. The simplest possible models subdivide nodes of the network into clusters; the probability of a link between any two nodes then depends only on their cluster assignment. Currently available models can be classified by whether clusters are disjoint or are allowed to overlap. These models can explain a \"flat\" clustering structure. Hierarchical Bayesian models provide a natural approach to capture more complex dependencies. We propose a model in which objects are characterised by a latent feature vector. Each feature is itself partitioned into disjoint groups (subclusters), corresponding to a second layer of hierarchy. In experimental comparisons, the model achieves significantly improved predictive performance on social and biological link prediction tasks. The results indicate that models with a single layer hierarchy over-simplify real networks.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Computer Simulation",
+            "Informatics",
+            "Machine Learning",
+            "Models, Theoretical"
+        ],
+        "Authors": [
+            {
+                "First Name": "Konstantina",
+                "Last Name": "Palla",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zoubin",
+                "Last Name": "Ghahramani",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "IEEE transactions on pattern analysis and machine intelligence",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26353241",
+        "Title": "Pitman Yor Diffusion Trees for Bayesian Hierarchical Clustering.",
+        "Abstract": "In this paper we introduce the Pitman Yor Diffusion Tree (PYDT), a Bayesian non-parametric prior over tree structures which generalises the Dirichlet Diffusion Tree [30] and removes the restriction to binary branching structure. The generative process is described and shown to result in an exchangeable distribution over data points. We prove some theoretical properties of the model including showing its construction as the continuum limit of a nested Chinese restaurant process model. We then present two alternative MCMC samplers which allow us to model uncertainty over tree structures, and a computationally efficient greedy Bayesian EM search algorithm. Both algorithms use message passing on the tree structure. The utility of the model and algorithms is demonstrated on synthetic and real world data, both continuous and binary.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zoubin",
+                "Last Name": "Ghahramani",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "IEEE transactions on pattern analysis and machine intelligence",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "24736293",
+        "Title": "Assessment of accuracy of marker ball placement in pre-operative templating for total hip arthroplasty.",
+        "Abstract": "We report the accuracy of positioning of the calibration ball in the process of pre-operative templating for total hip arthroplasty (THA). The ball should be placed in the coronal plane of the hip to provide suitable accuracy. We reviewed 112 post-operative THA radiographs where a calibration ball had been placed. We templated the femoral head size of the implant after calibrating the templating system from the ball. The calibrated femoral head diameter was compared to the known prosthetic head size. A percentage error was calculated. Overall, incorrect placement of the calibration ball resulted in a mean percentage error in templating of 6.8% (median 5.7%; range 0-26%). Such error carries implications with the templating process and may result in incorrect component sizes, leg lengths and offset.",
+        "Keywords": [
+            "marker ball",
+            "position",
+            "templating",
+            "total hip arthroplasty"
+        ],
+        "MeSH terms": [
+            "Aged",
+            "Aged, 80 and over",
+            "Arthrography",
+            "Arthroplasty, Replacement, Hip",
+            "Calibration",
+            "Dimensional Measurement Accuracy",
+            "Female",
+            "Femur",
+            "Femur Head",
+            "Hip Prosthesis",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Observer Variation",
+            "Patient Positioning",
+            "Preoperative Care",
+            "Retrospective Studies",
+            "Single-Blind Method",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Victoria F",
+                "Last Name": "Sinclair",
+                "Affiliation": "Royal Lancaster Infirmary, Lancaster, United Kingdom."
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Wilson",
+                "Affiliation": "Royal Lancaster Infirmary, Lancaster, United Kingdom."
+            },
+            {
+                "First Name": "Neil P M",
+                "Last Name": "Jain",
+                "Affiliation": "University Hospital South Manchester, Manchester, United Kingdom."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Knowles",
+                "Affiliation": "Royal Lancaster Infirmary, Lancaster, United Kingdom."
+            }
+        ],
+        "Journal": "The Journal of arthroplasty",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24123936",
+        "Title": "Building quantitative, three-dimensional atlases of gene expression and morphology at cellular resolution.",
+        "Abstract": "Animals comprise dynamic three-dimensional arrays of cells that express gene products in intricate spatial and temporal patterns that determine cellular differentiation and morphogenesis. A rigorous understanding of these developmental processes requires automated methods that quantitatively record and analyze complex morphologies and their associated patterns of gene expression at cellular resolution. Here we summarize light microscopy-based approaches to establish permanent, quantitative datasets-atlases-that record this information. We focus on experiments that capture data for whole embryos or large areas of tissue in three dimensions, often at multiple time points. We compare and contrast the advantages and limitations of different methods and highlight some of the discoveries made. We emphasize the need for interdisciplinary collaborations and integrated experimental pipelines that link sample preparation, image acquisition, image analysis, database design, visualization, and quantitative analysis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Atlases as Topic",
+            "Automation, Laboratory",
+            "Blastoderm",
+            "Cell Differentiation",
+            "Databases, Factual",
+            "Drosophila melanogaster",
+            "Eukaryotic Cells",
+            "Gene Expression Profiling",
+            "Gene Expression Regulation, Developmental",
+            "Imaging, Three-Dimensional",
+            "Microscopy",
+            "Morphogenesis"
+        ],
+        "Authors": [
+            {
+                "First Name": "David W",
+                "Last Name": "Knowles",
+                "Affiliation": "Life Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA."
+            },
+            {
+                "First Name": "Mark D",
+                "Last Name": "Biggin",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Wiley interdisciplinary reviews. Developmental biology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23329413",
+        "Title": "Grape RNA-Seq analysis pipeline environment.",
+        "Abstract": "The avalanche of data arriving since the development of NGS technologies have prompted the need for developing fast, accurate and easily automated bioinformatic tools capable of dealing with massive datasets. Among the most productive applications of NGS technologies is the sequencing of cellular RNA, known as RNA-Seq. Although RNA-Seq provides similar or superior dynamic range than microarrays at similar or lower cost, the lack of standard and user-friendly pipelines is a bottleneck preventing RNA-Seq from becoming the standard for transcriptome analysis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Chromosome Mapping",
+            "Computational Biology",
+            "Exons",
+            "Gene Expression Profiling",
+            "Genome",
+            "High-Throughput Nucleotide Sequencing",
+            "Sequence Analysis, RNA",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "David G",
+                "Last Name": "Knowles",
+                "Affiliation": "Bioinformatics and Genomics Group, Centre for Genomic Regulation (CRG) and Universitat Pompeu Fabra (UPF), Dr Aiguader 88, 08003 Barcelona, Spain. david.gonzalez@crg.eu"
+            },
+            {
+                "First Name": "Maik",
+                "Last Name": "Röder",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Angelika",
+                "Last Name": "Merkel",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roderic",
+                "Last Name": "Guigó",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23255655",
+        "Title": "A fractured and immovable ceramic liner in a screw-fixed acetabular shell during total hip arthroplasty: a case report.",
+        "Abstract": "We report a complication during total hip arthroplasty using an uncemented press-fit acetabular shell and ceramic liner for a woman with osteoarthritis. Fracture of the ceramic liner occurred during its insertion owing to non-concentric reduction. The main body of the ceramic liner became wedged in the acetabular shell and was resistant to removal. The shell itself was immovable owing to the prior insertion of 2 polyaxial screws, to which access was covered. Successful removal involved drilling a hole in the ceramic liner as a stress riser, and then cracking the liner with a Steinman pin.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Acetabulum",
+            "Arthroplasty, Replacement, Hip",
+            "Female",
+            "Hip Prosthesis",
+            "Humans",
+            "Middle Aged",
+            "Osteoarthritis, Hip",
+            "Prosthesis Failure"
+        ],
+        "Authors": [
+            {
+                "First Name": "Usman",
+                "Last Name": "Butt",
+                "Affiliation": "Department of Orthopaedic Surgery, Royal Lancaster Infirmary, Lancaster, UK."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of orthopaedic surgery (Hong Kong)",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "23172860",
+        "Title": "Intron-centric estimation of alternative splicing from RNA-seq data.",
+        "Abstract": "Novel technologies brought in unprecedented amounts of high-throughput sequencing data along with great challenges in their analysis and interpretation. The percent-spliced-in (PSI, ) metric estimates the incidence of single-exon-skipping events and can be computed directly by counting reads that align to known or predicted splice junctions. However, the majority of human splicing events are more complex than single-exon skipping.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alternative Splicing",
+            "Exons",
+            "High-Throughput Nucleotide Sequencing",
+            "Humans",
+            "Introns",
+            "RNA Splice Sites",
+            "Sequence Analysis, RNA",
+            "Software"
+        ],
+        "Authors": [
+            {
+                "First Name": "Dmitri D",
+                "Last Name": "Pervouchine",
+                "Affiliation": "Centre de Regulació Genòmica, 08003 Barcelona, Spain. dp@crg.eu"
+            },
+            {
+                "First Name": "David G",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roderic",
+                "Last Name": "Guigó",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "22955974",
+        "Title": "Deep sequencing of subcellular RNA fractions shows splicing to be predominantly co-transcriptional in the human genome but inefficient for lncRNAs.",
+        "Abstract": "Splicing remains an incompletely understood process. Recent findings suggest that chromatin structure participates in its regulation. Here, we analyze the RNA from subcellular fractions obtained through RNA-seq in the cell line K562. We show that in the human genome, splicing occurs predominantly during transcription. We introduce the coSI measure, based on RNA-seq reads mapping to exon junctions and borders, to assess the degree of splicing completion around internal exons. We show that, as expected, splicing is almost fully completed in cytosolic polyA+ RNA. In chromatin-associated RNA (which includes the RNA that is being transcribed), for 5.6% of exons, the removal of the surrounding introns is fully completed, compared with 0.3% of exons for which no intron-removal has occurred. The remaining exons exist as a mixture of spliced and fewer unspliced molecules, with a median coSI of 0.75. Thus, most RNAs undergo splicing while being transcribed: \"co-transcriptional splicing.\" Consistent with co-transcriptional spliceosome assembly and splicing, we have found significant enrichment of spliceosomal snRNAs in chromatin-associated RNA compared with other cellular RNA fractions and other nonspliceosomal snRNAs. CoSI scores decrease along the gene, pointing to a \"first transcribed, first spliced\" rule, yet more downstream exons carry other characteristics, favoring rapid, co-transcriptional intron removal. Exons with low coSI values, that is, in the process of being spliced, are enriched with chromatin marks, consistent with a role for chromatin in splicing during transcription. For alternative exons and long noncoding RNAs, splicing tends to occur later, and the latter might remain unspliced in some cases.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Chromatin",
+            "Cluster Analysis",
+            "Computational Biology",
+            "Exons",
+            "Genome, Human",
+            "High-Throughput Nucleotide Sequencing",
+            "Humans",
+            "RNA",
+            "RNA Splicing",
+            "RNA, Long Noncoding",
+            "Sequence Analysis, RNA",
+            "Spliceosomes",
+            "Subcellular Fractions",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hagen",
+                "Last Name": "Tilgner",
+                "Affiliation": "Centre for Genomic Regulation and UPF, E-08003, Barcelona, Catalonia, Spain."
+            },
+            {
+                "First Name": "David G",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rory",
+                "Last Name": "Johnson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carrie A",
+                "Last Name": "Davis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sudipto",
+                "Last Name": "Chakrabortty",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Djebali",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "João",
+                "Last Name": "Curado",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Snyder",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Thomas R",
+                "Last Name": "Gingeras",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roderic",
+                "Last Name": "Guigó",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genome research",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22301653",
+        "Title": "Three-dimensional morphology and gene expression mapping for the Drosophila blastoderm.",
+        "Abstract": "To properly understand the transcriptional network of animals, we must have full quantitative comprehension of the spatial and temporal expression patterns of transcription factors and their targets. Visual inspection of embryos stained to reveal the patterns of genes shows levels of expression that change from cell to cell in a complex manner. With our current wealth of knowledge regarding the basic biology of animal genomes and the components of their transcriptional regulatory networks, combined with current technologies in optical microscopy, computing, and image and vision analysis, we should be able to capture quantitative, three-dimensional (3D) information about the transcriptional network (all factors and targets) for an entire animal at cellular resolution. It should also be possible to assemble these data into a single computationally analyzable database--an atlas--that could be the basis for uncovering new biology governing regulatory gene networks. This article describes progress toward realizing these goals, with the focus on Drosophila melanogaster. It describes a suite of high-throughput methods that have been used to create the first quantitative 3D description of gene expression and morphology at cellular resolution in a whole animal, and it presents some of the new biology that has been revealed by this quantitative atlas.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Blastoderm",
+            "Drosophila melanogaster",
+            "Gene Expression",
+            "Gene Expression Profiling",
+            "Imaging, Three-Dimensional"
+        ],
+        "Authors": [
+            {
+                "First Name": "David W",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cold Spring Harbor protocols",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "22025602",
+        "Title": "Distinct epigenomic features in end-stage failing human hearts.",
+        "Abstract": "The epigenome refers to marks on the genome, including DNA methylation and histone modifications, that regulate the expression of underlying genes. A consistent profile of gene expression changes in end-stage cardiomyopathy led us to hypothesize that distinct global patterns of the epigenome may also exist.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Case-Control Studies",
+            "CpG Islands",
+            "DNA Methylation",
+            "Disease Progression",
+            "Epigenomics",
+            "Gene Expression Regulation",
+            "Heart Failure",
+            "Histones",
+            "Homeodomain Proteins",
+            "Humans",
+            "Male",
+            "Prognosis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mehregan",
+                "Last Name": "Movassagh",
+                "Affiliation": "Division of Cardiovascular Medicine, University of Cambridge, Addenbrooke's Centre for Clinical Investigation, Level 6, Hills Rd, Cambridge, CB2 0QQ UK."
+            },
+            {
+                "First Name": "Mun-Kit",
+                "Last Name": "Choy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lina",
+                "Last Name": "Cordeddu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Syed",
+                "Last Name": "Haider",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Down",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lee",
+                "Last Name": "Siggens",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ana",
+                "Last Name": "Vujic",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ilenia",
+                "Last Name": "Simeoni",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chris",
+                "Last Name": "Penkett",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Martin",
+                "Last Name": "Goddard",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pietro",
+                "Last Name": "Lio",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Martin R",
+                "Last Name": "Bennett",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roger S-Y",
+                "Last Name": "Foo",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Circulation",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21486780",
+        "Title": "Dichotomous cellular properties of mouse orexin/hypocretin neurons.",
+        "Abstract": "Hypothalamic hypocretin/orexin (Hcrt/Orx) neurons recently emerged as critical regulators of sleep–wake cycles, reward seeking and body energy balance. However, at the level of cellular and network properties, it remains unclear whether Hcrt/Orx neurons are one homogeneous population, or whether there are several distinct types of Hcrt/Orx cells. Here, we collated diverse structural and functional information about individual Hcrt/Orx neurons in mouse brain slices, by combining patch-clamp analysis of spike firing, membrane currents and synaptic inputs with confocal imaging of cell shape and subsequent 3-dimensional Sholl analysis of dendritic architecture. Statistical cluster analysis of intrinsic firing properties revealed that Hcrt/Orx neurons fall into two distinct types. These two cell types also differ in the complexity of their dendritic arbour, the strength of AMPA and GABAA receptor-mediated synaptic drive that they receive, and the density of low-threshold, 4-aminopyridine-sensitive, transient K+ current. Our results provide quantitative evidence that, at the cellular level, the mouse Hcrt/Orx system is composed of two classes of neurons with different firing properties, morphologies and synaptic input organization.",
+        "Keywords": [],
+        "MeSH terms": [
+            "4-Aminopyridine",
+            "Action Potentials",
+            "Animals",
+            "Brain",
+            "Cell Shape",
+            "Cluster Analysis",
+            "Dendrites",
+            "Electrophysiological Phenomena",
+            "Excitatory Postsynaptic Potentials",
+            "GABA-A Receptor Antagonists",
+            "Green Fluorescent Proteins",
+            "Inhibitory Postsynaptic Potentials",
+            "Intracellular Signaling Peptides and Proteins",
+            "Mice",
+            "Mice, Transgenic",
+            "Miniature Postsynaptic Potentials",
+            "Neurons",
+            "Neuropeptides",
+            "Orexins",
+            "Patch-Clamp Techniques",
+            "Potassium Channels, Voltage-Gated",
+            "Promoter Regions, Genetic",
+            "Receptors, AMPA",
+            "Receptors, GABA-A"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cornelia",
+                "Last Name": "Schöne",
+                "Affiliation": "Department of Pharmacology, University of Cambridge, Cambridge CB2 1PD, UK."
+            },
+            {
+                "First Name": "Anne",
+                "Last Name": "Venner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mahesh M",
+                "Last Name": "Karnani",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Denis",
+                "Last Name": "Burdakov",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of physiology",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "20678755",
+        "Title": "No correlation between childhood maltreatment and telomere length.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Child",
+            "Child Abuse",
+            "Humans",
+            "Leukocytes",
+            "Sample Size",
+            "Sex Offenses",
+            "Telomere",
+            "Twin Studies as Topic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Daniel",
+                "Last Name": "Glass",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Leopold",
+                "Last Name": "Parts",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Abraham",
+                "Last Name": "Aviv",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tim D",
+                "Last Name": "Spector",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Biological psychiatry",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19726446",
+        "Title": "Recent de novo origin of human protein-coding genes.",
+        "Abstract": "The origin of new genes is extremely important to evolutionary innovation. Most new genes arise from existing genes through duplication or recombination. The origin of new genes from noncoding DNA is extremely rare, and very few eukaryotic examples are known. We present evidence for the de novo origin of at least three human protein-coding genes since the divergence with chimp. Each of these genes has no protein-coding homologs in any other genome, but is supported by evidence from expression and, importantly, proteomics data. The absence of these genes in chimp and macaque cannot be explained by sequencing gaps or annotation error. High-quality sequence data indicate that these loci are noncoding DNA in other primates. Furthermore, chimp, gorilla, gibbon, and macaque share the same disabling sequence difference, supporting the inference that the ancestral sequence was noncoding over the alternative possibility of parallel gene inactivation in multiple primate lineages. The genes are not well characterized, but interestingly, one of them was first identified as an up-regulated gene in chronic lymphocytic leukemia. This is the first evidence for entirely novel human-specific protein-coding genes originating from ancestrally noncoding sequences. We estimate that 0.075% of human genes may have originated through this mechanism leading to a total expectation of 18 such cases in a genome of 24,000 protein-coding genes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Base Sequence",
+            "DNA, Intergenic",
+            "Databases, Genetic",
+            "Evolution, Molecular",
+            "Genes",
+            "Genome, Human",
+            "Humans",
+            "Models, Biological",
+            "Molecular Sequence Data",
+            "Mutation",
+            "Pan troglodytes",
+            "Phylogeny",
+            "Proteins",
+            "Sequence Analysis, DNA",
+            "Sequence Homology, Nucleic Acid"
+        ],
+        "Authors": [
+            {
+                "First Name": "David G",
+                "Last Name": "Knowles",
+                "Affiliation": "Smurfit Institute of Genetics, University of Dublin, Trinity College, Ireland."
+            },
+            {
+                "First Name": "Aoife",
+                "Last Name": "McLysaght",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genome research",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18078891",
+        "Title": "Damage to the superior gluteal nerve during the direct lateral approach to the hip: a cadaveric study.",
+        "Abstract": "The direct lateral approach to the hip is one of the most commonly used surgical approaches for hip arthroplasty. The inferior division of the superior gluteal nerve (SGN) is the main nerve supply to the abductor muscles of the hip and may be damaged during this approach. The exact incidence of permanent damage to the SGN is not known. The present study is based on cadaveric dissection of the SGN after a surgical approach to the hip joint for hip arthroplasty. The inferior division of the SGN was found to be damaged in 3 (6.8%) of 44 cases. We conclude that a true \"safe zone\" does not exist when using a direct lateral approach. We also found out that the incidence of physical damage to the SGN is rare and depends largely on the branching pattern of the nerve.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Arthroplasty",
+            "Cadaver",
+            "Hip",
+            "Humans",
+            "Peripheral Nerve Injuries"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tahir",
+                "Last Name": "Khan",
+                "Affiliation": "Central Manchester and Manchester Children's University Hospital, United Kingdom."
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of arthroplasty",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "19547599",
+        "Title": "Automatic channel unmixing for high-throughput quantitative analysis of fluorescence images.",
+        "Abstract": "Laser-scanning microscopy allows rapid acquisition of multi-channel data, paving the way for high-throughput, high-content analysis of large numbers of images. An inherent problem of using multiple fluorescent dyes is overlapping emission spectra, which results in channel cross-talk and reduces the ability to extract quantitative measurements. Traditional unmixing methods rely on measuring channel cross-talk and using fixed acquisition parameters, but these requirements are not suited to high-throughput processing. Here we present a simple automatic method to correct for channel cross-talk in multi-channel images using image data only. The method is independent of the acquisition parameters but requires some spatial separation between different dyes in the image. We evaluate the method by comparing the cross-talk levels it estimates to those measured directly from a standard fluorescent slide. The method is then applied to a high-throughput analysis pipeline that measures nuclear volumes and relative expression of gene products from three-dimensional, multi-channel fluorescence images of whole Drosophila embryos. Analysis of images before unmixing revealed an aberrant spatial correlation between measured nuclear volumes and the gene expression pattern in the shorter wavelength channel. Applying the unmixing algorithm before performing these analyses removed this correlation.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Cris L",
+                "Last Name": "Luengo Hendriks",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Soile V",
+                "Last Name": "Keränen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark D",
+                "Last Name": "Biggin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David W",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Optics express",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17634093",
+        "Title": "Phenotype clustering of breast epithelial cells in confocal images based on nuclear protein distribution analysis.",
+        "Abstract": "The distribution of chromatin-associated proteins plays a key role in directing nuclear function. Previously, we developed an image-based method to quantify the nuclear distributions of proteins and showed that these distributions depended on the phenotype of human mammary epithelial cells. Here we describe a method that creates a hierarchical tree of the given cell phenotypes and calculates the statistical significance between them, based on the clustering analysis of nuclear protein distributions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Breast",
+            "Breast Neoplasms",
+            "Cell Line",
+            "Cluster Analysis",
+            "Epithelial Cells",
+            "Female",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Imaging, Three-Dimensional",
+            "Microscopy, Confocal",
+            "Models, Statistical",
+            "Nuclear Proteins",
+            "Phenotype"
+        ],
+        "Authors": [
+            {
+                "First Name": "Fuhui",
+                "Last Name": "Long",
+                "Affiliation": "Life Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA. longf@janelia.hhmi.org"
+            },
+            {
+                "First Name": "Hanchuan",
+                "Last Name": "Peng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Damir",
+                "Last Name": "Sudar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sophie A",
+                "Last Name": "Lelièvre",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David W",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BMC cell biology",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17405811",
+        "Title": "The control of tissue architecture over nuclear organization is crucial for epithelial cell fate.",
+        "Abstract": "The remodeling of nuclear organization during differentiation and the dramatic alteration of nuclear organization associated with cancer development are well documented. However, the importance of tissue architecture in the control of nuclear organization remains to be determined. Differentiation of mammary epithelial cells into functional tissue structures, in three-dimensional culture, is characterized by a specific tissue architecture (i.e. a basoapical polarity axis), cell cycle exit and maintenance of cell survival. Here we show that induction of partial differentiation (i.e. basal polarity only, cell cycle exit and cell survival) by epigenetic mechanisms in malignant breast cells is sufficient to restore features of differentiation-specific nuclear organization, including perinucleolar heterochromatin, large splicing factor speckles, and distinct nuclear mitotic apparatus protein (NuMA) foci. Upon alteration of nuclear organization using an antibody against NuMA, differentiated non-neoplastic cells undergo apoptosis, whereas partially differentiated malignant cells enter the cell cycle. Non-neoplastic cells cultured under conditions that prevent the establishment of apical polarity also enter the cell cycle upon NuMA antibody treatment. These findings demonstrate that the differentiation status rather than the non-neoplastic or neoplastic origin of cells controls nuclear organization and suggest a link between nuclear organization and epigenetic mechanisms dictated by tissue architecture for the control of cell behavior.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Antigens, Neoplasm",
+            "Antigens, Nuclear",
+            "Apoptosis",
+            "Cell Culture Techniques",
+            "Cell Cycle",
+            "Cell Cycle Proteins",
+            "Cell Differentiation",
+            "Cell Line",
+            "Cell Line, Tumor",
+            "Cell Nucleus",
+            "Cell Polarity",
+            "Chromones",
+            "Collagen Type IV",
+            "Enzyme Inhibitors",
+            "Epigenesis, Genetic",
+            "Epithelial Cells",
+            "ErbB Receptors",
+            "Histones",
+            "Humans",
+            "Integrin alpha6",
+            "Ki-67 Antigen",
+            "Membrane Proteins",
+            "Morpholines",
+            "Mucin-1",
+            "Mucins",
+            "Neoplasm Proteins",
+            "Nuclear Matrix-Associated Proteins",
+            "Nuclear Proteins",
+            "Phosphoproteins",
+            "Promyelocytic Leukemia Protein",
+            "Quinazolines",
+            "RNA, Small Interfering",
+            "Transcription Factors",
+            "Tumor Suppressor Proteins",
+            "Tyrphostins",
+            "Zonula Occludens-1 Protein",
+            "beta Catenin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gurushankar",
+                "Last Name": "Chandramouly",
+                "Affiliation": "Department of Basic Medical Sciences and Cancer Center, Purdue University, 625 Harrison Street, West Lafayette, IN 47907-2026, USA."
+            },
+            {
+                "First Name": "Patricia C",
+                "Last Name": "Abad",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David W",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sophie A",
+                "Last Name": "Lelièvre",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of cell science",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17184546",
+        "Title": "Three-dimensional morphology and gene expression in the Drosophila blastoderm at cellular resolution I: data acquisition pipeline.",
+        "Abstract": "To model and thoroughly understand animal transcription networks, it is essential to derive accurate spatial and temporal descriptions of developing gene expression patterns with cellular resolution.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Base Sequence",
+            "Blastoderm",
+            "DNA Primers",
+            "Drosophila melanogaster",
+            "Fluorescent Dyes",
+            "Gene Expression",
+            "RNA, Messenger"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cris L",
+                "Last Name": "Luengo Hendriks",
+                "Affiliation": "Berkeley Drosophila Transcription Network Project, Life Sciences Division, Lawrence Berkeley National Laboratory, One Cyclotron Road, Berkeley, CA 94720, USA."
+            },
+            {
+                "First Name": "Soile V E",
+                "Last Name": "Keränen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Charless C",
+                "Last Name": "Fowlkes",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lisa",
+                "Last Name": "Simirenko",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gunther H",
+                "Last Name": "Weber",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Angela H",
+                "Last Name": "DePace",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Clara",
+                "Last Name": "Henriquez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David W",
+                "Last Name": "Kaszuba",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Bernd",
+                "Last Name": "Hamann",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael B",
+                "Last Name": "Eisen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jitendra",
+                "Last Name": "Malik",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Damir",
+                "Last Name": "Sudar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark D",
+                "Last Name": "Biggin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David W",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genome biology",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16720694",
+        "Title": "High rate of recent intron gain and loss in simultaneously duplicated Arabidopsis genes.",
+        "Abstract": "We examined the gene structure of a set of 2563 Arabidopsis thaliana paralogous pairs that were duplicated simultaneously 20-60 MYA by tetraploidy. Out of a total of 23,164 introns in these genes, we found that 10,004 pairs have been conserved and 578 introns have been inserted or deleted in the time since the duplication event. This intron insertion/deletion rate of 2.7 x 10(-3) to 9.1 x 10(-4) per site per million years is high in comparison to previous studies. At least 56 introns were gained and 39 lost based on parsimony analysis of the phylogenetic distribution of these introns. We found weak evidence that genes undergoing intron gain and loss are biased with respect to gene ontology terms. Gene pairs that experienced at least 2 intron insertions or deletions show evidence of enrichment for membrane location and transport and transporter activity function. We do not find any relationship of intron flux to expression level or G + C content of the gene. Detection of a bias in the location of intron gains and losses within a gene depends on the method of measurement: an intragene method indicates that events (specifically intron losses) are biased toward the 3' end of the gene. Despite the relatively recent acquisition of these introns, we found only one case where we could identify the mechanism of intron origin--the TOUCH3 gene has experienced 2 tandem, partial, internal gene duplications that duplicated a preexisting intron and also created a novel, alternatively spliced intron that makes use of a duplicated pair of cryptic splice sites.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Arabidopsis",
+            "Base Sequence",
+            "DNA, Plant",
+            "Evolution, Molecular",
+            "Gene Duplication",
+            "Genes, Plant",
+            "Introns",
+            "Molecular Sequence Data",
+            "Phylogeny",
+            "RNA Splice Sites",
+            "Sequence Homology, Amino Acid"
+        ],
+        "Authors": [
+            {
+                "First Name": "David G",
+                "Last Name": "Knowles",
+                "Affiliation": "Smurfit Institute of Genetics, University of Dublin, Trinity College, Dublin, Ireland."
+            },
+            {
+                "First Name": "Aoife",
+                "Last Name": "McLysaght",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular biology and evolution",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16537359",
+        "Title": "Automated local bright feature image analysis of nuclear protein distribution identifies changes in tissue phenotype.",
+        "Abstract": "The organization of nuclear proteins is linked to cell and tissue phenotypes. When cells arrest proliferation, undergo apoptosis, or differentiate, distribution of nuclear proteins changes. Conversely, forced alteration of the distribution of nuclear proteins modifies cell phenotype. Immunostaining and fluorescence microscopy have been critical for such findings. However, there is increasing need for quantitative analysis of nuclear protein distribution to decipher epigenetic relationships between nuclear structure and cell phenotype and to unravel the mechanisms linking nuclear structure and function. We have developed imaging methods to quantify the distribution of fluorescently stained nuclear protein NuMA in different mammary phenotypes obtained using 3D cell culture. Automated image segmentation of DAPI-stained nuclei was generated to isolate thousands of nuclei from 3D confocal images. Prominent features of fluorescently stained NuMA were detected by using a previously undescribed local bright feature analysis technique, and their normalized spatial density was calculated as a function of the distance from the nuclear perimeter to its center. The results revealed marked changes in the distribution of the density of NuMA bright features when nonneoplastic cells underwent phenotypically normal acinar morphogenesis. Conversely, we did not detect any reorganization of NuMA during formation of tumor nodules by malignant cells. Importantly, the analysis also discriminated proliferating nonneoplastic from proliferating malignant cells, suggesting that these imaging methods are capable of identifying alterations linked not only to the proliferation status but also to the malignant character of cells. We believe that this quantitative analysis will have additional applications for classifying normal and pathological tissues.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Antigens, Nuclear",
+            "Breast",
+            "Breast Neoplasms",
+            "Cell Cycle Proteins",
+            "Cell Proliferation",
+            "Female",
+            "Humans",
+            "Microscopy, Confocal",
+            "Microscopy, Fluorescence",
+            "Nuclear Matrix-Associated Proteins",
+            "Phenotype",
+            "Tumor Cells, Cultured"
+        ],
+        "Authors": [
+            {
+                "First Name": "David W",
+                "Last Name": "Knowles",
+                "Affiliation": "Biophysics and Cancer Biology Departments, Life Sciences Division, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA 94720, USA. dwknowles@lbl.gov"
+            },
+            {
+                "First Name": "Damir",
+                "Last Name": "Sudar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carol",
+                "Last Name": "Bator-Kelly",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mina J",
+                "Last Name": "Bissell",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sophie A",
+                "Last Name": "Lelièvre",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "15300252",
+        "Title": "In situ analyses of genome instability in breast cancer.",
+        "Abstract": "Transition through telomere crisis is thought to be a crucial event in the development of most breast carcinomas. Our goal in this study was to determine where this occurs in the context of histologically defined breast cancer progression. To this end, we assessed genome instability (using fluorescence in situ hybridization) and other features associated with telomere crisis in normal ductal epithelium, usual ductal hyperplasia, ductal carcinoma in situ and invasive cancer. We modeled this process in vitro by measuring these same features in human mammary epithelial cell cultures during ZNF217-mediated transition through telomere crisis and immortalization. Taken together, the data suggest that transition through telomere crisis and immortalization in breast cancer occurs during progression from usual ductal hyperplasia to ductal carcinoma in situ.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Breast Neoplasms",
+            "Carcinoma, Ductal, Breast",
+            "Carcinoma, Intraductal, Noninfiltrating",
+            "Chromosomal Instability",
+            "Disease Progression",
+            "Humans",
+            "Hyperplasia",
+            "In Situ Hybridization",
+            "Telomere",
+            "Tumor Cells, Cultured",
+            "Ultrasonography"
+        ],
+        "Authors": [
+            {
+                "First Name": "Koei",
+                "Last Name": "Chin",
+                "Affiliation": "Department of Laboratory Medicine and Comprehensive Cancer Center, University of California San Francisco, California, USA."
+            },
+            {
+                "First Name": "Carlos Ortiz",
+                "Last Name": "de Solorzano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Arthur",
+                "Last Name": "Jones",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "William",
+                "Last Name": "Chou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Enrique Garcia",
+                "Last Name": "Rodriguez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Wen-Lin",
+                "Last Name": "Kuo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Britt-Marie",
+                "Last Name": "Ljung",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Karen",
+                "Last Name": "Chew",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kenneth",
+                "Last Name": "Myambo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Monica",
+                "Last Name": "Miranda",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sheryl",
+                "Last Name": "Krig",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "James",
+                "Last Name": "Garbe",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Martha",
+                "Last Name": "Stampfer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Paul",
+                "Last Name": "Yaswen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Joe W",
+                "Last Name": "Gray",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Stephen J",
+                "Last Name": "Lockett",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature genetics",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "12324250",
+        "Title": "The bacterial ribosome, a promising focus for structure-based drug design.",
+        "Abstract": "Recent crystal structures of the bacterial ribosome have identified the complex molecular interactions involved in antibiotic-ribosome recognition. Insights into the binding of aminoglycosides, macrolides, tetracyclines and other antibiotics provide opportunities for computational, structure-based approaches to be used in the design of appropriate modifications to existing antibiotics as well as in the discovery of completely new drug classes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Anti-Bacterial Agents",
+            "Bacteria",
+            "Computational Biology",
+            "Drug Design",
+            "Ribosomes"
+        ],
+        "Authors": [
+            {
+                "First Name": "David J C",
+                "Last Name": "Knowles",
+                "Affiliation": "RiboTargets, Granta Park, Abington, Cambridge, UK. dknowles@ribotargets.com"
+            },
+            {
+                "First Name": "Nicolas",
+                "Last Name": "Foloppe",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Natalia B",
+                "Last Name": "Matassova",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alastair I H",
+                "Last Name": "Murchie",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current opinion in pharmacology",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "11944822",
+        "Title": "Inhibitors of protein farnesyltransferase as novel anticancer agents.",
+        "Abstract": "This paper describes recent progress in the design, synthesis and biological evaluation of inhibitors for the enzyme protein farnesyltransferase (PFTase). This enzyme plays a critical role in the post-translational modification of a range of different intracellular proteins. In particular, PFTase attaches a farnesyl group to the GTPase Ras whose oncogenically mutated form is found in over 30% of human cancers. As a result PFTase inhibitors have been developed as potential cancer therapeutic drugs either by rational design based on the structure of the CAAX carboxyl terminus of Ras or random screening of chemical libraries or natural products. Some of these inhibitors show remarkable inhibition potency against PFTase at subnanomolar concentrations and >1000-fold selectivity compared to the related enzyme geranylgeranyltransferase-I. Certain of these compounds are highly effective at blocking the growth of human tumors in animal models and are now undergoing clinical trials. However, several issues in the research remain unsolved, including the mechanism by which PFTase inhibitors suppress tumor growth. Although it has been established that PFTase inhibitors block prenylation of Ras in vitro, the results in wholecells and animal studies suggest the possibility that proteins other than Ras are affected.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alkyl and Aryl Transferases",
+            "Animals",
+            "Antineoplastic Agents",
+            "Clinical Trials as Topic",
+            "Enzyme Inhibitors",
+            "Farnesyltranstransferase",
+            "Humans",
+            "Molecular Structure",
+            "Structure-Activity Relationship"
+        ],
+        "Authors": [
+            {
+                "First Name": "Junko",
+                "Last Name": "Ohkanda",
+                "Affiliation": "Department of Chemistry, Yale University, New Haven, CT 06520-8107, USA."
+            },
+            {
+                "First Name": "David B",
+                "Last Name": "Knowles",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michelle A",
+                "Last Name": "Blaskovich",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Said M",
+                "Last Name": "Sebti",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew D",
+                "Last Name": "Hamilton",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current topics in medicinal chemistry",
+        "PubDate": "2002"
+    }
+]

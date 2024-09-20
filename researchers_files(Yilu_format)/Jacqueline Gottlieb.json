@@ -1,25 +1,44 @@
 [
     {
         "PMID": "38969505",
-        "Title": "Neural Representations of Sensory Uncertainty and Confidence are Associated with Perceptual Curiosity.",
-        "Abstract": "Humans are immensely curious and motivated to reduce uncertainty, but little is known about the neural mechanisms that generate curiosity. Curiosity is inversely associated with confidence, suggesting that it is triggered by states of low confidence (subjective uncertainty). The neural mechanisms of this process, however, have been little investigated. What are the mechanisms through which uncertainty about an event gives rise to curiosity about that event? Inspired by studies of sensory uncertainty, we hypothesized that visual areas provide multivariate representations of uncertainty, which are then read out by higher-order structures to generate signals of confidence and, ultimately, trigger curiosity. During fMRI, participants (17 female, 15 male) performed a new task in which they rated their confidence in identifying distorted images of animals and objects and their curiosity to see the clear image. To link sensory certainty and curiosity, we measured the activity evoked by each image in occipitotemporal cortex (OTC) and devised a new metric of \"OTC Certainty\" indicating the strength of evidence this activity conveys about the animal vs. object categories. We show that, consistent with findings using trivia questions, perceptual curiosity peaked at low confidence. Moreover, OTC Certainty negatively correlated with curiosity, establishing a link between curiosity and a multivariate representation of sensory uncertainty. Finally, univariate (average) activity in two frontal areas - vmPFC and ACC - correlated positively with confidence and negatively with curiosity, and the vmPFC mediated the relationship between OTC Certainty and curiosity. The results suggest that multiple mechanisms link curiosity with representations of confidence and uncertainty.",
-        "Keywords": [],
-        "MeSH terms": [],
+        "Title": "Neural Representations of Sensory Uncertainty and Confidence Are Associated with Perceptual Curiosity.",
+        "Abstract": "Humans are immensely curious and motivated to reduce uncertainty, but little is known about the neural mechanisms that generate curiosity. Curiosity is inversely associated with confidence, suggesting that it is triggered by states of low confidence (subjective uncertainty), but the neural mechanisms of this link, have been little investigated. Inspired by studies of sensory uncertainty, we hypothesized that visual areas provide multivariate representations of uncertainty, which are read out by higher-order structures to generate signals of confidence and, ultimately, curiosity. We scanned participants (17 female, 15 male) using fMRI while they performed a new task in which they rated their confidence in identifying distorted images of animals and objects and their curiosity to see the clear image. We measured the activity evoked by each image in the occipitotemporal cortex (OTC) and devised a new metric of \"OTC Certainty\" indicating the strength of evidence this activity conveys about the animal versus object categories. We show that, perceptual curiosity peaked at low confidence and OTC Certainty negatively correlated with curiosity, establishing a link between curiosity and a multivariate representation of sensory uncertainty. Moreover, univariate (average) activity in two frontal areas-vmPFC and ACC-correlated positively with confidence and negatively with curiosity, and the vmPFC mediated the relationship between OTC Certainty and curiosity. The results reveal novel mechanisms through which uncertainty about an event generates curiosity about that event.",
+        "Keywords": [
+            "confidence",
+            "curiosity",
+            "information seeking",
+            "noninstrumental",
+            "uncertainty",
+            "visual cortex"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Male",
+            "Female",
+            "Uncertainty",
+            "Exploratory Behavior",
+            "Adult",
+            "Magnetic Resonance Imaging",
+            "Young Adult",
+            "Brain Mapping",
+            "Photic Stimulation",
+            "Visual Perception"
+        ],
         "Authors": [
             {
                 "First Name": "Michael",
                 "Last Name": "Cohanpour",
-                "Affiliation": "Department of Neuroscience, Columbia University."
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York 10025 mcohanpour@gmail.com ma3631@columbia.edu jg2141@columbia.edu."
             },
             {
                 "First Name": "Mariam",
                 "Last Name": "Aly",
-                "Affiliation": "Department of Psychology, Columbia University."
+                "Affiliation": "Department of Psychology, Columbia University, New York, New York 10025 mcohanpour@gmail.com ma3631@columbia.edu jg2141@columbia.edu."
             },
             {
                 "First Name": "Jacqueline",
                 "Last Name": "Gottlieb",
-                "Affiliation": "Department of Neuroscience, Columbia University."
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, New York 10025 mcohanpour@gmail.com ma3631@columbia.edu jg2141@columbia.edu."
             }
         ],
         "Journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",

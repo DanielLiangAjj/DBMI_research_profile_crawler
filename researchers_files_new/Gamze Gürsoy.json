@@ -1,0 +1,1598 @@
+[
+    {
+        "PMID": "38936565",
+        "Title": "Privacy-preserving model evaluation for logistic and linear regression using homomorphically encrypted genotype data.",
+        "Abstract": "Linear and logistic regression are widely used statistical techniques in population genetics for analyzing genetic data and uncovering patterns and associations in large genetic datasets, such as identifying genetic variations linked to specific diseases or traits. However, obtaining statistically significant results from these studies requires large amounts of sensitive genotype and phenotype information from thousands of patients, which raises privacy concerns. Although cryptographic techniques such as homomorphic encryption offers a potential solution to the privacy concerns as it allows computations on encrypted data, previous methods leveraging homomorphic encryption have not addressed the confidentiality of shared models, which can leak information about the training data.",
+        "Keywords": [
+            "Genotype–phenotype association",
+            "Homomorphic encryption",
+            "Privacy-enhancing technologies"
+        ],
+        "MeSH terms": [
+            "Computer Security",
+            "Logistic Models",
+            "Humans",
+            "Linear Models",
+            "Genotype",
+            "Phenotype",
+            "Confidentiality",
+            "Privacy",
+            "Algorithms",
+            "Databases, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Seungwan",
+                "Last Name": "Hong",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA; New York Genome Center, New York, NY 10013, USA."
+            },
+            {
+                "First Name": "Yoolim A",
+                "Last Name": "Choi",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA; New York Genome Center, New York, NY 10013, USA."
+            },
+            {
+                "First Name": "Daniel S",
+                "Last Name": "Joo",
+                "Affiliation": "New York Genome Center, New York, NY 10013, USA; Department of Computer Science, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA; New York Genome Center, New York, NY 10013, USA; Department of Computer Science, Columbia University, New York, NY 10032, USA. Electronic address: gamze.gursoy@columbia.edu."
+            }
+        ],
+        "Journal": "Journal of biomedical informatics",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38695012",
+        "Title": "Ultra-secure storage and analysis of genetic data for the advancement of precision medicine.",
+        "Abstract": "Cloud computing provides the opportunity to store the ever-growing genotype-phenotype data sets needed to achieve the full potential of precision medicine. However, due to the sensitive nature of this data and the patchwork of data privacy laws across states and countries, additional security protections are proving necessary to ensure data privacy and security. Here we present SQUiD, a ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jacob",
+                "Last Name": "Blindenbach",
+                "Affiliation": "Department of Computer Science, Columbia University."
+            },
+            {
+                "First Name": "Jiayi",
+                "Last Name": "Kang",
+                "Affiliation": "COSIC, KU Leuven."
+            },
+            {
+                "First Name": "Seungwan",
+                "Last Name": "Hong",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University."
+            },
+            {
+                "First Name": "Caline",
+                "Last Name": "Karam",
+                "Affiliation": "New York Genome Center."
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Lehner",
+                "Affiliation": "New York Genome Center."
+            },
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "38389717",
+        "Title": "A generalizable physiological model for detection of Delayed Cerebral Ischemia using Federated Learning.",
+        "Abstract": "Delayed cerebral ischemia (DCI) is a complication seen in patients with subarachnoid hemorrhage stroke. It is a major predictor of poor outcomes and is detected late. Machine learning models are shown to be useful for early detection, however training such models suffers from small sample sizes due to rarity of the condition. Here we propose a Federated Learning approach to train a DCI classifier across three institutions to overcome challenges of sharing data across hospitals. We developed a framework for federated feature selection and built a federated ensemble classifier. We compared the performance of FL model to that obtained by training separate models at each site. FL significantly improved performance at only two sites. We found that this was due to feature distribution differences across sites. FL improves performance in sites with similar feature distributions, however, FL can worsen performance in sites with heterogeneous distributions. The results highlight both the benefit of FL and the need to assess dataset distribution similarity before conducting FL.",
+        "Keywords": [
+            "Federated Learning",
+            "Stroke"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Ahmed",
+                "Last Name": "Elhussein",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York Genome Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Murad",
+                "Last Name": "Megjhani",
+                "Affiliation": "Department of Neurology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Nametz",
+                "Affiliation": "Department of Neurology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Miriam",
+                "Last Name": "Weiss",
+                "Affiliation": "Department of Neurosurgery, RWTH Aachen University, Aachen, Germany."
+            },
+            {
+                "First Name": "Jude",
+                "Last Name": "Savarraj",
+                "Affiliation": "Department of Neurology, UT Health, Houston, TX, USA."
+            },
+            {
+                "First Name": "Soon Bin",
+                "Last Name": "Kwon",
+                "Affiliation": "Department of Neurology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "David J",
+                "Last Name": "Roh",
+                "Affiliation": "Department of Neurology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Sachin",
+                "Last Name": "Agarwal",
+                "Affiliation": "Department of Neurology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "E",
+                "Last Name": "Sander Connolly",
+                "Affiliation": "Department of Neurology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Angela",
+                "Last Name": "Velazquez",
+                "Affiliation": "Department of Neurology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Jan",
+                "Last Name": "Claassen",
+                "Affiliation": "Department of Neurology, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Huimahn A",
+                "Last Name": "Choi",
+                "Affiliation": "Department of Neurosurgery, RWTH Aachen University, Aachen, Germany."
+            },
+            {
+                "First Name": "Gerrit A",
+                "Last Name": "Schubert",
+                "Affiliation": "Department of Neurosurgery, Kantonsspital, Aarau, Switzerland."
+            },
+            {
+                "First Name": "Soojin",
+                "Last Name": "Park",
+                "Affiliation": "Department of Neurology, Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Department of Biomedical Informatics, Department of Computer Science, Columbia University, New York Genome Center, New York, NY, USA."
+            }
+        ],
+        "Journal": "Proceedings. IEEE International Conference on Bioinformatics and Biomedicine",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "38097386",
+        "Title": "Assessing and mitigating privacy risks of sparse, noisy genotypes by local alignment to haplotype databases.",
+        "Abstract": "Single nucleotide polymorphisms (SNPs) from omics data create a reidentification risk for individuals and their relatives. Although the ability of thousands of SNPs (especially rare ones) to identify individuals has been repeatedly shown, the availability of small sets of noisy genotypes, from environmental DNA samples or functional genomics data, motivated us to quantify their informativeness. We present a computational tool suite, termed Privacy Leakage by Inference across Genotypic HMM Trajectories (PLIGHT), using population-genetics-based hidden Markov models (HMMs) of recombination and mutation to find piecewise alignment of small, noisy SNP sets to reference haplotype databases. We explore cases in which query individuals are either known to be in the database, or not, and consider several genotype queries, including those from environmental sample swabs from known individuals and from simulated \"mosaics\" (two-individual composites). Using PLIGHT on a database with ∼5000 haplotypes, we find for common, noise-free SNPs that only ten are sufficient to identify individuals, ∼20 can identify both components in two-individual mosaics, and 20-30 can identify first-order relatives. Using noisy environmental-sample-derived SNPs, PLIGHT identifies individuals in a database using ∼30 SNPs. Even when the individuals are not in the database, local genotype matches allow for some phenotypic information leakage based on coarse-grained SNP imputation. Finally, by quantifying privacy leakage from sparse SNP sets, PLIGHT helps determine the value of selectively sanitizing released SNPs without explicit assumptions about population membership or allele frequency. To make this practical, we provide a sanitization tool to remove the most identifying SNPs from genomic data.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Polymorphism, Single Nucleotide",
+            "Haplotypes",
+            "Humans",
+            "Genotype",
+            "Databases, Genetic",
+            "Markov Chains",
+            "Software",
+            "Genetic Privacy",
+            "Algorithms",
+            "Sequence Alignment",
+            "Genetics, Population"
+        ],
+        "Authors": [
+            {
+                "First Name": "Prashant S",
+                "Last Name": "Emani",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, Connecticut 06520, USA."
+            },
+            {
+                "First Name": "Maya N",
+                "Last Name": "Geradi",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, Connecticut 06520, USA."
+            },
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, Connecticut 06520, USA."
+            },
+            {
+                "First Name": "Monica R",
+                "Last Name": "Grasty",
+                "Affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, Connecticut 06520, USA."
+            },
+            {
+                "First Name": "Andrew",
+                "Last Name": "Miranker",
+                "Affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, Connecticut 06520, USA."
+            },
+            {
+                "First Name": "Mark B",
+                "Last Name": "Gerstein",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, Connecticut 06520, USA; mark@gersteinlab.org."
+            }
+        ],
+        "Journal": "Genome research",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36794924",
+        "Title": "LDmat: efficiently queryable compression of linkage disequilibrium matrices.",
+        "Abstract": "Linkage disequilibrium (LD) matrices derived from large populations are widely used in population genetics in fine-mapping, LD score regression, and linear mixed models for Genome-wide Association Studies (GWAS). However, these matrices can reach large sizes when they are derived from millions of individuals; hence, moving, sharing and extracting granular information from this large amount of data can be cumbersome.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Linkage Disequilibrium",
+            "Software",
+            "Genome-Wide Association Study",
+            "Data Compression",
+            "Genome"
+        ],
+        "Authors": [
+            {
+                "First Name": "Rockwell J",
+                "Last Name": "Weiner",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Chirag",
+                "Last Name": "Lakhani",
+                "Affiliation": "New York Genome Center, New York, NY 10013, USA."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Knowles",
+                "Affiliation": "New York Genome Center, New York, NY 10013, USA."
+            },
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36717667",
+        "Title": "Privacy-preserving cancer type prediction with homomorphic encryption.",
+        "Abstract": "Cancer genomics tailors diagnosis and treatment based on an individual's genetic information and is the crux of precision medicine. However, analysis and maintenance of high volume of genetic mutation data to build a machine learning (ML) model to predict the cancer type is a computationally expensive task and is often outsourced to powerful cloud servers, raising critical privacy concerns for patients' data. Homomorphic encryption (HE) enables computation on encrypted data, thus, providing cryptographic guarantees to protect privacy. But restrictive overheads of encrypted computation deter its usage. In this work, we explore the challenges of privacy preserving cancer type prediction using a dataset consisting of more than 2 million genetic mutations from 2713 patients for several cancer types by building a highly accurate ML model and then implementing its privacy preserving version in HE. Our solution for cancer type inference encodes somatic mutations based on their impact on the cancer genomes into the feature space and then uses statistical tests for feature selection. We propose a fast matrix multiplication algorithm for HE-based model. Our final model achieves 0.98 micro-average area under curve improving accuracy from 70.08 to 83.61% , being 550 times faster than the standard matrix multiplication-based privacy-preserving models. Our tool can be found at https://github.com/momalab/octal-candet .",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Privacy",
+            "Computer Security",
+            "Algorithms",
+            "Genomics",
+            "Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Esha",
+                "Last Name": "Sarkar",
+                "Affiliation": "Tandon School of Engineering, New York University, Brooklyn, NY, 11201, USA. esha.sarkar@nyu.edu."
+            },
+            {
+                "First Name": "Eduardo",
+                "Last Name": "Chielle",
+                "Affiliation": "Center for Cyber Security, New York University Abu Dhabi, Abu Dhabi, 129188, UAE."
+            },
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gursoy",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT, 06520, USA."
+            },
+            {
+                "First Name": "Leo",
+                "Last Name": "Chen",
+                "Affiliation": "Department of Computer Science, Yale University, New Haven, CT, 06520, USA."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Gerstein",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT, 06520, USA."
+            },
+            {
+                "First Name": "Michail",
+                "Last Name": "Maniatakos",
+                "Affiliation": "Center for Cyber Security, New York University Abu Dhabi, Abu Dhabi, 129188, UAE."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36517591",
+        "Title": "Recurrent repeat expansions in human cancer genomes.",
+        "Abstract": "Expansion of a single repetitive DNA sequence, termed a tandem repeat (TR), is known to cause more than 50 diseases",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Base Sequence",
+            "DNA Repeat Expansion",
+            "Genome, Human",
+            "Neoplasms",
+            "Sequence Analysis, DNA",
+            "Gene Expression Regulation",
+            "Regulatory Elements, Transcriptional",
+            "Introns",
+            "Carcinoma, Renal Cell",
+            "Cell Proliferation",
+            "Reproducibility of Results"
+        ],
+        "Authors": [
+            {
+                "First Name": "Graham S",
+                "Last Name": "Erwin",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA. gerwin@stanford.edu."
+            },
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Rashid",
+                "Last Name": "Al-Abri",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Ashwini",
+                "Last Name": "Suriyaprakash",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Egor",
+                "Last Name": "Dolzhenko",
+                "Affiliation": "Illumina, Inc., San Diego, CA, USA."
+            },
+            {
+                "First Name": "Kevin",
+                "Last Name": "Zhu",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Christian R",
+                "Last Name": "Hoerner",
+                "Affiliation": "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Shannon M",
+                "Last Name": "White",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Lucia",
+                "Last Name": "Ramirez",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Ananya",
+                "Last Name": "Vadlakonda",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Alekhya",
+                "Last Name": "Vadlakonda",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Konor",
+                "Last Name": "von Kraut",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Julia",
+                "Last Name": "Park",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Charlotte M",
+                "Last Name": "Brannon",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Daniel A",
+                "Last Name": "Sumano",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Raushun A",
+                "Last Name": "Kirtikar",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Alicia A",
+                "Last Name": "Erwin",
+                "Affiliation": "Data Science Program, Northwestern University, Chicago, IL, USA."
+            },
+            {
+                "First Name": "Thomas J",
+                "Last Name": "Metzner",
+                "Affiliation": "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Ryan K C",
+                "Last Name": "Yuen",
+                "Affiliation": "Genetics and Genome Biology, The Hospital for Sick Children, Toronto, Ontario, Canada."
+            },
+            {
+                "First Name": "Alice C",
+                "Last Name": "Fan",
+                "Affiliation": "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA."
+            },
+            {
+                "First Name": "John T",
+                "Last Name": "Leppert",
+                "Affiliation": "Department of Urology, Stanford University School of Medicine, Stanford, CA, USA."
+            },
+            {
+                "First Name": "Michael A",
+                "Last Name": "Eberle",
+                "Affiliation": "Illumina, Inc., San Diego, CA, USA."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Gerstein",
+                "Affiliation": "Computational Biology and Bioinformatics Program, Yale University, New Haven, CT, USA. mark@gersteinlab.org."
+            },
+            {
+                "First Name": "Michael P",
+                "Last Name": "Snyder",
+                "Affiliation": "Department of Genetics, Stanford University, Stanford, CA, USA. mpsnyder@stanford.edu."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36086138",
+        "Title": "Privacy-preserving Model Training for Disease Prediction Using Federated Learning with Differential Privacy.",
+        "Abstract": "Machine learning is playing an increasingly critical role in health science with its capability of inferring valuable information from high-dimensional data. More training data provides greater statistical power to generate better models that can help decision-making in healthcare. However, this often requires combining research and patient data across institutions and hospitals, which is not always possible due to privacy considerations. In this paper, we outline a simple federated learning algorithm implementing differential privacy to ensure privacy when training a machine learning model on data spread across different institutions. We tested our model by predicting breast cancer status from gene expression data. Our model achieves a similar level of accuracy and precision as a single-site non-private neural network model when we enforce privacy. This result suggests that our algorithm is an effective method of implementing differential privacy with federated learning, and clinical data scientists can use our general framework to produce differentially private models on federated datasets. Our framework is available at https://github.com/gersteinlab/idash20FL.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Humans",
+            "Machine Learning",
+            "Privacy"
+        ],
+        "Authors": [
+            {
+                "First Name": "Amol",
+                "Last Name": "Khanna",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Vincent",
+                "Last Name": "Schaffer",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gursoy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Gerstein",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35765079",
+        "Title": "Storing and analyzing a genome on a blockchain.",
+        "Abstract": "There are major efforts underway to make genome sequencing a routine part of clinical practice. A critical barrier to these is achieving practical solutions for data ownership and integrity. Blockchain provides solutions to these challenges in other realms, such as finance. However, its use in genomics is stymied due to the difficulty in storing large-scale data on-chain, slow transaction speeds, and limitations on querying. To overcome these roadblocks, we developed a private blockchain network to store genomic variants and reference-aligned reads on-chain. It uses nested database indexing with an accompanying tool suite to rapidly access and analyze the data.",
+        "Keywords": [
+            "Blockchain",
+            "Blockchain database",
+            "Multichain",
+            "Personal genome"
+        ],
+        "MeSH terms": [
+            "Blockchain",
+            "Genome",
+            "Genomics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, Whitney Avenue, New Haven, CT, 06520, USA."
+            },
+            {
+                "First Name": "Charlotte M",
+                "Last Name": "Brannon",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, Whitney Avenue, New Haven, CT, 06520, USA."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Ni",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, Whitney Avenue, New Haven, CT, 06520, USA."
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Wagner",
+                "Affiliation": "Department of Computer Science, Yale University, Prospect Street, New Haven, CT, 06520, USA."
+            },
+            {
+                "First Name": "Amol",
+                "Last Name": "Khanna",
+                "Affiliation": "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Gerstein",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, Whitney Avenue, New Haven, CT, 06520, USA. mark@gersteinlab.org."
+            }
+        ],
+        "Journal": "Genome biology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "35508070",
+        "Title": "Genome Privacy and Trust.",
+        "Abstract": "Genomics data are important for advancing biomedical research, improving clinical care, and informing other disciplines such as forensics and genealogy. However, privacy concerns arise when genomic data are shared. In particular, the identifying nature of genetic information, its direct relationship to health status, and the potential financial harm and stigmatization posed to individuals and their blood relatives call for a survey of the privacy issues related to sharing genetic and related data and potential solutions to overcome these issues. In this work, we provide an overview of the importance of genomic privacy, the information gleaned from genomics data, the sources of potential private information leakages in genomics, and ways to preserve privacy while utilizing the genetic information in research. We discuss the relationship between trust in the scientific community and protecting privacy, illuminating a future roadmap for data sharing and study participation.",
+        "Keywords": [
+            "cryptography",
+            "data sharing",
+            "genome privacy",
+            "information leakage"
+        ],
+        "MeSH terms": [
+            "Genome",
+            "Genomics",
+            "Humans",
+            "Information Dissemination",
+            "Privacy",
+            "Trust"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Department of Biomedical Informatics, Columbia University, New York, NY, USA; email: gamze.gursoy@columbia.edu."
+            }
+        ],
+        "Journal": "Annual review of biomedical data science",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34883234",
+        "Title": "Do antimicrobial stewardship programs improve the quality of care in ICU patients diagnosed with infectious diseases following consultation? Experience in a tertiary care hospital.",
+        "Abstract": "One of the most important public health concerns is the ever-growing problem of antibiotic resistance. Importantly, the rate of introduction of new molecules into clinical practice has slowed down considerably. Moreover, the rapid emergence of resistance shortens the effective 'lifespan' of these molecules.",
+        "Keywords": [
+            "VAP",
+            "antimicrobial stewardship program",
+            "infectious diseases consultation",
+            "sepsis"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Anti-Bacterial Agents",
+            "Antimicrobial Stewardship",
+            "Communicable Diseases",
+            "Humans",
+            "Intensive Care Units",
+            "Referral and Consultation",
+            "Tertiary Care Centers"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gursoy",
+                "Affiliation": "Hacettepe University Faculty of Medicine, Department of Infectious Diseases and Clinical Microbiology, Hacettepe, A. Adnan Saygun Street, 06230 Altındag/Ankara. Electronic address: gamzegursoy@hacettepe.edu.tr."
+            },
+            {
+                "First Name": "Omrum",
+                "Last Name": "Uzun",
+                "Affiliation": "Hacettepe University Faculty of Medicine, Department of Infectious Diseases and Clinical Microbiology, Hacettepe, A. Adnan Saygun Street, 06230 Altındag/Ankara."
+            },
+            {
+                "First Name": "Gokhan",
+                "Last Name": "Metan",
+                "Affiliation": "Hacettepe University Faculty of Medicine, Department of Infectious Diseases and Clinical Microbiology, Hacettepe, A. Adnan Saygun Street, 06230 Altındag/Ankara."
+            },
+            {
+                "First Name": "Mehmet",
+                "Last Name": "Yildirim",
+                "Affiliation": "Hacettepe University Faculty of Medicine, Department of Internal Medicine, Section of Intensive Care Medicine."
+            },
+            {
+                "First Name": "Melda",
+                "Last Name": "Bahap",
+                "Affiliation": "Hacettepe University Faculty of Pharmacy, Department of Clinical Pharmacy."
+            },
+            {
+                "First Name": "Salih Kutay",
+                "Last Name": "Demirkan",
+                "Affiliation": "Hacettepe University Faculty of Pharmacy, Department of Clinical Pharmacy."
+            },
+            {
+                "First Name": "Arzu",
+                "Last Name": "Topeli",
+                "Affiliation": "Hacettepe University Faculty of Medicine, Department of Internal Medicine, Section of Intensive Care Medicine."
+            },
+            {
+                "First Name": "Seda Banu",
+                "Last Name": "Akinci",
+                "Affiliation": "Hacettepe University Faculty of Medicine, Department of Anesthesiology and Reanimation, Section of Intensive Care Medicine."
+            },
+            {
+                "First Name": "Mehmet Akif",
+                "Last Name": "Topcuoglu",
+                "Affiliation": "Hacettepe University Faculty of Medicine, Department of Neurology, Section of Intensive Care Medicine."
+            },
+            {
+                "First Name": "Mustafa",
+                "Last Name": "Berker",
+                "Affiliation": "Hacettepe University Faculty of Medicine, Department of Neurosurgery, Section of Intensive Care Medicine."
+            },
+            {
+                "First Name": "Gulsen",
+                "Last Name": "Hazirolan",
+                "Affiliation": "Hacettepe University, Department of Medical Microbiology."
+            },
+            {
+                "First Name": "Murat",
+                "Last Name": "Akova",
+                "Affiliation": "Hacettepe University Faculty of Medicine, Department of Infectious Diseases and Clinical Microbiology, Hacettepe, A. Adnan Saygun Street, 06230 Altındag/Ankara."
+            },
+            {
+                "First Name": "Serhat",
+                "Last Name": "Unal",
+                "Affiliation": "Hacettepe University Faculty of Medicine, Department of Infectious Diseases and Clinical Microbiology, Hacettepe, A. Adnan Saygun Street, 06230 Altındag/Ankara."
+            }
+        ],
+        "Journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34811555",
+        "Title": "Author Correction: Functional genomics data: privacy risk assessment and technological mitigation.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Computational Biology and Bioinformatics Program, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Tianxiao",
+                "Last Name": "Li",
+                "Affiliation": "Computational Biology and Bioinformatics Program, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Susanna",
+                "Last Name": "Liu",
+                "Affiliation": "Molecular, Cellular, and Developmental Biology, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Ni",
+                "Affiliation": "Computational Biology and Bioinformatics Program, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Charlotte M",
+                "Last Name": "Brannon",
+                "Affiliation": "Computational Biology and Bioinformatics Program, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Mark B",
+                "Last Name": "Gerstein",
+                "Affiliation": "Computational Biology and Bioinformatics Program, Yale University, New Haven, CT, USA. mark@gersteinlab.org."
+            }
+        ],
+        "Journal": "Nature reviews. Genetics",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34759381",
+        "Title": "Functional genomics data: privacy risk assessment and technological mitigation.",
+        "Abstract": "The generation of functional genomics data by next-generation sequencing has increased greatly in the past decade. Broad sharing of these data is essential for research advancement but poses notable privacy challenges, some of which are analogous to those that occur when sharing genetic variant data. However, there are also unique privacy challenges that arise from cryptic information leakage during the processing and summarization of functional genomics data from raw reads to derived quantities, such as gene expression values. Here, we review these challenges and present potential solutions for mitigating privacy risks while allowing broad data dissemination and analysis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Genetic Privacy",
+            "Genomics",
+            "High-Throughput Nucleotide Sequencing",
+            "Privacy",
+            "Risk Assessment"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Computational Biology and Bioinformatics Program, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Tianxiao",
+                "Last Name": "Li",
+                "Affiliation": "Computational Biology and Bioinformatics Program, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Susanna",
+                "Last Name": "Liu",
+                "Affiliation": "Molecular, Cellular, and Developmental Biology, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Eric",
+                "Last Name": "Ni",
+                "Affiliation": "Computational Biology and Bioinformatics Program, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Charlotte M",
+                "Last Name": "Brannon",
+                "Affiliation": "Computational Biology and Bioinformatics Program, Yale University, New Haven, CT, USA."
+            },
+            {
+                "First Name": "Mark B",
+                "Last Name": "Gerstein",
+                "Affiliation": "Computational Biology and Bioinformatics Program, Yale University, New Haven, CT, USA. mark@gersteinlab.org."
+            }
+        ],
+        "Journal": "Nature reviews. Genetics",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34758288",
+        "Title": "Privacy-preserving genotype imputation with fully homomorphic encryption.",
+        "Abstract": "Genotype imputation is the inference of unknown genotypes using known population structure observed in large genomic datasets; it can further our understanding of phenotype-genotype relationships and is useful for QTL mapping and GWASs. However, the compute-intensive nature of genotype imputation can overwhelm local servers for computation and storage. Hence, many researchers are moving toward using cloud services, raising privacy concerns. We address these concerns by developing an efficient, privacy-preserving algorithm called p-Impute. Our method uses homomorphic encryption, allowing calculations on ciphertext, thereby avoiding the decryption of private genotypes in the cloud. It is similar to k-nearest neighbor approaches, inferring missing genotypes in a genomic block based on the SNP genotypes of genetically related individuals in the same block. Our results demonstrate accuracy in agreement with the state-of-the-art plaintext solutions. Moreover, p-Impute is scalable to real-world applications as its memory and time requirements increase linearly with the increasing number of samples. p-Impute is freely available for download here: https://doi.org/10.5281/zenodo.5542001.",
+        "Keywords": [
+            "genome privacy",
+            "genotype imputation",
+            "homomorphic encryption"
+        ],
+        "MeSH terms": [
+            "Cloud Computing",
+            "Computer Security",
+            "Genome-Wide Association Study",
+            "Genotype",
+            "Privacy"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT 06520, USA; Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA."
+            },
+            {
+                "First Name": "Eduardo",
+                "Last Name": "Chielle",
+                "Affiliation": "Department of Electrical and Computer Engineering, New York University Abu Dhabi, Saadiyat Island, Abu Dhabi, UAE."
+            },
+            {
+                "First Name": "Charlotte M",
+                "Last Name": "Brannon",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT 06520, USA; Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA."
+            },
+            {
+                "First Name": "Michail",
+                "Last Name": "Maniatakos",
+                "Affiliation": "Department of Electrical and Computer Engineering, New York University Abu Dhabi, Saadiyat Island, Abu Dhabi, UAE. Electronic address: michail.maniatakos@nyu.edu."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Gerstein",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT 06520, USA; Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA; Department of Computer Science, Yale University, New Haven, CT 06520, USA; Department of Statistics and Data Science, Yale University, New Haven, CT 06520, USA. Electronic address: mark@gersteinlab.org."
+            }
+        ],
+        "Journal": "Cell systems",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34493313",
+        "Title": "Recovering genotypes and phenotypes using allele-specific genes.",
+        "Abstract": "With the recent increase in RNA sequencing efforts using large cohorts of individuals, surveying allele-specific gene expression is becoming increasingly frequent. Here, we report that, despite not containing explicit variant information, a list of genes known to be allele-specific in an individual is enough to recover key variants and link the individuals back to their genotypes and phenotypes. This creates a privacy conundrum.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alleles",
+            "Genotype",
+            "Humans",
+            "Phenotype",
+            "Polymorphism, Single Nucleotide"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, USA."
+            },
+            {
+                "First Name": "Nancy",
+                "Last Name": "Lu",
+                "Affiliation": "Molecular, Cellular, and Developmental Biology, Yale University, New Haven, USA."
+            },
+            {
+                "First Name": "Sarah",
+                "Last Name": "Wagner",
+                "Affiliation": "Computer Science, Yale University, New Haven, USA."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Gerstein",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, USA. mark@gersteinlab.org."
+            }
+        ],
+        "Journal": "Genome biology",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "34476144",
+        "Title": "Fast and Scalable Private Genotype Imputation Using Machine Learning and Partially Homomorphic Encryption.",
+        "Abstract": "The recent advances in genome sequencing technologies provide unprecedented opportunities to understand the relationship between human genetic variation and diseases. However, genotyping whole genomes from a large cohort of individuals is still cost prohibitive. Imputation methods to predict genotypes of missing genetic variants are widely used, especially for genome-wide association studies. Accurate genotype imputation requires complex statistical methods. Due to the data and computing-intensive nature of the problem, imputation is increasingly outsourced, raising serious privacy concerns. In this work, we investigate solutions for fast, scalable, and accurate privacy-preserving genotype imputation using Machine Learning (ML) and a standardized homomorphic encryption scheme, Paillier cryptosystem. ML-based privacy-preserving inference has been largely optimized for computation-heavy non-linear functions in a single-output multi-class classification setting. However, having a large number of multi-class outputs per genome per individual calls for further optimizations and/or approximations specific to this application. Here we explore the effectiveness of linear models for genotype imputation to convert them to privacy-preserving equivalents using standardized homomorphic encryption schemes. Our results show that performance of our privacy-preserving genotype imputation method is equivalent to the state-of-the-art plaintext solutions, achieving up to 99% micro area under curve score, even on real-world large-scale datasets up to 80,000 targets.",
+        "Keywords": [
+            "Genotype imputation",
+            "machine learning",
+            "privacy-preserving computation"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Esha",
+                "Last Name": "Sarkar",
+                "Affiliation": "Tandon School of Engineering, New York University, New York, NY 11201, USA."
+            },
+            {
+                "First Name": "Eduardo",
+                "Last Name": "Chielle",
+                "Affiliation": "New York University Abu Dhabi, Abu Dhabi, United Arab Emirates."
+            },
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT 06520, USA."
+            },
+            {
+                "First Name": "Oleg",
+                "Last Name": "Mazonka",
+                "Affiliation": "New York University Abu Dhabi, Abu Dhabi, United Arab Emirates."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Gerstein",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT 06520, USA."
+            },
+            {
+                "First Name": "Michail",
+                "Last Name": "Maniatakos",
+                "Affiliation": "Tandon School of Engineering, New York University, New York, NY 11201, USA."
+            }
+        ],
+        "Journal": "IEEE access : practical innovations, open solutions",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33956664",
+        "Title": "Cystoisospora belli infection in a renal transplant recipient: a case report and review of literature.",
+        "Abstract": "Cystoisospora belli is a coccidian parasite that causes prolonged watery diarrhea especially among immunocompromised patients. Herein, we report a renal transplant patient who complaints of alternating diarrhea and review of literature related to cystoisosporiasis amongst the transplant recipients.",
+        "Keywords": [
+            "Cystoisospora belli",
+            "opportunistic parasites",
+            "renal transplantation"
+        ],
+        "MeSH terms": [
+            "Adult",
+            "Diarrhea",
+            "Humans",
+            "Immunosuppression Therapy",
+            "Isospora",
+            "Isosporiasis",
+            "Kidney Transplantation",
+            "Male",
+            "Transplant Recipients"
+        ],
+        "Authors": [
+            {
+                "First Name": "Büşra Betül",
+                "Last Name": "Özmen-Çapın",
+                "Affiliation": "Department of Medical Microbiology, Faculty of Medicine, Hacettepe University, Ankara, Turkey. busrabetulozmen@gmail.com."
+            },
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Department of Infectious Diseases and Clinical Microbiology, Faculty of Medicine, Hacettepe University, Ankara, Turkey."
+            },
+            {
+                "First Name": "Sema",
+                "Last Name": "Tortop",
+                "Affiliation": "Department of Medical Microbiology, Faculty of Medicine, Hacettepe University, Ankara, Turkey."
+            },
+            {
+                "First Name": "Jabrayil",
+                "Last Name": "Jabrayilov",
+                "Affiliation": "Department of Internal Diseases, Nephrology Subdivision, Faculty of Medicine, Hacettepe University, Ankara, Turkey."
+            },
+            {
+                "First Name": "Ahmet Çağkan",
+                "Last Name": "İnkaya",
+                "Affiliation": "Department of Infectious Diseases and Clinical Microbiology, Faculty of Medicine, Hacettepe University, Ankara, Turkey."
+            },
+            {
+                "First Name": "Sibel",
+                "Last Name": "Ergüven",
+                "Affiliation": "Department of Medical Microbiology, Faculty of Medicine, Hacettepe University, Ankara, Turkey."
+            }
+        ],
+        "Journal": "Journal of infection in developing countries",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "33186529",
+        "Title": "Data Sanitization to Reduce Private Information Leakage from Functional Genomics.",
+        "Abstract": "The generation of functional genomics datasets is surging, because they provide insight into gene regulation and organismal phenotypes (e.g., genes upregulated in cancer). The intent behind functional genomics experiments is not necessarily to study genetic variants, yet they pose privacy concerns due to their use of next-generation sequencing. Moreover, there is a great incentive to broadly share raw reads for better statistical power and general research reproducibility. Thus, we need new modes of sharing beyond traditional controlled-access models. Here, we develop a data-sanitization procedure allowing raw functional genomics reads to be shared while minimizing privacy leakage, enabling principled privacy-utility trade-offs. Our protocol works with traditional Illumina-based assays and newer technologies such as 10x single-cell RNA sequencing. It involves quantifying the privacy leakage in reads by statistically linking study participants to known individuals. We carried out these linkages using data from highly accurate reference genomes and more realistic environmental samples.",
+        "Keywords": [
+            "RNA-seq",
+            "data sanitization“",
+            "functional genomics",
+            "genome privacy",
+            "linkage attacks",
+            "surreptitious DNA sequencing"
+        ],
+        "MeSH terms": [
+            "Computer Security",
+            "Genome, Human",
+            "Genomics",
+            "Genotype",
+            "High-Throughput Nucleotide Sequencing",
+            "Humans",
+            "Phenotype",
+            "Phylogeny",
+            "Privacy",
+            "Reproducibility of Results",
+            "Sequence Analysis, RNA",
+            "Single-Cell Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT 06520, USA; Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA."
+            },
+            {
+                "First Name": "Prashant",
+                "Last Name": "Emani",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT 06520, USA; Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA."
+            },
+            {
+                "First Name": "Charlotte M",
+                "Last Name": "Brannon",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT 06520, USA; Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA."
+            },
+            {
+                "First Name": "Otto A",
+                "Last Name": "Jolanki",
+                "Affiliation": "Stanford University School of Medicine, Department of Genetics, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Arif",
+                "Last Name": "Harmanci",
+                "Affiliation": "School of Biomedical Informatics, Center for Precision Health, University of Texas Health Sciences Center, Houston, TX 77030, USA."
+            },
+            {
+                "First Name": "J Seth",
+                "Last Name": "Strattan",
+                "Affiliation": "Stanford University School of Medicine, Department of Genetics, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "J Michael",
+                "Last Name": "Cherry",
+                "Affiliation": "Stanford University School of Medicine, Department of Genetics, Stanford, CA 94305, USA."
+            },
+            {
+                "First Name": "Andrew D",
+                "Last Name": "Miranker",
+                "Affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA; Department of Chemical and Environmental Engineering, Yale University, New Haven, CT 06520, USA."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Gerstein",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT 06520, USA; Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA; Department of Computer Science, Yale University, New Haven, CT 06520, USA; Department of Statistics and Data Science, Yale University, New Haven, CT 06520, USA. Electronic address: mark@gersteinlab.org."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32726397",
+        "Title": "FANCY: fast estimation of privacy risk in functional genomics data.",
+        "Abstract": "Functional genomics data are becoming clinically actionable, raising privacy concerns. However, quantifying privacy leakage via genotyping is difficult due to the heterogeneous nature of sequencing techniques. Thus, we present FANCY, a tool that rapidly estimates the number of leaking variants from raw RNA-Seq, ATAC-Seq and ChIP-Seq reads, without explicit genotyping. FANCY employs supervised regression using overall sequencing statistics as features and provides an estimate of the overall privacy risk before data release.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Genomics",
+            "Humans",
+            "Privacy",
+            "RNA-Seq",
+            "Software",
+            "Exome Sequencing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Computational Biology and Bioinformatics, New Haven, CT 06520, USA."
+            },
+            {
+                "First Name": "Charlotte M",
+                "Last Name": "Brannon",
+                "Affiliation": "Computational Biology and Bioinformatics, New Haven, CT 06520, USA."
+            },
+            {
+                "First Name": "Fabio C P",
+                "Last Name": "Navarro",
+                "Affiliation": "Computational Biology and Bioinformatics, New Haven, CT 06520, USA."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Gerstein",
+                "Affiliation": "Computational Biology and Bioinformatics, New Haven, CT 06520, USA."
+            }
+        ],
+        "Journal": "Bioinformatics (Oxford, England)",
+        "PubDate": "2021"
+    },
+    {
+        "PMID": "32693796",
+        "Title": "Using blockchain to log genome dataset access: efficient storage and query.",
+        "Abstract": "Genomic variants are considered sensitive information, revealing potentially private facts about individuals. Therefore, it is important to control access to such data. A key aspect of controlled access is secure storage and efficient query of access logs, for potential misuse. However, there are challenges to securing logs, such as designing against the consequences of \"single points of failure\". A potential approach to circumvent these challenges is blockchain technology, which is currently popular in cryptocurrency due to its properties of security, immutability, and decentralization. One of the tasks of the iDASH (Integrating Data for Analysis, Anonymization, and Sharing) Secure Genome Analysis Competition in 2018 was to develop time- and space-efficient blockchain-based ledgering solutions to log and query user activity accessing genomic datasets across multiple sites, using MultiChain.",
+        "Keywords": [
+            "Blockchain",
+            "Genomic data access log",
+            "Secure storage"
+        ],
+        "MeSH terms": [
+            "Blockchain",
+            "Datasets as Topic",
+            "Genomics",
+            "Humans",
+            "Information Storage and Retrieval"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT, 06520, USA."
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Bjornson",
+                "Affiliation": "Yale Center for Research Computing, New Haven, CT, 06520, USA."
+            },
+            {
+                "First Name": "Molly E",
+                "Last Name": "Green",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT, 06520, USA."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Gerstein",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT, 06520, USA. mark@gersteinlab.org."
+            }
+        ],
+        "Journal": "BMC medical genomics",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32487214",
+        "Title": "Using Ethereum blockchain to store and query pharmacogenomics data via smart contracts.",
+        "Abstract": "As pharmacogenomics data becomes increasingly integral to clinical treatment decisions, appropriate data storage and sharing protocols need to be adopted. One promising option for secure, high-integrity storage and sharing is Ethereum smart contracts. Ethereum is a blockchain platform, and smart contracts are immutable pieces of code running on virtual machines in this platform that can be invoked by a user or another contract (in the blockchain network). The 2019 iDASH (Integrating Data for Analysis, Anonymization, and Sharing) competition for Secure Genome Analysis challenged participants to develop time- and space-efficient Ethereum smart contracts for gene-drug relationship data.",
+        "Keywords": [
+            "Blockchain",
+            "Ethereum",
+            "Pharmacogenomics data",
+            "Secure storage",
+            "Smart contract"
+        ],
+        "MeSH terms": [
+            "Algorithms",
+            "Blockchain",
+            "Decision Making",
+            "Delivery of Health Care",
+            "Genes",
+            "Humans",
+            "Information Storage and Retrieval",
+            "Pharmaceutical Preparations",
+            "Pharmacogenetics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, Whitney Avenue, New Haven, 06520, CT, USA."
+            },
+            {
+                "First Name": "Charlotte M",
+                "Last Name": "Brannon",
+                "Affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, Whitney Avenue, New Haven, 06520, CT, USA."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Gerstein",
+                "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, Whitney Avenue, New Haven, 06520, CT, USA. mark@gersteinlab.org."
+            }
+        ],
+        "Journal": "BMC medical genomics",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31797643",
+        "Title": "Navigating ethical quandaries with the privacy dilemma of biomedical datasets.",
+        "Abstract": "With decreasing cost of biomedical technologies, the scale of the genetic and healthcare data have exponentially increased and become available to wider audiences. Hence, privacy of patients and study participants has garnered the attention of researchers and regulators alike. Availability of genetic and health care information for uses not anticipated at the time of collection gives rise to privacy concerns such that people suffer dignitary harm when their data is used in ways they did not desire or intend, even if no concrete economic damage results. In this workshop, we explore the issues surrounding data use to advance human health from a privacy perspective. Broadly this field can be considered in two encompassing areas: (1) Ethics and regulation of privacy: The ethical and regulatory frames through which we can consider privacy, the existing regulations regarding privacy and what is on the horizon, and implementation of such ethical considerations for data with the new Common Rule. (2) Approaches to ensuring privacy using technology: The technologies that allow responsible use and sharing of data such as encryption and the quantification of privacy leakages in publicly available data through privacy attacks for better risk-assessment tools.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Computational Biology",
+            "Computer Security",
+            "Confidentiality",
+            "Humans",
+            "Information Dissemination",
+            "Micro-Electrical-Mechanical Systems"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Yale University, New Haven, CT, 06511, USA, gamze.gursoy@yale.edu."
+            },
+            {
+                "First Name": "Megan",
+                "Last Name": "Doerr",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "John",
+                "Last Name": "Wilbanks",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jennifer K",
+                "Last Name": "Wagner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Haixu",
+                "Last Name": "Tang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steven E",
+                "Last Name": "Brenner",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31294407",
+        "Title": "Does Gender Have an Effect on Craniofacial Measurements?",
+        "Abstract": "The aim of this cross-sectional study was to evaluate craniofacial structures in terms of different sagittal relations and gender in adolescent individuals.",
+        "Keywords": [
+            "Cephalometrics",
+            "Class I",
+            "Class II",
+            "Class III",
+            "craniofacial",
+            "gender",
+            "orthodontics"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Lale",
+                "Last Name": "Taner",
+                "Affiliation": "Department of Orthodontics, Gazi University School of Dentistry, Ankara, Turkey."
+            },
+            {
+                "First Name": "Gamze Metin",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Department of Orthodontics, Gazi University School of Dentistry, Ankara, Turkey."
+            },
+            {
+                "First Name": "Fatma Deniz",
+                "Last Name": "Uzuner",
+                "Affiliation": "Department of Orthodontics, Gazi University School of Dentistry, Ankara, Turkey."
+            }
+        ],
+        "Journal": "Turkish journal of orthodontics",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30864339",
+        "Title": "When Biology Gets Personal: Hidden Challenges of Privacy and Ethics in Biological Big Data.",
+        "Abstract": "High-throughput technologies for biological data acquisition are advancing at an increasing pace. Most prominently, the decreasing cost of DNA sequencing has led to an exponential growth of sequence information, including individual human genomes. This session of the 2019 Pacific Symposium on Biocomputing presents the distinctive privacy and ethical challenges related to the generation, storage, processing, study, and sharing of individuals' biological data generated by multitude of technologies including but not limited to genomics, proteomics, metagenomics, bioimaging, biosensors, and personal health trackers. The mission is to bring together computational biologists, experimental biologists, computer scientists, ethicists, and policy and lawmakers to share ideas, discuss the challenges related to biological data and privacy.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Big Data",
+            "Computational Biology",
+            "Confidentiality",
+            "Electronic Health Records",
+            "Genetic Privacy",
+            "Genome-Wide Association Study",
+            "Genomics",
+            "High-Throughput Nucleotide Sequencing",
+            "Humans",
+            "Sequence Analysis, DNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Computational Biology and Bioinformatics Program, Molecular Biophysics & Biochemistry, Yale University, New Haven, CT, 06511, USA*This work is partially supported by NIH grant U01EB023686., gamze.gursoy@yale.edu."
+            },
+            {
+                "First Name": "Arif",
+                "Last Name": "Harmanci",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Haixu",
+                "Last Name": "Tang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Erman",
+                "Last Name": "Ayday",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Steven E",
+                "Last Name": "Brenner",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "28981716",
+        "Title": "Computational construction of 3D chromatin ensembles and prediction of functional interactions of alpha-globin locus from 5C data.",
+        "Abstract": "Conformation capture technologies measure frequencies of interactions between chromatin regions. However, understanding gene-regulation require knowledge of detailed spatial structures of heterogeneous chromatin in cells. Here we describe the nC-SAC (n-Constrained-Self Avoiding Chromatin) method that transforms experimental interaction frequencies into 3D ensembles of chromatin chains. nC-SAC first distinguishes specific from non-specific interaction frequencies, then generates 3D chromatin ensembles using identified specific interactions as spatial constraints. Application to α-globin locus shows that these constraints (∼20%) drive the formation of ∼99% all experimentally captured interactions, in which ∼30% additional to the imposed constraints is found to be specific. Many novel specific spatial contacts not captured by experiments are also predicted. A subset, of which independent ChIA-PET data are available, is validated to be RNAPII-, CTCF-, and RAD21-mediated. Their positioning in the architectural context of imposed specific interactions from nC-SAC is highly important. Our results also suggest the presence of a many-body structural unit involving α-globin gene, its enhancers, and POL3RK gene for regulating the expression of α-globin in silent cells.",
+        "Keywords": [],
+        "MeSH terms": [
+            "CCCTC-Binding Factor",
+            "Cell Cycle Proteins",
+            "Cell Line, Tumor",
+            "Chromatin",
+            "Computational Biology",
+            "DNA-Binding Proteins",
+            "DNA-Directed DNA Polymerase",
+            "Gene Expression Regulation",
+            "Humans",
+            "K562 Cells",
+            "Nuclear Proteins",
+            "Phosphoproteins",
+            "Protein Conformation",
+            "Regulatory Sequences, Nucleic Acid",
+            "alpha-Globins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Department of Bioengineering, University of Illinois at Chicago, Chicago, IL 60607, USA."
+            },
+            {
+                "First Name": "Yun",
+                "Last Name": "Xu",
+                "Affiliation": "Department of Bioengineering, University of Illinois at Chicago, Chicago, IL 60607, USA."
+            },
+            {
+                "First Name": "Amy L",
+                "Last Name": "Kenter",
+                "Affiliation": "Department of Microbiology and Immunology, University of Illinois College of Medicine, Chicago, IL 60612, USA."
+            },
+            {
+                "First Name": "Jie",
+                "Last Name": "Liang",
+                "Affiliation": "Department of Bioengineering, University of Illinois at Chicago, Chicago, IL 60607, USA."
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28704374",
+        "Title": "Spatial organization of the budding yeast genome in the cell nucleus and identification of specific chromatin interactions from multi-chromosome constrained chromatin model.",
+        "Abstract": "Nuclear landmarks and biochemical factors play important roles in the organization of the yeast genome. The interaction pattern of budding yeast as measured from genome-wide 3C studies are largely recapitulated by model polymer genomes subject to landmark constraints. However, the origin of inter-chromosomal interactions, specific roles of individual landmarks, and the roles of biochemical factors in yeast genome organization remain unclear. Here we describe a multi-chromosome constrained self-avoiding chromatin model (mC-SAC) to gain understanding of the budding yeast genome organization. With significantly improved sampling of genome structures, both intra- and inter-chromosomal interaction patterns from genome-wide 3C studies are accurately captured in our model at higher resolution than previous studies. We show that nuclear confinement is a key determinant of the intra-chromosomal interactions, and centromere tethering is responsible for the inter-chromosomal interactions. In addition, important genomic elements such as fragile sites and tRNA genes are found to be clustered spatially, largely due to centromere tethering. We uncovered previously unknown interactions that were not captured by genome-wide 3C studies, which are found to be enriched with tRNA genes, RNAPIII and TFIIS binding. Moreover, we identified specific high-frequency genome-wide 3C interactions that are unaccounted for by polymer effects under landmark constraints. These interactions are enriched with important genes and likely play biological roles.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Nucleus",
+            "Chromatin",
+            "Chromosomes, Fungal",
+            "Genome, Fungal",
+            "Genomics",
+            "Models, Genetic",
+            "Saccharomycetales",
+            "Single-Cell Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "The Richard and Loan Hill Department of Bioengineering, Program in Bioinformatics, University of Illinois at Chicago, Chicago, Illinois, United States of America."
+            },
+            {
+                "First Name": "Yun",
+                "Last Name": "Xu",
+                "Affiliation": "The Richard and Loan Hill Department of Bioengineering, Program in Bioinformatics, University of Illinois at Chicago, Chicago, Illinois, United States of America."
+            },
+            {
+                "First Name": "Jie",
+                "Last Name": "Liang",
+                "Affiliation": "The Richard and Loan Hill Department of Bioengineering, Program in Bioinformatics, University of Illinois at Chicago, Chicago, Illinois, United States of America."
+            }
+        ],
+        "Journal": "PLoS computational biology",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28268606",
+        "Title": "Mechanisms of stochastic focusing and defocusing in biological reaction networks: insight from accurate chemical master equation (ACME) solutions.",
+        "Abstract": "Stochasticity plays important roles in regulation of biochemical reaction networks when the copy numbers of molecular species are small. Studies based on Stochastic Simulation Algorithm (SSA) has shown that a basic reaction system can display stochastic focusing (SF) by increasing the sensitivity of the network as a result of the signal noise. Although SSA has been widely used to study stochastic networks, it is ineffective in examining rare events and this becomes a significant issue when the tails of probability distributions are relevant as is the case of SF. Here we use the ACME method to solve the exact solution of the discrete Chemical Master Equations and to study a network where SF was reported. We showed that the level of SF depends on the degree of the fluctuations of signal molecule. We discovered that signaling noise under certain conditions in the same reaction network can lead to a decrease in the system sensitivities, thus the network can experience stochastic defocusing. These results highlight the fundamental role of stochasticity in biological reaction networks and the need for exact computation of probability landscape of the molecules in the system.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Computer Simulation",
+            "Models, Biological",
+            "Probability",
+            "Stochastic Processes"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gursoy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Terebus",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "Youfang Cao",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "",
+                "Last Name": "Jie Liang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "27790979",
+        "Title": "Three-dimensional chromosome structures from energy landscape.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Chromosome Structures",
+            "Chromosomes",
+            "Models, Molecular",
+            "Thermodynamics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Richard and Loan Hill Department of Bioengineering, University of Illinois at Chicago, Chicago, IL 60607."
+            },
+            {
+                "First Name": "Jie",
+                "Last Name": "Liang",
+                "Affiliation": "Richard and Loan Hill Department of Bioengineering, University of Illinois at Chicago, Chicago, IL 60607 jliang@uic.edu."
+            }
+        ],
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "25570855",
+        "Title": "Computational predictions of structures of multichromosomes of budding yeast.",
+        "Abstract": "Knowledge of the global architecture of the cell nucleus and the spatial organization of genome is critical for understanding gene expression and nuclear function. Single-cell imaging techniques provide a wealth of information on the spatial organization of chromosomes. Computational tools for modelling chromosome structure have broad implications in studying the effect of cell nucleus on higher-order genome organization. Here we describe a multichromosome constrained self-avoiding chromatin model for studying ensembles of genome structural models of budding yeast nucleus. We successfully generated a large number of model genomes of yeast with appropriate chromatin fiber diameter, persistence length, and excluded volume under spatial confinement. By incorporating details of the constraints from single-cell imaging studies, our method can model the budding yeast genome realistically. The model developed here provides a general computational framework for studying the overall architecture of budding yeast genome.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Cell Nucleus",
+            "Chromatin",
+            "Chromosomes, Fungal",
+            "Genome",
+            "Molecular Conformation",
+            "Molecular Dynamics Simulation",
+            "Saccharomycetales"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yun",
+                "Last Name": "Xu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jie",
+                "Last Name": "Liang",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "27480462",
+        "Title": "Multiscale Modeling of Cellular Epigenetic States: Stochasticity in Molecular Networks, Chromatin Folding in Cell Nuclei, and Tissue Pattern Formation of Cells.",
+        "Abstract": "Genome sequences provide the overall genetic blueprint of cells, but cells possessing the same genome can exhibit diverse phenotypes. There is a multitude of mechanisms controlling cellular epigenetic states and that dictate the behavior of cells. Among these, networks of interacting molecules, often under stochastic control, depending on the specific wirings of molecular components and the physiological conditions, can have a different landscape of cellular states. In addition, chromosome folding in three-dimensional space provides another important control mechanism for selective activation and repression of gene expression. Fully differentiated cells with different properties grow, divide, and interact through mechanical forces and communicate through signal transduction, resulting in the formation of complex tissue patterns. Developing quantitative models to study these multi-scale phenomena and to identify opportunities for improving human health requires development of theoretical models, algorithms, and computational tools. Here we review recent progress made in these important directions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Cell Differentiation",
+            "Cell Nucleus",
+            "Chromatin",
+            "Epigenesis, Genetic",
+            "Gene Expression Regulation",
+            "Humans",
+            "Models, Biological",
+            "Morphogenesis",
+            "Protein Folding",
+            "Protein Structure, Tertiary",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jie",
+                "Last Name": "Liang",
+                "Affiliation": "Program in Bioinformatics, Department of Bioengineering, University of Illinois at Chicago, IL, 60612, USA."
+            },
+            {
+                "First Name": "Youfang",
+                "Last Name": "Cao",
+                "Affiliation": "Theoretical Biology and Biophysics (T-6) and Center for Nonlinear Studies (CNLS), Los Alamos National Laboratory, Los Alamos, NM, 87545, USA."
+            },
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gursoy",
+                "Affiliation": "Program in Bioinformatics, Department of Bioengineering, University of Illinois at Chicago, IL, 60612, USA."
+            },
+            {
+                "First Name": "Hammad",
+                "Last Name": "Naveed",
+                "Affiliation": "Toyota Technological Institute at Chicago, 6045 S. Kenwood Ave. Chicago, Illinois 60637, USA."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Terebus",
+                "Affiliation": "Program in Bioinformatics, Department of Bioengineering, University of Illinois at Chicago, IL, 60612, USA."
+            },
+            {
+                "First Name": "Jieling",
+                "Last Name": "Zhao",
+                "Affiliation": "Program in Bioinformatics, Department of Bioengineering, University of Illinois at Chicago, IL, 60612, USA."
+            }
+        ],
+        "Journal": "Critical reviews in biomedical engineering",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "24990374",
+        "Title": "Spatial confinement is a major determinant of the folding landscape of human chromosomes.",
+        "Abstract": "The global architecture of the cell nucleus and the spatial organization of chromatin play important roles in gene expression and nuclear function. Single-cell imaging and chromosome conformation capture-based techniques provide a wealth of information on the spatial organization of chromosomes. However, a mechanistic model that can account for all observed scaling behaviors governing long-range chromatin interactions is missing. Here we describe a model called constrained self-avoiding chromatin (C-SAC) for studying spatial structures of chromosomes, as the available space is a key determinant of chromosome folding. We studied large ensembles of model chromatin chains with appropriate fiber diameter, persistence length and excluded volume under spatial confinement. We show that the equilibrium ensemble of randomly folded chromosomes in the confined nuclear volume gives rise to the experimentally observed higher-order architecture of human chromosomes, including average scaling properties of mean-square spatial distance, end-to-end distance, contact probability and their chromosome-to-chromosome variabilities. Our results indicate that the overall structure of a human chromosome is dictated by the spatial confinement of the nuclear space, which may undergo significant tissue- and developmental stage-specific size changes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Algorithms",
+            "Cell Nucleus Size",
+            "Chromatin",
+            "Chromosomes, Human",
+            "Humans",
+            "Models, Molecular",
+            "Nucleic Acid Conformation"
+        ],
+        "Authors": [
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": "Department of Bioengineering, University of Illinois at Chicago, Chicago, IL 60607, USA."
+            },
+            {
+                "First Name": "Yun",
+                "Last Name": "Xu",
+                "Affiliation": "Department of Bioengineering, University of Illinois at Chicago, Chicago, IL 60607, USA."
+            },
+            {
+                "First Name": "Amy L",
+                "Last Name": "Kenter",
+                "Affiliation": "Department of Microbiology and Immunology, University of Illinois College of Medicine, Chicago, IL 60612, USA."
+            },
+            {
+                "First Name": "Jie",
+                "Last Name": "Liang",
+                "Affiliation": "Department of Bioengineering, University of Illinois at Chicago, Chicago, IL 60607, USA jliang@uic.edu."
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "19669741",
+        "Title": "Mechanical signaling on the single protein level studied using steered molecular dynamics.",
+        "Abstract": "Efficient communication between the cell and its external environment is of the utmost importance to the function of multicellular organisms. While signaling events can be generally characterized as information exchange by means of controlled energy conversion, research efforts have hitherto mainly been concerned with mechanisms involving chemical and electrical energy transfer. Here, we review recent computational efforts addressing the function of mechanical force in signal transduction. Specifically, we focus on the role of steered molecular dynamics (SMD) simulations in providing details at the atomic level on a group of protein domains, which play a fundamental role in signal exchange by responding properly to mechanical strain. We start by giving a brief introduction to the SMD technique and general properties of mechanically stable protein folds, followed by specific examples illustrating three general regimes of signal transfer utilizing mechanical energy: purely mechanical, mechanical to chemical, and chemical to mechanical. Whenever possible the physiological importance of the example at hand is stressed to highlight the diversity of the processes in which mechanical signaling plays a key role. We also provide an overview of future challenges and perspectives for this rapidly developing field.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Energy Transfer",
+            "Humans",
+            "Mechanotransduction, Cellular",
+            "Molecular Dynamics Simulation",
+            "Protein Folding"
+        ],
+        "Authors": [
+            {
+                "First Name": "Georgi Z",
+                "Last Name": "Genchev",
+                "Affiliation": "Bioinformatics Program, Department of Bioengineering, University of Illinois at Chicago, Chicago, IL, 60607, USA."
+            },
+            {
+                "First Name": "Morten",
+                "Last Name": "Källberg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gamze",
+                "Last Name": "Gürsoy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anuradha",
+                "Last Name": "Mittal",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lalit",
+                "Last Name": "Dubey",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ognjen",
+                "Last Name": "Perisic",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gang",
+                "Last Name": "Feng",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert",
+                "Last Name": "Langlois",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hui",
+                "Last Name": "Lu",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell biochemistry and biophysics",
+        "PubDate": "2009"
+    }
+]

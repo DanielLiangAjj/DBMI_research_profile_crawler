@@ -4,7 +4,15 @@
         "Title": "Reference-informed prediction of alternative splicing and splicing-altering mutations from sequences.",
         "Abstract": "Alternative splicing plays a crucial role in protein diversity and gene expression regulation in higher eukaryotes, and mutations causing dysregulated splicing underlie a range of genetic diseases. Computational prediction of alternative splicing from genomic sequences not only provides insight into gene-regulatory mechanisms but also helps identify disease-causing mutations and drug targets. However, the current methods for the quantitative prediction of splice site usage still have limited accuracy. Here, we present DeltaSplice, a deep neural network model optimized to learn the impact of mutations on quantitative changes in alternative splicing from the comparative analysis of homologous genes. The model architecture enables DeltaSplice to perform \"reference-informed prediction\" by incorporating the known splice site usage of a reference gene sequence to improve its prediction on splicing-altering mutations. We benchmarked DeltaSplice and several other state-of-the-art methods on various prediction tasks, including evolutionary sequence divergence on lineage-specific splicing and splicing-altering mutations in human populations and neurodevelopmental disorders, and demonstrated that DeltaSplice outperformed consistently. DeltaSplice predicted \u223c15% of splicing quantitative trait loci (sQTLs) in the human brain as causal splicing-altering variants. It also predicted splicing-altering de novo mutations outside the splice sites in a subset of patients affected by autism and other neurodevelopmental disorders (NDDs), including 19 genes with recurrent splicing-altering mutations. Integration of splicing-altering mutations with other types of de novo mutation burdens allowed the prediction of eight novel NDD-risk genes. Our work expanded the capacity of in silico splicing models with potential applications in genetic diagnosis and the development of splicing-based precision medicine.",
         "Keywords": [],
-        "MeSH terms": [],
+        "MeSH terms": [
+            "Humans",
+            "Alternative Splicing",
+            "Mutation",
+            "Quantitative Trait Loci",
+            "RNA Splice Sites",
+            "Computational Biology",
+            "Neurodevelopmental Disorders"
+        ],
         "Authors": [
             {
                 "First Name": "Chencheng",

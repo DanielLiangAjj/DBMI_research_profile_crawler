@@ -1,5 +1,319 @@
 [
     {
+        "PMID": "39174553",
+        "Title": "Rapid intra-host diversification and evolution of SARS-CoV-2 in advanced HIV infection.",
+        "Abstract": "Previous studies have linked the evolution of severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) genetic variants to persistent infections in people with immunocompromising conditions, but the processes responsible for these observations are incompletely understood. Here we use high-throughput, single-genome amplification and sequencing (HT-SGS) to sequence SARS-CoV-2 spike genes from people with HIV (PWH, n\u2009=\u200922) and people without HIV (PWOH, n\u2009=\u200925). In PWOH and PWH with CD4 T cell counts (i.e., CD4 counts) \u2265\u2009200 cells/\u03bcL, we find that most SARS-CoV-2 genomes sampled in each person share one spike sequence. By contrast, in people with advanced HIV infection (i.e., CD4 counts <\u2009200 cells/\u03bcL), HT-SGS reveals a median of 46 distinct linked groupings of spike mutations per person. Elevated intra-host spike diversity in people with advanced HIV infection is detected immediately after COVID-19 symptom onset, and early intra-host spike diversity predicts SARS-CoV-2 shedding duration among PWH. Analysis of longitudinal timepoints reveals rapid fluctuations in spike sequence populations, replacement of founder sequences by groups of new haplotypes, and positive selection at functionally important residues. These findings demonstrate remarkable intra-host genetic diversity of SARS-CoV-2 in advanced HIV infection and suggest that adaptive intra-host SARS-CoV-2 evolution in this setting may contribute to the emergence of new variants of concern.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "SARS-CoV-2",
+            "HIV Infections",
+            "COVID-19",
+            "Spike Glycoprotein, Coronavirus",
+            "Evolution, Molecular",
+            "CD4 Lymphocyte Count",
+            "Mutation",
+            "Genome, Viral",
+            "Male",
+            "Female",
+            "Genetic Variation",
+            "Middle Aged",
+            "High-Throughput Nucleotide Sequencing",
+            "Adult",
+            "Phylogeny"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sung Hee",
+                "Last Name": "Ko",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Pierce",
+                "Last Name": "Radecki",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Frida",
+                "Last Name": "Belinky",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Jinal N",
+                "Last Name": "Bhiman",
+                "Affiliation": "National Institute for Communicable Diseases, a division of the National Health Laboratory Service, Johannesburg, South Africa."
+            },
+            {
+                "First Name": "Susan",
+                "Last Name": "Meiring",
+                "Affiliation": "National Institute for Communicable Diseases, a division of the National Health Laboratory Service, Johannesburg, South Africa."
+            },
+            {
+                "First Name": "Jackie",
+                "Last Name": "Kleynhans",
+                "Affiliation": "National Institute for Communicable Diseases, a division of the National Health Laboratory Service, Johannesburg, South Africa."
+            },
+            {
+                "First Name": "Daniel",
+                "Last Name": "Amoako",
+                "Affiliation": "National Institute for Communicable Diseases, a division of the National Health Laboratory Service, Johannesburg, South Africa."
+            },
+            {
+                "First Name": "Vanessa",
+                "Last Name": "Guerra Canedo",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Margaret",
+                "Last Name": "Lucas",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Dikeledi",
+                "Last Name": "Kekana",
+                "Affiliation": "National Institute for Communicable Diseases, a division of the National Health Laboratory Service, Johannesburg, South Africa."
+            },
+            {
+                "First Name": "Neil",
+                "Last Name": "Martinson",
+                "Affiliation": "Perinatal HIV Research Unit, University of the Witwatersrand, Johannesburg, South Africa."
+            },
+            {
+                "First Name": "Limakatso",
+                "Last Name": "Lebina",
+                "Affiliation": "Perinatal HIV Research Unit, University of the Witwatersrand, Johannesburg, South Africa."
+            },
+            {
+                "First Name": "Josie",
+                "Last Name": "Everatt",
+                "Affiliation": "National Institute for Communicable Diseases, a division of the National Health Laboratory Service, Johannesburg, South Africa."
+            },
+            {
+                "First Name": "Stefano",
+                "Last Name": "Tempia",
+                "Affiliation": "National Institute for Communicable Diseases, a division of the National Health Laboratory Service, Johannesburg, South Africa."
+            },
+            {
+                "First Name": "Tatsiana",
+                "Last Name": "Bylund",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Reda",
+                "Last Name": "Rawi",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Kwong",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Nicole",
+                "Last Name": "Wolter",
+                "Affiliation": "National Institute for Communicable Diseases, a division of the National Health Laboratory Service, Johannesburg, South Africa."
+            },
+            {
+                "First Name": "Anne",
+                "Last Name": "von Gottberg",
+                "Affiliation": "National Institute for Communicable Diseases, a division of the National Health Laboratory Service, Johannesburg, South Africa."
+            },
+            {
+                "First Name": "Cheryl",
+                "Last Name": "Cohen",
+                "Affiliation": "National Institute for Communicable Diseases, a division of the National Health Laboratory Service, Johannesburg, South Africa."
+            },
+            {
+                "First Name": "Eli A",
+                "Last Name": "Boritz",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA. eli.boritz@niaid.nih.gov."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39134521",
+        "Title": "Variant-proof high affinity ACE2 antagonist limits SARS-CoV-2 replication in upper and lower airways.",
+        "Abstract": "SARS-CoV-2 has the capacity to evolve mutations that escape vaccine- and infection-acquired immunity and antiviral drugs. A variant-agnostic therapeutic agent that protects against severe disease without putting selective pressure on the virus would thus be a valuable biomedical tool that would maintain its efficacy despite the ongoing emergence of new variants. Here, we challenge male rhesus macaques with SARS-CoV-2 Delta-the most pathogenic variant in a highly susceptible animal model. At the time of challenge, we also treat the macaques with aerosolized RBD-62, a protein developed through multiple rounds of in vitro evolution of SARS-CoV-2 RBD to acquire 1000-fold enhanced ACE2 binding affinity. RBD-62 treatment equivalently suppresses virus replication in both upper and lower airways, a phenomenon not previously observed with clinically approved vaccines. Importantly, RBD-62 does not block the development of virus-specific T- and B-cell responses and does not elicit anti-drug immunity. These data provide proof-of-concept that RBD-62 can prevent severe disease from a highly virulent variant.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Humans",
+            "Male",
+            "Angiotensin-Converting Enzyme 2",
+            "Antiviral Agents",
+            "Chlorocebus aethiops",
+            "COVID-19",
+            "COVID-19 Drug Treatment",
+            "Disease Models, Animal",
+            "Macaca mulatta",
+            "SARS-CoV-2",
+            "Spike Glycoprotein, Coronavirus",
+            "Vero Cells",
+            "Virus Replication"
+        ],
+        "Authors": [
+            {
+                "First Name": "Matthew",
+                "Last Name": "Gagne",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Barbara J",
+                "Last Name": "Flynn",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Christopher Cole",
+                "Last Name": "Honeycutt",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Dillon R",
+                "Last Name": "Flebbe",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Shayne F",
+                "Last Name": "Andrew",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Samantha J",
+                "Last Name": "Provost",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Lauren",
+                "Last Name": "McCormick",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Alex",
+                "Last Name": "Van Ry",
+                "Affiliation": "Bioqual Inc., Rockville, MD, USA."
+            },
+            {
+                "First Name": "Elizabeth",
+                "Last Name": "McCarthy",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "John-Paul M",
+                "Last Name": "Todd",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Saran",
+                "Last Name": "Bao",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "I-Ting",
+                "Last Name": "Teng",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Shir",
+                "Last Name": "Marciano",
+                "Affiliation": "Department of Biomolecular Sciences, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Yinon",
+                "Last Name": "Rudich",
+                "Affiliation": "Department of Earth and Planetary Sciences, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Chunlin",
+                "Last Name": "Li",
+                "Affiliation": "Department of Earth and Planetary Sciences, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Shilpi",
+                "Last Name": "Jain",
+                "Affiliation": "Center for Childhood Infections and Vaccines, Children's Healthcare of Atlanta, Division of Infectious Diseases, Department of Pediatrics, Emory University School of Medicine, Atlanta, GA, USA."
+            },
+            {
+                "First Name": "Bushra",
+                "Last Name": "Wali",
+                "Affiliation": "Center for Childhood Infections and Vaccines, Children's Healthcare of Atlanta, Division of Infectious Diseases, Department of Pediatrics, Emory University School of Medicine, Atlanta, GA, USA."
+            },
+            {
+                "First Name": "Laurent",
+                "Last Name": "Pessaint",
+                "Affiliation": "Bioqual Inc., Rockville, MD, USA."
+            },
+            {
+                "First Name": "Alan",
+                "Last Name": "Dodson",
+                "Affiliation": "Bioqual Inc., Rockville, MD, USA."
+            },
+            {
+                "First Name": "Anthony",
+                "Last Name": "Cook",
+                "Affiliation": "Bioqual Inc., Rockville, MD, USA."
+            },
+            {
+                "First Name": "Mark G",
+                "Last Name": "Lewis",
+                "Affiliation": "Bioqual Inc., Rockville, MD, USA."
+            },
+            {
+                "First Name": "Hanne",
+                "Last Name": "Andersen",
+                "Affiliation": "Bioqual Inc., Rockville, MD, USA."
+            },
+            {
+                "First Name": "Ji\u0159\u00ed",
+                "Last Name": "Zahradn\u00edk",
+                "Affiliation": "Department of Biomolecular Sciences, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Mehul S",
+                "Last Name": "Suthar",
+                "Affiliation": "Center for Childhood Infections and Vaccines, Children's Healthcare of Atlanta, Division of Infectious Diseases, Department of Pediatrics, Emory University School of Medicine, Atlanta, GA, USA."
+            },
+            {
+                "First Name": "Martha C",
+                "Last Name": "Nason",
+                "Affiliation": "Biostatistics Research Branch, Division of Clinical Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Kathryn E",
+                "Last Name": "Foulds",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Peter D",
+                "Last Name": "Kwong",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Mario",
+                "Last Name": "Roederer",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA."
+            },
+            {
+                "First Name": "Gideon",
+                "Last Name": "Schreiber",
+                "Affiliation": "Department of Biomolecular Sciences, Weizmann Institute of Science, Rehovot, Israel."
+            },
+            {
+                "First Name": "Robert A",
+                "Last Name": "Seder",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA. rseder@mail.nih.gov."
+            },
+            {
+                "First Name": "Daniel C",
+                "Last Name": "Douek",
+                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA. ddouek@mail.nih.gov."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2024"
+    },
+    {
         "PMID": "39071380",
         "Title": "HIV-1-envelope trimer transitions from prefusion-closed to CD4-bound-open conformations through an occluded-intermediate state.",
         "Abstract": "HIV-1 infection is initiated by the interaction between the gp120 subunit in the envelope (Env) trimer and the cellular receptor CD4 on host cells. This interaction induces substantial structural rearrangement of the Env trimer. Currently, static structural information for prefusion-closed trimers, CD4-bound prefusion-open trimers, and various antibody-bound trimers is available. However, dynamic features between these static states (e.g., transition structures) are not well understood. Here, we investigate the full transition pathway of a site specifically glycosylated Env trimer between prefusion-closed and CD4-bound-open conformations by collective molecular dynamics and single-molecule F\u00f6rster resonance energy transfer (smFRET). Our investigations reveal and confirm important features of the transition pathway, including movement of variable loops to generate a glycan hole at the trimer apex and formation or rearrangements of \u03b1-helices and \u03b2-strands. Notably, by comparing the transition pathway to known Env-structures, we uncover evidence for a transition intermediate, with four antibodies, Ab1303, Ab1573, b12, and DH851.3, recognizing this intermediate. Each of these four antibodies induce population shifts of Env to occupy a newly observed smFRET state: the \"occluded-intermediate\" state. We propose this occluded-intermediate state to be both a prevalent state of Env and an on-path conformation between prefusion-closed and CD4-bound-open states, previously overlooked in smFRET analyses.",
@@ -67,7 +381,18 @@
             "structure-guided design",
             "vaccine immunogen"
         ],
-        "MeSH terms": [],
+        "MeSH terms": [
+            "HIV Envelope Protein gp120",
+            "HIV Envelope Protein gp41",
+            "Humans",
+            "HIV-1",
+            "Protein Multimerization",
+            "Solubility",
+            "Antibodies, Neutralizing",
+            "CD4 Antigens",
+            "Protein Conformation",
+            "Protein Binding"
+        ],
         "Authors": [
             {
                 "First Name": "Peng",
@@ -54384,195 +54709,6 @@
             }
         ],
         "Journal": "Journal of virology",
-        "PubDate": "2009"
-    },
-    {
-        "PMID": "19535453",
-        "Title": "Transitions to and from the CD4-bound conformation are modulated by a single-residue change in the human immunodeficiency virus type 1 gp120 inner domain.",
-        "Abstract": "Binding to the primary receptor CD4 induces conformational changes in the human immunodeficiency virus type 1 (HIV-1) gp120 envelope glycoprotein that allow binding to the coreceptor (CCR5 or CXCR4) and ultimately trigger viral membrane-cell membrane fusion mediated by the gp41 transmembrane envelope glycoprotein. Here we report the derivation of an HIV-1 gp120 variant, H66N, that confers envelope glycoprotein resistance to temperature extremes. The H66N change decreases the spontaneous sampling of the CD4-bound conformation by the HIV-1 envelope glycoproteins, thus diminishing CD4-independent infection. The H66N change also stabilizes the HIV-1 envelope glycoprotein complex once the CD4-bound state is achieved, decreasing the probability of CD4-induced inactivation and revealing the enhancing effects of soluble CD4 binding on HIV-1 infection. In the CD4-bound conformation, the highly conserved histidine 66 is located between the receptor-binding and gp41-interactive surfaces of gp120. Thus, a single amino acid change in this strategically positioned gp120 inner domain residue influences the propensity of the HIV-1 envelope glycoproteins to negotiate conformational transitions to and from the CD4-bound state.",
-        "Keywords": [],
-        "MeSH terms": [
-            "Amino Acid Substitution",
-            "CD4 Antigens",
-            "Cell Line",
-            "HIV Envelope Protein gp120",
-            "HIV-1",
-            "Humans",
-            "Mutagenesis, Site-Directed",
-            "Mutation, Missense",
-            "Protein Binding",
-            "Protein Conformation",
-            "Virus Attachment"
-        ],
-        "Authors": [
-            {
-                "First Name": "Aemro",
-                "Last Name": "Kassa",
-                "Affiliation": "Department of Cancer Immunology and AIDS, Dana-Farber Cancer Institute, Division of AIDS, Harvard Medical School, Boston, Massachusetts 02115, USA."
-            },
-            {
-                "First Name": "Navid",
-                "Last Name": "Madani",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Arne",
-                "Last Name": "Sch\u00f6n",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Hillel",
-                "Last Name": "Haim",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Andr\u00e9s",
-                "Last Name": "Finzi",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Shi-Hua",
-                "Last Name": "Xiang",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Liping",
-                "Last Name": "Wang",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Amy",
-                "Last Name": "Princiotto",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Marie",
-                "Last Name": "Pancera",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Joel",
-                "Last Name": "Courter",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Amos B",
-                "Last Name": "Smith",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Ernesto",
-                "Last Name": "Freire",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Peter D",
-                "Last Name": "Kwong",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Joseph",
-                "Last Name": "Sodroski",
-                "Affiliation": ""
-            }
-        ],
-        "Journal": "Journal of virology",
-        "PubDate": "2009"
-    },
-    {
-        "PMID": "19478876",
-        "Title": "Structure-based stabilization of HIV-1 gp120 enhances humoral immune responses to the induced co-receptor binding site.",
-        "Abstract": "The human immunodeficiency virus type 1 (HIV-1) exterior envelope glycoprotein, gp120, possesses conserved binding sites for interaction with the primary virus receptor, CD4, and also for the co-receptor, generally CCR5. Although gp120 is a major target for virus-specific neutralizing antibodies, the gp120 variable elements and its malleable nature contribute to evasion of effective host-neutralizing antibodies. To understand the conformational character and immunogenicity of the gp120 receptor binding sites as potential vaccine targets, we introduced structure-based modifications to stabilize gp120 core proteins (deleted of the gp120 major variable regions) into the conformation recognized by both receptors. Thermodynamic analysis of the re-engineered core with selected ligands revealed significant stabilization of the receptor-binding regions. Stabilization of the co-receptor-binding region was associated with a marked increase in on-rate of ligand binding to this site as determined by surface plasmon resonance. Rabbit immunization studies showed that the conformational stabilization of core proteins, along with increased ligand affinity, was associated with strikingly enhanced humoral immune responses against the co-receptor-binding site. These results demonstrate that structure-based approaches can be exploited to stabilize a conformational site in a large functional protein to enhance immunogenic responses specific for that region.",
-        "Keywords": [],
-        "MeSH terms": [
-            "AIDS Vaccines",
-            "Animals",
-            "Antibody Formation",
-            "Binding Sites",
-            "CD4 Antigens",
-            "HIV Envelope Protein gp120",
-            "Humans",
-            "Ligands",
-            "Protein Conformation",
-            "Protein Engineering",
-            "Protein Stability",
-            "Rabbits",
-            "Receptors, CCR5",
-            "Receptors, HIV"
-        ],
-        "Authors": [
-            {
-                "First Name": "Barna",
-                "Last Name": "Dey",
-                "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, NIH, Bethesda, MD, USA."
-            },
-            {
-                "First Name": "Krisha",
-                "Last Name": "Svehla",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Ling",
-                "Last Name": "Xu",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Dianne",
-                "Last Name": "Wycuff",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Tongqing",
-                "Last Name": "Zhou",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Gerald",
-                "Last Name": "Voss",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Adhuna",
-                "Last Name": "Phogat",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Bimal K",
-                "Last Name": "Chakrabarti",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Yuxing",
-                "Last Name": "Li",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "George",
-                "Last Name": "Shaw",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Peter D",
-                "Last Name": "Kwong",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Gary J",
-                "Last Name": "Nabel",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "John R",
-                "Last Name": "Mascola",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Richard T",
-                "Last Name": "Wyatt",
-                "Affiliation": ""
-            }
-        ],
-        "Journal": "PLoS pathogens",
         "PubDate": "2009"
     }
 ]

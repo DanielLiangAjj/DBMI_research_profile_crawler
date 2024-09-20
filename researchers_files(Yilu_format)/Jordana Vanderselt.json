@@ -1,5 +1,685 @@
 [
     {
+        "PMID": "39218071",
+        "Title": "Identification of nonsense variants in the genomes of 15 Murciano-Granadina bucks and analysis of their segregation in parent-offspring trios.",
+        "Abstract": "Nonsense variants can inactivate gene function by causing the synthesis of truncated proteins or by inducing nonsense mediated decay of messenger RNAs. The occurrence of such variants in the genomes of livestock species is modulated by multiple demographic and selective factors. Even though nonsense variants can have causal effects on embryo lethality, abortions, and disease, their genomic distribution and segregation in domestic goats have not been characterized in depth yet. In this work, we have sequenced the genomes of 15 Murciano-Granadina bucks with an average coverage of 32.92 \u00d7 \u00b1 1.45 \u00d7 . Bioinformatic analysis revealed 947 nonsense variants consistently detected with SnpEff and Ensembl-VEP. These variants were especially abundant in the 3'end of the protein-coding regions. Genes related to olfactory perception, ATPase activity coupled to transmembrane movement of substances, defense to virus, hormonal response, and sensory perception of taste were particularly enriched in nonsense variants. Seventeen nonsense variants expected to have harmful effects on fitness were genotyped in parent-offspring trios. We observed that several nonsense variants predicted to be lethal based on mouse knockout data did not have such effect, a finding that could be explained by the existence of multiple mechanisms counteracting lethality. These findings demonstrate that predicting the effects of putative nonsense variants on fitness is extremely challenging. As a matter of fact, such a goal could only be achieved by generating a high quality telomere-to-telomere goat reference genome combined with carefully curated annotation and functional testing of promising candidate variants.",
+        "Keywords": [
+            "cost of domestication hypothesis",
+            "knockout",
+            "protein truncation",
+            "stop gain variant"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Ke",
+                "Last Name": "Wang",
+                "Affiliation": "Centre de Recerca Agrigen\u00f2mica (CRAG), CSIC-IRTA-UAB-UB, Campus Universitat Aut\u00f2noma de Barcelona, Bellaterra 08193, Spain.; Chinese Academy of Tropical Agricultural Sciences, Zhanjiang Experimental Station, Zhanjiang, Guangdong, 524000, China.; Departament de Ci\u00e8ncia Animal i dels Aliments, Facultat de Veterin\u00e0ria, Universitat Aut\u00f2noma de Barcelona, Bellaterra 08193, Spain."
+            },
+            {
+                "First Name": "Mar\u00eda Gracia",
+                "Last Name": "Luigi-Sierra",
+                "Affiliation": "Centre de Recerca Agrigen\u00f2mica (CRAG), CSIC-IRTA-UAB-UB, Campus Universitat Aut\u00f2noma de Barcelona, Bellaterra 08193, Spain."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Castell\u00f3",
+                "Affiliation": "Centre de Recerca Agrigen\u00f2mica (CRAG), CSIC-IRTA-UAB-UB, Campus Universitat Aut\u00f2noma de Barcelona, Bellaterra 08193, Spain.; Departament de Ci\u00e8ncia Animal i dels Aliments, Facultat de Veterin\u00e0ria, Universitat Aut\u00f2noma de Barcelona, Bellaterra 08193, Spain."
+            },
+            {
+                "First Name": "Taina",
+                "Last Name": "Figueiredo-Cardoso",
+                "Affiliation": "Centre de Recerca Agrigen\u00f2mica (CRAG), CSIC-IRTA-UAB-UB, Campus Universitat Aut\u00f2noma de Barcelona, Bellaterra 08193, Spain.; Departament de Ci\u00e8ncia Animal i dels Aliments, Facultat de Veterin\u00e0ria, Universitat Aut\u00f2noma de Barcelona, Bellaterra 08193, Spain."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Mercad\u00e9",
+                "Affiliation": "Departament de Ci\u00e8ncia Animal i dels Aliments, Facultat de Veterin\u00e0ria, Universitat Aut\u00f2noma de Barcelona, Bellaterra 08193, Spain."
+            },
+            {
+                "First Name": "Amparo",
+                "Last Name": "Mart\u00ednez",
+                "Affiliation": "Departamento de Gen\u00e9tica, Universidad de C\u00f3rdoba, C\u00f3rdoba 14071, Spain."
+            },
+            {
+                "First Name": "Juan Vicente",
+                "Last Name": "Delgado",
+                "Affiliation": "Departamento de Gen\u00e9tica, Universidad de C\u00f3rdoba, C\u00f3rdoba 14071, Spain."
+            },
+            {
+                "First Name": "Javier Fern\u00e1ndez",
+                "Last Name": "\u00c1lvarez",
+                "Affiliation": "Departamento de Gen\u00e9tica, Universidad de C\u00f3rdoba, C\u00f3rdoba 14071, Spain."
+            },
+            {
+                "First Name": "Antonia",
+                "Last Name": "Noce",
+                "Affiliation": "Centre de Recerca Agrigen\u00f2mica (CRAG), CSIC-IRTA-UAB-UB, Campus Universitat Aut\u00f2noma de Barcelona, Bellaterra 08193, Spain."
+            },
+            {
+                "First Name": "Mingjing",
+                "Last Name": "Wang",
+                "Affiliation": "Centre de Recerca Agrigen\u00f2mica (CRAG), CSIC-IRTA-UAB-UB, Campus Universitat Aut\u00f2noma de Barcelona, Bellaterra 08193, Spain."
+            },
+            {
+                "First Name": "Jordi",
+                "Last Name": "Jordana",
+                "Affiliation": "Departament de Ci\u00e8ncia Animal i dels Aliments, Facultat de Veterin\u00e0ria, Universitat Aut\u00f2noma de Barcelona, Bellaterra 08193, Spain."
+            },
+            {
+                "First Name": "Marcel",
+                "Last Name": "Amills",
+                "Affiliation": "Centre de Recerca Agrigen\u00f2mica (CRAG), CSIC-IRTA-UAB-UB, Campus Universitat Aut\u00f2noma de Barcelona, Bellaterra 08193, Spain.; Departament de Ci\u00e8ncia Animal i dels Aliments, Facultat de Veterin\u00e0ria, Universitat Aut\u00f2noma de Barcelona, Bellaterra 08193, Spain.. Electronic address: marcel.amills@uab.cat."
+            }
+        ],
+        "Journal": "Journal of dairy science",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39216416",
+        "Title": "Brain disorders in euthyroid Hashimoto's thyroiditis patients.",
+        "Abstract": "Hashimoto's thyroiditis (HT) is an autoimmune disorder characterized by the destruction of thyroid follicular cells by thyroid peroxidase antibodies (TPOAb) and thyroglobulin antibodies (TgAb), leading to hypothyroidism. Hashimoto's encephalopathy (HE) is associated with elevated levels of antithyroid antibodies. An important question is whether brain alterations precede the development of HE and are present in euthyroid patients with HT, and what pathomechanisms could be responsible for these changes. A PubMed search was conducted to identify studies addressing this issue. Numerous questionnaire studies confirmed impairments in cognitive functioning, mental and physical health, and overall well-being in euthyroid HT patients. Additionally, some imaging and mouse model studies indicate that euthyroid patients with HT likely have central nervous system alterations. Antibodies may be involved in the development of these changes. Some research suggests the role of TPOAb and TgAb, while other studies highlight the involvement of coexisting antibodies. Determining whether antibodies are assessed in serum or cerebrospinal fluid (CSF) is crucial. Antibody-specific indices (ASIs) can differentiate between antibodies passively diffusing from the serum and brain-derived antibodies, and could serve as biomarkers for brain alterations in HT patients. Much more research is needed to identify reliable biomarkers and treatments that could improve the quality of life for these patients.",
+        "Keywords": [
+            "Autoimmunity",
+            "Brain disorders",
+            "Central nervous system disorders",
+            "Hashimoto\u2019s thyroiditis",
+            "Neuroendocrinology",
+            "Psychiatric disorders"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Bogumi\u0142a",
+                "Last Name": "Strza\u0142kowska",
+                "Affiliation": "Department of Medical and Molecular Biology, Faculty of Medical Sciences in Zabrze, Medical University of Silesia in Katowice,\u00a0Jordana 19 Zabrze 41-800,\u00a0Poland. Electronic address: bogumilastrzal@gmail.com."
+            },
+            {
+                "First Name": "Janusz",
+                "Last Name": "Strzelczyk",
+                "Affiliation": "Division of Endocrinology, Department of Pathophysiology and Endocrinology, Silesian Medical University,\u00a0Ceglana 35,\u00a0Katowice 40-514,\u00a0Poland. Electronic address: januszstr@op.pl."
+            },
+            {
+                "First Name": "Miriam",
+                "Last Name": "Dawidowicz",
+                "Affiliation": "Department of Oncological Surgery, Faculty of Medical Sciences in Zabrze, Medical University of Silesia,\u00a0Katowice 41-808,\u00a0Poland. Electronic address: d201069@365.sum.edu.pl."
+            },
+            {
+                "First Name": "Agnieszka",
+                "Last Name": "Kula",
+                "Affiliation": "Department of Oncological Surgery, Faculty of Medical Sciences in Zabrze, Medical University of Silesia,\u00a0Katowice 41-808,\u00a0Poland. Electronic address: d201070@365.sum.edu.pl."
+            },
+            {
+                "First Name": "Sylwia",
+                "Last Name": "Mielcarska",
+                "Affiliation": "Department of Medical and Molecular Biology, Faculty of Medical Sciences in Zabrze, Medical University of Silesia in Katowice,\u00a0Jordana 19 Zabrze 41-800,\u00a0Poland. Electronic address: d201109@365.sum.edu.pl."
+            },
+            {
+                "First Name": "Rafa\u0142",
+                "Last Name": "Szarek",
+                "Affiliation": "Department of Microbiology and Immunology, Faculty of Medical Sciences in Zabrze, Medical University of Silesia in Katowice,\u00a019 Jordana,\u00a0Zabrze 41-800,\u00a0Poland. Electronic address: rafalszar@vp.pl."
+            },
+            {
+                "First Name": "El\u017cbieta",
+                "Last Name": "\u015awi\u0119tochowska",
+                "Affiliation": "Department of Medical and Molecular Biology, Faculty of Medical Sciences in Zabrze, Medical University of Silesia in Katowice,\u00a0Jordana 19 Zabrze 41-800,\u00a0Poland. Electronic address: elaswieta@interia.pl."
+            }
+        ],
+        "Journal": "Clinical neurology and neurosurgery",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39203727",
+        "Title": "Assessment of Nutritional Practices of Mountain Runners before and during Competitions.",
+        "Abstract": "Mountain running, distinct from traditional road running, involves natural trails with significant elevation changes. This study aims to analyze dietary and supplementation practices among advanced and elite Polish mountain runners. Conducted from May to October 2023, this study included 36 participants (13 women, 23 men) aged 21-43 years. A custom questionnaire assessed nutrition two days before and during a competition, focusing on macronutrient intake, hydration, and supplementation. Statistical analyses were performed to compare advanced and elite athletes. Participants consumed an average of 3164.14 kcal two days before and 3176.97 kcal the day before the competition. Carbohydrate intake averaged 7.69 g/kg two days before and 7.64 g/kg the day before the race, potentially insufficient for optimal glycogen stores. Protein intake was adequate, averaging 1.63 g/kg two days before and 1.73 g/kg the day before the race. Fluid intake averaged 2811.25 mL two days before and 2891.80 mL the day before the race. During races, carbohydrate intake averaged 58.56 g/h, with variations based on race duration. Most participants used isotonic drinks and water for hydration. Mountain runners generally adhere to proper nutrition guidelines, with adequate protein and fluid intake. However, their carbohydrate intake may be insufficient for longer races. Higher carbohydrate intake during exercise could provide additional benefits.",
+        "Keywords": [
+            "dietary practices",
+            "endurance athletes",
+            "nutritional habits",
+            "performance nutrition",
+            "race nutrition",
+            "sports nutrition"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Female",
+            "Adult",
+            "Male",
+            "Running",
+            "Young Adult",
+            "Dietary Carbohydrates",
+            "Dietary Proteins",
+            "Athletes",
+            "Poland",
+            "Dietary Supplements",
+            "Sports Nutritional Physiological Phenomena",
+            "Energy Intake",
+            "Nutritional Status",
+            "Diet",
+            "Surveys and Questionnaires",
+            "Competitive Behavior"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jan",
+                "Last Name": "Walczak",
+                "Affiliation": "Department of Food Technology and Quality Evaluation, Department of Dietetics, Faculty of Public Health in Bytom, Medical University of Silesia in Katowice, Ul. Jordana 19, 41-808 Zabrze, Poland."
+            },
+            {
+                "First Name": "Wiktoria",
+                "Last Name": "Sta\u015bkiewicz-Bartecka",
+                "Affiliation": "Department of Food Technology and Quality Evaluation, Department of Dietetics, Faculty of Public Health in Bytom, Medical University of Silesia in Katowice, Ul. Jordana 19, 41-808 Zabrze, Poland."
+            },
+            {
+                "First Name": "Agnieszka",
+                "Last Name": "Bia\u0142ek-Dratwa",
+                "Affiliation": "Department of Human Nutrition, Department of Dietetics, Faculty of Public Health in Bytom, Medical University of Silesia in Katowice, Ul. Jordana 19, 41-808 Zabrze, Poland."
+            },
+            {
+                "First Name": "Mateusz",
+                "Last Name": "Grajek",
+                "Affiliation": "Department of Public Health, Department of Public Health Policy, Faculty of Public Health in Bytom, Medical University of Silesia in Katowice, Ul. Piekarska 18, 41-902 Bytom, Poland."
+            },
+            {
+                "First Name": "Agata",
+                "Last Name": "Kiciak",
+                "Affiliation": "Department of Food Technology and Quality Evaluation, Department of Dietetics, Faculty of Public Health in Bytom, Medical University of Silesia in Katowice, Ul. Jordana 19, 41-808 Zabrze, Poland."
+            },
+            {
+                "First Name": "Agnieszka",
+                "Last Name": "Bielaszka",
+                "Affiliation": "Department of Food Technology and Quality Evaluation, Department of Dietetics, Faculty of Public Health in Bytom, Medical University of Silesia in Katowice, Ul. Jordana 19, 41-808 Zabrze, Poland."
+            },
+            {
+                "First Name": "Marek",
+                "Last Name": "Kardas",
+                "Affiliation": "Department of Food Technology and Quality Evaluation, Department of Dietetics, Faculty of Public Health in Bytom, Medical University of Silesia in Katowice, Ul. Jordana 19, 41-808 Zabrze, Poland."
+            }
+        ],
+        "Journal": "Nutrients",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39202564",
+        "Title": "Is Raman Spectroscopy of Fingernails a Promising Tool for Diagnosing Systemic and Dermatological Diseases in Adult and Pediatric Populations?",
+        "Abstract": "",
+        "Keywords": [
+            "Raman spectroscopy",
+            "adults",
+            "children",
+            "fingernails"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Spectrum Analysis, Raman",
+            "Nails",
+            "Child",
+            "Adult",
+            "Female",
+            "Onychomycosis",
+            "Skin Diseases",
+            "Keratins",
+            "Psoriasis",
+            "Diabetes Mellitus"
+        ],
+        "Authors": [
+            {
+                "First Name": "Teresa",
+                "Last Name": "Tabasz",
+                "Affiliation": "Faculty of Medical Sciences in Zabrze, Students Association, Medical University of Silesia, 41-808 Katowice, Poland."
+            },
+            {
+                "First Name": "Natalia",
+                "Last Name": "Szyma\u0144ska",
+                "Affiliation": "Faculty of Medical Sciences in Zabrze, Students Association, Medical University of Silesia, 41-808 Katowice, Poland."
+            },
+            {
+                "First Name": "Katarzyna",
+                "Last Name": "B\u0105k-Drabik",
+                "Affiliation": "Department of Paediatrics, Faculty of Medical Sciences in Zabrze, Medical University of Silesia, 41-808 Katowice, Poland."
+            },
+            {
+                "First Name": "Aleksandra",
+                "Last Name": "Damasiewicz-Bodzek",
+                "Affiliation": "Department of Chemistry, Faculty of Medical Sciences in Zabrze, Medical University of Silesia, Jordana 19, 41-808 Katowice, Poland."
+            },
+            {
+                "First Name": "Agnieszka",
+                "Last Name": "Nowak",
+                "Affiliation": "Department of Chemistry, Faculty of Medical Sciences in Zabrze, Medical University of Silesia, Jordana 19, 41-808 Katowice, Poland."
+            }
+        ],
+        "Journal": "Medicina (Kaunas, Lithuania)",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39200806",
+        "Title": "Measurement of Cardiothoracic Ratio on Chest X-rays Using Artificial Intelligence-A Systematic Review and Meta-Analysis.",
+        "Abstract": "",
+        "Keywords": [
+            "CTR",
+            "cardiothoracic ratio",
+            "chest X-ray",
+            "convolutional neural network",
+            "machine learning"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jakub",
+                "Last Name": "Kufel",
+                "Affiliation": "Department of Radiology and Nuclear Medicine, Faculty of Medical Sciences in Katowice, Medical University of Silesia, Medyk\u00f3w 14, 40-752 Katowice, Poland."
+            },
+            {
+                "First Name": "\u0141ukasz",
+                "Last Name": "Czogalik",
+                "Affiliation": "Students' Scientific Association of Computer Analysis and Artificial Intelligence, Department of Radiology and Nuclear Medicine, Medical University of Silesia in Katowice, 40-752 Katowice, Poland."
+            },
+            {
+                "First Name": "Micha\u0142",
+                "Last Name": "Biel\u00f3wka",
+                "Affiliation": "Students' Scientific Association of Computer Analysis and Artificial Intelligence, Department of Radiology and Nuclear Medicine, Medical University of Silesia in Katowice, 40-752 Katowice, Poland."
+            },
+            {
+                "First Name": "Miko\u0142aj",
+                "Last Name": "Magiera",
+                "Affiliation": "Students' Scientific Association of Computer Analysis and Artificial Intelligence, Department of Radiology and Nuclear Medicine, Medical University of Silesia in Katowice, 40-752 Katowice, Poland."
+            },
+            {
+                "First Name": "Adam",
+                "Last Name": "Mitr\u0119ga",
+                "Affiliation": "Students' Scientific Association of Computer Analysis and Artificial Intelligence, Department of Radiology and Nuclear Medicine, Medical University of Silesia in Katowice, 40-752 Katowice, Poland."
+            },
+            {
+                "First Name": "Piotr",
+                "Last Name": "Dudek",
+                "Affiliation": "Students' Scientific Association of Computer Analysis and Artificial Intelligence, Department of Radiology and Nuclear Medicine, Medical University of Silesia in Katowice, 40-752 Katowice, Poland."
+            },
+            {
+                "First Name": "Katarzyna",
+                "Last Name": "Bargie\u0142-\u0141\u0105czek",
+                "Affiliation": "Department of Diagnostic Imaging, Szpital Specjalistyczny im. Sz. Starkiewicza, 41-300 D\u0105browa G\u00f3rnicza, Poland."
+            },
+            {
+                "First Name": "Magdalena",
+                "Last Name": "Stencel",
+                "Affiliation": "Students' Scientific Association of Computer Analysis and Artificial Intelligence, Department of Radiology and Nuclear Medicine, Medical University of Silesia in Katowice, 40-752 Katowice, Poland."
+            },
+            {
+                "First Name": "Wiktoria",
+                "Last Name": "Bartnikowska",
+                "Affiliation": "Faculty of Medical Sciences in Katowice, Medical University of Silesia, 40-752 Katowice, Poland."
+            },
+            {
+                "First Name": "Sylwia",
+                "Last Name": "Mielcarska",
+                "Affiliation": "Department of Medical and Molecular Biology, Faculty of Medical Sciences, Medical University of Silesia, 41-808 Zabrze, Poland."
+            },
+            {
+                "First Name": "Sandra",
+                "Last Name": "Modli\u0144ska",
+                "Affiliation": "Department of Radiology and Nuclear Medicine, Faculty of Medical Sciences in Katowice, Medical University of Silesia, Medyk\u00f3w 14, 40-752 Katowice, Poland."
+            },
+            {
+                "First Name": "Zbigniew",
+                "Last Name": "Nawrat",
+                "Affiliation": "Foundation of Cardiac Surgery Development, 41-800 Zabrze, Poland."
+            },
+            {
+                "First Name": "Maciej",
+                "Last Name": "Cebula",
+                "Affiliation": "Individual Medical Practice Maciej Cebula, 40-754 Katowice, Poland."
+            },
+            {
+                "First Name": "Katarzyna",
+                "Last Name": "Gruszczy\u0144ska",
+                "Affiliation": "Department of Radiology and Nuclear Medicine, Faculty of Medical Sciences in Katowice, Medical University of Silesia, Medyk\u00f3w 14, 40-752 Katowice, Poland."
+            }
+        ],
+        "Journal": "Journal of clinical medicine",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39195084",
+        "Title": "Implant Health in Treated Periodontitis Patients: A Systematic Review and Meta-Analysis.",
+        "Abstract": "The aim of this meta-analysis was to evaluate the role of a history of periodontitis on implant failure. The two main judgment criteria studied are peri-implantitis and the survival rate. The two secondary judgment criteria studied are the mean pocket depth and the mean peri-implant bone loss.",
+        "Keywords": [
+            "dental implants",
+            "periodontal diseases",
+            "systematic review"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "L\u00e9a",
+                "Last Name": "Marty",
+                "Affiliation": "Dental Faculty, Nantes University, 1 Place Alexis Ricordeau, BP 84215, 44042 Nantes, France."
+            },
+            {
+                "First Name": "Alain",
+                "Last Name": "Hoornaert",
+                "Affiliation": "Dental Faculty, Nantes University, 1 Place Alexis Ricordeau, BP 84215, 44042 Nantes, France."
+            },
+            {
+                "First Name": "B\u00e9n\u00e9dicte",
+                "Last Name": "Enkel",
+                "Affiliation": "Dental Faculty, Nantes University, 1 Place Alexis Ricordeau, BP 84215, 44042 Nantes, France."
+            },
+            {
+                "First Name": "Alan",
+                "Last Name": "Penhoat",
+                "Affiliation": "Dental Faculty, Nantes University, 1 Place Alexis Ricordeau, BP 84215, 44042 Nantes, France."
+            },
+            {
+                "First Name": "Jacques",
+                "Last Name": "Colat-Parros",
+                "Affiliation": "Dental Faculty, University of Bordeaux, 146 Rue L\u00e9o Saignat, 33076 Bordeaux, France."
+            },
+            {
+                "First Name": "Assem",
+                "Last Name": "Soueidan",
+                "Affiliation": "Dental Faculty, Nantes University, 1 Place Alexis Ricordeau, BP 84215, 44042 Nantes, France."
+            },
+            {
+                "First Name": "Fabienne",
+                "Last Name": "Jordana",
+                "Affiliation": "Dental Faculty, Nantes University, 1 Place Alexis Ricordeau, BP 84215, 44042 Nantes, France."
+            }
+        ],
+        "Journal": "Dentistry journal",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39194785",
+        "Title": "A New Endemic Locality of ",
+        "Abstract": "",
+        "Keywords": [
+            "Babesia spp.",
+            "Borrelia burgdorferi sensu lato",
+            "Dermacentor reticulatus",
+            "Ixodes ricinus",
+            "sympatric tick species",
+            "tick distribution",
+            "tick expansion",
+            "tick-borne pathogens"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Marek",
+                "Last Name": "Asman",
+                "Affiliation": "Department of Medical and Molecular Biology, Faculty of Medical Sciences in Zabrze, Medical University of Silesia in Katowice, Jordana 19 St., 41-808 Zabrze, Poland."
+            },
+            {
+                "First Name": "Katarzyna",
+                "Last Name": "Bartosik",
+                "Affiliation": "Department of Biology and Parasitology, Chair of Pharmacology and Biology, Faculty of Health Sciences, Medical University of Lublin, Radziwi\u0142\u0142owska 11 St., 20-080 Lublin, Poland."
+            },
+            {
+                "First Name": "Justyna",
+                "Last Name": "Jakubas-Zawalska",
+                "Affiliation": "Sanitary-Epidemiological Station in \u015awinouj\u015bcie, D\u0105browskiego 4 St., 72-600 \u015awinouj\u015bcie, Poland."
+            },
+            {
+                "First Name": "Agata",
+                "Last Name": "\u015awi\u0119tek",
+                "Affiliation": "Department of Medical and Molecular Biology, Faculty of Medical Sciences in Zabrze, Medical University of Silesia in Katowice, Jordana 19 St., 41-808 Zabrze, Poland."
+            },
+            {
+                "First Name": "Joanna",
+                "Last Name": "Witecka",
+                "Affiliation": "Department of Parasitology, Faculty of Pharmaceutical Sciences in Sosnowiec, Medical University of Silesia in Katowice, Jedno\u015bci 8 St., 41-218 Sosnowiec, Poland."
+            }
+        ],
+        "Journal": "Insects",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39186808",
+        "Title": "Nuclear reassembly defects after mitosis trigger apoptotic and p53-dependent safeguard mechanisms in Drosophila.",
+        "Abstract": "In animals, mitosis involves the breakdown of the nuclear envelope and the sorting of individualized, condensed chromosomes. During mitotic exit, emerging nuclei reassemble a nuclear envelope around a single mass of interconnecting chromosomes. The molecular mechanisms of nuclear reassembly are incompletely understood. Moreover, the cellular and physiological consequences of defects in this process are largely unexplored. Here, we have characterized a mechanism essential for nuclear reassembly in Drosophila. We show that Ankle2 promotes the PP2A-dependent recruitment of BAF and Lamin at reassembling nuclei, and that failures in this mechanism result in severe nuclear defects after mitosis. We then took advantage of perturbations in this mechanism to investigate the physiological responses to nuclear reassembly defects during tissue development in vivo. Partial depletion of Ankle2, BAF, or Lamin in imaginal wing discs results in wing development defects accompanied by apoptosis. We found that blocking apoptosis strongly enhances developmental defects. Blocking p53 does not prevent apoptosis but enhances defects due to the loss of a cell cycle checkpoint. Our results suggest that apoptotic and p53-dependent responses play a crucial role in safeguarding tissue development in response to sporadic nuclear reassembly defects.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jingjing",
+                "Last Name": "Li",
+                "Affiliation": "Institute for Research in Immunology and Cancer, Universit\u00e9 de Montr\u00e9al, Montreal, Canada."
+            },
+            {
+                "First Name": "Laia",
+                "Last Name": "Jordana",
+                "Affiliation": "Institute for Research in Immunology and Cancer, Universit\u00e9 de Montr\u00e9al, Montreal, Canada."
+            },
+            {
+                "First Name": "Haytham",
+                "Last Name": "Mehsen",
+                "Affiliation": "Institute for Research in Immunology and Cancer, Universit\u00e9 de Montr\u00e9al, Montreal, Canada."
+            },
+            {
+                "First Name": "Xinyue",
+                "Last Name": "Wang",
+                "Affiliation": "Institute for Research in Immunology and Cancer, Universit\u00e9 de Montr\u00e9al, Montreal, Canada."
+            },
+            {
+                "First Name": "Vincent",
+                "Last Name": "Archambault",
+                "Affiliation": "Institute for Research in Immunology and Cancer, Universit\u00e9 de Montr\u00e9al, Montreal, Canada."
+            }
+        ],
+        "Journal": "PLoS biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39179652",
+        "Title": "Accuracy of vestibular schwannoma segmentation using deep learning models - a systematic review & meta-analysis.",
+        "Abstract": "Vestibular Schwannoma (VS) is a rare tumor with varied incidence rates, predominantly affecting the 60-69 age group. In the era of artificial intelligence (AI), deep learning (DL) algorithms show promise in automating diagnosis. However, a knowledge gap exists in the automated segmentation of VS using DL. To address this gap, this meta-analysis aims to provide insights into the current state of DL algorithms applied to MR images of VS.",
+        "Keywords": [
+            "Acoustic schwannoma",
+            "Deep learning",
+            "MRI",
+            "Tumor segmentation",
+            "Vestibular schwannoma"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Pawe\u0142",
+                "Last Name": "\u0141ajczak",
+                "Affiliation": "Department of Biophysics, Faculty of Medical Sciences in Zabrze, Medical University of Silesia in Katowice, Jordana 18, Mekelweg 5, Zabrze, 40-043,, Poland. pawel.lajczak03@outlook.com."
+            },
+            {
+                "First Name": "Jakub",
+                "Last Name": "Matyja",
+                "Affiliation": "TU Delft, Mekelweg 5,, Delft 2628 CD,, Netherlands."
+            },
+            {
+                "First Name": "Kamil",
+                "Last Name": "J\u00f3\u017awik",
+                "Affiliation": "Department of Biophysics, Faculty of Medical Sciences in Zabrze, Medical University of Silesia in Katowice, Jordana 18, Mekelweg 5, Zabrze, 40-043,, Poland."
+            },
+            {
+                "First Name": "Zbigniew",
+                "Last Name": "Nawrat",
+                "Affiliation": "Department of Biophysics, Faculty of Medical Sciences in Zabrze, Medical University of Silesia in Katowice, Jordana 18, Mekelweg 5, Zabrze, 40-043,, Poland."
+            }
+        ],
+        "Journal": "Neuroradiology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39145669",
+        "Title": "Sexual Health Implications of Return Migration for Women and Their Partners in Rural Mexico: A Critical Ethnography.",
+        "Abstract": "The return of a migrant partner can negatively impact the sexual health of women who stayed in their communities. Understanding their sexual health needs is crucial for developing targeted interventions and support systems. Our study used a critical ethnographic approach in Agua Dulce, a rural community in Mexico, involving 50 key informants: women who stayed behind (n = 20), returnees (n = 12), community leaders (n = 12), and health care professionals (n = 6). We used participant observation, policy analysis, and interviews, using purposeful and snowball sampling methods. A gender-based thematic analysis revealed economic hardships and early separations affect the sexual well-being of women who stay behind. Infidelity, discovered through social media or calls, causes emotional distress and family disruptions. Male migrants spend an average of 8.85 years abroad, leading to fears of risky sexual behaviors. Our study highlights the urgent need for specialized support centers and comprehensive health interventions.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Higinio",
+                "Last Name": "Fernandez-Sanchez",
+                "Affiliation": "Higinio Fernandez-Sanchez, PhD, RN, is an Assistant Professor, Cizik School of Nursing, University of Texas Health Science Center Houston, Houston, Texas, USA."
+            },
+            {
+                "First Name": "Minerva",
+                "Last Name": "Rocha-Fernandez",
+                "Affiliation": "Higinio Fernandez-Sanchez, PhD, RN, is an Assistant Professor, Cizik School of Nursing, University of Texas Health Science Center Houston, Houston, Texas, USA."
+            },
+            {
+                "First Name": "Jordana",
+                "Last Name": "Salma",
+                "Affiliation": "Higinio Fernandez-Sanchez, PhD, RN, is an Assistant Professor, Cizik School of Nursing, University of Texas Health Science Center Houston, Houston, Texas, USA."
+            },
+            {
+                "First Name": "Diane M",
+                "Last Name": "Santa Maria",
+                "Affiliation": "Higinio Fernandez-Sanchez, PhD, RN, is an Assistant Professor, Cizik School of Nursing, University of Texas Health Science Center Houston, Houston, Texas, USA."
+            },
+            {
+                "First Name": "Raquel A",
+                "Last Name": "Benavides-Torres",
+                "Affiliation": "Higinio Fernandez-Sanchez, PhD, RN, is an Assistant Professor, Cizik School of Nursing, University of Texas Health Science Center Houston, Houston, Texas, USA."
+            },
+            {
+                "First Name": "Bukola",
+                "Last Name": "Salami",
+                "Affiliation": "Higinio Fernandez-Sanchez, PhD, RN, is an Assistant Professor, Cizik School of Nursing, University of Texas Health Science Center Houston, Houston, Texas, USA."
+            }
+        ],
+        "Journal": "The Journal of the Association of Nurses in AIDS Care : JANAC",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39137780",
+        "Title": "Genetic effects on the skin methylome in healthy older twins.",
+        "Abstract": "Whole-skin DNA methylation variation has been implicated in several diseases, including melanoma, but its genetic basis has not yet been fully characterized. Using bulk skin tissue samples from 414 healthy female UK twins, we performed twin-based heritability and methylation quantitative trait loci (meQTL) analyses for >400,000 DNA methylation sites. We find that the human skin DNA methylome is on average less heritable than previously estimated in blood and other tissues (mean heritability: 10.02%). meQTL analysis identified local genetic effects influencing DNA methylation at 18.8% (76,442) of tested CpG sites, as well as 1,775 CpG sites associated with at least one distal genetic variant. As a functional follow-up, we performed skin expression QTL (eQTL) analyses in a partially overlapping sample of 604 female twins. Colocalization analysis identified over 3,500 shared genetic effects affecting thousands of CpG sites (10,067) and genes (4,475). Mediation analysis of putative colocalized gene-CpG pairs identified 114 genes with evidence for eQTL effects being mediated by DNA methylation in skin, including in genes implicating skin disease such as ALOX12 and CSPG4. We further explored the relevance of skin meQTLs to skin disease and found that skin meQTLs and CpGs under genetic influence were enriched for multiple skin-related genome-wide and epigenome-wide association signals, including for melanoma and psoriasis. Our findings give insights into the regulatory landscape of epigenomic variation in skin.",
+        "Keywords": [
+            "DNA methylation",
+            "QTLs",
+            "gene expression",
+            "heritability",
+            "skin"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Christopher J",
+                "Last Name": "Shore",
+                "Affiliation": "Department of Twin Research and Genetic Epidemiology, King's College London, London, UK. Electronic address: christopher.shore@kcl.ac.uk."
+            },
+            {
+                "First Name": "Sergio",
+                "Last Name": "Villica\u00f1a",
+                "Affiliation": "Department of Twin Research and Genetic Epidemiology, King's College London, London, UK."
+            },
+            {
+                "First Name": "Julia S",
+                "Last Name": "El-Sayed Moustafa",
+                "Affiliation": "Department of Twin Research and Genetic Epidemiology, King's College London, London, UK."
+            },
+            {
+                "First Name": "Amy L",
+                "Last Name": "Roberts",
+                "Affiliation": "Department of Twin Research and Genetic Epidemiology, King's College London, London, UK."
+            },
+            {
+                "First Name": "David A",
+                "Last Name": "Gunn",
+                "Affiliation": "Unilever R&D, King's College London, London, UK."
+            },
+            {
+                "First Name": "Veronique",
+                "Last Name": "Bataille",
+                "Affiliation": "Department of Twin Research and Genetic Epidemiology, King's College London, London, UK."
+            },
+            {
+                "First Name": "Panos",
+                "Last Name": "Deloukas",
+                "Affiliation": "William Harvey Research Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, London, UK."
+            },
+            {
+                "First Name": "Tim D",
+                "Last Name": "Spector",
+                "Affiliation": "Department of Twin Research and Genetic Epidemiology, King's College London, London, UK."
+            },
+            {
+                "First Name": "Kerrin S",
+                "Last Name": "Small",
+                "Affiliation": "Department of Twin Research and Genetic Epidemiology, King's College London, London, UK."
+            },
+            {
+                "First Name": "Jordana T",
+                "Last Name": "Bell",
+                "Affiliation": "Department of Twin Research and Genetic Epidemiology, King's College London, London, UK. Electronic address: jordana.bell@kcl.ac.uk."
+            }
+        ],
+        "Journal": "American journal of human genetics",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39125383",
+        "Title": "The Psychosocial Aspects of Vegetarian Diets: A Cross-Sectional Study of the Motivations, Risks, and Limitations in Daily Life.",
+        "Abstract": "The popularity of vegetarian and vegan diets is linked to various motivations, such as health, ethics, ecology, and social and religious influence. India has the highest proportion of vegetarians and vegans. The practise of these diets is linked to moral and health reasons and environmental concerns. Vegetarianism may also be associated with eating disorders such as orthorexia (ON).",
+        "Keywords": [
+            "eating disorders",
+            "orthorexia",
+            "psychosocial aspects",
+            "vegan diet",
+            "vegetarian diet"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Diet, Vegetarian",
+            "Male",
+            "Female",
+            "Cross-Sectional Studies",
+            "Adult",
+            "Motivation",
+            "Surveys and Questionnaires",
+            "Middle Aged",
+            "Feeding Behavior",
+            "Young Adult",
+            "India",
+            "Vegetarians",
+            "Feeding and Eating Disorders",
+            "Diet, Vegan",
+            "Risk Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Agnieszka",
+                "Last Name": "Bia\u0142ek-Dratwa",
+                "Affiliation": "Department of Human Nutrition, Department of Dietetics, Faculty of Public Health in Bytom, Medical University of Silesia in Katowice, ul. Jordana 19, 41-808 Zabrze, Poland."
+            },
+            {
+                "First Name": "Wiktoria",
+                "Last Name": "Sto\u0144",
+                "Affiliation": "Department of Human Nutrition, Department of Dietetics, Faculty of Public Health in Bytom, Medical University of Silesia in Katowice, ul. Jordana 19, 41-808 Zabrze, Poland."
+            },
+            {
+                "First Name": "Wiktoria",
+                "Last Name": "Sta\u015bkiewicz-Bartecka",
+                "Affiliation": "Department of Food Technology and Quality Assessment, School of Public Health in Bytom, Medical University of Silesia in Katowice, ul. Jordana 19, 41-808 Zabrze, Poland."
+            },
+            {
+                "First Name": "Mateusz",
+                "Last Name": "Grajek",
+                "Affiliation": "Department of Public Health, School of Public Health in Bytom, Medical University of Silesia in Katowice, ul. Piekarska 18, 41-902 Bytom, Poland."
+            },
+            {
+                "First Name": "Karolina",
+                "Last Name": "Krupa-Kotara",
+                "Affiliation": "Department of Epidemiology, School of Public Health in Bytom, Medical University of Silesia in Katowice, ul. Piekarska 18, 41-902 Bytom, Poland."
+            },
+            {
+                "First Name": "Oskar",
+                "Last Name": "Kowalski",
+                "Affiliation": "Department of Human Nutrition, Department of Dietetics, Faculty of Public Health in Bytom, Medical University of Silesia in Katowice, ul. Jordana 19, 41-808 Zabrze, Poland."
+            }
+        ],
+        "Journal": "Nutrients",
+        "PubDate": "2024"
+    },
+    {
         "PMID": "39068382",
         "Title": "Investigating the footprint of post-domestication dispersal on the diversity of modern European, African and Asian goats.",
         "Abstract": "Goats were domesticated in the Fertile Crescent about 10,000\u00a0years before present (YBP) and subsequently spread across Eurasia and Africa. This dispersal is expected to generate a gradient of declining genetic diversity with increasing distance from the areas of early livestock management. Previous studies have reported the existence of such genetic cline in European goat populations, but they were based on a limited number of microsatellite markers. Here, we have analyzed data generated by the AdaptMap project and other studies. More specifically, we have used the geographic coordinates and estimates of the observed (H",
@@ -2518,7 +3198,17 @@
             "Home",
             "Remote monitoring"
         ],
-        "MeSH terms": [],
+        "MeSH terms": [
+            "Cystic Fibrosis",
+            "Humans",
+            "COVID-19",
+            "Clinical Trials as Topic",
+            "Advisory Committees",
+            "United States",
+            "Endpoint Determination",
+            "SARS-CoV-2",
+            "Telemedicine"
+        ],
         "Authors": [
             {
                 "First Name": "Jordana E",
@@ -26160,761 +26850,5 @@
         ],
         "Journal": "Environmental monitoring and assessment",
         "PubDate": "2017"
-    },
-    {
-        "PMID": "29245463",
-        "Title": "A new species of the Chinese endemic genus ",
-        "Abstract": "We describe the male of Sinhomidia bicolor for the first time noting a morphological difference from the female. A new species, Sinhomidia guangxiensis sp. nov. is described and illustrated. The new species differs from S. bicolor by the appendages lacking scales, the mucronal basal spine reaching the apex of subapical tooth, the number of chaetae on the trochanteral organ and the distribution of macrochaetae on Th. II, Abd I and Abd II. A key to Sinhomidia species and a diagnostic table to separate male and female S. bicolor and the new species are provided.",
-        "Keywords": [
-            "Collembola, chaetotaxy, keys to species, Sinhomidia guangxiensis sp. nov."
-        ],
-        "MeSH terms": [
-            "Animal Distribution",
-            "Animal Structures",
-            "Animals",
-            "Arthropods",
-            "Extremities",
-            "Female",
-            "Male",
-            "Organ Size"
-        ],
-        "Authors": [
-            {
-                "First Name": "Han",
-                "Last Name": "Jin",
-                "Affiliation": "School of Life Sciences, Liaocheng University, Liaocheng, China 252059. user@example.com."
-            },
-            {
-                "First Name": "Shao-Bo",
-                "Last Name": "Jia",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Hua-Chao",
-                "Last Name": "Yan",
-                "Affiliation": ""
-            },
-            {
-                "First Name": "Rafael",
-                "Last Name": "Jordana",
-                "Affiliation": ""
-            }
-        ],
-        "Journal": "Zootaxa",
-        "PubDate": "2017"
-    },
-    {
-        "PMID": "29236758",
-        "Title": "Distinctive Collembola communities in the Mesovoid Shallow Substratum: First data for the Sierra de Guadarrama National Park (Central Spain) and a description of two new species of Orchesella (Entomobryidae).",
-        "Abstract": "Two new species of the genus Orchesella Templeton, 1836 have been identified following intensive sampling in the Colluvial Milieu Souterrain Superficiel (Mesovoid Shallow Substratum, or MSS) of the Sierra de Guadarrama using Subterranean Sampling Devices (SSD). The data were obtained from the first extraction of the traps between May and October of 2015. During a study of the Collembola taxon, 32 different genera (61 species) were identified. The highest representative genus presence in almost all traps was Orchesella, with two new species. One of the two species described had been misidentified until this study was carried out, indicating that their preferential habitat had not been sampled; the second species had never been identified. The community of the Orchesella species in the Colluvial MSS was investigated, leading to the conclusion that this environment has its own assemblage of characteristic species. The opportunity to study specimens that belong to five species of the genus Orchesella, including three previously recollected, has allowed for obtaining reliable information regarding their macrochaetotaxy. A part of this chaetotaxy is proposed as a useful diagnostic tool for the species of the genus. In conclusion, it can be affirmed that this study has demonstrated that the Colluvial Mesovoid Shallow Substratum (Colluvial MSS) has its own fauna, and it supports the hypothesis that it constitutes a new biotope, at least for Collembola.",
-        "Keywords": [],
-        "MeSH terms": [
-            "Animals",
-            "Arthropods",
-            "Microscopy, Electron, Scanning",
-            "Spain",
-            "Species Specificity"
-        ],
-        "Authors": [
-            {
-                "First Name": "Enrique",
-                "Last Name": "Baquero",
-                "Affiliation": "Departamento de Biolog\u00eda Animal, Universidad de Navarra, Pamplona, Spain."
-            },
-            {
-                "First Name": "Enrique",
-                "Last Name": "Ledesma",
-                "Affiliation": "Departamento de Ciencias de la Vida, Facultad de Biolog\u00eda Ciencias Ambientales y Qu\u00edmica, Universidad de Alcal\u00e1, Alcal\u00e1 de Henares, Madrid, Spain."
-            },
-            {
-                "First Name": "Jos\u00e9 D",
-                "Last Name": "Gilgado",
-                "Affiliation": "Departamento de Ciencias de la Vida, Facultad de Biolog\u00eda Ciencias Ambientales y Qu\u00edmica, Universidad de Alcal\u00e1, Alcal\u00e1 de Henares, Madrid, Spain."
-            },
-            {
-                "First Name": "Vicente M",
-                "Last Name": "Ortu\u00f1o",
-                "Affiliation": "Departamento de Ciencias de la Vida, Facultad de Biolog\u00eda Ciencias Ambientales y Qu\u00edmica, Universidad de Alcal\u00e1, Alcal\u00e1 de Henares, Madrid, Spain."
-            },
-            {
-                "First Name": "Rafael",
-                "Last Name": "Jordana",
-                "Affiliation": "Departamento de Biolog\u00eda Animal, Universidad de Navarra, Pamplona, Spain."
-            }
-        ],
-        "Journal": "PloS one",
-        "PubDate": "2017"
-    },
-    {
-        "PMID": "29228933",
-        "Title": "Pulmonary exacerbations and clinical outcomes in a longitudinal cohort of infants and preschool children with cystic fibrosis.",
-        "Abstract": "Pulmonary exacerbations (PEx) in school aged children and adults with cystic fibrosis (CF) lead to increased morbidity and lung function decline. However, the effect of exacerbations in young children with CF is not fully understood. We sought to characterize the frequency and clinical impact of PEx in a pilot study of infants and pre-school aged children with CF.",
-        "Keywords": [
-            "Antibiotics",
-            "Cystic fibrosis",
-            "Lung function",
-            "Pulmonary exacerbation"
-        ],
-        "MeSH terms": [
-            "Anti-Bacterial Agents",
-            "Child, Preschool",
-            "Cohort Studies",
-            "Cystic Fibrosis",
-            "Disease Progression",
-            "Female",
-            "Humans",
-            "Infant",
-            "Lung",
-            "Male",
-            "Pilot Projects",
-            "Radiography",
-            "Respiratory Function Tests"
-        ],
-        "Authors": [
-            {
-                "First Name": "Jordana E",
-                "Last Name": "Hoppe",
-                "Affiliation": "Department of Pediatrics, University of Colorado School of Medicine and Children's Hospital Colorado, 13123 E 16th Avenue, B-395, Aurora, CO, 80045, USA. jordana.hoppe@childrenscolorado.org."
-            },
-            {
-                "First Name": "Brandie D",
-                "Last Name": "Wagner",
-                "Affiliation": "Department of Pediatrics, University of Colorado School of Medicine and Children's Hospital Colorado, 13123 E 16th Avenue, B-395, Aurora, CO, 80045, USA."
-            },
-            {
-                "First Name": "Scott D",
-                "Last Name": "Sagel",
-                "Affiliation": "Department of Pediatrics, University of Colorado School of Medicine and Children's Hospital Colorado, 13123 E 16th Avenue, B-395, Aurora, CO, 80045, USA."
-            },
-            {
-                "First Name": "Frank J",
-                "Last Name": "Accurso",
-                "Affiliation": "Department of Pediatrics, University of Colorado School of Medicine and Children's Hospital Colorado, 13123 E 16th Avenue, B-395, Aurora, CO, 80045, USA."
-            },
-            {
-                "First Name": "Edith T",
-                "Last Name": "Zemanick",
-                "Affiliation": "Department of Pediatrics, University of Colorado School of Medicine and Children's Hospital Colorado, 13123 E 16th Avenue, B-395, Aurora, CO, 80045, USA."
-            }
-        ],
-        "Journal": "BMC pulmonary medicine",
-        "PubDate": "2017"
-    },
-    {
-        "PMID": "29216369",
-        "Title": "The Pentatricopeptide Repeat Protein MEF31 is Required for Editing at Site 581 of the Mitochondrial tatC Transcript and Indirectly Influences Editing at Site 586 of the Same Transcript.",
-        "Abstract": "Pentatricopeptide repeat (PPR) proteins constitute the largest family of proteins in angiosperms, and most members are predicted to play roles in the maturation of organellar RNAs. Here we describe the novel mitochondrial editing factor 31 (MEF31), an E-PPR protein involved in editing at two close sites in the same transcript encoding subunit C of the twin-arginine translocation (tat) pathway. MEF31 is essential for editing at site tatC-581 and application of the recently proposed amino acid code for RNA recognition by PPR proteins supports the view that MEF31 directly targets this site by recognizing its cis sequence. In contrast, editing at site tatC-586 five nucleotides downstream is only partially affected in plants lacking MEF31, being restored to wild-type levels in complemented plants. Application of the amino acid code and analysis of individual RNA molecules for editing at sites 581 and 586 suggest that MEF31 does not directly target site tatC-586, and only indirectly influences editing at this site. It is likely that editing at site tatC-581 improves recognition of the site tatC-586 cis sequence by a second unknown PPR protein.",
-        "Keywords": [],
-        "MeSH terms": [
-            "Amino Acid Sequence",
-            "Arabidopsis Proteins",
-            "Base Sequence",
-            "Chloroplast Proteins",
-            "Conserved Sequence",
-            "Green Fluorescent Proteins",
-            "Mitochondria",
-            "Mitochondrial Proteins",
-            "Models, Biological",
-            "Mutation",
-            "RNA Editing",
-            "RNA, Messenger",
-            "RNA-Binding Proteins",
-            "Seedlings"
-        ],
-        "Authors": [
-            {
-                "First Name": "Anita",
-                "Last Name": "Arenas-M",
-                "Affiliation": "Departamento de Gen\u00e9tica Molecular y Microbiolog\u00eda, Facultad de Ciencias Biol\u00f3gicas, Pontificia Universidad Cat\u00f3lica de Chile, 8331150 Santiago, Chile."
-            },
-            {
-                "First Name": "Enrique",
-                "Last Name": "Gonz\u00e1lez-Dur\u00e1n",
-                "Affiliation": "Departamento de Gen\u00e9tica Molecular y Microbiolog\u00eda, Facultad de Ciencias Biol\u00f3gicas, Pontificia Universidad Cat\u00f3lica de Chile, 8331150 Santiago, Chile."
-            },
-            {
-                "First Name": "Isabel",
-                "Last Name": "G\u00f3mez",
-                "Affiliation": "Departamento de Gen\u00e9tica Molecular y Microbiolog\u00eda, Facultad de Ciencias Biol\u00f3gicas, Pontificia Universidad Cat\u00f3lica de Chile, 8331150 Santiago, Chile."
-            },
-            {
-                "First Name": "Matthias",
-                "Last Name": "Burger",
-                "Affiliation": "Molekulare Botanik, Universit\u00e4t Ulm, D-89069 Ulm, Germany."
-            },
-            {
-                "First Name": "Axel",
-                "Last Name": "Brennicke",
-                "Affiliation": "Molekulare Botanik, Universit\u00e4t Ulm, D-89069 Ulm, Germany."
-            },
-            {
-                "First Name": "Mizuki",
-                "Last Name": "Takenaka",
-                "Affiliation": "Molekulare Botanik, Universit\u00e4t Ulm, D-89069 Ulm, Germany."
-            },
-            {
-                "First Name": "Xavier",
-                "Last Name": "Jordana",
-                "Affiliation": "Departamento de Gen\u00e9tica Molecular y Microbiolog\u00eda, Facultad de Ciencias Biol\u00f3gicas, Pontificia Universidad Cat\u00f3lica de Chile, 8331150 Santiago, Chile."
-            }
-        ],
-        "Journal": "Plant & cell physiology",
-        "PubDate": "2018"
-    },
-    {
-        "PMID": "29182953",
-        "Title": "The use of laser Doppler flowmetry to evaluate oral soft tissue blood flow in humans: A review.",
-        "Abstract": "The objective of this work is to define the conditions for improving the use of laser Doppler flowmetry (LDF) and to determine the limits for the use of this technique. This article systematically reviews the literature on the evaluation of oral soft tissue blood microcirculation by LDF. We analysed the available literature through October 2016 using the database resources Medline/PubMed, the Cochrane Oral Health Group Specialist Trials Register and the ISI Web of Knowledge. Several points emerged from this literature review The use of LDF involves specific constraints; however, the influence of different factors (temperature, tobacco, pressure etc.) must be adequately controlled when using LDF. LDF measurements of soft tissue within the oral cavity vary depending on the anatomical site. In dentistry, LDF can be used to track healing progress in periodontal surgery and to diagnose vascular flow changes in the connective tissue of mucosae covered by a removable prosthesis at an early stage prior to the onset of clinical inflammation signs.",
-        "Keywords": [
-            "Gingival blood flow",
-            "Laser Doppler flowmetry",
-            "Oral mucosa"
-        ],
-        "MeSH terms": [
-            "Humans",
-            "Laser-Doppler Flowmetry",
-            "Microcirculation",
-            "Mouth Mucosa",
-            "Regional Blood Flow"
-        ],
-        "Authors": [
-            {
-                "First Name": "Ayepa Alain",
-                "Last Name": "Kouadio",
-                "Affiliation": "Department of Prosthetic, UIC Odontology, Nantes Dental school 1, Place Alexis-Ricordeau, 44042 Nantes Cedex 1, France; UFR d'Odonto-stomatologie, Universit\u00e9 F\u00e9lix Houphou\u00ebt Boigny, 22 BP 612 Abidjan 22, Cote d'Ivoire. Electronic address: ayepa.Kouadio@univ-nantes.fr."
-            },
-            {
-                "First Name": "Fabienne",
-                "Last Name": "Jordana",
-                "Affiliation": "Department of Prosthetic, UIC Odontology, Nantes Dental school 1, Place Alexis-Ricordeau, 44042 Nantes Cedex 1, France. Electronic address: fabienne-Jordana@univ-nantes.fr."
-            },
-            {
-                "First Name": "N'goran Justin",
-                "Last Name": "Koffi",
-                "Affiliation": "UFR d'Odonto-stomatologie, Universit\u00e9 F\u00e9lix Houphou\u00ebt Boigny, 22 BP 612 Abidjan 22, Cote d'Ivoire. Electronic address: koffingoran@yahoo.fr."
-            },
-            {
-                "First Name": "Pierre",
-                "Last Name": "Le Bars",
-                "Affiliation": "Department of Prosthetic, UIC Odontology, Nantes Dental school 1, Place Alexis-Ricordeau, 44042 Nantes Cedex 1, France. Electronic address: pierre.le-bars@univ-nantes.fr."
-            },
-            {
-                "First Name": "Assem",
-                "Last Name": "Soueidan",
-                "Affiliation": "Department of Periodontology, UIC Odontology, Nantes Dental School 1, Place Alexis-Ricordeau, 44042 Nantes Cedex 1, France. Electronic address: assem-Soueidan@univ-nantes.fr."
-            }
-        ],
-        "Journal": "Archives of oral biology",
-        "PubDate": "2018"
-    },
-    {
-        "PMID": "29170508",
-        "Title": "Differential distribution of Y-chromosome haplotypes in Swiss and Southern European goat breeds.",
-        "Abstract": "The analysis of Y-chromosome variation has provided valuable clues about the paternal history of domestic animal populations. The main goal of the current work was to characterize Y-chromosome diversity in 31 goat populations from Central Eastern (Switzerland and Romania) and Southern Europe (Spain and Italy) as well as in reference populations from Africa and the Near East. Towards this end, we have genotyped seven single nucleotide polymorphisms (SNPs), mapping to the SRY, ZFY, AMELY and DDX3Y Y-linked loci, in 275 bucks from 31 populations. We have observed a low level of variability in the goat Y-chromosome, with just five haplotypes segregating in the whole set of populations. We have also found that Swiss bucks carry exclusively Y1 haplotypes (Y1A: 24%, Y1B1: 15%, Y1B2: 43% and Y1C: 18%), while in Italian and Spanish bucks Y2A is the most abundant haplotype (77%). Interestingly, in Carpathian goats from Romania the Y2A haplotype is also frequent (42%). The high Y-chromosome differentiation between Swiss and Italian/Spanish breeds might be due to the post-domestication spread of two different Near Eastern genetic stocks through the Danubian and Mediterranean corridors. Historical gene flow between Southern European and Northern African goats might have also contributed to generate such pattern of genetic differentiation.",
-        "Keywords": [],
-        "MeSH terms": [
-            "Animals",
-            "Genetics, Population",
-            "Genotype",
-            "Goats",
-            "Haplotypes",
-            "Microsatellite Repeats",
-            "Y Chromosome"
-        ],
-        "Authors": [
-            {
-                "First Name": "Oriol",
-                "Last Name": "Vidal",
-                "Affiliation": "Departament de Biologia, Universitat de Girona, 17003, Girona, Spain. oriol.vidal@udg.cat."
-            },
-            {
-                "First Name": "Cord",
-                "Last Name": "Dr\u00f6gem\u00fcller",
-                "Affiliation": "Institute of Genetics, University of Bern, Bern, 3001, Switzerland."
-            },
-            {
-                "First Name": "Gabriela",
-                "Last Name": "Obexer-Ruff",
-                "Affiliation": "Institute of Genetics, University of Bern, Bern, 3001, Switzerland."
-            },
-            {
-                "First Name": "Irene",
-                "Last Name": "Reber",
-                "Affiliation": "Institute of Genetics, University of Bern, Bern, 3001, Switzerland."
-            },
-            {
-                "First Name": "Jordi",
-                "Last Name": "Jordana",
-                "Affiliation": "Departament de Ci\u00e8ncia Animal i dels Aliments, Facultat de Veterin\u00e0ria, Universitat Aut\u00f2noma de Barcelona, 08193, Bellaterra, Spain."
-            },
-            {
-                "First Name": "Amparo",
-                "Last Name": "Mart\u00ednez",
-                "Affiliation": "Departamento de Gen\u00e9tica, Universidad de C\u00f3rdoba, 14071, C\u00f3rdoba, Spain."
-            },
-            {
-                "First Name": "Valentin Adrian",
-                "Last Name": "B\u00e2lteanu",
-                "Affiliation": "Institute of Life Sciences, Faculty of Animal Science and Biotechnologies, University of Agricultural Sciences and Veterinary Medicine, 400372, Cluj-Napoca, Romania."
-            },
-            {
-                "First Name": "Juan Vicente",
-                "Last Name": "Delgado",
-                "Affiliation": "Departamento de Gen\u00e9tica, Universidad de C\u00f3rdoba, 14071, C\u00f3rdoba, Spain."
-            },
-            {
-                "First Name": "Shahin",
-                "Last Name": "Eghbalsaied",
-                "Affiliation": "Transgenesis Center of Excellence, Isfahan (Khorasgan) Branch, Islamic Azad University, Isfahan, Iran."
-            },
-            {
-                "First Name": "Vincenzo",
-                "Last Name": "Landi",
-                "Affiliation": "Departamento de Gen\u00e9tica, Universidad de C\u00f3rdoba, 14071, C\u00f3rdoba, Spain."
-            },
-            {
-                "First Name": "Felix",
-                "Last Name": "Goyache",
-                "Affiliation": "\u00c1rea de Gen\u00e9tica y Reproducci\u00f3n Animal, SERIDA-Deva, Camino de Rioseco 1225, Gij\u00f3n, 33394, Spain."
-            },
-            {
-                "First Name": "Amadou",
-                "Last Name": "Traor\u00e9",
-                "Affiliation": "Institut de l'Environnement et Recherches Agricoles, 04 BP 8645, Ouagadougou, 04, Burkina Faso."
-            },
-            {
-                "First Name": "Michele",
-                "Last Name": "Pazzola",
-                "Affiliation": "Department of Veterinary Medicine, University of Sassari, 07100, Sassari, Italy."
-            },
-            {
-                "First Name": "Giuseppe Massimo",
-                "Last Name": "Vacca",
-                "Affiliation": "Department of Veterinary Medicine, University of Sassari, 07100, Sassari, Italy."
-            },
-            {
-                "First Name": "Bouabid",
-                "Last Name": "Badaoui",
-                "Affiliation": "University Mohammed V, Agdal, Faculty of Sciences, 4 Av. Ibn Battota, Rabat, Morocco."
-            },
-            {
-                "First Name": "Fabio",
-                "Last Name": "Pilla",
-                "Affiliation": "Dipartimento Agricoltura, Ambiente e Alimenti, Universit\u00e0 Degli Studi Del Molise, Campobasso, Italy."
-            },
-            {
-                "First Name": "Mariasilvia",
-                "Last Name": "D'Andrea",
-                "Affiliation": "Dipartimento Agricoltura, Ambiente e Alimenti, Universit\u00e0 Degli Studi Del Molise, Campobasso, Italy."
-            },
-            {
-                "First Name": "Isabel",
-                "Last Name": "\u00c1lvarez",
-                "Affiliation": "\u00c1rea de Gen\u00e9tica y Reproducci\u00f3n Animal, SERIDA-Deva, Camino de Rioseco 1225, Gij\u00f3n, 33394, Spain."
-            },
-            {
-                "First Name": "Juan",
-                "Last Name": "Capote",
-                "Affiliation": "Instituto Canario de Investigaciones Agrarias, Canary Islands, Tenerife, La Laguna 38108, Spain."
-            },
-            {
-                "First Name": "Abdoallah",
-                "Last Name": "Sharaf",
-                "Affiliation": "Genetic Department, Faculty of Agriculture, Ain Shams University, Cairo, 11241, Egypt."
-            },
-            {
-                "First Name": "\u00c0gueda",
-                "Last Name": "Pons",
-                "Affiliation": "Unitat de Races Aut\u00f2ctones, Servei de Millora Agr\u00e0ria, (SEMILLA-SAU), Son Ferriol, 07198, Spain."
-            },
-            {
-                "First Name": "Marcel",
-                "Last Name": "Amills",
-                "Affiliation": "Departament de Ci\u00e8ncia Animal i dels Aliments, Facultat de Veterin\u00e0ria, Universitat Aut\u00f2noma de Barcelona, 08193, Bellaterra, Spain."
-            }
-        ],
-        "Journal": "Scientific reports",
-        "PubDate": "2017"
-    },
-    {
-        "PMID": "29162890",
-        "Title": "Reconstructing molar growth from enamel histology in extant and extinct Equus.",
-        "Abstract": "The way teeth grow is recorded in dental enamel as incremental marks. Detailed analysis of tooth growth is known to provide valuable insights into the growth and the pace of life of vertebrates. Here, we study the growth pattern of the first lower molar in several extant and extinct species of Equus and explore its relationship with life history events. Our histological analysis shows that enamel extends beyond the molar's cervix in these mammals. We identified three different crown developmental stages (CDS) in the first lower molars of equids characterised by different growth rates and likely to be related to structural and ontogenetic modifications of the tooth. Enamel extension rate, which ranges from \u2248400 \u03bcm/d at the beginning of crown development to rates of \u224830 \u03bcm/d near the root, and daily secretion rate (\u224817 \u03bcm/d) have been shown to be very conservative within the genus. From our results, we also inferred data of molar wear rate for these equids that suggest higher wear rates at early ontogenetic stages (13\u2009mm/y) than commonly assumed. The results obtained here provide a basis for future studies of equid dentition in different scientific areas, involving isotope, demographic and dietary studies.",
-        "Keywords": [],
-        "MeSH terms": [
-            "Animals",
-            "Body Weight",
-            "Dental Enamel",
-            "Equidae",
-            "Extinction, Biological",
-            "Fossils",
-            "Molar",
-            "Tooth Crown",
-            "Tooth Root"
-        ],
-        "Authors": [
-            {
-                "First Name": "Carmen",
-                "Last Name": "Nacarino-Meneses",
-                "Affiliation": "Institut Catal\u00e0 de Paleontologia Miquel Crusafont (ICP), Campus de la Universitat Aut\u00f2noma de Barcelona, 08193 Bellaterra, Barcelona, Spain. carmen.nacarino@icp.cat."
-            },
-            {
-                "First Name": "Xavier",
-                "Last Name": "Jordana",
-                "Affiliation": "Unitat d'Antropologia Biol\u00f2gica, BABVE department, Universitat Aut\u00f2noma de Barcelona (UAB), 08193 Bellaterra, Barcelona, Spain."
-            },
-            {
-                "First Name": "Guillem",
-                "Last Name": "Orlandi-Oliveras",
-                "Affiliation": "Institut Catal\u00e0 de Paleontologia Miquel Crusafont (ICP), Campus de la Universitat Aut\u00f2noma de Barcelona, 08193 Bellaterra, Barcelona, Spain."
-            },
-            {
-                "First Name": "Meike",
-                "Last Name": "K\u00f6hler",
-                "Affiliation": "Institut Catal\u00e0 de Paleontologia Miquel Crusafont (ICP), Campus de la Universitat Aut\u00f2noma de Barcelona, 08193 Bellaterra, Barcelona, Spain."
-            }
-        ],
-        "Journal": "Scientific reports",
-        "PubDate": "2017"
-    },
-    {
-        "PMID": "29138683",
-        "Title": "The Evaluation of Oxidative Stress Parameters in Serum Patients with Relapsing-Remitting Multiple Sclerosis Treated with II-Line Immunomodulatory Therapy.",
-        "Abstract": "The assessment of oxidative stress (OS) in serum relapsing-remitting multiple sclerosis patients treated with II-line immunomodulatory therapy (fingolimod, natalizumab) compared to newly diagnosed patients (de novo group) treated with interferon (IFN) beta and controls. The relationship between OS parameters and gender, age, disease duration, Expanded Disability Status Scale, annualized relapse rate, MRI lesions in patients treated with II-line.",
-        "Keywords": [],
-        "MeSH terms": [
-            "Adult",
-            "Female",
-            "Fingolimod Hydrochloride",
-            "Humans",
-            "Immunomodulation",
-            "Immunosuppressive Agents",
-            "Lipid Peroxides",
-            "Lipofuscin",
-            "Male",
-            "Malondialdehyde",
-            "Multiple Sclerosis, Relapsing-Remitting",
-            "Natalizumab",
-            "Oxidative Stress"
-        ],
-        "Authors": [
-            {
-                "First Name": "Bo\u017cena",
-                "Last Name": "Adamczyk",
-                "Affiliation": "Department of Neurology in Zabrze, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia, Katowice, ul. 3 Maja 13-15, 41-800 Zabrze, Poland."
-            },
-            {
-                "First Name": "S\u0142awomir",
-                "Last Name": "Wawrzyniak",
-                "Affiliation": "Department of Neurology, 10th Military Research Hospital and Polyclinic, Independent Public Healthcare Centre, ul. Powsta\u0144c\u00f3w Warszawy 5, 85-681 Bydgoszcz, Poland."
-            },
-            {
-                "First Name": "S\u0142awomir",
-                "Last Name": "Kasperczyk",
-                "Affiliation": "Department of Biochemistry in Zabrze, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia, Katowice, ul. 3 Jordana 19, 41-808 Zabrze, Poland."
-            },
-            {
-                "First Name": "Monika",
-                "Last Name": "Adamczyk-Sowa",
-                "Affiliation": "Department of Neurology in Zabrze, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia, Katowice, ul. 3 Maja 13-15, 41-800 Zabrze, Poland."
-            }
-        ],
-        "Journal": "Oxidative medicine and cellular longevity",
-        "PubDate": "2017"
-    },
-    {
-        "PMID": "29137160",
-        "Title": "The Influence of Toothpaste Containing Australian Melaleuca alternifolia Oil and Ethanolic Extract of Polish Propolis on Oral Hygiene and Microbiome in Patients Requiring Conservative Procedures.",
-        "Abstract": "The study was based on the use of a toothpaste with antiphlogistic activity, containing Australian ",
-        "Keywords": [
-            "oral hygiene",
-            "oral microbiome",
-            "propolis",
-            "tea tree oil"
-        ],
-        "MeSH terms": [
-            "Dental Plaque",
-            "Female",
-            "Humans",
-            "Male",
-            "Microbiota",
-            "Mouth",
-            "Oral Hygiene",
-            "Propolis",
-            "Tea Tree Oil",
-            "Toothpastes"
-        ],
-        "Authors": [
-            {
-                "First Name": "Tomasz",
-                "Last Name": "Piekarz",
-                "Affiliation": "Doctoral Study, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Pl. Traugutta 2, 41-800 Zabrze, Poland. tomasz_lek_dent@interia.pl."
-            },
-            {
-                "First Name": "Anna",
-                "Last Name": "Mertas",
-                "Affiliation": "Department of Microbiology and Immunology, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Jordana 19, 41-808 Zabrze, Poland. amertas@sum.edu.pl."
-            },
-            {
-                "First Name": "Karolina",
-                "Last Name": "Wiatrak",
-                "Affiliation": "Doctoral Study, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Pl. Traugutta 2, 41-800 Zabrze, Poland. szczepa.karol@gmail.com."
-            },
-            {
-                "First Name": "Rafa\u0142",
-                "Last Name": "R\u00f3j",
-                "Affiliation": "Department of Prosthetic Dentistry, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Akademicki 17, 41-902 Bytom, Poland. rafstoma@gmail.com."
-            },
-            {
-                "First Name": "Patryk",
-                "Last Name": "Kownacki",
-                "Affiliation": "Department of Oral Surgery, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Pl. Akademicki 17, 41-902 Bytom, Poland. pkownacki@sum.edu.pl."
-            },
-            {
-                "First Name": "Joanna",
-                "Last Name": "\u015amieszek-Wilczewska",
-                "Affiliation": "Department of Oral Surgery, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Pl. Akademicki 17, 41-902 Bytom, Poland. tallen@poczta.onet.pl."
-            },
-            {
-                "First Name": "Ewelina",
-                "Last Name": "Kopczy\u0144ska",
-                "Affiliation": "Doctoral Study, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Pl. Traugutta 2, 41-800 Zabrze, Poland. ewelina.kopczynska90@gmail.com."
-            },
-            {
-                "First Name": "Maciej",
-                "Last Name": "Wrzo\u0142",
-                "Affiliation": "Department of Oral Surgery, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Pl. Akademicki 17, 41-902 Bytom, Poland. mwrzol@sum.edu.pl."
-            },
-            {
-                "First Name": "Maria",
-                "Last Name": "Cisowska",
-                "Affiliation": "Department of Microbiology and Immunology, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Jordana 19, 41-808 Zabrze, Poland. m.cisowska4@wp.pl."
-            },
-            {
-                "First Name": "Ewelina",
-                "Last Name": "Szliszka",
-                "Affiliation": "Department of Microbiology and Immunology, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Jordana 19, 41-808 Zabrze, Poland. eszliszka@sum.edu.pl."
-            },
-            {
-                "First Name": "Zenon P",
-                "Last Name": "Czuba",
-                "Affiliation": "Department of Microbiology and Immunology, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Jordana 19, 41-808 Zabrze, Poland. zczuba@sum.edu.pl."
-            },
-            {
-                "First Name": "Iwona",
-                "Last Name": "Niedzielska",
-                "Affiliation": "Department and Hospital of Craniomaxillofacial Surgery and Oral Surgery, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Pl. Akademicki 17, 41-902 Bytom, Poland. niedzielska.konsultant@wp.pl."
-            },
-            {
-                "First Name": "Tadeusz",
-                "Last Name": "Morawiec",
-                "Affiliation": "Department of Oral Surgery, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Pl. Akademicki 17, 41-902 Bytom, Poland. tmorawiec@sum.edu.pl."
-            }
-        ],
-        "Journal": "Molecules (Basel, Switzerland)",
-        "PubDate": "2017"
-    },
-    {
-        "PMID": "29104587",
-        "Title": "Notch and its oncogenic activity in human malignancies.",
-        "Abstract": "Increasing evidence has demonstrated that Notch signaling is deregulated in human hematological malignancies and solid tumors. This signaling has a\u00a0protumorigenic effect but may also act as a\u00a0tumor suppressor. How induction of a\u00a0single pathway gives rise to the opposite effects in different cell types is still unknown.",
-        "Keywords": [
-            "Cancer",
-            "Chemoresistance",
-            "Epithelial-to-mesenchymal transition",
-            "Notch"
-        ],
-        "MeSH terms": [],
-        "Authors": [
-            {
-                "First Name": "Marlena",
-                "Last Name": "Brzozowa-Zasada",
-                "Affiliation": "Department of Histology and Embryology, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia, Jordana\u00a019, 41-808 Zabrze, Poland."
-            },
-            {
-                "First Name": "Adam",
-                "Last Name": "Piecuch",
-                "Affiliation": "Department of Histology and Embryology, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia, Jordana\u00a019, 41-808 Zabrze, Poland."
-            },
-            {
-                "First Name": "Marek",
-                "Last Name": "Michalski",
-                "Affiliation": "Department of Histology and Embryology, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia, Jordana\u00a019, 41-808 Zabrze, Poland."
-            },
-            {
-                "First Name": "Oliwia",
-                "Last Name": "Segiet",
-                "Affiliation": "Department of Histology and Embryology, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia, Jordana\u00a019, 41-808 Zabrze, Poland."
-            },
-            {
-                "First Name": "J\u00f3zef",
-                "Last Name": "Kurek",
-                "Affiliation": "Municipal Hospital, Jaworzno, Poland."
-            },
-            {
-                "First Name": "Marzena",
-                "Last Name": "Harabin-S\u0142owi\u0144ska",
-                "Affiliation": "Department of Histology and Embryology, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia, Jordana\u00a019, 41-808 Zabrze, Poland."
-            },
-            {
-                "First Name": "Romuald",
-                "Last Name": "Wojnicz",
-                "Affiliation": "Department of Histology and Embryology, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia, Jordana\u00a019, 41-808 Zabrze, Poland."
-            }
-        ],
-        "Journal": "European surgery : ACA : Acta chirurgica Austriaca",
-        "PubDate": "2017"
-    },
-    {
-        "PMID": "29104263",
-        "Title": "Novel Triazole Hybrids of Betulin: Synthesis and Biological Activity Profile.",
-        "Abstract": "Betulin derivatives containing a 1,2,3-triazole ring possess a wide spectrum of biological activities, including antiviral, anticancer, and antibacterial activity. A series of novel triazoles were prepared by the 1,3-dipolar cycloaddition reaction between the alkyne derivatives of betulin and organic azides. The chemical structures of the obtained compounds were defined by \u00b9H and ",
-        "Keywords": [
-            "1,3-dipolar cycloaddition",
-            "anticancer activity",
-            "antimicrobial activity",
-            "antiviral activity",
-            "betulin",
-            "triazoles"
-        ],
-        "MeSH terms": [
-            "Anti-Bacterial Agents",
-            "Antineoplastic Agents",
-            "Cell Line, Tumor",
-            "Cell Proliferation",
-            "Escherichia coli",
-            "Gram-Negative Bacteria",
-            "Humans",
-            "Magnetic Resonance Spectroscopy",
-            "Mass Spectrometry",
-            "Microbial Sensitivity Tests",
-            "Structure-Activity Relationship",
-            "Triazoles",
-            "Triterpenes"
-        ],
-        "Authors": [
-            {
-                "First Name": "Ewa",
-                "Last Name": "B\u0119benek",
-                "Affiliation": "Department of Organic Chemistry, School of Pharmacy with the Division of Laboratory Medicine in Sosnowiec, Medical University of Silesia in Katowice, 4 Jagiello\u0144ska Str., 41-200 Sosnowiec, Poland. ebebenek@sum.edu.pl."
-            },
-            {
-                "First Name": "Maria",
-                "Last Name": "Jastrz\u0119bska",
-                "Affiliation": "Department of Solid State Physics, Institute of Physics, University of Silesia, 4 Uniwersytecka Str., 40-007 Katowice, Poland. mkadela@sum.edu.pl."
-            },
-            {
-                "First Name": "Monika",
-                "Last Name": "Kadela-Tomanek",
-                "Affiliation": "Department of Organic Chemistry, School of Pharmacy with the Division of Laboratory Medicine in Sosnowiec, Medical University of Silesia in Katowice, 4 Jagiello\u0144ska Str., 41-200 Sosnowiec, Poland. echrobak@sum.edu.pl."
-            },
-            {
-                "First Name": "Elwira",
-                "Last Name": "Chrobak",
-                "Affiliation": "Department of Organic Chemistry, School of Pharmacy with the Division of Laboratory Medicine in Sosnowiec, Medical University of Silesia in Katowice, 4 Jagiello\u0144ska Str., 41-200 Sosnowiec, Poland. boryczka@sum.edu.pl."
-            },
-            {
-                "First Name": "Beata",
-                "Last Name": "Orzechowska",
-                "Affiliation": "Hirszfeld Institute of Immunology and Experimental Therapy, Polish Academy of Sciences, Laboratory of Virology, 12 Rudolfa Weigla Str., 53-114 Wroc\u0142aw, Poland. orzechow@iitd.pan.wroc.pl."
-            },
-            {
-                "First Name": "Katarzyna",
-                "Last Name": "Zwoli\u0144ska",
-                "Affiliation": "Hirszfeld Institute of Immunology and Experimental Therapy, Polish Academy of Sciences, Laboratory of Virology, 12 Rudolfa Weigla Str., 53-114 Wroc\u0142aw, Poland. kjzwolinska@iitd.pan.wroc.pl."
-            },
-            {
-                "First Name": "Ma\u0142gorzata",
-                "Last Name": "Latocha",
-                "Affiliation": "Department of Cell Biology, School of Pharmacy with the Division of Laboratory Medicine in Sosnowiec, Medical University of Silesia in Katowice, 8 Jedno\u015bci Str., 41-200 Sosnowiec. maria.jastrzebska@us.edu.pl."
-            },
-            {
-                "First Name": "Anna",
-                "Last Name": "Mertas",
-                "Affiliation": "Department of Microbiology and Immunology, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, 19 Jordana Str., 41-808 Zabrze, Poland. amertas@sum.edu.pl."
-            },
-            {
-                "First Name": "Zenon",
-                "Last Name": "Czuba",
-                "Affiliation": "Department of Microbiology and Immunology, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, 19 Jordana Str., 41-808 Zabrze, Poland. zczuba@sum.edu.pl."
-            },
-            {
-                "First Name": "Stanis\u0142aw",
-                "Last Name": "Boryczka",
-                "Affiliation": "Department of Organic Chemistry, School of Pharmacy with the Division of Laboratory Medicine in Sosnowiec, Medical University of Silesia in Katowice, 4 Jagiello\u0144ska Str., 41-200 Sosnowiec, Poland. mlatocha@sum.edu.pl."
-            }
-        ],
-        "Journal": "Molecules (Basel, Switzerland)",
-        "PubDate": "2017"
-    },
-    {
-        "PMID": "29079348",
-        "Title": "Secretion of the angiogenic factor VEGF after photodynamic therapy with ALA under hypoxia-like conditions in colon cancer cells.",
-        "Abstract": "Photodynamic therapy (PDT), eliminates not only the tumor, but also modulates signaling factors release, e.g. vascular endothelial growth factor (VEGF), which plays a crucial role in cancer progression. Assessment of the VEGF-secreting activity of resistant colon cancer cells in different degree of malignancy: SW480 and SW620 under hypoxia-like conditions during \u03b4- aminolevulinic acid (ALA) PDT was the objective of our study.",
-        "Keywords": [
-            "Cobalt chloride (CoCl(2))",
-            "Colorectal cancer",
-            "Hypoxia-like conditions",
-            "Photodynamic therapy",
-            "Vascular endothelial growth factor"
-        ],
-        "MeSH terms": [
-            "Aminolevulinic Acid",
-            "Apoptosis",
-            "Cell Line, Tumor",
-            "Cell Survival",
-            "Colonic Neoplasms",
-            "Disease Progression",
-            "Dose-Response Relationship, Drug",
-            "Humans",
-            "Hypoxia",
-            "Photochemotherapy",
-            "Photosensitizing Agents",
-            "Vascular Endothelial Growth Factor A"
-        ],
-        "Authors": [
-            {
-                "First Name": "Aleksandra",
-                "Last Name": "Kawczyk-Krupka",
-                "Affiliation": "School of Medicine with the Division of Dentistry in Zabrze, Department of Internal Diseases, Angiology and Physical Medicine, Center for Laser Diagnostics and Therapy, Medical University of Silesia, Batorego Street 15, 41-902 Bytom, Poland. Electronic address: akawczyk@gmail.com."
-            },
-            {
-                "First Name": "Beata",
-                "Last Name": "Kwiatek",
-                "Affiliation": "Specialist Hospital No2, Department of Internal Diseases, Angiology and Physical Medicine, Center for Laser Diagnostics and Therapy, Batorego Street 15, 41-902 Bytom, Poland."
-            },
-            {
-                "First Name": "Zenon P",
-                "Last Name": "Czuba",
-                "Affiliation": "School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Department of Microbiology and Immunology, 19 Jordana St., 41-808 Zabrze, Poland. Electronic address: zczuba@sum.edu.pl."
-            },
-            {
-                "First Name": "Anna",
-                "Last Name": "Mertas",
-                "Affiliation": "School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Department of Microbiology and Immunology, 19 Jordana St., 41-808 Zabrze, Poland. Electronic address: amertas@sum.edu.pl."
-            },
-            {
-                "First Name": "Wojciech",
-                "Last Name": "Latos",
-                "Affiliation": "Specialist Hospital No2, Department of Internal Diseases, Angiology and Physical Medicine, Center for Laser Diagnostics and Therapy, Batorego Street 15, 41-902 Bytom, Poland. Electronic address: wojlatos@gmail.com."
-            },
-            {
-                "First Name": "Thomas",
-                "Last Name": "Verwanger",
-                "Affiliation": "Department of Molecular Biology, University of Salzburg, Hellbrunnerstrasse 34, 5020 Salzburg, Austria. Electronic address: thomas.verwanger@sbg.ac.at."
-            },
-            {
-                "First Name": "Barbara",
-                "Last Name": "Krammer",
-                "Affiliation": "Department of Molecular Biology, University of Salzburg, Hellbrunnerstrasse 34, 5020 Salzburg, Austria. Electronic address: barbara.krammer@sbg.ac.at."
-            },
-            {
-                "First Name": "Aleksander",
-                "Last Name": "Siero\u0144",
-                "Affiliation": "School of Medicine with the Division of Dentistry in Zabrze, Department of Internal Diseases, Angiology and Physical Medicine, Center for Laser Diagnostics and Therapy, Medical University of Silesia, Batorego Street 15, 41-902 Bytom, Poland."
-            }
-        ],
-        "Journal": "Photodiagnosis and photodynamic therapy",
-        "PubDate": "2018"
     }
 ]

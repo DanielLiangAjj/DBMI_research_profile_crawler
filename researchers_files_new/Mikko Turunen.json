@@ -1,0 +1,2368 @@
+[
+    {
+        "PMID": "38724493",
+        "Title": "Network-based elucidation of colon cancer drug resistance mechanisms by phosphoproteomic time-series analysis.",
+        "Abstract": "Aberrant signaling pathway activity is a hallmark of tumorigenesis and progression, which has guided targeted inhibitor design for over 30 years. Yet, adaptive resistance mechanisms, induced by rapid, context-specific signaling network rewiring, continue to challenge therapeutic efficacy. Leveraging progress in proteomic technologies and network-based methodologies, we introduce Virtual Enrichment-based Signaling Protein-activity Analysis (VESPA)-an algorithm designed to elucidate mechanisms of cell response and adaptation to drug perturbations-and use it to analyze 7-point phosphoproteomic time series from colorectal cancer cells treated with clinically-relevant inhibitors and control media. Interrogating tumor-specific enzyme/substrate interactions accurately infers kinase and phosphatase activity, based on their substrate phosphorylation state, effectively accounting for signal crosstalk and sparse phosphoproteome coverage. The analysis elucidates time-dependent signaling pathway response to each drug perturbation and, more importantly, cell adaptive response and rewiring, experimentally confirmed by CRISPR knock-out assays, suggesting broad applicability to cancer and other diseases.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Humans",
+            "Drug Resistance, Neoplasm",
+            "Proteomics",
+            "Phosphoproteins",
+            "Signal Transduction",
+            "Colonic Neoplasms",
+            "Cell Line, Tumor",
+            "Phosphorylation",
+            "Algorithms",
+            "Proteome",
+            "Antineoplastic Agents"
+        ],
+        "Authors": [
+            {
+                "First Name": "George",
+                "Last Name": "Rosenberger",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Wenxue",
+                "Last Name": "Li",
+                "Affiliation": "Yale Cancer Biology Institute, Yale University, West Haven, CT, USA."
+            },
+            {
+                "First Name": "Mikko",
+                "Last Name": "Turunen",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jing",
+                "Last Name": "He",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Prem S",
+                "Last Name": "Subramaniam",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Sergey",
+                "Last Name": "Pampou",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Aaron T",
+                "Last Name": "Griffin",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Charles",
+                "Last Name": "Karan",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Kerwin",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Diana",
+                "Last Name": "Murray",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Barry",
+                "Last Name": "Honig",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Yansheng",
+                "Last Name": "Liu",
+                "Affiliation": "Yale Cancer Biology Institute, Yale University, West Haven, CT, USA. yansheng.liu@yale.edu."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA. ac2248@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37873470",
+        "Title": "Elucidating Compound Mechanism of Action and Polypharmacology with a Large-scale Perturbational Profile Compendium.",
+        "Abstract": "The Mechanism of Action (MoA) of a drug is generally represented as a small, non-tissue-specific repertoire of high-affinity binding targets. Yet, drug activity and polypharmacology are increasingly associated with a broad range of off-target and tissue-specific effector proteins. To address this challenge, we have leveraged a microfluidics-based Plate-Seq technology to survey drug perturbational profiles representing >700 FDA-approved and experimental oncology drugs, in cell lines selected as high-fidelity models of 23 aggressive tumor subtypes. Built on this dataset, we implemented an efficient computational framework to define a tissue-specific protein activity landscape of these drugs and reported almost 50 million differential protein activities derived from drug perturbations ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Lucas ZhongMing",
+                "Last Name": "Hu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eugene",
+                "Last Name": "Douglass",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mikko",
+                "Last Name": "Turunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sergey",
+                "Last Name": "Pampou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Adina",
+                "Last Name": "Grunn",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ron",
+                "Last Name": "Realubit",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Albert A",
+                "Last Name": "Antolin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alexander L E",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hai",
+                "Last Name": "Li",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Prem",
+                "Last Name": "Subramaniam",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Prabhjot S",
+                "Last Name": "Mundi",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Charles",
+                "Last Name": "Karan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mariano",
+                "Last Name": "Alvarez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37116491",
+        "Title": "Systematic elucidation and pharmacological targeting of tumor-infiltrating regulatory T cell master regulators.",
+        "Abstract": "Due to their immunosuppressive role, tumor-infiltrating regulatory T cells (TI-Tregs) represent attractive immuno-oncology targets. Analysis of TI vs. peripheral Tregs (P-Tregs) from 36 patients, across four malignancies, identified 17 candidate master regulators (MRs) as mechanistic determinants of TI-Treg transcriptional state. Pooled CRISPR-Cas9 screening in vivo, using a chimeric hematopoietic stem cell transplant model, confirmed the essentiality of eight MRs in TI-Treg recruitment and/or retention without affecting other T cell subtypes, and targeting one of the most significant MRs (Trps1) by CRISPR KO significantly reduced ectopic tumor growth. Analysis of drugs capable of inverting TI-Treg MR activity identified low-dose gemcitabine as the top prediction. Indeed, gemcitabine treatment inhibited tumor growth in immunocompetent but not immunocompromised allografts, increased anti-PD-1 efficacy, and depleted MR-expressing TI-Tregs in vivo. This study provides key insight into Treg signaling, specifically in the context of cancer, and a generalizable strategy to systematically elucidate and target MR proteins in immunosuppressive subpopulations.",
+        "Keywords": [
+            "TRPS1",
+            "cancer systems biology",
+            "gemcitabine",
+            "master regulator analysis",
+            "regulatory T cells",
+            "tumor immunology"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "T-Lymphocytes, Regulatory",
+            "Neoplasms",
+            "Proteins",
+            "Lymphocytes, Tumor-Infiltrating",
+            "Repressor Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Aleksandar",
+                "Last Name": "Obradovic",
+                "Affiliation": "Columbia Center for Translational Immunology, Irving Medical Center, New York, NY, USA; Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Casey",
+                "Last Name": "Ager",
+                "Affiliation": "Columbia Center for Translational Immunology, Irving Medical Center, New York, NY, USA; Department of Hematology Oncology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Mikko",
+                "Last Name": "Turunen",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Nirschl",
+                "Affiliation": "Department of Oncology, The Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Mohsen",
+                "Last Name": "Khosravi-Maharlooei",
+                "Affiliation": "Columbia Center for Translational Immunology, Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Alina",
+                "Last Name": "Iuga",
+                "Affiliation": "Department of Pathology, UNC School of Medicine, Chapel Hill, NC, USA."
+            },
+            {
+                "First Name": "Christopher M",
+                "Last Name": "Jackson",
+                "Affiliation": "Department of Neurosurgery, The Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Srinivasan",
+                "Last Name": "Yegnasubramanian",
+                "Affiliation": "Department of Oncology, The Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Lorenzo",
+                "Last Name": "Tomassoni",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Ester Calvo",
+                "Last Name": "Fernandez",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "McCann",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Meri",
+                "Last Name": "Rogava",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Angelo M",
+                "Last Name": "DeMarzo",
+                "Affiliation": "Department of Oncology, The Johns Hopkins University School of Medicine, Baltimore, MD, USA; Department of Urology, The Johns Hopkins University School of Medicine, Baltimore, MD, USA; Department of Pathology, The Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Christina M",
+                "Last Name": "Kochel",
+                "Affiliation": "Department of Oncology, The Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Mohamad",
+                "Last Name": "Allaf",
+                "Affiliation": "Department of Urology, The Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Trinity",
+                "Last Name": "Bivalacqua",
+                "Affiliation": "Department of Urology, The Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Michael",
+                "Last Name": "Lim",
+                "Affiliation": "Department of Neurosurgery, Stanford School of Medicine, Palo Alto, CA, USA."
+            },
+            {
+                "First Name": "Ronald",
+                "Last Name": "Realubit",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA; J.P. Sulzberger Columbia Genome Center, Columbia University, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Charles",
+                "Last Name": "Karan",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA; J.P. Sulzberger Columbia Genome Center, Columbia University, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Charles G",
+                "Last Name": "Drake",
+                "Affiliation": "Columbia Center for Translational Immunology, Irving Medical Center, New York, NY, USA; Department of Oncology, The Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA; Department of Oncology, The Johns Hopkins University School of Medicine, Baltimore, MD, USA; J.P. Sulzberger Columbia Genome Center, Columbia University, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA; Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA; Department of Biochemistry and Molecular Biophysics, Columbia University Irving Medical Center, New York, NY, USA; Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA. Electronic address: ac2248@cumc.columbia.edu."
+            }
+        ],
+        "Journal": "Cancer cell",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "36824919",
+        "Title": "Network-based elucidation of colon cancer drug resistance by phosphoproteomic time-series analysis.",
+        "Abstract": "Aberrant signaling pathway activity is a hallmark of tumorigenesis and progression, which has guided targeted inhibitor design for over 30 years. Yet, adaptive resistance mechanisms, induced by rapid, context-specific signaling network rewiring, continue to challenge therapeutic efficacy. By leveraging progress in proteomic technologies and network-based methodologies, over the past decade, we developed VESPA-an algorithm designed to elucidate mechanisms of cell response and adaptation to drug perturbations-and used it to analyze 7-point phosphoproteomic time series from colorectal cancer cells treated with clinically-relevant inhibitors and control media. Interrogation of tumor-specific enzyme/substrate interactions accurately inferred kinase and phosphatase activity, based on their inferred substrate phosphorylation state, effectively accounting for signal cross-talk and sparse phosphoproteome coverage. The analysis elucidated time-dependent signaling pathway response to each drug perturbation and, more importantly, cell adaptive response and rewiring that was experimentally confirmed by CRISPRko assays, suggesting broad applicability to cancer and other diseases.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "George",
+                "Last Name": "Rosenberger",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Wenxue",
+                "Last Name": "Li",
+                "Affiliation": "Yale Cancer Biology Institute, Yale University, West Haven, CT, USA."
+            },
+            {
+                "First Name": "Mikko",
+                "Last Name": "Turunen",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Jing",
+                "Last Name": "He",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Prem S",
+                "Last Name": "Subramaniam",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Sergey",
+                "Last Name": "Pampou",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Aaron T",
+                "Last Name": "Griffin",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Charles",
+                "Last Name": "Karan",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Kerwin",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Diana",
+                "Last Name": "Murray",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Barry",
+                "Last Name": "Honig",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            },
+            {
+                "First Name": "Yansheng",
+                "Last Name": "Liu",
+                "Affiliation": "Yale Cancer Biology Institute, Yale University, West Haven, CT, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "31316122",
+        "Title": "Changes in nuclear and cytoplasmic microRNA distribution in response to hypoxic stress.",
+        "Abstract": "MicroRNAs (miRNAs) are small non-coding RNAs that have well-characterized roles in cytoplasmic gene regulation, where they act by binding to mRNA transcripts and inhibiting their translation (i.e. post-transcriptional gene silencing, PTGS). However, miRNAs have also been implicated in transcriptional gene regulation and alternative splicing, events that are restricted to the cell nucleus. Here we performed nuclear-cytoplasmic fractionation in a mouse endothelial cell line and characterized the localization of miRNAs in response to hypoxia using small RNA sequencing. A highly diverse population of abundant miRNA species was detected in the nucleus, of which the majority (56%) was found to be preferentially localized in one compartment or the other. Induction of hypoxia resulted in changes in miRNA levels in both nuclear and cytoplasmic compartments, with the majority of changes being restricted to one location and not the other. Notably, the classical hypoxamiR (miR-210-3p) was highly up-regulated in the nuclear compartment after hypoxic stimulus. These findings reveal a previously unappreciated level of molecular complexity in the physiological response occurring in ischemic tissue. Furthermore, widespread differential miRNA expression in the nucleus strongly suggests that these small RNAs are likely to perform extensive nuclear regulatory functions in the general case.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Hypoxia",
+            "Cell Line",
+            "Cell Nucleus",
+            "Cytoplasm",
+            "Endothelial Cells",
+            "Gene Expression Regulation",
+            "Mice",
+            "MicroRNAs",
+            "Stress, Physiological"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tiia A",
+                "Last Name": "Turunen",
+                "Affiliation": "A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland, Yliopistonranta 1E, 70210, Kuopio, Finland."
+            },
+            {
+                "First Name": "Thomas C",
+                "Last Name": "Roberts",
+                "Affiliation": "Department of Paediatrics, University of Oxford, South Parks Road, Oxford, OX1 3QX, UK."
+            },
+            {
+                "First Name": "Pia",
+                "Last Name": "Laitinen",
+                "Affiliation": "A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland, Yliopistonranta 1E, 70210, Kuopio, Finland."
+            },
+            {
+                "First Name": "Mari-Anna",
+                "Last Name": "Väänänen",
+                "Affiliation": "A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland, Yliopistonranta 1E, 70210, Kuopio, Finland."
+            },
+            {
+                "First Name": "Paula",
+                "Last Name": "Korhonen",
+                "Affiliation": "A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland, Yliopistonranta 1E, 70210, Kuopio, Finland."
+            },
+            {
+                "First Name": "Tarja",
+                "Last Name": "Malm",
+                "Affiliation": "A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland, Yliopistonranta 1E, 70210, Kuopio, Finland."
+            },
+            {
+                "First Name": "Seppo",
+                "Last Name": "Ylä-Herttuala",
+                "Affiliation": "A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland, Yliopistonranta 1E, 70210, Kuopio, Finland."
+            },
+            {
+                "First Name": "Mikko P",
+                "Last Name": "Turunen",
+                "Affiliation": "A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland, Yliopistonranta 1E, 70210, Kuopio, Finland. mikko.turunen@uef.fi."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30202008",
+        "Title": "Contribution of allelic imbalance to colorectal cancer.",
+        "Abstract": "Point mutations in cancer have been extensively studied but chromosomal gains and losses have been more challenging to interpret due to their unspecific nature. Here we examine high-resolution allelic imbalance (AI) landscape in 1699 colorectal cancers, 256 of which have been whole-genome sequenced (WGSed). The imbalances pinpoint 38 genes as plausible AI targets based on previous knowledge. Unbiased CRISPR-Cas9 knockout and activation screens identified in total 79 genes within AI peaks regulating cell growth. Genetic and functional data implicate loss of TP53 as a sufficient driver of AI. The WGS highlights an influence of copy number aberrations on the rate of detected somatic point mutations. Importantly, the data reveal several associations between AI target genes, suggesting a role for a network of lineage-determining transcription factors in colorectal tumorigenesis. Overall, the results unravel the contribution of AI in colorectal cancer and provide a plausible explanation why so few genes are commonly affected by point mutations in cancers.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Allelic Imbalance",
+            "CRISPR-Cas Systems",
+            "Chromosome Aberrations",
+            "Chromosomes, Human, Pair 8",
+            "Colorectal Neoplasms",
+            "DNA Copy Number Variations",
+            "Denmark",
+            "Gene Expression Profiling",
+            "Genetic Predisposition to Disease",
+            "Genomics",
+            "Genotype",
+            "Humans",
+            "Loss of Heterozygosity",
+            "Microsatellite Repeats",
+            "Phenotype",
+            "Point Mutation",
+            "Proto-Oncogene Proteins p21(ras)",
+            "RNA, Small Interfering",
+            "Transcription Factors",
+            "Tumor Suppressor Protein p53",
+            "Whole Genome Sequencing"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kimmo",
+                "Last Name": "Palin",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Esa",
+                "Last Name": "Pitkänen",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Mikko",
+                "Last Name": "Turunen",
+                "Affiliation": "Genome-Scale Biology Research Program, Research Programs Unit, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Biswajyoti",
+                "Last Name": "Sahu",
+                "Affiliation": "Genome-Scale Biology Research Program, Research Programs Unit, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Päivi",
+                "Last Name": "Pihlajamaa",
+                "Affiliation": "Genome-Scale Biology Research Program, Research Programs Unit, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Teemu",
+                "Last Name": "Kivioja",
+                "Affiliation": "Genome-Scale Biology Research Program, Research Programs Unit, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Eevi",
+                "Last Name": "Kaasinen",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Niko",
+                "Last Name": "Välimäki",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Ulrika A",
+                "Last Name": "Hänninen",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Tatiana",
+                "Last Name": "Cajuso",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Mervi",
+                "Last Name": "Aavikko",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Sari",
+                "Last Name": "Tuupanen",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Outi",
+                "Last Name": "Kilpivaara",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Linda",
+                "Last Name": "van den Berg",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Johanna",
+                "Last Name": "Kondelin",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Tomas",
+                "Last Name": "Tanskanen",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Riku",
+                "Last Name": "Katainen",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Marta",
+                "Last Name": "Grau",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Heli",
+                "Last Name": "Rauanheimo",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Roosa-Maria",
+                "Last Name": "Plaketti",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Aurora",
+                "Last Name": "Taira",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Päivi",
+                "Last Name": "Sulo",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Tuomo",
+                "Last Name": "Hartonen",
+                "Affiliation": "Genome-Scale Biology Research Program, Research Programs Unit, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Kashyap",
+                "Last Name": "Dave",
+                "Affiliation": "Division of Functional Genomics and Systems Biology, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Scheeles väg 2, SE-17165, Stockholm, Sweden."
+            },
+            {
+                "First Name": "Bernhard",
+                "Last Name": "Schmierer",
+                "Affiliation": "Division of Functional Genomics and Systems Biology, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Scheeles väg 2, SE-17165, Stockholm, Sweden."
+            },
+            {
+                "First Name": "Sandeep",
+                "Last Name": "Botla",
+                "Affiliation": "Division of Functional Genomics and Systems Biology, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Scheeles väg 2, SE-17165, Stockholm, Sweden."
+            },
+            {
+                "First Name": "Maria",
+                "Last Name": "Sokolova",
+                "Affiliation": "Genome-Scale Biology Research Program, Research Programs Unit, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Vähärautio",
+                "Affiliation": "Genome-Scale Biology Research Program, Research Programs Unit, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Kornelia",
+                "Last Name": "Gladysz",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Halit",
+                "Last Name": "Ongen",
+                "Affiliation": "Genetic Medicine and Development, University of Geneva Medical School-CMU, 1 Rue Michel-Servet, 1211, Geneva, Switzerland."
+            },
+            {
+                "First Name": "Emmanouil",
+                "Last Name": "Dermitzakis",
+                "Affiliation": "Genetic Medicine and Development, University of Geneva Medical School-CMU, 1 Rue Michel-Servet, 1211, Geneva, Switzerland."
+            },
+            {
+                "First Name": "Jesper Bertram",
+                "Last Name": "Bramsen",
+                "Affiliation": "Department of Molecular Medicine, Aarhus University Hospital, DK8200, Aarhus N, Denmark."
+            },
+            {
+                "First Name": "Torben Falck",
+                "Last Name": "Ørntoft",
+                "Affiliation": "Department of Molecular Medicine, Aarhus University Hospital, DK8200, Aarhus N, Denmark."
+            },
+            {
+                "First Name": "Claus Lindbjerg",
+                "Last Name": "Andersen",
+                "Affiliation": "Department of Molecular Medicine, Aarhus University Hospital, DK8200, Aarhus N, Denmark."
+            },
+            {
+                "First Name": "Ari",
+                "Last Name": "Ristimäki",
+                "Affiliation": "Genome-Scale Biology Research Program, Research Programs Unit, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Lepistö",
+                "Affiliation": "Department of Gastrointestinal Surgery, Helsinki University Hospital, University of Helsinki, Haartmaninkatu 4, FI-00290, Helsinki, Finland."
+            },
+            {
+                "First Name": "Laura",
+                "Last Name": "Renkonen-Sinisalo",
+                "Affiliation": "Department of Gastrointestinal Surgery, Helsinki University Hospital, University of Helsinki, Haartmaninkatu 4, FI-00290, Helsinki, Finland."
+            },
+            {
+                "First Name": "Jukka-Pekka",
+                "Last Name": "Mecklin",
+                "Affiliation": "Department of Surgery, Jyväskylä Central Hospital, Keskussairaalantie 19, FI-40620, Jyväskylä, Finland."
+            },
+            {
+                "First Name": "Jussi",
+                "Last Name": "Taipale",
+                "Affiliation": "Genome-Scale Biology Research Program, Research Programs Unit, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland. ajt208@cam.ac.uk."
+            },
+            {
+                "First Name": "Lauri A",
+                "Last Name": "Aaltonen",
+                "Affiliation": "Department of Medical and Clinical Genetics, Medicum, University of Helsinki, Biomedicum Helsinki, PO Box 63 (Haartmaninkatu 8), FI-00014, Helsinki, Finland. lauri.aaltonen@helsinki.fi."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28639201",
+        "Title": "Enhancing Angiogenesis in Mice by VEGF-Targeting Small Activating RNAs.",
+        "Abstract": "The prevalence of cardiovascular diseases is steadily increasing, and it is the leading cause of death worldwide. Therefore, new treatments, such as gene therapy are needed. During the last decade, the role of small noncoding RNAs (ncRNAs) in the regulation of gene expression at the transcriptional level has been shown. Promoter-targeted small RNAs recruit histone-modifying enzymes and can either repress or induce target gene expression. As an example, we have targeted mouse VEGF-A promoter with small hairpin RNAs (shRNAs) and identified two shRNAs which either repressed or induced VEGF-A expression on messenger RNA and protein level in vitro, depending on the targeted location. The changes in expression levels correlate with changes in the levels of epigenetic markers, such as histone modifications associated with repressed or active state of chromatin. In ischemic mouse hindlimbs, upregulation of VEGF-A expression increased vascularity and blood flow. When VEGF-A was upregulated in mouse myocardial infarction model, the blood vessel formation in the risk zone was observed and infarct size was significantly decreased already 2 weeks after treatment. We suggest that epigenetic upregulation of VEGF-A by ncRNAs can be transferred to clinical use for the treatment of ischemic diseases in the near future.",
+        "Keywords": [
+            "Angiogenesis",
+            "Animal models",
+            "Gene therapy",
+            "Lentiviral vectors",
+            "VEGF-A"
+        ],
+        "MeSH terms": [
+            "Angiogenesis Inducing Agents",
+            "Animals",
+            "Mice",
+            "Neovascularization, Physiologic",
+            "Promoter Regions, Genetic",
+            "RNA, Small Interfering",
+            "Up-Regulation",
+            "Vascular Endothelial Growth Factor A"
+        ],
+        "Authors": [
+            {
+                "First Name": "Tiia A",
+                "Last Name": "Turunen",
+                "Affiliation": "A.I.Virtanen Institute for Molecular Sciences, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Seppo",
+                "Last Name": "Ylä-Herttuala",
+                "Affiliation": "A.I.Virtanen Institute for Molecular Sciences, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Mikko P",
+                "Last Name": "Turunen",
+                "Affiliation": "A.I.Virtanen Institute for Molecular Sciences, University of Eastern Finland, Kuopio, Finland. mikko.turunen@uef.fi."
+            }
+        ],
+        "Journal": "Advances in experimental medicine and biology",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27929715",
+        "Title": "Genome-wide screen of cell-cycle regulators in normal and tumor cells identifies a differential response to nucleosome depletion.",
+        "Abstract": "To identify cell cycle regulators that enable cancer cells to replicate DNA and divide in an unrestricted manner, we performed a parallel genome-wide RNAi screen in normal and cancer cell lines. In addition to many shared regulators, we found that tumor and normal cells are differentially sensitive to loss of the histone genes transcriptional regulator CASP8AP2. In cancer cells, loss of CASP8AP2 leads to a failure to synthesize sufficient amount of histones in the S-phase of the cell cycle, resulting in slowing of individual replication forks. Despite this, DNA replication fails to arrest, and tumor cells progress in an elongated S-phase that lasts several days, finally resulting in death of most of the affected cells. In contrast, depletion of CASP8AP2 in normal cells triggers a response that arrests viable cells in S-phase. The arrest is dependent on p53, and preceded by accumulation of markers of DNA damage, indicating that nucleosome depletion is sensed in normal cells via a DNA-damage -like response that is defective in tumor cells.",
+        "Keywords": [
+            "DNA replication",
+            "RNA interference",
+            "cancer",
+            "cell cycle",
+            "chromatin",
+            "functional genomics",
+            "nucleosome assembly",
+            "p53"
+        ],
+        "MeSH terms": [
+            "Cell Cycle",
+            "Cell Cycle Proteins",
+            "Cell Line, Tumor",
+            "DNA",
+            "DNA Replication",
+            "Gene Expression Regulation, Neoplastic",
+            "Gene Knockdown Techniques",
+            "Genome",
+            "Histones",
+            "Humans",
+            "Neoplasm Proteins",
+            "Neoplasms",
+            "Nucleosomes",
+            "Osteosarcoma",
+            "Phosphorylation",
+            "RNA Interference",
+            "RNA, Small Interfering",
+            "S Phase",
+            "Transcription, Genetic",
+            "Tumor Suppressor Protein p53"
+        ],
+        "Authors": [
+            {
+                "First Name": "Maria",
+                "Last Name": "Sokolova",
+                "Affiliation": "a Genome-Scale Biology Program, University of Helsinki , Helsinki , Finland."
+            },
+            {
+                "First Name": "Mikko",
+                "Last Name": "Turunen",
+                "Affiliation": "a Genome-Scale Biology Program, University of Helsinki , Helsinki , Finland."
+            },
+            {
+                "First Name": "Oliver",
+                "Last Name": "Mortusewicz",
+                "Affiliation": "b Science for Life laboratory, Division of Translational Medicine and Chemical Biology, Department of Medical Biochemistry and Biophysics , Karolinska Institutet , Stockholm , Sweden."
+            },
+            {
+                "First Name": "Teemu",
+                "Last Name": "Kivioja",
+                "Affiliation": "a Genome-Scale Biology Program, University of Helsinki , Helsinki , Finland."
+            },
+            {
+                "First Name": "Patrick",
+                "Last Name": "Herr",
+                "Affiliation": "b Science for Life laboratory, Division of Translational Medicine and Chemical Biology, Department of Medical Biochemistry and Biophysics , Karolinska Institutet , Stockholm , Sweden."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Vähärautio",
+                "Affiliation": "a Genome-Scale Biology Program, University of Helsinki , Helsinki , Finland."
+            },
+            {
+                "First Name": "Mikael",
+                "Last Name": "Björklund",
+                "Affiliation": "a Genome-Scale Biology Program, University of Helsinki , Helsinki , Finland."
+            },
+            {
+                "First Name": "Minna",
+                "Last Name": "Taipale",
+                "Affiliation": "c Department of Medical Biochemistry and Biophysics , Karolinska Institutet , Stockholm , Sweden."
+            },
+            {
+                "First Name": "Thomas",
+                "Last Name": "Helleday",
+                "Affiliation": "b Science for Life laboratory, Division of Translational Medicine and Chemical Biology, Department of Medical Biochemistry and Biophysics , Karolinska Institutet , Stockholm , Sweden."
+            },
+            {
+                "First Name": "Jussi",
+                "Last Name": "Taipale",
+                "Affiliation": "a Genome-Scale Biology Program, University of Helsinki , Helsinki , Finland."
+            }
+        ],
+        "Journal": "Cell cycle (Georgetown, Tex.)",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27532209",
+        "Title": "Myc requires RhoA/SRF to reprogram glutamine metabolism.",
+        "Abstract": "RhoA regulates actin cytoskeleton but recent evidence suggest a role for this conserved Rho GTPase also in other cellular processes, including transcriptional control of cell proliferation and survival. Interestingy, loss of RhoA is synthetic lethal with oncogenic Myc, a master transcription factor that turns on anabolic metabolism to promote cell growth in many cancers. We show evidence indicating that the synthetic lethal interaction between RhoA loss and Myc arises from deficiency in glutamine utilization, resulting from impaired co-regulation of glutaminase expression and anaplerosis by Myc and RhoA - serum response factor (SRF) pathway. The results suggest metabolic coordination between Myc and RhoA/SRF in sustaining cancer cell viability and indicate RhoA/SRF as a potential vulnerability in cancer cells for therapeutic targeting.",
+        "Keywords": [
+            "Myc",
+            "RhoA",
+            "SRF",
+            "apoptosis",
+            "breast cancer",
+            "glutamine metabolism"
+        ],
+        "MeSH terms": [
+            "Cell Line, Tumor",
+            "Glutamine",
+            "Humans",
+            "Proto-Oncogene Proteins c-myc",
+            "Serum Response Factor",
+            "rhoA GTP-Binding Protein"
+        ],
+        "Authors": [
+            {
+                "First Name": "Heidi M",
+                "Last Name": "Haikala",
+                "Affiliation": "a Cancer Cell Circuitry Laboratory, Research Programs Unit/Translational Cancer Biology & Institute of Biomedicine, University of Helsinki , Helsinki , Finland."
+            },
+            {
+                "First Name": "Elsa",
+                "Last Name": "Marques",
+                "Affiliation": "a Cancer Cell Circuitry Laboratory, Research Programs Unit/Translational Cancer Biology & Institute of Biomedicine, University of Helsinki , Helsinki , Finland."
+            },
+            {
+                "First Name": "Mikko",
+                "Last Name": "Turunen",
+                "Affiliation": "b Research Programs Unit/Genome-Scale Biology and Department of Pathology , Haartman Institute, University of Helsinki , Helsinki , Finland."
+            },
+            {
+                "First Name": "Juha",
+                "Last Name": "Klefström",
+                "Affiliation": "a Cancer Cell Circuitry Laboratory, Research Programs Unit/Translational Cancer Biology & Institute of Biomedicine, University of Helsinki , Helsinki , Finland."
+            }
+        ],
+        "Journal": "Small GTPases",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "26891221",
+        "Title": "Oncogenic Herpesvirus Utilizes Stress-Induced Cell Cycle Checkpoints for Efficient Lytic Replication.",
+        "Abstract": "Kaposi's sarcoma herpesvirus (KSHV) causes Kaposi's sarcoma and certain lymphoproliferative malignancies. Latent infection is established in the majority of tumor cells, whereas lytic replication is reactivated in a small fraction of cells, which is important for both virus spread and disease progression. A siRNA screen for novel regulators of KSHV reactivation identified the E3 ubiquitin ligase MDM2 as a negative regulator of viral reactivation. Depletion of MDM2, a repressor of p53, favored efficient activation of the viral lytic transcription program and viral reactivation. During lytic replication cells activated a p53 response, accumulated DNA damage and arrested at G2-phase. Depletion of p21, a p53 target gene, restored cell cycle progression and thereby impaired the virus reactivation cascade delaying the onset of virus replication induced cytopathic effect. Herpesviruses are known to reactivate in response to different kinds of stress, and our study now highlights the molecular events in the stressed host cell that KSHV has evolved to utilize to ensure efficient viral lytic replication.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cell Cycle Checkpoints",
+            "Cell Line, Tumor",
+            "DNA Replication",
+            "Gene Expression Regulation, Viral",
+            "Herpesvirus 8, Human",
+            "Humans",
+            "RNA, Small Interfering",
+            "Sarcoma, Kaposi",
+            "Stress, Physiological",
+            "Virus Activation",
+            "Virus Latency",
+            "Virus Replication"
+        ],
+        "Authors": [
+            {
+                "First Name": "Giuseppe",
+                "Last Name": "Balistreri",
+                "Affiliation": "Translational Cancer Research Program, Research Programs Unit, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Johanna",
+                "Last Name": "Viiliäinen",
+                "Affiliation": "Translational Cancer Research Program, Research Programs Unit, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Mikko",
+                "Last Name": "Turunen",
+                "Affiliation": "Genome-Scale Biology Program, Research Programs Unit and Department of Pathology, Haartman Institute, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Raquel",
+                "Last Name": "Diaz",
+                "Affiliation": "Translational Cancer Research Program, Research Programs Unit, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Lauri",
+                "Last Name": "Lyly",
+                "Affiliation": "Genome-Scale Biology Program, Research Programs Unit, University of Helsinki, Biomedicum Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Pirita",
+                "Last Name": "Pekkonen",
+                "Affiliation": "Translational Cancer Research Program, Research Programs Unit, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Juha",
+                "Last Name": "Rantala",
+                "Affiliation": "VTT Medical Biotechnology, Turku, Finland."
+            },
+            {
+                "First Name": "Krista",
+                "Last Name": "Ojala",
+                "Affiliation": "Translational Cancer Research Program, Research Programs Unit, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Grzegorz",
+                "Last Name": "Sarek",
+                "Affiliation": "Translational Cancer Research Program, Research Programs Unit, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Mari",
+                "Last Name": "Teesalu",
+                "Affiliation": "Translational Cancer Research Program, Research Programs Unit, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Oxana",
+                "Last Name": "Denisova",
+                "Affiliation": "Institute for Molecular Medicine (FIMM), University of Helsinki, Biomedicum Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Karita",
+                "Last Name": "Peltonen",
+                "Affiliation": "Centre for Drug Discovery, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Ilkka",
+                "Last Name": "Julkunen",
+                "Affiliation": "Department of Virology, University of Turku and National Institute for Health and Welfare, Turku, Finland."
+            },
+            {
+                "First Name": "Markku",
+                "Last Name": "Varjosalo",
+                "Affiliation": "Translational Cancer Research Program, Research Programs Unit, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Denis",
+                "Last Name": "Kainov",
+                "Affiliation": "Institute for Molecular Medicine (FIMM), University of Helsinki, Biomedicum Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Olli",
+                "Last Name": "Kallioniemi",
+                "Affiliation": "Institute for Molecular Medicine (FIMM), University of Helsinki, Biomedicum Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Marikki",
+                "Last Name": "Laiho",
+                "Affiliation": "Centre for Drug Discovery, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Jussi",
+                "Last Name": "Taipale",
+                "Affiliation": "Genome-Scale Biology Program, Research Programs Unit and Department of Pathology, Haartman Institute, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Sampsa",
+                "Last Name": "Hautaniemi",
+                "Affiliation": "Genome-Scale Biology Program, Research Programs Unit, University of Helsinki, Biomedicum Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Päivi M",
+                "Last Name": "Ojala",
+                "Affiliation": "Translational Cancer Research Program, Research Programs Unit, University of Helsinki, Helsinki, Finland."
+            }
+        ],
+        "Journal": "PLoS pathogens",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "25405466",
+        "Title": "A New Gene Therapy Approach for Cardiovascular Disease by Non-coding RNAs Acting in the Nucleus.",
+        "Abstract": "This review discusses recent developments in the use of non-coding RNAs (ncRNAs) for the regulation of therapeutically relevant genes, with special focus on applications for the treatment of cardiovascular diseases. The interest in using ncRNAs as therapeutics has steadily increased since the discovery of RNA interference. During the last decade it has become evident that these RNAs, delivered either as oligos or expressed as small hairpin RNAs (shRNAs) from vectors, can either upregulate (transcriptional gene activation, TGA) or downregulate (transcriptional gene silencing, TGS) gene expression, typically inducing epigenetic changes in their target sites in the chromatin. Also, the important role of naturally occurring long non-coding RNAs (lncRNAs) has been recently discovered and will likely provide new insights into cardiovascular pathology and provide new treatment strategies based on the manipulation of their expression. In this review, we discuss the possibility of using ncRNAs for activating or silencing therapeutically relevant genes, such as VEGF-A, for the treatment of cardiovascular disease.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Tiia",
+                "Last Name": "Husso",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Seppo",
+                "Last Name": "Ylä-Herttuala",
+                "Affiliation": "1] Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland [2] Science Service Center and Gene Therapy Unit, Kuopio University Hospital, Kuopio, Finland."
+            },
+            {
+                "First Name": "Mikko P",
+                "Last Name": "Turunen",
+                "Affiliation": "1] Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland [2] Department of Molecular and Experimental Medicine, The Scripps Research Institute, La Jolla, California, USA."
+            }
+        ],
+        "Journal": "Molecular therapy. Nucleic acids",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24746821",
+        "Title": "Uterine leiomyoma-linked MED12 mutations disrupt mediator-associated CDK activity.",
+        "Abstract": "Somatic mutations in exon 2 of the RNA polymerase II transcriptional Mediator subunit MED12 occur at very high frequency (∼70%) in uterine leiomyomas. However, the influence of these mutations on Mediator function and the molecular basis for their tumorigenic potential remain unknown. To clarify the impact of these mutations, we used affinity-purification mass spectrometry to establish the global protein-protein interaction profiles for both wild-type and mutant MED12. We found that uterine leiomyoma-linked mutations in MED12 led to a highly specific decrease in its association with Cyclin C-CDK8/CDK19 and loss of Mediator-associated CDK activity. Mechanistically, this occurs through disruption of a MED12-Cyclin C binding interface that we also show is required for MED12-mediated stimulation of Cyclin C-dependent CDK8 kinase activity. These findings indicate that uterine leiomyoma-linked mutations in MED12 uncouple Cyclin C-CDK8/19 from core Mediator and further identify the MED12/Cyclin C interface as a prospective therapeutic target in CDK8-driven cancers.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Cyclin C",
+            "Cyclin-Dependent Kinase 8",
+            "Cyclin-Dependent Kinases",
+            "Female",
+            "HEK293 Cells",
+            "Humans",
+            "Leiomyoma",
+            "Mediator Complex",
+            "Mutagenesis, Site-Directed",
+            "Protein Binding",
+            "Uterine Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mikko",
+                "Last Name": "Turunen",
+                "Affiliation": "Genome-Scale Biology Program and Department of Pathology, Haartman Institute, University of Helsinki, Biomedicum, P.O. Box 63 (Haartmaninkatu 8), Helsinki FIN-00014, Finland."
+            },
+            {
+                "First Name": "Jason M",
+                "Last Name": "Spaeth",
+                "Affiliation": "Department of Molecular Medicine, Institute of Biotechnology, University of Texas Health Science Center at San Antonio, 7703 Floyd Curl Drive, Mail Code 8257, STRF, San Antonio, TX 78229-3900, USA."
+            },
+            {
+                "First Name": "Salla",
+                "Last Name": "Keskitalo",
+                "Affiliation": "Institute of Biotechnology, University of Helsinki, Viikinkaari 1, P.O. Box 65, Helsinki FIN-00014, Finland."
+            },
+            {
+                "First Name": "Min Ju",
+                "Last Name": "Park",
+                "Affiliation": "Department of Molecular Medicine, Institute of Biotechnology, University of Texas Health Science Center at San Antonio, 7703 Floyd Curl Drive, Mail Code 8257, STRF, San Antonio, TX 78229-3900, USA."
+            },
+            {
+                "First Name": "Teemu",
+                "Last Name": "Kivioja",
+                "Affiliation": "Genome-Scale Biology Program and Department of Pathology, Haartman Institute, University of Helsinki, Biomedicum, P.O. Box 63 (Haartmaninkatu 8), Helsinki FIN-00014, Finland; Department of Computer Science, University of Helsinki, P.O. Box 68, Helsinki FIN-00014, Finland."
+            },
+            {
+                "First Name": "Alison D",
+                "Last Name": "Clark",
+                "Affiliation": "Department of Molecular Medicine, Institute of Biotechnology, University of Texas Health Science Center at San Antonio, 7703 Floyd Curl Drive, Mail Code 8257, STRF, San Antonio, TX 78229-3900, USA."
+            },
+            {
+                "First Name": "Netta",
+                "Last Name": "Mäkinen",
+                "Affiliation": "Genome-Scale Biology Program and Department of Medical Genetics, Haartman Institute, University of Helsinki, Biomedicum, P.O. Box 63 (Haartmaninkatu 8), Helsinki FIN-00014, Finland."
+            },
+            {
+                "First Name": "Fangjian",
+                "Last Name": "Gao",
+                "Affiliation": "Department of Molecular Medicine, Institute of Biotechnology, University of Texas Health Science Center at San Antonio, 7703 Floyd Curl Drive, Mail Code 8257, STRF, San Antonio, TX 78229-3900, USA."
+            },
+            {
+                "First Name": "Kimmo",
+                "Last Name": "Palin",
+                "Affiliation": "Genome-Scale Biology Program and Department of Pathology, Haartman Institute, University of Helsinki, Biomedicum, P.O. Box 63 (Haartmaninkatu 8), Helsinki FIN-00014, Finland."
+            },
+            {
+                "First Name": "Helka",
+                "Last Name": "Nurkkala",
+                "Affiliation": "Institute of Biotechnology, University of Helsinki, Viikinkaari 1, P.O. Box 65, Helsinki FIN-00014, Finland."
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Vähärautio",
+                "Affiliation": "Genome-Scale Biology Program and Department of Pathology, Haartman Institute, University of Helsinki, Biomedicum, P.O. Box 63 (Haartmaninkatu 8), Helsinki FIN-00014, Finland; Science for Life Laboratory, Department of Biosciences and Nutrition, Karolinska Institutet, Stockholm 14183, Sweden."
+            },
+            {
+                "First Name": "Mervi",
+                "Last Name": "Aavikko",
+                "Affiliation": "Genome-Scale Biology Program and Department of Medical Genetics, Haartman Institute, University of Helsinki, Biomedicum, P.O. Box 63 (Haartmaninkatu 8), Helsinki FIN-00014, Finland."
+            },
+            {
+                "First Name": "Kati",
+                "Last Name": "Kämpjärvi",
+                "Affiliation": "Genome-Scale Biology Program and Department of Medical Genetics, Haartman Institute, University of Helsinki, Biomedicum, P.O. Box 63 (Haartmaninkatu 8), Helsinki FIN-00014, Finland."
+            },
+            {
+                "First Name": "Pia",
+                "Last Name": "Vahteristo",
+                "Affiliation": "Genome-Scale Biology Program and Department of Medical Genetics, Haartman Institute, University of Helsinki, Biomedicum, P.O. Box 63 (Haartmaninkatu 8), Helsinki FIN-00014, Finland."
+            },
+            {
+                "First Name": "Chongwoo A",
+                "Last Name": "Kim",
+                "Affiliation": "Department of Biochemistry, University of Texas Health Science Center at San Antonio, 7703 Floyd Curl Drive, San Antonio, TX 78229-3900, USA."
+            },
+            {
+                "First Name": "Lauri A",
+                "Last Name": "Aaltonen",
+                "Affiliation": "Genome-Scale Biology Program and Department of Medical Genetics, Haartman Institute, University of Helsinki, Biomedicum, P.O. Box 63 (Haartmaninkatu 8), Helsinki FIN-00014, Finland."
+            },
+            {
+                "First Name": "Markku",
+                "Last Name": "Varjosalo",
+                "Affiliation": "Institute of Biotechnology, University of Helsinki, Viikinkaari 1, P.O. Box 65, Helsinki FIN-00014, Finland. Electronic address: markku.varjosalo@helsinki.fi."
+            },
+            {
+                "First Name": "Jussi",
+                "Last Name": "Taipale",
+                "Affiliation": "Genome-Scale Biology Program and Department of Pathology, Haartman Institute, University of Helsinki, Biomedicum, P.O. Box 63 (Haartmaninkatu 8), Helsinki FIN-00014, Finland; Science for Life Laboratory, Department of Biosciences and Nutrition, Karolinska Institutet, Stockholm 14183, Sweden. Electronic address: jussi.taipale@ki.se."
+            },
+            {
+                "First Name": "Thomas G",
+                "Last Name": "Boyer",
+                "Affiliation": "Department of Molecular Medicine, Institute of Biotechnology, University of Texas Health Science Center at San Antonio, 7703 Floyd Curl Drive, Mail Code 8257, STRF, San Antonio, TX 78229-3900, USA. Electronic address: boyer@uthscsa.edu."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24587164",
+        "Title": "Epigenetic upregulation of endogenous VEGF-A reduces myocardial infarct size in mice.",
+        "Abstract": "\"Epigenetherapy\" alters epigenetic status of the targeted chromatin and modifies expression of the endogenous therapeutic gene. In this study we used lentiviral in vivo delivery of small hairpin RNA (shRNA) into hearts in a murine infarction model. shRNA complementary to the promoter of vascular endothelial growth factor (VEGF-A) was able to upregulate endogenous VEGF-A expression. Histological and multiphoton microscope analysis confirmed the therapeutic effect in the transduced hearts. Magnetic resonance imaging (MRI) showed in vivo that the infarct size was significantly reduced in the treatment group 14 days after the epigenetherapy. Importantly, we show that promoter-targeted shRNA upregulates all isoforms of endogenous VEGF-A and that an intact hairpin structure is required for the shRNA activity. In conclusion, regulation of gene expression at the promoter level is a promising new treatment strategy for myocardial infarction and also potentially useful for the upregulation of other endogenous genes.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Base Sequence",
+            "Cyclic AMP Response Element-Binding Protein",
+            "DNA Methylation",
+            "Epigenesis, Genetic",
+            "Gene Silencing",
+            "Inverted Repeat Sequences",
+            "Male",
+            "Membrane Proteins",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Myocardial Infarction",
+            "Phosphoproteins",
+            "Promoter Regions, Genetic",
+            "Protein Isoforms",
+            "RNA, Small Interfering",
+            "Transcription, Genetic",
+            "Transcriptional Activation",
+            "Up-Regulation",
+            "Vascular Endothelial Growth Factor A"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mikko P",
+                "Last Name": "Turunen",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Tiia",
+                "Last Name": "Husso",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Haja",
+                "Last Name": "Musthafa",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Svetlana",
+                "Last Name": "Laidinen",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Galina",
+                "Last Name": "Dragneva",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Nihay",
+                "Last Name": "Laham-Karam",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Sanna",
+                "Last Name": "Honkanen",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Anne",
+                "Last Name": "Paakinaho",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Johanna P",
+                "Last Name": "Laakkonen",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Erhe",
+                "Last Name": "Gao",
+                "Affiliation": "The Center for Translational Medicine, Temple University School of Medicine, Philadelphia, Pennsylvania, United States of America."
+            },
+            {
+                "First Name": "Maija",
+                "Last Name": "Vihinen-Ranta",
+                "Affiliation": "Department of Biological and Environmental Science, University of Jyväskylä, Jyväskylä, Finland."
+            },
+            {
+                "First Name": "Timo",
+                "Last Name": "Liimatainen",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Seppo",
+                "Last Name": "Ylä-Herttuala",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland ; Research Unit and Gene Therapy Unit, Kuopio University Hospital, Kuopio, Finland."
+            }
+        ],
+        "Journal": "PloS one",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "23872638",
+        "Title": "Epigenetic regulation in vascular cells.",
+        "Abstract": "This review summarizes recent findings in the epigenetics of vascular cells and discusses the new challenges for therapeutic strategies of cardiovascular diseases.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cardiovascular Diseases",
+            "Epigenesis, Genetic",
+            "Humans"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mikko P",
+                "Last Name": "Turunen",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A.I.Virtanen Institute, University of Eastern Finland, Kuopio, Finland."
+            },
+            {
+                "First Name": "Einari",
+                "Last Name": "Aavik",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Seppo",
+                "Last Name": "Ylä-Herttuala",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current opinion in lipidology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23684749",
+        "Title": "Identification of candidate oncogenes in human colorectal cancers with microsatellite instability.",
+        "Abstract": "Microsatellite instability can be found in approximately 15% of all colorectal cancers. To detect new oncogenes we sequenced the exomes of 25 colorectal tumors and respective healthy colon tissue. Potential mutation hot spots were confirmed in 15 genes; ADAR, DCAF12L2, GLT1D1, ITGA7, MAP1B, MRGPRX4, PSRC1, RANBP2, RPS6KL1, SNCAIP, TCEAL6, TUBB6, WBP5, VEGFB, and ZBTB2; these were validated in 86 tumors with microsatellite instability. ZBTB2, RANBP2, and PSRC1 also were found to contain hot spot mutations in the validation set. The form of ZBTB2 associated with colorectal cancer increased cell proliferation. The mutation hot spots might be used to develop personalized tumor profiling and therapy.",
+        "Keywords": [
+            "CRC",
+            "Exome Sequencing",
+            "Genetic Analysis",
+            "MSI",
+            "Mismatch Repair",
+            "PCR",
+            "colorectal cancer",
+            "microsatellite instability",
+            "polymerase chain reaction"
+        ],
+        "MeSH terms": [
+            "Adenocarcinoma",
+            "Aged",
+            "Case-Control Studies",
+            "Colorectal Neoplasms",
+            "Female",
+            "Genetic Markers",
+            "Humans",
+            "Male",
+            "Microsatellite Instability",
+            "Oncogenes",
+            "Sequence Analysis, DNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Alexandra E",
+                "Last Name": "Gylfe",
+                "Affiliation": "Department of Medical Genetics, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Johanna",
+                "Last Name": "Kondelin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mikko",
+                "Last Name": "Turunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Heikki",
+                "Last Name": "Ristolainen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Riku",
+                "Last Name": "Katainen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Esa",
+                "Last Name": "Pitkänen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Eevi",
+                "Last Name": "Kaasinen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ville",
+                "Last Name": "Rantanen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tomas",
+                "Last Name": "Tanskanen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Markku",
+                "Last Name": "Varjosalo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Heli",
+                "Last Name": "Lehtonen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kimmo",
+                "Last Name": "Palin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Minna",
+                "Last Name": "Taipale",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jussi",
+                "Last Name": "Taipale",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Laura",
+                "Last Name": "Renkonen-Sinisalo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Heikki",
+                "Last Name": "Järvinen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jan",
+                "Last Name": "Böhm",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jukka-Pekka",
+                "Last Name": "Mecklin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ari",
+                "Last Name": "Ristimäki",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Outi",
+                "Last Name": "Kilpivaara",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sari",
+                "Last Name": "Tuupanen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Auli",
+                "Last Name": "Karhu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pia",
+                "Last Name": "Vahteristo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lauri A",
+                "Last Name": "Aaltonen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Gastroenterology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23316440",
+        "Title": "Transcriptional networks controlling the cell cycle.",
+        "Abstract": "In this work, we map the transcriptional targets of 107 previously identified Drosophila genes whose loss caused the strongest cell-cycle phenotypes in a genome-wide RNA interference screen and mine the resulting data computationally. Besides confirming existing knowledge, the analysis revealed several regulatory systems, among which were two highly-specific and interconnected feedback circuits, one between the ribosome and the proteasome that controls overall protein homeostasis, and the other between the ribosome and Myc/Max that regulates the protein synthesis capacity of cells. We also identified a set of genes that alter the timing of mitosis without affecting gene expression, indicating that the cyclic transcriptional program that produces the components required for cell division can be partially uncoupled from the cell division process itself. These genes all have a function in a pathway that regulates the phosphorylation state of Cdk1. We provide evidence showing that this pathway is involved in regulation of cell size, indicating that a Cdk1-regulated cell size checkpoint exists in metazoans.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "CDC2 Protein Kinase",
+            "Cell Cycle",
+            "Cell Line",
+            "Cell Size",
+            "Chromatin Immunoprecipitation",
+            "Cluster Analysis",
+            "Drosophila",
+            "Feedback, Physiological",
+            "Flow Cytometry",
+            "Gene Expression Profiling",
+            "Gene Regulatory Networks",
+            "Microarray Analysis",
+            "Mitosis",
+            "Oligonucleotides",
+            "Phosphorylation",
+            "RNA Interference",
+            "Sequence Analysis, RNA"
+        ],
+        "Authors": [
+            {
+                "First Name": "Martin",
+                "Last Name": "Bonke",
+                "Affiliation": "Genome-Scale Biology Research Program, Institute of Biomedicine, Biomedicum Helsinki, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Mikko",
+                "Last Name": "Turunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maria",
+                "Last Name": "Sokolova",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anna",
+                "Last Name": "Vähärautio",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Teemu",
+                "Last Name": "Kivioja",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Minna",
+                "Last Name": "Taipale",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mikael",
+                "Last Name": "Björklund",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jussi",
+                "Last Name": "Taipale",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "G3 (Bethesda, Md.)",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "22429595",
+        "Title": "Characterization of the colorectal cancer-associated enhancer MYC-335 at 8q24: the role of rs67491583.",
+        "Abstract": "Recent genome-wide association studies have identified multiple regions at 8q24 that confer susceptibility to many cancers. In our previous work, we showed that the colorectal cancer (CRC) risk variant rs6983267 at 8q24 resides within a TCF4 binding site at the MYC-335 enhancer, with the risk allele G having a stronger binding capacity and Wnt responsiveness. Here, we searched for other potential functional variants within MYC-335. Genetic variation within MYC-335 was determined in samples from individuals of European, African, and Asian descent, with emphasis on variants in putative transcription factor binding sites. A 2-bp GA deletion rs67491583 was found to affect a growth factor independent (GFI) binding site and was present only in individuals with African ancestry. Chromatin immunoprecipitation performed in heterozygous cells showed that the GA deletion had an ability to reduce binding of the transcriptional repressors GFI1 and GFI1b. Screening of 1,027 African American colorectal cancer cases and 1,773 healthy controls did not reveal evidence for association (odds ratio: 1.17, 95% confidence interval: 0.97-1.41, P = 0.095). In this study, rs67491583 was identified as another functional variant in the CRC-associated enhancer MYC-335, but further studies are needed to establish the role of rs67491583 in the colorectal cancer predisposition of African Americans.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Black or African American",
+            "Asian People",
+            "Carcinoma",
+            "Case-Control Studies",
+            "Chromosomes, Human, Pair 8",
+            "Cohort Studies",
+            "Colorectal Neoplasms",
+            "Enhancer Elements, Genetic",
+            "Female",
+            "Gene Expression Regulation, Neoplastic",
+            "Gene Frequency",
+            "Genes, myc",
+            "Genotype",
+            "HEK293 Cells",
+            "HeLa Cells",
+            "Humans",
+            "Polymorphism, Single Nucleotide",
+            "Transfection",
+            "Tumor Cells, Cultured",
+            "White People"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sari",
+                "Last Name": "Tuupanen",
+                "Affiliation": "Department of Medical Genetics, Genome-Scale Biology Research Program, Biomedicum Helsinki, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Jian",
+                "Last Name": "Yan",
+                "Affiliation": "Institute of Biomedicine, Genome-Scale Biology Research Program, Biomedicum Helsinki, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Mikko",
+                "Last Name": "Turunen",
+                "Affiliation": "Institute of Biomedicine, Genome-Scale Biology Research Program, Biomedicum Helsinki, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Alexandra E",
+                "Last Name": "Gylfe",
+                "Affiliation": "Department of Medical Genetics, Genome-Scale Biology Research Program, Biomedicum Helsinki, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Eevi",
+                "Last Name": "Kaasinen",
+                "Affiliation": "Department of Medical Genetics, Genome-Scale Biology Research Program, Biomedicum Helsinki, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Li",
+                "Last Name": "Li",
+                "Affiliation": "Department of Family Medicine and Division of Genetic Epidemiology, Case Western Reserve University School of Medicine, Cleveland, OH, USA."
+            },
+            {
+                "First Name": "Charis",
+                "Last Name": "Eng",
+                "Affiliation": "Department of Genetics and Comprehensive Cancer Center, Case Western Reserve University School of Medicine, Cleveland, OH, USA."
+            },
+            {
+                "First Name": "Daniel A",
+                "Last Name": "Culver",
+                "Affiliation": "Respiratory Institute, Cleveland Clinic, Cleveland, OH, USA."
+            },
+            {
+                "First Name": "Matthew F",
+                "Last Name": "Kalady",
+                "Affiliation": "Taussig Cancer Institute, Cleveland Clinic, Cleveland, OH, USA."
+            },
+            {
+                "First Name": "Michael J",
+                "Last Name": "Pennison",
+                "Affiliation": "Division of Hematology/Oncology, Department of Medicine and Comprehensive Cancer Center, The University of Alabama at Birmingham, Birmingham, AL, USA."
+            },
+            {
+                "First Name": "Boris",
+                "Last Name": "Pasche",
+                "Affiliation": "Division of Hematology/Oncology, Department of Medicine and Comprehensive Cancer Center, The University of Alabama at Birmingham, Birmingham, AL, USA."
+            },
+            {
+                "First Name": "Upender",
+                "Last Name": "Manne",
+                "Affiliation": "Department of Pathology, The University of Alabama at Birmingham, Birmingham, AL, USA."
+            },
+            {
+                "First Name": "Albert",
+                "Last Name": "de la Chapelle",
+                "Affiliation": "Comprehensive Cancer Center, The Ohio State University, Columbus, OH, USA."
+            },
+            {
+                "First Name": "Heather",
+                "Last Name": "Hampel",
+                "Affiliation": "Comprehensive Cancer Center, The Ohio State University, Columbus, OH, USA."
+            },
+            {
+                "First Name": "Brian E",
+                "Last Name": "Henderson",
+                "Affiliation": "Department of Preventive Medicine, Keck School of Medicine, University of Southern California/Norris Comprehensive Cancer Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Loic Le",
+                "Last Name": "Marchand",
+                "Affiliation": "Epidemiology Program, Cancer Research Center, University of Hawaii, Honolulu, HI, USA."
+            },
+            {
+                "First Name": "Sampsa",
+                "Last Name": "Hautaniemi",
+                "Affiliation": "Computational Systems Biology Laboratory, Institute of Biomedicine and Genome-Scale Biology Research Program, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Hassan",
+                "Last Name": "Askhtorab",
+                "Affiliation": "Department of Medicine and Cancer Center, Howard University College of Medicine, Washington, DC, USA."
+            },
+            {
+                "First Name": "Duane",
+                "Last Name": "Smoot",
+                "Affiliation": "Department of Medicine and Cancer Center, Howard University College of Medicine, Washington, DC, USA."
+            },
+            {
+                "First Name": "Robert S",
+                "Last Name": "Sandler",
+                "Affiliation": "Department of Medicine, University of North Carolina, Chapel Hill, NC, USA."
+            },
+            {
+                "First Name": "Temitope",
+                "Last Name": "Keku",
+                "Affiliation": "Department of Medicine, University of North Carolina, Chapel Hill, NC, USA."
+            },
+            {
+                "First Name": "Sonia S",
+                "Last Name": "Kupfer",
+                "Affiliation": "Department of Medicine, University of Chicago, Chicago, IL, USA."
+            },
+            {
+                "First Name": "Nathan A",
+                "Last Name": "Ellis",
+                "Affiliation": "Department of Medicine, University of Chicago, Chicago, IL, USA."
+            },
+            {
+                "First Name": "Christopher A",
+                "Last Name": "Haiman",
+                "Affiliation": "Department of Preventive Medicine, Keck School of Medicine, University of Southern California/Norris Comprehensive Cancer Center, Los Angeles, CA, USA."
+            },
+            {
+                "First Name": "Jussi",
+                "Last Name": "Taipale",
+                "Affiliation": "Institute of Biomedicine, Genome-Scale Biology Research Program, Biomedicum Helsinki, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Lauri A",
+                "Last Name": "Aaltonen",
+                "Affiliation": "Department of Medical Genetics, Genome-Scale Biology Research Program, Biomedicum Helsinki, University of Helsinki, Helsinki, Finland."
+            }
+        ],
+        "Journal": "Cancer genetics",
+        "PubDate": "2012"
+    },
+    {
+        "PMID": "25962024",
+        "Title": "Epigenetherapy, a new concept.",
+        "Abstract": "Small RNAs have been shown to regulate gene transcription by interacting with the promoter region and modifying the histone code. The exact mechanism of function is still unclear but the feasibility to activate or repress endogenous gene expression with small RNA molecules has already been demonstrated in vitro and in vivo. In traditional gene therapy non-mutated or otherwise useful genes are inserted into patient's cells to treat a disease. In epigenetherapy the action of small RNAs is utilized by delivering only the small RNAs to patient's cells where they then regulate gene expression by epigenetic mechanisms. This method could be widely useful not only for basic research but also for clinical applications of small RNAs.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Tiia",
+                "Last Name": "Husso",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mikko P",
+                "Last Name": "Turunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nigel",
+                "Last Name": "Parker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Seppo",
+                "Last Name": "Ylä-Herttuala",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Biomolecular concepts",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "21498421",
+        "Title": "Epigenetic regulation of key vascular genes and growth factors.",
+        "Abstract": "The role of small RNAs in epigenetic regulation is an emerging field. This research may also open novel treatment strategies based on manipulation of the epigenetic status of the target tissues. Our objective is to review epigenetic regulation of key vascular genes and growth factors. Vascular endothelial growth factor A (VEGF-A) is one of the key players in regulating and maintaining cardiovascular functions and pathology. Although its epigenetic regulation is still not completely understood, expression of the VEGF gene can be manipulated by epigenetic mechanisms using small RNAs that are targeted to the gene promoter which results in the alteration of histone code. VEGF exerts its effects mostly through two receptors, VEGFR1 and VEGFR2, and their expression is also regulated by promoter DNA methylation in various cancer cells. These findings suggest the importance of epigenetic mechanisms in the regulation of vascular functions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Angiogenic Proteins",
+            "Animals",
+            "Blood Vessels",
+            "Cardiovascular Diseases",
+            "Epigenesis, Genetic",
+            "Humans",
+            "Matrix Metalloproteinases",
+            "RNA, Small Interfering",
+            "Vascular Endothelial Growth Factor A"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mikko P",
+                "Last Name": "Turunen",
+                "Affiliation": "Ark Therapeutics, Kuopio, Finland."
+            },
+            {
+                "First Name": "Seppo",
+                "Last Name": "Ylä-Herttuala",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cardiovascular research",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "20460683",
+        "Title": "The number of vitamin D receptor binding sites defines the different vitamin D responsiveness of the CYP24 gene in malignant and normal mammary cells.",
+        "Abstract": "Primary 1alpha,25-dihydroxyvitamin D(3) (1alpha,25(OH)(2)D(3))-responding genes are controlled by the vitamin D receptor (VDR) binding to specific sites (VDREs) that are located within the regulatory regions of these genes. According to previous studies, the gene encoding 25-dihydroxyvitamin D(3) 24-hydroxylase, CYP24, which is the strongest known 1alpha,25(OH)(2)D(3)-responsive gene, has multiple VDREs that locate within the proximal and the distal promoter. However, it has remained unclear, what is the biological role of these regions and how they participate in the regulation of transcription. In this study, we found a different CYP24 expression profile in normal (MCF-10A) and malignant (MCF-7) human mammary cells. Moreover, CYP24 mRNA showed to be three times more stable in MCF-7 cells than in MCF-10A cells. We studied the mechanism of this difference using expression profiling, quantitative chromatin immunoprecipitation and chromosome conformation capture assays. Interestingly, the number of functional VDREs was higher in MCF-7 cells than in MCF-10A cells. Three functional VDREs in MCF-7 cells are connected to linear mRNA accumulation, whereas only one VDRE seems to lead to stepwise CYP24 mRNA accumulation in MCF-10A cells. The distal VDREs were involved in transcriptional regulation via ligand-dependent, dynamic chromatin looping, which brings cyclically the distal elements together either individually or simultaneously next to the transcription start site. In conclusion, our data suggest that in comparison to normal cells, clearing of 1alpha,25(OH)(2)D(3) is enhanced in malignant cells due to differences in transcriptional regulation of CYP24 and metabolism of CYP24 mRNA.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Breast",
+            "Breast Neoplasms",
+            "Cell Line, Tumor",
+            "Cell Nucleus",
+            "Chromatin",
+            "Epigenesis, Genetic",
+            "Gene Expression Regulation, Neoplastic",
+            "Humans",
+            "Ligands",
+            "Promoter Regions, Genetic",
+            "RNA, Messenger",
+            "Receptors, Calcitriol",
+            "Steroid Hydroxylases",
+            "Time Factors",
+            "Vitamin D",
+            "Vitamin D3 24-Hydroxylase"
+        ],
+        "Authors": [
+            {
+                "First Name": "Juha M",
+                "Last Name": "Matilainen",
+                "Affiliation": "Department of Biosciences, University of Eastern Finland, FIN-70211 Kuopio, Finland."
+            },
+            {
+                "First Name": "Marjo",
+                "Last Name": "Malinen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mikko M",
+                "Last Name": "Turunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carsten",
+                "Last Name": "Carlberg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sami",
+                "Last Name": "Väisänen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "The Journal of biological chemistry",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19696410",
+        "Title": "Efficient regulation of VEGF expression by promoter-targeted lentiviral shRNAs based on epigenetic mechanism: a novel example of epigenetherapy.",
+        "Abstract": "We studied a possibility that shRNAs can lead to transcriptional gene activation at the promoter level via epigenetic mechanism.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Line",
+            "Endothelial Cells",
+            "Epigenesis, Genetic",
+            "Genetic Therapy",
+            "Hindlimb",
+            "Ischemia",
+            "Lentivirus",
+            "Mice",
+            "Promoter Regions, Genetic",
+            "RNA",
+            "Transcription, Genetic",
+            "Vascular Endothelial Growth Factor A"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mikko P",
+                "Last Name": "Turunen",
+                "Affiliation": "Ark Therapeutics Oy, Kuopio, Finland."
+            },
+            {
+                "First Name": "Tiia",
+                "Last Name": "Lehtola",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Suvi E",
+                "Last Name": "Heinonen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Genet S",
+                "Last Name": "Assefa",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Petra",
+                "Last Name": "Korpisalo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Roseanne",
+                "Last Name": "Girnary",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Christopher K",
+                "Last Name": "Glass",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sami",
+                "Last Name": "Väisänen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Seppo",
+                "Last Name": "Ylä-Herttuala",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Circulation research",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19561604",
+        "Title": "The common colorectal cancer predisposition SNP rs6983267 at chromosome 8q24 confers potential to enhanced Wnt signaling.",
+        "Abstract": "Homozygosity for the G allele of rs6983267 at 8q24 increases colorectal cancer (CRC) risk approximately 1.5 fold. We report here that the risk allele G shows copy number increase during CRC development. Our computer algorithm, Enhancer Element Locator (EEL), identified an enhancer element that contains rs6983267. The element drove expression of a reporter gene in a pattern that is consistent with regulation by the key CRC pathway Wnt. rs6983267 affects a binding site for the Wnt-regulated transcription factor TCF4, with the risk allele G showing stronger binding in vitro and in vivo. Genome-wide ChIP assay revealed the element as the strongest TCF4 binding site within 1 Mb of MYC. An unambiguous correlation between rs6983267 genotype and MYC expression was not detected, and additional work is required to scrutinize all possible targets of the enhancer. Our work provides evidence that the common CRC predisposition associated with 8q24 arises from enhanced responsiveness to Wnt signaling.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Base Sequence",
+            "Binding Sites",
+            "Chromosomes, Human, Pair 8",
+            "Colorectal Neoplasms",
+            "Conserved Sequence",
+            "Embryo, Mammalian",
+            "Enhancer Elements, Genetic",
+            "Gene Dosage",
+            "Genetic Predisposition to Disease",
+            "Genome-Wide Association Study",
+            "Humans",
+            "Mice",
+            "Mice, Transgenic",
+            "Molecular Sequence Data",
+            "Organ Specificity",
+            "Polymorphism, Single Nucleotide",
+            "Protein Binding",
+            "Proto-Oncogene Proteins c-myc",
+            "Reproducibility of Results",
+            "Signal Transduction",
+            "TCF Transcription Factors",
+            "Transcription Factor 7-Like 2 Protein",
+            "Wnt Proteins",
+            "beta Catenin"
+        ],
+        "Authors": [
+            {
+                "First Name": "Sari",
+                "Last Name": "Tuupanen",
+                "Affiliation": "Department of Medical Genetics, Genome-Scale Biology Research Program, Biomedicum Helsinki, University of Helsinki, Helsinki, Finland."
+            },
+            {
+                "First Name": "Mikko",
+                "Last Name": "Turunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Rainer",
+                "Last Name": "Lehtonen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Outi",
+                "Last Name": "Hallikas",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sakari",
+                "Last Name": "Vanharanta",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Teemu",
+                "Last Name": "Kivioja",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mikael",
+                "Last Name": "Björklund",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Gonghong",
+                "Last Name": "Wei",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jian",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Iina",
+                "Last Name": "Niittymäki",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jukka-Pekka",
+                "Last Name": "Mecklin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Heikki",
+                "Last Name": "Järvinen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ari",
+                "Last Name": "Ristimäki",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mariachiara",
+                "Last Name": "Di-Bernardo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Phil",
+                "Last Name": "East",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Luis",
+                "Last Name": "Carvajal-Carmona",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Richard S",
+                "Last Name": "Houlston",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ian",
+                "Last Name": "Tomlinson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kimmo",
+                "Last Name": "Palin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Esko",
+                "Last Name": "Ukkonen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Auli",
+                "Last Name": "Karhu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jussi",
+                "Last Name": "Taipale",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Lauri A",
+                "Last Name": "Aaltonen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature genetics",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19233248",
+        "Title": "Epigenetics and atherosclerosis.",
+        "Abstract": "The contribution of epigenetic mechanisms to cardiovascular diseases remains poorly understood. Hypomethylation of genomic DNA is present in human atherosclerotic lesions and methylation changes also occur at the promoter level of several genes involved in the pathogenesis of atherosclerosis, such as extracellular superoxide dismutase, estrogen receptor-alpha, endothelial nitric oxide synthase and 15-lipoxygenase. So far, no clear data is available about histone modification marks in atherosclerotic lesions. It remains unclear whether epigenetic changes are causally related to the pathogenetic features, such as clonal proliferation of lesion smooth muscle cells, lipid accumulation and modulation of immune responses in the lesions, or whether they merely represent a consequence of the ongoing pathological process. However, epigenetic changes could at least partly explain poorly understood environmental and dietary effects on atherogenesis and the rapid increases and decreases in the incidence of coronary heart disease observed in various populations. RNAi mechanisms may also contribute to the epigenetic regulation of vascular cells. Therapies directed towards modification of the epigenetic status of vascular cells might provide new tools to control atherosclerosis-related cardiovascular diseases.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Atherosclerosis",
+            "DNA Methylation",
+            "Epigenesis, Genetic",
+            "Histones",
+            "Humans",
+            "Hyperhomocysteinemia"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mikko P",
+                "Last Name": "Turunen",
+                "Affiliation": "Ark Therapeutics, Kuopio, Finland."
+            },
+            {
+                "First Name": "Einari",
+                "Last Name": "Aavik",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Seppo",
+                "Last Name": "Ylä-Herttuala",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Biochimica et biophysica acta",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18539147",
+        "Title": "Hypoxia induces microRNA miR-210 in vitro and in vivo ephrin-A3 and neuronal pentraxin 1 are potentially regulated by miR-210.",
+        "Abstract": "Shortage of oxygen is one of the prime stress conditions in tissues. In this study, we looked for microRNAs expressed during hypoxia and showed that miR-210 expression was upregulated in response to hypoxia in vitro and in vivo. An active form of the HIF-1alpha induced the expression of miR-210, showing the involvement of the HIF-1 signaling pathway in miR-210 gene transcription. Furthermore, miR-210 was shown to bind to the predicted target sites of ephrin-A3 or neuronal pentraxin 1, causing repression in luciferase reporter activity. Contrary to the microRNA-mediated repression hypothesis, ephrin-A3 was expressed at very high levels in post-ischemic mouse hippocampus in vivo. Thus, the regulatory effects of miR-210 on its targets in vivo need to be further characterized.",
+        "Keywords": [],
+        "MeSH terms": [
+            "3' Untranslated Regions",
+            "Animals",
+            "Brain Ischemia",
+            "C-Reactive Protein",
+            "Cell Hypoxia",
+            "Cell Line, Tumor",
+            "Cells, Cultured",
+            "Ephrin-A3",
+            "Gene Expression Regulation",
+            "Humans",
+            "Mice",
+            "MicroRNAs",
+            "Nerve Tissue Proteins",
+            "RNA, Messenger",
+            "Rabbits"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kati",
+                "Last Name": "Pulkkinen",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A. I. Virtanen Institute for Molecular Sciences, Kuopio University, P.O. Box 1627, FIN-70211 Kuopio, Finland."
+            },
+            {
+                "First Name": "Tarja",
+                "Last Name": "Malm",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mikko",
+                "Last Name": "Turunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jari",
+                "Last Name": "Koistinaho",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Seppo",
+                "Last Name": "Ylä-Herttuala",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "FEBS letters",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "17426122",
+        "Title": "Selective use of multiple vitamin D response elements underlies the 1 alpha,25-dihydroxyvitamin D3-mediated negative regulation of the human CYP27B1 gene.",
+        "Abstract": "The human 25-hydroxyvitamin D3 (25(OH)D3) 1alpha-hydroxylase, which is encoded by the CYP27B1 gene, catalyzes the metabolic activation of the 25(OH)D3 into 1alpha,25-dihydroxyvitamin D3 (1alpha,25(OH)2D3), the most biologically potent vitamin D3 metabolite. The most important regulator of CYP27B1 gene activity is 1alpha,25(OH)2D3 itself, which down-regulates the gene. The down-regulation of the CYP27B1 gene has been proposed to involve a negative vitamin D response element (nVDRE) that is located approximately 500 bp upstream from transcription start site (TSS). In this study, we reveal the existence of two new VDR-binding regions in the distal promoter, 2.6 and 3.2 kb upstream from the TSS, that bind vitamin D receptor-retinoid X receptor complexes. Since the down regulation of the CYP27B1 gene is tissue- and cell-type selective, a comparative study was done for the new 1alpha,25(OH)2D3-responsive regions in HEK-293 human embryonic kidney and MCF-7 human breast cancer cells that reflect tissues that, respectively, are permissive and non-permissive to the phenomenon of 1alpha,25(OH)2D3-mediated down-regulation of this gene. We found significant differences in the composition of protein complexes associated with these CYP27B1 promoter regions in the different cell lines, some of which reflect the capability of transcriptional repression of the CYP27B1 gene in these different cells. In addition, chromatin architecture differed with respect to chromatin looping in the two cell lines, as the new distal regions were differentially connected with the proximal promoter. This data explains, in part, why the human CYP27B1 gene is repressed in HEK-293 but not in MCF-7 cells.",
+        "Keywords": [],
+        "MeSH terms": [
+            "25-Hydroxyvitamin D3 1-alpha-Hydroxylase",
+            "Binding Sites",
+            "Calcitriol",
+            "Cell Line",
+            "Down-Regulation",
+            "Humans",
+            "Ligands",
+            "Promoter Regions, Genetic",
+            "Receptors, Calcitriol",
+            "Transcription Factors",
+            "Transcription, Genetic",
+            "Vitamin D Response Element"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mikko M",
+                "Last Name": "Turunen",
+                "Affiliation": "Department of Biochemistry, University of Kuopio, FIN-70211 Kuopio, Finland."
+            },
+            {
+                "First Name": "Thomas W",
+                "Last Name": "Dunlop",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Carsten",
+                "Last Name": "Carlberg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sami",
+                "Last Name": "Väisänen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nucleic acids research",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "15010272",
+        "Title": "Feline immunodeficiency virus and retrovirus-mediated adventitial ex vivo gene transfer to rabbit carotid artery using autologous vascular smooth muscle cells.",
+        "Abstract": "We have developed an ex vivo gene transfer technique to rabbit arterial wall using autologous smooth muscle cells (SMCs). SMCs were harvested from rabbit ear artery, transduced in vitro with vesicular stomatitis virus G-glycoprotein pseudotyped retrovirus or feline immunodeficiency virus (FIV) and returned to the adventitial surface of the carotid artery using a periadventitial silicone collar or collagen sheet placed around the artery. Beta-galactosidase (lacZ) and human apolipoprotein E3 (apoE3) cDNAs were used as transgenes. After retrovirus-mediated gene transfer of lacZ the selected cells implanted with high efficiency and expressed lacZ marker gene at a very high level 7 and 14 days after the operation. The level of lacZ expression decreased thereafter but was still detectable 12 weeks after the gene transfer, and was exclusively localized to the site of cell implantation inside the collar. Utilizing FIV vector expressing apoE3, low levels of apoE were measured from serum collected from a low-density lipoprotein receptor deficient Watanabe heritable hyperlipidemic rabbits 1 month after the gene transfer. The physiological effect of apoE expression was detected as transiently elevated serum cholesterol levels. The results indicate that the model can be used for high efficiency local gene transfer in arteries, e.g. during vascular surgery. The model is also valuable for studying expression, stability and safety of new gene transfer vectors and their expression products in vivo.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Apolipoprotein E3",
+            "Apolipoproteins E",
+            "Carotid Arteries",
+            "Cats",
+            "Genetic Therapy",
+            "Genetic Vectors",
+            "Humans",
+            "Immunodeficiency Virus, Feline",
+            "Membrane Glycoproteins",
+            "Myocytes, Smooth Muscle",
+            "Rabbits",
+            "Transduction, Genetic",
+            "Transplantation, Autologous",
+            "Vascular Diseases",
+            "Vascular Surgical Procedures",
+            "Viral Envelope Proteins",
+            "beta-Galactosidase"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hanna M",
+                "Last Name": "Kankkonen",
+                "Affiliation": "Department of Biotechnology and Molecular Medicine, A I Virtanen Institute for Molecular Sciences, University of Kuopio, PO Box 1627, FIN-70211 Kuopio, Finland."
+            },
+            {
+                "First Name": "Mikko P",
+                "Last Name": "Turunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mikko O",
+                "Last Name": "Hiltunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pauliina",
+                "Last Name": "Lehtolainen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonna",
+                "Last Name": "Koponen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Pia",
+                "Last Name": "Leppänen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anna-Mari",
+                "Last Name": "Turunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Seppo",
+                "Last Name": "Ylä-Herttuala",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Journal of molecular and cellular cardiology",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "12231165",
+        "Title": "Peptide-retargeted adenovirus encoding a tissue inhibitor of metalloproteinase-1 decreases restenosis after intravascular gene transfer.",
+        "Abstract": "In this study we have attached cyclic targeting peptides by way of a poly-lysine spacer on the surface of an adenovirus using a transglutaminase enzymatic reaction to enhance transduction efficiency and to modify tissue tropism in vivo. Nuclear targeted lacZ- and TIMP-1-encoding adenoviruses were coupled to a peptide-motif (HWGF) that can bind to matrix metalloproteinase (MMP)-2 and MMP-9. Modified viruses were used to evaluate gene transfer efficiency, biodistribution, and the effect on neointima formation following balloon denudation injury. In vitro, both rabbit aortic smooth muscle cells and human endothelial hybridoma cells demonstrated significantly increased reporter gene expression with HWGF-modified adenoviruses (AdlacZ(HWGF)) compared with control (AdlacZ) or mismatch peptide-modified (AdlacZ(MM)) adenoviruses. However, in human hepatocellular Hep-G2 cells, both AdlacZ(HWGF) and AdlacZ(MM) produced significantly lower transgene expression compared with the respective control viruses. In vivo, local intravascular catheter-mediated gene transfer of a HWGF-targeted TIMP-1-encoding adenovirus (AdTIMP-1(HWGF)) significantly reduced intimal thickening in a rabbit aortic balloon denudation model (P < 0.05) compared with the control adenovirus. X-Gal staining and biodistribution analyses with TaqMan RT-PCR revealed that the cyclic peptides altered vector tropism and, in particular, reduced transduction of the liver. We found that the HWGF peptide modification increased transduction efficiency of the adenovirus-mediated gene transfer in smooth muscle cells and endothelial cells in in vitro and enhanced gene transfer to the arterial wall in vivo; that peptide modification of adenoviruses beneficially modulated tissue tropism in vivo; and that efficient TIMP-1 gene transfer reduced intimal thickening in an established restenosis model in rabbits.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adenoviridae",
+            "Amino Acid Motifs",
+            "Animals",
+            "Coronary Restenosis",
+            "Endothelium, Vascular",
+            "Gene Transfer Techniques",
+            "Genetic Vectors",
+            "Humans",
+            "In Vitro Techniques",
+            "Muscle, Smooth, Vascular",
+            "Organ Specificity",
+            "Peptides, Cyclic",
+            "Polymerase Chain Reaction",
+            "Rabbits",
+            "Tissue Inhibitor of Metalloproteinase-1",
+            "Transduction, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mikko P",
+                "Last Name": "Turunen",
+                "Affiliation": "A. I. Virtanen Institute, University of Kuopio, Kuopio, Finland."
+            },
+            {
+                "First Name": "Hanna L",
+                "Last Name": "Puhakka",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jonna K",
+                "Last Name": "Koponen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mikko O",
+                "Last Name": "Hiltunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Juha",
+                "Last Name": "Rutanen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Olli",
+                "Last Name": "Leppänen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anna-Mari",
+                "Last Name": "Turunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ale",
+                "Last Name": "Närvänen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew C",
+                "Last Name": "Newby",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrew H",
+                "Last Name": "Baker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Seppo",
+                "Last Name": "Ylä-Herttuala",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "12083735",
+        "Title": "DNA hypomethylation and methyltransferase expression in atherosclerotic lesions.",
+        "Abstract": "Arterial smooth muscle cell (SMC) migration and proliferation are central features in atherogenesis. Altered gene expression and cell proliferation in atherosclerotic lesions have some similar characteristics with certain solid tumors and thus might have similar mechanisms that lead to SMC proliferation. Among cancer cells common features are genome-wide hypomethylation which correlates with transformation and tumor progression, and coincident overexpression of methyltransferase (MTase). The purpose of the present study was to analyze whether alterations in DNA methylation and MTase expression are present in atherosclerotic lesions. A significant reduction in genomic 5-methylcytosine content was detected in advanced human atherosclerotic lesions and in lesions of ApoE knock-out mice. SMC were shown to develop hypomethylation in vitro during transformation from a contractile to synthetic phenotype. Balloon denudation of New Zealand White rabbit aorta caused proliferation of intimal SMC with concomitant genomic hypomethylation in the thickened intima. By using in situ hybridization the overall transcriptional activity was found to be increased in clusters of lesion SMC. Marked heterogeneity was seen in MTase mRNA expression in various types of atherosclerotic lesions among intimal and medial SMC. These findings show that (1) genomic hypomethylation occurs during atherogenesis in human, mouse and rabbit lesions and that it correlates with increased transcriptional activity; (2) MTase is expressed in atherosclerotic lesions; and (3) hypomethylation is present in advanced lesions at the same level as in malignant tumors and may affect cellular proliferation and gene expression in atherosclerotic lesions.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Animals",
+            "Aorta",
+            "Arteriosclerosis",
+            "Cell Movement",
+            "Child",
+            "DNA",
+            "DNA Methylation",
+            "DNA Modification Methylases",
+            "Disease Models, Animal",
+            "Female",
+            "Gene Expression",
+            "Humans",
+            "Male",
+            "Mice",
+            "Mice, Knockout",
+            "Middle Aged",
+            "Models, Cardiovascular",
+            "Myocytes, Smooth Muscle",
+            "Proto-Oncogene Proteins c-sis",
+            "RNA, Messenger",
+            "Rabbits",
+            "Tunica Intima"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mikko O",
+                "Last Name": "Hiltunen",
+                "Affiliation": "AI Virtanen Institute, University of Kuopio, Finland."
+            },
+            {
+                "First Name": "Mikko P",
+                "Last Name": "Turunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tomi P",
+                "Last Name": "Häkkinen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Juha",
+                "Last Name": "Rutanen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Maria",
+                "Last Name": "Hedman",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kimmo",
+                "Last Name": "Mäkinen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Anna-Mari",
+                "Last Name": "Turunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Katriina",
+                "Last Name": "Aalto-Setälä",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Seppo",
+                "Last Name": "Ylä-Herttuala",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Vascular medicine (London, England)",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "11883076",
+        "Title": "Gene therapy methods in cardiovascular diseases.",
+        "Abstract": "Local gene transfer into the vascular wall offers a promising alternative to treat atherosclerosis-related diseases. Blood vessels are among the easiest targets for gene therapy because of percutaneous, catheter-based treatment methods. On the other hand, gene transfer to the artery wall can also be accomplished from adventitia either by ex vivo gene transfer and implantation of transfected cells or by direct in vivo gene transfer methods. In the future, as the pathological processes in arteries are better understood, several therapeutic genes could be combined and these \"gene cocktails\" are expected to produce enhanced therapeutic effects in vascular gene therapy. We have developed a new, efficient technique for performing ex vivo gene transfer to rabbit arterial wall using autologous SMC. The cells were harvested from rabbit ear artery, transfected in vitro with VSV-G pseudotyped lacZ retrovirus, and returned back to the adventitial surface of the carotid artery using a silicone collar or collagen sheet placed around the artery. The transduced SMCs implanted with a high efficiency and expressed beta-galactosidase marker gene at a very high level 7 days and 14 days after the operation. The level of lacZ expression decreased thereafter, but was still easily detectable for at least 6 months and was exclusively localized to the site of cell implantation inside the collar. Development of new vectors, such as baculovirus, for gene transfer will provide targeted, efficient, and safer methods for gene delivery. Plasmids and viruses coding for more than one protein, and bearing regulatory elements, would be useful for future gene therapy applications. Also, constructing second-generation viruses that contain fewer endogenous genes in their genome may reduce immunological reactions caused by the first-generation adenoviruses. In conditions where stable expression of therapeutic proteins is needed, it is necessary to develop better ex vivo and in vivo gene transfer strategies. Also, production of viruses that can efficiently transfect nondividing cells will be important for future applications of vascular gene therapy. However, current knowledge from vascular gene transfer experiments strongly suggests that vascular gene transfer is a promising new alternative for the treatment of cardiovascular diseases.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Blood Vessels",
+            "Cardiovascular Diseases",
+            "Gene Transfer Techniques",
+            "Genetic Therapy",
+            "Rabbits",
+            "Reverse Transcriptase Polymerase Chain Reaction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Mikko O",
+                "Last Name": "Hiltunen",
+                "Affiliation": "University of Kuopio, A. I. Virtanen Institute, FIN-70210 Kuopio, Finland."
+            },
+            {
+                "First Name": "Mikko P",
+                "Last Name": "Turunen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Seppo",
+                "Last Name": "Ylä-Herttuala",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Methods in enzymology",
+        "PubDate": "2002"
+    }
+]

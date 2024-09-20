@@ -1,5 +1,66 @@
 [
     {
+        "PMID": "39185163",
+        "Title": "Spatially organized striatal neuromodulator release encodes trajectory errors.",
+        "Abstract": "Goal-directed navigation requires animals to continuously evaluate their current direction and speed of travel relative to landmarks to discern whether they are approaching or deviating from their goal. Striatal dopamine and acetylcholine are powerful modulators of goal-directed behavior, but it is unclear whether and how neuromodulator dynamics at landmarks incorporate relative motion for effective behavioral guidance. Using optical measurements in mice, we demonstrate that cue-evoked striatal dopamine release encodes bi-directional 'trajectory errors' reflecting relationships between ongoing speed and direction of locomotion and visual flow relative to optimal goal trajectories. Striatum-wide micro-fiber array recordings resolved an anatomical gradient of trajectory error signaling across the anterior-posterior axis, distinct from trajectory error independent cue signals. Dynamic regression modeling revealed that positive and negative trajectory error encoding emerges early and late respectively during learning and over different time courses in the medial and lateral striatum, enabling region specific contributions to learning. Striatal acetylcholine release also encodes trajectory errors, but encoding is more spatially restricted, opposite polarity, and delayed relative to dopamine, supporting distinct roles in modulating striatal output and behavior. Dopamine trajectory error signaling and task performance were reproduced in a reinforcement learning model incorporating a conjunctive state space representation, suggesting a potential neural substrate for trajectory error generation. Our results establish region specific neuromodulator signals positioned to guide the speed and direction of locomotion to reach goals based on environmental landmarks during navigation.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Eleanor",
+                "Last Name": "Brown",
+                "Affiliation": "Department of Psychological & Brain Sciences, Boston University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Yihan",
+                "Last Name": "Zi",
+                "Affiliation": "Department of Psychological & Brain Sciences, Boston University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Mai-Anh",
+                "Last Name": "Vu",
+                "Affiliation": "Department of Psychological & Brain Sciences, Boston University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Safa",
+                "Last Name": "Bouabid",
+                "Affiliation": "Department of Psychological & Brain Sciences, Boston University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Jack",
+                "Last Name": "Lindsey",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Chinyere",
+                "Last Name": "Godfrey-Nwachukwu",
+                "Affiliation": "Department of Psychological & Brain Sciences, Boston University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Aaquib",
+                "Last Name": "Attarwala",
+                "Affiliation": "Department of Psychological & Brain Sciences, Boston University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Ashok",
+                "Last Name": "Litwin-Kumar",
+                "Affiliation": "Department of Neuroscience, Columbia University, New York, NY, USA."
+            },
+            {
+                "First Name": "Brian",
+                "Last Name": "DePasquale",
+                "Affiliation": "Department of Biomedical Engineering, Boston University, Boston, MA, USA."
+            },
+            {
+                "First Name": "Mark",
+                "Last Name": "Howe",
+                "Affiliation": "Department of Psychological & Brain Sciences, Boston University, Boston, MA, USA."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
         "PMID": "39023518",
         "Title": "Selective consolidation of learning and memory via recall-gated plasticity.",
         "Abstract": "In a variety of species and behavioral contexts, learning and memory formation recruits two neural systems, with initial plasticity in one system being consolidated into the other over time. Moreover, consolidation is known to be selective; that is, some experiences are more likely to be consolidated into long-term memory than others. Here, we propose and analyze a model that captures common computational principles underlying such phenomena. The key component of this model is a mechanism by which a long-term learning and memory system prioritizes the storage of synaptic changes that are consistent with prior updates to the short-term system. This mechanism, which we refer to as recall-gated consolidation, has the effect of shielding long-term memory from spurious synaptic changes, enabling it to focus on reliable signals in the environment. We describe neural circuit implementations of this model for different types of learning problems, including supervised learning, reinforcement learning, and autoassociative memory storage. These implementations involve synaptic plasticity rules modulated by factors such as prediction accuracy, decision confidence, or familiarity. We then develop an analytical theory of the learning and memory performance of the model, in comparison to alternatives relying only on synapse-local consolidation mechanisms. We find that recall-gated consolidation provides significant advantages, substantially amplifying the signal-to-noise ratio with which memories can be stored in noisy environments. We show that recall-gated consolidation gives rise to a number of phenomena that are present in behavioral learning paradigms, including spaced learning effects, task-dependent rates of consolidation, and differing neural representations in short- and long-term pathways.",
@@ -98,7 +159,22 @@
             "temporal learning",
             "two-photon imaging"
         ],
-        "MeSH terms": [],
+        "MeSH terms": [
+            "Animals",
+            "Cerebellum",
+            "Mice",
+            "Reward",
+            "Purkinje Cells",
+            "Learning",
+            "Conditioning, Operant",
+            "Male",
+            "Mice, Inbred C57BL",
+            "Nerve Fibers",
+            "Neuronal Plasticity",
+            "Neurons",
+            "Time Factors",
+            "Action Potentials"
+        ],
         "Authors": [
             {
                 "First Name": "Martha G",

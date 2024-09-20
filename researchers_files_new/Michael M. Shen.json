@@ -1,0 +1,2580 @@
+[
+    {
+        "PMID": "38352515",
+        "Title": "Meta-analyses of mouse and human prostate single-cell transcriptomes reveal widespread epithelial plasticity in tissue regression, regeneration, and cancer.",
+        "Abstract": "Recent advances in single-cell RNA-sequencing (scRNA-seq) technology have facilitated studies of cell states and plasticity in tissue maintenance and cancer, including in the prostate. Here we present meta-analyses of multiple new and published scRNA-seq datasets to establish reference cell type classifications for the normal mouse and human prostate. Our analyses demonstrate transcriptomic similarities between epithelial cell states in the normal prostate, in the regressed prostate after androgen-deprivation, and in primary prostate tumors. During regression in the mouse prostate, all epithelial cells shift their expression profiles towards a proximal periurethral (PrU) state, demonstrating an androgen-dependent plasticity that is restored to normal during androgen restoration and regeneration. In the human prostate, we find progressive rewiring of transcriptional programs across epithelial cell types in benign prostate hyperplasia and treatment-naïve prostate cancer. Notably, we detect copy number variants predominantly within Luminal Acinar cells in prostate tumors, suggesting a bias in their cell type of origin, as well as a larger field of transcriptomic alterations in non-tumor cells. Finally, we observe that Luminal Acinar tumor cells in treatment-naïve prostate cancer display heterogeneous androgen receptor (AR) signaling activity, including a split between high-AR and low-AR profiles with similarity to PrU-like states. Taken together, our analyses of cellular heterogeneity and plasticity provide important translational insights into the origin and treatment response of prostate cancer.",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Luis",
+                "Last Name": "Aparicio",
+                "Affiliation": "Program for Mathematical Genomics, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Laura",
+                "Last Name": "Crowley",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "John R",
+                "Last Name": "Christin",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Caroline J",
+                "Last Name": "Laplaca",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Hanina",
+                "Last Name": "Hibshoosh",
+                "Affiliation": "Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Raul",
+                "Last Name": "Rabadan",
+                "Affiliation": "Program for Mathematical Genomics, Columbia University Irving Medical Center, New York, NY."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY."
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "37502956",
+        "Title": "NSD2 maintains lineage plasticity and castration-resistance in neuroendocrine prostate cancer.",
+        "Abstract": "The clinical use of potent androgen receptor (AR) inhibitors has promoted the emergence of novel subtypes of metastatic castration-resistant prostate cancer (mCRPC), including neuroendocrine prostate cancer (CRPC-NE), which is highly aggressive and lethal ",
+        "Keywords": [],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Jia J",
+                "Last Name": "Li",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alessandro",
+                "Last Name": "Vasciaveo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Dimitrios",
+                "Last Name": "Karagiannis",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Zhen",
+                "Last Name": "Sun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiao",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Fabio",
+                "Last Name": "Socciarelli",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ziv",
+                "Last Name": "Frankenstein",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Min",
+                "Last Name": "Zou",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Tania",
+                "Last Name": "Pannellini",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yu",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kevin",
+                "Last Name": "Gardner",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Brian D",
+                "Last Name": "Robinson",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Johann",
+                "Last Name": "de Bono",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Mark A",
+                "Last Name": "Rubin",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Massimo",
+                "Last Name": "Loda",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Charles L",
+                "Last Name": "Sawyers",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chao",
+                "Last Name": "Lu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "bioRxiv : the preprint server for biology",
+        "PubDate": "2023"
+    },
+    {
+        "PMID": "35000880",
+        "Title": "Modeling tumor plasticity in organoid models of human cancer.",
+        "Abstract": "Due to its inherent plasticity and heterogeneity, cancer is a difficult disease to model both in vitro and in vivo. However, recent advances in organoid technology hold great promise for future research into the mechanisms underlying tumor plasticity in human cancers.",
+        "Keywords": [
+            "cell state transition",
+            "organoids",
+            "plasticity",
+            "tumor heterogeneity",
+            "tumor microenvironment",
+            "tumor subtype"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "Neoplasms",
+            "Organoids"
+        ],
+        "Authors": [
+            {
+                "First Name": "John R",
+                "Last Name": "Christin",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Urology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Urology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: mshen@columbia.edu."
+            }
+        ],
+        "Journal": "Trends in cancer",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34728312",
+        "Title": "Heterogeneity and complexity of the prostate epithelium: New findings from single-cell RNA sequencing studies.",
+        "Abstract": "The recent advent of single-cell RNA-sequencing technology has provided new fundamental insights into the heterogeneity of the prostate epithelium. Several independent studies have described extensive heterogeneity of the luminal epithelial compartment, including a major division between a novel population of luminal cells located in the proximal region of the prostate ducts versus luminal cells located more distally. Proximal luminal cells as well as novel periurethral cells display increased progenitor potential in organoid culture and tissue reconstitution assays, but not in lineage-tracing analyses during prostate homeostasis, suggesting context-dependent plasticity of these populations. Here we describe and synthesize recent findings regarding the epithelial cell populations in the mouse prostate, draw comparisons to the human prostate, and address the relevance of these findings to prostate diseases and cancer.",
+        "Keywords": [
+            "Homeostasis",
+            "Lineage-tracing",
+            "Organoid",
+            "Plasticity",
+            "Stem cell"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cell Lineage",
+            "Epithelium",
+            "Humans",
+            "Male",
+            "Mice",
+            "Organoids",
+            "Prostate",
+            "Prostatic Neoplasms",
+            "Sequence Analysis, RNA",
+            "Single-Cell Analysis"
+        ],
+        "Authors": [
+            {
+                "First Name": "Laura",
+                "Last Name": "Crowley",
+                "Affiliation": "Departments of Medicine, Genetics and Development, Urology, and Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, NY, 10032, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Departments of Medicine, Genetics and Development, Urology, and Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, NY, 10032, USA. Electronic address: mshen@columbia.edu."
+            }
+        ],
+        "Journal": "Cancer letters",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "34147640",
+        "Title": "Prostate cancer cell heterogeneity and plasticity: Insights from studies of genetically-engineered mouse models.",
+        "Abstract": "Although prostate adenocarcinoma lacks distinguishable histopathological subtypes, prostate cancer displays significant inter- and intratumor heterogeneity at the molecular level and with respect to disease prognosis and treatment response. In principle, understanding the basis for prostate cancer heterogeneity can help distinguish aggressive from indolent disease, and help overcome castration-resistance in advanced prostate cancer. In this review, we will discuss recent advances in understanding the cell types of origin, putative cancer stem cells, and tumor plasticity in prostate cancer, focusing on insights from studies of genetically engineered mouse models (GEMMs). We will also outline future directions for investigating tumor heterogeneity using mouse models of prostate cancer.",
+        "Keywords": [
+            "Cancer stem cell",
+            "Castration-resistance",
+            "Cell of origin",
+            "Genetically engineered mouse model",
+            "Lineage plasticity",
+            "Tumor heterogeneity"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Disease Models, Animal",
+            "Humans",
+            "Male",
+            "Mice",
+            "Neoplastic Stem Cells",
+            "Prostate",
+            "Prostatic Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Weiping",
+                "Last Name": "Li",
+                "Affiliation": "Departments of Medicine, Genetics and Development, Urology, and Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, NY 10032 USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Departments of Medicine, Genetics and Development, Urology, and Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, NY 10032 USA. Electronic address: mshen@columbia.edu."
+            }
+        ],
+        "Journal": "Seminars in cancer biology",
+        "PubDate": "2022"
+    },
+    {
+        "PMID": "33176121",
+        "Title": "Bipotent Progenitors Do Not Require Androgen Receptor for Luminal Specification during Prostate Organogenesis.",
+        "Abstract": "Androgen receptor (AR) plays a fundamental role in most aspects of adult prostate homeostasis, and anti-androgen therapy represents the cornerstone of prostate cancer treatment. However, early prostate organogenesis takes place during pre-pubertal stages when androgen levels are low, raising the possibility that AR function is more limited during prostate development. Here, we use inducible AR deletion and lineage tracing in genetically engineered mice to show that basal and luminal epithelial progenitors do not require cell-autonomous AR activity during prostate development. We also demonstrate the existence of a transient bipotent luminal progenitor that can generate luminal and basal progeny, yet is also independent of AR function. Furthermore, molecular analyses of AR-deleted luminal cells isolated from developing prostates indicate their similarity to wild-type cells. Our findings suggest that low androgen levels correlate with luminal plasticity in prostate development and may have implications for understanding how AR inhibition promotes lineage plasticity in prostate cancer.",
+        "Keywords": [
+            "androgen receptor",
+            "lineage tracing",
+            "luminal progenitor",
+            "plasticity",
+            "prostate organogenesis"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Animals, Genetically Modified",
+            "Cell Differentiation",
+            "Cell Plasticity",
+            "Cell Proliferation",
+            "Epithelial Cells",
+            "Gene Expression Regulation",
+            "Genotype",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Organogenesis",
+            "Prostate",
+            "Receptors, Androgen",
+            "Sequence Deletion",
+            "Stem Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Maho",
+                "Last Name": "Shibata",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Urology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Anatomy and Cell Biology, School of Medicine and Health Sciences, The George Washington University Cancer Center, The George Washington University, Washington, DC 20052, USA. Electronic address: mshibata@gwu.edu."
+            },
+            {
+                "First Name": "Nusrat J",
+                "Last Name": "Epsi",
+                "Affiliation": "Department of Health Informatics, Rutgers School of Health Professions, Rutgers Biomedical and Health Sciences, Newark, NJ 07107, USA; Rutgers Cancer Institute of New Jersey, Rutgers, The State University of New Jersey, New Brunswick, NJ 08901, USA."
+            },
+            {
+                "First Name": "Shouhong",
+                "Last Name": "Xuan",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Urology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Antonina",
+                "Last Name": "Mitrofanova",
+                "Affiliation": "Department of Health Informatics, Rutgers School of Health Professions, Rutgers Biomedical and Health Sciences, Newark, NJ 07107, USA; Rutgers Cancer Institute of New Jersey, Rutgers, The State University of New Jersey, New Brunswick, NJ 08901, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Urology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Irving Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: mshen@columbia.edu."
+            }
+        ],
+        "Journal": "Stem cell reports",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "32915138",
+        "Title": "A single-cell atlas of the mouse and human prostate reveals heterogeneity and conservation of epithelial progenitors.",
+        "Abstract": "Understanding the cellular constituents of the prostate is essential for identifying the cell of origin for prostate adenocarcinoma. Here, we describe a comprehensive single-cell atlas of the adult mouse prostate epithelium, which displays extensive heterogeneity. We observe distal lobe-specific luminal epithelial populations (LumA, LumD, LumL, and LumV), a proximally enriched luminal population (LumP) that is not lobe-specific, and a periurethral population (PrU) that shares both basal and luminal features. Functional analyses suggest that LumP and PrU cells have multipotent progenitor activity in organoid formation and tissue reconstitution assays. Furthermore, we show that mouse distal and proximal luminal cells are most similar to human acinar and ductal populations, that a PrU-like population is conserved between species, and that the mouse lateral prostate is most similar to the human peripheral zone. Our findings elucidate new prostate epithelial progenitors, and help resolve long-standing questions about anatomical relationships between the mouse and human prostate.",
+        "Keywords": [
+            "cancer biology",
+            "epithelial heterogeneity",
+            "human",
+            "mouse",
+            "multipotent progenitor",
+            "organoids",
+            "regenerative medicine",
+            "renal grafts",
+            "stem cells"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cells, Cultured",
+            "Epithelial Cells",
+            "Humans",
+            "Male",
+            "Mice",
+            "Organoids",
+            "Prostate",
+            "Single-Cell Analysis",
+            "Stem Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Laura",
+                "Last Name": "Crowley",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Francesco",
+                "Last Name": "Cambuli",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Luis",
+                "Last Name": "Aparicio",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Maho",
+                "Last Name": "Shibata",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Brian D",
+                "Last Name": "Robinson",
+                "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Medical College of Cornell University, New York, United States."
+            },
+            {
+                "First Name": "Shouhong",
+                "Last Name": "Xuan",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Weiping",
+                "Last Name": "Li",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Hanina",
+                "Last Name": "Hibshoosh",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Massimo",
+                "Last Name": "Loda",
+                "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Medical College of Cornell University, New York, United States."
+            },
+            {
+                "First Name": "Raul",
+                "Last Name": "Rabadan",
+                "Affiliation": "Department of Systems Biology, Columbia University Irving Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2020"
+    },
+    {
+        "PMID": "31408617",
+        "Title": "A Positive Step toward Understanding Double-Negative Metastatic Prostate Cancer.",
+        "Abstract": "In this issue of Cancer Cell, Su et al. demonstrate that epigenetic reprogramming by Polycomb Repressive Complex 1 (PRC1) promotes an inflammatory tumor microenvironment in a subtype of metastatic prostate cancer, and show that a PRC1 inhibitor can synergize with immune checkpoint inhibitors to suppress metastasis in mouse models.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Nucleus",
+            "Histones",
+            "Humans",
+            "Male",
+            "Mice",
+            "Polycomb Repressive Complex 1",
+            "Polycomb-Group Proteins",
+            "Prostatic Neoplasms",
+            "Tumor Microenvironment"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Departments of Medicine, Genetics and Development, Urology, and Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA. Electronic address: mshen@columbia.edu."
+            }
+        ],
+        "Journal": "Cancer cell",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30348836",
+        "Title": "Prostate Cancer Research at the Crossroads.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Biomedical Research",
+            "Carcinogenesis",
+            "Cell Transformation, Neoplastic",
+            "Disease Susceptibility",
+            "Humans",
+            "Male",
+            "Prostatic Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Departments of Medicine, Genetics and Development, Urology, and Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York 10032."
+            },
+            {
+                "First Name": "Mark A",
+                "Last Name": "Rubin",
+                "Affiliation": "Englander Institute for Precision Medicine, Department of Pathology and Laboratory Medicine, Sandra and Edward Meyer Cancer Center, Weill Cornell Medicine, New York, New York 10021."
+            }
+        ],
+        "Journal": "Cold Spring Harbor perspectives in medicine",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "30291148",
+        "Title": "Prostate Stem Cells and Cancer Stem Cells.",
+        "Abstract": "Stem/progenitor cells play central roles in processes of organogenesis and tissue maintenance, whereas cancer stem cells (CSCs) are thought to drive tumor malignancy. Here, we review recent progress in the identification and analysis of normal prostate stem/progenitor cells as well as putative CSCs in both genetically engineered mouse models as well as in human tissue. We also discuss studies that have investigated the cell type of origin for prostate cancer. In addition, we provide a critical assessment of methodologies used in stem cell analyses and outline directions for future research.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Epithelial Cells",
+            "Humans",
+            "Male",
+            "Mice",
+            "Models, Biological",
+            "Neoplastic Stem Cells",
+            "Prostate",
+            "Prostatic Neoplasms",
+            "Receptors, Androgen",
+            "Stem Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jia J",
+                "Last Name": "Li",
+                "Affiliation": "Department of Medicine, Columbia University College of Physicians and Surgeons, New York, New York 10032."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Medicine, Columbia University College of Physicians and Surgeons, New York, New York 10032."
+            }
+        ],
+        "Journal": "Cold Spring Harbor perspectives in medicine",
+        "PubDate": "2019"
+    },
+    {
+        "PMID": "29756093",
+        "Title": "Lineage Plasticity in Cancer Progression and Treatment.",
+        "Abstract": "Historically, it has been widely presumed that differentiated cells are determined during development and become irreversibly committed to their designated fates. In certain circumstances, however, differentiated cells can display plasticity by changing their identity, either by dedifferentiation to a progenitor-like state or by transdifferentiation to an alternative differentiated cell type. Such cellular plasticity can be triggered by physiological or oncogenic stress, or it can be experimentally induced through cellular reprogramming. Notably, physiological stresses that promote plasticity, such as severe tissue damage, inflammation, or senescence, also represent hallmarks of cancer. Furthermore, key drivers of cellular plasticity include major oncogenic and tumor suppressor pathways and can be exacerbated by drug treatment. Thus, plasticity may help cancer cells evade detection and treatment. We propose that cancer can be considered as a disease of excess plasticity, a notion that has important implications for intervention and treatment.",
+        "Keywords": [
+            "cancer progression",
+            "differentiation",
+            "drug resistance",
+            "lineage plasticity",
+            "reprogramming",
+            "transdifferentiation"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Clémentine",
+                "Last Name": "Le Magnen",
+                "Affiliation": "Department of Urology and Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Urology and Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": "Department of Urology and Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Annual review of cancer biology",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29625057",
+        "Title": "Tumor Evolution and Drug Response in Patient-Derived Organoid Models of Bladder Cancer.",
+        "Abstract": "Bladder cancer is the fifth most prevalent cancer in the U.S., yet is understudied, and few laboratory models exist that reflect the biology of the human disease. Here, we describe a biobank of patient-derived organoid lines that recapitulates the histopathological and molecular diversity of human bladder cancer. Organoid lines can be established efficiently from patient biopsies acquired before and after disease recurrence and are interconvertible with orthotopic xenografts. Notably, organoid lines often retain parental tumor heterogeneity and exhibit a spectrum of genomic changes that are consistent with tumor evolution in culture. Analyses of drug response using bladder tumor organoids show partial correlations with mutational profiles, as well as changes associated with treatment resistance, and specific responses can be validated using xenografts in vivo. Our studies indicate that patient-derived bladder tumor organoids represent a faithful model system for studying tumor evolution and treatment response in the context of precision cancer medicine.",
+        "Keywords": [
+            "bladder cancer",
+            "clonal evolution",
+            "drug response",
+            "patient-derived organoids",
+            "patient-derived xenografts"
+        ],
+        "MeSH terms": [
+            "Aged",
+            "Aged, 80 and over",
+            "Animals",
+            "Antineoplastic Agents",
+            "Cell Survival",
+            "DNA Copy Number Variations",
+            "Disease Models, Animal",
+            "Female",
+            "Humans",
+            "Male",
+            "Mice",
+            "Mice, Inbred NOD",
+            "Middle Aged",
+            "Mutation",
+            "Organoids",
+            "Precision Medicine",
+            "Transplantation, Heterologous",
+            "Tumor Cells, Cultured",
+            "Urinary Bladder Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Suk Hyung",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, NY 10032, USA; Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA; Department of Urology, Columbia University Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Wenhuo",
+                "Last Name": "Hu",
+                "Affiliation": "Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA; Marie-Josée and Henry R. Kravis Center for Molecular Oncology, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Justin T",
+                "Last Name": "Matulay",
+                "Affiliation": "Department of Urology, Columbia University Medical Center, New York, NY 10032, USA; New York-Presbyterian Hospital, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Mark V",
+                "Last Name": "Silva",
+                "Affiliation": "Department of Urology, Columbia University Medical Center, New York, NY 10032, USA; New York-Presbyterian Hospital, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Tomasz B",
+                "Last Name": "Owczarek",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, NY 10032, USA; Department of Urology, Columbia University Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Department of Pathology and Cell Biology, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Kwanghee",
+                "Last Name": "Kim",
+                "Affiliation": "Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA; Urology Service, Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Chee Wai",
+                "Last Name": "Chua",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, NY 10032, USA; Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA; Department of Urology, Columbia University Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "LaMont J",
+                "Last Name": "Barlow",
+                "Affiliation": "Department of Urology, Columbia University Medical Center, New York, NY 10032, USA; New York-Presbyterian Hospital, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Cyriac",
+                "Last Name": "Kandoth",
+                "Affiliation": "Marie-Josée and Henry R. Kravis Center for Molecular Oncology, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Alanna B",
+                "Last Name": "Williams",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, NY 10032, USA; Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA; Department of Urology, Columbia University Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Sarah K",
+                "Last Name": "Bergren",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, NY 10032, USA; Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA; Department of Urology, Columbia University Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Eugene J",
+                "Last Name": "Pietzak",
+                "Affiliation": "Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA; Marie-Josée and Henry R. Kravis Center for Molecular Oncology, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA; Urology Service, Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Christopher B",
+                "Last Name": "Anderson",
+                "Affiliation": "Department of Urology, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA; New York-Presbyterian Hospital, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Mitchell C",
+                "Last Name": "Benson",
+                "Affiliation": "Department of Urology, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA; New York-Presbyterian Hospital, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Jonathan A",
+                "Last Name": "Coleman",
+                "Affiliation": "Urology Service, Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Barry S",
+                "Last Name": "Taylor",
+                "Affiliation": "Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA; Marie-Josée and Henry R. Kravis Center for Molecular Oncology, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA; Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, NY 10032, USA; Department of Urology, Columbia University Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Department of Pathology and Cell Biology, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "James M",
+                "Last Name": "McKiernan",
+                "Affiliation": "Department of Urology, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA; New York-Presbyterian Hospital, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Hikmat",
+                "Last Name": "Al-Ahmadie",
+                "Affiliation": "Department of Pathology, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "David B",
+                "Last Name": "Solit",
+                "Affiliation": "Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA; Marie-Josée and Henry R. Kravis Center for Molecular Oncology, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA; Genitourinary Oncology Service, Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, NY 10032, USA; Department of Genetics and Development, Columbia University Medical Center, New York, NY 10032, USA; Department of Urology, Columbia University Medical Center, New York, NY 10032, USA; Department of Systems Biology, Columbia University Medical Center, New York, NY 10032, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA. Electronic address: mshen@columbia.edu."
+            }
+        ],
+        "Journal": "Cell",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "29334357",
+        "Title": "Differential requirements of androgen receptor in luminal progenitors during prostate regeneration and tumor initiation.",
+        "Abstract": "Master regulatory genes of tissue specification play key roles in stem/progenitor cells and are often important in cancer. In the prostate, androgen receptor (AR) is a master regulator essential for development and tumorigenesis, but its specific functions in prostate stem/progenitor cells have not been elucidated. We have investigated AR function in CARNs (CAstration-Resistant Nkx3.1-expressing cells), a luminal stem/progenitor cell that functions in prostate regeneration. Using genetically--engineered mouse models and novel prostate epithelial cell lines, we find that progenitor properties of CARNs are largely unaffected by AR deletion, apart from decreased proliferation ",
+        "Keywords": [
+            "androgen receptor",
+            "cancer biology",
+            "cell of origin",
+            "developmental biology",
+            "human",
+            "mouse",
+            "mouse models",
+            "progenitor",
+            "prostate",
+            "stem cells"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Animals, Genetically Modified",
+            "Carcinogenesis",
+            "Cell Proliferation",
+            "Epithelial Cells",
+            "Male",
+            "Mice",
+            "Prostate",
+            "Receptors, Androgen",
+            "Regeneration"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chee Wai",
+                "Last Name": "Chua",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Nusrat J",
+                "Last Name": "Epsi",
+                "Affiliation": "Department of Health Informatics, Rutgers School of Health Professions, Rutgers, The State University of New Jersey, Newark, United States."
+            },
+            {
+                "First Name": "Eva Y",
+                "Last Name": "Leung",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Shouhong",
+                "Last Name": "Xuan",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Ming",
+                "Last Name": "Lei",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Bo I",
+                "Last Name": "Li",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Sarah K",
+                "Last Name": "Bergren",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Hanina",
+                "Last Name": "Hibshoosh",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, United States."
+            },
+            {
+                "First Name": "Antonina",
+                "Last Name": "Mitrofanova",
+                "Affiliation": "Department of Health Informatics, Rutgers School of Health Professions, Rutgers, The State University of New Jersey, Newark, United States."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, United States."
+            }
+        ],
+        "Journal": "eLife",
+        "PubDate": "2018"
+    },
+    {
+        "PMID": "28429718",
+        "Title": "A computational systems approach identifies synergistic specification genes that facilitate lineage conversion to prostate tissue.",
+        "Abstract": "To date, reprogramming strategies for generating cell types of interest have been facilitated by detailed understanding of relevant developmental regulatory factors. However, identification of such regulatory drivers often represents a major challenge, as specific gene combinations may be required for reprogramming. Here we show that a computational systems approach can identify cell type specification genes (master regulators) that act synergistically, and demonstrate its application for reprogramming of fibroblasts to prostate tissue. We use three such master regulators (FOXA1, NKX3.1 and androgen receptor, AR) in a primed conversion strategy starting from mouse fibroblasts, resulting in prostate tissue grafts with appropriate histological and molecular properties that respond to androgen-deprivation. Moreover, generation of reprogrammed prostate does not require traversal of a pluripotent state. Thus, we describe a general strategy by which cell types and tissues can be generated even with limited knowledge of the developmental pathways required for their specification in vivo.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Differentiation",
+            "Cell Lineage",
+            "Cells, Cultured",
+            "Cellular Reprogramming",
+            "Computational Biology",
+            "Fibroblasts",
+            "Hepatocyte Nuclear Factor 3-alpha",
+            "Homeodomain Proteins",
+            "Humans",
+            "Induced Pluripotent Stem Cells",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Transgenic",
+            "Prostate",
+            "Receptors, Androgen",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Flaminia",
+                "Last Name": "Talos",
+                "Affiliation": "Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Antonina",
+                "Last Name": "Mitrofanova",
+                "Affiliation": "Department of Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Sarah K",
+                "Last Name": "Bergren",
+                "Affiliation": "Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": "Department of Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York 10032, USA."
+            }
+        ],
+        "Journal": "Nature communications",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "28400434",
+        "Title": "Prostate organogenesis: tissue induction, hormonal regulation and cell type specification.",
+        "Abstract": "Prostate organogenesis is a complex process that is primarily mediated by the presence of androgens and subsequent mesenchyme-epithelial interactions. The investigation of prostate development is partly driven by its potential relevance to prostate cancer, in particular the apparent re-awakening of key developmental programs that occur during tumorigenesis. However, our current knowledge of the mechanisms that drive prostate organogenesis is far from complete. Here, we provide a comprehensive overview of prostate development, focusing on recent findings regarding sexual dimorphism, bud induction, branching morphogenesis and cellular differentiation.",
+        "Keywords": [
+            "Androgen signaling",
+            "Development",
+            "Differentiation",
+            "Induction",
+            "Prostate"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Cell Differentiation",
+            "Epithelium",
+            "Hormones",
+            "Humans",
+            "Male",
+            "Organogenesis",
+            "Prostate",
+            "Sex Characteristics"
+        ],
+        "Authors": [
+            {
+                "First Name": "Roxanne",
+                "Last Name": "Toivanen",
+                "Affiliation": "Departments of Medicine, Genetics and Development, Urology, and Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Departments of Medicine, Genetics and Development, Urology, and Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA mshen@columbia.edu."
+            }
+        ],
+        "Journal": "Development (Cambridge, England)",
+        "PubDate": "2017"
+    },
+    {
+        "PMID": "27308462",
+        "Title": "Comparative lineage tracing reveals cellular preferences for prostate cancer initiation.",
+        "Abstract": "The interplay of different cell types of origin and distinct oncogenic mutations may determine the tumor subtype. We have recently found that although both basal and luminal epithelial cells can initiate prostate tumorigenesis, the latter are more likely to undergo transformation in response to a range of oncogenic events.",
+        "Keywords": [
+            "cell of origin",
+            "mouse models",
+            "prostate cancer",
+            "tumor initiation"
+        ],
+        "MeSH terms": [],
+        "Authors": [
+            {
+                "First Name": "Zhu A",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Molecular Cell & Developmental Biology; University of California , Santa Cruz, CA, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Departments of Medicine, Genetics and Development, Urology, and Systems Biology; Columbia Stem Cell Initiative; Herbert Irving Comprehensive Cancer Center; Columbia University College of Physicians and Surgeons , New York, NY, USA."
+            }
+        ],
+        "Journal": "Molecular & cellular oncology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "27117783",
+        "Title": "Basal Progenitors Contribute to Repair of the Prostate Epithelium Following Induced Luminal Anoikis.",
+        "Abstract": "Contact with the extracellular matrix is essential for maintenance of epithelial cells in many tissues, while in its absence epithelial cells can detach and undergo anoikis. Here, we show that anoikis of luminal cells in the prostate epithelium is followed by a program of tissue repair that is mediated in part by differentiation of basal epithelial cells to luminal cells. We describe a mouse model in which inducible deletion of E-cadherin in prostate luminal cells results in their apoptotic cell death by anoikis, in the absence of phenotypic effects in the surrounding stroma. Quantitative assessments of proliferation and cell death in the luminal and basal compartments indicate that basal cells can rapidly generate luminal cells. Thus, our findings identify a role for basal-to-luminal differentiation in prostate epithelial repair, and provide a normal context to analogous processes that may occur during prostate cancer initiation.",
+        "Keywords": [
+            "anoikis",
+            "epithelial lineage",
+            "prostate",
+            "stem cells",
+            "tissue repair"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Anoikis",
+            "Cadherins",
+            "Cell Death",
+            "Cell Differentiation",
+            "Cell Proliferation",
+            "Epithelial Cells",
+            "Humans",
+            "Male",
+            "Mice",
+            "Prostate",
+            "Stem Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Roxanne",
+                "Last Name": "Toivanen",
+                "Affiliation": "Departments of Medicine, Genetics & Development, Urology, and Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Adithi",
+                "Last Name": "Mohan",
+                "Affiliation": "Departments of Medicine, Genetics & Development, Urology, and Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Departments of Medicine, Genetics & Development, Urology, and Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA. Electronic address: mshen@columbia.edu."
+            }
+        ],
+        "Journal": "Stem cell reports",
+        "PubDate": "2016"
+    },
+    {
+        "PMID": "26637940",
+        "Title": "Illuminating the Properties of Prostate Luminal Progenitors.",
+        "Abstract": "The identification of tumor-initiating cells represents a significant challenge for studies of prostate cancer. In a recent issue of Cell Reports, Agarwal and colleagues use organoid culture to ascertain two distinct luminal progenitors in a mouse model of prostate cancer, shedding new light on lineage relationships in the prostate epithelium.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Differentiation",
+            "Epithelial Cells",
+            "Epithelium",
+            "Humans",
+            "Male",
+            "Neoplastic Stem Cells",
+            "Organoids",
+            "Prostate",
+            "Prostatic Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Departments of Medicine, Genetics and Development, Urology, and Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA. Electronic address: mshen@columbia.edu."
+            }
+        ],
+        "Journal": "Cell stem cell",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26506127",
+        "Title": "Cell types of origin for prostate cancer.",
+        "Abstract": "Analyses of cell types of origin for prostate cancer should result in new insights into mechanisms of tumor initiation, and may lead to improved prognosis and selection of appropriate therapies. Here, we review studies using a range of methodologies to investigate the cell of origin for mouse and human prostate cancer. Notably, analyses using tissue recombination assays support basal epithelial cells as a cell of origin, whereas in vivo lineage-tracing studies in genetically-engineered mice implicate luminal cells. We describe how these results can be potentially reconciled by a conceptual distinction between cells of origin and cells of mutation, and outline how new experimental approaches can address the potential relationship between cell types of origin and disease outcome.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Transformation, Neoplastic",
+            "Epithelial Cells",
+            "Humans",
+            "Male",
+            "Mutation",
+            "Prostatic Neoplasms",
+            "Tumor Microenvironment"
+        ],
+        "Authors": [
+            {
+                "First Name": "Suk Hyung",
+                "Last Name": "Lee",
+                "Affiliation": "Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA; Department of Genetics & Development, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA; Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA; Department of Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA; Department of Genetics & Development, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA; Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA; Department of Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA. Electronic address: mshen@columbia.edu."
+            }
+        ],
+        "Journal": "Current opinion in cell biology",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "26341780",
+        "Title": "Stem cells in genetically-engineered mouse models of prostate cancer.",
+        "Abstract": "The cancer stem cell model proposes that tumors have a hierarchical organization in which tumorigenic cells give rise to non-tumorigenic cells, with only a subset of stem-like cells able to propagate the tumor. In the case of prostate cancer, recent analyses of genetically engineered mouse (GEM) models have provided evidence supporting the existence of cancer stem cells in vivo. These studies suggest that cancer stem cells capable of tumor propagation exist at various stages of tumor progression from prostatic intraepithelial neoplasia (PIN) to advanced metastatic and castration-resistant disease. However, studies of stem cells in prostate cancer have been limited by available approaches for evaluating their functional properties in cell culture and transplantation assays. Given the role of the tumor microenvironment and the putative cancer stem cell niche, future studies using GEM models to analyze cancer stem cells in their native tissue microenvironment are likely to be highly informative.",
+        "Keywords": [
+            "endocrine therapy resistance",
+            "oncology",
+            "prostate"
+        ],
+        "MeSH terms": [
+            "Adenocarcinoma",
+            "Androgens",
+            "Animals",
+            "Biomarkers, Tumor",
+            "Cell Self Renewal",
+            "Clone Cells",
+            "Disease Progression",
+            "Epithelial Cells",
+            "Forecasting",
+            "Genes, Tumor Suppressor",
+            "Genetic Engineering",
+            "Male",
+            "Mice",
+            "Mice, Knockout",
+            "Mice, Mutant Strains",
+            "Mice, SCID",
+            "Mice, Transgenic",
+            "Models, Animal",
+            "Models, Biological",
+            "Neoplasm Proteins",
+            "Neoplasms, Hormone-Dependent",
+            "Neoplastic Stem Cells",
+            "Oncogenes",
+            "Orchiectomy",
+            "Prostatic Neoplasms",
+            "Stem Cell Niche",
+            "Tumor Microenvironment"
+        ],
+        "Authors": [
+            {
+                "First Name": "Maho",
+                "Last Name": "Shibata",
+                "Affiliation": "Departments of MedicineGenetics and Development, Urology, and Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Departments of MedicineGenetics and Development, Urology, and Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York 10032, USA mshen@columbia.edu."
+            }
+        ],
+        "Journal": "Endocrine-related cancer",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25830892",
+        "Title": "Cancer: The complex seeds of metastasis.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Lineage",
+            "Cell Separation",
+            "Clone Cells",
+            "Disease Models, Animal",
+            "Humans",
+            "Male",
+            "Mice",
+            "Models, Biological",
+            "Neoplasm Metastasis",
+            "Prostatic Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Departments of Medicine, of Genetics and Development, of Urology and of Systems Biology, and at the Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York 10032, USA."
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2015"
+    },
+    {
+        "PMID": "25349451",
+        "Title": "From blastocyst to gastrula: gene regulatory networks of embryonic stem cells and early mouse embryogenesis.",
+        "Abstract": "To date, many regulatory genes and signalling events coordinating mammalian development from blastocyst to gastrulation stages have been identified by mutational analyses and reverse-genetic approaches, typically on a gene-by-gene basis. More recent studies have applied bioinformatic approaches to generate regulatory network models of gene interactions on a genome-wide scale. Such models have provided insights into the gene networks regulating pluripotency in embryonic and epiblast stem cells, as well as cell-lineage determination in vivo. Here, we review how regulatory networks constructed for different stem cell types relate to corresponding networks in vivo and provide insights into understanding the molecular regulation of the blastocyst-gastrula transition.",
+        "Keywords": [
+            "gene regulatory network",
+            "mouse embryo",
+            "pluripotency",
+            "stem cells",
+            "systems biology"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Blastocyst",
+            "Cell Lineage",
+            "Embryonic Development",
+            "Embryonic Stem Cells",
+            "Gene Regulatory Networks",
+            "Mice",
+            "Models, Biological",
+            "Pluripotent Stem Cells",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "David-Emlyn",
+                "Last Name": "Parfitt",
+                "Affiliation": "Department of Medicine, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA Department of Genetics and Development, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA Department of Urology, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA Department of Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Medicine, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA Department of Genetics and Development, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA Department of Urology, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA Department of Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA mshen@columbia.edu."
+            }
+        ],
+        "Journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25241035",
+        "Title": "Single luminal epithelial progenitors can generate prostate organoids in culture.",
+        "Abstract": "The intrinsic ability to exhibit self-organizing morphogenetic properties in ex vivo culture may represent a general property of tissue stem cells. Here we show that single luminal stem/progenitor cells can generate prostate organoids in a three-dimensional culture system in the absence of stroma. Organoids generated from CARNs (castration-resistant Nkx3.1-expressing cells) or normal prostate epithelia exhibit tissue architecture containing luminal and basal cells, undergo long-term expansion in culture and exhibit functional androgen receptor signalling. Lineage-tracing demonstrates that luminal cells are favoured for organoid formation and generate basal cells in culture. Furthermore, tumour organoids can initiate from CARNs after oncogenic transformation and from mouse models of prostate cancer, and can facilitate analyses of drug response. Finally, we provide evidence supporting the feasibility of organoid studies of human prostate tissue. Our studies underscore the progenitor properties of luminal cells, and identify in vitro approaches for studying prostate biology.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Culture Techniques",
+            "Cell Line, Tumor",
+            "Cell Lineage",
+            "Cells, Cultured",
+            "Epithelial Cells",
+            "Flow Cytometry",
+            "Homeodomain Proteins",
+            "Humans",
+            "Luminescent Proteins",
+            "Male",
+            "Mice, 129 Strain",
+            "Mice, Inbred C57BL",
+            "Mice, Transgenic",
+            "Microscopy, Fluorescence",
+            "Organoids",
+            "Phenotype",
+            "Prostate",
+            "Prostatic Neoplasms, Castration-Resistant",
+            "Single-Cell Analysis",
+            "Stem Cells",
+            "Time Factors",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Chee Wai",
+                "Last Name": "Chua",
+                "Affiliation": "1] Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [2] Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [3] Department of Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [4] Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Maho",
+                "Last Name": "Shibata",
+                "Affiliation": "1] Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [2] Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [3] Department of Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [4] Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Ming",
+                "Last Name": "Lei",
+                "Affiliation": "1] Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [2] Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [3] Department of Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [4] Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Roxanne",
+                "Last Name": "Toivanen",
+                "Affiliation": "1] Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [2] Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [3] Department of Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [4] Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "LaMont J",
+                "Last Name": "Barlow",
+                "Affiliation": "Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Sarah K",
+                "Last Name": "Bergren",
+                "Affiliation": "1] Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [2] Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [3] Department of Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [4] Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Ketan K",
+                "Last Name": "Badani",
+                "Affiliation": "Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "James M",
+                "Last Name": "McKiernan",
+                "Affiliation": "Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Mitchell C",
+                "Last Name": "Benson",
+                "Affiliation": "Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Hanina",
+                "Last Name": "Hibshoosh",
+                "Affiliation": "Department of Pathology and Cell Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "1] Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [2] Department of Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [3] Department of Systems Biology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA [4] Department of Urology, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA."
+            }
+        ],
+        "Journal": "Nature cell biology",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "25176651",
+        "Title": "Luminal cells are favored as the cell of origin for prostate cancer.",
+        "Abstract": "The identification of cell types of origin for cancer has important implications for tumor stratification and personalized treatment. For prostate cancer, the cell of origin has been intensively studied, but it has remained unclear whether basal or luminal epithelial cells, or both, represent cells of origin under physiological conditions in vivo. Here, we use a novel lineage-tracing strategy to assess the cell of origin in a diverse range of mouse models, including Nkx3.1(+/-); Pten(+/-), Pten(+/-), Hi-Myc, and TRAMP mice, as well as a hormonal carcinogenesis model. Our results show that luminal cells are consistently the observed cell of origin for each model in situ; however, explanted basal cells from these mice can generate tumors in grafts. Consequently, we propose that luminal cells are favored as cells of origin in many contexts, whereas basal cells only give rise to tumors after differentiation into luminal cells.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Lineage",
+            "Epithelial Cells",
+            "Homeodomain Proteins",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Neoplastic Stem Cells",
+            "PTEN Phosphohydrolase",
+            "Prostatic Neoplasms",
+            "Proto-Oncogene Proteins c-myc",
+            "Receptors, Tumor Necrosis Factor, Member 25",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zhu A",
+                "Last Name": "Wang",
+                "Affiliation": "Departments of Medicine, Genetics and Development, Urology, and Systems Biology, Columbia Stem Cell Initiative, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Roxanne",
+                "Last Name": "Toivanen",
+                "Affiliation": "Departments of Medicine, Genetics and Development, Urology, and Systems Biology, Columbia Stem Cell Initiative, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Sarah K",
+                "Last Name": "Bergren",
+                "Affiliation": "Departments of Medicine, Genetics and Development, Urology, and Systems Biology, Columbia Stem Cell Initiative, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Pierre",
+                "Last Name": "Chambon",
+                "Affiliation": "Institut de Génétique et de Biologie Moléculaire et Cellulaire, CNRS UMR7104, INSERM U964, 67400 Illkirch, France."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Departments of Medicine, Genetics and Development, Urology, and Systems Biology, Columbia Stem Cell Initiative, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA. Electronic address: mshen@columbia.edu."
+            }
+        ],
+        "Journal": "Cell reports",
+        "PubDate": "2014"
+    },
+    {
+        "PMID": "24029235",
+        "Title": "SnapShot: Prostate cancer.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Disease Models, Animal",
+            "Humans",
+            "Male",
+            "Mice",
+            "Prostatic Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Lamont J",
+                "Last Name": "Barlow",
+                "Affiliation": "Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cancer cell",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23813564",
+        "Title": "Canonical Wnt signaling regulates Nkx3.1 expression and luminal epithelial differentiation during prostate organogenesis.",
+        "Abstract": "The formation of the prostate gland requires reciprocal interactions between the epithelial and mesenchymal components of the embryonic urogenital sinus. However, the identity of the signaling factors that mediate these interactions is largely unknown.",
+        "Keywords": [
+            "epithelial-mesenchymal interactions",
+            "prostate development",
+            "urogenital sinus"
+        ],
+        "MeSH terms": [
+            "Animals",
+            "Epithelial Cells",
+            "Gene Expression Regulation, Developmental",
+            "Homeodomain Proteins",
+            "Male",
+            "Mice",
+            "Mice, Transgenic",
+            "Organogenesis",
+            "Prostate",
+            "Transcription Factors",
+            "Wnt Proteins",
+            "Wnt Signaling Pathway"
+        ],
+        "Authors": [
+            {
+                "First Name": "Marianna",
+                "Last Name": "Kruithof-de Julio",
+                "Affiliation": "Departments of Medicine and Genetics and Development, Columbia University Medical Center, New York, New York; Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York."
+            },
+            {
+                "First Name": "Maho",
+                "Last Name": "Shibata",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nishita",
+                "Last Name": "Desai",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Melissa",
+                "Last Name": "Reynon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "M Vivienne",
+                "Last Name": "Halili",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ya-Ping",
+                "Last Name": "Hu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sandy M",
+                "Last Name": "Price",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Developmental dynamics : an official publication of the American Association of Anatomists",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23680143",
+        "Title": "Chromoplexy: a new category of complex rearrangements in the cancer genome.",
+        "Abstract": "Widespread structural alterations of cancer genomes are increasingly observed in a broad spectrum of tumors. In a recent issue of Cell, Baca and colleagues describe large chains of rearrangements that coordinately affect multiple chromosomes in prostate cancer. This phenomenon of chromoplexy may define cancer subtypes and drive punctuated tumor evolution.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Chromosome Aberrations",
+            "Gene Expression Regulation, Neoplastic",
+            "Genome, Human",
+            "Humans",
+            "Male",
+            "Prostatic Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Departments of Medicine and Genetics and Development, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA. mshen@columbia.edu"
+            }
+        ],
+        "Journal": "Cancer cell",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23434823",
+        "Title": "Lineage analysis of basal epithelial cells reveals their unexpected plasticity and supports a cell-of-origin model for prostate cancer heterogeneity.",
+        "Abstract": "A key issue in cancer biology is whether oncogenic transformation of different cell types of origin within an adult tissue gives rise to distinct tumour subtypes that differ in their prognosis and/or treatment response. We now show that initiation of prostate tumours in basal or luminal epithelial cells in mouse models results in tumours with distinct molecular signatures that are predictive of human patient outcomes. Furthermore, our analysis of untransformed basal cells reveals an unexpected assay dependence of their stem cell properties in sphere formation and transplantation assays versus genetic lineage tracing during prostate regeneration and adult tissue homeostasis. Although oncogenic transformation of basal cells gives rise to tumours with luminal phenotypes, cross-species bioinformatic analyses indicate that tumours of luminal origin are more aggressive than tumours of basal origin, and identify a molecular signature associated with patient outcome. Our results reveal the inherent plasticity of basal cells, and support a model in which different cells of origin generate distinct molecular subtypes of prostate cancer.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adult",
+            "Animals",
+            "Apoptosis",
+            "Biomarkers, Tumor",
+            "Blotting, Western",
+            "Carcinoma, Basal Cell",
+            "Cell Differentiation",
+            "Cell Lineage",
+            "Cell Proliferation",
+            "Cell Transformation, Neoplastic",
+            "Cells, Cultured",
+            "Epithelial Cells",
+            "Flow Cytometry",
+            "Fluorescent Antibody Technique",
+            "Gene Expression Profiling",
+            "Genes, Reporter",
+            "Humans",
+            "Immunoenzyme Techniques",
+            "Keratin-5",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Transgenic",
+            "Neoplasm Recurrence, Local",
+            "Oligonucleotide Array Sequence Analysis",
+            "PTEN Phosphohydrolase",
+            "Phosphorylation",
+            "Prostate",
+            "Prostatic Neoplasms",
+            "RNA, Messenger",
+            "Real-Time Polymerase Chain Reaction",
+            "Reverse Transcriptase Polymerase Chain Reaction",
+            "Survival Rate"
+        ],
+        "Authors": [
+            {
+                "First Name": "Zhu A",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Medicine, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Antonina",
+                "Last Name": "Mitrofanova",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sarah K",
+                "Last Name": "Bergren",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert D",
+                "Last Name": "Cardiff",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature cell biology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "23027425",
+        "Title": "The roots of cancer: stem cells and the basis for tumor heterogeneity.",
+        "Abstract": "Recent studies of prostate cancer and other tumor types have revealed significant support, as well as unexpected complexities, for the application of concepts from normal stem cell biology to cancer. In particular, the cell of origin and cancer stem cell models have been proposed to explain the heterogeneity of tumors during the initiation, propagation, and evolution of cancer. Thus, a basis of intertumor heterogeneity has emerged from studies investigating whether stem cells and/or non-stem cells can serve as cells of origin for cancer and give rise to tumor subtypes that vary in disease outcome. Furthermore, analyses of putative cancer stem cells have revealed the genetically diverse nature of cancers and expanded our understanding of intratumor heterogeneity and clonal evolution. Overall, the principles that have emerged from these stem cell studies highlight the challenges to be surmounted to develop effective treatment strategies for cancer.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Clone Cells",
+            "Humans",
+            "Models, Biological",
+            "Neoplasms",
+            "Neoplastic Stem Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Maho",
+                "Last Name": "Shibata",
+                "Affiliation": "Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "BioEssays : news and reviews in molecular, cellular and developmental biology",
+        "PubDate": "2013"
+    },
+    {
+        "PMID": "21862554",
+        "Title": "Regulation of extra-embryonic endoderm stem cell differentiation by Nodal and Cripto signaling.",
+        "Abstract": "The signaling pathway for Nodal, a ligand of the TGFβ superfamily, plays a central role in regulating the differentiation and/or maintenance of stem cell types that can be derived from the peri-implantation mouse embryo. Extra-embryonic endoderm stem (XEN) cells resemble the primitive endoderm of the blastocyst, which normally gives rise to the parietal and the visceral endoderm in vivo, but XEN cells do not contribute efficiently to the visceral endoderm in chimeric embryos. We have found that XEN cells treated with Nodal or Cripto (Tdgf1), an EGF-CFC co-receptor for Nodal, display upregulation of markers for visceral endoderm as well as anterior visceral endoderm (AVE), and can contribute to visceral endoderm and AVE in chimeric embryos. In culture, XEN cells do not express Cripto, but do express the related EGF-CFC co-receptor Cryptic (Cfc1), and require Cryptic for Nodal signaling. Notably, the response to Nodal is inhibited by the Alk4/Alk5/Alk7 inhibitor SB431542, but the response to Cripto is unaffected, suggesting that the activity of Cripto is at least partially independent of type I receptor kinase activity. Gene set enrichment analysis of genome-wide expression signatures generated from XEN cells under these treatment conditions confirmed the differing responses of Nodal- and Cripto-treated XEN cells to SB431542. Our findings define distinct pathways for Nodal and Cripto in the differentiation of visceral endoderm and AVE from XEN cells and provide new insights into the specification of these cell types in vivo.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Differentiation",
+            "Cell Line",
+            "Embryo, Mammalian",
+            "Embryonic Stem Cells",
+            "Endoderm",
+            "Epidermal Growth Factor",
+            "Extraembryonic Membranes",
+            "Female",
+            "Gene Expression Profiling",
+            "Membrane Glycoproteins",
+            "Mice",
+            "Mice, Inbred ICR",
+            "Mice, Transgenic",
+            "Microarray Analysis",
+            "Neoplasm Proteins",
+            "Nodal Protein",
+            "Pregnancy",
+            "Signal Transduction"
+        ],
+        "Authors": [
+            {
+                "First Name": "Marianna",
+                "Last Name": "Kruithof-de Julio",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Mariano J",
+                "Last Name": "Alvarez",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Antonella",
+                "Last Name": "Galli",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jianhua",
+                "Last Name": "Chu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sandy M",
+                "Last Name": "Price",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Andrea",
+                "Last Name": "Califano",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Development (Cambridge, England)",
+        "PubDate": "2011"
+    },
+    {
+        "PMID": "20844012",
+        "Title": "Molecular genetics of prostate cancer: new prospects for old challenges.",
+        "Abstract": "Despite much recent progress, prostate cancer continues to represent a major cause of cancer-related mortality and morbidity in men. Since early studies on the role of the androgen receptor that led to the advent of androgen deprivation therapy in the 1940s, there has long been intensive interest in the basic mechanisms underlying prostate cancer initiation and progression, as well as the potential to target these processes for therapeutic intervention. Here, we present an overview of major themes in prostate cancer research, focusing on current knowledge of principal events in cancer initiation and progression. We discuss recent advances, including new insights into the mechanisms of castration resistance, identification of stem cells and tumor-initiating cells, and development of mouse models for preclinical evaluation of novel therapuetics. Overall, we highlight the tremendous research progress made in recent years, and underscore the challenges that lie ahead.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Castration",
+            "Disease Progression",
+            "Humans",
+            "Male",
+            "Prostatic Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Department of Medicine, Columbia University Medical Center, New York, New York 10032, USA. mshen@columbia.edu"
+            },
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Genes & development",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "20346354",
+        "Title": "Functional redundancy of EGF-CFC genes in epiblast and extraembryonic patterning during early mouse embryogenesis.",
+        "Abstract": "During early mouse embryogenesis, multiple patterning and differentiation events require the activity of Nodal, a ligand of the transforming growth factor-beta (TGFbeta) family. Although Nodal signaling is known to require activity of EGF-CFC co-receptors in many contexts, it has been unclear whether all Nodal signaling in the early mouse embryo is EGF-CFC dependent. We have investigated the double null mutant phenotypes for the EGF-CFC genes Cripto and Cryptic, which encode co-receptors for Nodal, and have found that they have partially redundant functions in early mouse development. Expression of Cripto and Cryptic is non-overlapping prior to gastrulation, since Cripto is expressed solely in the epiblast whereas Cryptic is expressed in the primitive endoderm of the late blastocyst and the visceral endoderm after implantation. Despite these non-overlapping expression patterns, Cripto; Cryptic double mutants display severe defects in epiblast, extraembryonic ectoderm, and anterior visceral endoderm (AVE), resulting in phenotypes that are highly similar to those of Nodal null mutants. Our results indicate that both Cripto and Cryptic function non-cell-autonomously during normal development, and that most if not all Nodal activity in early mouse embryogenesis is EGF-CFC-dependent.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Blastocyst",
+            "Cell Differentiation",
+            "Ectoderm",
+            "Embryonic Development",
+            "Endoderm",
+            "Epidermal Growth Factor",
+            "Gastrulation",
+            "Germ Layers",
+            "Intercellular Signaling Peptides and Proteins",
+            "Membrane Glycoproteins",
+            "Mice",
+            "Neoplasm Proteins",
+            "Signal Transduction",
+            "Transforming Growth Factor beta"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jianhua",
+                "Last Name": "Chu",
+                "Affiliation": "Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Developmental biology",
+        "PubDate": "2010"
+    },
+    {
+        "PMID": "19741607",
+        "Title": "A luminal epithelial stem cell that is a cell of origin for prostate cancer.",
+        "Abstract": "In epithelial tissues, the lineage relationship between normal progenitor cells and cell type(s) of origin for cancer has been poorly understood. Here we show that a known regulator of prostate epithelial differentiation, the homeobox gene Nkx3-1, marks a stem cell population that functions during prostate regeneration. Genetic lineage-marking demonstrates that rare luminal cells that express Nkx3-1 in the absence of testicular androgens (castration-resistant Nkx3-1-expressing cells, CARNs) are bipotential and can self-renew in vivo, and single-cell transplantation assays show that CARNs can reconstitute prostate ducts in renal grafts. Functional assays of Nkx3-1 mutant mice in serial prostate regeneration suggest that Nkx3-1 is required for stem cell maintenance. Furthermore, targeted deletion of the Pten tumour suppressor gene in CARNs results in rapid carcinoma formation after androgen-mediated regeneration. These observations indicate that CARNs represent a new luminal stem cell population that is an efficient target for oncogenic transformation in prostate cancer.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Androgens",
+            "Animals",
+            "Castration",
+            "Cell Differentiation",
+            "Cell Division",
+            "Cell Lineage",
+            "Cell Transformation, Neoplastic",
+            "Epithelial Cells",
+            "Gene Expression Regulation",
+            "Homeodomain Proteins",
+            "Kidney",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Nude",
+            "Neoplastic Stem Cells",
+            "PTEN Phosphohydrolase",
+            "Prostatic Neoplasms",
+            "Regeneration",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xi",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA."
+            },
+            {
+                "First Name": "Marianna",
+                "Last Name": "Kruithof-de Julio",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kyriakos D",
+                "Last Name": "Economides",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "David",
+                "Last Name": "Walker",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hailong",
+                "Last Name": "Yu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "M Vivienne",
+                "Last Name": "Halili",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ya-Ping",
+                "Last Name": "Hu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sandy M",
+                "Last Name": "Price",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "19212391",
+        "Title": "Diagnostics: The prostate-cancer metabolome.",
+        "Abstract": null,
+        "Keywords": [],
+        "MeSH terms": [
+            "Biomarkers",
+            "Humans",
+            "Male",
+            "Metabolome",
+            "Prostatic Neoplasms",
+            "Sarcosine"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Nature",
+        "PubDate": "2009"
+    },
+    {
+        "PMID": "18816836",
+        "Title": "Mouse Fem1b interacts with the Nkx3.1 homeoprotein and is required for proper male secondary sexual development.",
+        "Abstract": "Previous studies of epithelial cell growth and differentiation in the prostate gland have identified the homeodomain protein Nkx3.1 as a central regulator of prostate development and carcinogenesis. To understand the molecular mechanisms of Nkx3.1 function, we have used yeast two-hybrid analysis to identify Nkx3.1 interacting proteins, and have isolated Fem1b, a mammalian homolog of the C. elegans sex-determining gene Fem-1. In mice, the Fem1b and Nkx3.1 genes encode proteins that interact in glutathione-S-transferase (GST) pull-down and co-immunoprecipitation assays, and are co-expressed in the prostate and testis of neonatal mice. Null mutants for Fem1b generated by gene targeting display defects in prostate ductal morphogenesis and secretory protein expression, similar to phenotypes found in Nkx3.1 mutants. We propose that Fem1b may have a conserved role in the generation of sexual dimorphism through its interaction with Nkx3.1 in the developing prostate gland.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Carrier Proteins",
+            "Cell Cycle Proteins",
+            "Gene Expression Regulation, Developmental",
+            "Homeodomain Proteins",
+            "Male",
+            "Mice",
+            "Mice, Knockout",
+            "Phenotype",
+            "Protein Binding",
+            "Sexual Development",
+            "Transcription Factors",
+            "Ubiquitin-Protein Ligase Complexes",
+            "Urogenital System"
+        ],
+        "Authors": [
+            {
+                "First Name": "Xi",
+                "Last Name": "Wang",
+                "Affiliation": "Center for Advanced Biotechnology and Medicine, Departments of Pediatrics, UMDNJ-Robert Wood Johnson Medical School, Piscataway, New Jersey, USA."
+            },
+            {
+                "First Name": "Nishita",
+                "Last Name": "Desai",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Ya-Ping",
+                "Last Name": "Hu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sandy M",
+                "Last Name": "Price",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Developmental dynamics : an official publication of the American Association of Anatomists",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18557759",
+        "Title": "Integrating differentiation and cancer: the Nkx3.1 homeobox gene in prostate organogenesis and carcinogenesis.",
+        "Abstract": "Several tissue-specific regulatory genes have been found to play essential roles in both organogenesis and carcinogenesis. In the prostate, the Nkx3.1 homeobox gene plays an important role in normal differentiation of the prostatic epithelium while its loss of function is an initiating event in prostate carcinogenesis in both mouse models and human patients. Thus, the Nkx3.1 homeobox gene provides a paradigm for understanding the relationship between normal differentiation and cancer, as well as studying the roles of homeobox genes in these processes. Here, we review recent findings concerning the roles of Nkx3.1 in development and discuss how its normal function is disrupted in processes of early prostate carcinogenesis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Differentiation",
+            "Homeodomain Proteins",
+            "Humans",
+            "Male",
+            "Neoplasms",
+            "Prostate",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": "Department of Urology, Columbia University, College of Physicians and Surgeons, Herbert Irving Comprehensive Cancer Center, New York, NY, USA. cabateshen@columbia.edu"
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Edward",
+                "Last Name": "Gelmann",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Differentiation; research in biological diversity",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18325490",
+        "Title": "Sox9 is required for prostate development.",
+        "Abstract": "The mammalian prostate arises from the urogenital sinus and few factors have been identified to be important in the early stages of prostate development. In this study we show that the transcription factor Sox9 is expressed in the epithelia of all mouse prostatic lobes from the initial stages of their development. We used a conditional approach with mice expressing Cre recombinase under the control of Nkx3.1 regulatory sequences to delete Sox9 from the developing prostate. Mice with a prostate specific deletion of Sox9 showed a lack of ventral prostate development and abnormal anterior prostate differentiation. Analysis of these mutant animals revealed an early loss of expression of genes specific to the prostate epithelia such as Nkx3.1 and Shh and a marked reduction in proliferation in the ventral prostate but not in other lobes. Fgf signalling, through the MAPK pathway, has been shown to be important in prostate development and a lobe specific phenotype was reported for a prostate specific Fgfr2 mutant mouse model. Here we show that the levels of Fgfr2 and Sprouty2, a downstream target of Fgf signalling, were severely reduced in the ventral prostate of Sox9 mutant animals but not in other lobes. Prostate organ culture studies with a Mek inhibitor, U0126, and a Fgf receptor inhibitor, SU5402, indicate that the timing of expression of Cre in the mutant animals could account for the lobe specific phenotype in the Sox9 and Fgfr2 mutants. These studies imply that Sox9 is required for the early differentiation of the prostate bud epithelia.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Apoptosis",
+            "Cell Division",
+            "DNA Primers",
+            "Epithelial Cells",
+            "Gene Expression Regulation, Developmental",
+            "High Mobility Group Proteins",
+            "In Situ Hybridization",
+            "Male",
+            "Mice",
+            "Organ Culture Techniques",
+            "Prostate",
+            "SOX9 Transcription Factor",
+            "Subrenal Capsule Assay",
+            "Transcription Factors"
+        ],
+        "Authors": [
+            {
+                "First Name": "Martin K",
+                "Last Name": "Thomsen",
+                "Affiliation": "Section of Gene Function and Regulation, Institute of Cancer Research, 237 Fulham Road, London SW3 6JB, UK."
+            },
+            {
+                "First Name": "Christopher M",
+                "Last Name": "Butler",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Amanda",
+                "Last Name": "Swain",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Developmental biology",
+        "PubDate": "2008"
+    },
+    {
+        "PMID": "18068626",
+        "Title": "FGF signaling in prostate tumorigenesis--new insights into epithelial-stromal interactions.",
+        "Abstract": "Members of the fibroblast growth factor (FGF) family are believed to play critical roles during organogenesis and carcinogenesis via signaling between epithelial and stromal compartments. Two new studies in this issue of Cancer Cell underscore the importance of FGF signaling in mediating epithelial-stromal interactions during prostate carcinogenesis. These papers show that deregulated FGF signaling in mouse models of prostate cancer leads to cancer progression and promotes an epithelial-mesenchymal transition, suggesting that FGF receptor inhibitors may have therapeutic value for prostate cancer treatment.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Communication",
+            "Epithelial Cells",
+            "Fibroblast Growth Factor 10",
+            "Fibroblast Growth Factors",
+            "Humans",
+            "Male",
+            "Mice",
+            "Prostatic Neoplasms",
+            "Receptor, Fibroblast Growth Factor, Type 1",
+            "Signal Transduction",
+            "Stromal Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": "Department of Urology, Columbia University College of Physicians and Surgeons, Herbert Irving Comprehensive Cancer Center, New York, NY 10032, USA. cabateshen@columbia.edu"
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cancer cell",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17638861",
+        "Title": "Pten inactivation and the emergence of androgen-independent prostate cancer.",
+        "Abstract": "Hormone refractory disease represents a late-stage and generally lethal event in prostate tumorigenesis. Analyses of mouse models have recently shown that the onset of hormone independence can be uncoupled from disease progression and is associated with activation of the phosphoinositide-3 kinase/Akt as well as Erk mitogen-activated protein kinase signaling pathways in the prostate epithelium, which act in part to counterbalance the inhibitory effects of androgen receptor signaling in the prostate stroma. These observations have potential implications for the treatment of patients with hormone refractory cancer and highlight the role of epithelial-stromal interactions for androgen independence.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Disease Progression",
+            "Epithelium",
+            "Extracellular Signal-Regulated MAP Kinases",
+            "Humans",
+            "Male",
+            "Mice",
+            "Mice, Transgenic",
+            "Models, Biological",
+            "PTEN Phosphohydrolase",
+            "Prostate",
+            "Prostatic Neoplasms",
+            "Signal Transduction",
+            "Stromal Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Center for Advanced Biotechnology and Medicine, and Department of Pediatrics, Cancer Institute of New Jersey, University of Medicine and Dentistry, New Jersey/RWJMS, 679 Hoes Lane, Piscataway, NJ 08854, USA. mshen@cabm.rutgers.edu"
+            },
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cancer research",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "17287255",
+        "Title": "Nodal signaling: developmental roles and regulation.",
+        "Abstract": "Nodal-related ligands of the transforming growth factor-beta (TGFbeta) superfamily play central roles in patterning the early embryo during the induction of mesoderm and endoderm and the specification of left-right asymmetry. Additional roles for this pathway in the maintenance of embryonic stem cell pluripotency and in carcinogenesis have been uncovered more recently. Consistent with its crucial developmental functions, Nodal signaling is tightly regulated by diverse mechanisms including the control of ligand processing, utilization of co-receptors, expression of soluble antagonists, as well as positive- and negative-feedback activities.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Body Patterning",
+            "Cell Transformation, Neoplastic",
+            "Embryonic Development",
+            "Ligands",
+            "Mice",
+            "Nodal Protein",
+            "Receptors, Growth Factor",
+            "Signal Transduction",
+            "Transcription Factors",
+            "Transforming Growth Factor beta"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Center for Advanced Biotechnology and Medicine and Department of Pediatrics, UMDNJ-Robert Wood Johnson Medical School, Piscataway, NJ 08854, USA."
+            }
+        ],
+        "Journal": "Development (Cambridge, England)",
+        "PubDate": "2007"
+    },
+    {
+        "PMID": "16835440",
+        "Title": "Conserved regulation and role of Pitx2 in situs-specific morphogenesis of visceral organs.",
+        "Abstract": "Pitx2 is expressed in developing visceral organs on the left side and is implicated in left-right (LR) asymmetric organogenesis. The asymmetric expression of Pitx2 is controlled by an intronic enhancer (ASE) that contains multiple Foxh1-binding sites and an Nkx2-binding site. These binding sites are essential and sufficient for asymmetric enhancer activity and are evolutionarily conserved among vertebrates. We now show that mice that lack the ASE of Pitx2 (Pitx2(Delta)(ASE/)(Delta)(ASE) mice) fail to manifest left-sided Pitx2 expression and exhibit laterality defects in most visceral organs, although the position of the stomach and heart looping remain unaffected. Asymmetric Pitx2 expression in some domains, such as the common cardinal vein, was found to be induced by Nodal signaling but to be independent of the ASE of Pitx2. Expression of Pitx2 appears to be repressed in a large portion of the heart ventricle and atrioventricular canal of wild-type mice by a negative feedback mechanism at a time when the gene is still expressed in its other domains. Rescue of the early phase of asymmetric Pitx2 expression in the left lateral plate of Pitx2(Delta)(ASE/)(Delta)(ASE) embryos was not sufficient to restore normal organogenesis, suggesting that continuous expression of Pitx2 in the lineage of the left lateral plate is required for situs-specific organogenesis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Conserved Sequence",
+            "Embryonic Development",
+            "Functional Laterality",
+            "Gene Expression Regulation",
+            "Homeodomain Proteins",
+            "Humans",
+            "Mice",
+            "Mice, Transgenic",
+            "Morphogenesis",
+            "Rats",
+            "Transcription Factors",
+            "Vertebrates",
+            "Viscera",
+            "Zebrafish",
+            "Homeobox Protein PITX2"
+        ],
+        "Authors": [
+            {
+                "First Name": "Hidetaka",
+                "Last Name": "Shiratori",
+                "Affiliation": "Developmental Genetics Group, Graduate School for Frontier Biosciences, Osaka University, and CREST, Japan Science and Technology Corporation (JST Yamada-oka, Suita, Osaka 565-0871, Japan. shiratori@fbs.osaka-u.cjp"
+            },
+            {
+                "First Name": "Kenta",
+                "Last Name": "Yashiro",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Hiroshi",
+                "Last Name": "Hamada",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Development (Cambridge, England)",
+        "PubDate": "2006"
+    },
+    {
+        "PMID": "16291788",
+        "Title": "Non-cell-autonomous role for Cripto in axial midline formation during vertebrate embryogenesis.",
+        "Abstract": "Several membrane-associated proteins are known to modulate the activity and range of potent morphogenetic signals during development. In particular, members of the EGF-CFC family encode glycosyl-phosphatidylinositol (GPI)-linked proteins that are essential for activity of the transforming growth factor beta (TGFbeta) ligand Nodal, a factor that plays a central role in establishing the vertebrate body plan. Genetic and biochemical studies have indicated that EGF-CFC proteins function as cell-autonomous co-receptors for Nodal; by contrast, cell culture data have suggested that the mammalian EGF-CFC protein Cripto can act as a secreted signaling factor. Here we show that Cripto acts non-cell-autonomously during axial mesendoderm formation in the mouse embryo and may possess intercellular signaling activity in vivo. Phenotypic analysis of hypomorphic mutants demonstrates that Cripto is essential for formation of the notochordal plate, prechordal mesoderm and foregut endoderm during gastrulation. Remarkably, Cripto null mutant cells readily contribute to these tissues in chimeras, indicating non-cell-autonomy. Consistent with these loss-of-function analyses, gain-of-function experiments in chick embryos show that exposure of node/head process mesoderm to soluble Cripto protein results in alterations in cell fates toward anterior mesendoderm, in a manner that is dependent on Nodal signaling. Taken together, our findings support a model in which Cripto can function in trans as an intercellular mediator of Nodal signaling activity.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Avian Proteins",
+            "Body Patterning",
+            "Chick Embryo",
+            "Chimera",
+            "Embryonic Development",
+            "Endoderm",
+            "Epidermal Growth Factor",
+            "Membrane Glycoproteins",
+            "Membrane Proteins",
+            "Mesoderm",
+            "Mice",
+            "Mutation",
+            "Neoplasm Proteins",
+            "Nodal Protein",
+            "Proteins",
+            "Signal Transduction",
+            "Transforming Growth Factor beta"
+        ],
+        "Authors": [
+            {
+                "First Name": "Jianhua",
+                "Last Name": "Chu",
+                "Affiliation": "Center for Advanced Biotechnology and Medicine and Departments of Pediatrics, UMDNJ-Robert Wood Johnson Medical School, Piscataway, NJ 08854, USA."
+            },
+            {
+                "First Name": "Jixiang",
+                "Last Name": "Ding",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Katherine",
+                "Last Name": "Jeays-Ward",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sandy M",
+                "Last Name": "Price",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marysia",
+                "Last Name": "Placzek",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Development (Cambridge, England)",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15701964",
+        "Title": "An unusual gene dosage effect of p27kip1 in a mouse model of prostate cancer.",
+        "Abstract": "Expression of the p27kip1 cell cycle inhibitor is downregulated in a wide range of carcinomas, yet it is rarely inactivated completely. Our recent studies of a mouse model of prostate carcinogenesis have revealed that cancer progression is enhanced by a two-fold reduction in p27kip1 gene dosage, but is unexpectedly inhibited by further decrease in p27kip1 activity. This paradoxical finding may explain the unusual features of p27kip1 downregulation in human cancer, and also suggests a potential route for therapeutic intervention.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Cell Cycle",
+            "Cyclin D1",
+            "Cyclin-Dependent Kinase Inhibitor p27",
+            "Disease Models, Animal",
+            "Disease Progression",
+            "Down-Regulation",
+            "Gene Dosage",
+            "Gene Expression Regulation, Neoplastic",
+            "Humans",
+            "Male",
+            "Mice",
+            "Mice, Transgenic",
+            "Mutation",
+            "Phenotype",
+            "Prostatic Neoplasms"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": "Center for Advanced Biotechnology and Medicine, Department of Medicine, Cancer Institute of New Jersey, UMDNJ-Robert Wood Johnson Medical School, 679 Hoes Lane, Piscataway, NJ 08854, USA. abate@cabm.rutgers.edu"
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cell cycle (Georgetown, Tex.)",
+        "PubDate": "2005"
+    },
+    {
+        "PMID": "15062104",
+        "Title": "Two modes by which Lefty proteins inhibit nodal signaling.",
+        "Abstract": "During vertebrate embryogenesis, members of the Lefty subclass of Transforming Growth Factor-beta (TGFbeta) proteins act as extracellular antagonists of the signaling pathway for Nodal, a TGFbeta-related ligand essential for mesendoderm formation and left-right patterning. Genetic and biochemical analyses have shown that Nodal signaling is mediated by activin receptors but also requires EGF-CFC coreceptors, such as mammalian Cripto or Cryptic. Misexpression experiments in zebrafish and frogs have suggested that Lefty proteins can act as long-range inhibitors for Nodal, possibly through competition for binding to activin receptors. Here we demonstrate two distinct and unexpected mechanisms by which Lefty proteins can antagonize Nodal activity. In particular, using a novel assay for Lefty activity in mammalian cell culture, we find that Lefty can inhibit signaling by Nodal but not by Activin or TGFbeta1, which are EGF-CFC independent. We show that Lefty can interact with Nodal in solution and thereby block Nodal from binding to activin receptors. Furthermore, Lefty can also interact with EGF-CFC proteins and prevent their ability to form part of a Nodal receptor complex. Our results provide mechanistic insights into how Lefty proteins can achieve efficient and stringent regulation of a potent signaling factor.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Activin Receptors",
+            "Animals",
+            "Cells, Cultured",
+            "Epidermal Growth Factor",
+            "Gene Expression",
+            "Glycoproteins",
+            "Humans",
+            "Intercellular Signaling Peptides and Proteins",
+            "Left-Right Determination Factors",
+            "Luciferases",
+            "Mice",
+            "Nodal Protein",
+            "Plasmids",
+            "Precipitin Tests",
+            "Signal Transduction",
+            "Transfection",
+            "Transforming Growth Factor beta"
+        ],
+        "Authors": [
+            {
+                "First Name": "Canhe",
+                "Last Name": "Chen",
+                "Affiliation": "Center for Advanced Biotechnology and Medicine, University of Medicine and Dentistry of New Jersey, Robert Wood Johnson Medical School, Piscataway, NJ 08854, USA."
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Current biology : CB",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "15013801",
+        "Title": "Roles for Hedgehog signaling in androgen production and prostate ductal morphogenesis.",
+        "Abstract": "Previous studies have demonstrated that the Hedgehog (Hh) signaling pathway plays a critical role in the development and patterning of many endodermally derived tissues. We have investigated the role of Sonic hedgehog (Shh) in formation of the prostate gland by examining the urogenital phenotype of Shh mutant fetuses. Consistent with earlier work reporting an essential role for Shh in prostate induction, we have found that Shh mutant fetuses display abnormal urogenital development and fail to form prostate buds. Unexpectedly, however, we have discovered that this prostate defect could be rescued by three different methods: renal grafting, explant culture in the presence of androgens, and administration of dihydrotestosterone (DHT) to pregnant mice, indicating that the prostate defect in Shh mutants is due to insufficient levels of androgens. Furthermore, we find that the inhibition of Hh pathway signaling by treatment with cyclopamine does not block prostate formation in explant culture, but instead produces morphological defects consistent with a role for Hh signaling in ductal patterning. Taken together, our studies indicate that the initial organogenesis of the prostate proceeds independently of Shh, but that Shh or other Hh ligands may play a role in subsequent events that pattern the prostate.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Androgens",
+            "Animals",
+            "DNA Primers",
+            "Dihydrotestosterone",
+            "Female",
+            "Gene Expression Regulation, Developmental",
+            "Hedgehog Proteins",
+            "Immunohistochemistry",
+            "In Situ Hybridization",
+            "Male",
+            "Mice",
+            "Mice, Knockout",
+            "Morphogenesis",
+            "Pregnancy",
+            "Prostate",
+            "Reverse Transcriptase Polymerase Chain Reaction",
+            "Signal Transduction",
+            "Trans-Activators",
+            "Triolein",
+            "Veratrum Alkaloids"
+        ],
+        "Authors": [
+            {
+                "First Name": "David M",
+                "Last Name": "Berman",
+                "Affiliation": "Department of Molecular Biology and Genetics, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA. dberman@jhmi.edu"
+            },
+            {
+                "First Name": "Nishita",
+                "Last Name": "Desai",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xi",
+                "Last Name": "Wang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sunil S",
+                "Last Name": "Karhadkar",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Melissa",
+                "Last Name": "Reynon",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Philip A",
+                "Last Name": "Beachy",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Developmental biology",
+        "PubDate": "2004"
+    },
+    {
+        "PMID": "14648854",
+        "Title": "Roles of the Nkx3.1 homeobox gene in prostate organogenesis and carcinogenesis.",
+        "Abstract": "Although it is often presumed that the molecular pathways that underlie normal organogenesis are similar to those perturbed during carcinogenesis, few examples exist of tissue-specific regulatory genes that play central roles in both processes. In the case of the prostate gland, molecular genetic analyses have demonstrated that the Nkx3.1 homeobox gene plays an important role in normal differentiation of the prostatic epithelium and that its loss of function is an initiating event in prostate carcinogenesis. Thus, the Nkx3.1 homeobox gene provides a paradigm for understanding the relationship between normal differentiation and cancer, as well as a model for studying the roles of homeobox genes in these processes. Here, we review recent findings concerning the biological as well as biochemical function of this central regulator of prostate development and carcinogenesis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alternative Splicing",
+            "Animals",
+            "Gene Expression Regulation, Developmental",
+            "Gene Expression Regulation, Neoplastic",
+            "Homeodomain Proteins",
+            "Humans",
+            "Male",
+            "Models, Biological",
+            "Models, Genetic",
+            "Multigene Family",
+            "Phenotype",
+            "Prostate",
+            "Prostatic Neoplasms",
+            "Transcription Factors",
+            "Transcription, Genetic"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Center for Advanced Biotechnology and Medicine and Department of Pediatrics, Cancer Institute of New Jersey, UMDNJ-Robert Wood Johnson Medical School, Piscataway, New Jersey 08854, USA. mshen@cabm.rutgers.edu"
+            },
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Developmental dynamics : an official publication of the American Association of Anatomists",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12925690",
+        "Title": "Decrypting the role of Cripto in tumorigenesis.",
+        "Abstract": "The cell-surface associated molecule Cripto is overexpressed in a wide range of epithelial cancers, yet little is known about potential mechanisms by which Cripto expression might enhance tumorigenesis. A new study reveals that binding of Cripto to the TGF-beta ligand Activin B can block Activin B-mediated suppression of cell proliferation. Furthermore, this study also demonstrates that antibody blockade of Cripto function may prove useful in the inhibition of tumorigenesis.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Activins",
+            "Amino Acid Motifs",
+            "Animals",
+            "Cell Division",
+            "Epidermal Growth Factor",
+            "GPI-Linked Proteins",
+            "Humans",
+            "Intercellular Signaling Peptides and Proteins",
+            "Membrane Glycoproteins",
+            "Models, Biological",
+            "Neoplasm Proteins",
+            "Neoplasms",
+            "Nodal Protein",
+            "Signal Transduction",
+            "Transforming Growth Factor beta",
+            "Tumor Cells, Cultured"
+        ],
+        "Authors": [
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": "Center for Advanced Biotechnology and Medicine, 679 Hoes Lane, Piscataway, New Jersey 08854, USA. mshen@cabm.rutgers.edu"
+            }
+        ],
+        "Journal": "The Journal of clinical investigation",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12917296",
+        "Title": "Distinct modes of floor plate induction in the chick embryo.",
+        "Abstract": "To begin to reconcile models of floor plate formation in the vertebrate neural tube, we have performed experiments aimed at understanding the development of the early floor plate in the chick embryo. Using real-time analyses of cell behaviour, we provide evidence that the principal contributor to the early neural midline, the future anterior floor plate, exists as a separate population of floor plate precursor cells in the epiblast of the gastrula stage embryo, and does not share a lineage with axial mesoderm. Analysis of the tissue interactions associated with differentiation of these cells to a floor plate fate reveals a role for the nascent prechordal mesoderm, indicating that more than one inductive event is associated with floor plate formation along the length of the neuraxis. We show that Nr1, a chick nodal homologue, is expressed in the nascent prechordal mesoderm and we provide evidence that Nodal signalling can cooperate with Shh to induce the epiblast precursors to a floor-plate fate. These results indicate that a shared lineage with axial mesoderm cells is not a pre-requisite for floor plate differentiation and suggest parallels between the development of the floor plate in amniote and anamniote embryos.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Central Nervous System",
+            "Chick Embryo",
+            "Embryonic Induction",
+            "Endoderm",
+            "Hedgehog Proteins",
+            "Mesoderm",
+            "Nodal Protein",
+            "Organizers, Embryonic",
+            "Trans-Activators",
+            "Transforming Growth Factor beta"
+        ],
+        "Authors": [
+            {
+                "First Name": "Iain",
+                "Last Name": "Patten",
+                "Affiliation": "Centre for Developmental Genetics, Department of Biomedical Science, University of Sheffield, Sheffield S10 2TN, UK."
+            },
+            {
+                "First Name": "Paul",
+                "Last Name": "Kulesa",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Scott",
+                "Last Name": "Fraser",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Marysia",
+                "Last Name": "Placzek",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Development (Cambridge, England)",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12873978",
+        "Title": "Nkx3.1; Pten mutant mice develop invasive prostate adenocarcinoma and lymph node metastases.",
+        "Abstract": "Recent studies have shown that several loss-of-function mouse models of prostate carcinogenesis can develop a spectrum of precancerous lesions that resemble human prostatic intraepithelial neoplasia (PIN). Here, we have investigated the malignant potential of the high-grade PIN lesions that form in Nkx3.1(+/-); Pten(+/-) compound mutant mice and demonstrate their neoplastic progression in a serial transplantation/tissue recombination assay. Furthermore, we find that a majority of Nkx3.1(+/-); Pten(+/-) mice greater than 1 year of age develop invasive adenocarcinoma, which is frequently accompanied by metastases to lymph nodes. Finally, we observe androgen independence of high-grade PIN lesions after androgen ablation of Nkx3.1(+/-); Pten(+/-) mice. We conclude that Nkx3.1(+/-); Pten(+/-) mice recapitulate key features of advanced prostate cancer and represent a useful model for investigating associated molecular mechanisms and for evaluating therapeutic approaches.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Adenocarcinoma",
+            "Animals",
+            "Disease Models, Animal",
+            "Homeodomain Proteins",
+            "Humans",
+            "Lymphatic Metastasis",
+            "Male",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Mice, Nude",
+            "Mutation",
+            "Neoplasm Invasiveness",
+            "Neoplasm Transplantation",
+            "Orchiectomy",
+            "PTEN Phosphohydrolase",
+            "Phosphoric Monoester Hydrolases",
+            "Prostatic Neoplasms",
+            "Rats",
+            "Testosterone",
+            "Transcription Factors",
+            "Tumor Suppressor Proteins"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": "Center for Advanced Biotechnology and Medicine, University of Medicine and Dentistry, New Jersey-Robert Wood Johnson Medical School, Piscataway, New Jersey 08854, USA. abate@cabm.rutgers.edu"
+            },
+            {
+                "First Name": "Whitney A",
+                "Last Name": "Banach-Petrosky",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Xiaohui",
+                "Last Name": "Sun",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Kyriakos D",
+                "Last Name": "Economides",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Nishita",
+                "Last Name": "Desai",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jeffery P",
+                "Last Name": "Gregg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Alexander D",
+                "Last Name": "Borowsky",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert D",
+                "Last Name": "Cardiff",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Cancer research",
+        "PubDate": "2003"
+    },
+    {
+        "PMID": "12471260",
+        "Title": "Inhibition of excess nodal signaling during mouse gastrulation by the transcriptional corepressor DRAP1.",
+        "Abstract": "The formation and patterning of mesoderm during mammalian gastrulation require the activity of Nodal, a secreted mesoderm-inducing factor of the transforming growth factor-beta (TGF-beta) family. Here we show that the transcriptional corepressor DRAP1 has a very specific role in regulation of Nodal activity during mouse embryogenesis. We find that loss of Drap1 leads to severe gastrulation defects that are consistent with increased expression of Nodal and can be partially suppressed by Nodal heterozygosity. Biochemical studies indicate that DRAP1 interacts with and inhibits DNA binding by the winged-helix transcription factor FoxH1 (FAST), a critical component of a positive feedback loop for Nodal activity. We propose that DRAP1 limits the spread of a morphogenetic signal by down-modulating the response to the Nodal autoregulatory loop.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Alleles",
+            "Animals",
+            "Cell Line",
+            "Crosses, Genetic",
+            "DNA",
+            "DNA-Binding Proteins",
+            "Embryonic and Fetal Development",
+            "Female",
+            "Forkhead Transcription Factors",
+            "Gastrula",
+            "Gene Expression Regulation, Developmental",
+            "Gene Targeting",
+            "Heterozygote",
+            "In Situ Hybridization",
+            "Left-Right Determination Factors",
+            "Male",
+            "Mesoderm",
+            "Mice",
+            "Morphogenesis",
+            "Mutation",
+            "Nodal Protein",
+            "Phenotype",
+            "Protein Binding",
+            "RNA Interference",
+            "Recombinant Fusion Proteins",
+            "Repressor Proteins",
+            "Reverse Transcriptase Polymerase Chain Reaction",
+            "Signal Transduction",
+            "Transcription Factors",
+            "Transforming Growth Factor beta"
+        ],
+        "Authors": [
+            {
+                "First Name": "Rabah",
+                "Last Name": "Iratni",
+                "Affiliation": "Howard Hughes Medical Institute and Department of Biochemistry, Division of Nucleic Acids Enzymology, University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical School, Piscataway, NJ 08854, USA."
+            },
+            {
+                "First Name": "Yu-Ting",
+                "Last Name": "Yan",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Canhe",
+                "Last Name": "Chen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Jixiang",
+                "Last Name": "Ding",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yi",
+                "Last Name": "Zhang",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Sandy M",
+                "Last Name": "Price",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Danny",
+                "Last Name": "Reinberg",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Science (New York, N.Y.)",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "12052855",
+        "Title": "Dual roles of Cripto as a ligand and coreceptor in the nodal signaling pathway.",
+        "Abstract": "The EGF-CFC gene Cripto encodes an extracellular protein that has been implicated in the signaling pathway for the transforming growth factor beta (TGF beta) ligand Nodal. Although recent findings in frog and fish embryos have suggested that EGF-CFC proteins function as coreceptors for Nodal, studies in cell culture have implicated Cripto as a growth factor-like signaling molecule. Here we reconcile these apparently disparate models of Cripto function by using a mammalian cell culture assay to investigate the signaling activities of Nodal and EGF-CFC proteins. Using a luciferase reporter assay, we found that Cripto has activities consistent with its being a coreceptor for Nodal. However, Cripto can also function as a secreted signaling factor in cell coculture assays, suggesting that it may also act as a coligand for Nodal. Furthermore, we found that the ability of Cripto to bind to Nodal and mediate Nodal signaling requires the addition of an O-linked fucose monosaccharide to a conserved site within EGF-CFC proteins. We propose a model in which Cripto has dual roles as a coreceptor as well as a coligand for Nodal and that this signaling interaction with Nodal is regulated by an unusual form of glycosylation. Our findings highlight the significance of extracellular modulation of ligand activity as an important means of regulating TGF beta signaling pathways during vertebrate development.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Activin Receptors, Type I",
+            "Amino Acid Motifs",
+            "Cells, Cultured",
+            "Cross-Linking Reagents",
+            "Epidermal Growth Factor",
+            "GPI-Linked Proteins",
+            "Glycosylation",
+            "Humans",
+            "Intercellular Signaling Peptides and Proteins",
+            "Luciferases",
+            "Membrane Glycoproteins",
+            "Mutation",
+            "Neoplasm Proteins",
+            "Nodal Protein",
+            "Proteins",
+            "Recombinant Proteins",
+            "Signal Transduction",
+            "Transforming Growth Factor beta"
+        ],
+        "Authors": [
+            {
+                "First Name": "Yu-Ting",
+                "Last Name": "Yan",
+                "Affiliation": "Center for Advanced Biotechnology and Medicine and Department of Pediatric, University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical School, Piscataway, New Jersey 08854, USA."
+            },
+            {
+                "First Name": "Jan-Jan",
+                "Last Name": "Liu",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Yi",
+                "Last Name": "Luo",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Chaosu",
+                "Last Name": "E",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Robert S",
+                "Last Name": "Haltiwanger",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": ""
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Molecular and cellular biology",
+        "PubDate": "2002"
+    },
+    {
+        "PMID": "12047956",
+        "Title": "Mouse models of prostate carcinogenesis.",
+        "Abstract": "In recent years, numerous mouse models have been generated that recapitulate salient features of prostate carcinogenesis in humans. Here we review progress in the generation and validation of mouse models for prostate cancer, discuss current limitations of these models, and highlight directions of future research.",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Disease Models, Animal",
+            "Humans",
+            "Male",
+            "Mice",
+            "Mice, Knockout",
+            "Mice, Transgenic",
+            "Oncogenes",
+            "Prostatic Neoplasms",
+            "Simian virus 40"
+        ],
+        "Authors": [
+            {
+                "First Name": "Cory",
+                "Last Name": "Abate-Shen",
+                "Affiliation": "Center for Advanced Biotechnology and Medicine, Department of Neuroscience, UMDNJ-Robert Wood Johnson Medical School, 679 Hoes Lane, Piscataway, NJ 08854, USA. abate@cabm.rutgers.edu"
+            },
+            {
+                "First Name": "Michael M",
+                "Last Name": "Shen",
+                "Affiliation": ""
+            }
+        ],
+        "Journal": "Trends in genetics : TIG",
+        "PubDate": "2002"
+    }
+]

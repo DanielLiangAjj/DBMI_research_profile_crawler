@@ -1,5 +1,261 @@
 [
     {
+        "PMID": "39174791",
+        "Title": "Rare host variants in ciliary expressed genes contribute to COVID-19 severity in Bulgarian patients.",
+        "Abstract": "Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) causes coronavirus disease 2019 (COVID-19), a pneumonia with extremely heterogeneous clinical presentation, ranging from asymptomatic to severely ill patients. Previous studies have reported links between the presence of host genetic variants and the outcome of the COVID-19 infection. In our study, we used whole exome sequencing in a cohort of 444 SARS-CoV-2 patients, admitted to hospital in the period October-2020-April-2022, to search for associations between rare pathogenic/potentially pathogenic variants and COVID-19 progression. We used gene prioritization-based analysis in genes that have been reported by host genetic studies. Although we did not identify correlation between the presence of rare pathogenic variants and COVID-19 outcome, in critically ill patients we detected known mutations in a number of genes associated with severe disease related to cardiovascular disease, primary ciliary dyskinesia, cystic fibrosis, DNA damage repair response, coagulation, primary immune disorder, hemoglobin subunit \u03b2, and others. Additionally, we report 93 novel pathogenic variants found in severely infected patients who required intubation or died. A network analysis showed main component, consisting of 13 highly interconnected genes related to epithelial cilium. In conclusion, we have detected rare pathogenic host variants that may have influenced the COVID-19 outcome in Bulgarian patients.",
+        "Keywords": [
+            "COVID-19 severity and outcome",
+            "Cilia dysfunction",
+            "Host genetic variants",
+            "Rare protein-coding variants",
+            "SARS-CoV-2",
+            "WES"
+        ],
+        "MeSH terms": [
+            "Humans",
+            "COVID-19",
+            "Bulgaria",
+            "Female",
+            "Male",
+            "SARS-CoV-2",
+            "Middle Aged",
+            "Exome Sequencing",
+            "Severity of Illness Index",
+            "Aged",
+            "Adult",
+            "Mutation",
+            "Cilia"
+        ],
+        "Authors": [
+            {
+                "First Name": "Kunka",
+                "Last Name": "Kamenarova",
+                "Affiliation": "Molecular Medicine Center, Department of Medical Chemistry and Biochemistry, Medical Faculty, Medical University - Sofia, Sofia, Bulgaria. kkamenarova@mmcbg.org."
+            },
+            {
+                "First Name": "Darina",
+                "Last Name": "Kachakova-Yordanova",
+                "Affiliation": "Molecular Medicine Center, Department of Medical Chemistry and Biochemistry, Medical Faculty, Medical University - Sofia, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Magdalena",
+                "Last Name": "Baymakova",
+                "Affiliation": "Department of Infectious Diseases, Military Medical Academy, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Martin",
+                "Last Name": "Georgiev",
+                "Affiliation": "Molecular Medicine Center, Department of Medical Chemistry and Biochemistry, Medical Faculty, Medical University - Sofia, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Kalina",
+                "Last Name": "Mihova",
+                "Affiliation": "Molecular Medicine Center, Department of Medical Chemistry and Biochemistry, Medical Faculty, Medical University - Sofia, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Veronika",
+                "Last Name": "Petkova",
+                "Affiliation": "Molecular Medicine Center, Department of Medical Chemistry and Biochemistry, Medical Faculty, Medical University - Sofia, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Olga",
+                "Last Name": "Beltcheva",
+                "Affiliation": "Molecular Medicine Center, Department of Medical Chemistry and Biochemistry, Medical Faculty, Medical University - Sofia, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Radka",
+                "Last Name": "Argirova",
+                "Affiliation": "Acibadem City Clinic, University Multidisciplinary Hospital for Active Treatment \"Tokuda\", Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Petar",
+                "Last Name": "Atanasov",
+                "Affiliation": "University Multidisciplinary Hospital for Active Treatment and Emergency Medicine \"N.I. Pirogov\", Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Metodi",
+                "Last Name": "Kunchev",
+                "Affiliation": "Department of Virology, Military Medical Academy, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Radina",
+                "Last Name": "Andonova",
+                "Affiliation": "Department of Infectious Diseases, Military Medical Academy, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Anelia",
+                "Last Name": "Zasheva",
+                "Affiliation": "Department of Infectious Diseases, Military Medical Academy, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Rumiana",
+                "Last Name": "Drenska",
+                "Affiliation": "University Multidisciplinary Hospital for Active Treatment and Emergency Medicine \"N.I. Pirogov\", Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Ivaylo",
+                "Last Name": "Ivanov",
+                "Affiliation": "University Multidisciplinary Hospital for Active Treatment and Emergency Medicine \"N.I. Pirogov\", Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Diana",
+                "Last Name": "Pantileeva",
+                "Affiliation": "University Multidisciplinary Hospital for Active Treatment and Emergency Medicine \"N.I. Pirogov\", Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Vesselina",
+                "Last Name": "Koleva",
+                "Affiliation": "Acibadem City Clinic, University Multidisciplinary Hospital for Active Treatment \"Tokuda\", Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Anton",
+                "Last Name": "Penev",
+                "Affiliation": "Acibadem City Clinic, University Multidisciplinary Hospital for Active Treatment \"Tokuda\", Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Diana",
+                "Last Name": "Lekova-Nikova",
+                "Affiliation": "Acibadem City Clinic, University Multidisciplinary Hospital for Active Treatment \"Tokuda\", Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Delyan",
+                "Last Name": "Georgiev",
+                "Affiliation": "Molecular Medicine Center, Department of Medical Chemistry and Biochemistry, Medical Faculty, Medical University - Sofia, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Daniela",
+                "Last Name": "Pencheva",
+                "Affiliation": "Molecular Medicine Center, Department of Medical Chemistry and Biochemistry, Medical Faculty, Medical University - Sofia, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Radosveta",
+                "Last Name": "Bozhilova",
+                "Affiliation": "Molecular Medicine Center, Department of Medical Chemistry and Biochemistry, Medical Faculty, Medical University - Sofia, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Nevyana",
+                "Last Name": "Ivanova",
+                "Affiliation": "Molecular Medicine Center, Department of Medical Chemistry and Biochemistry, Medical Faculty, Medical University - Sofia, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Ivanka",
+                "Last Name": "Dimova",
+                "Affiliation": "Laboratory of Genomic Diagnostics, Department of Medical Chemistry and Biochemistry, Medical Faculty, Medical University - Sofia, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Kamen",
+                "Last Name": "Plochev",
+                "Affiliation": "Department of Infectious Diseases, Military Medical Academy, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Georgi",
+                "Last Name": "Popov",
+                "Affiliation": "Department of Infectious Diseases, Military Medical Academy, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Ivan",
+                "Last Name": "Popivanov",
+                "Affiliation": "Department of Military Medicine, Military Medical Academy, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Nikolay",
+                "Last Name": "Gabrovsky",
+                "Affiliation": "University Multidisciplinary Hospital for Active Treatment and Emergency Medicine \"N.I. Pirogov\", Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Magdalena",
+                "Last Name": "Leseva",
+                "Affiliation": "University Multidisciplinary Hospital for Active Treatment and Emergency Medicine \"N.I. Pirogov\", Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Vanio",
+                "Last Name": "Mitev",
+                "Affiliation": "Molecular Medicine Center, Department of Medical Chemistry and Biochemistry, Medical Faculty, Medical University - Sofia, Sofia, Bulgaria."
+            },
+            {
+                "First Name": "Radka",
+                "Last Name": "Kaneva",
+                "Affiliation": "Molecular Medicine Center, Department of Medical Chemistry and Biochemistry, Medical Faculty, Medical University - Sofia, Sofia, Bulgaria."
+            }
+        ],
+        "Journal": "Scientific reports",
+        "PubDate": "2024"
+    },
+    {
+        "PMID": "39151019",
+        "Title": "Context-dependent role of group 3 innate lymphoid cells in mucosal protection.",
+        "Abstract": "How group 3 innate lymphoid cells (ILC3s) regulate mucosal protection in the presence of T cells remains poorly understood. Here, we examined ILC3 function in intestinal immunity using ILC3-deficient mice that maintain endogenous T cells, T helper 17 (T",
+        "Keywords": [],
+        "MeSH terms": [
+            "Animals",
+            "Immunity, Innate",
+            "Mice",
+            "Lymphocytes",
+            "Citrobacter rodentium",
+            "Enterobacteriaceae Infections",
+            "Mice, Inbred C57BL",
+            "Intestinal Mucosa",
+            "Mice, Knockout",
+            "Interleukin-22",
+            "Immunity, Mucosal",
+            "Th17 Cells"
+        ],
+        "Authors": [
+            {
+                "First Name": "Leandro P",
+                "Last Name": "Araujo",
+                "Affiliation": "Department of Microbiology and Immunology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Madeline",
+                "Last Name": "Edwards",
+                "Affiliation": "Department of Microbiology and Immunology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Koichiro",
+                "Last Name": "Irie",
+                "Affiliation": "Department of Microbiology and Immunology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yiming",
+                "Last Name": "Huang",
+                "Affiliation": "Integrated Program in Cellular, Molecular, and Biomedical Studies, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Yoshinaga",
+                "Last Name": "Kawano",
+                "Affiliation": "Department of Microbiology and Immunology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Alexander",
+                "Last Name": "Tran",
+                "Affiliation": "Department of Microbiology and Immunology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Simona",
+                "Last Name": "De Michele",
+                "Affiliation": "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Govind",
+                "Last Name": "Bhagat",
+                "Affiliation": "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Harris H",
+                "Last Name": "Wang",
+                "Affiliation": "Department of Systems Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            },
+            {
+                "First Name": "Ivaylo I",
+                "Last Name": "Ivanov",
+                "Affiliation": "Department of Microbiology and Immunology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+            }
+        ],
+        "Journal": "Science immunology",
+        "PubDate": "2024"
+    },
+    {
         "PMID": "39026837",
         "Title": "eIF1 and eIF5 dynamically control translation start site fidelity.",
         "Abstract": "Translation initiation defines the identity of a synthesized protein through selection of a translation start site on a messenger RNA. This process is essential to well-controlled protein synthesis, modulated by stress responses, and dysregulated in many human diseases. The eukaryotic initiation factors eIF1 and eIF5 interact with the initiator methionyl-tRNA",
